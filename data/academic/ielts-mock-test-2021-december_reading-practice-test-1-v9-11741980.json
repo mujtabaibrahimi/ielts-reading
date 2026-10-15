@@ -1,0 +1,331 @@
+{
+  "id": "ielts-mock-test-2021-december_reading-practice-test-1-v9-11741980",
+  "type": "academic",
+  "source": "ielts-mock-test-2021-december reading-practice-test-1-v9-11741980",
+  "filename": "ielts-mock-test-2021-december_reading-practice-test-1-v9-11741980.pdf",
+  "total_questions": 8,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Synaesthesia",
+      "questionRange": [
+        1,
+        14
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below.\nSynaesthesia\nA\nImagine a page with a square box in the middle. The box is lined with rows of\nthe number 5, repeated over and over. All of the 5s are identical in size, font\nand colour, and equally distributed across the box. There is, however, a trick:\namong those 5s, hiding in plain sight is a single, capital letter S. Almost the\nsame in shape, it is impossible to spot without straining your eyes for a good\nfew minutes. Unless that is, you are a grapheme – colour synaesthete – a\nperson who sees each letter and number in diﬀerent colours. With all the 5s\npainted in one colour and the rogue S painted in another, a grapheme – colour\nsynaesthete will usually only need a split second to identify the latter.\nB\nSynaesthesia, loosely translated as “senses coming together” from the Greek\nwords syn (“with”) and aesthesis (“sensation”), is an interesting neurological\nphenomenon that causes diﬀerent senses to be combined. This might mean\nthat words have a particular taste (for example, the word “door” might taste\nlike bacon), or that certain smells produce a particular colour. It might also\nmean that each letter and number has its own personality-the letter A might be\nperky, the letter B might be shy and self-conscious, etc. Some synaesthetes\nmight even experience other people’s sensations, for example feeling pain in\ntheir chest when they witness a film character gets shot. The possibilities are\nendless: even though synaesthesia is believed to aﬀect less than 5% of the\ngeneral population, at least 60 diﬀerent combinations of senses have been\nreported so far. What all these sensory associations have in common is that\nthey are all involuntary and impossible to repress and that they usually remain\n\nquite stable over time.\nC\nSynaesthesia was first documented in the early 19th century by German\nphysician Georg Sachs, who dedicated two pages of his dissertation on his own\nexperience with the condition. It wasn’t, however, until the mid-1990s that\nempirical research proved its existence when Professor Simon Baron-Cohen\nand his colleagues used fMRls on six synaesthetes and discovered that the\nparts of the brain associated with vision were active during auditory\nstimulation, even though the subjects were blindfolded.\nD\nWhat makes synaesthesia a particularly interesting condition is that it isn’t an\nillness at all. If anything, synaesthetes often report feeling sorry for the rest of\nthe population, as they don’t have the opportunity to experience the world in a\nmultisensory fashion like they do. Very few drawbacks have been described,\nusually minimal: for instance, some words might have an unpleasant taste\n(imagine the word “hello” tasting like spoilt milk), while some synaesthetes find\nit distressing when they encounter people with names which don’t reflect their\npersonality (imagine meeting a very interesting person named “Lee”, when the\nletter E has a dull or hideous colour for you-or vice versa). Overall, however,\nsynaesthesia is widely considered more of a blessing than a curse and it is\noften linked to intelligence and creativity, with celebrities such as Lady Gaga\nand Pharrell Williams claiming to have it.\nE\nAnother fascinating side of synaesthesia is the way it could potentially benefit\nfuture generations. In a 2013 study, Dr Witthof and Dr Winawer discovered that\ngrapheme-colour synaesthetes who had never met each other before\nexperienced strikingly similar pairings between graphemes and colours-\npairings which were later traced back to a popular set of Fischer-Price magnets\nthat ten out of eleven participants distinctly remembered possessing as\nchildren. This was particularly peculiar as synaesthesia is predominantly\nconsidered to be a hereditary condition, and the findings suggested that a\nsynaesthete’s environment might play a determining role in establishing\nsynaesthetic associations. If that was true, researchers asked, then might it not\nbe possible that synaesthesia can actually be taught?\nF\nAs it turns out, the benefits of teaching synaesthesia would be tremendous.\nAccording to research conducted by Dr Clare Jonas at the University of East\n\nLondon, teaching people to create grapheme-colour associations the same way\nas a synaesthete may have the possibility to improve cognitive function and\nmemory. As she put it, ‘one possibility is guarding against cognitive decline in\nolder people-using synaesthesia in the creation of mnemonics to remember\nthings such as shopping lists.’ To that end, researchers in the Netherlands have\nalready begun developing a web browser plug-in that will change the colours of\ncertain letters. Rothen and his colleagues corroborate the theory: in a paper\npublished in 2011, they suggest that synaesthesia might be more than a\nhereditary condition, as the non-synaesthetic subjects of their study were able\nto mimic synaesthetic associations long after leaving the lab.\nG\nThere is obviously still a long way to go before we can fully understand\nsynaesthesia and what causes it. Once we do, however, it might not be too\nlong before we find out how to teach non-synaesthetes how to imitate its\nsymptoms in a way that induces the same benefits 4.4% of the world’s\npopulation currently enjoy.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "Imagine a page with a square box in the middle. The box is lined with rows of"
+          },
+          {
+            "label": "B",
+            "content": "Synaesthesia, loosely translated as “senses coming together” from the Greek"
+          },
+          {
+            "label": "C",
+            "content": "Synaesthesia was first documented in the early 19th century by German"
+          },
+          {
+            "label": "D",
+            "content": "What makes synaesthesia a particularly interesting condition is that it isn’t an"
+          },
+          {
+            "label": "E",
+            "content": "Another fascinating side of synaesthesia is the way it could potentially benefit"
+          },
+          {
+            "label": "F",
+            "content": "As it turns out, the benefits of teaching synaesthesia would be tremendous."
+          },
+          {
+            "label": "G",
+            "content": "There is obviously still a long way to go before we can fully understand"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "prompt": "There are 60 different types of synaesthesia.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "prompt": "Before Professor Simon Baron-Cohen’s research, synaesthesia was thought to be a myth.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "prompt": "A lot of celebrities are aﬀected by synaesthesia.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "prompt": "Most scientists believe that synaesthesia runs in families. Complete the summary. Choose ONE WORD ONLY from the passage for each answer.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "LOCKED DOORS, OPEN ACCESS",
+      "questionRange": [
+        15,
+        27
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27, which are based on\nReading Passage 2 below.\nLOCKED DOORS, OPEN ACCESS\nThe word, ‘security’, has both positive and negative connotations. Most of us\nwould say that we crave security for all its positive virtues, both physical and\npsychological – its evocation of the safety of home, of undying love, or of\nfreedom from need. More negatively, the word nowadays conjures up images\nof that huge industry which has developed to protect individuals and property\nfrom invasion by outsiders’, ostensibly malicious and intent on theft or wilful\ndamage.\nIncreasingly, because they are situated in urban areas of escalating crime,\nthose buildings which used to allow free access to employees and other users\n(buildings such as offices, schools, colleges or hospitals) now do not. Entry\nareas which in another age were called ‘Reception’ are now manned by\nsecurity staff. Receptionists, whose task it was to receive visitors and to make\nthem welcome before passing them on to the person they had come to see,\nhave been replaced by those whose task it is to bar entry to the unauthorized,\nthe unwanted or the plain unappealing.\nInside, these buildings are divided into ‘secure zones’ which often have all the\ntrappings of combination locks and burglar alarms. These devices bar entry to\nthe uninitiated, hinder circulation, and create parameters of time and space for\nuser access. Within the spaces created by these zones, individual rooms are\nthemselves under lock and key, which is a particular problem when it means\nthat working space becomes compartmentalized.\nTo combat the consequent difficulty of access to people at a physical level, we\nhave now developed technological access. Computers sit on every desk and\nare linked to one another, and in many cases to an external universe of other\n\ncomputers, so that messages can be passed to and fro. Here too security plays\na part, since we must not be allowed access to messages destined for others.\nAnd so the password was invented. Now correspondence between individuals\ngoes from desk to desk and cannot be accessed by colleagues. Library\ncatalogues can be searched from one’s desk. Papers can be delivered to, and\nreceived from, other people at the press of a button.\nAnd yet it seems that, just as work is isolating individuals more and more,\norganizations are recognizing the advantages of team-work’; perhaps in order\nto encourage employees to talk to one another again. Yet, how can groups\nwork in teams if the possibilities for communication are reduced? How can they\nwork together if e-mail provides a convenient electronic shield behind which\nthe blurring of public and private can be exploited by the less scrupulous? If\nvoice-mail walls up messages behind a password? If I can’t leave a message on\nmy colleague’s desk because his office is locked?\nTeam-work conceals the fact that another kind of security, ‘job security’, is\nalmost always not on offer. Just as organizations now recognize three kinds of\nphysical resources: those they buy, those they lease long-term and those they\nrent short-term – so it is with their human resources. Some employees have\npermanent contracts, some have short-term contracts, and some are regarded\nsimply as casual labour.\nTelecommunication systems offer us the direct line, which means that\nindividuals can be contacted without the caller having to talk to anyone else.\nVoice-mail and the answer-phone mean that individuals can communicate\nwithout ever actually talking to one another. If we are unfortunate enough to\ncontact organizations with sophisticated touch-tone systems, we can buy\nthings and pay for them without ever speaking to a human being.\nTo combat this closing in on ourselves we have the Internet, which opens out\ncommunication channels more widely than anyone could possibly want or\nneed. An individual’s electronic presence on the Internet is known as a Home\nPage’ – suggesting the safety and security of an electronic hearth. An elaborate\nsystem of 3-dimensional graphics distinguishes this very 2-dimensional\nmedium of ‘web sites’. The nomenclature itself creates the illusion of a\ngeographical entity, that the person sitting before the computer is travelling,\nwhen in fact the site’ is coming to him. ‘Addresses’ of one kind or another\nmove to the individual, rather than the individual moving between them, now\nthat location is no longer geographical.\nAn example of this is the mobile phone. I am now not available either at home\nor at work, but wherever I take my mobile phone. Yet, even now, we cannot\n\nescape the security of wanting to locate’ the person at the other end. It is no\ncoincidence that almost everyone we see answering or initiating a mobile\nphone-call in public begins by saying where he or she is.",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 15,
+          "type": "multiple-choice",
+          "prompt": "According to the author, one thing we long for is",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 15-18 on your answer sheet.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 16,
+          "type": "multiple-choice",
+          "prompt": "Access to many buildings",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 15-18 on your answer sheet.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 17,
+          "type": "multiple-choice",
+          "prompt": "Buildings used to permit access to any users",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 15-18 on your answer sheet.",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 18,
+          "type": "multiple-choice",
+          "prompt": "Secure zones",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 15-18 on your answer sheet.",
+          "answer": "D",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Questions 19-24",
+      "questionRange": [
+        19,
+        24
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Questions 19-24\nQuestions 25-27\nComplete the summary below using words from the box.\nWrite your answers in boxes 19-24 on your answer sheet.\nThe problem of physical access to buildings has now been 19\n by\ntechnology. Messages are sent between 20\n with passwords not allowing \n21\n to read someone else’s messages. But, while individuals are\nbecoming increasingly 22\n socially by the way they do their job, at the\nsame time more value is being put on 23\n . However, e-mail and voice-\nmail have led to a 24\n opportunities for person-to-person communication.\nreducing of\ndecrease in\nteam-work\nsimilar\nno different from\nsolved\novercame\nphysical\ncomputer\ncomputers\ncombat\ndeveloped\nother people\ncut-off\nisolating\nComplete the sentences below with words taken from Reading Passage 2.\nUse NO MORE THAN THREE WORDS for each answer.\nWrite your answers in boxes 25-27 on your answer sheet.\nThe writer does not like 25\nAn individual’s Home Page indicates their 26\n on the Internet.\nDevices like mobile phones mean that location is 27",
+        "tables": [
+          {
+            "page": 9,
+            "rows": [
+              [
+                "reducing of",
+                "decrease in",
+                "team-work",
+                "similar"
+              ],
+              [
+                "no different from",
+                "solved",
+                "overcame",
+                "physical"
+              ],
+              [
+                "computer",
+                "computers",
+                "combat",
+                "developed"
+              ],
+              [
+                "other people",
+                "cut-off",
+                "isolating",
+                ""
+              ]
+            ],
+            "header": [
+              "reducing of",
+              "decrease in",
+              "team-work",
+              "similar"
+            ]
+          }
+        ],
+        "images": [],
+        "sections": []
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "A leap into history",
+      "questionRange": [
+        28,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 3 below.\nA leap into history\nA. Between the Inishowen peninsula, north west of Derry, and the Glens of\nAntrim, in the east beyond the Sperrin Mountains, is found some of Western\nEurope’s most captivating and alluring landscape.\nB. The Roe Valley Park, some 15 miles east of Derry is a prime example. The\nPark, like so many Celtic places, is steeped in history and legend. As the Roc\ntrickles down through heather bogs in the Sperrin Mountains to the South, it is\na river by the time it cuts through what was once called the ‘garden of the soul’\n– in Celtic ‘Gortenanima’.\nC. The castle of O’Cahan once stood here and a number of houses which made\nup the town of Limavady. The town takes its name from the legend of a dog\nleaping into the river Roe carrying a message, or perhaps chasing a stag. This\nis a wonderful place, where the water traces its way through rock and\nwoodland; at times, lingering in brooding pools of dark cool water under the\nshade of summer trees, and, at others, forming weirs and leads for water mills\nnow long gone.\nD. The Roe, like all rivers, is witness to history and change. To Mullagh Hill, on\nthe west bank of the River Roe just outside the present day town of Limavady,\nSt Columba came in 575 AD for the Convention of Drumceatt. The world is\nprobably unaware that it knows something of Limavady; but the town is, in\nfact, renowned for Jane Ross’s song Danny Roy, written to a tune once played\nby a tramp in the street. Limavady tow n itself and many of the surrounding\nvillages have Celtic roots but no one knows for sure just how old the original\nsettlement of Limavady is.\n\nE. Some 30 miles along the coast road from Limavady, one comes upon the\nforlorn, but imposing ruin of Dunluce Castle, which stands on a soft basalt\noutcrop, in defiance of the turbulent Atlantic lashing it on all sides. The\njagged​-toothed ruins sit proud on their rock top commanding the coastline to\neast and west. The only connection to the mainland is by a narrow bridge. Until\nthe kitchen court fell into the sea in 1639 killing several servants, the castle\nwas fully inhabited. In the next hundred years or so, the structure gradually fell\ninto its present dramatic state of disrepair, stripped of its roofs by wind and\nweather and robbed by man of its caned stonework. Ruined and forlorn its\naspect may​be yet, in the haunting Celtic twilight of the long summer evenings,\nit is redolent of another age, another dream.\nF. A mile or so to the east of the castle lies Port na Spaniagh, where the\nNeapolitan Galleas, Girona, from the Spanish Armada went down one dark\nOctober night in 1588 on its way to Scotland, of the 1500-odd men on board,\nnine survived.\nG. Even further to the east, is the Giant’s Causeway stunning coastline with\nstrangely symmetrical columns of dark basalt – a beautiful geological wonder.\nSomeone once said of the Causeway that it was worth seeing, but not worth\ngoing to see. That was in thê days of horses and carriages, when travelling was\ndifficult. But it is certainly well worth a visit. The last lingering moments of the\ntwilight hours are the best lime to savour the full power of the coastline s\nmagic; the time when the place comes into its own. The tourists are gone and if\nyou are very lucky you will be alone. A fine circular walk will take you down to\nthe Grand Causeway, past amphitheatres of stone columns and formations. It is\nnot frightening, but there is a power in the place – tangible, yet inexplicable.\nThe blackness of some nights conjure up feelings of eeriness and unease. The\nvisitor realises his place in the scheme of the magnificent spectacle. Once\nexperienced, it is impossible to forget the grandeur of the landscape.\nH. Beyond the Causeway, connecting the mainland with an outcrop of rock\njutting out of the turbulent Atlantic, is the Carrick-a-Rede Rope Bridge, when\nfirst constructed, the bridge was a simple rope handrail with widely spaced\nslats which was used mainly by salmon fishermen needing to travel from the\nisland to the mainland. In time, the single handrail was replaced with a more\nsturdy caged bridge, however, it is still not a crossing for the faint- hearted.\nThe Bridge swings above a chasm of rushing, foaming water that seems to\ndrag the unwary- down, and away. Many visitors who make the walk one way\nare unable to return resulting in them being taken off the island by boat.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "leap into history"
+          },
+          {
+            "label": "A",
+            "content": "Between the Inishowen peninsula, north west of Derry, and the Glens of"
+          },
+          {
+            "label": "B",
+            "content": "The Roe Valley Park, some 15 miles east of Derry is a prime example. The"
+          },
+          {
+            "label": "C",
+            "content": "The castle of O’Cahan once stood here and a number of houses which made"
+          },
+          {
+            "label": "D",
+            "content": "The Roe, like all rivers, is witness to history and change. To Mullagh Hill, on"
+          },
+          {
+            "label": "E",
+            "content": "Some 30 miles along the coast road from Limavady, one comes upon the"
+          },
+          {
+            "label": "F",
+            "content": "A mile or so to the east of the castle lies Port na Spaniagh, where the"
+          },
+          {
+            "label": "G",
+            "content": "Even further to the east, is the Giant’s Causeway stunning coastline with"
+          }
+        ]
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "Questions 33-38",
+      "questionRange": [
+        33,
+        38
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Questions 33-38\nLooking at the following list of places (Questions 28–32) from the\nparagraphs A-E of reading passage 3 and their locations on the map.\nMatch each place with its location on the map\nWrite your answers m boxes 28-32 on your answer sheet.\n28\n The Sperrin Mountains\n29\n Dunluce Castle\n30\n Inishowen\n31\n The Glens of Antrim\n32\n Limavady\nDo the following statements reflect the claims of the writer in Reading",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": []
+    }
+  ],
+  "answers": {
+    "1": "D",
+    "2": "F",
+    "3": "G",
+    "4": "A",
+    "5": "C",
+    "6": "B",
+    "7": "E",
+    "8": "FALSE",
+    "9": "NOT GIVEN",
+    "10": "NOT GIVEN",
+    "11": "TRUE",
+    "12": "memory",
+    "13": "function",
+    "14": "teach",
+    "15": "B",
+    "16": "B",
+    "17": "A",
+    "18": "D",
+    "19": "solved",
+    "20": "computers",
+    "21": "other people",
+    "22": "cut-off",
+    "23": "team-work",
+    "24": "decrease in",
+    "25": "touch-tone systems",
+    "26": "electronic presence",
+    "27": "no longer geographical",
+    "28": "E",
+    "29": "C",
+    "30": "A",
+    "31": "D",
+    "32": "B",
+    "33": "NOT GIVEN",
+    "34": "YES",
+    "35": "YES",
+    "36": "YES",
+    "37": "YES",
+    "38": "NOT GIVEN",
+    "39": "A",
+    "40": "D"
+  }
+}

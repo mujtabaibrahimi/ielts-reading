@@ -1,0 +1,244 @@
+{
+  "id": "ielts-mock-test-2024-january_reading-practice-test-4-v9-18903890",
+  "type": "academic",
+  "source": "ielts-mock-test-2024-january reading-practice-test-4-v9-18903890",
+  "filename": "ielts-mock-test-2024-january_reading-practice-test-4-v9-18903890.pdf",
+  "total_questions": 6,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Synaesthesia",
+      "questionRange": [
+        1,
+        14
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below.\nSynaesthesia\nA \nImagine a page with a square box in the middle. The box is lined with rows of\nthe number 5, repeated over and over. All of the 5s are identical in size, font\nand colour, and equally distributed across the box. There is, however, a trick:\namong those 5s, hiding in plain sight is a single, capital letter S. Almost the\nsame in shape, it is impossible to spot without straining your eyes for a good\nfew minutes. Unless that is, you are a grapheme – colour synaesthete – a\nperson who sees each letter and number in diﬀerent colours. With all the 5s\npainted in one colour and the rogue S painted in another, a grapheme – colour\nsynaesthete will usually only need a split second to identify the latter.\nB\nSynaesthesia, loosely translated as “senses coming together” from the Greek\nwords syn (“with”) and aesthesis (“sensation”), is an interesting neurological\nphenomenon that causes diﬀerent senses to be combined. This might mean\nthat words have a particular taste (for example, the word “door” might taste\nlike bacon), or that certain smells produce a particular colour. It might also\nmean that each letter and number has its own personality-the letter A might be\nperky, the letter B might be shy and self-conscious, etc. Some synaesthetes\nmight even experience other people’s sensations, for example feeling pain in\ntheir chest when they witness a film character gets shot. The possibilities are\nendless: even though synaesthesia is believed to aﬀect less than 5% of the\ngeneral population, at least 60 diﬀerent combinations of senses have been\nreported so far. What all these sensory associations have in common is that\nthey are all involuntary and impossible to repress and that they usually remain\n\nquite stable over time.\nC\nSynaesthesia was first documented in the early 19th century by German\nphysician Georg Sachs, who dedicated two pages of his dissertation on his own\nexperience with the condition. It wasn’t, however, until the mid-1990s that\nempirical research proved its existence when Professor Simon Baron-Cohen\nand his colleagues used fMRls on six synaesthetes and discovered that the\nparts of the brain associated with vision were active during auditory\nstimulation, even though the subjects were blindfolded.\nD\nWhat makes synaesthesia a particularly interesting condition is that it isn’t an\nillness at all. If anything, synaesthetes often report feeling sorry for the rest of\nthe population, as they don’t have the opportunity to experience the world in a\nmultisensory fashion like they do. Very few drawbacks have been described,\nusually minimal: for instance, some words might have an unpleasant taste\n(imagine the word “hello” tasting like spoilt milk), while some synaesthetes find\nit distressing when they encounter people with names which don’t reflect their\npersonality (imagine meeting a very interesting person named “Lee”, when the\nletter E has a dull or hideous colour for you-or vice versa). Overall, however,\nsynaesthesia is widely considered more of a blessing than a curse and it is\noften linked to intelligence and creativity, with celebrities such as Lady Gaga\nand Pharrell Williams claiming to have it.\nE\nAnother fascinating side of synaesthesia is the way it could potentially benefit\nfuture generations. In a 2013 study, Dr Witthof and Dr Winawer discovered that\ngrapheme-colour synaesthetes who had never met each other before\nexperienced strikingly similar pairings between graphemes and colours-\npairings which were later traced back to a popular set of Fischer-Price magnets\nthat ten out of eleven participants distinctly remembered possessing as\nchildren. This was particularly peculiar as synaesthesia is predominantly\nconsidered to be a hereditary condition, and the findings suggested that a\nsynaesthete’s environment might play a determining role in establishing\nsynaesthetic associations. If that was true, researchers asked, then might it not\nbe possible that synaesthesia can actually be taught?\nF\nAs it turns out, the benefits of teaching synaesthesia would be tremendous.\nAccording to research conducted by Dr Clare Jonas at the University of East\n\nLondon, teaching people to create grapheme-colour associations the same way\nas a synaesthete may have the possibility to improve cognitive function and\nmemory. As she put it, ‘one possibility is guarding against cognitive decline in\nolder people-using synaesthesia in the creation of mnemonics to remember\nthings such as shopping lists.’ To that end, researchers in the Netherlands have\nalready begun developing a web browser plug-in that will change the colours of\ncertain letters. Rothen and his colleagues corroborate the theory: in a paper\npublished in 2011, they suggest that synaesthesia might be more than a\nhereditary condition, as the non-synaesthetic subjects of their study were able\nto mimic synaesthetic associations long after leaving the lab.\nG\nThere is obviously still a long way to go before we can fully understand\nsynaesthesia and what causes it. Once we do, however, it might not be too\nlong before we find out how to teach non-synaesthetes how to imitate its\nsymptoms in a way that induces the same benefits 4.4% of the world’s\npopulation currently enjoy.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "Imagine a page with a square box in the middle. The box is lined with rows of"
+          },
+          {
+            "label": "B",
+            "content": "Synaesthesia, loosely translated as “senses coming together” from the Greek"
+          },
+          {
+            "label": "C",
+            "content": "Synaesthesia was first documented in the early 19th century by German"
+          },
+          {
+            "label": "D",
+            "content": "What makes synaesthesia a particularly interesting condition is that it isn’t an"
+          },
+          {
+            "label": "E",
+            "content": "Another fascinating side of synaesthesia is the way it could potentially benefit"
+          },
+          {
+            "label": "F",
+            "content": "As it turns out, the benefits of teaching synaesthesia would be tremendous."
+          },
+          {
+            "label": "G",
+            "content": "There is obviously still a long way to go before we can fully understand"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "prompt": "There are 60 different types of synaesthesia.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "prompt": "Before Professor Simon Baron-Cohen’s research, synaesthesia was thought to be a myth.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "prompt": "A lot of celebrities are aﬀected by synaesthesia.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "prompt": "Most scientists believe that synaesthesia runs in families. Complete the summary. Choose ONE WORD ONLY from the passage for each answer.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet. 1 some of the disadvantages related to synaesthesia 2 what scientists think about synaesthesia’s real-life usefulness 3 a prediction for the future of synaesthesia 4 an example of how grapheme-colour synaesthesia works 5 a brief history of synaesthesia 6 some of the various different types of synaesthesia 7 information about a study that suggests synaesthetic symptoms aren’t arbitrary Do the following statements agree with the information given in Reading In boxes 8-11 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Coffee then and now (History of coffee)",
+      "questionRange": [
+        15,
+        27
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27, which are based on\nReading Passage 1 below.\nCoffee then and now (History of coffee)\nA\nCoffee was first discovered in Eastern Africa in an area we know today as\nEthiopia. A popular legend refers to a goat herder by the name of Kaldi, who\nobserved his goats acting unusually friskily after eating berries from a bush.\nCurious about this phenomenon, Kaldi tried eating the berries himself. He\nfound that these berries gave him renewed energy.\nB\nThe news of this energy laden fruit quickly moved throughout the region.\nCoffee berries were transported from Ethiopia to the Arabian Peninsula, and\nwere first cultivated in what today is the country of Yemen. Coffee remained a\nsecret in Arabia before spreading to Turkey and then to the European continent\nby means of Venetian trade merchants.\nC\nCoffee was first eaten as a food though later people in Arabia would make a\ndrink out of boiling the beans for its narcotic effects and medicinal value.\nCoffee for a time was known as Arabian wine to Muslims who were banned\nfrom alcohol by Islam. It was not until after coffee had been eaten as a food\nproduct, a wine and a medicine that it was discovered, probably by complete\naccident in Turkey, that by roasting the beans a delicious drink could be made.\nThe roasted beans were first crushed and then boiled in water, creating a crude\nversion of the beverage we enjoy today. The first coffee houses were opened in\nEurope in the 17th Century and in 1675, the Viennese established the habit of\nrefining the brew by filtering out the grounds, sweetening it, and adding a dash\n\nof milk.\nD\nIf you were to explore the planet for coffee, you would find about 60 species of\ncoffee plants growing wild in Africa, Malaysia, and other regions. But only about\nten of them are actually cultivated. Of these ten, two species are responsible\nfor almost all the coffee produced in the world: Coffea Arabica and Coffea\nCanephora (usually known as Robusta). Because of ecological differences\nexisting among the various coffee producing countries, both types have\nundergone many mutations and now exist in many sub-species.\nE\nAlthough wild plants can reach 10 - 12 metres in height, the plantation one\nreaches a height of around four metres. This makes the harvest and flowering\neasier, and cultivation more economical. The flowers are white and sweet-\nscented like the Spanish jasmine. Flowers give way to a red, darkish berry. At\nfirst sight, the fruit is like a big cherry both in size and in colour. The berry is\ncoated with a thin, red film (epicarp) containing a white, sugary mucilaginous\nflesh (mesocarp). Inside the pulp there are the seeds in the form of two beans\ncoupled at their flat surface. Beans are in turn coated with a kind of resistant,\ngolden yellow parchment, (called endocarp). When peeled, the real bean\nappears with another very thin silvery film. The bean is bluish green verging on\nbronze, and is at the most 11 millimetres long and 8 millimetres wide.\nF\nCoffee plants need special conditions to give a satisfactory crop. The climate\nneeds to be hot-wet or hot temperate, between the Tropic of Cancer and the\nTropic of Capricorn, with frequent rains and temperatures varying from 15 to\n25 Degrees C. The soil should be deep, hard, permeable, well irrigated, with\nwell-drained subsoil. The best lands are the hilly ones or from just-tilled woods.\nThe perfect altitude is between 600 and 1200 metres, though some varieties\nthrive at 2000-2200 metres. Cultivation aimed at protecting the plants at every\nstage of growth is needed. Sowing should be in sheltered nurseries from which,\nafter about six months, the seedlings should be moved to plantations in the\nrainy season where they are usually alternated with other plants to shield them\nfrom wind and excessive sunlight. Only when the plant is five years old can it\nbe counted upon to give a regular yield. This is between 400 grams and two\nkilos of arabica beans for each plant, and 600 grams and two kilos for robusta\nbeans.\nG\n\nHarvesting time depends on the geographic situation and it can vary greatly\ntherefore according to the various producing countries. First, the ripe beans are\npicked from the branches. Pickers can selectively pick approximately 250 to\n300 pounds of coffee cherry a day. At the end of the day, the pickers bring\ntheir heavy burlap bags to pulping mills where the cherry coffee can be pulped\n(or wet milled). The pulped beans then rest, covered in pure rainwater to\nferment overnight. The next day the wet beans are hand-distributed upon the\ndrying floor to be sun dried. This drying process takes from one to two weeks\ndepending on the amount of sunny days available. To make sure they dry\nevenly, the beans need to be raked many times during this drying time. Two\nweeks later the sun dried beans, now called parchment, are scooped up,\nbagged and taken to be milled. Huge milling machines then remove the\nparchment and silver skin, which renders a green bean suitable for roasting.\nThe green beans are roasted according to the customers’ specifications and,\nafter cooling, the beans are then packaged and mailed to customers.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "Coffee was first discovered in Eastern Africa in an area we know today as"
+          },
+          {
+            "label": "B",
+            "content": "The news of this energy laden fruit quickly moved throughout the region."
+          },
+          {
+            "label": "C",
+            "content": "Coffee was first eaten as a food though later people in Arabia would make a"
+          },
+          {
+            "label": "D",
+            "content": "If you were to explore the planet for coffee, you would find about 60 species of"
+          },
+          {
+            "label": "E",
+            "content": "Although wild plants can reach 10 - 12 metres in height, the plantation one"
+          },
+          {
+            "label": "F",
+            "content": "Coffee plants need special conditions to give a satisfactory crop. The climate"
+          },
+          {
+            "label": "G",
+            "content": "Harvesting time depends on the geographic situation and it can vary greatly"
+          }
+        ]
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "E-training",
+      "questionRange": [
+        28,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 1 below.\nE-training\nA \nE-learning is the unifying term to describe the fields of online learning, web-\nbased training, and technology-delivered instruction, which can be a great\nbenefit to corporate e-learning. IBM, for instance, claims that the institution of\nits e-training program, Basic Blue, whose purpose is to train new managers,\nsaved the company in the range of $200 million in 1999. Cutting the travel\nexpenses required to bring employees and instructors to a central classroom\naccount for the lion’s share of the savings. With an online course, employees\ncan learn from any Internet-connected PC, anywhere in the world. Ernst and\nYoung reduced training costs by 35 percent while improving consistency and\nscalability.\nB\nIn addition to generally positive economic benefits, other advantages such as\nconvenience, standardized delivery, self-paced learning, and a variety of\navailable content, have made e-learning a high priority for many corporations.\nE-learning is widely believed to offer flexible “any time, any place” learning.\nThe claim for “any place” is valid in principle and is a great development. Many\npeople can engage with rich learning materials that simply were not possible in\na paper of broadcast distance learning era. For teaching specific information\nand skills, e-training holds great promise. It can be especially effective at\nhelping employees prepare for IT certification programs. E-learning also seems\nto effectively address topics such as sexual harassment education’, safety\ntraining and management training – all areas where a clear set of objectives\ncan be identified. Ultimately, training experts recommend a “blended”\n\napproach that combines both online and in-person training as the instruction\nrequires. E-learning is not an end-all solution. But if it helps decrease costs and\nwindowless classrooms filled with snoring students, it definitely has its\nadvantages.\nC\nMuch of the discussion about implementing e-learning has focused on the\ntechnology, but as Driscoll and others have reminded us, e-learning is not just\nabout the technology, but also many human factors. As any capable manager\nknows, teaching employees new skills is critical to a smoothly run business.\nHaving said that, however, the traditional route of classroom instruction runs\nthe risk of being expensive, slow and, oftentimes, ineffective. Perhaps the\nclassroom’s greatest disadvantage is the fact that it takes employees out of\ntheir jobs. Every minute an employee is sitting in a classroom training session\nis a minute they’re not out on the floor working. It now looks as if there is a way\nto circumvent these traditional training drawbacks. E-training promises more\neffective teaching techniques by integrating audio, video, animation, text and\ninteractive materials with the intent of teaching each student at his or her own\npace. In addition to higher performance results, there are other immediate\nbenefits to students such as increased time on task, higher levels of\nmotivation, and reduced test anxiety for many learners.\nD\nOn the other hand, nobody said E-training technology would be cheap. E-\ntraining service providers, on the average, charge from $10,000 to $60,000 to\ndevelop one hour of online instruction. This price varies depending on the\ncomplexity of the training topic and the media used. HTML pages are a little\ncheaper to develop while streaming-video presentations or flash animations\ncost more. Course content is just the starting place for the cost. A complete e-\nlearning solution also includes the technology platform (the computers,\napplications and network connections that are used to deliver the courses).\nThis technology platform, known as a learning management system (LMS), can\neither be installed onsite or outsourced. Add to that cost the necessary\ninvestments in network bandwidth to deliver multimedia courses, and you’re\nleft holding one heck of a bill. For the LMS infrastructure and a dozen or so\nonline courses, costs can top $500,000 in the first year. These kinds of costs\nmean that custom e-training is, for the time being, an option only for large\norganizations. For those companies that have a large enough staff, the e-\ntraining concept pays for itself. Aware of this fact, large companies are\ninvesting heavily in online training. Today, over half of the 400-plus courses\n\nthat Rockwell Collins offers are delivered instantly to its clients in an e-learning\nformat, a change that has reduced its annual training costs by 40%. Many\nother success stories exist.\nE\nE-learning isn’t expected to replace the classroom entirely. For one thing,\nbandwidth limitations are still an issue in presenting multimedia over the\nInternet. Furthermore, e-training isn’t suited to every mode of instruction or\ntopic. For instance, it’s rather ineffective imparting cultural values or building\nteams. If your company has a unique corporate culture is would be difficult to\nconvey that to first-time employees through a computer monitor. Group\ntraining sessions are more ideal for these purposes. In addition, there is a\nperceived loss of research time because of the work involved in developing and\nteaching online classes. Professor Wallin estimated that it required between\n500 and 1,000 person-hours, that is, Wallin-hours, to keep the course at the\nappropriate level of currency and usefulness. (Distance learning instructors\noften need technical skills, no matter how advanced the courseware system.)\nThat amounts to between a quarter and half of a person-year. Finally, teaching\nmaterials require computer literacy and access to equipment. Any e-Learning\nsystem involves basic equipment and a minimum level of computer knowledge\nin order to perform the tasks required by the system. A student that does not\npossess these skills, or have access to these tools, cannot succeed in an e-\nLearning program.\nF\nWhile few people debate the obvious advantages of e-learning, systematic\nresearch is needed to confirm that learners are actually acquiring and using\nthe skills that are being taught online, and that e-learning is the best way to\nachieve the outcomes in a corporate environment. Nowadays, a go-between\nstyle of Blended learning, which refers to a mixing of different learning\nenvironments, is gaining popularity. It combines traditional face-to-face\nclassroom methods with more modern computer-mediated activities. According\nto its proponents, the strategy creates a more integrated approach for both\ninstructors and learners. Formerly, technology-based materials played a\nsupporting role in face-to-face instruction. Through a blended learning\napproach, technology will be more important.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "E-learning is the unifying term to describe the fields of online learning, web-"
+          },
+          {
+            "label": "B",
+            "content": "In addition to generally positive economic benefits, other advantages such as"
+          },
+          {
+            "label": "C",
+            "content": "Much of the discussion about implementing e-learning has focused on the"
+          },
+          {
+            "label": "D",
+            "content": "On the other hand, nobody said E-training technology would be cheap. E-"
+          },
+          {
+            "label": "E",
+            "content": "E-learning isn’t expected to replace the classroom entirely. For one thing,"
+          },
+          {
+            "label": "F",
+            "content": "While few people debate the obvious advantages of e-learning, systematic"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 36,
+          "type": "matching-features",
+          "prompt": "The combination of traditional and e-training environments may prevail.",
+          "instruction": "Choose the correct heading for paragraphs A-F from the list below. Write the correct number, i-xi, in boxes 28-33 on your answer sheet. List of Headings i overview of the benefits for application of E-training ii IBM’s successful choice of training iii Future directions and a new style of teaching iv learners’ achievement and advanced teaching materials v limitations when E-training compares with traditional class vi multimedia over the Internet can be a solution vii technology can be a huge financial burden viii the distance learners outperformed the traditional university learners worldwide ix other advantages besides economic consideration x Training offered to help people learn using computers 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph D 32 Paragraph E 33 Paragraph F The reading Passage has six paragraphs A-F Which paragraph contains the following information? Write the correct letter A-F, in boxes 34-37 on your answer sheet. 34 Projected Basic Blue in IBM achieved great success. 35 E-learning wins as a priority for many corporations as its flexibility.",
+          "answer": "F"
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "prompt": "Example of fast electronic delivery for a company’s products to its customer Choose THREE correct letters, among A-E Write your answers in boxes 38-40 on your answer sheet.",
+          "instruction": "Choose the correct heading for paragraphs A-F from the list below. Write the correct number, i-xi, in boxes 28-33 on your answer sheet. List of Headings i overview of the benefits for application of E-training ii IBM’s successful choice of training iii Future directions and a new style of teaching iv learners’ achievement and advanced teaching materials v limitations when E-training compares with traditional class vi multimedia over the Internet can be a solution vii technology can be a huge financial burden viii the distance learners outperformed the traditional university learners worldwide ix other advantages besides economic consideration x Training offered to help people learn using computers 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph D 32 Paragraph E 33 Paragraph F The reading Passage has six paragraphs A-F Which paragraph contains the following information? Write the correct letter A-F, in boxes 34-37 on your answer sheet. 34 Projected Basic Blue in IBM achieved great success. 35 E-learning wins as a priority for many corporations as its flexibility.",
+          "answer": "D"
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "D",
+    "2": "F",
+    "3": "G",
+    "4": "A",
+    "5": "C",
+    "6": "B",
+    "7": "E",
+    "8": "FALSE",
+    "9": "NOT GIVEN",
+    "10": "NOT GIVEN",
+    "11": "TRUE",
+    "12": "memory",
+    "13": "function",
+    "14": "teach",
+    "15": "viii",
+    "16": "ix",
+    "17": "vi",
+    "18": "xi",
+    "19": "i",
+    "20": "iii",
+    "21": "epicarp",
+    "22": "mesocarp",
+    "23": "endocarp",
+    "24": "wet milled",
+    "25": "overnight",
+    "26": "raked",
+    "27": "customers' specifications",
+    "28": "i",
+    "29": "ix",
+    "30": "iv",
+    "31": "vii",
+    "32": "v",
+    "33": "iii",
+    "34": "A",
+    "35": "B",
+    "36": "F",
+    "37": "D",
+    "40": "B,C,E"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.serve/
+reading_3_4_*/
+node_modules/
+package-lock.json

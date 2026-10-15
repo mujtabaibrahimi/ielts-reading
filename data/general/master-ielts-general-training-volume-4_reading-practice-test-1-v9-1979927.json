@@ -1,0 +1,169 @@
+{
+  "id": "master-ielts-general-training-volume-4_reading-practice-test-1-v9-1979927",
+  "type": "general",
+  "source": "master-ielts-general-training-volume-4 reading-practice-test-1-v9-1979927",
+  "filename": "master-ielts-general-training-volume-4_reading-practice-test-1-v9-1979927.pdf",
+  "total_questions": 4,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Job Advertisements & Mobile Phone",
+      "questionRange": [
+        1,
+        6
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nJob Advertisements & Mobile Phone\nEtiquette\nTEXT 1",
+        "tables": [
+          {
+            "page": 3,
+            "rows": [
+              [
+                "Training provided\nOwn transport is essential\nCall into ABC Academy - Brook Street between 10am–2pm and ask for Jenny.\nC. Dog Walker\nAn animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek.\nEvenings preferred.\nNo weekends.\n16 years or older is ideal.\nCall 0916-202-7445 to apply.\nD. Nanny Wanted",
+                ""
+              ],
+              [
+                "To help look after two children - 2 and 5 years old.\nExperience is helpful, but patience and a willingness to learn are enough.\nAccommodation, food and pocket money provided.\nFlexible working times. Ideal for foreign students studying English.\nPlease send resume and photo to: evelyn1978@hotmail.com.\nE. 20 full-time volunteers wanted\nOne year project.\nWilling to relocate with free accommodation. Basic salary provided.\nSupporting people with disabilities and young people from broken homes.\nApplicants aged 18-65 may apply.\nExperience preferred but not essential.\nF. Web-based company\nUrgently requires a graphic designer.\nWorking knowledge of Photoshop.\nCollege graduate preferred but enthusiastic computer nerds may apply.\nSend short resume (with photo) to: MegaBites, 10 Oak Road, Ashbourne.\nG. OLDE WORLDE CAFÉ\nWaitress needed. (Full-time / Part-time)\nPrevious restaurant or café experience preferred.\nMust be physically active and able to take orders.\nSalary according to experience.",
+                null
+              ]
+            ],
+            "header": [
+              "Training provided\nOwn transport is essential\nCall into ABC Academy - Brook Street between 10am–2pm and ask for Jenny.\nC. Dog Walker\nAn animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek.\nEvenings preferred.\nNo weekends.\n16 years or older is ideal.\nCall 0916-202-7445 to apply.\nD. Nanny Wanted",
+              ""
+            ]
+          }
+        ],
+        "images": [],
+        "sections": []
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 2,
+      "title": "Job Sharing",
+      "questionRange": [
+        1,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 2\nJob Sharing\nTEXT 1",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "",
+      "questionRange": [
+        28,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 28,
+          "type": "multiple-choice",
+          "prompt": "What is the plan to have a permanent human settlement on Mars",
+          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "prompt": "How is the ideal site for the settlement found?",
+          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "prompt": "After the outpost is operational how does the rover recharge its",
+          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 31,
+          "type": "multiple-choice",
+          "prompt": "Where does oxygen come from ?",
+          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "E",
+    "2": "C",
+    "3": "A",
+    "4": "G",
+    "5": "B",
+    "6": "D",
+    "7": "annoying",
+    "8": "stop talking / talk quietly",
+    "9": "secrets",
+    "10": "your distance",
+    "11": "text messaging",
+    "12": "queue",
+    "14": "common sense",
+    "15": "C",
+    "16": "F",
+    "17": "B",
+    "18": "A",
+    "19": "C",
+    "20": "E",
+    "21": "D",
+    "22": "standards",
+    "23": "seamless",
+    "24": "things",
+    "25": "income",
+    "26": "praise",
+    "27": "commitment",
+    "28": "C",
+    "29": "B",
+    "30": "B",
+    "31": "B",
+    "32": "press conferences",
+    "33": "online",
+    "34": "3/three",
+    "35": "6/six",
+    "36": "location",
+    "37": "food",
+    "38": "medical procedures",
+    "39": "communication satellite",
+    "40": "no return"
+  }
+}

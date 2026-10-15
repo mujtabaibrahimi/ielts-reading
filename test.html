@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IELTS Reading Test</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/test.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+  <!-- ─── Test Header ─── -->
+  <header class="test-header">
+    <a href="index.html" class="test-header__back">← Back</a>
+    <div class="test-header__title" id="test-title">Loading...</div>
+
+    <div class="part-tabs" id="part-tabs"></div>
+
+    <div class="timer" id="timer-container">
+      <span class="timer__icon">⏱</span>
+      <span id="timer-display">60:00</span>
+    </div>
+  </header>
+
+  <!-- ─── Mobile Toggle ─── -->
+  <div class="mobile-toggle">
+    <button class="mobile-toggle__btn active" data-panel="passage" onclick="togglePanel('passage')">📄 Passage</button>
+    <button class="mobile-toggle__btn" data-panel="questions" onclick="togglePanel('questions')">✏️ Questions</button>
+  </div>
+
+  <!-- ─── Split-Screen Body ─── -->
+  <div class="test-body">
+    <!-- Passage Panel (Left) -->
+    <div class="passage-panel" id="passage-content">
+      <div style="display:flex;justify-content:center;padding:40px">
+        <div class="spinner"></div>
+      </div>
+    </div>
+
+    <!-- Resizable Divider -->
+    <div class="split-divider" id="split-divider"></div>
+
+    <!-- Questions Panel (Right) -->
+    <div class="questions-panel" id="questions-content">
+    </div>
+
+    <!-- Question Navigator Bar -->
+    <div class="question-nav" id="question-nav"></div>
+  </div>
+
+  <!-- ─── Results Overlay ─── -->
+  <div class="results-overlay" id="results-overlay" hidden>
+    <div class="results-card" id="results-card"></div>
+  </div>
+
+  <!-- ─── Scripts ─── -->
+  <script src="js/state.js"></script>
+  <script src="js/timer.js"></script>
+  <script src="js/questions.js"></script>
+  <script src="js/validator.js"></script>
+  <script src="js/app.js"></script>
+  <script>
+    // Initialize the test app
+    App.init();
+  </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "name": "ielts-reading-practice",
+  "version": "1.0.0",
+  "description": "Interactive IELTS Reading Practice — Exam-faithful split-screen interface with timer and scoring",
+  "private": true,
+  "scripts": {
+    "convert": "python scripts/pdf-to-json.py batch reading_3_4_1716878_ieltsonlinetests.com_reading_3_4 .",
+    "convert:academic": "python scripts/pdf-to-json.py batch reading_3_4_1716878_ieltsonlinetests.com_reading_3_4 . --type academic",
+    "serve": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000 --cors"
+  },
+  "keywords": [
+    "ielts",
+    "reading",
+    "practice",
+    "test"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.6"
+  }
+}

@@ -1,0 +1,104 @@
+/* ═══════════════════════════════════════════════════════════
+   Responsive Styles — Tablet & Mobile
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── Tablet (≤1024px) ─── */
+@media (max-width: 1024px) {
+  :root {
+    --sp-xl: 1.5rem;
+    --sp-2xl: 2rem;
+  }
+
+  .test-body {
+    grid-template-columns: 45fr 6px 55fr;
+  }
+
+  .passage-panel { padding: var(--sp-lg); }
+  .questions-panel { padding: var(--sp-lg); }
+
+  .question__options--radio { flex-wrap: wrap; }
+  .question__radio { min-width: 80px; }
+
+  .test-cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* ─── Small Tablet (≤768px) ─── */
+@media (max-width: 768px) {
+  .test-body {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+  }
+
+  .split-divider { display: none; }
+
+  /* Show mobile toggle tabs */
+  .mobile-toggle { display: flex; }
+
+  .passage-panel,
+  .questions-panel {
+    padding: var(--sp-md);
+  }
+
+  /* Hide inactive panel on mobile */
+  .passage-panel.hidden,
+  .questions-panel.hidden {
+    display: none;
+  }
+
+  .test-header__title { display: none; }
+
+  .timer { font-size: var(--fs-base); min-width: 70px; }
+
+  .question-nav__group { gap: 2px; }
+  .question-nav__item { width: 24px; height: 24px; font-size: 10px; }
+
+  .test-cards-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero__title { font-size: var(--fs-2xl); }
+
+  .results-card {
+    padding: var(--sp-lg);
+    width: 98%;
+    max-height: 95vh;
+  }
+}
+
+/* ─── Mobile (≤480px) ─── */
+@media (max-width: 480px) {
+  :root { --fs-base: 14px; }
+
+  .part-tab { padding: 4px 10px; font-size: var(--fs-xs); }
+
+  .question {
+    padding: var(--sp-sm);
+  }
+  .question__options--radio { flex-direction: column; }
+  .question__radio { min-width: 100%; }
+
+  .question__input { width: 100%; }
+  .question__select { width: 100%; }
+
+  .btn-lg { padding: 0.5rem 1.5rem; font-size: var(--fs-sm); }
+}
+
+/* ─── Print (for reviewing) ─── */
+@media print {
+  .test-header,
+  .question-nav,
+  .split-divider,
+  .mobile-toggle { display: none; }
+
+  .test-body {
+    display: block;
+    height: auto;
+  }
+  .passage-panel,
+  .questions-panel {
+    overflow: visible;
+    padding: 1cm;
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "id": "ielts-mock-test-2024-april_reading-practice-test-3-v9-18928178",
+  "type": "academic",
+  "source": "ielts-mock-test-2024-april reading-practice-test-3-v9-18928178",
+  "filename": "ielts-mock-test-2024-april_reading-practice-test-3-v9-18928178.pdf",
+  "total_questions": 7,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "The Liquid-Propellant Rocket and",
+      "questionRange": [
+        1,
+        13
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nThe Liquid-Propellant Rocket and\nAlternatives\nA liquid-propellant rocket is a rocket whose engine uses propellants in liquid\nform to power it. The reasonably high density of liquids makes them a\ndesirable form of engine power as the volume of propellant tanks used to hold\nthem can be relatively low. Lightweight pumps can also be used to pump the\nliquid propellant from the tanks into the engine, which means the\npropellant can be kept under low pressure. Both these factors, smaller tanks\nand lighter pumps, are advantageous as they effectively lower the rocket’s\nmass ratio.\nOne of the most common types of liquid-propellant rocket is the bipropellant\nrocket. Bipropellant rockets generally have two tanks: the topmost one which\ncontains liquid fuel, and a second, typically slightly larger tank, containing a\nliquid oxidiser such as liquid hydrogen or a hydrocarbon fuel, liquid oxygen\ncombination. The fuel tank and the oxidiser are connected to the combustion\nchamber by pumps. It is within the chamber that the fuel and oxidiser\nreact and combust. This chamber, in turn, connects to the nozzle through\nwhich spent fuel is expelled, generating sufficient thrust to get the rocket\nairborne.\nLiquid-propellant rockets are preferred to other types primarily because they\nhave a higher energy content, thus generating more thrust. Tankage efficiency\nis another important factor. Liquid propellant will typically have a density\nsimilar to water and require only modest pressure to prevent vapourisation\nfrom occurring. This combination of high density and low pressure permits a\nvery lightweight tank. Gasses, on the other hand, are not nearly as dense and\nrequire more pressure to be applied in order to keep them stored within the\ntank, meaning heavier tankage must be used, which results in a higher\nrocket’s mass ratio.\nOther advantages of liquid-propellant rockets include the fact that they can be\nreused for several flights, as happened many times in the Space Shuttle\nprogramme operated by NASA, and the ability to shut down and reignite such\nrockets multiple times if necessary. That said, the use of liquid propellants has\nbeen associated with a number of issues. One such issue is termed slosh\n\n(the movement of a liquid inside another object already undergoing motion).\nSlosh can lead to loss of control of the vehicle and it can also confuse\ncomputerised guidance systems, which are not equipped to account for the\nrandom path disturbances it can cause. Another major drawback of this kind of\nrocket is the functional complexity of the liquid-propellant mechanism, which\noperates high speed moving parts at very high temperatures. This can be a\nrecipe for disaster, as it increases the probability of something going wrong.\nThe pumps used to pump the liquid propellants, though lightweight, are\nalso very hard to design, and this is another bone of contention with\nproponents of other forms of rocket propellant. These turbopumps, as they are\nknown, can suffer serious failures, such as overspeeding or shedding when\noperated at high speed.\nEssentially, liquid-propellant rockets must be fine-tuned and they operate\nwith a very small margin for error. They are, therefore, very high-maintenance,\ntaking into consideration build, design, storage and flight logistics. However, if\nthe logistical complications can be overcome, the reward is a highly effective,\nprecise instrument that is relatively lightweight and can be reused more than\nonce - a huge plus point when the expense of building a new rocket is factored\nin.\nSolid-fuel rockets have been in existence much longer, and their main\nadvantage over the liquid-propellant rocket is their long storage life. Solid-fuel\nrockets can be stored indefinitely and can then be readied for redeployment\nand operation in a relatively short space of time. They are also less volatile and\nfor that reason can be transported more easily from place to place. This\nexplains the military’s preference for solid-fuel rockets when it comes to its\nmissile cache.\nOn the other hand, while NASA does deploy solid-fuel rockets in the\ninitial stages of a space shuttle launch, primarily for their superior initial thrust,\nit relies on liquid-propellant rockets in the latter stages as these rockets\nprovide thrust for longer periods.\nIn an attempt to capture the best aspects of both rocket types - solid and\nliquid (gas, realistically, being far too volatile) -hybrid rocket models have\nrecently emerged. These are mechanically and functionally simpler machines,\nas they require one, not two, liquid tank. They are also superior from a safety\nperspective as they can be loaded onsite, so they are effectively transported in\na benign state and do not represent a hazard in transit (this type of hazard is\na major drawback of conventional rockets). At present, it is mainly space\nscience agencies that are researching the potential of hybrid rockets",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "liquid-propellant rocket is a rocket whose engine uses propellants in liquid"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 9,
+          "type": "diagram-label",
+          "prompt": ", and, in some cases, lead to a loss of control of the rocket. - Functional complexity of the rocket mechanism increases the likelihood of",
+          "instruction": "Label the diagram below. Choose FIVE answers from the box and write the correct letter, A-G, next to questions 1-5. A Nozzle B Liquid Oxidiser C Combustion Chamber D Pump E Fuel F Hydrogen Gas G Thrust 1 2 3 4 5 Complete the notes below using NO MORE THAN THREE WORDS from the passage for each answer.",
+          "answer": "computerised guidance"
+        },
+        {
+          "number": 10,
+          "type": "diagram-label",
+          "prompt": "in flight. - Pumps are hard to design and prone to failure. Complete the summary below. Use NO MORE THAN THREE WORDS from the passage for each answer.",
+          "instruction": "Label the diagram below. Choose FIVE answers from the box and write the correct letter, A-G, next to questions 1-5. A Nozzle B Liquid Oxidiser C Combustion Chamber D Pump E Fuel F Hydrogen Gas G Thrust 1 2 3 4 5 Complete the notes below using NO MORE THAN THREE WORDS from the passage for each answer.",
+          "answer": "something going wrong"
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Education Cuts Counterproductive to Long-",
+      "questionRange": [
+        14,
+        26
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nEducation Cuts Counterproductive to Long-\nTerm Goals\nIn the latest so-called league table of universities around the world, Irish\ninstitutes have performed comparatively poorly, with only one of the 'big three'\nmaking progress in the right direction through the rankings. Arguably Ireland's\nmost prestigious university, Trinity College Dublin registered a sharp fall and\nhas now gone from being just outside the top 50 in the world, placed in position\n52 last year, to 65th twelve months later. University College Dublin fared even\nworse in the World University Rankings, and now lies in 134th place, some 20\nplaces worse off than it was last year. The only good news, and it was hardly\nsomething to write home about, came by way of University College Cork's\nmodest rise from 184th to 181 st place.\nUniversity presidents were quick to blame cutbacks for the slippage and have\ncriticised the government for taking funding out of third-level education,\nclaiming that this will undermine our reputation as a very well-educated\nworkforce in the long term and damage the prospects for a meaningful\neconomic recovery over the next ten to fifteen years for this debt-ridden\ncountry.\nUCD president Hugh Brady was quick to highlight the futility of Irish\nuniversities' attempts to compete with their British and American counterparts.\nBrady points out that UK universities now charge undergraduate students on\naverage €10,000 per annum. In America, the cost of university education can\nbe even more excessive.\nHere in Ireland, third-level education is still free, but there are calls for fees to\nbe reintroduced, otherwise this years' slide down the rankings is likely to be\nrepeated again in 12 months' time.\nAnother option open to Irish universities is to gain more of a foothold in the\nmarket for attracting foreign students. Tapping deeper into the global\neducation market would prove very lucrative and, as funding continues to be\npulled out of third-level education by the government, this is now seen as\ncrucial for the future in this country. However, the Irish universities'\npoor performance in the rankings is a double-edged sword; not only is it\nharming their international reputation, but in doing so, it is also making it more\n\ndifficult to attract foreign fee-paying students for enrolment in years to come.\nAnd yet, without the funding such students provide, Irish universities will\ncontinue to plot a downward course in the rankings. It is a vicious circle.\nIronically, in making it harder for local universities to compete on the\nglobal stage by cutting funding, the government is undermining its own policy\nagenda, which is to attract double the number of foreign students each year by\n2018. The economics of this policy are sound; Ireland currently attracts around\n26,000 foreign students per annum. Each international student spends an\naverage of €20,000 in fees and expenses, so it is clear to see how doubling the\nnumber would provide a massive boost for the economy and much-needed\nfunding for the universities themselves.\nMoreover, in the long run, as these well-educated and highly skilled\ninternational students would hopefully depart Ireland with a positive\nimpression of the country, they would open up new trading and investment\nopportunities as they returned home to their native countries. This is obviously\na very sensible government policy, which makes the government's decision to\ndivert funding away from education all the more short-sighted\nand counterproductive.\nAs for the calls to reintroduce university fees, these have been met with\nunderstandable anger from both parent and student groups. The Students'\nAssociation of Ireland has threatened to organise a huge protest march, should\nit get even the slightest hint that there is some support in government circles\nfor this proposal. Union president, Michael Carmody, promises to bring the city\ncentre to a complete standstill and cause widespread disruption to business\nand services if the government approves any plans for the reintroduction of\nfees. 'We will not take this lying down', he said. 'Ireland is not a classist society\nand we are very proud of that. Everyone has an equal opportunity to attend\nthird-level courses no matter how well-off their parents are or what their\nbackground is. If we allow fees to be reintroduced, university will become the\npreserve of an elite few; either that or, as is the case in Britain, students will be\nburdened with huge debts for the rest of their lives. No. We will not stand\nidly by and let this happen.",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 14,
+          "type": "multiple-choice",
+          "prompt": "The top three Irish universities",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 15,
+          "type": "multiple-choice",
+          "prompt": "What do those in charge of Irish universities attribute their",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 16,
+          "type": "multiple-choice",
+          "prompt": "Why does Hugh Brady think it is pointless for Irish universities to try to",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 17,
+          "type": "multiple-choice",
+          "prompt": "What can Irish universities do to source more funding, with the",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Questions 19-22",
+      "questionRange": [
+        19,
+        22
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Questions 19-22\nD\n \n18 Why is Ireland’s performance in the global rankings ‘a double-edged\nsword’?\nA\n \nB\n \nC\n \nD\n \noffer\ndevelop a better understanding of the global education market\nbecause it damages the reputation of Irish university both\ndomestically and internationally\nbecause the universities damaged reputation abroad also means\nfewer fee-paying international students will be prepared to enrol,\nmaking their financial situation even worse\nbecause Irish universities cannot attract foreign investment in\ntheir facilities if their reputation is undermined by their poor\nperformance in the global rankings\nbecause Irish students will look to be educated abroad at more\nreputable universities as fee-paying foreign students if their own third-\nlevel institutes are inadequate\nDo the following statements agree with the views of the writer given in\nReading Passage 2?\nWrite\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n19\n The government’s decision to cut funding to\nuniversities is going to prove counterproductive to its own goals.\n20\n The government’s target of attracting an average of\nmore than 50,000 foreign students each year by 2018 is an unsound\npolicy.\n21\n Despite the fact that parents and children are\nunhappy about it, the call for student fees to be reintroduced is to be\nwelcomed.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "D",
+            "content": "18 Why is Ireland’s performance in the global rankings ‘a double-edged"
+          },
+          {
+            "label": "A",
+            "content": "B"
+          },
+          {
+            "label": "C",
+            "content": "D"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 22,
+          "type": "true-false-not-given",
+          "prompt": "The protest march, were it to go ahead, would attract a large number of participants; such is the anger among students. Complete each sentence with the correct ending, A-F, below. A",
+          "instruction": "",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Is paradise forever lost?",
+      "questionRange": [
+        27,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nIs paradise forever lost?\nA\nThese days, it has almost become a cliche - the notion of travelling on a\nshoestring is far too common for the liking of the free spirited hippie types who\nstarted the craze off. And, besides, with the cost of travel having plummeted in\nrecent years, it no longer entails enduring the kinds of hardships experienced\nby the budget travellers of yesteryear. And, in some ways, this has taken the\nenjoyment out of the experience of ‘roughing it’ as you travel around the world\nin search of new and ever more unique experiences. Why? Because\nthere aren’t that many new and unique experiences left. Once everyone\nstarted doing it, this whole globe-trotting idea started to look a lot less\nattractive. It was supposed to be for a select few adventurers daring enough to\ntake the dusty roads less trodden. But those roads are now crowded highways\nof overexcited youths trying desperately to make their holiday adventures\nspecial. There is something very artificial about the whole experience. Part\nof the reason people used to go backpacking to the ends of the earth was to,\nwell, escape the maddening crowd, not join it. Is there nowhere that is safe\nanymore? Is there no escape from the masses?\nB\nRex, 25, from Kensington, dropped out of Engineering in his second year at\nOxford to travel the world. An idealist and romantic, Rex had become\ndisillusioned with life in the big smoke, having lived in London for most of his\n25 years, and decided it was time to branch out. His parents were\nunderstandably distraught to learn of his decision to quit university, but they\ngave him their full support once it was clear this was the only thing that\nwould make him happy. So Rex started down the by now well-documented\nroad to Asia and the Far East. At first brimming with enthusiasm, his passion for\nthe journey soon dried up when Rex realised things were not exactly as he had\nimagined they would be. No matter where he went, a dedicated army of\nforeigners like himself would follow; there was no escaping them, and so, Rex\nfelt, the experience of local culture was very artificial, almost\ndeliberately extreme to impress the eager eyes of his mainly American travel\nbuddies.\n\nC\nHaving almost given up on ever finding the authentic experience, Rex prepared\nto come home. You can hear it from the horse’s mouth from here: ‘I got this\ndeal with a stopover in Greece on route back to London, so I figured I might as\nwell spend a few days there if for no other reason than to avoid having to face\nthe music from my parents when I arrived home. I’d heard the Ionian islands\nwere nice, but horribly overcrowded. Still I thought: “What’s the point of\nfighting it? Everywhere’s crowded.”\nSo, a couple of days later, I found myself in Corfu on a beautiful spring day in\nMarch. It was 25 degrees outside; the sky was clear and the sea a picture-\npostcard turquoise. Surprisingly, there weren’t that many tourists on the island\neither. Suddenly my spirits got high. That first evening, I dined in the old town\non some exquisite local fare at a small, family-owned taverna where the owner\n- a chubby, middle-aged man of very good nature - proceeded to introduce me\n(his only customer) to the rest of his family one-by-one, then sat down\nand chatted by my side in his broken English for the rest of the night.’\nD\n‘I told him where I was going next and the man’s eyes beamed. Kefalonia, he\nexplained, was where he had grown up. Indeed, his village was only a mile or\ntwo from the hostel where I would be staying. It was settled then; I would stay\nwith his brother Nikos, who would give me a “royal” tour of the island, instead.\nNikos, it turned out, was every bit as helpful as his older brother, and,\nsomehow, by accident, I found myself spending the next two months in the\ncompany of his family as they showed me from one part of Kefalonia to the\nnext, exploring land and sea, caves and rivers, waterfalls and lakes, forests and\nmountains. This was real; Nikos was real; his wife and children were real; their\nhospitality was real and Kefalonia was real. The turtles I swam with were real;\nit was just me and Nikos’ daughter Eliza who’d chanced upon them by accident\nin the fishing boat. There were no crowds to spoil this moment; everything was\nreal. One evening, as I sat looking out onto the sunset, totally relaxed and at\nhome on my little island paradise, a bus came bumping up the uneven road\nthat led to the beach. Then, within minutes, there were 20 or 30 bodies on my\nbeach, throwing balls, kicking sand, drinking beer, lighting fires... “Summer has\narrived”, I thought. And with it, I made a hasty retreat back to London. It\noccurred to me then, that, even in the most commercialised of tourist\ndestinations like the Greek Islands, if you know what to look for, where to look\nand, more importantly, when, you can still find paradise, if only for a\nfew moments.’",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "These days, it has almost become a cliche - the notion of travelling on a"
+          },
+          {
+            "label": "B",
+            "content": "Rex, 25, from Kensington, dropped out of Engineering in his second year at"
+          },
+          {
+            "label": "C",
+            "content": "Having almost given up on ever finding the authentic experience, Rex prepared"
+          },
+          {
+            "label": "D",
+            "content": "‘I told him where I was going next and the man’s eyes beamed. Kefalonia, he"
+          }
+        ]
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "Rex’s story is a reminder to keep searching until you find what you are looking",
+      "questionRange": [
+        27,
+        31
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "E\nRex’s story is a reminder to keep searching until you find what you are looking\nfor. Rex found his paradise in the most unlikely of places. Greece has a\nreputation for attracting hoards of package-holiday goers. It is a place where\nbeaches are overflowing with deckchairs and sunbeds and the stench of\ncommercialism from June to September each year. But, as Rex found out, for\nthe rest of the year it transforms into something magical, or, at least, a small\npart of it - a quiet, peaceful, little gem of an island on the shores of the Ionian\nSea, does. Keep searching!\nQuestions 27-31\nQuestions 32-37\nReading Passage 3 has five paragraphs, A-E.\nChoose the correct heading for each paragraph from the list of headings\n(i-viii) below.\n27\n Paragraph A\n28\n Paragraph B\n29\n Paragraph C\n30\n Paragraph D\n31\n Paragraph E\ni\nThe mood is lifted at last\nii\nReality bites for peace-seeking traveller\niii\nBackpackers no longer breaking new ground\niv\nParadise found at last but disturbed by new arrivals\nv\nMaking friends from America\nvi\nArrival of royalty causes a stir\nvii\nRestaurant owner opens his home to weary traveller\nviii\nNever give up on finding what you're looking for\nComplete the flow-chart below.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "E",
+            "content": "Rex’s story is a reminder to keep searching until you find what you are looking"
+          }
+        ]
+      },
+      "questions": []
+    }
+  ],
+  "answers": {
+    "1": "E",
+    "2": "B",
+    "3": "D",
+    "4": "C",
+    "5": "A",
+    "6": "higher energy content",
+    "7": "mass ratio",
+    "8": "reignite",
+    "9": "computerised guidance",
+    "10": "something going wrong",
+    "11": "storage life",
+    "12": "military's",
+    "13": "superior initial thrust",
+    "14": "C",
+    "15": "C",
+    "16": "B",
+    "17": "C",
+    "18": "B",
+    "19": "YES",
+    "20": "NO",
+    "21": "NO",
+    "22": "NOT GIVEN",
+    "23": "F",
+    "24": "C",
+    "25": "D",
+    "26": "E",
+    "27": "iii",
+    "28": "ii",
+    "29": "i",
+    "30": "iv",
+    "31": "viii",
+    "32": "support",
+    "33": "enthusiasm",
+    "34": "artificial",
+    "35": "to London",
+    "36": "crowds",
+    "37": "summer",
+    "38": "C",
+    "39": "B",
+    "40": "D"
+  }
+}

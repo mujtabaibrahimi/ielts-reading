@@ -1,0 +1,431 @@
+{
+  "id": "ielts-practice-test-volume-1_reading-practice-test-1-v9-1532538",
+  "type": "academic",
+  "source": "ielts-practice-test-volume-1 reading-practice-test-1-v9-1532538",
+  "filename": "ielts-practice-test-volume-1_reading-practice-test-1-v9-1532538.pdf",
+  "total_questions": 31,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Reading Passage One.",
+      "questionRange": [
+        1,
+        13
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage One.\nCould You Pass Me My Glasses, Please?\nThe human eye was not designed for the years of intensive book learning that\nare now common in modern society. The result is eye strain and deterioration,\noften at an early age, but this same society has provided the obvious answer:\ncorrective lensed eyeglasses. Ubiquitous and everpresent, coming in all styles,\ncolours, and designs, the optical correction of faulty vision with these devices\nis a phase which probably everyone will have to face at some stage in their\nlives.\nIt is not surprising that the ﬁrst eyeglasses were made by the Catholic monks\ndedicated to the writing, translation, and reproduction of finely written religious\ntexts. In contrast to the general undereducation and illiteracy of the times,\nthese monks were versed in many languages, and worked for years in badly-\nilluminated candle-lit ‘scriptoriums’ - an eﬀort which took its toll on their\neyesight. Thus, the earliest pictorial evidence for the use of eyeglasses is a\n1352 portrait of the Catholic cardinal, Hugh de Provence. However, the\nusefulness of glasses had already long been realised by the population at large,\nand by 1300 the trade of lens-grinding was widespread enough to require\nformal guilds and regulations.\nAlthough popular and eﬀective, no one was quite sure of the mechanics of it\nall. The ﬁrst detailed mathematical explanation would not come until Johannes\nKepler published his work on optics in 1604. Basically, glasses modify the focal\n\nlength of the eye’s lens. There are two main focusing disorders: myopia and\nhyperopia. In the case of the ﬁrst (near-sightedness, in which it is diﬃcult to\nsee objects at a distance), concave lenses are used, compensating for the\neye’s refractive error by pushing the focal point back, to the retina. Hyperopia\n(far-sightedness) uses convex lenses to do the opposite, bringing the focal\npoint forward, to the retina.\nYet, to accommodate the range of situations in which clear vision is needed,\nfrom reading books and computer monitors, to television watching and driving\ncars, some glasses are equipped with more than one lens type. The most\ncommon are bi-focal lenses, with two distinct horizontal viewing areas. A\nconscious eﬀort is thus necessary to focus through the band of the lens\nnecessary to solve the visual challenge faced. A variation which helps with this\nare lenses which allow progressive transitions, rather than distinct changes\nbetween viewing angles. The simplest system of all is to merely have several\npairs of glasses, reserving them for specific tasks.\nThese days, lenses are most commonly a plastic polycarbonate material,\noﬀering lower weight and higher scratch resistance, as well as the ability to\nscreen out harmful ultraviolet and infrared rays from the sun. Similarly, the\nframes are ﬂexible and lightweight, oﬀering less friction and irritation for the\nskin. Nevertheless, glasses cannot be said to be convenient devices. Grease,\ndirt, sweat, and vapour can streak them when eating or cooking, or from\nnatural condensation due to temperature changes (such as when exiting a\nheated building into the colder outdoors). Glasses are also awkward during\nfast-motion sports or labouring jobs, are rather easily broken, and not cheap to\nrepair.\nObviously then, contact lenses have considerable advantages. These are\ninserted directly over the pupil, and have the additional beneﬁt of a perceived\naesthetic appeal. Traditional glasses are sometimes seen as unfashionable,\ncarrying associations of age or inﬁrmity. The almost invisible contacts avoid\nthis, which is perhaps one reason why most wearers are female. Having said\nthat, by completely covering the pupil, contacts also oﬀer better peripheral\nvision, and are more appropriate for certain less common vision impairments.\nTheir disadvantage is the diﬃculty and discomfort involved in putting them on\nand taking them off. They can also result in dryness and irritation.\nInterestingly though, the modern era has seen eyeglasses become somewhat\nof a fashion accessory. The musicians Buddy Holly and John Lennon were so\ncharacterised by their glasses that their names have been given to the style\nthey wore. Glasses can now even be bought ‘oﬀ the shelf’, without an eye\n\nexamination, cashing in on the need for quick solutions that people want in a\nbusy society. Although they are a source of much revenue, opticians advise\npeople to ﬁrst have proper eye examinations, not only to ensure the best\nresults, but also for early detection of potential eye diseases, such as\nglaucoma, which might actually be the root cause of focusing problems.\nThe lace of the future may well be ‘laser eye surgery’. In this process, laser\nbeams are used, usually to alter the curvature of the cornea and thus provide\nlong-term \ncorrective \nbeneﬁts. \nAlthough \nstraightforward \nenough \nand\nincreasingly safe and aﬀordable, given the delicacy of the eye, there remains a\nsmall risk of failure and resultant vision problems, such as ghosting or halos. It\nis an interesting fact, that, despite the growth of such surgery, and the use of\ncontacts, traditional lenses remain as popular as ever. Nothing, it seems, can\nmatch the simple convenience of putting on a pair of glasses.",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 1,
+          "type": "true-false-not-given",
+          "prompt": "Most people study hard today.",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 2,
+          "type": "true-false-not-given",
+          "prompt": "When glasses were invented, most people could read.",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 3,
+          "type": "true-false-not-given",
+          "prompt": "Most monks suffered eye problems. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 4,
+          "type": "diagram-label",
+          "prompt": "",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems",
+          "answer": "focal point"
+        },
+        {
+          "number": 5,
+          "type": "diagram-label",
+          "prompt": "Hyperopia",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems",
+          "answer": "focal length"
+        },
+        {
+          "number": 6,
+          "type": "diagram-label",
+          "prompt": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function?",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems",
+          "answer": "convex lenses"
+        },
+        {
+          "number": 9,
+          "type": "diagram-label",
+          "prompt": "What aspect of sight do contact lenses improve better than glasses?",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function? 7 What is needed when viewing through bi-focal glasses? 8",
+          "answer": "temperature change(s)"
+        },
+        {
+          "number": 10,
+          "type": "diagram-label",
+          "prompt": "Choose the correct letter, A, B, C, or D.",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function? 7 What is needed when viewing through bi-focal glasses? 8",
+          "answer": "peripheral (vision)"
+        },
+        {
+          "number": 11,
+          "type": "multiple-choice",
+          "prompt": "Modern lenses are",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function? 7 What is needed when viewing through bi-focal glasses? 8 Choose the correct letter, A, B, C, or D.",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice",
+          "prompt": "‘Off-the-shelf' glasses",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function? 7 What is needed when viewing through bi-focal glasses? 8 Choose the correct letter, A, B, C, or D.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice",
+          "prompt": "Laser eye surgery is",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? TRUE Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Two Focusing Problems Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. Who first explained how glasses function? 7 What is needed when viewing through bi-focal glasses? 8 Choose the correct letter, A, B, C, or D.",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Reading Passage Two.",
+      "questionRange": [
+        14,
+        26
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Reading Passage 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage Two.\nSubtitling: Some Strategies\nWhen movies made in one language are shown to speakers of another, the two\nmethods of resolving the language barrier are subtitling and dubbing.\nSubtitling is the written translation of the words, usually appearing discreetly at\nthe bottom of the screen, while dubbing is the recording of voices in the target\nlanguage.\nDubbing, although seemingly more accessible to movie watches, comes with\nmany disadvantages. For a start, it is expensive, hence it needs a large\naudience to justify the cost, yet even big ﬁlms carry no guarantee of such\ncommercial success. In addition, the dubbed voices may seem detached or\ninappropriate to the characters, or otherwise, the absurdity of having an\nundereducated American ranﬃan saying. ‘Je voudrais déclarer un vol’ becomes\ntoo much, aﬀecting appreciation of the ﬁlm. Finally, ﬁlms and TV programs now\nhave an increasingly rapid turnover rate, and subtitling is faster and more\npractical in such situations.\nHowever, one should not assume subtitling is easier than dubbing. Subtitling\nrequires careful strategies, and here I will outline some of them. In order to do\nthis, a sample movie is needed, and the one examined here is an Italian movie\nsubtitled into English. Comprehension of subtitles will always be aﬀected by\nlack of familiarity with the values, beliefs, and interactive diﬀerences between\nthe host and viewing cultures. The subtitlers need to be aware of this in order\n\nto translate true meaning. Thus, before beginning any work, a brief ‘cultural\naudit’ is absolutely necessary, involving a comparison of the two cultures in\nrelation to the storyline of the movie.\nThe movie is set in the late 1960s, at a time when the wealth and materialism\nof American society was very high, contrasting the relative poverty of Italian\nvillage life. The plot tells the story of a poor couple who dream of winning large\nsums of money by gambling in a card game against a wealthy elderly American\nwoman, who occasionally visits Italy just for that purpose. The ﬁnal thematic\nassertion that there are more important factors than money reﬂects the\nwarmth and solidarity of the Italian village in the face of adversity. Although\nthese themes are universal, one could speculate that a Western audience\nmight not like or identify with them as much, give the increasing urbanisation\nand materialism of their own society.\nThe most immediate translation issue relates to the movie’s title, ‘Lo Scopone\nScientiﬁco’, translates as ‘Scientiﬁc Scopone’, whereas the English title is, ‘The\nScientiﬁc Card Player’. ‘Scopone’ is the name of a traditional Italian card game\nof great antiquity. Obviously, the translators could not use this name, obscure\nto the Westren viewers, but they insert a blander and inappropriate term. An\neven clearer subtitling lapse is that the betting is always done using,\napparently, ludicrously high ﬁgures. Subtitles such as, ‘Let’s start with a\nmillion’ regularly jump out. This is a literal translation of the ﬁgures (in Italian\nlira), yet it is the dollar with which the English-speaking audience would\nassociate. The result is an apparent lack of plausibility, changing the comedic\nnature of the film.\nWith respect to the speciﬁc subtitling used, there are ﬁve. Let us begin with\nthe subtitle, ‘The old bag’s here.’ This is idiomatic in English, being an insulting\nterm for an elderly woman. However, it is a simple expression comprising only\ntwo words, one of which is literally intended (‘old’). I would speculate that the\nsame idiom occurs in Italian (that is, the direct translation of ‘old’ and ‘bag’ in\nItalian carries the same idiomatic meaning). This is the strategy of Transfer,\nwhere the full expression without time or space consideration is given.\nOtherwise, there could well be a closely aligned idiom, in which case the\nstrategy would be Imitation, where there are similar lexical elements between\nboth languages.\nContinuing with idioms, we read, ‘Catches win matches’. This derives from\ncertain ball games, such as cricket, where catching the ball after it is struck by\nthe batsman contributes towards winning the game. There are no such sporting\ncultures in Italy followed. Thus, one can be certain that other words were used\nin the original Italian, but that these have a similar pragmatic eﬀect (in\n\nmeaning and idiomatic nature). The strategy used is thus Paraphrasing, where\ndiﬀerent expressions speciﬁc to the source language (Italian) and target\nlanguage (English) are required.\nLater on, we read, ‘A sign of destiny’. When this subtitle appears, there are\nactually two to three people speaking with equal force at the same time. Space\nand time constraints render it impossible to have them all translated, so only\nthe quoted subtitle appears, using the strategy known as Condensation. Finally,\nwe read scopa – an Italian word referring to a variation of the central card\ngame. Being unique to Italy, there is no equivalent word in English, so the\nstrategy used here is Regination, where the subtitler leaves the word in the\noriginal language. The meaning remains obvious from the context, and only in\nsuch minimal and unlikely situations does this strategy become acceptable.",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 14,
+          "type": "matching-features",
+          "prompt": "Dubbing can",
+          "instruction": "",
+          "answer": "B"
+        },
+        {
+          "number": 15,
+          "type": "matching-features",
+          "prompt": "Cultural audits",
+          "instruction": "",
+          "answer": "C"
+        },
+        {
+          "number": 16,
+          "type": "matching-features",
+          "prompt": "The movie which was examined",
+          "instruction": "",
+          "answer": "A"
+        },
+        {
+          "number": 17,
+          "type": "matching-features",
+          "prompt": "Scopone",
+          "instruction": "",
+          "answer": "D"
+        },
+        {
+          "number": 18,
+          "type": "true-false-not-given",
+          "prompt": "The English title is a subtitling lapse.",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 19,
+          "type": "true-false-not-given",
+          "prompt": "Transfer and imitation are interesting strategies.",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 20,
+          "type": "true-false-not-given",
+          "prompt": "Paraphrasing is often used.",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 21,
+          "type": "true-false-not-given",
+          "prompt": "Resignation can be used in many situations.",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 22,
+          "type": "true-false-not-given",
+          "prompt": "Almost all Italians love scopa. Match the translation example with its associated fact. Write the correct letter, A-D, next to the questions. A",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "prompt": "‘A sign of destiny’",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE Match the translation example with its associated fact. Write the correct letter, A-D, next to the questions. A a practical decision B clarified by the situation C using other words, but with the same meaning D probably exists in the source language 23 The old bag’ 24 ‘Catches win matches’",
+          "answer": "A"
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "prompt": "‘Scopa’",
+          "instruction": "look at one culture. are long and involved. help comprehension. are not normally required. has common human themes. has a surprising ending. is set in an Italian city. involves two main actors. Write TRUE, FALSE, or NOT GIVEN. TRUE Match the translation example with its associated fact. Write the correct letter, A-D, next to the questions. A a practical decision B clarified by the situation C using other words, but with the same meaning D probably exists in the source language 23 The old bag’ 24 ‘Catches win matches’",
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Reading Passage Three.",
+      "questionRange": [
+        27,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage Three.\nContinents Collide!\nThe idea that the continents are moving was ﬁrst proposed by a German\nmeteorologist,.Alfred Wegener, in a book published in 1915. He had gathered a\ngreat deal of careful and tantalising evidence, the most obvious being the\nsimple observation that the great landmasses of the world seem to ﬁt together,\njigsaw-like, a striking example being the coastlines of either side of the Atlantic\nocean. Wegener was even able to theorise, correctly, that all the continents\nwere once assembled into a supercontinent (now called Pangaea). Pangaea\nbroke up into Laurasia (which became North America and Eurasia) and\nGondwana (which became the remaining continents).\nUnfortunately, Wegener could propose no propulsive force for this movement,\napart from the vague and erroneous suggestion that it might be centrifugal\nforces. He also severely overestimated the speed of this motion. These\nproblems, and the fact that he was a meteorologist (rather than a geologist),\nmeant that, upon publishing his ideas, the scientiﬁc community was resolutely\nand implacably hostile. It is an interesting example of that not uncommon\ninstance in which a scientist who was fundamentally correct was denied any\nrecognition in his lifetime. Semmelweis, who advocated the washing of hands\nbefore surgery as a way to reduce hospital fatalities, is another example.\nWegener was to unexpectedly die on an expedition in Greenland, probably of a\nheart attack - in his death, as in his life, left out in the cold.\n\nThe ﬁrst hints of the existence of Gondwana came from the similarity of fossil\nplants and animals distributed in the same geological period over South\nAmerica, Africa, Antarctica, India, and Australia. Similarly, the composition and\nnature of the rocks along relevant coastlines spoke the same story, yet to\nbecome scientiﬁcally credible, the theory needed evidence of a propulsive\nforce to move such huge continents (in the same way that Semmelweis’s ideas\nneeded the germ theory of disease). It was only in the 1960s, decades after\nWegener’s death, that hard evidence for his theory began amassing to\neventually become overwhelming.\nThe theory is now called ‘plate tectonics’, since it was proven that the Earth’s\nsurface is fractured into ‘plates’. These bump and grind as they steadily move\nat inﬁnitesimally slow rates in given directions, driven by ‘convention forces’.\nThese are formed by the vast circular rising of superheated rock from the\nplanet’s molten interior. This material cools as it nears the surface, eventually\nsinking once again towards the centre. Add to this the rotation of the Earth\nitself, and there is a complicated and barely understood set of cyclic swirls of\nmolten rock, producing drags and pulls on each tectonic plate, the sum of\nwhich results in a steady migration.\nOf course, this motion is slow, typically at the speed at which ﬁngernails grow,\nand at its fastest, the rate at which hair does. But by being consistent and\nessentially unstoppable, the results can be spectacular, particularly when\nplates meet. Here, the release of heat, as well as the buckling and melting\nwhich results, gives rise to geological events such as earthquakes, and\ngeological features such as mountains, volcanoes, and oceanic ridges and\ntrenches. Plate boundaries see most of the world’s active volcanoes, with the\nPaciﬁc Plate’s ‘Ring of Fire’ being a good example. Volcanism may sometimes\noccur in the middle of plates, but this has been theorised to be a result of\n‘hotspots’: anomalously hot areas of interior rock which melt through the plate,\nforcing an escape to the surface.\nPlate boundaries come in three types. First, Transform boundaries, where the\nplates grind past each other. It was once thought that the well-known Aegir\nRidge was an example, until studies showed that it had never been active,\nwhereas the periodic earthquakes along California’s San Andreas Fault show\nthe very opposite case. The second type is Divergent boundaries, where the\ntwo plates slide apart from each other. Mid-oceanic ridges, such as in the\nAtlantic, and active rift zones, such as in East Africa, are examples. Finally,\nthere are Convergent boundaries, where the two plates slide towards each\nother. This can form either a subduction zone (if one plate moves underneath\nthe other) or a continental collision. Deep marine trenches are formed in the\n\nformer case, and with the descending plate releasing its trapped water on\nbeing heated in the Earth’s interior, huge amounts of heat and pressure rise to\nthe surface, causing mountains and volcanoes to form, such as in the Andes\nmountain range.\nThe best example of a continental collision is the Indian plate, which is steadily\nand implacably migrating straight into central Asia. The Himalayas of Nepal\nand Northern India, the Karakoram Ranges of Northern Pakistan, and the\nhighlands of Afghanistan, are all part of the complex fold system that resulted,\nproducing some of the highest peaks in the world. There are also some deep\nvalleys receiving the run-off melt-water from the far side of these mountains,\ncreating some mighty rivers, such as the Indus, the Irrawaddy, and the Mekong.\nInterestingly, the Himalayas are still growing, meaning that the summit of\nMount Everest is perhaps a couple of metres higher now than when people first\nstood there in 1953, presumably making it just that little bit harder to reach.",
+        "tables": [
+          {
+            "page": 16,
+            "rows": [
+              [
+                "Type of\nBoundary",
+                "Related Example"
+              ],
+              [
+                "Transform",
+                "36"
+              ],
+              [
+                "37",
+                "East African Rift"
+              ],
+              [
+                "Convergent I:\n38",
+                "Central Asian ranges (resulting in tall mountains, deep\n39\nvalleys, and several )"
+              ],
+              [
+                "Convergent II:\n40",
+                "Andes Mountains"
+              ]
+            ],
+            "header": [
+              "Type of\nBoundary",
+              "Related Example"
+            ]
+          }
+        ],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "prompt": "Scientists disliked Wegener’s idea because he",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "prompt": "Both Wegener and Semmelweis",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 31,
+          "type": "multiple-choice",
+          "prompt": "The motion of tectonic plates",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D.",
+          "answer": "B",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 32,
+          "type": "multiple-choice",
+          "prompt": "Volcanos are formed away from plate boundaries due to",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D.",
+          "answer": "D",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 35,
+          "type": "multiple-choice",
+          "prompt": "Type of Boundary Related Example Transform",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Tectonic Forces at Work 33 34",
+          "answer": "rotation"
+        },
+        {
+          "number": 36,
+          "type": "multiple-choice",
+          "prompt": "",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Tectonic Forces at Work 33 34",
+          "answer": "Aegir Ridge"
+        },
+        {
+          "number": 37,
+          "type": "multiple-choice",
+          "prompt": "East African Rift Convergent I:",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Tectonic Forces at Work 33 34",
+          "answer": "Divergent (boundary)"
+        },
+        {
+          "number": 38,
+          "type": "multiple-choice",
+          "prompt": "Central Asian ranges (resulting in tall mountains, deep valleys, and several 39 ) Convergent II:",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Tectonic Forces at Work 33 34",
+          "answer": "continental collision"
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice",
+          "prompt": "Andes Mountains",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer. The combination of North America and Eurasia had the name 27 The combination of Laurasia and Gondwana had the name 28 Choose the correct letter, A, B, C, or D. Complete the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Tectonic Forces at Work 33 34",
+          "answer": "subduction (zone)"
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "TRUE",
+    "2": "FALSE",
+    "3": "NOT GIVEN",
+    "4": "focal point",
+    "5": "focal length",
+    "6": "convex lenses",
+    "7": "(Johannes) Kepler",
+    "8": "conscious effort",
+    "9": "temperature change(s)",
+    "10": "peripheral (vision)",
+    "11": "A",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "A",
+    "17": "D",
+    "18": "TRUE",
+    "19": "NOT GIVEN",
+    "20": "NOT GIVEN",
+    "21": "FALSE",
+    "22": "TRUE",
+    "23": "D",
+    "24": "C",
+    "25": "A",
+    "26": "B",
+    "27": "Laurasia",
+    "28": "Pangaea",
+    "29": "C",
+    "30": "B",
+    "31": "B",
+    "32": "D",
+    "33": "tectonic plate",
+    "34": "cools",
+    "35": "rotation",
+    "36": "Aegir Ridge",
+    "37": "Divergent (boundary)",
+    "38": "continental collision",
+    "39": "mighty rivers",
+    "40": "subduction (zone)"
+  }
+}

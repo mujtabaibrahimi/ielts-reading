@@ -1,0 +1,590 @@
+{
+  "id": "ielts-general-training-volume-1_reading-practice-test-1-v9-708",
+  "type": "general",
+  "source": "ielts-general-training-volume-1 reading-practice-test-1-v9-708",
+  "filename": "ielts-general-training-volume-1_reading-practice-test-1-v9-708.pdf",
+  "total_questions": 31,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "MAIL ORDER BROCHURE",
+      "questionRange": [
+        1,
+        14
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below\nMAIL ORDER BROCHURE\nWant some great clothing ideas for your family?\nOur key for clothing specials in July: M for men, W for women, C for children\n\nFor under $10\nCotton socks C\n- made of pure cotton for long wearing\nWoollen socks C\n- to keep young feet warm in winter\nSports socks M\n- to go with jeans and other casual clothes\nPatterned belts W\n- to go with jeans and other casual clothes\nFor under $25\nCotton shirts W\n- for day and evening wear\nSilk shirts M\n- five sizes, in designer colours, for that special social occasion\nT shirts C\n- hard-wearing, white with a variety of animal motifs\nColour T-shirts M W\n- cotton and polyester blend, plain colours, no ironing\nFor under $50\nBlue jeans M W\n- non-shrink, colourfast, small sizes only\nSilk shirts M W\n- plain and patterned, all sizes\nHooded jacket C\n- protects from the wind, 4 sizes, large strong pockets\njacket W\n- waterproof with zipper front, all sizes\nOr you can buy a gift voucher so that someone else can choose. These come in $10,\n$20 and $50 amounts.\nAdditional monthly specials for July to September\nJuly\n- $10 voucher with any purchase over $60\nAugust\n- Travel alarm clock worth $19.95 free with purchases of $80 or more!\nSeptember\n- Children's backpacks. Free with any credit card purchase over $75!\nNote: Postage and packing charges\nThese are applied to each order as follows:\nWithin Australia:\n$7.95 per address, regular post\n$17.95 for Express Delivery Service (overnight)\nOverseas:\nSurface Mail (allow a minimum of two months for delivery)\n\nAirmail (allow around two weeks delivery to most destinations)\nNew Book Releases\nA This book describes the creativity of Aboriginal people living in the driest parts of\nAustralia. Stunning reproductions of paintings, beautiful photography and informative\ntext.\nB Pocket-sized maps and illustrations with detailed information on the nesting sites and\nmigration patterns of Australia. This is a classic booklet suitable for both beginner and\nexpert.\nC Packed full of information for the avid hiker, this book is a must. Photographs, maps\nand practical advice will guide your journeys on foot through the forests of the southern\ncontinent.\nD More than-an atlas - this book contains maps, photographs and an abundance of\ninformation on the land and climate of countries from around the globe.\nE Australia's premier mountain biking guidebook - taking you through a host of national\nparks and state forests.\nF Here's the A-Z of Australian native animals - take an in-depth look at their lives and\ncharacteristics, through fantastic photographs and informative text.\nG Graphic artists have worked with researchers and scientists to illustrate how these\nprehistoric animals lived and died on the Australian continent.\nH A definitive handbook on outdoor safety - with a specific focus on equipment,\nnutrition, first aid, special clothing and bush skills.\nI Detailed guides to 15 scenic car tours that will take you onto fascinating wilderness\ntracks and along routes that you could otherwise have missed.",
+        "tables": [
+          {
+            "page": 6,
+            "rows": [
+              [
+                "",
+                "Book A",
+                "8"
+              ],
+              [
+                "",
+                "Book B",
+                "9"
+              ],
+              [
+                "",
+                "Book C",
+                "10"
+              ],
+              [
+                "Example",
+                "Book D",
+                "vi"
+              ],
+              [
+                "",
+                "Book E",
+                "11"
+              ],
+              [
+                "",
+                "Book F",
+                "12"
+              ],
+              [
+                "",
+                "Book G",
+                "13"
+              ],
+              [
+                "",
+                "Book H",
+                "14"
+              ],
+              [
+                "Example",
+                "Book I",
+                "vii"
+              ]
+            ],
+            "header": [
+              "",
+              "Book A",
+              "8"
+            ]
+          }
+        ],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "This book describes the creativity of Aboriginal people living in the driest parts of"
+          },
+          {
+            "label": "B",
+            "content": "Pocket-sized maps and illustrations with detailed information on the nesting sites and"
+          },
+          {
+            "label": "C",
+            "content": "Packed full of information for the avid hiker, this book is a must. Photographs, maps"
+          },
+          {
+            "label": "D",
+            "content": "More than-an atlas - this book contains maps, photographs and an abundance of"
+          },
+          {
+            "label": "E",
+            "content": "Australia's premier mountain biking guidebook - taking you through a host of national"
+          },
+          {
+            "label": "F",
+            "content": "Here's the A-Z of Australian native animals - take an in-depth look at their lives and"
+          },
+          {
+            "label": "G",
+            "content": "Graphic artists have worked with researchers and scientists to illustrate how these"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 1,
+          "type": "true-false-not-given",
+          "prompt": "Women's cotton socks cost less than men's.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 2,
+          "type": "true-false-not-given",
+          "prompt": "Men's silk shirts are available in more than five colours.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 3,
+          "type": "true-false-not-given",
+          "prompt": "Children's T-shirts come in a variety of colours.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 4,
+          "type": "true-false-not-given",
+          "prompt": "The child's jacket has four pockets.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "prompt": "If you buy clothes worth $80 in August, you will receive a free alarm clock",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "prompt": "The charge for special next-day delivery in Australia is $7.95.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "prompt": "All clothing is guaranteed to arrive within two months for international delivery. The list of New Book Releases on the following page has nine book descriptions A-I.",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 8,
+          "type": "heading-matching",
+          "prompt": "Book B",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "x"
+        },
+        {
+          "number": 9,
+          "type": "heading-matching",
+          "prompt": "Book C",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "i"
+        },
+        {
+          "number": 10,
+          "type": "heading-matching",
+          "prompt": "Example Book D vi Book E",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "v"
+        },
+        {
+          "number": 11,
+          "type": "heading-matching",
+          "prompt": "Book F",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "ii"
+        },
+        {
+          "number": 12,
+          "type": "heading-matching",
+          "prompt": "Book G",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "ix"
+        },
+        {
+          "number": 13,
+          "type": "heading-matching",
+          "prompt": "Book H",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "iv"
+        },
+        {
+          "number": 14,
+          "type": "heading-matching",
+          "prompt": "Example Book I vii",
+          "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+          "answer": "viii"
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "WORK & TRAVEL USA",
+      "questionRange": [
+        15,
+        27
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27, which are based on\nReading Passage 2 below.\nWORK & TRAVEL USA\nWORK & TRAVEL USA\nDo you want to have the best summer holiday ever?\nHave you just graduated and want to escape for a unique experience abroad?\nOnly $1950 will make It all happen!\nThis unbeatable program fee includes:\nreturn flight from Sydney to Los Angeles (onward travel in USA not\nincluded)\n3 months' insurance cover\n2 nights' accommodation on arrival plus meet and greet and airport\ntransfer\narrival orientation by experienced InterExchange staff\nvisa application fees\nYou also have:\naccess to a J-l visa enabling you to work in the USA\nan extensive directory of employers\nInterExchange support throughout the program\n24-hour emergency support throughout the length of the program\n\nCall toll-free 1800 678 738\nInterExchange has 50 years' experience in international student exchange\nprograms. 18,000 students from around the world travel yearly to the USA on\nthis very program. InterExchange can also offer you work opportunities in\nother countries.\nWHAT IS INTEREXCHANGE?\nInterExchange, one of the world's leading operators of international exchange\nprograms and related services:\nis a non-profit, non-governmental organisation\nhas 700 professional staff in 30 countries worldwide\nwas founded in 1947\nInterExchange operates these programs for students all around the world. It\noffers you trained and travelled staff, plus full support during the application\nprocess. You can choose any job that interests you anywhere in the USA,\nwhether that is working in a law firm in Boston, a famous ski resort in Colorado\nor serving coffee and doughnuts in the buzzing streets of New York. You can\nselect the period you work and the period you travel; you may want to work for\n1 month and travel for 3, or work the entire duration of your stay. The choice is\nyours.\nYOU CAN TAKE UP THIS OPPORTUNITY IF YOU ARE:\na full-time student at an Australian university or TAFE college\npresently enrolled, or finishing this year, or you have deferred a year of\nstudy\nover 18 years old by November in the academic year in which you apply to\nInterExchange\nenthusiastic about the experience of a lifetime...\nSign up now!!\nCONTENTS: ARTHUR PHILLIP COLLEGE\nA about Arthur Phillip College\nG learning methods\nB entry requirements\nH course fees\nC orientation for new students\nI study commitment\nD academic counselling service\nJ assessment and results\n\nE credit courses to university\nK social activities and clubs\nF assistance for international students\nL what's new",
+        "tables": [
+          {
+            "page": 8,
+            "rows": [
+              [
+                "A about Arthur Phillip College",
+                "G learning methods"
+              ],
+              [
+                "B entry requirements",
+                "H course fees"
+              ],
+              [
+                "C orientation for new students",
+                "I study commitment"
+              ],
+              [
+                "D academic counselling service",
+                "J assessment and results"
+              ]
+            ],
+            "header": [
+              "A about Arthur Phillip College",
+              "G learning methods"
+            ]
+          },
+          {
+            "page": 9,
+            "rows": [
+              [
+                "E credit courses to university",
+                "K social activities and clubs"
+              ],
+              [
+                "F assistance for international students",
+                "L what's new"
+              ]
+            ],
+            "header": [
+              "E credit courses to university",
+              "K social activities and clubs"
+            ]
+          }
+        ],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "about Arthur Phillip College"
+          },
+          {
+            "label": "G",
+            "content": "learning methods"
+          },
+          {
+            "label": "B",
+            "content": "entry requirements"
+          },
+          {
+            "label": "C",
+            "content": "orientation for new students"
+          },
+          {
+            "label": "D",
+            "content": "academic counselling service"
+          },
+          {
+            "label": "E",
+            "content": "credit courses to university"
+          },
+          {
+            "label": "F",
+            "content": "assistance for international students"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 15,
+          "type": "true-false-not-given",
+          "prompt": "The program cost includes internal flights within the USA.",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 16,
+          "type": "true-false-not-given",
+          "prompt": "Emergency assistance offered in the program includes legal advice.",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 17,
+          "type": "true-false-not-given",
+          "prompt": "InterExchange offers similar programs in countries other than the USA.",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 18,
+          "type": "true-false-not-given",
+          "prompt": "InterExchange is part of a government program.",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 19,
+          "type": "true-false-not-given",
+          "prompt": "There are no restrictions on the type of job you can do.",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 20,
+          "type": "true-false-not-given",
+          "prompt": "There is an upper age limit for applicants. Each of the short paragraphs below (21-27) gives information about Arthur Phillip College. Read each paragraph und choose which of the linked sections of the",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "prompt": "hours per week of tuition time, with supervised group study accounting",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE Each of the short paragraphs below (21-27) gives information about Arthur Phillip College. Read each paragraph und choose which of the linked sections of the Write the correct letter A-L in boxes 21-27 on your answer sheet. 21 All students receive a transcript of results and relevant award documentation when they end their studies with the College. 22 On enrolment, all students receive automatic membership to the Social Club and Public Speaking Club. Students may choose to participate in any arranged activities. The College encourages and promotes interaction between students and teaching and non- teaching staff. 23 Successful completion and the achievement of an A or B result in some courses will enable students to achieve advanced standing in these subjects if they proceed to university study. For a list of the courses acceptable to a particular university, e-mail us your request with the name of the university and the course you are interested in. 24 Arthur Phillip College is one of the top business colleges in Sydney, Australia. The College offers a wide range of educational and training programs in business and related areas. Its accredited vocational training courses are designed to meet the needs of individual students and industry. 25 At Arthur Phillip College you will learn from lectures, seminars, case studies, group projects, individual assignments and class workshops. Lectures and seminars present concepts and ideas and provide for question-and-answer sessions. Students are expected to take an active role in the learning process through class participation, presentations and projects. 26 Courses at Arthur Phillip College involve an average of",
+          "answer": "G"
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "prompt": "During this program you will meet the Director of Studies, teachers and key administrative staff such as the Accommodation Officer and Student Counsellor so that, right from your",
+          "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 15-20 on your answer sheet, write TRUE Each of the short paragraphs below (21-27) gives information about Arthur Phillip College. Read each paragraph und choose which of the linked sections of the Write the correct letter A-L in boxes 21-27 on your answer sheet. 21 All students receive a transcript of results and relevant award documentation when they end their studies with the College. 22 On enrolment, all students receive automatic membership to the Social Club and Public Speaking Club. Students may choose to participate in any arranged activities. The College encourages and promotes interaction between students and teaching and non- teaching staff. 23 Successful completion and the achievement of an A or B result in some courses will enable students to achieve advanced standing in these subjects if they proceed to university study. For a list of the courses acceptable to a particular university, e-mail us your request with the name of the university and the course you are interested in. 24 Arthur Phillip College is one of the top business colleges in Sydney, Australia. The College offers a wide range of educational and training programs in business and related areas. Its accredited vocational training courses are designed to meet the needs of individual students and industry. 25 At Arthur Phillip College you will learn from lectures, seminars, case studies, group projects, individual assignments and class workshops. Lectures and seminars present concepts and ideas and provide for question-and-answer sessions. Students are expected to take an active role in the learning process through class participation, presentations and projects. 26 Courses at Arthur Phillip College involve an average of",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "LACK OF SLEEP",
+      "questionRange": [
+        28,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 3 below.\nLACK OF SLEEP\nLACK OF SLEEP\nSection A\nIt is estimated that the average man or woman needs between seven-and-a-\nhalf and eight hours' sleep a night. Some can manage on a lot less. Baroness\nThatcher, for example, was reported to be able to get by on four hours' sleep a\nnight when she was Prime Minister of Britain. Dr Jill Wilkinson, senior lecturer in\npsychology at Surrey University and co-author of 'Psychology in Counselling\nand Therapeutic Practice', states that healthy individuals sleeping less than five\nhours or even as little as two hours in every 24 hours are rare, but represent a\nsizeable minority.\nSection B\nThe latest beliefs are that the main purposes of sleep are to enable the body to\nrest and replenish, allowing time for repairs to take place and for tissue to be\nregenerated. One supporting piece of evidence for this rest-and-repair theory is\nthat production of the growth hormone somatotropin, which helps tissue to\nregenerate, peaks while we are asleep. Lack of sleep, however, can\ncompromise the immune system, muddle thinking, cause depression, promote\nanxiety and encourage irritability.\n\nSection C\nResearchers in San Diego deprived a group of men of sleep between 1am and\n5am on just one night, and found that levels of their bodies' natural defences\nagainst viral infections had fallen significantly when measured the following\nmorning. 'Sleep is essential for our physical and emotional well-being and\nthere are few aspects of daily living that are not disrupted by the lack of it',\nsays Professor William Regelson of Virginia University, a specialist in insomnia.\n'Because it can seriously undermine the functioning of the immune system,\nsufferers are vulnerable to infection.'\nSection D\nFor many people, lack of sleep is rarely a matter of choice. Some have\nproblems getting to sleep, others with staying asleep until the morning.\nDespite popular belief that sleep is one long event, research shows that, in an\naverage night, there are five stages of sleep and four cycles, during which the\nsequence of stages is repeated.\nIn the first light phase, the heart rate and blood pressure go down and the\nmuscles relax. In the next two stages, sleep gets progressively deeper. In stage\nfour, usually reached after an hour, the slumber is so deep that, if awoken, the\nsleeper would be confused and disorientated. It is in this phase that sleep-\nwalking can occur, with an average episode lasting no more than 15 minutes.\nIn the fifth stage, the rapid eye movement (REM) stage, the heartbeat quickly\ngets back to normal levels, brain activity accelerates to daytime heights and\nabove and the eyes move constantly beneath closed lids as if the sleeper is\nlooking at something. During this stage, the body is almost paralysed. This\nREM phase is also the time when we dream.\nSection E\nSleeping patterns change with age, which is why many people over 60 develop\ninsomnia. In America, that age group consumes almost half the sleep\nmedication on the market. One theory for the age-related change is that it is\ndue to hormonal changes. The temperature rise occurs at daybreak in the\nyoung, but at three or four in the morning in the elderly. Age aside, it is\nestimated that roughly one in three people suffer some kind of sleep\ndisturbance. Causes can be anything from pregnancy and stress to alcohol and\nheart disease. Smoking is a known handicap to sleep, with one survey showing\nthat ex-smokers got to sleep in 18 minutes rather than their earlier average of\n52 minutes.\nSection F\n\nApart from self-help therapy such as regular exercise, there are psychological\ntreatments, including relaxation training and therapy aimed at getting rid of\npre-sleep worries and anxieties. There is also sleep reduction therapy, where\nthe aim is to improve sleep quality by strictly regulating the time people go to\nbed and when they get up. Medication is regarded by many as a last resort and\noften takes the form of sleeping pills, normally benzodiazepines, which are\nminor tranquillisers.\nSection G\nProfessor Regelson advocates the use of melatonin for treating sleep disorders.\nMelatonin is a naturally secreted hormone, located in the pineal gland deep\ninside the brain. The main function of the hormone is to control the body's\nbiological clock, so we know when to sleep and when to wake. The gland\ndetects light reaching it through the eye; when there is no light, it secretes the\nmelatonin into the bloodstream, lowering the body temperature and helping to\ninduce sleep. Melatonin pills contain a synthetic version of the hormone and\nare commonly used for jet lag as well as for sleep disturbance. John Nicholls,\nsales manager of one of America's largest health food shops, claims that sales\nof the pill have increased dramatically. He explains that it is sold in capsules,\ntablets, lozenges and mixed with herbs. It is not effective for all insomniacs,\nbut many users have weaned themselves off sleeping tablets as a result of its\napplication.",
+        "tables": [
+          {
+            "page": 15,
+            "rows": [
+              [
+                "NOT GIVEN",
+                null,
+                null,
+                "If there is no information on this"
+              ],
+              [
+                null,
+                "",
+                "",
+                null
+              ]
+            ],
+            "header": [
+              "NOT GIVEN",
+              null,
+              null,
+              "If there is no information on this"
+            ]
+          }
+        ],
+        "images": [],
+        "sections": []
+      },
+      "questions": [
+        {
+          "number": 32,
+          "type": "matching-features",
+          "prompt": "a process by which sleep helps us to remain mentally and physically healthy",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems",
+          "answer": "B"
+        },
+        {
+          "number": 33,
+          "type": "matching-features",
+          "prompt": "claims about a commercialised man-made product for sleeplessness",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems",
+          "answer": "G"
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "prompt": "the role of physical changes in sleeping habits",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems",
+          "answer": "E"
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "prompt": "the processes involved during sleep Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems",
+          "answer": "D"
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "prompt": "Sleep can cure some illnesses.",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "prompt": "The various stages of sleep occur more than once a night.",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "prompt": "Dreaming and sleep-walking occur at similar stages of sleep.",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "prompt": "Sleepers move around a lot during the REM stage of sleep.",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "prompt": "The body temperature rises relatively early in elderly people.",
+          "instruction": "Which section contains the following information? Write the correct letter A-G in boxes 28-35 on your answer sheet. NB You may use any letter more than once. 28 the different amounts of sleep that people require 29 an investigation into the results of sleep deprivation 30 some reasons why people may suffer from sleep disorders 31 lifestyle changes which can help overcome sleep-related problems Do the following statements agree with the information given in the passage. In boxes 36-40 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "NOT GIVEN",
+    "2": "NOT GIVEN",
+    "3": "FALSE",
+    "4": "NOT GIVEN",
+    "5": "TRUE",
+    "6": "FALSE",
+    "7": "FALSE",
+    "8": "x",
+    "9": "i",
+    "10": "v",
+    "11": "ii",
+    "12": "ix",
+    "13": "iv",
+    "14": "viii",
+    "15": "FALSE",
+    "16": "NOT GIVEN",
+    "17": "TRUE",
+    "18": "FALSE",
+    "19": "TRUE",
+    "20": "NOT GIVEN",
+    "21": "J",
+    "22": "K",
+    "23": "E",
+    "24": "A",
+    "25": "G",
+    "26": "I",
+    "27": "C",
+    "28": "A",
+    "29": "C",
+    "30": "E",
+    "31": "F",
+    "32": "B",
+    "33": "G",
+    "34": "E",
+    "35": "D",
+    "36": "NOT GIVEN",
+    "37": "TRUE",
+    "38": "FALSE",
+    "39": "FALSE",
+    "40": "TRUE"
+  }
+}

@@ -1,0 +1,274 @@
+/* ═══════════════════════════════════════════════════════════
+   IELTS Reading Practice — Main Styles
+   ═══════════════════════════════════════════════════════════ */
+
+:root {
+  /* Brand palette — IELTS blue + warm accents */
+  --clr-primary: #1a3a5c;
+  --clr-primary-light: #2a5a8c;
+  --clr-primary-dark: #0d1f33;
+  --clr-accent: #e8792b;
+  --clr-accent-light: #f5a623;
+  --clr-success: #27ae60;
+  --clr-danger: #e74c3c;
+  --clr-warning: #f39c12;
+
+  /* Neutrals */
+  --clr-bg: #f5f6fa;
+  --clr-surface: #ffffff;
+  --clr-surface-alt: #f0f2f5;
+  --clr-border: #dde1e6;
+  --clr-text: #1a1a2e;
+  --clr-text-muted: #6b7280;
+  --clr-text-light: #9ca3af;
+
+  /* Typography */
+  --ff-sans: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --ff-serif: 'Georgia', 'Times New Roman', serif;
+  --ff-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Sizing */
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.25rem;
+  --fs-2xl: 1.5rem;
+  --fs-3xl: 2rem;
+
+  /* Spacing */
+  --sp-xs: 0.25rem;
+  --sp-sm: 0.5rem;
+  --sp-md: 1rem;
+  --sp-lg: 1.5rem;
+  --sp-xl: 2rem;
+  --sp-2xl: 3rem;
+
+  /* Layout */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 12px rgba(0,0,0,0.1);
+  --shadow-lg: 0 8px 24px rgba(0,0,0,0.12);
+  --transition: 200ms ease;
+
+  /* Header height */
+  --header-h: 56px;
+}
+
+/* ─── Reset ─── */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--ff-sans);
+  font-size: var(--fs-base);
+  line-height: 1.6;
+  color: var(--clr-text);
+  background: var(--clr-bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--clr-primary-light); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img, svg { display: block; max-width: 100%; }
+button { cursor: pointer; font-family: inherit; }
+input, select, textarea { font-family: inherit; font-size: inherit; }
+
+/* ─── Utility Classes ─── */
+.container { max-width: 1200px; margin: 0 auto; padding: 0 var(--sp-lg); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.gap-sm { gap: var(--sp-sm); }
+.gap-md { gap: var(--sp-md); }
+.gap-lg { gap: var(--sp-lg); }
+
+/* ─── Header ─── */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--clr-primary);
+  color: white;
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  padding: 0 var(--sp-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.app-header__logo {
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  display: flex;
+  align-items: center;
+  gap: var(--sp-sm);
+}
+
+.app-header__logo .ielts-badge {
+  background: var(--clr-accent);
+  color: white;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-xs);
+  font-weight: 800;
+}
+
+/* ─── Buttons ─── */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--sp-sm);
+  padding: 0.5rem 1.25rem;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  transition: all var(--transition);
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background: var(--clr-primary);
+  color: white;
+}
+.btn-primary:hover {
+  background: var(--clr-primary-light);
+}
+
+.btn-accent {
+  background: var(--clr-accent);
+  color: white;
+}
+.btn-accent:hover {
+  background: var(--clr-accent-light);
+}
+
+.btn-outline {
+  background: transparent;
+  border: 2px solid var(--clr-primary);
+  color: var(--clr-primary);
+}
+.btn-outline:hover {
+  background: var(--clr-primary);
+  color: white;
+}
+
+.btn-success {
+  background: var(--clr-success);
+  color: white;
+}
+
+.btn-danger {
+  background: var(--clr-danger);
+  color: white;
+}
+
+.btn-lg {
+  padding: 0.75rem 2rem;
+  font-size: var(--fs-base);
+  border-radius: var(--radius-lg);
+}
+
+.btn-sm {
+  padding: 0.25rem 0.75rem;
+  font-size: var(--fs-xs);
+}
+
+/* ─── Cards ─── */
+.card {
+  background: var(--clr-surface);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--clr-border);
+  padding: var(--sp-lg);
+  transition: box-shadow var(--transition);
+}
+.card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* ─── Badges ─── */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.badge-academic {
+  background: #dbeafe;
+  color: #1e40af;
+}
+.badge-general {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+/* ─── Tables (for passage content) ─── */
+.passage-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--sp-md) 0;
+  font-size: var(--fs-sm);
+}
+.passage-table th,
+.passage-table td {
+  border: 1px solid var(--clr-border);
+  padding: 6px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+.passage-table th {
+  background: var(--clr-surface-alt);
+  font-weight: 600;
+}
+.passage-table td .blank-input {
+  border: none;
+  border-bottom: 2px solid var(--clr-primary);
+  background: var(--clr-surface-alt);
+  padding: 2px 6px;
+  width: 100px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* ─── Loading ─── */
+.spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid var(--clr-border);
+  border-top-color: var(--clr-primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: var(--clr-surface-alt); }
+::-webkit-scrollbar-thumb {
+  background: var(--clr-border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--clr-text-muted); }

@@ -1,0 +1,352 @@
+{
+  "id": "ielts-mock-test-2024-march_reading-practice-test-2-v9-18927636",
+  "type": "academic",
+  "source": "ielts-mock-test-2024-march reading-practice-test-2-v9-18927636",
+  "filename": "ielts-mock-test-2024-march_reading-practice-test-2-v9-18927636.pdf",
+  "total_questions": 14,
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Fear of the Unknown",
+      "questionRange": [
+        1,
+        14
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below.\nFear of the Unknown\nA. In the small Umagic office in Midtown Manhattan, a team of 30 computer\nprogrammers is working on setting up websites that will allow subscribers to\ninput details about themselves and their problems and receive advice from\n‘virtual’ versions of personalities regarded as experts in their fields. For\nexample, a well-known dietitian, a celebrity fitness trainer, and a psychologist\nwell-known in the media for work on parent-child relationships. Umagic\nSystems is a young firm, and it’s hard to predict how far they’ll go. In ten years\ntime, consulting a computer about your diet problems might seem natural, or it\nmight seem absurd. But the company and others like it are beginning to\nseriously worry large American firms, who see such half-crazy, new, and\ninnovative ideas as a threat to their own future success.\nB. Innovation has become a major concern of American management. Firms\nhave found that it is increasingly difficult to redesign existing products or\nproduce them more economically. The stars of American business today tend\nto be innovators such as Amazon (the internet bookstore) and Wal-Mart (the\nsupermarket chain), which have produced completely new ideas or products\nthat have changed their industries.\nC. Over the past 15 years, the firms that have achieved the greatest profits\nhave been the ones that have had the most innovations. But such profits aren’t\neasy to come by. One of the reasons for the increasing number of mergers\nbetween companies is a desperate search for new ideas. A fortune is spent\nnowadays on identifying and protecting intellectual property: people’s ideas.\nAccording to the Pasadena-based Patent & License Exchange in the United\nStates, trading in intangible assets such as intellectual property rose from $15\nbillion in 1990 to $100 billion in 1998, with an increasing proportion of the\nrewards going to small firms and individuals.\nD. And therein lies the terror for big companies: that innovation seems to work\nbest outside them. Many of the large established companies have been\nstruggling to come up with new products recently. 'In the management of\ncreativity, size is your enemy’, argues Peter Chemin, who runs the Fox TV and\nfilm empire for News Corporation. ‘One person managing 20 movies is never\ngoing to be as involved as one doing five movies.’ He has thus tried to break\n\ndown the studio into smaller units, even at the risk of incurring higher costs.\nE. It is easier for ideas to develop outside big firms these days. In the past, if a\nclever scientist had an idea he wanted to commercialize, he would take it first\nto a big company. Now, with banks encouraging individuals to set up new\nbusinesses through offering special loans, innovators are more likely to set up\non their own. Umagic has already raised $5 million and is about to raise $25\nmillion more. Even in capital-intensive businesses such as pharmaceuticals,\nentrepreneurs can conduct profitable, early-stage research, selling out to the\nbig firms when they reach expensive, risky clinical trials.\nF. Some giants, including General Electric and Cisco, have been remarkably\nsuccessful at buying up and integrating scores of small companies. But many\nothers worry about the prices they have to pay and the difficulty in keeping\nhold of the people who dreamt up the ideas. Everybody would like to develop\nmore ideas in-house. Procter & Gamble is now changing the entire direction of\nits business from global expansion to product development; one of its new\naims is to get innovations accepted across the company. Elsewhere, the search\nfor innovation has led to a craze for 'intrapreneurship'-giving more power to\nindividuals in the company and setting up internal idea-factories so that\ntalented staff will not leave.\nG. And yet, innovation does not happen just because the chief executive wills\nit. Indeed, it is extremely difficult to come up with new ideas year in, year out,\nespecially brilliant ones. Underneath all experts' diagrams, lists, and charts,\nmost of the available answers seem to focus on two strengths that are difficult\nto impose: a culture that looks for new ideas, and leaders who know which\nones to back. Companies have to discredit the widespread view that jobs\nworking on new products are for ‘those who can’t cope in the real business.’\nThey have to change the culture by introducing hard incentives, such as giving\nmore generous bonuses to those who come up with successful new ideas and,\nparticularly, not punishing those whose experiments fail.\nH. Will all this reorganization and culture tweaking make big firms more\ncreative? David Post, the founder of Umagic, isn’t so sure. He also recalls with\nglee the looks of total incomprehension when he tried to sell his 'virtual\nexperts' idea three years ago to firms such as IBM, though, as he cheerfully\nadds, ‘of course, they could have been right.’ Apparently, innovation-unlike\ndiet, fitness, and parenting, is one area where a computer cannot tell you what\nto do.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "In the small Umagic office in Midtown Manhattan, a team of 30 computer"
+          },
+          {
+            "label": "B",
+            "content": "Innovation has become a major concern of American management. Firms"
+          },
+          {
+            "label": "C",
+            "content": "Over the past 15 years, the firms that have achieved the greatest profits"
+          },
+          {
+            "label": "D",
+            "content": "And therein lies the terror for big companies: that innovation seems to work"
+          },
+          {
+            "label": "E",
+            "content": "It is easier for ideas to develop outside big firms these days. In the past, if a"
+          },
+          {
+            "label": "F",
+            "content": "Some giants, including General Electric and Cisco, have been remarkably"
+          },
+          {
+            "label": "G",
+            "content": "And yet, innovation does not happen just because the chief executive wills"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "prompt": "Umagic Systems is an example of a new innovative company.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "prompt": "Amazon and Wal-Mart have exchanged successful ideas on innovation.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "prompt": "Using financial rewards to encourage innovation is an",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "prompt": "IBM failed to understand David Post's 'virtual experts’ idea. Choose the correct letter, A,B,C or D Write the correct letter in boxes 12-14 on your answer sheet.",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice",
+          "prompt": "What point does the writer make about intellectual property?",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE Choose the correct letter, A,B,C or D Write the correct letter in boxes 12-14 on your answer sheet.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice",
+          "prompt": "Peter Chemin is an example of someone who has realized that",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE Choose the correct letter, A,B,C or D Write the correct letter in boxes 12-14 on your answer sheet.",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 14,
+          "type": "multiple-choice",
+          "prompt": "In conclusion, the writer suggests that",
+          "instruction": "Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB you may use any letter more than once. 1 the methods some companies use to try to keep their most creative employees 2 a new way of getting help with your personal difficulties 3 how much investment goes into safeguarding the ideas of individuals 4 two examples of companies which have succeeded through being innovative 5 how some innovators manage to avoid spending large sums of money on testing out their ideas 6 a commonly held opinion about product designers that needs to be proved wrong 7 the target of one large company that has changed its business focus Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet,write TRUE Choose the correct letter, A,B,C or D Write the correct letter in boxes 12-14 on your answer sheet.",
+          "answer": "D",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 1,
+      "title": "The pesticide-free village",
+      "questionRange": [
+        15,
+        27
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 15-27, which are based on\nReading Passage 1 below.\nThe pesticide-free village\nGerry Marten and Dona Glee Williams report on reliance on the Indian village of\nPunukula, so nearly destroyed by reliance on pesticides.\nAround 20 years ago, a handful of families migrated from the Guntur district of\nAndhra Pradesh, south-east India, into Punukula, a community of around 900\npeople farming plots of between two and ten acres. The outsiders from Guntur\nbrought cotton culture with them, and this attracted resident farmers by\npromising to bring in more hard cash than the mixed crops they were already\ngrowing to eat and sell, such as millet, mung beans, chilli and rice. But growing\ncotton meant using pesticides and fertilisers - until then a mystery to the\nmostly illiterate farmers of the community.\nLocal agro-chemical dealers obligingly filled the need for information and\nsupplies. These'middlemen' sold commercial seeds, fertilisers and insecticides\non credit, and guaranteed purchase of the crop. They offered technical advice\nprovided by the companies that supplied their products. The farmers depend\non the dealers. If they wanted to grow cotton - and they did - it seemed they\nhad no choice.\nA quick ‘high’ of booming yields and incomes hooked growers during the early\nyears of cotton in the region. Outlay on insecticides was fairly low because\ncotton pests hadn't moved in yet. Many farmers were so impressed with the\nchemicals that they started using them on their other crops as well. The\nimmediate payoffs from chemically-dependent cotton agriculture both ensured\nand obscured the fact that the black dirt fields had gone into a freefall of\nenvironmental degradation, dragged down by a chain of cause and effect.\nSoon cotton-eaters, such as bollworms and aphids, plagued the fields.\nRepeated spraying killed off the most susceptible pests and left the strongest\nto reproduce and pass on their resistance to generations of ever-hardier\noffspring. As the bugs grew tougher and more abundant, farmers applied a\ngreater variety and quantity of poisons, something mixing 'cocktails' of as\nmany as ten insecticides. At the same time, cotton was gobbling up the\nnutrients in the soil, leaving the growers no option but to invest in chemical\nfertilisers.\n\nBy the time some farmers tried to break free of their chemical dependence,\ninsecticides had already decimated the birds, wasps, beetles, and other\npredators that had once provided natural control of crop pests. Without their\nbalancing presence, pests ran riot if insecticide was cut back. As outlays for\nfertilisers and insecticides escalated, the cost of producing cotton mounted.\nEventually the expense of chemical inputs outgrew the cash value of the crop,\nand farmers fell further and further into debt and poverty.\nTheir vicious cycle was only broken by the willingness of a prominent village\nelder to experiment with something different. He had been among the first\nvillagers to grow cotton, and he would be the first to try it without chemicals, as\nset out by a programme in Non-Pesticide Management (NPM). This had been\ndevised for Punukala with the help of a Non-Government Organisation called\nSECURE that had become aware of the hardships caused by the pesticide trap.\nIt involved turning to neem, a fast-growing, broad-leaved evergreen tree\nrelated to mahogany. Neem protects itself against insects by producing a\nmultitude of natural pesticides that have evolved specifically to defeat plant-\neating insects. Thus they are generally harmless to human and other animals,\nincluding birds and insects that eat pests.\nThe plant is native to India and Burma, where it has been used for centuries to\ncontrol pests and to promote health. To protect cotton, neem seeds are simply\nground into a powder, soaked overnight in water, and sprayed onto the crop at\nleast every 10 days. Neem cake applied to the soil kills insect pests and\ndoubles as an organic fertiliser high in nitrogen. As neem grows locally and is\neasy to process, it is much less expensive than the chemical insecticides sold\nfor profit by the dealers and their corporate suppliers.\nQuick, short-term gains had once pushed Punukula into chemical-dependent\nagriculture. Now they found that similar immediate rewards were helping to\nspeed change in the other direction: the harvest of the next 20 NPM farmers\nwas as good as the harvest of farmers using insecticides, and they came out\nahead because they weren't buying insecticides, instead of investing cash (in\nshort supply) in chemicals, they invested time and labour in NPM practices.\nBy the end of 2000, all the farmers in Punukula village were using NPM rather\nthan chemicals for cotton, and they began to use it on other crops as well. The\nwas using it. The status and economic opportunities of women improved -\nneem change gathered momentum as NPM became even more effective once\neveryone became a source of income for some of them, as they gathered\nseeds from the surrounding area to sell for NPM in other villages. The improve\nsituation meant that families could afford to put more land under cultivation.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "quick ‘high’ of booming yields and incomes hooked growers during the early"
+          }
+        ]
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 1,
+      "title": "In 2004, the panchayat (village government) formally declared Punukula to be",
+      "questionRange": [
+        15,
+        18
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "In 2004, the panchayat (village government) formally declared Punukula to be\na pesticide-free village. And they have big plans for the future, such as water\npurification. The village now serves as a model for disseminating NPM to other\ncommunities, with around 2000 farmers visiting each year.\nWhat began as a few farmers desperate to find a way to farm without poisons\nhas become a movement with the potential to pull an entire region back from\necological disaster.\nQuestions 15-18\nQuestions 19-24\nDo the following statements agree with the information given in Reading\nPassage 1?\nWrite\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n15\n Cotton growing was expected to raise more money\nthan other crop.\n16\n Some of the local agro-chemical dealers had been\nfarmers in the past.\n17\n Initially the farmers’ cotton yields were low.\n18\n At first, the farmers failed to notice the negative\neffects on their fields of pesticide use.\nComplete the notes below.\nChoose NO MORE THAN TWO WORDS from the passage for each\nanswer. Write your answers in boxes 19-24 on your answer sheet.\nNon-Pesticide-Management Programme\nDeveloped with the aid of SECURE\nBased on use of an 19\n called neem\nNeem contains many 20\n that target plant-eating predators Neem\n\nQuestions 25-27\nUsed as a pesticide\n21\n formed by grinding seeds\nleft 22\n to soak in water Sprayed regularly\nUsed as a pesticide and as a fertilizer\nadded in 23\n form to soil\ncontains a lot of 24\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the\npassage for each answer.\nWrite your answers in boxes 25-27 on your answer sheet.\nIn which year did farmers finally stop using chemicals on cotton crops in\nPunukula?\n25\nWhat did the women of Punukula collect to make money?\n26\nWhat project do the authorities in Punukula hope to set up in the future?\n27",
+        "tables": [],
+        "images": [],
+        "sections": []
+      },
+      "questions": []
+    },
+    {
+      "partNumber": 3,
+      "title": "Water Filter",
+      "questionRange": [
+        28,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 1 below.\nWater Filter\nA. An ingenious invention is set to bring clean water to the third world, and\nwhile the science may be cutting edge, the materials are extremely down to\nearth. A handful of clay yesterday’s coffee grounds and some cow manure are\nthe ingredients that could bring clean, safe drinking water to much of the third\nworld.\nB. The simple new technology, developed by ANU materials scientist Mr. Tony\nFlynn, allows water filters to be made from commonly available materials and\nfired on the ground using cow manure as the source of heat, without the need\nfor a kiln. The filters have been tested and shown to remove common\npathogens (disease-producing organisms) including E-coli. Unlike other water\nfiltering devices, the filters are simple and inexpensive to make. “They are very\nsimple to explain and demonstrate and can be made by anyone, anywhere,”\nsays Mr. Flynn. “They don’t require any western technology. All you need is\nterracotta clay, a compliant cow and a match.”\nC. The production of the filters is extremely simple. Take a handful of dry,\ncrushed clay, mix it with a handful of organic material, such as used tea\nleaves, coffee grounds or rice hulls, add enough water to make a stiff biscuit-\nlike mixture and form a cylindrical pot that has one end closed, then dry it in\nthe sun. According to Mr. Flynn, used coffee grounds have given the best\nresults to date. Next, surround the pots with straw; put them in a mound of\ncow manure, light the straw and then top up the burning manure as required.\nIn less than 60 minutes the filters are finished. The walls of the finished pot\nshould be about as thick as an adult’s index. The properties of cow manure are\nvital as the fuel can reach a temperature of 700 degrees in half an hour and\nwill be up to 950 degrees after another 20 to 30 minutes. The manure makes a\ngood fuel because it is very high in organic material that bums readily and\nquickly; the manure has to be dry and is best used exactly as found in the field,\nthere is no need to break it up or process it any further.\nD. “A potter’s din is an expensive item and can could take up to four or five\nhours to get upto 800 degrees. It needs expensive or scarce fuel, such as gas\nor wood to heat it and experience to run it. With no technology, no insulation\nand nothing other than a pile of cow manure and a match, none of these\n\nrestrictions apply,” Mr. Flynn says.\nE. It is also helpful that, like terracotta clay and organic material, cow dung is\nfreely available across the developing world. “A cow is a natural fuel factory.\nMy understanding is that cow dung as a fuel would be pretty much the same\nwherever you would find it.” Just as using manure as a fuel for domestic uses is\nnot a new idea, the porosity of clay is something that potters have known\nabout for years, and something that as a former ceramics lecturer in the ANU\nSchool of Art, Mr. Flynn is well aware of. The difference is that rather than\nviewing the porous nature of the material as a problem — after all not many\npeople want a pot that won’t hold water — his filters capitalize on this property.\nF. Other commercial ceramic filters do exist, but, even if available, with prices\nstarting at US$5 each, they are often outside the budgets of most people in the\ndeveloping world. The filtration process is simple, but effective. The basic\nprinciple is that there are passages through the filter that are wide enough for\nwater droplets to pass through, but too narrow for pathogens. Tests with the\ndeadly E-coli bacterium have seen the filters remove 96.4 to 99.8 per cent of\nthe pathogen — well within safe levels. Using only one filter it takes two hours\nto filter a litre of water. The use of organic material, which burns away after\nfiring, helps produce the structure in which pathogens will become trapped. It\novercomes the potential problems of finer clays that may not let water through\nand also means that cracks are soon halted. And like clay and cow dung, it is\nuniversally available.\nG. The invention was born out of a World Vision project involving the Manatuto\ncommunity in East Timor The charity wanted to help set up a small industry\nmanufacturing water filters, but initial research found the local clay to be too\nfine — a problem solved by the addition of organic material. While the AF\nproblems of producing a working ceramic filter in East Timor were overcome,\nthe solution was kiln-based and particular to that community’s materials and\ncouldn’t be applied elsewhere. Manure firing, with no requirement for a kiln,\nhas made this zero technology approach available anywhere it is needed. With\nall the components being widely available, Mr. Flynn says there is no reason\nthe technology couldn’t be applied throughout the developing world, and with\nno plans to patent his idea, there will be no legal obstacles to it being adopted\nin any community that needs it. “Everyone has a right to clean water, these\nfilters have the potential to enable anyone in the world to drink water safely,”\nsays Mr. Flynn.",
+        "tables": [],
+        "images": [],
+        "sections": [
+          {
+            "label": "A",
+            "content": "An ingenious invention is set to bring clean water to the third world, and"
+          },
+          {
+            "label": "B",
+            "content": "The simple new technology, developed by ANU materials scientist Mr. Tony"
+          },
+          {
+            "label": "C",
+            "content": "The production of the filters is extremely simple. Take a handful of dry,"
+          },
+          {
+            "label": "D",
+            "content": "“A potter’s din is an expensive item and can could take up to four or five"
+          },
+          {
+            "label": "E",
+            "content": "It is also helpful that, like terracotta clay and organic material, cow dung is"
+          },
+          {
+            "label": "F",
+            "content": "Other commercial ceramic filters do exist, but, even if available, with prices"
+          },
+          {
+            "label": "G",
+            "content": "The invention was born out of a World Vision project involving the Manatuto"
+          }
+        ]
+      },
+      "questions": [
+        {
+          "number": 34,
+          "type": "true-false-not-given",
+          "prompt": "It takes half an hour for the manure to reach 950 degrees",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE",
+          "answer": "FALSE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 35,
+          "type": "true-false-not-given",
+          "prompt": "Clay was initially found to be unsuitable for pot making",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE",
+          "answer": "TRUE",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "prompt": "Coffee grounds are twice as effective as other materials",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "prompt": "E-coli is the most difficult bacteria to combat Choose the correct letter, A, B, C or D. Write your answers in boxes 38-40 on your answer sheet.",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE",
+          "answer": "NOT GIVEN",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "number": 38,
+          "type": "multiple-choice",
+          "prompt": "When making the pot, the thickness of the wall",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE Choose the correct letter, A, B, C or D. Write your answers in boxes 38-40 on your answer sheet.",
+          "answer": "C",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 39,
+          "type": "multiple-choice",
+          "prompt": "What is true about the charity, it",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE Choose the correct letter, A, B, C or D. Write your answers in boxes 38-40 on your answer sheet.",
+          "answer": "D",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice",
+          "prompt": "Mr. Flynn’s design is purposely not being patented",
+          "instruction": "Complete the flow chart, using NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet. Guide to Making Water Filters Step one: combination of 28 and organic material, with sufficient 29 to create a thick mixture sun dried. Step two: pack 30 around the cylinders place them in 31 which is as burning fuel for firing (maximum temperature: 32 ) filter being baked in under 33 minutes. Do the following statements agree with the information given in Reading Passage ? In boxes 34-37 on your answer sheet, write TRUE Choose the correct letter, A, B, C or D. Write your answers in boxes 38-40 on your answer sheet.",
+          "answer": "A",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "F",
+    "2": "A",
+    "3": "C",
+    "4": "B",
+    "5": "E",
+    "6": "G",
+    "7": "F",
+    "8": "TRUE",
+    "9": "NOT GIVEN",
+    "10": "FALSE",
+    "11": "TRUE",
+    "12": "C",
+    "13": "A",
+    "14": "D",
+    "15": "TRUE",
+    "16": "NOT GIVEN",
+    "17": "FALSE",
+    "18": "TRUE",
+    "19": "Evergreen tree",
+    "20": "Natural Pesticides",
+    "21": "A powder",
+    "22": "Overnight",
+    "23": "Cake",
+    "24": "Nitrogen",
+    "26": "Neem seeds",
+    "27": "Water purification",
+    "28": "clay",
+    "29": "water",
+    "30": "straw",
+    "31": "cow manure",
+    "32": "950 degrees",
+    "34": "FALSE",
+    "35": "TRUE",
+    "36": "NOT GIVEN",
+    "37": "NOT GIVEN",
+    "38": "C",
+    "39": "D",
+    "40": "A"
+  }
+}
