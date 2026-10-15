@@ -6,8 +6,8 @@
   "scripts": {
     "convert": "python scripts/pdf-to-json.py batch reading_3_4_1716878_ieltsonlinetests.com_reading_3_4 .",
     "convert:academic": "python scripts/pdf-to-json.py batch reading_3_4_1716878_ieltsonlinetests.com_reading_3_4 . --type academic",
-    "serve": "npx serve . -p 3000",
-    "dev": "npx serve . -p 3000 --cors"
+    "serve": "python -m http.server 8080",
+    "dev": "python -m http.server 8080"
   },
   "keywords": [
     "ielts",

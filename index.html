@@ -230,6 +230,9 @@
     IELTS Reading Practice — Built for focused preparation
   </footer>
 
+  <!-- Shared module — MUST load before inline script that uses TestState -->
+  <script src="js/state.js"></script>
+
   <script>
     let allTests = [];
     let currentFilter = 'all';
@@ -338,8 +341,5 @@
     // Load on init
     loadTests();
   </script>
-
-  <!-- Shared modules -->
-  <script src="js/state.js"></script>
 </body>
 </html>
