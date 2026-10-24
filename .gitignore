@@ -1,9 +1,22 @@
-node_modules/
-.DS_Store
-*.pyc
-__pycache__/
-.env
-.serve/
-reading_3_4_*/
+# Dependencies and caches
 node_modules/
 package-lock.json
+__pycache__/
+*.pyc
+.serve/
+
+# OS / editor
+.DS_Store
+.env
+
+# Source PDFs and local tooling (not part of the site)
+reading_3_4_*/
+opendataloader-pdf-main/
+brag-output/
+graphify-out/
+tools/
+.agents/
+.graphify_python
+skills-lock.json
+AUDIT.md
+backup-prod-*/
