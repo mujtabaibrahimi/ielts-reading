@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="IELTS Reading">
+  <rect width="32" height="32" rx="7" fill="#138a8a"/>
+  <path d="M6 9.5c3-1.2 6.2-1.2 9.5 0V24c-3.3-1.2-6.5-1.2-9.5 0z" fill="#ffffff"/>
+  <path d="M26 9.5c-3-1.2-6.2-1.2-9.5 0V24c3.3-1.2 6.5-1.2 9.5 0z" fill="#ffffff" opacity="0.9"/>
+  <rect x="15.4" y="9" width="1.2" height="15.2" rx="0.6" fill="#0c6060"/>
+</svg>
