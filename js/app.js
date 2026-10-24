@@ -358,12 +358,20 @@ const App = {
   _formatInstruction(text) {
     let s = String(text).replace(/[&<>"']/g, c =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    // The converter flattened the instruction to one line. Restore the PDF's
+    // breaks: one sentence per line, and each TRUE/FALSE/NOT GIVEN (or
+    // YES/NO/NOT GIVEN) definition on its own line.
+    s = s.replace(/\s+/g, ' ').trim()
+      .replace(/([.?!:])\s+(?=[A-Z])/g, '$1\n')
+      .replace(/\s+(?=(?:TRUE|FALSE|NOT GIVEN|YES|NO)\s+(?:if|If)\b)/g, '\n');
     // Bold emphasis phrases the way the reference does
     s = s.replace(/\b[A-Z]{2,}(?:[ /]+(?:[A-Z]{2,}|A|AN|OR|AND|\d+))+\b/g, m => '<strong>' + m + '</strong>');
     s = s.replace(/\b[ivx]{1,4}\s*(?:-|to)\s*[ivx]{1,4}\b/g, m => '<strong>' + m + '</strong>');
     s = s.replace(/\b[A-K]\s*(?:-|to)\s*[A-K]\b/g, m => '<strong>' + m + '</strong>');
     s = s.replace(/\b[A-K](?:,\s*[A-K]){1,}(?:\s+(?:or|and)\s+[A-K])?\b/g, m => '<strong>' + m + '</strong>');
-    return s;
+    // Bold the answer word that starts each definition line.
+    s = s.replace(/^(TRUE|FALSE|YES|NO)(?= (?:if|If)\b)/gm, '<strong>$1</strong>');
+    return s.split('\n').map(line => '<span class="instruction-line">' + line + '</span>').join('');
   },
 
   _renderOptionBank(bank) {

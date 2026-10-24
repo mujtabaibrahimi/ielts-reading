@@ -203,6 +203,8 @@
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 .question-group__instruction strong { color: var(--clr-primary); }
+.instruction-line { display: block; line-height: 1.7; }
+.instruction-line + .instruction-line { margin-top: 4px; }
 
 /* ─── Individual Question Styles ─── */
 .question {
