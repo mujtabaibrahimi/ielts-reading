@@ -1,344 +1,272 @@
 /**
- * IELTS Reading Practice — Question Renderers
- * Renders each IELTS question type into the DOM
+ * IELTS Reading Practice - Question Renderers
+ *
+ * Renders each IELTS question type inline next to the passage. Works with the
+ * group-based schema: each question belongs to a questionGroup that carries the
+ * shared instruction, an optional option bank, and optional crop images for
+ * blocks that cannot be shown as plain text (heading lists, tables, diagrams).
+ * Every input is bound to its question number so scoring stays exact.
  */
 
 const QuestionRenderers = {
 
-  /**
-   * Main dispatch — render a question object to a container element
-   */
-  render(question, container, state) {
+  render(question, container, state, group) {
     const el = document.createElement('div');
     el.className = 'question';
-    el.id = `question-${question.number}`;
+    el.id = 'question-' + question.number;
     el.dataset.qnum = question.number;
     el.dataset.type = question.type;
 
-    // Flag button
     const flag = document.createElement('button');
     flag.className = 'question__flag';
-    flag.innerHTML = '🚩';
+    flag.type = 'button';
+    flag.textContent = 'Flag';
     flag.title = 'Flag for review';
+    flag.setAttribute('aria-label', 'Flag question ' + question.number + ' for review');
+    if (state.isFlagged(question.number)) flag.classList.add('active');
     flag.onclick = () => {
       el.classList.toggle('flagged');
       flag.classList.toggle('active');
       state.toggleFlag(question.number);
+      this._updateNav(question.number, state);
     };
-    el.appendChild(flag);
 
-    // Question number badge
+    const head = document.createElement('div');
+    head.className = 'question__head';
+
     const num = document.createElement('span');
     num.className = 'question__number';
     num.textContent = question.number;
-    el.appendChild(num);
+    head.appendChild(num);
 
-    // Prompt
+    const blockTypes = ['true-false-not-given', 'yes-no-not-given', 'multiple-choice', 'multiple-choice-multi'];
+    const leadTypes = ['heading-matching', 'matching-paragraph-information', 'matching-features',
+      'matching-people', 'matching-sentence-endings', 'fill-in-blank-from-list'];
+    const input = this._renderInput(question, state, group);
+
+    // A matching or heading dropdown leads, placed before the statement (as in the PDF).
+    const isLead = input && input.tagName === 'SELECT' && leadTypes.includes(question.type);
+    if (isLead) {
+      input.classList.add('question__lead-input');
+      head.appendChild(input);
+    }
+
     const prompt = document.createElement('div');
     prompt.className = 'question__prompt';
     prompt.innerHTML = this._renderPrompt(question);
-    el.appendChild(prompt);
+    head.appendChild(prompt);
 
-    // Options/input based on type
-    const optionsEl = this._renderByType(question, state);
-    if (optionsEl) el.appendChild(optionsEl);
-
-    // Mark as answered if state has answer
-    if (state.getAnswer(question.number)) {
-      el.classList.add('answered');
+    if (input && !isLead && !blockTypes.includes(question.type)) {
+      input.classList.add('question__inline-input');
+      head.appendChild(input);
     }
+    head.appendChild(flag);
+    el.appendChild(head);
+    if (input && blockTypes.includes(question.type)) el.appendChild(input);
+
+    if (this._hasAnswer(state, question.number)) el.classList.add('answered');
 
     container.appendChild(el);
     return el;
   },
 
-  /**
-   * Render prompt text — handles inline blanks like _____
-   */
+  _hasAnswer(state, n) {
+    const v = state.getAnswer(n);
+    if (Array.isArray(v)) return v.length > 0;
+    return v != null && String(v).trim() !== '';
+  },
+
   _renderPrompt(question) {
     let text = question.prompt || '';
-    // Escape HTML
-    text = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
-    // Convert _____ blanks to styled spans
-    text = text.replace(/_{3,}/g, '<span class="inline-blank"></span>');
+    text = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    text = text.replace(/_{2,}/g, '<span class="inline-blank"></span>');
     return text;
   },
 
-  /**
-   * Dispatch to type-specific renderer
-   */
-  _renderByType(question, state) {
+  _renderInput(question, state, group) {
     const type = question.type;
-    if (type === 'true-false-not-given') return this._renderTFNG(question, state);
-    if (type === 'yes-no-not-given') return this._renderYNNG(question, state);
-    if (type === 'multiple-choice') return this._renderMCQ(question, state);
-    if (type === 'multiple-choice-multi') return this._renderMCQMulti(question, state);
-    if (type === 'heading-matching') return this._renderDropdown(question, state);
-    if (type === 'matching-people') return this._renderDropdown(question, state);
-    if (type === 'matching-features') return this._renderDropdown(question, state);
-    if (type === 'matching-paragraph-information') return this._renderDropdown(question, state);
-    if (type === 'matching-sentence-endings') return this._renderDropdown(question, state);
-    if (type === 'fill-in-blank-from-list') return this._renderDropdown(question, state);
-    if (type === 'fill-in-blank') return this._renderFillBlank(question, state);
-    if (type === 'sentence-completion') return this._renderFillBlank(question, state);
-    if (type === 'short-answer') return this._renderFillBlank(question, state);
-    if (type === 'diagram-label') return this._renderFillBlank(question, state);
-    if (type === 'table-completion') return this._renderFillBlank(question, state);
-    // Fallback
-    return this._renderFillBlank(question, state);
+    if (question._choose > 1) return this._mcqMulti(question, state, group, question._choose);
+    if (type === 'true-false-not-given') return this._radios(question, ['TRUE', 'FALSE', 'NOT GIVEN'], state);
+    if (type === 'yes-no-not-given') return this._radios(question, ['YES', 'NO', 'NOT GIVEN'], state);
+    if (type === 'multiple-choice') return this._mcq(question, state, group);
+    if (type === 'multiple-choice-multi') return this._mcqMulti(question, state, group);
+    if (type === 'heading-matching' || type === 'matching-paragraph-information' ||
+        type === 'matching-features' || type === 'matching-people' ||
+        type === 'matching-sentence-endings' || type === 'fill-in-blank-from-list') {
+      return this._matchInput(question, state, group);
+    }
+    // sentence-completion, short-answer, fill-in-blank, table-completion, diagram-label
+    return this._textInput(question, state);
   },
 
-  /**
-   * TRUE / FALSE / NOT GIVEN — radio buttons
-   */
-  _renderTFNG(question, state) {
-    return this._renderRadioOptions(question, ['TRUE', 'FALSE', 'NOT GIVEN'], state);
+  _bind(input, question, state) {
+    const commit = (value) => {
+      state.setAnswer(question.number, value);
+      const qEl = document.getElementById('question-' + question.number);
+      const has = Array.isArray(value) ? value.length > 0 : (value != null && String(value).trim() !== '');
+      if (qEl) qEl.classList.toggle('answered', has);
+      this._updateNav(question.number, state);
+    };
+    return commit;
   },
 
-  /**
-   * YES / NO / NOT GIVEN — radio buttons
-   */
-  _renderYNNG(question, state) {
-    return this._renderRadioOptions(question, ['YES', 'NO', 'NOT GIVEN'], state);
-  },
-
-  /**
-   * Multiple Choice (single) — radio buttons with A/B/C/D labels
-   */
-  _renderMCQ(question, state) {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'question__options--mcq';
-
-    const letters = question.options || ['A', 'B', 'C', 'D'];
-    const labels = question.optionLabels || letters;
-
-    letters.forEach((letter, i) => {
-      const label = document.createElement('label');
-      label.className = 'question__choice';
-
-      const radio = document.createElement('input');
-      radio.type = 'radio';
-      radio.name = `q${question.number}`;
-      radio.value = letter;
-
-      const letterSpan = document.createElement('span');
-      letterSpan.className = 'question__choice-letter';
-      letterSpan.textContent = letter;
-
-      const textSpan = document.createElement('span');
-      textSpan.textContent = labels[i] || '';
-
-      label.appendChild(radio);
-      label.appendChild(letterSpan);
-      label.appendChild(textSpan);
-
-      // Restore state
-      if (state.getAnswer(question.number) === letter) {
-        radio.checked = true;
-        label.classList.add('selected');
-      }
-
-      radio.addEventListener('change', () => {
-        state.setAnswer(question.number, letter);
-        wrapper.querySelectorAll('.question__choice').forEach(c => c.classList.remove('selected'));
-        label.classList.add('selected');
-        document.getElementById(`question-${question.number}`)?.classList.add('answered');
-        this._updateNav(question.number);
-      });
-
-      wrapper.appendChild(label);
-    });
-
-    return wrapper;
-  },
-
-  /**
-   * Multiple Choice (multi-select) — checkboxes
-   */
-  _renderMCQMulti(question, state) {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'question__options--mcq';
-
-    const letters = question.options || ['A', 'B', 'C', 'D'];
-    const maxSelect = question.maxSelect || 2;
-
-    letters.forEach(letter => {
-      const label = document.createElement('label');
-      label.className = 'question__choice';
-
-      const cb = document.createElement('input');
-      cb.type = 'checkbox';
-      cb.name = `q${question.number}`;
-      cb.value = letter;
-
-      const letterSpan = document.createElement('span');
-      letterSpan.className = 'question__choice-letter';
-      letterSpan.textContent = letter;
-
-      label.appendChild(cb);
-      label.appendChild(letterSpan);
-
-      cb.addEventListener('change', () => {
-        const checked = wrapper.querySelectorAll('input:checked');
-        if (checked.length > maxSelect) {
-          cb.checked = false;
-          return;
-        }
-        const vals = Array.from(checked).map(c => c.value);
-        state.setAnswer(question.number, vals);
-        wrapper.querySelectorAll('.question__choice').forEach(c => c.classList.remove('selected'));
-        wrapper.querySelectorAll('input:checked').forEach(c => c.closest('.question__choice').classList.add('selected'));
-        document.getElementById(`question-${question.number}`)?.classList.add('answered');
-        this._updateNav(question.number);
-      });
-
-      wrapper.appendChild(label);
-    });
-
-    return wrapper;
-  },
-
-  /**
-   * Radio options (TFNG / YNNG)
-   */
-  _renderRadioOptions(question, options, state) {
-    const wrapper = document.createElement('div');
-    wrapper.className = 'question__options--radio';
-
+  _radios(question, options, state) {
+    const wrap = document.createElement('div');
+    wrap.className = 'question__options--radio';
+    const commit = this._bind(null, question, state);
+    const saved = state.getAnswer(question.number);
     options.forEach(opt => {
       const label = document.createElement('label');
       label.className = 'question__radio';
-
       const radio = document.createElement('input');
       radio.type = 'radio';
-      radio.name = `q${question.number}`;
+      radio.name = 'q' + question.number;
       radio.value = opt;
-
+      if (saved === opt) { radio.checked = true; label.classList.add('selected'); }
       const text = document.createElement('span');
       text.textContent = opt;
-
       label.appendChild(radio);
       label.appendChild(text);
-
-      // Restore state
-      if (state.getAnswer(question.number) === opt) {
-        radio.checked = true;
-        label.classList.add('selected');
-      }
-
       radio.addEventListener('change', () => {
-        state.setAnswer(question.number, opt);
-        wrapper.querySelectorAll('.question__radio').forEach(r => r.classList.remove('selected'));
+        wrap.querySelectorAll('.question__radio').forEach(r => r.classList.remove('selected'));
         label.classList.add('selected');
-        document.getElementById(`question-${question.number}`)?.classList.add('answered');
-        this._updateNav(question.number);
+        commit(opt);
       });
-
-      wrapper.appendChild(label);
+      wrap.appendChild(label);
     });
-
-    return wrapper;
+    return wrap;
   },
 
-  /**
-   * Fill-in-the-blank — text input
-   */
-  _renderFillBlank(question, state) {
-    const wrapper = document.createElement('div');
+  _mcq(question, state, group) {
+    const letters = this._letterOptions(question, group, ['A', 'B', 'C', 'D']);
+    const labels = (group && group.optionBank && group.optionBank.labels) || question.optionLabels || [];
+    const wrap = document.createElement('div');
+    wrap.className = 'question__options--mcq';
+    const commit = this._bind(null, question, state);
+    const saved = state.getAnswer(question.number);
+    letters.forEach((letter, i) => {
+      const label = document.createElement('label');
+      label.className = 'question__choice';
+      const radio = document.createElement('input');
+      radio.type = 'radio';
+      radio.name = 'q' + question.number;
+      radio.value = letter;
+      if (saved === letter) { radio.checked = true; label.classList.add('selected'); }
+      const ls = document.createElement('span');
+      ls.className = 'question__choice-letter';
+      ls.textContent = letter;
+      const ts = document.createElement('span');
+      ts.textContent = labels[i] || '';
+      label.appendChild(radio);
+      label.appendChild(ls);
+      label.appendChild(ts);
+      radio.addEventListener('change', () => {
+        wrap.querySelectorAll('.question__choice').forEach(c => c.classList.remove('selected'));
+        label.classList.add('selected');
+        commit(letter);
+      });
+      wrap.appendChild(label);
+    });
+    return wrap;
+  },
 
+  _mcqMulti(question, state, group, choose) {
+    // Without an extracted option list, offer A-E, or up to the highest letter
+    // the key could use ("D,E,F" needs F).
+    const top = Math.max(4, 'ABCDEFGHIJK'.indexOf(question._chooseTop || 'A'));
+    const letters = this._letterOptions(question, group, 'ABCDEFGHIJK'.slice(0, top + 1).split(''));
+    const labels = (group && group.optionBank && group.optionBank.labels) || question.optionLabels || [];
+    const maxSelect = choose || question.maxSelect || 2;
+    const wrap = document.createElement('div');
+    wrap.className = 'question__options--mcq';
+    const commit = this._bind(null, question, state);
+    const saved = Array.isArray(state.getAnswer(question.number)) ? state.getAnswer(question.number) : [];
+    letters.forEach((letter, i) => {
+      const label = document.createElement('label');
+      label.className = 'question__choice';
+      const cb = document.createElement('input');
+      cb.type = 'checkbox';
+      cb.value = letter;
+      if (saved.includes(letter)) { cb.checked = true; label.classList.add('selected'); }
+      const ls = document.createElement('span');
+      ls.className = 'question__choice-letter';
+      ls.textContent = letter;
+      const ts = document.createElement('span');
+      ts.textContent = labels[i] || '';
+      label.appendChild(cb);
+      label.appendChild(ls);
+      label.appendChild(ts);
+      cb.addEventListener('change', () => {
+        const checked = Array.from(wrap.querySelectorAll('input:checked'));
+        if (checked.length > maxSelect) { cb.checked = false; return; }
+        wrap.querySelectorAll('.question__choice').forEach(c => c.classList.remove('selected'));
+        checked.forEach(c => c.closest('.question__choice').classList.add('selected'));
+        commit(checked.map(c => c.value));
+      });
+      wrap.appendChild(label);
+    });
+    const hint = document.createElement('div');
+    hint.className = 'question__hint';
+    hint.textContent = 'Choose ' + maxSelect + '.';
+    wrap.appendChild(hint);
+    return wrap;
+  },
+
+  _matchInput(question, state, group) {
+    const bank = group && group.optionBank;
+    if (bank && bank.options && bank.options.length) {
+      const select = document.createElement('select');
+      select.className = 'question__select';
+      select.setAttribute('aria-label', 'Answer for question ' + question.number);
+      const def = document.createElement('option');
+      def.value = '';
+      def.textContent = 'Select';
+      select.appendChild(def);
+      bank.options.forEach((opt, i) => {
+        const o = document.createElement('option');
+        o.value = opt;
+        o.textContent = bank.labels && bank.labels[i] ? opt + '. ' + bank.labels[i] : opt;
+        select.appendChild(o);
+      });
+      const saved = state.getAnswer(question.number);
+      if (saved) select.value = saved;
+      const commit = this._bind(null, question, state);
+      select.addEventListener('change', () => commit(select.value));
+      return select;
+    }
+    // No option bank extracted: the crop above shows the choices, so accept a short typed answer.
+    return this._textInput(question, state, 'Answer');
+  },
+
+  _textInput(question, state, placeholder) {
+    const wrap = document.createElement('div');
     const input = document.createElement('input');
     input.type = 'text';
     input.className = 'question__input';
-    input.name = `q${question.number}`;
-    input.placeholder = question.maxWords ? `max ${question.maxWords} word(s)` : 'Your answer';
-    if (question.maxWords) input.dataset.maxWords = question.maxWords;
-
-    // Restore
+    input.autocomplete = 'off';
+    input.setAttribute('aria-label', 'Answer for question ' + question.number);
+    input.placeholder = placeholder || (question.maxWords ? 'Max ' + question.maxWords + ' word' + (question.maxWords > 1 ? 's' : '') : 'Your answer');
     const saved = state.getAnswer(question.number);
-    if (saved) input.value = saved;
-
-    input.addEventListener('input', () => {
-      state.setAnswer(question.number, input.value.trim());
-      const qEl = document.getElementById(`question-${question.number}`);
-      if (input.value.trim()) qEl?.classList.add('answered');
-      else qEl?.classList.remove('answered');
-      this._updateNav(question.number);
-    });
-
-    wrapper.appendChild(input);
-    return wrapper;
+    if (saved) input.value = Array.isArray(saved) ? saved.join(' ') : saved;
+    const commit = this._bind(null, question, state);
+    input.addEventListener('input', () => commit(input.value.trim()));
+    wrap.appendChild(input);
+    return wrap;
   },
 
-  /**
-   * Dropdown / matching — select element
-   */
-  _renderDropdown(question, state) {
-    const wrapper = document.createElement('div');
-
-    const select = document.createElement('select');
-    select.className = 'question__select';
-    select.name = `q${question.number}`;
-
-    const defaultOpt = document.createElement('option');
-    defaultOpt.value = '';
-    defaultOpt.textContent = '— Select —';
-    select.appendChild(defaultOpt);
-
-    const options = question.options || [];
-    const labels = question.optionLabels || [];
-
-    options.forEach((opt, i) => {
-      const option = document.createElement('option');
-      option.value = opt;
-      option.textContent = labels[i] ? `${opt} — ${labels[i]}` : opt;
-      select.appendChild(option);
-    });
-
-    // Restore
-    const saved = state.getAnswer(question.number);
-    if (saved) select.value = saved;
-
-    select.addEventListener('change', () => {
-      state.setAnswer(question.number, select.value);
-      const qEl = document.getElementById(`question-${question.number}`);
-      if (select.value) qEl?.classList.add('answered');
-      else qEl?.classList.remove('answered');
-      this._updateNav(question.number);
-    });
-
-    wrapper.appendChild(select);
-    return wrapper;
-  },
-
-  /**
-   * Update question navigator indicator
-   */
-  _updateNav(qNum) {
-    const navItem = document.querySelector(`.question-nav__item[data-qnum="${qNum}"]`);
-    if (navItem) {
-      navItem.classList.add('answered');
+  _letterOptions(question, group, fallback) {
+    if (group && group.optionBank && group.optionBank.options && group.optionBank.options.length) {
+      return group.optionBank.options;
     }
+    if (Array.isArray(question.options) && question.options.length) return question.options;
+    return fallback;
   },
 
-  /**
-   * Render option bank (list of choices shown above questions)
-   */
-  renderOptionBank(options, labels, title = 'Options') {
-    const bank = document.createElement('div');
-    bank.className = 'option-bank';
-
-    const titleEl = document.createElement('div');
-    titleEl.className = 'option-bank__title';
-    titleEl.textContent = title;
-    bank.appendChild(titleEl);
-
-    options.forEach((opt, i) => {
-      const item = document.createElement('div');
-      item.className = 'option-bank__item';
-      item.innerHTML = `<strong>${opt}</strong> ${labels[i] || ''}`;
-      bank.appendChild(item);
-    });
-
-    return bank;
+  _updateNav(qNum, state) {
+    const item = document.querySelector('.question-nav__item[data-qnum="' + qNum + '"]');
+    if (!item) return;
+    const answered = this._hasAnswer(state, qNum);
+    item.classList.toggle('answered', answered);
+    item.classList.toggle('flagged', state.isFlagged(qNum));
   }
 };

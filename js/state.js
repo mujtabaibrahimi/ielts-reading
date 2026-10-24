@@ -1,10 +1,11 @@
 /**
- * IELTS Reading Practice — State Manager
+ * IELTS Reading Practice - State Manager
  * Manages answers, flags, and progress via localStorage
  */
 
 const IELTS_ANSWERS_KEY = 'ielts_answers_';
 const IELTS_FLAGS_KEY = 'ielts_flags_';
+const IELTS_HL_KEY = 'ielts_hl_';
 const IELTS_PROGRESS_KEY = 'ielts_progress';
 
 class TestState {
@@ -12,7 +13,22 @@ class TestState {
     this.testId = testId;
     this.answers = {};
     this.flags = new Set();
+    this.highlights = {};
     this._restore();
+  }
+
+  /** Get highlight ranges for a panel key, for example "0-passage" */
+  getHighlights(key) {
+    return this.highlights[key] ? this.highlights[key].slice() : [];
+  }
+
+  /** Replace highlight ranges for a panel key and persist */
+  setHighlights(key, ranges) {
+    if (ranges && ranges.length) this.highlights[key] = ranges;
+    else delete this.highlights[key];
+    try {
+      localStorage.setItem(IELTS_HL_KEY + this.testId, JSON.stringify(this.highlights));
+    } catch (e) { /* ignore */ }
   }
 
   /** Set answer for a question */
@@ -71,8 +87,10 @@ class TestState {
   clear() {
     this.answers = {};
     this.flags = new Set();
+    this.highlights = {};
     localStorage.removeItem(IELTS_ANSWERS_KEY + this.testId);
     localStorage.removeItem(IELTS_FLAGS_KEY + this.testId);
+    localStorage.removeItem(IELTS_HL_KEY + this.testId);
   }
 
   // ─── Persistence ───
@@ -102,7 +120,10 @@ class TestState {
 
       const flags = localStorage.getItem(IELTS_FLAGS_KEY + this.testId);
       if (flags) this.flags = new Set(JSON.parse(flags));
-    } catch (e) { /* corrupt — start fresh */ }
+
+      const hl = localStorage.getItem(IELTS_HL_KEY + this.testId);
+      if (hl) this.highlights = JSON.parse(hl);
+    } catch (e) { /* corrupt - start fresh */ }
   }
 
   // ─── Global Progress Tracking ───

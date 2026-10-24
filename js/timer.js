@@ -1,5 +1,5 @@
 /**
- * IELTS Reading Practice — Timer Module
+ * IELTS Reading Practice - Timer Module
  * 60-minute countdown with localStorage persistence
  */
 
@@ -101,7 +101,7 @@ class IELTSTimer {
           timestamp: Date.now()
         })
       );
-    } catch (e) { /* quota exceeded — ignore */ }
+    } catch (e) { /* quota exceeded - ignore */ }
   }
 
   _restore() {
@@ -112,7 +112,7 @@ class IELTSTimer {
         const elapsed = Math.floor((Date.now() - data.timestamp) / 1000);
         this.remainingSeconds = Math.max(0, data.remaining - elapsed);
       }
-    } catch (e) { /* corrupt data — start fresh */ }
+    } catch (e) { /* corrupt data - start fresh */ }
   }
 
   _clear() {

@@ -1,17 +1,23 @@
 /* ═══════════════════════════════════════════════════════════
-   IELTS Reading Practice — Main Styles
+   IELTS Reading Practice - Main Styles
    ═══════════════════════════════════════════════════════════ */
 
 :root {
-  /* Brand palette — IELTS blue + warm accents */
-  --clr-primary: #1a3a5c;
-  --clr-primary-light: #2a5a8c;
-  --clr-primary-dark: #0d1f33;
-  --clr-accent: #e8792b;
-  --clr-accent-light: #f5a623;
+  /* Brand palette: teal primary action, purple secondary, red titles */
+  --clr-primary: #138a8a;
+  --clr-primary-light: #17a2a2;
+  --clr-primary-dark: #0c6060;
+  --clr-accent: #5a3fa0;
+  --clr-accent-light: #6f4fc0;
+  --clr-title: #c62828;
   --clr-success: #27ae60;
   --clr-danger: #e74c3c;
   --clr-warning: #f39c12;
+
+  /* Status colours */
+  --clr-status-complete: #1e8e5a;
+  --clr-status-near: #b7791f;
+  --clr-status-partial: #9ca3af;
 
   /* Neutrals */
   --clr-bg: #f5f6fa;
@@ -104,32 +110,48 @@ input, select, textarea { font-family: inherit; font-size: inherit; }
   position: sticky;
   top: 0;
   z-index: 100;
-  background: var(--clr-primary);
-  color: white;
+  background: var(--clr-surface);
+  color: var(--clr-text);
   height: var(--header-h);
   display: flex;
   align-items: center;
+  justify-content: space-between;
   padding: 0 var(--sp-lg);
-  box-shadow: var(--shadow-md);
+  border-bottom: 1px solid var(--clr-border);
+  box-shadow: var(--shadow-sm);
 }
 
 .app-header__logo {
   font-size: var(--fs-xl);
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: -0.5px;
   display: flex;
   align-items: center;
   gap: var(--sp-sm);
+  color: var(--clr-text);
 }
 
 .app-header__logo .ielts-badge {
-  background: var(--clr-accent);
+  background: var(--clr-title);
   color: white;
   padding: 2px 8px;
   border-radius: var(--radius-sm);
   font-size: var(--fs-xs);
   font-weight: 800;
+  letter-spacing: 0.5px;
 }
+
+.app-header__tagline {
+  font-size: var(--fs-sm);
+  color: var(--clr-text-muted);
+  font-weight: 500;
+}
+
+/* ─── Status badges ─── */
+.badge-status { text-transform: none; letter-spacing: 0; }
+.badge-complete { background: #e3f6ed; color: var(--clr-status-complete); }
+.badge-near { background: #fdf3df; color: var(--clr-status-near); }
+.badge-partial { background: #eef0f3; color: #5b6472; }
 
 /* ─── Buttons ─── */
 .btn {
