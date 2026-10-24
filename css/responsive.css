@@ -29,6 +29,10 @@
   .test-body {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr auto;
+    /* Leave room for the Passage/Questions toggle bar so the question bar
+       is not pushed below the screen; dvh follows mobile browser chrome. */
+    height: calc(100vh - var(--header-h) - 42px);
+    height: calc(100dvh - var(--header-h) - 42px);
   }
 
   .split-divider { display: none; }
@@ -53,6 +57,14 @@
 
   .question-nav__group { gap: 2px; }
   .question-nav__item { width: 24px; height: 24px; font-size: 10px; }
+  .part-arrows__btn { width: 30px; height: 30px; font-size: 1.2rem; }
+  /* Wrap the bar so the part arrows and Submit stay on screen. */
+  .question-nav { flex-wrap: wrap; row-gap: 4px; overflow-x: visible; }
+  .question-nav__group { padding: 0; }
+  .question-nav__label,
+  .question-nav__sep { display: none; }
+  .part-arrows { order: -2; margin-left: 0; }
+  .part-arrows + .question-nav__submit { order: -1; margin-left: auto; }
 
   .test-cards-grid {
     grid-template-columns: 1fr;

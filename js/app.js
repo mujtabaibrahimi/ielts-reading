@@ -106,8 +106,23 @@ const App = {
     document.querySelectorAll('.part-tab').forEach((tab, i) =>
       tab.classList.toggle('active', i === partIndex));
     this._renderPart(partIndex);
+    this._updatePartArrows();
     document.getElementById('passage-content').scrollTop = 0;
     document.getElementById('questions-content').scrollTop = 0;
+  },
+
+  _updatePartArrows() {
+    const parts = this.testData.parts;
+    const set = (id, idx) => {
+      const btn = document.getElementById(id);
+      if (!btn) return;
+      const p = parts[idx];
+      btn.disabled = !p;
+      btn.title = p ? 'Part ' + p.partNumber + ' (Questions ' + p.questionRange[0] + '-' + p.questionRange[1] + ')' : '';
+      btn.setAttribute('aria-label', p ? 'Go to ' + btn.title : (id === 'part-prev' ? 'No previous part' : 'No next part'));
+    };
+    set('part-prev', this.currentPart - 1);
+    set('part-next', this.currentPart + 1);
   },
 
   _renderPart(partIndex) {
@@ -383,6 +398,11 @@ const App = {
     this.testData.parts.forEach((part, partIdx) => {
       const group = document.createElement('div');
       group.className = 'question-nav__group';
+      // Clicking the space around a part's numbers opens that part.
+      group.title = 'Part ' + part.partNumber;
+      group.addEventListener('click', (e) => {
+        if (e.target === group && partIdx !== this.currentPart) this.switchPart(partIdx);
+      });
       for (let q = part.questionRange[0]; q <= part.questionRange[1]; q++) {
         if (part._shown && !part._shown.has(q)) continue;
         const item = document.createElement('button');
@@ -403,6 +423,23 @@ const App = {
       }
     });
 
+    // Previous / next passage arrows in the bottom-right corner.
+    const arrows = document.createElement('div');
+    arrows.className = 'part-arrows';
+    [['part-prev', '‹', -1], ['part-next', '›', 1]].forEach(([id, glyph, step]) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.id = id;
+      btn.className = 'part-arrows__btn';
+      btn.textContent = glyph;
+      btn.onclick = () => {
+        const idx = this.currentPart + step;
+        if (idx >= 0 && idx < this.testData.parts.length) this.switchPart(idx);
+      };
+      arrows.appendChild(btn);
+    });
+    nav.appendChild(arrows);
+
     const submit = document.createElement('button');
     submit.type = 'button';
     submit.className = 'btn btn-primary question-nav__submit';
@@ -416,6 +453,7 @@ const App = {
       if (window.confirm(msg)) this.submitTest(false);
     };
     nav.appendChild(submit);
+    this._updatePartArrows();
   },
 
   _scrollToQuestion(qNum) {
