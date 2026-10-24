@@ -4,6 +4,14 @@
 
 A static web app that lets you read the passage and answer its questions side by side, just like the computer-delivered IELTS test, with a 60-minute timer, instant band scoring, and an explanation of the trap behind every wrong answer.
 
+**Live site:** https://mujtabaibrahimi.github.io/ielts-reading/
+
+## Demo
+
+[![Watch the demo video](assets/demo/demo-poster.jpg)](https://mujtabaibrahimi.github.io/ielts-reading/assets/demo/ielts-reading-demo.mp4)
+
+*Click the image to play the demo video.*
+
 ## Features
 
 - **Single-screen exam flow.** Passage on the left, that part's questions on the right, both visible at once. No switching pages and no reading from a PDF, so you spend your hour practising, not navigating.

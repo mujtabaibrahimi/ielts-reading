@@ -39,6 +39,23 @@
       font-size: 0.9375rem;
       font-weight: 500;
     }
+    .intro__demo {
+      margin: 1.5rem 0 0;
+      max-width: 880px;
+    }
+    .intro__demo video {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #0f1e24;
+      border-radius: var(--radius-md, 10px);
+      box-shadow: 0 8px 24px rgba(15, 30, 36, 0.18);
+    }
+    .intro__demo figcaption {
+      margin-top: 0.5rem;
+      font-size: 0.875rem;
+      color: var(--clr-text-muted);
+    }
     .intro__subtitle a {
       color: var(--clr-primary);
       font-weight: 600;
@@ -240,6 +257,14 @@
       mention it in an email to
       <a href="mailto:mujtaba@mujtabaibrahimi.com">mujtaba@mujtabaibrahimi.com</a>.
     </div>
+    <figure class="intro__demo">
+      <video controls playsinline preload="none" poster="assets/demo/demo-poster.jpg"
+             aria-label="Demo video of the IELTS Reading Practice site">
+        <source src="assets/demo/ielts-reading-demo.mp4" type="video/mp4">
+        <a href="assets/demo/ielts-reading-demo.mp4">Watch the demo video</a>
+      </video>
+      <figcaption>See how a test works: split-screen passage and questions, timer, band score and answer review.</figcaption>
+    </figure>
     <div class="intro__stats">
       <div>
         <div class="intro__stat-value" id="stat-total">0</div>
