@@ -1,0 +1,123 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Reading Passage has eight paragraphs A-H. Which paragraph contains the following information? Choose the correct letter, A-H. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Paragraphs",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "27": {
+        "prompt": "the methods some companies use to try to keep their most creative employees",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "28": {
+        "prompt": "a new way of getting help with your personal difficulties",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "29": {
+        "prompt": "how much investment goes into safeguarding the ideas of individuals",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "30": {
+        "prompt": "two examples of companies which have succeeded through being innovative",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "31": {
+        "prompt": "how some innovators manage to avoid spending large sums of money on testing out their ideas",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "32": {
+        "prompt": "a commonly held opinion about product designers that needs to be proved wrong",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "33": {
+        "prompt": "the target of one large company that has changed its business focus",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    }
+  },
+  "p2g1": {
+    "questionNumbers": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  }
+}

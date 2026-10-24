@@ -1,0 +1,189 @@
+{
+  "p1g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source PDF itself (the page has blank space under the instruction, and the crop shows only answer lines 5-9); cannot transcribe without inventing."
+  },
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the table. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+    "body": "Domestic Animals and Wild Animals table. Life is: domestic animals [[20]]; wild animals threatened by numerous [[21]]. Death is: domestic animals [[22]]; wild animals brutalising and painful. They: domestic animals have some [[23]]; wild animals are unlikely to have this easy existence."
+  },
+  "p2g3": {
+    "clearImages": true,
+    "instruction": "Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each term. Find two interesting terms used in the text to refer to",
+    "body": "One Term and Another Term table. Vegetarians: one term is bean-sprout crowd, another term is [[24]]. Sheep and cattle: one term is [[25]], another term is cud-chewing cousins. Lazy people: one term is couch potatoes, another term is [[26]]."
+  },
+  "p3g1": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Answer the questions. Choose the correct letter, A-F, for each answer. NB You can use an answer more than once. Which painter",
+    "optionBank": {
+      "title": "Painters",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "labels": [
+        "Braque",
+        "Cezanne",
+        "Delaunay",
+        "Gris",
+        "Léger",
+        "Picasso"
+      ]
+    },
+    "questions": {
+      "27": {
+        "prompt": "led a new abstraction movement?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "28": {
+        "prompt": "was the most influential?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "29": {
+        "prompt": "was affected by a global conflict?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "30": {
+        "prompt": "is inevitably linked with an art movement?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "31": {
+        "prompt": "was married?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    }
+  },
+  "p3g2": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Answer the questions. Choose the correct letter, A-F, for each answer. NB You can use an answer ONLY once. Which painting is",
+    "optionBank": {
+      "title": "Paintings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "labels": [
+        "Newspaper and Fruit Dish",
+        "Portrait of Picasso",
+        "Railway Crossing",
+        "Simultaneous Windows",
+        "The Bathers",
+        "Young Ladies of Avignon"
+      ]
+    },
+    "questions": {
+      "32": {
+        "prompt": "a confusing abstraction in many colours?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "33": {
+        "prompt": "a darker view, ahead of its time?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "34": {
+        "prompt": "probably the first of its kind?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "35": {
+        "prompt": "an intriguing and multi-chromatic view?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "36": {
+        "prompt": "very representative of its type?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "37": {
+        "prompt": "an early painting which influenced another?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    }
+  }
+}

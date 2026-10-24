@@ -1,0 +1,16 @@
+{
+  "p2g4": {
+    "_keepImage": true,
+    "_reason": "Multi-select spread over boxes 25-26; answer key is garbled ('A,C 24 A' in both) and cannot map to single inputs."
+  },
+  "_answers": {
+    "18": "A,C,D,E,G",
+    "19": "A,C,D,E,G",
+    "20": "A,C,D,E,G",
+    "21": "A,C,D,E,G",
+    "22": "A,C,D,E,G",
+    "24": "A",
+    "25": "A,C",
+    "26": "A,C"
+  }
+}

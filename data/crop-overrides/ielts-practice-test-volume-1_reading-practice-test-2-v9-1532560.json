@@ -1,0 +1,33 @@
+{
+  "p2g2": {
+    "instruction": "Complete the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 18-24.",
+    "questions": {
+      "18": {
+        "prompt": "Worm Interior: movement powered by ______"
+      },
+      "19": {
+        "prompt": "Worm Interior: label 19 (a part of the worm's gut, arrow from the upper right)"
+      },
+      "20": {
+        "prompt": "Worm Interior: release of ______"
+      },
+      "21": {
+        "prompt": "Worm Interior: Body releases ______ to assist in travel."
+      },
+      "22": {
+        "prompt": "Burrow Interior: burrow also allows movement of ______"
+      },
+      "23": {
+        "prompt": "Burrow Interior: Worms move using ______."
+      },
+      "24": {
+        "prompt": "Burrow Interior: Air pushed ahead specifically helps ______."
+      }
+    }
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 31-35.",
+    "body": "The Case for Conflict. Box 1: new age, with growing [[31]]. This leads to Box 2: group discussions, meeting, etc. able to provide a [[32]]. Two further boxes feed into the step after Box 2: 'Many people only want to have [[33]].' and 'add [[34]]'. Result: [[35]] is increased."
+  }
+}

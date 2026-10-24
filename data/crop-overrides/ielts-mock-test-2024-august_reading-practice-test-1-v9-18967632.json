@@ -1,0 +1,14 @@
+{
+  "p1g4": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        9
+      ],
+      "type": "sentence-completion"
+    },
+    "type": "sentence-completion",
+    "instruction": "Complete the sentence below. Choose TWO WORDS from the passage for the answer. Write your answer in box 9 on your answer sheet.",
+    "body": "There are many different types of dogs today, because, in early times humans began to [[9]] their animals for the characteristics they wanted."
+  }
+}

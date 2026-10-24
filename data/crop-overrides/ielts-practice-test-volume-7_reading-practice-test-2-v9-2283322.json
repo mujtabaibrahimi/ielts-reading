@@ -1,0 +1,13 @@
+{
+  "p2g3": {
+    "_keepImage": true,
+    "_reason": "Each question is 'choose the correct answer or answers' with multi-letter keys (e.g. 23 'B,C', 25 'A,C'); cannot map to single inputs."
+  },
+  "_answers": {
+    "18": "A,C,E,F,G",
+    "19": "A,C,E,F,G",
+    "20": "A,C,E,F,G",
+    "21": "A,C,E,F,G",
+    "22": "A,C,E,F,G"
+  }
+}

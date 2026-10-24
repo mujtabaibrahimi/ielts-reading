@@ -1,346 +1,1228 @@
 {
   "id": "master-ielts-general-training-volume-2_reading-practice-test-1-v9-1885093",
   "type": "general",
-  "source": "master-ielts-general-training-volume-2 reading-practice-test-1-v9-1885093",
+  "title": "Master IELTS General Training Volume 2 - Reading Test 1",
+  "collection": "Master IELTS General Training Volume 2",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 2,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-2_reading-practice-test-1-v9-1885093.pdf",
-  "total_questions": 21,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "What's on Sydney",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nWhat's on Sydney",
-        "tables": [
+        "heading": "A. AUSTRALIA'S SCHOOL OF STAND-UP COMEDY",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "Number",
-                "Reminders"
-              ],
-              [
-                "1",
-                "Read the Joining Instructions from your college carefully and use your\nunconditional offer and the letter for Immigration purposes to apply for a visa\nor entry clearance."
-              ],
-              [
-                "2",
-                "Have you applied for your accommodation? If so, and you have had this\nconfirmed, remember to bring your accommodation contract. Don't forget to\ncarry this contract in your hand luggage."
-              ],
-              [
-                "3",
-                "Check that your passport Is valid and not about to expire."
-              ],
-              [
-                "4",
-                "Apply for a visa for the period of your study In the UK (If you are a visa\nnational) or entry clearance for all other non-EEA countries. For more\nInformation go to: www.ukvisas.gov.uk"
-              ]
-            ],
-            "header": [
-              "Number",
-              "Reminders"
-            ]
+            "label": null,
+            "text": "What's on Sydney"
           },
           {
-            "page": 4,
-            "rows": [
-              [
-                "5",
-                "Take a photocopy of your passport (pages with your personal details and visa\npage). Make your travel arrangements and remember your travel tickets."
-              ],
-              [
-                "6",
-                "Make labels for your luggage. Note that airlines In the UK are strictly enforcing\nhand baggage policies, so only carry the minimum through security."
-              ],
-              [
-                "7",
-                "Make a list of the contents of your luggage for Insurance purposes."
-              ],
-              [
-                "8",
-                "Weigh your luggage to ensure that It Is within your baggage allowance."
-              ],
-              [
-                "9",
-                "If you require any prescription medication remember to pack an adequate\nsupply, along with a letter from your doctor explaining what they are for."
-              ],
-              [
-                "10",
-                "Bring a short medical history If possible. This will be helpful when you register\nwith a doctor on arrival."
-              ],
-              [
-                "11",
-                "Bring vaccination certificates, If required. Check the current position on\nwww.ukvlsas.gov.uk"
-              ],
-              [
-                "12",
-                "Bring a bank reference or a letter from your home bank. Read more about\nbanking"
-              ]
-            ],
-            "header": [
-              "5",
-              "Take a photocopy of your passport (pages with your personal details and visa\npage). Make your travel arrangements and remember your travel tickets."
-            ]
+            "label": null,
+            "text": "Read the information below and answer Questions 1-4."
+          },
+          {
+            "label": null,
+            "text": "Star Bar Next course Feb"
+          },
+          {
+            "label": null,
+            "text": "Q4 Australia's School of Stand-up Comedy! Five week course Welcome to\nAustralia's school of stand-up comedy. This course was designed to take you\nstep by step into the mind and world of the stand-up comic. The ability to ...\nMore"
+          },
+          {
+            "label": null,
+            "text": "B. DANCE CLASSES"
+          },
+          {
+            "label": null,
+            "text": "The Wharf Daily, various times"
+          },
+          {
+            "label": null,
+            "text": "Adult Classes Sydney Dance Company Dance Studios run over 70 dance\nclasses for adults every\nweek. Located at Sydney Dance Company at The Wharf, dance styles on offer\ninclude Jazz, Funk, Hip Hop, Tap, Contemporary, ... More"
+          },
+          {
+            "label": null,
+            "text": "C. Digital Photography 4 hour Workshop - Bohemian & Colonial"
+          },
+          {
+            "label": null,
+            "text": "Q1 Sydney Walking Tour"
+          },
+          {
+            "label": null,
+            "text": "Sydney City East area December 19, 30 January 2"
+          },
+          {
+            "label": null,
+            "text": "Discover and capture Sydney's lesser known landmarks whilst improving your\nphotographic skills on this fun and informal digital photography walking tour.\nSuitable for all photographers (local or tourist) ... More"
+          },
+          {
+            "label": null,
+            "text": "D. Q3 Dl Bootcamp and P&O's 8 day/ 3 island DJ Course Cruise!"
+          },
+          {
+            "label": null,
+            "text": "P&O Cruises Sydney harbour Sept 22-29"
+          },
+          {
+            "label": null,
+            "text": "Australia's first professional DJ Cruise! P&O and DJ Bootcamp have teamed up\nto bring you an amazing 8 days, 3 island professional DJ training course cruise.\n1 price includes your room, meals, entertainment, island ... More"
+          },
+          {
+            "label": null,
+            "text": "E. NIDA SUMMER HOLIDAY COURSES"
+          },
+          {
+            "label": null,
+            "text": "Q4 MIDA 4 JAMUARY-22 JAMUARY"
+          },
+          {
+            "label": null,
+            "text": "For the summer holidays in January 2010 NIDA will be offering Q2 some\nexciting new courses including Dinosaur Park, NIDA Space Academy, Circus\nand Clown School, Puppet Making, and Music Theatre for People with\nIntellectual ... More ."
+          },
+          {
+            "label": null,
+            "text": "F. TALKABOUT Lecture Series - \"Big Ideas\""
+          },
+          {
+            "label": null,
+            "text": "Sydney Mechanics' School of Arts"
+          },
+          {
+            "label": null,
+            "text": "2 February - 16 February"
+          },
+          {
+            "label": null,
+            "text": "The first guest for the 2010 TaIkabout series of talks is Dr. Anne Summers,\nbest-selling author and columnist who has had a long career in politics and the\nmedia: she will launch the series with February's\ntheme 'Big ... More"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 5-10."
+          },
+          {
+            "label": null,
+            "text": "PRE DEPARTURE CHECKLIST"
+          },
+          {
+            "label": null,
+            "text": "Number Reminders"
+          },
+          {
+            "label": null,
+            "text": "Read the Joining Instructions from your college carefully and use your\nunconditional offer and the letter for Immigration purposes to apply for a visa\nor entry clearance."
+          },
+          {
+            "label": null,
+            "text": "1"
+          },
+          {
+            "label": null,
+            "text": "Have you applied for your accommodation? If so, and you have had this\nconfirmed, remember to bring your accommodation contract. Don't forget to\ncarry this contract in your hand luggage."
+          },
+          {
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "3\nCheck that your passport Is valid and not about to expire."
+          },
+          {
+            "label": null,
+            "text": "Apply for a visa for the period of your study In the UK (If you are a visa\nnational) or entry clearance for all other non-EEA countries. For more\nInformation go to: www.ukvisas.gov.uk"
+          },
+          {
+            "label": null,
+            "text": "4"
+          },
+          {
+            "label": null,
+            "text": "5\nTake a photocopy of your passport (pages with your personal details and visa\npage). Make your travel arrangements and remember your travel tickets."
+          },
+          {
+            "label": null,
+            "text": "6\nMake labels for your luggage. Note that airlines In the UK are strictly enforcing\nhand baggage policies, so only carry the minimum through security."
+          },
+          {
+            "label": null,
+            "text": "7\nMake a list of the contents of your luggage for Insurance purposes."
+          },
+          {
+            "label": null,
+            "text": "8\nWeigh your luggage to ensure that It Is within your baggage allowance."
+          },
+          {
+            "label": null,
+            "text": "9\nIf you require any prescription medication remember to pack an adequate\nsupply, along with a letter from your doctor explaining what they are for."
+          },
+          {
+            "label": null,
+            "text": "10\nBring a short medical history If possible. This will be helpful when you register\nwith a doctor on arrival."
+          },
+          {
+            "label": null,
+            "text": "11\nBring vaccination certificates, If required. Check the current position on\nwww.ukvlsas.gov.uk"
+          },
+          {
+            "label": null,
+            "text": "12\nBring a bank reference or a letter from your home bank. Read more about\nbanking"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 11-14."
+          },
+          {
+            "label": null,
+            "text": "Registering with a doctor (GP) under the National"
+          },
+          {
+            "label": null,
+            "text": "Health Service (NHS)"
+          },
+          {
+            "label": null,
+            "text": "To register with a GP you simply need to visit a surgery during surgery hours\nand ask to be included on the GP's list of patients. You will be given a short\napplication form to complete. You will then be sent a medical card, which will\ncarry your NHS number. If the GP cannot accept you, try elsewhere or use the\nNHS local search at http://www.nhs.uk/."
+          },
+          {
+            "label": null,
+            "text": "If you are receiving regular treatment/medicine we suggest that you submit\nthese details to your GP. Make sure that you are aware of the surgery hours;\nask the receptionist who may then give you a list of surgery hours. You will\nusually need to make an appointment if you wish to see a GP, however you can\nask\nfor an emergency appointment if you need to see the GP urgently."
+          },
+          {
+            "label": null,
+            "text": "Remember to attend your appointment or to cancel/rearrange it if you cannot\nattend , as doctors often have heavy work schedules and your appointment\ncould be offered to another patient."
+          },
+          {
+            "label": null,
+            "text": "If you are seriously ill and cannot visit the surgery then the GP can be called out\nto see you. The receptionist will tell you what time the GP will visit you."
           }
         ],
+        "text": "What's on Sydney\n\nRead the information below and answer Questions 1-4.\n\nStar Bar Next course Feb\n\nQ4 Australia's School of Stand-up Comedy! Five week course Welcome to\nAustralia's school of stand-up comedy. This course was designed to take you\nstep by step into the mind and world of the stand-up comic. The ability to ...\nMore\n\nB. DANCE CLASSES\n\nThe Wharf Daily, various times\n\nAdult Classes Sydney Dance Company Dance Studios run over 70 dance\nclasses for adults every\nweek. Located at Sydney Dance Company at The Wharf, dance styles on offer\ninclude Jazz, Funk, Hip Hop, Tap, Contemporary, ... More\n\nC. Digital Photography 4 hour Workshop - Bohemian & Colonial\n\nQ1 Sydney Walking Tour\n\nSydney City East area December 19, 30 January 2\n\nDiscover and capture Sydney's lesser known landmarks whilst improving your\nphotographic skills on this fun and informal digital photography walking tour.\nSuitable for all photographers (local or tourist) ... More\n\nD. Q3 Dl Bootcamp and P&O's 8 day/ 3 island DJ Course Cruise!\n\nP&O Cruises Sydney harbour Sept 22-29\n\nAustralia's first professional DJ Cruise! P&O and DJ Bootcamp have teamed up\nto bring you an amazing 8 days, 3 island professional DJ training course cruise.\n1 price includes your room, meals, entertainment, island ... More\n\nE. NIDA SUMMER HOLIDAY COURSES\n\nQ4 MIDA 4 JAMUARY-22 JAMUARY\n\nFor the summer holidays in January 2010 NIDA will be offering Q2 some\nexciting new courses including Dinosaur Park, NIDA Space Academy, Circus\nand Clown School, Puppet Making, and Music Theatre for People with\nIntellectual ... More .\n\nF. TALKABOUT Lecture Series - \"Big Ideas\"\n\nSydney Mechanics' School of Arts\n\n2 February - 16 February\n\nThe first guest for the 2010 TaIkabout series of talks is Dr. Anne Summers,\nbest-selling author and columnist who has had a long career in politics and the\nmedia: she will launch the series with February's\ntheme 'Big ... More\n\nRead the text below and answer Questions 5-10.\n\nPRE DEPARTURE CHECKLIST\n\nNumber Reminders\n\nRead the Joining Instructions from your college carefully and use your\nunconditional offer and the letter for Immigration purposes to apply for a visa\nor entry clearance.\n\n1\n\nHave you applied for your accommodation? If so, and you have had this\nconfirmed, remember to bring your accommodation contract. Don't forget to\ncarry this contract in your hand luggage.\n\n2\n\n3\nCheck that your passport Is valid and not about to expire.\n\nApply for a visa for the period of your study In the UK (If you are a visa\nnational) or entry clearance for all other non-EEA countries. For more\nInformation go to: www.ukvisas.gov.uk\n\n4\n\n5\nTake a photocopy of your passport (pages with your personal details and visa\npage). Make your travel arrangements and remember your travel tickets.\n\n6\nMake labels for your luggage. Note that airlines In the UK are strictly enforcing\nhand baggage policies, so only carry the minimum through security.\n\n7\nMake a list of the contents of your luggage for Insurance purposes.\n\n8\nWeigh your luggage to ensure that It Is within your baggage allowance.\n\n9\nIf you require any prescription medication remember to pack an adequate\nsupply, along with a letter from your doctor explaining what they are for.\n\n10\nBring a short medical history If possible. This will be helpful when you register\nwith a doctor on arrival.\n\n11\nBring vaccination certificates, If required. Check the current position on\nwww.ukvlsas.gov.uk\n\n12\nBring a bank reference or a letter from your home bank. Read more about\nbanking\n\nRead the text below and answer Questions 11-14.\n\nRegistering with a doctor (GP) under the National\n\nHealth Service (NHS)\n\nTo register with a GP you simply need to visit a surgery during surgery hours\nand ask to be included on the GP's list of patients. You will be given a short\napplication form to complete. You will then be sent a medical card, which will\ncarry your NHS number. If the GP cannot accept you, try elsewhere or use the\nNHS local search at http://www.nhs.uk/.\n\nIf you are receiving regular treatment/medicine we suggest that you submit\nthese details to your GP. Make sure that you are aware of the surgery hours;\nask the receptionist who may then give you a list of surgery hours. You will\nusually need to make an appointment if you wish to see a GP, however you can\nask\nfor an emergency appointment if you need to see the GP urgently.\n\nRemember to attend your appointment or to cancel/rearrange it if you cannot\nattend , as doctors often have heavy work schedules and your appointment\ncould be offered to another patient.\n\nIf you are seriously ill and cannot visit the surgery then the GP can be called out\nto see you. The receptionist will tell you what time the GP will visit you.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Look at the six course descriptions, A-F. Write the correct letter, A-F, in boxes 1-4 on your answer sheet. NB You may use any letter more than once. On which course do you need to move around the city? On which TWO courses can you learn ways to make people laugh? (Example: A,B not A and B) Which course takes you round in a boat? Which TWO courses last more than two weeks? (Example: A,B not A and B)",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-2_reading-practice-test-1-v9-1885093/p1g1-1.png",
+              "w": 982,
+              "h": 57
+            },
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-2_reading-practice-test-1-v9-1885093/p1g1-2.png",
+              "w": 982,
+              "h": 593
+            }
+          ],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Write the correct number of the reminder in boxes 5-10 on your answer sheet. NB You may use any number more than once. Which reminder: tells you what to do about medicines you might need?",
+          "body": "[[5]] advises you to take certain documents in your hand luggage? [[6]] tells you what documents you need to apply for a visa? [[7]] advises you to check health requirements for entering the country? [[8]] warns you about an airline policy? [[9]] advises you to bring documents showing your housing arrangements? [[10]]",
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 11-14 on your answer sheet. Where must you go to register with a GP?",
+          "body": "[[11]] What information does your medical card give? [[12]] Who can tell you what the surgery's hours are? [[13]] What should you do if you can 't go to an appointment? [[14]]",
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "matching-features",
-          "prompt": "price includes your room, meals, entertainment, island ... More",
-          "instruction": "Read the information below and answer Questions 1-4. A. AUSTRALIA'S SCHOOL OF STAND-UP COMEDY Star Bar Next course Feb Q4 Australia's School of Stand-up Comedy! Five week course Welcome to Australia's school of stand-up comedy. This course was designed to take you step by step into the mind and world of the stand-up comic. The ability to ... More B. DANCE CLASSES The Wharf Daily, various times Adult Classes Sydney Dance Company Dance Studios run over 70 dance classes for adults every week. Located at Sydney Dance Company at The Wharf, dance styles on offer include Jazz, Funk, Hip Hop, Tap, Contemporary, ... More C. Digital Photography 4 hour Workshop - Bohemian & Colonial Q1 Sydney Walking Tour Sydney City East area December 19, 30 January 2 Discover and capture Sydney's lesser known landmarks whilst improving your photographic skills on this fun and informal digital photography walking tour. Suitable for all photographers (local or tourist) ... More",
-          "answer": "C"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 2,
-          "type": "fill-in-blank",
-          "prompt": "February - 16 February",
-          "instruction": "Read the information below and answer Questions 1-4. A. AUSTRALIA'S SCHOOL OF STAND-UP COMEDY Star Bar Next course Feb Q4 Australia's School of Stand-up Comedy! Five week course Welcome to Australia's school of stand-up comedy. This course was designed to take you step by step into the mind and world of the stand-up comic. The ability to ... More B. DANCE CLASSES The Wharf Daily, various times Adult Classes Sydney Dance Company Dance Studios run over 70 dance classes for adults every week. Located at Sydney Dance Company at The Wharf, dance styles on offer include Jazz, Funk, Hip Hop, Tap, Contemporary, ... More C. Digital Photography 4 hour Workshop - Bohemian & Colonial Q1 Sydney Walking Tour Sydney City East area December 19, 30 January 2 Discover and capture Sydney's lesser known landmarks whilst improving your photographic skills on this fun and informal digital photography walking tour. Suitable for all photographers (local or tourist) ... More",
-          "answer": "A, E"
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A, E",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A, E",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "9",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "2",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "1",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "11",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "6",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "2",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(a) surgery",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(your) NHS number",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(the) receptionist",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cancel/rearrange (it)",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Working Holiday",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        20
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nWorking Holiday",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Working Holiday"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15-20."
+          },
+          {
+            "label": null,
+            "text": "Job Programmes"
+          },
+          {
+            "label": null,
+            "text": "Work and Travel USA 2009"
+          },
+          {
+            "label": null,
+            "text": "International university students can work in the U.S. under the J-1 Visa\nprogramme as entry-level short-term employees. This programme is designed\nto help U.S. businesses meet their seasonal staffing needs while giving\ninternational students the chance to earn money, experience a new culture,\nand travel abroad in their summer break. You can work for up to 4 months\nduring your university vacation, after which you are allowed to travel for up to\nan additional four weeks. Your stay in the US must not exceed 5 months."
+          },
+          {
+            "label": null,
+            "text": "Working Holiday Britain"
+          },
+          {
+            "label": null,
+            "text": "During the summer most employers look for great numbers of extra staff, and\na lot of them are happy to accept candidates from out of the country.\nEmployment can range from hotels and catering to farm work. There are also\npositions available in childcare, conservation work and archaeological\nexcavations. We offer accommodation in central London, weekend activities\nand sightseeing, an English language course, a discount card, a free telephone\ncard, a free London guide and orientation about how to find a job in the UK."
+          },
+          {
+            "label": null,
+            "text": "Work and Travel in Singapore"
+          },
+          {
+            "label": null,
+            "text": "If you have a deep desire to experience work adventure, then the island of\nSingapore, known to' offer the best quality of life in Asia, holds the key to your\nfulfilment. This programme allows university students and recent graduates to\ncome to Singapore to live and work for six months. Situated in the heart of\nAsia, Singapore resonates with a sophisticated global beat yet intrigues with its\ndelightful Asian allure. With an English speaking working environment, living in\nthe lion City is a seamless affair for any global talent. Imagine working in any\njob sector? Work & Travel Programme in Singapore makes it possible. So, come\nlive and work here, while gaining valuable exposure, skills, and knowledge!"
+          },
+          {
+            "label": null,
+            "text": "Working Holiday Canada"
+          },
+          {
+            "label": null,
+            "text": "The Canadian working holiday programme allows young travellers to\nparticipate in short-term work/internships to supplement any travel expenses\nthey may sustain while in Canada. The programme places participants into\npaid, entry-level jobs throughout Canada. Global Choices guarantees you a\npaid job, accommodation, bank account and work documents before you leave\nyour country."
+          },
+          {
+            "label": null,
+            "text": "Working Holiday in Australia"
+          },
+          {
+            "label": null,
+            "text": "Experience close contact with a local neighbourhood in Australia! With the\nworking holiday in Australia programme vacationers can stay for an extended\nperiod by supplementing their travel funds through incidental employment. A\nworking holiday visa allows you to stay and work in Australia for 12 months,\nalthough you may not work for more than 3 months with anyone employer."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 21-27."
+          },
+          {
+            "label": null,
+            "text": "How to sit correctly"
+          },
+          {
+            "label": null,
+            "text": "If you work in an office and use a computer, you can avoid injury by sitting in\nthe right position and arranging your desk correctly. Follow these tips:"
+          },
+          {
+            "label": null,
+            "text": "A. Support your back"
+          },
+          {
+            "label": null,
+            "text": "A correctly adjusted chair will reduce the strain on your back. Get one that is\neasily adjustable so that you can change the height, back position and tilt.\nHave your knees level with your hips. You may need a footrest for this."
+          },
+          {
+            "label": null,
+            "text": "B. Adjust your seat"
+          },
+          {
+            "label": null,
+            "text": "Be aware of the various adjustments that you can make to your chair. If\nsomeone else has used your desk you may have to re-adjust the chair. If it's\nstill uncomfortable, try another type of chair."
+          },
+          {
+            "label": null,
+            "text": "C. Rest your feet on floor"
+          },
+          {
+            "label": null,
+            "text": "Your feet should be flat on the floor. If they're not, ask if you can have a\nfootrest, which lets you rest your feet at a level that's comfortable to you.\nDon't cross your legs, as this can cut off circulation and cause hip problems."
+          },
+          {
+            "label": null,
+            "text": "D. Place your screen at eye level"
+          },
+          {
+            "label": null,
+            "text": "Position your monitor 12-30 inches (30-75cm) away from your eyes. A good\nguide is to place the monitor about an arm's length away, with the top of the\nscreen roughly at eye level. To achieve this you may need to get a stand for\nyour monitor."
+          },
+          {
+            "label": null,
+            "text": "E. Avoid screen reflection"
+          },
+          {
+            "label": null,
+            "text": "Your screen should be as glare-free as possible. If there's glare on your screen,\nhold a mirror in front of it to identify the cause. Position the monitor to avoid\nreflection from overhead lighting and sunlight. If necessary, pull blinds across\nthe windows and replace ceiling lighting with table lights. Adjusting the\nscreen's brightness or contrast can make it much easier to use."
+          },
+          {
+            "label": null,
+            "text": "F. Make objects accessible"
+          },
+          {
+            "label": null,
+            "text": "Position frequently used objects, such as your telephone or stapler, within easy\nreach. Avoid repeatedly stretching or twisting to reach things."
+          },
+          {
+            "label": null,
+            "text": "G. Avoid phone strain"
+          },
+          {
+            "label": null,
+            "text": "If you spend a lot of time on the phone, try exchanging your handset for a\nheadset. Repeatedly cradling the phone between your ear and shoulder can\nstrain the muscles in your neck."
+          },
+          {
+            "label": null,
+            "text": "H. Avoid wrist pain"
+          },
+          {
+            "label": null,
+            "text": "Your wrists should be straight when using a keyboard. Keep your elbows\nvertical under your shoulder and right by your side. Position and use the mouse\nas close to you as possible. A mouse mat with a wrist pad may help to keep\nyour wrist straight and avoid awkward bending."
+          }
+        ],
+        "text": "Working Holiday\n\nRead the text below and answer Questions 15-20.\n\nJob Programmes\n\nWork and Travel USA 2009\n\nInternational university students can work in the U.S. under the J-1 Visa\nprogramme as entry-level short-term employees. This programme is designed\nto help U.S. businesses meet their seasonal staffing needs while giving\ninternational students the chance to earn money, experience a new culture,\nand travel abroad in their summer break. You can work for up to 4 months\nduring your university vacation, after which you are allowed to travel for up to\nan additional four weeks. Your stay in the US must not exceed 5 months.\n\nWorking Holiday Britain\n\nDuring the summer most employers look for great numbers of extra staff, and\na lot of them are happy to accept candidates from out of the country.\nEmployment can range from hotels and catering to farm work. There are also\npositions available in childcare, conservation work and archaeological\nexcavations. We offer accommodation in central London, weekend activities\nand sightseeing, an English language course, a discount card, a free telephone\ncard, a free London guide and orientation about how to find a job in the UK.\n\nWork and Travel in Singapore\n\nIf you have a deep desire to experience work adventure, then the island of\nSingapore, known to' offer the best quality of life in Asia, holds the key to your\nfulfilment. This programme allows university students and recent graduates to\ncome to Singapore to live and work for six months. Situated in the heart of\nAsia, Singapore resonates with a sophisticated global beat yet intrigues with its\ndelightful Asian allure. With an English speaking working environment, living in\nthe lion City is a seamless affair for any global talent. Imagine working in any\njob sector? Work & Travel Programme in Singapore makes it possible. So, come\nlive and work here, while gaining valuable exposure, skills, and knowledge!\n\nWorking Holiday Canada\n\nThe Canadian working holiday programme allows young travellers to\nparticipate in short-term work/internships to supplement any travel expenses\nthey may sustain while in Canada. The programme places participants into\npaid, entry-level jobs throughout Canada. Global Choices guarantees you a\npaid job, accommodation, bank account and work documents before you leave\nyour country.\n\nWorking Holiday in Australia\n\nExperience close contact with a local neighbourhood in Australia! With the\nworking holiday in Australia programme vacationers can stay for an extended\nperiod by supplementing their travel funds through incidental employment. A\nworking holiday visa allows you to stay and work in Australia for 12 months,\nalthough you may not work for more than 3 months with anyone employer.\n\nRead the text below and answer Questions 21-27.\n\nHow to sit correctly\n\nIf you work in an office and use a computer, you can avoid injury by sitting in\nthe right position and arranging your desk correctly. Follow these tips:\n\nA. Support your back\n\nA correctly adjusted chair will reduce the strain on your back. Get one that is\neasily adjustable so that you can change the height, back position and tilt.\nHave your knees level with your hips. You may need a footrest for this.\n\nB. Adjust your seat\n\nBe aware of the various adjustments that you can make to your chair. If\nsomeone else has used your desk you may have to re-adjust the chair. If it's\nstill uncomfortable, try another type of chair.\n\nC. Rest your feet on floor\n\nYour feet should be flat on the floor. If they're not, ask if you can have a\nfootrest, which lets you rest your feet at a level that's comfortable to you.\nDon't cross your legs, as this can cut off circulation and cause hip problems.\n\nD. Place your screen at eye level\n\nPosition your monitor 12-30 inches (30-75cm) away from your eyes. A good\nguide is to place the monitor about an arm's length away, with the top of the\nscreen roughly at eye level. To achieve this you may need to get a stand for\nyour monitor.\n\nE. Avoid screen reflection\n\nYour screen should be as glare-free as possible. If there's glare on your screen,\nhold a mirror in front of it to identify the cause. Position the monitor to avoid\nreflection from overhead lighting and sunlight. If necessary, pull blinds across\nthe windows and replace ceiling lighting with table lights. Adjusting the\nscreen's brightness or contrast can make it much easier to use.\n\nF. Make objects accessible\n\nPosition frequently used objects, such as your telephone or stapler, within easy\nreach. Avoid repeatedly stretching or twisting to reach things.\n\nG. Avoid phone strain\n\nIf you spend a lot of time on the phone, try exchanging your handset for a\nheadset. Repeatedly cradling the phone between your ear and shoulder can\nstrain the muscles in your neck.\n\nH. Avoid wrist pain\n\nYour wrists should be straight when using a keyboard. Keep your elbows\nvertical under your shoulder and right by your side. Position and use the mouse\nas close to you as possible. A mouse mat with a wrist pad may help to keep\nyour wrist straight and avoid awkward bending.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
+          "body": "[[15]] What is the maximum time you can stay in the US with the J-1 Visa programme? [[16]] When do many employers in Britain want to hire extra staff? [[17]] How long does the Work and Travel Programme allow you to work in Singapore? [[18]] Where in Canada are jobs available? [[19]] What is the longest you can stay in one job in Australia? [[20]]",
+          "range": [
+            15,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "The leaflet above offers several tips for sitting correctly. Which section do these actions belong to? Write the correct letter, A-H. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            21,
+            27
+          ],
+          "optionBank": {
+            "title": "Sections",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "sentence-completion",
-          "prompt": "What is the maximum time you can stay in the US with the J-1 Visa programme?",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "international university"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "international university students",
+          "trap": null
         },
         {
           "number": 16,
           "type": "sentence-completion",
-          "prompt": "When do many employers in Britain want to hire extra staff?",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "5 months"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "5 months",
+          "trap": null
         },
         {
           "number": 17,
           "type": "sentence-completion",
-          "prompt": "How long does the Work and Travel Programme allow you to work in Singapore?",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "(during) (the) summer"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(during) (the) summer",
+          "trap": null
         },
         {
           "number": 18,
           "type": "sentence-completion",
-          "prompt": "Where in Canada are jobs available?",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "(for) 6 months"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(for) 6 months",
+          "trap": null
         },
         {
           "number": 19,
           "type": "sentence-completion",
-          "prompt": "What is the longest you can stay in one job in Australia?",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "throughout (Canada)"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "throughout (Canada)",
+          "trap": null
         },
         {
           "number": 20,
           "type": "sentence-completion",
-          "prompt": "The leaflet above offers several tips for sitting correctly. Which do these actions belong to? Write the correct letter, A-H, in boxes 21-27 on your answer sheet. NB You may use any letter more than once.",
-          "instruction": "Read the text below and answer Questions 15-20. Job Programmes Work and Travel USA 2009 International university students can work in the U.S. under the J-1 Visa programme as entry-level short-term employees. This programme is designed to help U.S. businesses meet their seasonal staffing needs while giving international students the chance to earn money, experience a new culture, and travel abroad in their summer break. You can work for up to 4 months during your university vacation, after which you are allowed to travel for up to an additional four weeks. Your stay in the US must not exceed 5 months. Working Holiday Britain During the summer most employers look for great numbers of extra staff, and a lot of them are happy to accept candidates from out of the country. Employment can range from hotels and catering to farm work. There are also positions available in childcare, conservation work and archaeological excavations. We offer accommodation in central London, weekend activities and sightseeing, an English language course, a discount card, a free telephone card, a free London guide and orientation about how to find a job in the UK. Work and Travel in Singapore Read the text below and answer Questions 21-27. How to sit correctly If you work in an office and use a computer, you can avoid injury by sitting in the right position and arranging your desk correctly. Follow these tips: A. Support your back A correctly adjusted chair will reduce the strain on your back. Get one that is easily adjustable so that you can change the height, back position and tilt. Have your knees level with your hips. You may need a footrest for this. B. Adjust your seat Be aware of the various adjustments that you can make to your chair. If someone else has used your desk you may have to re-adjust the chair. If it's still uncomfortable, try another type of chair. Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR NUMBERS from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. Who can join the J-1 Visa programme in the US?",
-          "answer": "3 months"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "3 months",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Keeping things you often need close to you.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Keeping your wrist straight.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Making sure your screen is at the right height.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Raising and supporting your feet.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Checking the direction of lighting in your room.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Using computer accessories correctly.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Reducing your body movements.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "The Language revolution",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nThe Language revolution",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 14,
-            "rows": [
-              [
-                "28",
-                "The person who predicts the growth of Mandarin"
-              ],
-              [
-                "29",
-                "The name of the journal mentioned in the article"
-              ],
-              [
-                "30",
-                "The number of people worldwide speaking a little English"
-              ],
-              [
-                "31",
-                "The name of China's language teaching schools"
-              ],
-              [
-                "32",
-                "How often Nick Harrison studies Mandarin"
-              ]
-            ],
-            "header": [
-              "28",
-              "The person who predicts the growth of Mandarin"
-            ]
+            "label": null,
+            "text": "The Language revolution"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "\"In the next decade the new 'must learn' language is likely to be Mandarin\",\nsaid language researcher David Graddol, in a recent issue of the journal\nScience. He echoed a view expressed by academics and business people\nacross the western world."
+          },
+          {
+            "label": null,
+            "text": "English speakers have had it pretty good. Modern English is the most widely\ntaught and understood language in the world. It is the dominant international\nlanguage in communications, science, business, aviation, entertainment,\ndiplomacy and on the Internet. Around 400-500 million people speak it as their\nfirst language and up to 1.5 billion have a basic proficiency in English."
+          },
+          {
+            "label": null,
+            "text": "Mother tongue"
+          },
+          {
+            "label": null,
+            "text": "There have of course been other languages bidding for the language crown.\nCompeting world languages have included, at various times and in various\nregions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and\nMalay."
+          },
+          {
+            "label": null,
+            "text": "Today, Mandarin Chinese, the official language of China, is the one to watch.\nAnd while the global share of English is clearly still huge, the number of native\nspeakers is vastly outnumbered by those who speak Mandarin as their first\nlanguage: an estimated 867m."
+          },
+          {
+            "label": null,
+            "text": "The sheer size of China's population and the country's increasing importance in"
+          },
+          {
+            "label": null,
+            "text": "the world economy and in politics account partly for its position. We are also\nseeing the spread, for example, of the government sponsored Confucius\nInstitutes which run courses in Chinese and Chinese culture in many places\noutside China, reflecting the country's increased power and confidence."
+          },
+          {
+            "label": null,
+            "text": "Education too is starting to reflect the growing importance of the language,\nparticularly in the US where an estimated 24,000 young people are already\nstudying Mandarin. With the government setting up a US$114 million initiative\nto increase the teaching of 'critical' languages in US schools, this number looks\nset to rise dramatically."
+          },
+          {
+            "label": null,
+            "text": "And people are recognising the practical benefits and role of Chinese in\nbusiness. In particular, businesses are interested in employing people who can\nspeak Mandarin, but are not necessarily Chinese, though even those working in\nChina can still get away with only limited knowledge of the language."
+          },
+          {
+            "label": null,
+            "text": "Nick Harrison, a UK banker based in Shanghai, has on the ground experience\nhaving moved there in December 2005. \"Our business discussions are all in\nEnglish, and the vast majority of office administration is written and spoken in\nChinese.\""
+          },
+          {
+            "label": null,
+            "text": "Learning the language"
+          },
+          {
+            "label": null,
+            "text": "Learning Mandarin is a big challenge though. \"We generally say it takes three\nyears of full time study to have a working knowledge of Chinese, including\nknowledge of the script. If you just want to speak it, it probably takes one\nyear\", says Michel Hockx, professor at London's School of African and Oriental\nStudies. \"Perhaps if we started learning at an earlier age, we might learn\nfaster, but if you are starting in your early\ntwenties, it takes much longer.\""
+          },
+          {
+            "label": null,
+            "text": "Nick Harrison's experiences support this theory. \"I definitely don't speak\nMandarin, but am having lessons once a week\", he says. \"My two year old\ndaughter, Claudia, is progressing well and is destined to be my translator in the\nfuture.\""
           }
         ],
+        "text": "The Language revolution\n\nRead the text below and answer Questions 28-40.\n\n\"In the next decade the new 'must learn' language is likely to be Mandarin\",\nsaid language researcher David Graddol, in a recent issue of the journal\nScience. He echoed a view expressed by academics and business people\nacross the western world.\n\nEnglish speakers have had it pretty good. Modern English is the most widely\ntaught and understood language in the world. It is the dominant international\nlanguage in communications, science, business, aviation, entertainment,\ndiplomacy and on the Internet. Around 400-500 million people speak it as their\nfirst language and up to 1.5 billion have a basic proficiency in English.\n\nMother tongue\n\nThere have of course been other languages bidding for the language crown.\nCompeting world languages have included, at various times and in various\nregions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and\nMalay.\n\nToday, Mandarin Chinese, the official language of China, is the one to watch.\nAnd while the global share of English is clearly still huge, the number of native\nspeakers is vastly outnumbered by those who speak Mandarin as their first\nlanguage: an estimated 867m.\n\nThe sheer size of China's population and the country's increasing importance in\n\nthe world economy and in politics account partly for its position. We are also\nseeing the spread, for example, of the government sponsored Confucius\nInstitutes which run courses in Chinese and Chinese culture in many places\noutside China, reflecting the country's increased power and confidence.\n\nEducation too is starting to reflect the growing importance of the language,\nparticularly in the US where an estimated 24,000 young people are already\nstudying Mandarin. With the government setting up a US$114 million initiative\nto increase the teaching of 'critical' languages in US schools, this number looks\nset to rise dramatically.\n\nAnd people are recognising the practical benefits and role of Chinese in\nbusiness. In particular, businesses are interested in employing people who can\nspeak Mandarin, but are not necessarily Chinese, though even those working in\nChina can still get away with only limited knowledge of the language.\n\nNick Harrison, a UK banker based in Shanghai, has on the ground experience\nhaving moved there in December 2005. \"Our business discussions are all in\nEnglish, and the vast majority of office administration is written and spoken in\nChinese.\"\n\nLearning the language\n\nLearning Mandarin is a big challenge though. \"We generally say it takes three\nyears of full time study to have a working knowledge of Chinese, including\nknowledge of the script. If you just want to speak it, it probably takes one\nyear\", says Michel Hockx, professor at London's School of African and Oriental\nStudies. \"Perhaps if we started learning at an earlier age, we might learn\nfaster, but if you are starting in your early\ntwenties, it takes much longer.\"\n\nNick Harrison's experiences support this theory. \"I definitely don't speak\nMandarin, but am having lessons once a week\", he says. \"My two year old\ndaughter, Claudia, is progressing well and is destined to be my translator in the\nfuture.\"",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer.",
+          "body": "Fact and Description table. Fact '[[28]]': Description 'The person who predicts the growth of Mandarin'. Fact '[[29]]': Description 'The name of the journal mentioned in the article'. Fact '[[30]]': Description 'The number of people worldwide speaking a little English'. Fact '[[31]]': Description 'The name of China's language teaching schools'. Fact '[[32]]': Description 'How often Nick Harrison studies Mandarin'.",
+          "range": [
+            28,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            33,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "table-completion",
-          "prompt": "The person who predicts the growth of Mandarin",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION",
-          "answer": "David Graddol"
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "David Graddol",
+          "trap": null
         },
         {
           "number": 29,
           "type": "table-completion",
-          "prompt": "The name of the journal mentioned in the article",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION",
-          "answer": "Science"
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Science",
+          "trap": null
         },
         {
           "number": 30,
           "type": "table-completion",
-          "prompt": "The number of people worldwide speaking a little English",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION",
-          "answer": "1.5 billion"
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "1.5 billion",
+          "trap": null
         },
         {
           "number": 31,
           "type": "table-completion",
-          "prompt": "The name of China's language teaching schools",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION",
-          "answer": "Confucius Institutes"
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Confucius Institutes",
+          "trap": null
         },
         {
           "number": 32,
           "type": "table-completion",
-          "prompt": "How often Nick Harrison studies Mandarin Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION",
-          "answer": "once a week"
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "once a week",
+          "trap": null
         },
         {
           "number": 33,
           "type": "true-false-not-given",
-          "prompt": "Many people agree that Mandarin will be essential in the future.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "Many people agree that Mandarin will be essential in\nthe future.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 34,
           "type": "true-false-not-given",
-          "prompt": "There are more fluent second language speakers of English than first language speakers of English.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "There are more fluent second language speakers of\nEnglish than first language speakers of English.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
-          "prompt": "English has been the most widely spoken of all world languages.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "English has been the most widely spoken of all world\nlanguages.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "More people speak English as a mother tongue than Mandarin.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "More people speak English as a mother tongue than\nMandarin.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "The growth of Mandarin is due to many factors.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "The number of students studying Mandarin in the US will soon reach 24,000.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "The number of students studying Mandarin in the US\nwill soon reach 24,000.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "Businesses throughout China only hire employees speaking at least two languages.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "Businesses throughout China only hire employees\nspeaking at least two languages.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "You need a year to learn to write well in Chinese.",
-          "instruction": "Read the text below and answer Questions 28-40. \"In the next decade the new 'must learn' language is likely to be Mandarin\", said language researcher David Graddol, in a recent issue of the journal Science. He echoed a view expressed by academics and business people across the western world. English speakers have had it pretty good. Modern English is the most widely taught and understood language in the world. It is the dominant international language in communications, science, business, aviation, entertainment, diplomacy and on the Internet. Around 400-500 million people speak it as their first language and up to 1.5 billion have a basic proficiency in English. Mother tongue There have of course been other languages bidding for the language crown. Competing world languages have included, at various times and in various regions, Neo-Latin, French, Russian, Chinese, Arabic, Sanskrit, Hindu-Urdu and Malay. Today, Mandarin Chinese, the official language of China, is the one to watch. And while the global share of English is clearly still huge, the number of native speakers is vastly outnumbered by those who speak Mandarin as their first language: an estimated 867m. The sheer size of China's population and the country's increasing importance in Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 28-32 on your answer sheet. FACT DESCRIPTION Do the following statements agree with the information given in the text? In boxes 33-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     }
@@ -350,11 +1232,17 @@
     "2": "A, E",
     "3": "D",
     "4": "A, E",
+    "5": "9",
+    "6": "2",
+    "7": "1",
+    "8": "11",
+    "9": "6",
+    "10": "2",
     "11": "(a) surgery",
     "12": "(your) NHS number",
     "13": "(the) receptionist",
     "14": "cancel/rearrange (it)",
-    "15": "international university",
+    "15": "international university students",
     "16": "5 months",
     "17": "(during) (the) summer",
     "18": "(for) 6 months",

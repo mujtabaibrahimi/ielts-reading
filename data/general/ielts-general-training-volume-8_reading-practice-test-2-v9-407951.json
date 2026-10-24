@@ -1,243 +1,1276 @@
 {
   "id": "ielts-general-training-volume-8_reading-practice-test-2-v9-407951",
   "type": "general",
-  "source": "ielts-general-training-volume-8 reading-practice-test-2-v9-407951",
+  "title": "IELTS General Training Volume 8 - Reading Test 2",
+  "collection": "IELTS General Training Volume 8",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 8,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-8_reading-practice-test-2-v9-407951.pdf",
-  "total_questions": 6,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [
+        "heading": "ART GALLERY",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "MEMBER SERVICES, ROAD SERVICE\nAND INSURANCE",
-                null,
-                "FINANCIAL SERVICES (8.30am to 5pm,\nMonday to Friday, 8.30am to 11 am\nSaturday)",
-                null
-              ],
-              [
-                "All insurance enquiries",
-                "133",
-                "Home Loans",
-                "701"
-              ],
-              [
-                "Credit card payments Visa,\nMastercard for\nmembership and insurance\npolicies (open 24/7)",
-                "344",
-                "Life Insurance",
-                "976"
-              ],
-              [
-                "Teleclaims For motor vehicle\nclaims (open 24/7)",
-                "123",
-                "Personal Loans",
-                "978"
-              ],
-              [
-                "HELPLINE",
-                "",
-                "LEGAL ADVICE\n(8.30am to 5pm, Monday\nto Friday)",
-                ""
-              ],
-              [
-                "Road Service (open 24/7)",
-                "114",
-                "Sydney",
-                "191"
-              ],
-              [
-                "HOME SECURITY",
-                "553",
-                "Newcastle",
-                "132"
-              ],
-              [
-                "Alarm systems",
-                "554",
-                "Wollongong",
-                "132"
-              ],
-              [
-                "TECHNICAL ADVICE\n(8.30am to 5pm, Monday\nto Friday, 8.30am to 11 am\nSaturday)\nFor road tests, car buying,\nadvice and assistance on\nmotoring problems.\nLocal call charge.",
-                "443",
-                "Canberra",
-                "426"
-              ],
-              [
-                "Child restraint enquiries",
-                "632",
-                "SMASH REPAIRS\nRepairs guaranteed for life,\n(7.30am to 5 pm, Monday\nto Friday)",
-                "900"
-              ]
-            ],
-            "header": [
-              "MEMBER SERVICES, ROAD SERVICE\nAND INSURANCE",
-              null,
-              "FINANCIAL SERVICES (8.30am to 5pm,\nMonday to Friday, 8.30am to 11 am\nSaturday)",
-              null
-            ]
+            "label": null,
+            "text": "Read the text below and answer Questions 1-4."
           },
           {
-            "page": 4,
-            "rows": [
-              [
-                "Recorded road report for major\nhighways",
-                "222",
-                "Batteries",
-                "111"
-              ],
-              [
-                "",
-                "",
-                "DRIVE TRAVEL",
-                "122"
-              ],
-              [
-                "",
-                "",
-                "Local touring information and attraction\ntickets\nSERVICE (HEARING IMPAIRED)",
-                ""
-              ],
-              [
-                "",
-                "",
-                "Road Service",
-                "317"
-              ],
-              [
-                "",
-                "",
-                "nsurance enquiries",
-                "728"
-              ]
-            ],
-            "header": [
-              "Recorded road report for major\nhighways",
-              "222",
-              "Batteries",
-              "111"
-            ]
+            "label": null,
+            "text": "The Art Gallery's mission is to bring diverse forms"
+          },
+          {
+            "label": null,
+            "text": "of art and craft to the people of this city."
+          },
+          {
+            "label": null,
+            "text": "NEW YEAR FESTIVITIES"
+          },
+          {
+            "label": null,
+            "text": "A multimedia exhibition from the four corners of the earth On show in the\nHanson Theatre, Level 2, Main Building Free"
+          },
+          {
+            "label": null,
+            "text": "Opens January 1, closes March 20"
+          },
+          {
+            "label": null,
+            "text": "THE ART OF THE EARLY WEST"
+          },
+          {
+            "label": null,
+            "text": "American art of the westward expansion On show in the South Gallery, Level 3\n$15.00 adults, $5.00 for members, $4.50 for students"
+          },
+          {
+            "label": null,
+            "text": "Opens March 13, closes June 30"
+          },
+          {
+            "label": null,
+            "text": "GREEK OLYMPIC SCULPTURE"
+          },
+          {
+            "label": null,
+            "text": "A historical exhibit of work by ancient artists In the North Gallery"
+          },
+          {
+            "label": null,
+            "text": "$10 adults, $8 for members, $6 for students"
+          },
+          {
+            "label": null,
+            "text": "Opens July 1, closes August 7"
+          },
+          {
+            "label": null,
+            "text": "DEVELOPMENTAL ART"
+          },
+          {
+            "label": null,
+            "text": "Work by gifted local school children On show in the East Gallery"
+          },
+          {
+            "label": null,
+            "text": "$2. Donations may be left In the box at the exit, and will be gratefully received."
+          },
+          {
+            "label": null,
+            "text": "Opens July 25, closes September 30"
+          },
+          {
+            "label": null,
+            "text": "Headsets are available for the Greek Olympic Sculpture only."
+          },
+          {
+            "label": null,
+            "text": "A fee of $6 per adult, $5 for members and $4.50 for students will be charged."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 5-9."
+          },
+          {
+            "label": null,
+            "text": "MOTORISTS' ASSOCIATION\nCall our main number 9292 9222 then enter these extensions"
+          },
+          {
+            "label": null,
+            "text": "FINANCIAL SERVICES (8.30am to 5pm,\nMonday to Friday, 8.30am to 11 am\nSaturday)"
+          },
+          {
+            "label": null,
+            "text": "MEMBER SERVICES, ROAD SERVICE\nAND INSURANCE"
+          },
+          {
+            "label": null,
+            "text": "All insurance enquiries\n133\nHome Loans\n701"
+          },
+          {
+            "label": null,
+            "text": "Credit card payments Visa,\nMastercard for\nmembership and insurance\npolicies (open 24/7)"
+          },
+          {
+            "label": null,
+            "text": "344\nLife Insurance\n976"
+          },
+          {
+            "label": null,
+            "text": "Teleclaims For motor vehicle\nclaims (open 24/7)"
+          },
+          {
+            "label": null,
+            "text": "123\nPersonal Loans\n978"
+          },
+          {
+            "label": null,
+            "text": "HELPLINE\nLEGAL ADVICE\n(8.30am to 5pm, Monday\nto Friday)"
+          },
+          {
+            "label": null,
+            "text": "Road Service (open 24/7)\n114\nSydney\n191"
+          },
+          {
+            "label": null,
+            "text": "HOME SECURITY\n553\nNewcastle\n132"
+          },
+          {
+            "label": null,
+            "text": "Alarm systems\n554\nWollongong\n132"
+          },
+          {
+            "label": null,
+            "text": "TECHNICAL ADVICE\n(8.30am to 5pm, Monday\nto Friday, 8.30am to 11 am\nSaturday)\nFor road tests, car buying,\nadvice and assistance on\nmotoring problems.\nLocal call charge."
+          },
+          {
+            "label": null,
+            "text": "443\nCanberra\n426"
+          },
+          {
+            "label": null,
+            "text": "Child restraint enquiries\n632\nSMASH REPAIRS\nRepairs guaranteed for life,\n(7.30am to 5 pm, Monday\nto Friday)"
+          },
+          {
+            "label": null,
+            "text": "900"
+          },
+          {
+            "label": null,
+            "text": "Recorded road report for major\nhighways"
+          },
+          {
+            "label": null,
+            "text": "222\nBatteries\n111"
+          },
+          {
+            "label": null,
+            "text": "DRIVE TRAVEL\n122"
+          },
+          {
+            "label": null,
+            "text": "Local touring information and attraction\ntickets\nSERVICE (HEARING IMPAIRED)"
+          },
+          {
+            "label": null,
+            "text": "Road Service\n317"
+          },
+          {
+            "label": null,
+            "text": "nsurance enquiries\n728"
+          },
+          {
+            "label": null,
+            "text": "VEHICLE INSPECTIONS (7am to 10 pm) 1 300 362 802"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 10-13."
+          },
+          {
+            "label": null,
+            "text": "ADVICE TO MOTORISTS"
+          },
+          {
+            "label": null,
+            "text": "A Always lock your car and never leave your keys in the car. Sounds . obvious,\nbut how often have you left your car unlocked while you paid for fuel at a\nservice station or dashed into a shop? A recently-passed law will ensure that\nyou never forget again - heavy penalties apply."
+          },
+          {
+            "label": null,
+            "text": "B Always lock valuables in the boot. Most car crime is opportunistic, so don't\nmake it easy. And if something is too valuable to lose, the golden rule is, take it\nwith you."
+          },
+          {
+            "label": null,
+            "text": "C Thieves need little incentive. Most thefts from cars are carried out by\nyoungsters looking for nothing more than a few dollars, so don.'t leave coin-\nholders if they can be seen from outside. The cost of repairs often far\noutweighs the value of what is stolen."
+          },
+          {
+            "label": null,
+            "text": "D At night, always try to park in a brightly-lit area where your vehicle can be\nseen by passers-by. Poorly-lit streets are a thief's favourite hunting ground."
+          },
+          {
+            "label": null,
+            "text": "E Never park where you can see broken glass from car windows on the ground.\nThieves are creatures of habit and will return to the scene of past successes."
+          },
+          {
+            "label": null,
+            "text": "F Install a car alarm."
+          },
+          {
+            "label": null,
+            "text": "G Where available, use car parks that are well lit and have boom gates Don't\nleave your parking ticket in the car."
+          },
+          {
+            "label": null,
+            "text": "H In high-risk areas leave your glove box and ashtray open to show thieves\nthat there is nothing in the car worth taking."
           }
         ],
+        "text": "Read the text below and answer Questions 1-4.\n\nThe Art Gallery's mission is to bring diverse forms\n\nof art and craft to the people of this city.\n\nNEW YEAR FESTIVITIES\n\nA multimedia exhibition from the four corners of the earth On show in the\nHanson Theatre, Level 2, Main Building Free\n\nOpens January 1, closes March 20\n\nTHE ART OF THE EARLY WEST\n\nAmerican art of the westward expansion On show in the South Gallery, Level 3\n$15.00 adults, $5.00 for members, $4.50 for students\n\nOpens March 13, closes June 30\n\nGREEK OLYMPIC SCULPTURE\n\nA historical exhibit of work by ancient artists In the North Gallery\n\n$10 adults, $8 for members, $6 for students\n\nOpens July 1, closes August 7\n\nDEVELOPMENTAL ART\n\nWork by gifted local school children On show in the East Gallery\n\n$2. Donations may be left In the box at the exit, and will be gratefully received.\n\nOpens July 25, closes September 30\n\nHeadsets are available for the Greek Olympic Sculpture only.\n\nA fee of $6 per adult, $5 for members and $4.50 for students will be charged.\n\nRead the text below and answer Questions 5-9.\n\nMOTORISTS' ASSOCIATION\nCall our main number 9292 9222 then enter these extensions\n\nFINANCIAL SERVICES (8.30am to 5pm,\nMonday to Friday, 8.30am to 11 am\nSaturday)\n\nMEMBER SERVICES, ROAD SERVICE\nAND INSURANCE\n\nAll insurance enquiries\n133\nHome Loans\n701\n\nCredit card payments Visa,\nMastercard for\nmembership and insurance\npolicies (open 24/7)\n\n344\nLife Insurance\n976\n\nTeleclaims For motor vehicle\nclaims (open 24/7)\n\n123\nPersonal Loans\n978\n\nHELPLINE\nLEGAL ADVICE\n(8.30am to 5pm, Monday\nto Friday)\n\nRoad Service (open 24/7)\n114\nSydney\n191\n\nHOME SECURITY\n553\nNewcastle\n132\n\nAlarm systems\n554\nWollongong\n132\n\nTECHNICAL ADVICE\n(8.30am to 5pm, Monday\nto Friday, 8.30am to 11 am\nSaturday)\nFor road tests, car buying,\nadvice and assistance on\nmotoring problems.\nLocal call charge.\n\n443\nCanberra\n426\n\nChild restraint enquiries\n632\nSMASH REPAIRS\nRepairs guaranteed for life,\n(7.30am to 5 pm, Monday\nto Friday)\n\n900\n\nRecorded road report for major\nhighways\n\n222\nBatteries\n111\n\nDRIVE TRAVEL\n122\n\nLocal touring information and attraction\ntickets\nSERVICE (HEARING IMPAIRED)\n\nRoad Service\n317\n\nnsurance enquiries\n728\n\nVEHICLE INSPECTIONS (7am to 10 pm) 1 300 362 802\n\nRead the text below and answer Questions 10-13.\n\nADVICE TO MOTORISTS\n\nA Always lock your car and never leave your keys in the car. Sounds . obvious,\nbut how often have you left your car unlocked while you paid for fuel at a\nservice station or dashed into a shop? A recently-passed law will ensure that\nyou never forget again - heavy penalties apply.\n\nB Always lock valuables in the boot. Most car crime is opportunistic, so don't\nmake it easy. And if something is too valuable to lose, the golden rule is, take it\nwith you.\n\nC Thieves need little incentive. Most thefts from cars are carried out by\nyoungsters looking for nothing more than a few dollars, so don.'t leave coin-\nholders if they can be seen from outside. The cost of repairs often far\noutweighs the value of what is stolen.\n\nD At night, always try to park in a brightly-lit area where your vehicle can be\nseen by passers-by. Poorly-lit streets are a thief's favourite hunting ground.\n\nE Never park where you can see broken glass from car windows on the ground.\nThieves are creatures of habit and will return to the scene of past successes.\n\nF Install a car alarm.\n\nG Where available, use car parks that are well lit and have boom gates Don't\nleave your parking ticket in the car.\n\nH In high-risk areas leave your glove box and ashtray open to show thieves\nthat there is nothing in the car worth taking.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "fill-in-blank",
+          "instruction": "Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 1-4 on your answer sheet. Which exhibition can you visit in late August?",
+          "body": "[[1]] How much must a member pay to see the exhibition of art from the United States? $[[2]] In which location would you find an exhibit featuring works from the earliest times? [[3]] Which exhibit provides a commentary for an extra fee? [[4]]",
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Look at the Motorists' Association on the Passage 1 Write the correct extension number in boxes 5-9 on your answer sheet. What extension should you call if: you want to find out about a baby's car seat?",
+          "body": "[[5]] you feel cheated by a repair shop near your home In Newcastle? [[6]] you have trouble hearing and you need assistance to change a tyre? [[7]] you are going on a road trip and want to find out what activities are available? [[8]] you want advice on purchasing a vehicle? [[9]]",
+          "range": [
+            5,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has nine paragraphs, A-H. Which paragraph contains the following advice? Write the appropriate letter, A-H, in boxes 10-13 on your answer sheet.",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Developmental art",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "5.00",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "North Gallery",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Greek Olympic Sculpture",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "632",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "132",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "317",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "122",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "443",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g3",
+          "prompt": "a way to show there is nothing to steal from the car\nwhen in an unsafe area",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g3",
+          "prompt": "the kind of car park where you can safely leave your car",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g3",
+          "prompt": "a warning about the effects of a new law",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g3",
+          "prompt": "how to protect items of value",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
-        21
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "IMS LEAVE ENTITLEMENTS",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 14-21."
+          },
+          {
+            "label": null,
+            "text": "INTERNATIONAL BUSINESS INSTITUTE\nBUDDY PEER SUPPORT SCHEME"
+          },
+          {
+            "label": null,
+            "text": "Think back to your first days and weeks in a new country. Were there times\nwhen you had questions that you wished you could ask a friend, or when you\nwanted to have a chat about how you were feeling?"
+          },
+          {
+            "label": null,
+            "text": "To help new students, the International Business Institute (IBI) plans to set up a\nBuddy Peer Support Scheme. The scheme will help new students meet current\nstudents at IBI who can provide them with some friendly company during their\nfirst months in Newcastle and help them with any small problems that they\nmay have. Often, buddies may not be able to solve the problem, but they may\nknow who can help."
+          },
+          {
+            "label": null,
+            "text": "What's in it for you?"
+          },
+          {
+            "label": null,
+            "text": "We believe that being a buddy will be rewarding in several ways. As a\nvolunteer, it will be personally satisfying to know that you are able to help new\nstudents. However, it will also help you to make contacts that may be valuable\nin your future academic and professional lives."
+          },
+          {
+            "label": null,
+            "text": "If you are an overseas student, it will give you another opportunity to practise\nspeaking English. Lastly and most importantly, we hope that it will be enjoyable\nfor you to be a buddy!"
+          },
+          {
+            "label": null,
+            "text": "Responsibilities of buddies"
+          },
+          {
+            "label": null,
+            "text": "1. Telephone and arrange to make contact with the new student."
+          },
+          {
+            "label": null,
+            "text": "2. Meet the student and show him/her around the campus and the local area.\nMeet for coffee, perhaps. Answer questions about living in Newcastle and\nadministration procedures at IBI. (We will give you a checklist of things to\nmention when we send you the new student's name and telephone number)."
+          },
+          {
+            "label": null,
+            "text": "3. Arrange to meet the new student one morning or afternoon one weekend\nearly in the semester, and take the student to places that you enjoy in\nNewcastle."
+          },
+          {
+            "label": null,
+            "text": "4. Be prepared to take telephone calls from the new student to answer further\nquestions that he/she may have from time to time. Meet to explain information\nin person, if required."
+          },
+          {
+            "label": null,
+            "text": "5. You will be matched to an individual new student. However, if you have\nfriends who are also buddies, you might prefer to form a support group\ntogether. This would mean that you meet the new students as a group rather\nthan one-on-one."
+          },
+          {
+            "label": null,
+            "text": "6. Being a buddy is voluntary. There is no 'requirement' to provide assistance\nbeyond the help outlined above. However, we hope that the buddy and new\nstudents will enjoy each other's company and continue to meet."
+          },
+          {
+            "label": null,
+            "text": "Please note that if you agree to become a peer support buddy, you will be\nexpected to fulfil your role conscientiously and cheerfully. It will be important to\nbe considerate and reliable so that our student can feel confident of your\nsupport."
+          },
+          {
+            "label": null,
+            "text": "7. When you agree to act as a buddy for a particular term, your commitment\ncovers that term only. For example, if you act as a buddy for Term 2, and\nwould prefer to be free in the following term, there is no obligation to continue\nas a buddy in Term 3. Of course, we hope that you will want to assist every\nterm."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "The purpose of this document is to advise IMS employees of their leave\nentitlements, such as paid vacation time, holidays and time off to look after\nyourself or others during times of sickness or difficulty."
+          },
+          {
+            "label": null,
+            "text": "Annual Leave"
+          },
+          {
+            "label": null,
+            "text": "Employees are entitled to 4 weeks of paid annual leave for each 12 months of\nservice to IMS. Being determined on your standard hours of work, this base\nentitlement accrues progressively during the year and accumulates from year\nto year. The accrued leave, expressed in hours, is printed on your fortnightly"
+          },
+          {
+            "label": null,
+            "text": "payslip. Should you work additional hours over and above your contracted\nhours a pro rata amount is calculated toward your annual leave."
+          },
+          {
+            "label": null,
+            "text": "Employees are required to take 5 of their annual leave days during the\nclosedown period between Christmas and New Year. The remaining leave may\nbe taken at a time agreed to by IMS though, under the law, IMS cannot unduly\nreject any reasonable application for such leave."
+          },
+          {
+            "label": null,
+            "text": "Employees are entitled to payment for all public holidays which fall on a\nworking day."
+          },
+          {
+            "label": null,
+            "text": "Personal/Carer's Leave and Compassionate Leave"
+          },
+          {
+            "label": null,
+            "text": "IMS employees are provided with personal/carer's leave and compassionate\nleave as per Workplace Relations Standards."
+          },
+          {
+            "label": null,
+            "text": "For each 12 month period you are entitled to 10 days of paid personal/ carer's\nleave, which covers both sick leave and carer's leave, and 2 days of paid\ncompassionate leave. This leave also accrues and accumulates under the same\nconditions as your annual leave."
+          },
+          {
+            "label": null,
+            "text": "Personal/carer's leave can be taken as a result of personal illness or injury, or to\nprovide care or support for a member of your immediate family who is sick,\ninjured or has an unexpected emergency"
+          },
+          {
+            "label": null,
+            "text": "Compassionate leave may be taken in the event of a death or life threatening\nillness of a member of your immediate family."
+          },
+          {
+            "label": null,
+            "text": "For the purposes of this document, 'immediate family' includes the following:\nspouse, de facto partner, children, parents, grandparents, grandchildren and\nsiblings."
+          },
+          {
+            "label": null,
+            "text": "When personal, carer's or compassionate leave is taken, you must notify IMS as\nsoon as possible of your inability to attend work. IMS may request evidence in\nthe form of a medical certificate or statutory declaration to support your reason\nfor the leave."
+          }
+        ],
+        "text": "Read the text below and answer Questions 14-21.\n\nINTERNATIONAL BUSINESS INSTITUTE\nBUDDY PEER SUPPORT SCHEME\n\nThink back to your first days and weeks in a new country. Were there times\nwhen you had questions that you wished you could ask a friend, or when you\nwanted to have a chat about how you were feeling?\n\nTo help new students, the International Business Institute (IBI) plans to set up a\nBuddy Peer Support Scheme. The scheme will help new students meet current\nstudents at IBI who can provide them with some friendly company during their\nfirst months in Newcastle and help them with any small problems that they\nmay have. Often, buddies may not be able to solve the problem, but they may\nknow who can help.\n\nWhat's in it for you?\n\nWe believe that being a buddy will be rewarding in several ways. As a\nvolunteer, it will be personally satisfying to know that you are able to help new\nstudents. However, it will also help you to make contacts that may be valuable\nin your future academic and professional lives.\n\nIf you are an overseas student, it will give you another opportunity to practise\nspeaking English. Lastly and most importantly, we hope that it will be enjoyable\nfor you to be a buddy!\n\nResponsibilities of buddies\n\n1. Telephone and arrange to make contact with the new student.\n\n2. Meet the student and show him/her around the campus and the local area.\nMeet for coffee, perhaps. Answer questions about living in Newcastle and\nadministration procedures at IBI. (We will give you a checklist of things to\nmention when we send you the new student's name and telephone number).\n\n3. Arrange to meet the new student one morning or afternoon one weekend\nearly in the semester, and take the student to places that you enjoy in\nNewcastle.\n\n4. Be prepared to take telephone calls from the new student to answer further\nquestions that he/she may have from time to time. Meet to explain information\nin person, if required.\n\n5. You will be matched to an individual new student. However, if you have\nfriends who are also buddies, you might prefer to form a support group\ntogether. This would mean that you meet the new students as a group rather\nthan one-on-one.\n\n6. Being a buddy is voluntary. There is no 'requirement' to provide assistance\nbeyond the help outlined above. However, we hope that the buddy and new\nstudents will enjoy each other's company and continue to meet.\n\nPlease note that if you agree to become a peer support buddy, you will be\nexpected to fulfil your role conscientiously and cheerfully. It will be important to\nbe considerate and reliable so that our student can feel confident of your\nsupport.\n\n7. When you agree to act as a buddy for a particular term, your commitment\ncovers that term only. For example, if you act as a buddy for Term 2, and\nwould prefer to be free in the following term, there is no obligation to continue\nas a buddy in Term 3. Of course, we hope that you will want to assist every\nterm.\n\nRead the text below and answer Questions 22-27.\n\nThe purpose of this document is to advise IMS employees of their leave\nentitlements, such as paid vacation time, holidays and time off to look after\nyourself or others during times of sickness or difficulty.\n\nAnnual Leave\n\nEmployees are entitled to 4 weeks of paid annual leave for each 12 months of\nservice to IMS. Being determined on your standard hours of work, this base\nentitlement accrues progressively during the year and accumulates from year\nto year. The accrued leave, expressed in hours, is printed on your fortnightly\n\npayslip. Should you work additional hours over and above your contracted\nhours a pro rata amount is calculated toward your annual leave.\n\nEmployees are required to take 5 of their annual leave days during the\nclosedown period between Christmas and New Year. The remaining leave may\nbe taken at a time agreed to by IMS though, under the law, IMS cannot unduly\nreject any reasonable application for such leave.\n\nEmployees are entitled to payment for all public holidays which fall on a\nworking day.\n\nPersonal/Carer's Leave and Compassionate Leave\n\nIMS employees are provided with personal/carer's leave and compassionate\nleave as per Workplace Relations Standards.\n\nFor each 12 month period you are entitled to 10 days of paid personal/ carer's\nleave, which covers both sick leave and carer's leave, and 2 days of paid\ncompassionate leave. This leave also accrues and accumulates under the same\nconditions as your annual leave.\n\nPersonal/carer's leave can be taken as a result of personal illness or injury, or to\nprovide care or support for a member of your immediate family who is sick,\ninjured or has an unexpected emergency\n\nCompassionate leave may be taken in the event of a death or life threatening\nillness of a member of your immediate family.\n\nFor the purposes of this document, 'immediate family' includes the following:\nspouse, de facto partner, children, parents, grandparents, grandchildren and\nsiblings.\n\nWhen personal, carer's or compassionate leave is taken, you must notify IMS as\nsoon as possible of your inability to attend work. IMS may request evidence in\nthe form of a medical certificate or statutory declaration to support your reason\nfor the leave.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the passage?",
+          "body": null,
+          "range": [
+            14,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letter, A, B or CWrite the appropriate letter in boxes 22-27 on your answer sheet.",
+          "body": null,
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 16,
+          "number": 14,
           "type": "true-false-not-given",
-          "prompt": "The principal reward for the buddy is making new friends.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "The main aim of the Buddy Peer Support Scheme is to\nhelp new students during exam periods.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Students will be put in touch with others from their\nown language group.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "The principal reward for the buddy is making new\nfriends.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "The buddy is responsible for making the first move to meet the new student.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "The buddy is responsible for making the first move to\nmeet the new student.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 18,
           "type": "true-false-not-given",
-          "prompt": "Buddies need to work one-on-one with the student in their care.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "Buddies need to work one-on-one with the student in\ntheir care.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 19,
           "type": "true-false-not-given",
+          "groupId": "p2g1",
           "prompt": "Buddies participate on a voluntary basis.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 20,
           "type": "true-false-not-given",
-          "prompt": "Buddies are required to attend two meetings per term.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "Buddies are required to attend two meetings per\nterm.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 21,
           "type": "true-false-not-given",
-          "prompt": "The buddy's obligations finish at the end of each term. Choose the appropriate letter, A, B or CWrite the appropriate letter in boxes 22-27 on your answer sheet.",
-          "instruction": "Read the text below and answer Questions 14-21. INTERNATIONAL BUSINESS INSTITUTE BUDDY PEER SUPPORT SCHEME Think back to your first days and weeks in a new country. Were there times when you had questions that you wished you could ask a friend, or when you wanted to have a chat about how you were feeling? To help new students, the International Business Institute (IBI) plans to set up a Buddy Peer Support Scheme. The scheme will help new students meet current students at IBI who can provide them with some friendly company during their first months in Newcastle and help them with any small problems that they may have. Often, buddies may not be able to solve the problem, but they may know who can help. What’s in it for you? We believe that being a buddy will be rewarding in several ways. As a volunteer, it will be personally satisfying to know that you are able to help new students. However, it will also help you to make contacts that may be valuable in your future academic and professional lives. If you are an overseas student, it will give you another opportunity to practise speaking English. Lastly and most importantly, we hope that it will be enjoyable for you to be a buddy! Responsibilities of buddies 1. Telephone and arrange to make contact with the new student. Meet for coffee, perhaps. Answer questions about living in Newcastle and administration procedures at IBI. (We will give you a checklist of things to mention when we send you the new student's name and telephone number). 3. Arrange to meet the new student one morning or afternoon one weekend early in the semester, and take the student to places that you enjoy in Newcastle. 4. Be prepared to take telephone calls from the new student to answer further questions that he/she may have from time to time. Meet to explain information in person, if required. 5. You will be matched to an individual new student. However, if you have friends who are also buddies, you might prefer to form a support group together. This would mean that you meet the new students as a group rather than one-on-one. 6. Being a buddy is voluntary. There is no 'requirement' to provide assistance beyond the help outlined above. However, we hope that the buddy and new students will enjoy each other's company and continue to meet. Please note that if you agree to become a peer support buddy, you will be expected to fulfil your role conscientiously and cheerfully. It will be important to be considerate and reliable so that our student can feel confident of your support. 7. When you agree to act as a buddy for a particular term, your commitment covers that term only. For example, if you act as a buddy for Term 2, and would prefer to be free in the following term, there is no obligation to continue as a buddy in Term 3. Of course, we hope that you will want to assist every term. Read the text below and answer Questions 22-27. IMS LEAVE ENTITLEMENTS The purpose of this document is to advise IMS employees of their leave entitlements, such as paid vacation time, holidays and time off to look after yourself or others during times of sickness or difficulty. Annual Leave Employees are entitled to 4 weeks of paid annual leave for each 12 months of service to IMS. Being determined on your standard hours of work, this base entitlement accrues progressively during the year and accumulates from year to year. The accrued leave, expressed in hours, is printed on your fortnightly Do the following statements agree with the information given in the passage? 14 The main aim of the Buddy Peer Support Scheme is to help new students during exam periods. 15 Students will be put in touch with others from their own language group.",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "The buddy's obligations finish at the end of each term.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "Annual leave entitlements for IMS workers",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "increase only after a year of service.",
+            "are based on the number of hours worked.",
+            "apply to those employees who have worked for a year."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "Employees who work extra hours",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "earn additional paid leave entitlements.",
+            "will receive additional leave shown in hours on their payslip.",
+            "must submit a pay claim."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "An employee's request to take holidays",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "can be easily refused by IMS under the law.",
+            "has to be during IMS's shutdown period.",
+            "must be fairty considered by IMS."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "IMS employees' paid personal/carer's leave",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "is determined by the employer on a yearly basis.",
+            "is provided under the same conditions as their annual leave.",
+            "includes both sick leave and compassionate leave."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "An IMS worker is entitled to use carer's leave to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "help his/her sister who's been in a car accident.",
+            "attend a grandmother's funeral.",
+            "take a nephew who accidently broke his arm to hospital."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "If personal leave is taken, IMS workers must",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "present evidence why they were absent.",
+            "inform their employer within a month.",
+            "inform the company of their absence promptly. READING PASSAGE 3 Read the passage below and answer Questions 28-40 which follow. HOW BABIES LEARN LANGUAGE During the first year of a child's life, parents and carers are concerned with its physical development; during the second year, they watch the baby's language development very carefully. It is interesting how easily children learn language. Children who are just three or four years old, who cannot yet tie their shoelaces, are able to speak in full sentences without any specific language training. The current view of child language development is that it is an instinct-- something as natural as eating or sleeping. According to experts in this area, this language instinct is innate, that is something each of us is born with. However, this prevailing view has not always enjoyed widespread acceptance. In the middle of last century, experts, including John Whiting, a renowned professorat Harvard University, regarded child language development as the process of learning through mere repetition. Language 'habits' developed as young children were rewarded for repeating language correctly and ignored or punished when they used incorrect forms of language. Over time, a child, according to this theory, would learn-language much like a dog might learn to behave properly through training. Yet even though the modern view holds that language is instinctive, experts like Professor Lise Eliot are convinced that the interaction a child has with its parents and caregivers is crucial to its development. The language of the parents and caregivers act as models for the developing child. In fact, a baby's day-to-day experience is so important that the child will learn to speak in a manner very similar to the model speakers it hears Given that the models parents provide are so important, it is interesting to consider the role of 'baby talk' in the child's language development. Baby talk is the language produced by an adult speaker who is trying to exaggerate certain aspects of the language to capture the attention of a young baby. Dr Roberta Golinkoff believes that babies benefit from baby talk. Experiments show that immediately after birth babies respond more to infant-directed talk than they do to adult-directed talk. When using baby talk, people exaggerate their facial expressions, which helps the baby to begin to understand what is being communicated. She also notes that the exaggerated nature and repetition of baby talk helps infants to learn the difference between sounds. Since babies have a great deal of information to process, baby talk helps. Although there is concern that baby talk may persist too long, Dr Golinkoff says that it stops being used as the child gets older, when the child is better able to communicate with the parents. Professor Jusczyk has made a particular study of babies' ability to recognise sounds, and claims they recognise the sound of their own names as early as four and a half months. Babies know the meaning of Mummy and Daddy by about six months, which is earlier than was previously believed. By about nine months, babies begin recognizing frequent patterns in language. A baby will listen longer to the sounds that occur frequently, so it is good to frequently call the infant by its name. An experiment at Johns Hopkins University in USA, in which researchers went to the homes of 16 nine-month-olds, confirms this view. The researchers arranged their visits for ten days out of a two week period. During each visit the researcher played a CD that included the same three stories. The stories included odd words such as 'python' or 'hornbill', words that were unlikely to be encountered in the babies' everyday experience. After a couple of weeks during which nothing was done, the babies were brought to the research lab, where they listened to two recorded lists of words. The first list included words heard in the story. The second included similar words, but not the exact ones that were used in the stories. Jusczyk found the babies listened longer to the words that had appeared in the stories, which indicated that the babies had extracted individual words from the story. When a control group of 16 nine-month-olds, who had not heard the stories, listened to the two groups of words, they showed no preference for either list. This does not mean that the babies actually understand the meanings of the words, merely the sound patterns. It supports the idea that people are born to speak, and have the capacity to learn language from the day they are born. This ability is enhanced if they are involved in conversation. What's more, Dr Eliot reminds parents that babies and toddlers need to feel they are communicating. Clearly, sitting in front of the television is not enough; the baby must be having an interaction with another speaker."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "HOW BABIES LEARN LANGUAGE",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer Questions 28-40 which follow."
+          },
+          {
+            "label": null,
+            "text": "During the first year of a child's life, parents and carers are concerned with its\nphysical development; during the second year, they watch the baby's language\ndevelopment very carefully. It is interesting how easily children learn language.\nChildren who are just three or four years old, who cannot yet tie their\nshoelaces, are able to speak in full sentences without any specific language\ntraining."
+          },
+          {
+            "label": null,
+            "text": "The current view of child language development is that it is an instinct-\nsomething as natural as eating or sleeping. According to experts in this area,\nthis language instinct is innate, that is something each of us is born with.\nHowever, this prevailing view has not always enjoyed widespread acceptance."
+          },
+          {
+            "label": null,
+            "text": "In the middle of last century, experts, including John Whiting, a renowned\nprofessorat Harvard University, regarded child language development as the\nprocess of learning through mere repetition. Language 'habits' developed as\nyoung children were rewarded for repeating language correctly and ignored or\npunished when they used incorrect forms of language. Over time, a child,\naccording to this theory, would learn-language much like a dog might learn to\nbehave properly through training."
+          },
+          {
+            "label": null,
+            "text": "Yet even though the modern view holds that language is instinctive, experts\nlike Professor Lise Eliot are convinced that the interaction a child has with its\nparents and caregivers is crucial to its development. The language of the"
+          },
+          {
+            "label": null,
+            "text": "parents and caregivers act as models for the developing child. In fact, a baby's\nday-to-day experience is so important that the child will learn to speak in a\nmanner very similar to the model speakers it hears"
+          },
+          {
+            "label": null,
+            "text": "Given that the models parents provide are so important, it is interesting to\nconsider the role of 'baby talk' in the child's language development. Baby talk\nis the language produced by an adult speaker who is trying to exaggerate\ncertain aspects of the language to capture the attention of a young baby."
+          },
+          {
+            "label": null,
+            "text": "Dr Roberta Golinkoff believes that babies benefit from baby talk. Experiments\nshow that immediately after birth babies respond more to infant-directed talk\nthan they do to adult-directed talk. When using baby talk, people exaggerate\ntheir facial expressions, which helps the baby to begin to understand what is\nbeing communicated. She also notes that the exaggerated nature and\nrepetition of baby talk helps infants to learn the difference between sounds.\nSince babies have a great deal of information to process, baby talk helps.\nAlthough there is concern that baby talk may persist too long, Dr Golinkoff\nsays that it stops being used as the child gets older, when the child is better\nable to communicate with the parents."
+          },
+          {
+            "label": null,
+            "text": "Professor Jusczyk has made a particular study of babies' ability to recognise\nsounds, and claims they recognise the sound of their own names as early as\nfour and a half months. Babies know the meaning of Mummy and Daddy by\nabout six months, which is earlier than was previously believed. By about nine\nmonths, babies begin recognizing frequent patterns in language. A baby will\nlisten longer to the sounds that occur frequently, so it is good to frequently call\nthe infant by its name."
+          },
+          {
+            "label": null,
+            "text": "An experiment at Johns Hopkins University in USA, in which researchers went\nto the homes of 16 nine-month-olds, confirms this view. The researchers\narranged their visits for ten days out of a two week period. During each visit\nthe researcher played a CD that included the same three stories. The stories\nincluded odd words such as 'python' or 'hornbill', words that were unlikely to be\nencountered in the babies' everyday experience. After a couple of weeks\nduring which nothing was done, the babies were brought to the research lab,\nwhere they listened to two recorded lists of words. The first list included words\nheard in the story. The second included similar words, but not the exact ones\nthat were used in the stories."
+          },
+          {
+            "label": null,
+            "text": "Jusczyk found the babies listened longer to the words that had appeared in the\nstories, which indicated that the babies had extracted individual words from\nthe story. When a control group of 16 nine-month-olds, who had not heard the\nstories, listened to the two groups of words, they showed no preference for"
+          },
+          {
+            "label": null,
+            "text": "either list."
+          },
+          {
+            "label": null,
+            "text": "This does not mean that the babies actually understand the meanings of the\nwords, merely the sound patterns. It supports the idea that people are born to\nspeak, and have the capacity to learn language from the day they are born.\nThis ability is enhanced if they are involved in conversation. What's more, Dr\nEliot reminds parents that babies and toddlers need to feel they are\ncommunicating. Clearly, sitting in front of the television is not enough; the\nbaby must be having an interaction with another speaker."
+          }
+        ],
+        "text": "Read the passage below and answer Questions 28-40 which follow.\n\nDuring the first year of a child's life, parents and carers are concerned with its\nphysical development; during the second year, they watch the baby's language\ndevelopment very carefully. It is interesting how easily children learn language.\nChildren who are just three or four years old, who cannot yet tie their\nshoelaces, are able to speak in full sentences without any specific language\ntraining.\n\nThe current view of child language development is that it is an instinct-\nsomething as natural as eating or sleeping. According to experts in this area,\nthis language instinct is innate, that is something each of us is born with.\nHowever, this prevailing view has not always enjoyed widespread acceptance.\n\nIn the middle of last century, experts, including John Whiting, a renowned\nprofessorat Harvard University, regarded child language development as the\nprocess of learning through mere repetition. Language 'habits' developed as\nyoung children were rewarded for repeating language correctly and ignored or\npunished when they used incorrect forms of language. Over time, a child,\naccording to this theory, would learn-language much like a dog might learn to\nbehave properly through training.\n\nYet even though the modern view holds that language is instinctive, experts\nlike Professor Lise Eliot are convinced that the interaction a child has with its\nparents and caregivers is crucial to its development. The language of the\n\nparents and caregivers act as models for the developing child. In fact, a baby's\nday-to-day experience is so important that the child will learn to speak in a\nmanner very similar to the model speakers it hears\n\nGiven that the models parents provide are so important, it is interesting to\nconsider the role of 'baby talk' in the child's language development. Baby talk\nis the language produced by an adult speaker who is trying to exaggerate\ncertain aspects of the language to capture the attention of a young baby.\n\nDr Roberta Golinkoff believes that babies benefit from baby talk. Experiments\nshow that immediately after birth babies respond more to infant-directed talk\nthan they do to adult-directed talk. When using baby talk, people exaggerate\ntheir facial expressions, which helps the baby to begin to understand what is\nbeing communicated. She also notes that the exaggerated nature and\nrepetition of baby talk helps infants to learn the difference between sounds.\nSince babies have a great deal of information to process, baby talk helps.\nAlthough there is concern that baby talk may persist too long, Dr Golinkoff\nsays that it stops being used as the child gets older, when the child is better\nable to communicate with the parents.\n\nProfessor Jusczyk has made a particular study of babies' ability to recognise\nsounds, and claims they recognise the sound of their own names as early as\nfour and a half months. Babies know the meaning of Mummy and Daddy by\nabout six months, which is earlier than was previously believed. By about nine\nmonths, babies begin recognizing frequent patterns in language. A baby will\nlisten longer to the sounds that occur frequently, so it is good to frequently call\nthe infant by its name.\n\nAn experiment at Johns Hopkins University in USA, in which researchers went\nto the homes of 16 nine-month-olds, confirms this view. The researchers\narranged their visits for ten days out of a two week period. During each visit\nthe researcher played a CD that included the same three stories. The stories\nincluded odd words such as 'python' or 'hornbill', words that were unlikely to be\nencountered in the babies' everyday experience. After a couple of weeks\nduring which nothing was done, the babies were brought to the research lab,\nwhere they listened to two recorded lists of words. The first list included words\nheard in the story. The second included similar words, but not the exact ones\nthat were used in the stories.\n\nJusczyk found the babies listened longer to the words that had appeared in the\nstories, which indicated that the babies had extracted individual words from\nthe story. When a control group of 16 nine-month-olds, who had not heard the\nstories, listened to the two groups of words, they showed no preference for\n\neither list.\n\nThis does not mean that the babies actually understand the meanings of the\nwords, merely the sound patterns. It supports the idea that people are born to\nspeak, and have the capacity to learn language from the day they are born.\nThis ability is enhanced if they are involved in conversation. What's more, Dr\nEliot reminds parents that babies and toddlers need to feel they are\ncommunicating. Clearly, sitting in front of the television is not enough; the\nbaby must be having an interaction with another speaker.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS AND /OR NUMBERS from the passage. Write your answers in boxes 28-34 on your answer sheets.",
+          "body": "The study of [[28]] in very young children has changed considerably in the last 50 years. Early studies claimed that language developed through repetition, but since then it has been established that children can speak independently at age three to four, and that this ability is [[29]] . In fact, the child will follow the speech patterns and linguistic behaviour of its carers and parents who act as [[30]] . A particular benefit is the use of baby talk in which parents [[31]] both sound and facial expressions to catch the child's attention. This assists the child in processing large amounts of information and understanding the message being communicated. Babies' ability to [[32]] sound patterns rather than words comes earlier than was previously thought. Studies have shown that babies tend to focus on [[33]] occurring patterns and while they may not understand the meaning of the words, they do understand the patterns. This reinforces the idea that babies are capable of learning language from day one. So it is important to include them in [[34]] and situations where they can benefit from interaction.",
+          "range": [
+            28,
+            34
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information in the reading passage?",
+          "body": null,
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 28,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "language development",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "innate",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": ". A particular benefit is the use of baby talk in which parents",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "models/model speakers",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "both sound and facial expressions to catch the child's attention. This\nassists the child in processing large amounts of information and understanding the",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "exaggerate",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "recognise",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "frequently",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "conversation",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Children begin to learn their first language without\nbeing taught.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "According to experts in the 1950s and 1960s.\nlanguage learning is very similar to the training of animals.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Repetition in language learning is important,\naccording to Professor Eliot.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Dr Golinkoff is concerned that 'baby talk' is spoken\ntoo much by some parents.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The first word a child learns to recognise is usually\n'Mummy' or 'Daddy'.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Researchers found that babies liked listening to the\nsame stories being read.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
@@ -245,6 +1278,11 @@
     "2": "5.00",
     "3": "North Gallery",
     "4": "Greek Olympic Sculpture",
+    "5": "632",
+    "6": "132",
+    "7": "317",
+    "8": "122",
+    "9": "443",
     "10": "H",
     "11": "G",
     "12": "A",

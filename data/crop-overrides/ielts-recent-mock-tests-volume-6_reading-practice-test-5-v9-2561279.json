@@ -1,0 +1,82 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "type": "short-answer",
+    "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+    "questions": {
+      "20": {
+        "prompt": "What is the important feature owned by the modern engine since the 19th century?",
+        "options": null
+      },
+      "21": {
+        "prompt": "What did a car symbolise to the rich at the very beginning of this century?",
+        "options": null
+      },
+      "22": {
+        "prompt": "How long did the Ford assembly line take to produce a car?",
+        "options": null
+      },
+      "23": {
+        "prompt": "What is the major historical event that led American cars to suffer when competing with Japanese imported cars?",
+        "options": null
+      },
+      "24": {
+        "prompt": "What do people call the Mazda car which was designed under the front-wheel engine?",
+        "options": null
+      },
+      "25": {
+        "prompt": "What has greatly increased with the computerised engine management systems in modern society?",
+        "options": null
+      },
+      "26": {
+        "prompt": "What factor is blamed for contributing to pollution, climate change and global warming?",
+        "options": null
+      }
+    }
+  },
+  "p3g1": {
+    "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 28-31.",
+    "questions": {
+      "28": {
+        "prompt": "Elephant: ______ bones in inner ear"
+      },
+      "29": {
+        "prompt": "Elephant: an ______ body"
+      },
+      "30": {
+        "prompt": "Elephant: toe and fatty ______ (on the foot)"
+      },
+      "31": {
+        "prompt": "Elephant: big sized brain skull with many ______"
+      }
+    }
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "The influence of the cars on the environment",
+          "The historical development and innovation in car designs",
+          "The beginning of the modem designed gasoline engines",
+          "The history of human and the Auto industry"
+        ]
+      }
+    }
+  }
+}

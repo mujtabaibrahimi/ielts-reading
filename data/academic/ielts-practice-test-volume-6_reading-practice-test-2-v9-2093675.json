@@ -1,223 +1,929 @@
 {
   "id": "ielts-practice-test-volume-6_reading-practice-test-2-v9-2093675",
   "type": "academic",
-  "source": "ielts-practice-test-volume-6 reading-practice-test-2-v9-2093675",
+  "title": "IELTS Practice Test Volume 6 - Reading Test 2",
+  "collection": "IELTS Practice Test Volume 6",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 6,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-test-volume-6_reading-practice-test-2-v9-2093675.pdf",
-  "total_questions": 10,
+  "totalQuestions": 40,
+  "answeredCount": 26,
+  "status": "partial",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Fix it with Flavour",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1 - 13, which are based on\nReading Passage 1 below.\nFix it with Flavour\nA. Gabriele Dionisi, a '38-year-old Italian computer wizard living in London, is a\ntrue individualist when it comes to food. He has been known to live for days on\ndry toast and mashed potato. He’s also very fond of tinned mackerel with\nbiscuits, washed down with, say, an apple-and-tomato milkshake. For some\nunfathomable reason, he sometimes has problems with his guts. Then he\nmakes himself a hot cup of camomile tea with honey and half a spoonful of\nchilli flakes. \"It’s an old Italian recipe,\" he says. \"Ms- grandmother taught me to\nmake it. It’s very good for the digestion.”\nB. Spices such as chilli have been used for medicinal purposes in Europe for\ncenturies. Medieval herbalists believed that spices could be used to treat a\nrange of pains, diseases, and ailments. Sometimes they got it right; sometimes\nthey were way off the end of the spice rack. For example, they used to pound\nup cloves to extract the oil, which was used to treat toothache. Sensible move:\nmodern scientists know that cloves contain eugenol, a chemical which is an\neffective local anaesthetic. Cloves also contain salicylic acid, the basis of\naspirin.\nC. Ginger was held to be good for stomach upsets, and it is now known to have\nanti-nausea properties. It is also believed to have a painkilling effect, which is\nbeing studied at the University of Arizona. Unfortunately, those muddled\nmedieval medics also believed that ginger was a cure for the Black Death - it\nisn’t - and that eating borage would give you courage, just because the words\n\nrhymed.\nD. Doctors in India have long used spices as medicines. They understood that\nspices could be used as remedies. Their motto was: Let food be thy medicine.\nThe Indian chef’s favourite medical spice is turmeric, the yellow ingredient\nused in almost all Indian cookery. Turmeric is an antiseptic and disinfectant,\nand it is used widely not so much for its taste but for its antibacterial\nproperties.\nE. Turmeric is used in Indian homes as a first-aid treatment. For example, if\nyou had a small cut on your finger, you'd run it under the tap and then dust the\nwound with turmeric. It is also supposed to be a cure for arthritis, and scientists\nare now researching its potential ability to suppress the growth of cancer cells.\nF. In 2002, staff at the oncology department of Leicester University noticed\nthat of 500 patients with colon cancer, only two were Asian, despile the fact\nthat 20 per cent of the population in Leicester is Asian. The scientists believed\nthis was due to their spicy diet. And, in America, researchers at the Columbia\nUniversity College of Physicians and Surgeons are investigating Zyflamend, a\nherbal treatment for arthritis, which contains turmeric and ginger. Zyflamend\nhas shown an ability to reduce prostate cancer cell proliferation by as much as\n78% and induce cancer cell death.\nG. Studies at the Indian Institute of Science, in Bangalore, suggest that\ncurcumin, the chemical that gives turmeric its yellow colour, might also help to\ntreat malaria. Mice were infected with the malaria parasite Plasmodium berghei\nand given five daily doses orally. After 20 days, a third of the treated mice were\nalive, whereas the untreated animals all died by day 13.\nH. If you want to know what chillies do to the body, cut open a fresh chilli and\nhold it on the back of your hand for 15 or 20 minutes. It will make the hand red\nand sore. It you eat it in excess, it can give you gastric problems. However, in\nsmall doses, chilli can aid digestion. Chilli contains vitamins A and E and is a\ngood source of potassium, beta carotene, and folic acid. Also, chilli contains\ntwice as much vitamin C as an orange, and it really can help to protect the\nbody from colds and flu. One chilli contains 100mg of vitamin C more than the\ndaily recommended amount, and capsaicin, the chemical in chillies that gives\nthem heat, is also a natural decongestant.\nI. The pleasure of chillies comes from the pain of eating them. Literally, the\nburning sensation in the mouth triggers the release of endorphins, an opiate-\nlike painkilling chemical, in the brain. This makes you feel good; so good, in\nfact, that it is possible to become a chilli junkie. In the light of this, perhaps the\nlate Signora Dionisi should have taught her favourite grandson how lo make\n\nsomething oilier than chilli camomile tea.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Gabriele Dionisi, a '38-year-old Italian computer wizard living in London, is a"
+            "label": null,
+            "text": "Fix it with Flavour"
           },
           {
-            "label": "B",
-            "content": "Spices such as chilli have been used for medicinal purposes in Europe for"
+            "label": null,
+            "text": "A. Gabriele Dionisi, a '38-year-old Italian computer wizard living in London, is a\ntrue individualist when it comes to food. He has been known to live for days on\ndry toast and mashed potato. He's also very fond of tinned mackerel with\nbiscuits, washed down with, say, an apple-and-tomato milkshake. For some\nunfathomable reason, he sometimes has problems with his guts. Then he\nmakes himself a hot cup of camomile tea with honey and half a spoonful of\nchilli flakes. \"It's an old Italian recipe,\" he says. \"Ms- grandmother taught me to\nmake it. It's very good for the digestion.\""
           },
           {
-            "label": "C",
-            "content": "Ginger was held to be good for stomach upsets, and it is now known to have"
+            "label": null,
+            "text": "B. Spices such as chilli have been used for medicinal purposes in Europe for\ncenturies. Medieval herbalists believed that spices could be used to treat a\nrange of pains, diseases, and ailments. Sometimes they got it right; sometimes\nthey were way off the end of the spice rack. For example, they used to pound\nup cloves to extract the oil, which was used to treat toothache. Sensible move:\nmodern scientists know that cloves contain eugenol, a chemical which is an\neffective local anaesthetic. Cloves also contain salicylic acid, the basis of\naspirin."
           },
           {
-            "label": "D",
-            "content": "Doctors in India have long used spices as medicines. They understood that"
+            "label": null,
+            "text": "C. Ginger was held to be good for stomach upsets, and it is now known to have\nanti-nausea properties. It is also believed to have a painkilling effect, which is\nbeing studied at the University of Arizona. Unfortunately, those muddled\nmedieval medics also believed that ginger was a cure for the Black Death - it\nisn't - and that eating borage would give you courage, just because the words"
           },
           {
-            "label": "E",
-            "content": "Turmeric is used in Indian homes as a first-aid treatment. For example, if"
+            "label": null,
+            "text": "rhymed."
           },
           {
-            "label": "F",
-            "content": "In 2002, staff at the oncology department of Leicester University noticed"
+            "label": null,
+            "text": "D. Doctors in India have long used spices as medicines. They understood that\nspices could be used as remedies. Their motto was: Let food be thy medicine.\nThe Indian chef's favourite medical spice is turmeric, the yellow ingredient\nused in almost all Indian cookery. Turmeric is an antiseptic and disinfectant,\nand it is used widely not so much for its taste but for its antibacterial\nproperties."
           },
           {
-            "label": "G",
-            "content": "Studies at the Indian Institute of Science, in Bangalore, suggest that"
+            "label": null,
+            "text": "E. Turmeric is used in Indian homes as a first-aid treatment. For example, if\nyou had a small cut on your finger, you'd run it under the tap and then dust the\nwound with turmeric. It is also supposed to be a cure for arthritis, and scientists\nare now researching its potential ability to suppress the growth of cancer cells."
+          },
+          {
+            "label": null,
+            "text": "F. In 2002, staff at the oncology department of Leicester University noticed\nthat of 500 patients with colon cancer, only two were Asian, despile the fact\nthat 20 per cent of the population in Leicester is Asian. The scientists believed\nthis was due to their spicy diet. And, in America, researchers at the Columbia\nUniversity College of Physicians and Surgeons are investigating Zyflamend, a\nherbal treatment for arthritis, which contains turmeric and ginger. Zyflamend\nhas shown an ability to reduce prostate cancer cell proliferation by as much as\n78% and induce cancer cell death."
+          },
+          {
+            "label": null,
+            "text": "G. Studies at the Indian Institute of Science, in Bangalore, suggest that\ncurcumin, the chemical that gives turmeric its yellow colour, might also help to\ntreat malaria. Mice were infected with the malaria parasite Plasmodium berghei\nand given five daily doses orally. After 20 days, a third of the treated mice were\nalive, whereas the untreated animals all died by day 13."
+          },
+          {
+            "label": null,
+            "text": "H. If you want to know what chillies do to the body, cut open a fresh chilli and\nhold it on the back of your hand for 15 or 20 minutes. It will make the hand red\nand sore. It you eat it in excess, it can give you gastric problems. However, in\nsmall doses, chilli can aid digestion. Chilli contains vitamins A and E and is a\ngood source of potassium, beta carotene, and folic acid. Also, chilli contains\ntwice as much vitamin C as an orange, and it really can help to protect the\nbody from colds and flu. One chilli contains 100mg of vitamin C more than the\ndaily recommended amount, and capsaicin, the chemical in chillies that gives\nthem heat, is also a natural decongestant."
+          },
+          {
+            "label": null,
+            "text": "I. The pleasure of chillies comes from the pain of eating them. Literally, the\nburning sensation in the mouth triggers the release of endorphins, an opiate-\nlike painkilling chemical, in the brain. This makes you feel good; so good, in\nfact, that it is possible to become a chilli junkie. In the light of this, perhaps the\nlate Signora Dionisi should have taught her favourite grandson how lo make"
+          },
+          {
+            "label": null,
+            "text": "something oilier than chilli camomile tea."
           }
-        ]
+        ],
+        "text": "Fix it with Flavour\n\nA. Gabriele Dionisi, a '38-year-old Italian computer wizard living in London, is a\ntrue individualist when it comes to food. He has been known to live for days on\ndry toast and mashed potato. He's also very fond of tinned mackerel with\nbiscuits, washed down with, say, an apple-and-tomato milkshake. For some\nunfathomable reason, he sometimes has problems with his guts. Then he\nmakes himself a hot cup of camomile tea with honey and half a spoonful of\nchilli flakes. \"It's an old Italian recipe,\" he says. \"Ms- grandmother taught me to\nmake it. It's very good for the digestion.\"\n\nB. Spices such as chilli have been used for medicinal purposes in Europe for\ncenturies. Medieval herbalists believed that spices could be used to treat a\nrange of pains, diseases, and ailments. Sometimes they got it right; sometimes\nthey were way off the end of the spice rack. For example, they used to pound\nup cloves to extract the oil, which was used to treat toothache. Sensible move:\nmodern scientists know that cloves contain eugenol, a chemical which is an\neffective local anaesthetic. Cloves also contain salicylic acid, the basis of\naspirin.\n\nC. Ginger was held to be good for stomach upsets, and it is now known to have\nanti-nausea properties. It is also believed to have a painkilling effect, which is\nbeing studied at the University of Arizona. Unfortunately, those muddled\nmedieval medics also believed that ginger was a cure for the Black Death - it\nisn't - and that eating borage would give you courage, just because the words\n\nrhymed.\n\nD. Doctors in India have long used spices as medicines. They understood that\nspices could be used as remedies. Their motto was: Let food be thy medicine.\nThe Indian chef's favourite medical spice is turmeric, the yellow ingredient\nused in almost all Indian cookery. Turmeric is an antiseptic and disinfectant,\nand it is used widely not so much for its taste but for its antibacterial\nproperties.\n\nE. Turmeric is used in Indian homes as a first-aid treatment. For example, if\nyou had a small cut on your finger, you'd run it under the tap and then dust the\nwound with turmeric. It is also supposed to be a cure for arthritis, and scientists\nare now researching its potential ability to suppress the growth of cancer cells.\n\nF. In 2002, staff at the oncology department of Leicester University noticed\nthat of 500 patients with colon cancer, only two were Asian, despile the fact\nthat 20 per cent of the population in Leicester is Asian. The scientists believed\nthis was due to their spicy diet. And, in America, researchers at the Columbia\nUniversity College of Physicians and Surgeons are investigating Zyflamend, a\nherbal treatment for arthritis, which contains turmeric and ginger. Zyflamend\nhas shown an ability to reduce prostate cancer cell proliferation by as much as\n78% and induce cancer cell death.\n\nG. Studies at the Indian Institute of Science, in Bangalore, suggest that\ncurcumin, the chemical that gives turmeric its yellow colour, might also help to\ntreat malaria. Mice were infected with the malaria parasite Plasmodium berghei\nand given five daily doses orally. After 20 days, a third of the treated mice were\nalive, whereas the untreated animals all died by day 13.\n\nH. If you want to know what chillies do to the body, cut open a fresh chilli and\nhold it on the back of your hand for 15 or 20 minutes. It will make the hand red\nand sore. It you eat it in excess, it can give you gastric problems. However, in\nsmall doses, chilli can aid digestion. Chilli contains vitamins A and E and is a\ngood source of potassium, beta carotene, and folic acid. Also, chilli contains\ntwice as much vitamin C as an orange, and it really can help to protect the\nbody from colds and flu. One chilli contains 100mg of vitamin C more than the\ndaily recommended amount, and capsaicin, the chemical in chillies that gives\nthem heat, is also a natural decongestant.\n\nI. The pleasure of chillies comes from the pain of eating them. Literally, the\nburning sensation in the mouth triggers the release of endorphins, an opiate-\nlike painkilling chemical, in the brain. This makes you feel good; so good, in\nfact, that it is possible to become a chilli junkie. In the light of this, perhaps the\nlate Signora Dionisi should have taught her favourite grandson how lo make\n\nsomething oilier than chilli camomile tea.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 9 paragraphs (A -I). Which paragraph contains each of the following pieces of information?",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap.",
+          "body": "The article refers to medieval herbalists as [[5]] because they didn't always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with [[6]] , though this is being investigated. A single chilli provides more [[7]] than a person needs in a day. Eating chillies creates a feeling of [[8]] thanks to the release of endorphins.",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "fill-in-blank",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "body": "In boxes [[9]] -13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this 9 Cloves are used to make aspirin. [[10]] Turmeric is not used in Indian cooking because of its taste. [[11]] Zyflamend can kill cancer cells. [[12]] Chillies help prevent colds because they contain capsaicin. [[13]] Signora Dionisi taught her favourite grandson many traditional Italian recipes.",
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 9,
-          "type": "true-false-not-given",
-          "prompt": "Cloves are used to make aspirin.",
-          "instruction": "Which paragraph contains each of the following pieces of information? A B C D E F G H 1 The reason that turmeric is yellow Drag your answer 2 How turmeric is used by Indians 3 A medieval cure for stomach aches 4 The method Gabriele Dionisi uses to solve stomach aches Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap. The article refers to medieval herbalists as 5 because they didn’t always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with 6 , though this is being investigated. A single chilli provides more 7 than a person needs in a day. Eating chillies creates a feeling of 8 thanks to the release of endorphins. Do the following statements agree with the information given in Reading In boxes 9 -13 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The reason that turmeric is\nyellow",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "How turmeric is used by\nIndians",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "A medieval cure for stomach\naches",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The method Gabriele Dionisi\nuses to solve stomach aches",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "muddled",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "arthritis",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "vitamin C",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pleasure",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "Cloves are used to make aspirin.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 10,
-          "type": "true-false-not-given",
-          "prompt": "Turmeric is not used in Indian cooking because of its taste.",
-          "instruction": "Which paragraph contains each of the following pieces of information? A B C D E F G H 1 The reason that turmeric is yellow Drag your answer 2 How turmeric is used by Indians 3 A medieval cure for stomach aches 4 The method Gabriele Dionisi uses to solve stomach aches Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap. The article refers to medieval herbalists as 5 because they didn’t always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with 6 , though this is being investigated. A single chilli provides more 7 than a person needs in a day. Eating chillies creates a feeling of 8 thanks to the release of endorphins. Do the following statements agree with the information given in Reading In boxes 9 -13 on your answer sheet, write TRUE",
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "Turmeric is not used in Indian cooking because of its\ntaste.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 11,
-          "type": "true-false-not-given",
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
           "prompt": "Zyflamend can kill cancer cells.",
-          "instruction": "Which paragraph contains each of the following pieces of information? A B C D E F G H 1 The reason that turmeric is yellow Drag your answer 2 How turmeric is used by Indians 3 A medieval cure for stomach aches 4 The method Gabriele Dionisi uses to solve stomach aches Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap. The article refers to medieval herbalists as 5 because they didn’t always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with 6 , though this is being investigated. A single chilli provides more 7 than a person needs in a day. Eating chillies creates a feeling of 8 thanks to the release of endorphins. Do the following statements agree with the information given in Reading In boxes 9 -13 on your answer sheet, write TRUE",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 12,
-          "type": "true-false-not-given",
-          "prompt": "Chillies help prevent colds because they contain capsaicin.",
-          "instruction": "Which paragraph contains each of the following pieces of information? A B C D E F G H 1 The reason that turmeric is yellow Drag your answer 2 How turmeric is used by Indians 3 A medieval cure for stomach aches 4 The method Gabriele Dionisi uses to solve stomach aches Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap. The article refers to medieval herbalists as 5 because they didn’t always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with 6 , though this is being investigated. A single chilli provides more 7 than a person needs in a day. Eating chillies creates a feeling of 8 thanks to the release of endorphins. Do the following statements agree with the information given in Reading In boxes 9 -13 on your answer sheet, write TRUE",
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "Chillies help prevent colds because they contain\ncapsaicin.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 13,
-          "type": "true-false-not-given",
-          "prompt": "Signora Dionisi taught her favourite grandson many traditional Italian recipes.",
-          "instruction": "Which paragraph contains each of the following pieces of information? A B C D E F G H 1 The reason that turmeric is yellow Drag your answer 2 How turmeric is used by Indians 3 A medieval cure for stomach aches 4 The method Gabriele Dionisi uses to solve stomach aches Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap. The article refers to medieval herbalists as 5 because they didn’t always use herbs properly. The article provides no support for the suggestion that turmeric can help to deal with 6 , though this is being investigated. A single chilli provides more 7 than a person needs in a day. Eating chillies creates a feeling of 8 thanks to the release of endorphins. Do the following statements agree with the information given in Reading In boxes 9 -13 on your answer sheet, write TRUE",
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "Signora Dionisi taught her favourite grandson many\ntraditional Italian recipes.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "NOT GIVEN",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\non Reading Passage 2 below.",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 8,
-            "rows": [
-              [
-                "increasingly popular with Internet shoppers. Around half the customers buying\ngoods online from Circuit City collect their purchases at a shop. For this holiday\nseason, the company is offering what it calls a “24/24 Pick-up Guarantee”: if\ngoods ordered online or over the telephone are not available for collection at a\nlocal store within 24 minutes of purchase, the customer can claim a $24 gift\nvoucher. Apart from instant consumer gratification, why would someone want\nthe convenience of buying online only to trek to a store to take delivery? There\nare, it appears, many reasons. Some people want to examine items before they\naccept them; some want to save on delivery costs; others want to avoid\nhanging around for the delivery man to call. For many, the chief reason is that\nthey trust a big retailing brand with a local store - not least because they will\nknow where goods can be returned if there is a problem. With more than 3,700\nstores in America alone, this hands Wal-Mart another big advantage. It is\ndeveloping services that link the web with its stores, such as e-mailing digital\npictures and picking up the prints.\nG. Does this mean retailing giants will come to dominate the web just as they\ndo the high street? Some might carve out large chunks of cyberspace. Tesco,\nfor instance, has a huge 30% share of the British grocery market. Online it is\neven more popular: Nielsen//NetRatings says almost 70% of online shoppers\nplan to buy groceries this Christmas from tesco.com. Even the big traditional\nretailers still face competition online. For instance, Wal-Mart may have more\nthan five times the annual sales of Target, but Target’s website is growing\nfaster and, according to some analysts, the average value of an online sale at\nTarget is roughly three times more than one made online at Wal-Mart. This is\none reason why Wal-Mart is now offering more upmarket goods on its website,\nincluding diamond rings. So, should Amazon have stuck to books? Jeff Bezos,\nits founder and chief executive, does not think so and likes to plug his site, with\nits growing army of other traders, as offering “earth’s biggest selection”.\nNevertheless, he is spreading his bets. These days, Amazon also sells its e-\ncommerce experience, helping to run the websites of big, traditional retailers\nsuch as Target and Britain’s Marks & Spencer.\nQuestions 14-17\nThe text has 7 paragraphs (A - G).\nWhich paragraph does each of the following headings best fit?\nA B C D E F G\nDrag your",
-                null,
-                null
-              ],
-              [
-                null,
-                "Drag your",
-                null
-              ],
-              [
-                "",
-                "",
-                ""
-              ]
-            ],
-            "header": [
-              "increasingly popular with Internet shoppers. Around half the customers buying\ngoods online from Circuit City collect their purchases at a shop. For this holiday\nseason, the company is offering what it calls a “24/24 Pick-up Guarantee”: if\ngoods ordered online or over the telephone are not available for collection at a\nlocal store within 24 minutes of purchase, the customer can claim a $24 gift\nvoucher. Apart from instant consumer gratification, why would someone want\nthe convenience of buying online only to trek to a store to take delivery? There\nare, it appears, many reasons. Some people want to examine items before they\naccept them; some want to save on delivery costs; others want to avoid\nhanging around for the delivery man to call. For many, the chief reason is that\nthey trust a big retailing brand with a local store - not least because they will\nknow where goods can be returned if there is a problem. With more than 3,700\nstores in America alone, this hands Wal-Mart another big advantage. It is\ndeveloping services that link the web with its stores, such as e-mailing digital\npictures and picking up the prints.\nG. Does this mean retailing giants will come to dominate the web just as they\ndo the high street? Some might carve out large chunks of cyberspace. Tesco,\nfor instance, has a huge 30% share of the British grocery market. Online it is\neven more popular: Nielsen//NetRatings says almost 70% of online shoppers\nplan to buy groceries this Christmas from tesco.com. Even the big traditional\nretailers still face competition online. For instance, Wal-Mart may have more\nthan five times the annual sales of Target, but Target’s website is growing\nfaster and, according to some analysts, the average value of an online sale at\nTarget is roughly three times more than one made online at Wal-Mart. This is\none reason why Wal-Mart is now offering more upmarket goods on its website,\nincluding diamond rings. So, should Amazon have stuck to books? Jeff Bezos,\nits founder and chief executive, does not think so and likes to plug his site, with\nits growing army of other traders, as offering “earth’s biggest selection”.\nNevertheless, he is spreading his bets. These days, Amazon also sells its e-\ncommerce experience, helping to run the websites of big, traditional retailers\nsuch as Target and Britain’s Marks & Spencer.\nQuestions 14-17\nThe text has 7 paragraphs (A - G).\nWhich paragraph does each of the following headings best fit?\nA B C D E F G\nDrag your",
-              null,
-              null
-            ]
+            "label": null,
+            "text": "Clicks, Bricks, and Bargains"
           },
           {
-            "page": 9,
-            "rows": [
-              [
-                "",
-                "",
-                ""
-              ],
-              [
-                "14 answer\nCompare prices on the Net\n15\nBuy online, collect at the store\n16\nStreet and web domination\n17\nIn the footsteps of Amazon\nQuestions 18-22\nAccording to the text, FIVE of the following statements are true.\nWrite the corresponding letters in answer boxes 18 to 22 in any order.\nA Websites operated by traditional retailers are the fastest\ngrowing ones.\nB Online sales grew by over $19 billion last year.\nC Amazon is the biggest online retailer.\nD Shopzilla allows people to compare prices in different stores.\nE Michael Silverstein says the best customers like to mix online\nand traditional shopping.\nF Circuit City was one of the first businesses of its kind.\nG Tesco has the biggest share of Britain’s retail market.\nH Target sells less than Wal-Mart.\nQuestions 23-24\nAccording to the information given in the text, choose the correct answer\nor answers from the choices given.\n23 “Cyber Monday” is\nA the busiest day for online shopping in America.\nB when Americans begin shopping for Christmas.\nC the first time visits to the Wal-Mart website exceeded visits to",
-                null,
-                null
-              ]
-            ],
-            "header": [
-              "",
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "A. It's a new phenomenon called \"Cyber Monday\". On November 28, millions of\nAmericans returned to work after the Thanksgiving holiday and fired up their\noffice computers to take advantage of high-speed Internet links and continue\nthe arduous task of hunting for Christmas presents. Visits to some retail\nwebsites more than doubled, and Visa reported that online spending by its\ncardholders grew by 26% compared with the same day a year ago. Despite\nconcerns about a fall in consumer confidence putting the brake on store sales,\nonline purchases are soaring in most countries, Something else is happening,\ntoo. Increasingly, the websites run by conventional retailers - once considered\ndinosaurs of the bricks-and-mortar age - are growing the fastest. Indeed, on\nThanksgiving Day itself, the number of visitors to Wal-Mart's website exceeded\nthose visiting Amazon - the first time that has ever happened, says Hitwise,\nwhich monitors Internet usage."
+          },
+          {
+            "label": null,
+            "text": "B. Online sales in America (excluding travel) are expected to grow to more\nthan $19 billion in the crucial two months running up to Christmas - 24% more\nthan the same period last year - according to comScore Networks, a research\nfirm. Online sales of toys, computer games, clothing, and jewellery are all more\nthan 30% higher. In many countries, the websites run by eBay and Amazon get\nthe most visitors. Both are considered \"pure Internet plays\", since they have\nno physical shops. Their business models have changed markedly, and they\nnow resemble online versions of vast department stores, where thousands of\nbig and small third-party merchants also offer their wares. During Thanksgiving"
+          },
+          {
+            "label": null,
+            "text": "in 2004, Amazon for the first time sold more consumer electronics than it sold\nbooks."
+          },
+          {
+            "label": null,
+            "text": "C. Amazon was the company that proved online retailing could be a huge\nbusiness - and it still leads the pack. Things are changing quickly. The online\nrise of mighty Wal-Mart, the world's biggest retailer, is being closely followed\nby its chief supermarket rival, Target, which now operates the fourth most\npopular retail website in America. In Britain, Argos, a catalogue merchant, is\nthe third most popular retail site, followed by Tesco, the country's biggest\nsupermarket chain. Europeans are surfing the web in record numbers and\nalmost half now visit retail websites, especially those of traditional merchants.\nAccording to Nielsen//NetRatings, the leading retail websites in Europe include\nGermany's Tchibo, a diversified chain; OTTO, a German mail-order specialist;\nand Fnac, a French high-street favourite."
+          },
+          {
+            "label": null,
+            "text": "D. Far from wrecking retailers' businesses, the web plays to their strengths.\nShopping comparison sites, including America's Shopzilla and Ciao in Europe,\nare among the fastest growing destinations on the web. These sites allow users\nto compare products, read reviews - and most important of all - see who is\noffering the lowest prices. They make money from advertising or charging\nretailers when users click on a link to the retailers' website. With huge\neconomies of scale, it is hardly surprising that giants such as Wal-Mart often\nemerge as the vendor offering the cheapest prices. Besides attracting an online\npurchase, shopping comparison searches can also be used by ordinary retailers\nas a relatively cheap way to advertise and attract consumers to their physical\nstores."
+          },
+          {
+            "label": null,
+            "text": "E. The traditional retailers are finding many other advantages in expanding\ntheir stores online. One is that in cyberspace, even the biggest super-centre is\nunconstrained by planning laws or dogged by protests, as Wal-Mart often is\nwhen it tries to expand offline. Both Wal-Mart and Target also use the web to\ntest the market for certain \\ products before they send them to their stores.\nConventional shopkeepers might be late coming to the Internet, but they now\nrealise that they can offer more to their customers online, and that the\ntechnology required to do so is relatively easy to use, says Michael Silverstein\nof the Boston Consulting Group. \"Retailers are starting to recognise that their\nmost profitable customers ... find the convenience of an online offering\ncomplementary to an in-store experience,\" he says. As examples of successful\nexponents of this in America, Mr. Silverstein points to Neiman Marcus, which\nhas taken a lead in online top-end fashion, Victoria's Secret in lingerie, and\nCircuit City in consumer electronics."
+          },
+          {
+            "label": null,
+            "text": "F. Circuit City was a pioneer of the \"pick-up in-store\" option, which is proving"
+          },
+          {
+            "label": null,
+            "text": "increasingly popular with Internet shoppers. Around half the customers buying\ngoods online from Circuit City collect their purchases at a shop. For this holiday\nseason, the company is offering what it calls a \"24/24 Pick-up Guarantee\": if\ngoods ordered online or over the telephone are not available for collection at a\nlocal store within 24 minutes of purchase, the customer can claim a $24 gift\nvoucher. Apart from instant consumer gratification, why would someone want\nthe convenience of buying online only to trek to a store to take delivery? There\nare, it appears, many reasons. Some people want to examine items before they\naccept them; some want to save on delivery costs; others want to avoid\nhanging around for the delivery man to call. For many, the chief reason is that\nthey trust a big retailing brand with a local store - not least because they will\nknow where goods can be returned if there is a problem. With more than 3,700\nstores in America alone, this hands Wal-Mart another big advantage. It is\ndeveloping services that link the web with its stores, such as e-mailing digital\npictures and picking up the prints."
+          },
+          {
+            "label": null,
+            "text": "G. Does this mean retailing giants will come to dominate the web just as they\ndo the high street? Some might carve out large chunks of cyberspace. Tesco,\nfor instance, has a huge 30% share of the British grocery market. Online it is\neven more popular: Nielsen//NetRatings says almost 70% of online shoppers\nplan to buy groceries this Christmas from tesco.com. Even the big traditional\nretailers still face competition online. For instance, Wal-Mart may have more\nthan five times the annual sales of Target, but Target's website is growing\nfaster and, according to some analysts, the average value of an online sale at\nTarget is roughly three times more than one made online at Wal-Mart. This is\none reason why Wal-Mart is now offering more upmarket goods on its website,\nincluding diamond rings. So, should Amazon have stuck to books? Jeff Bezos,\nits founder and chief executive, does not think so and likes to plug his site, with\nits growing army of other traders, as offering \"earth's biggest selection\".\nNevertheless, he is spreading his bets. These days, Amazon also sells its e-\ncommerce experience, helping to run the websites of big, traditional retailers\nsuch as Target and Britain's Marks & Spencer."
           }
         ],
+        "text": "Clicks, Bricks, and Bargains\n\nA. It's a new phenomenon called \"Cyber Monday\". On November 28, millions of\nAmericans returned to work after the Thanksgiving holiday and fired up their\noffice computers to take advantage of high-speed Internet links and continue\nthe arduous task of hunting for Christmas presents. Visits to some retail\nwebsites more than doubled, and Visa reported that online spending by its\ncardholders grew by 26% compared with the same day a year ago. Despite\nconcerns about a fall in consumer confidence putting the brake on store sales,\nonline purchases are soaring in most countries, Something else is happening,\ntoo. Increasingly, the websites run by conventional retailers - once considered\ndinosaurs of the bricks-and-mortar age - are growing the fastest. Indeed, on\nThanksgiving Day itself, the number of visitors to Wal-Mart's website exceeded\nthose visiting Amazon - the first time that has ever happened, says Hitwise,\nwhich monitors Internet usage.\n\nB. Online sales in America (excluding travel) are expected to grow to more\nthan $19 billion in the crucial two months running up to Christmas - 24% more\nthan the same period last year - according to comScore Networks, a research\nfirm. Online sales of toys, computer games, clothing, and jewellery are all more\nthan 30% higher. In many countries, the websites run by eBay and Amazon get\nthe most visitors. Both are considered \"pure Internet plays\", since they have\nno physical shops. Their business models have changed markedly, and they\nnow resemble online versions of vast department stores, where thousands of\nbig and small third-party merchants also offer their wares. During Thanksgiving\n\nin 2004, Amazon for the first time sold more consumer electronics than it sold\nbooks.\n\nC. Amazon was the company that proved online retailing could be a huge\nbusiness - and it still leads the pack. Things are changing quickly. The online\nrise of mighty Wal-Mart, the world's biggest retailer, is being closely followed\nby its chief supermarket rival, Target, which now operates the fourth most\npopular retail website in America. In Britain, Argos, a catalogue merchant, is\nthe third most popular retail site, followed by Tesco, the country's biggest\nsupermarket chain. Europeans are surfing the web in record numbers and\nalmost half now visit retail websites, especially those of traditional merchants.\nAccording to Nielsen//NetRatings, the leading retail websites in Europe include\nGermany's Tchibo, a diversified chain; OTTO, a German mail-order specialist;\nand Fnac, a French high-street favourite.\n\nD. Far from wrecking retailers' businesses, the web plays to their strengths.\nShopping comparison sites, including America's Shopzilla and Ciao in Europe,\nare among the fastest growing destinations on the web. These sites allow users\nto compare products, read reviews - and most important of all - see who is\noffering the lowest prices. They make money from advertising or charging\nretailers when users click on a link to the retailers' website. With huge\neconomies of scale, it is hardly surprising that giants such as Wal-Mart often\nemerge as the vendor offering the cheapest prices. Besides attracting an online\npurchase, shopping comparison searches can also be used by ordinary retailers\nas a relatively cheap way to advertise and attract consumers to their physical\nstores.\n\nE. The traditional retailers are finding many other advantages in expanding\ntheir stores online. One is that in cyberspace, even the biggest super-centre is\nunconstrained by planning laws or dogged by protests, as Wal-Mart often is\nwhen it tries to expand offline. Both Wal-Mart and Target also use the web to\ntest the market for certain \\ products before they send them to their stores.\nConventional shopkeepers might be late coming to the Internet, but they now\nrealise that they can offer more to their customers online, and that the\ntechnology required to do so is relatively easy to use, says Michael Silverstein\nof the Boston Consulting Group. \"Retailers are starting to recognise that their\nmost profitable customers ... find the convenience of an online offering\ncomplementary to an in-store experience,\" he says. As examples of successful\nexponents of this in America, Mr. Silverstein points to Neiman Marcus, which\nhas taken a lead in online top-end fashion, Victoria's Secret in lingerie, and\nCircuit City in consumer electronics.\n\nF. Circuit City was a pioneer of the \"pick-up in-store\" option, which is proving\n\nincreasingly popular with Internet shoppers. Around half the customers buying\ngoods online from Circuit City collect their purchases at a shop. For this holiday\nseason, the company is offering what it calls a \"24/24 Pick-up Guarantee\": if\ngoods ordered online or over the telephone are not available for collection at a\nlocal store within 24 minutes of purchase, the customer can claim a $24 gift\nvoucher. Apart from instant consumer gratification, why would someone want\nthe convenience of buying online only to trek to a store to take delivery? There\nare, it appears, many reasons. Some people want to examine items before they\naccept them; some want to save on delivery costs; others want to avoid\nhanging around for the delivery man to call. For many, the chief reason is that\nthey trust a big retailing brand with a local store - not least because they will\nknow where goods can be returned if there is a problem. With more than 3,700\nstores in America alone, this hands Wal-Mart another big advantage. It is\ndeveloping services that link the web with its stores, such as e-mailing digital\npictures and picking up the prints.\n\nG. Does this mean retailing giants will come to dominate the web just as they\ndo the high street? Some might carve out large chunks of cyberspace. Tesco,\nfor instance, has a huge 30% share of the British grocery market. Online it is\neven more popular: Nielsen//NetRatings says almost 70% of online shoppers\nplan to buy groceries this Christmas from tesco.com. Even the big traditional\nretailers still face competition online. For instance, Wal-Mart may have more\nthan five times the annual sales of Target, but Target's website is growing\nfaster and, according to some analysts, the average value of an online sale at\nTarget is roughly three times more than one made online at Wal-Mart. This is\none reason why Wal-Mart is now offering more upmarket goods on its website,\nincluding diamond rings. So, should Amazon have stuck to books? Jeff Bezos,\nits founder and chief executive, does not think so and likes to plug his site, with\nits growing army of other traders, as offering \"earth's biggest selection\".\nNevertheless, he is spreading his bets. These days, Amazon also sells its e-\ncommerce experience, helping to run the websites of big, traditional retailers\nsuch as Target and Britain's Marks & Spencer.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 7 paragraphs (A - G). Which paragraph does each of the following headings best fit?",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "According to the text, FIVE of the following statements are true.",
+          "body": "Write the corresponding letters in answer boxes [[18]] to [[22]] in any order. A Websites operated by traditional retailers are the fastest growing ones. B Online sales grew by over $[[19]] billion last year. C Amazon is the biggest online retailer. D Shopzilla allows people to compare prices in different stores. E Michael Silverstein says the best customers like to mix online and traditional shopping. F Circuit City was one of the first businesses of its kind. G Tesco has the biggest share of Britain's retail market. H Target sells less than Wal-Mart.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "According to the information given in the text, choose the correct answer or answers from the choices given.",
+          "body": null,
+          "range": [
+            23,
+            24
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "multiple-choice",
+          "instruction": "25 According to the information given in the text, choose the correct answer or answers from the choices given. Problems that traditional retailers have when expanding include",
+          "body": null,
+          "range": [
+            25,
+            26
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-practice-test-volume-6_reading-practice-test-2-v9-2093675/p2g4.png",
+              "w": 982,
+              "h": 634
+            }
+          ],
+          "questionNumbers": [
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
-          "type": "matching-features",
-          "prompt": "Compare prices on the Net answer",
-          "instruction": "Which paragraph does each of the following headings best fit? A B C D E F G Drag your",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Compare prices on the Net    \nanswer",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Buy online, collect at the store",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Street and web domination",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "In the footsteps of Amazon",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,E,F",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,E,F",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,E,F",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,E,F",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,E,F",
+          "trap": null
         },
         {
           "number": 23,
           "type": "multiple-choice",
-          "prompt": "“Cyber Monday” is",
-          "instruction": "Which paragraph does each of the following headings best fit? A B C D E F G Drag your answer 15 Buy online, collect at the store 16 Street and web domination 17 In the footsteps of Amazon According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "B",
+          "groupId": "p2g3",
+          "prompt": "\"Cyber Monday\" is",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "the busiest day for online shopping in America.",
+            "when Americans begin shopping for Christmas.",
+            "the first time visits to the Wal-Mart website exceeded visits to the Amazon website."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 24,
           "type": "multiple-choice",
-          "prompt": "eBay and Amazon are considered to be “pure Internet plays” because",
-          "instruction": "Which paragraph does each of the following headings best fit? A B C D E F G Drag your answer 15 Buy online, collect at the store 16 Street and web domination 17 In the footsteps of Amazon According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "A",
+          "groupId": "p2g3",
+          "prompt": "eBay and Amazon are considered to be \"pure Internet plays\" because",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "you cannot visit their shops.",
+            "they are like big stores.",
+            "third-party agents can sell things there."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 25,
           "type": "multiple-choice",
-          "prompt": "According to the information given in the text, choose the correct answer or answers from the choices given. Problems that traditional retailers have when expanding include A",
-          "instruction": "Which paragraph does each of the following headings best fit? A B C D E F G Drag your answer 15 Buy online, collect at the store 16 Street and web domination 17 In the footsteps of Amazon According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "A,B"
+          "groupId": "p2g4",
+          "prompt": "According to the information given in the text, choose the correct answer\nor answers from the choices given.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B",
+          "trap": null
         },
         {
           "number": 26,
           "type": "multiple-choice",
-          "prompt": "People buy online then go to the store to collect their purchases because they A",
-          "instruction": "Which paragraph does each of the following headings best fit? A B C D E F G Drag your answer 15 Buy online, collect at the store 16 Street and web domination 17 In the footsteps of Amazon According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given. According to the information given in the text, choose the correct answer or answers from the choices given. Problems that traditional retailers have when expanding include A",
-          "answer": "A,D"
+          "groupId": "p2g4",
+          "prompt": "People buy online then go to the store to collect their purchases because\nthey",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D",
+          "trap": null
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Reading Passage 3",
+      "questionRange": [
+        27,
+        40
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "heading": "",
+        "paragraphs": [],
+        "text": "",
+        "images": [],
+        "tables": []
+      },
+      "questionGroups": [],
+      "questions": [
+        {
+          "number": 27,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
         }
       ]
     }
@@ -240,10 +946,14 @@
     "15": "F",
     "16": "G",
     "17": "C",
-    "22": "A,C,D,E,F",
+    "18": "A,C,D,E,F",
     "23": "B",
     "24": "A",
     "25": "A,B",
-    "26": "A,D"
+    "26": "A,D",
+    "19": "A,C,D,E,F",
+    "20": "A,C,D,E,F",
+    "21": "A,C,D,E,F",
+    "22": "A,C,D,E,F"
   }
 }

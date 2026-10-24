@@ -1,0 +1,20 @@
+{
+  "p1g2": {
+    "_keepImage": true,
+    "_reason": "First diagram (labels 4-5) is missing from the source crop; only the Hyperopia diagram for label 6 is present, so 4-5 cannot be stated without inventing."
+  },
+  "p3g3": {
+    "instruction": "Complete the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35.",
+    "questions": {
+      "33": {
+        "prompt": "Tectonic Forces at Work, label 33: the top layer that is moving sideways ('movement' arrow)"
+      },
+      "34": {
+        "prompt": "Tectonic Forces at Work, label 34: Material ______ (in the circulating molten interior rock, between the sinking and rising sides)"
+      },
+      "35": {
+        "prompt": "Tectonic Forces at Work, label 35: Earth's ______ (the dotted arrow running across the diagram)"
+      }
+    }
+  }
+}

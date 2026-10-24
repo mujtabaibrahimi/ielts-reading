@@ -1,0 +1,30 @@
+{
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "What is the main function of this passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "to reveal all kinds of language problems that companies may encounter",
+          "to exhibits some well-known cases in dealing with language difficulties",
+          "to evaluate various approaches for language barrier in multinational companies",
+          "to testify that training is only feasible approach to solve language problem"
+        ]
+      }
+    }
+  }
+}

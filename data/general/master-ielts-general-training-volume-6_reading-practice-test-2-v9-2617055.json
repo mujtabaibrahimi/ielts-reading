@@ -1,281 +1,1261 @@
 {
   "id": "master-ielts-general-training-volume-6_reading-practice-test-2-v9-2617055",
   "type": "general",
-  "source": "master-ielts-general-training-volume-6 reading-practice-test-2-v9-2617055",
+  "title": "Master IELTS General Training Volume 6 - Reading Test 2",
+  "collection": "Master IELTS General Training Volume 6",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 6,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-6_reading-practice-test-2-v9-2617055.pdf",
-  "total_questions": 19,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [],
+        "heading": "BURGHAM COLLEGE",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-14."
+          },
+          {
+            "label": null,
+            "text": "PROCEDURE FOR DEALING WITH A\nSUSPICIOUS PACKAGE"
+          },
+          {
+            "label": null,
+            "text": "There are three procedures for dealing with a suspicious object such as a bag, briefcase,\nbackpack, package, mail, box, depending on the situation."
+          },
+          {
+            "label": null,
+            "text": "A. If it is suspected that the item is an explosive device:"
+          },
+          {
+            "label": null,
+            "text": "1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772)."
+          },
+          {
+            "label": null,
+            "text": "2. Evacuate the area."
+          },
+          {
+            "label": null,
+            "text": "B. If the suspicious object has not been opened:"
+          },
+          {
+            "label": null,
+            "text": "1. Put gloves on your hands, if possible."
+          },
+          {
+            "label": null,
+            "text": "2. Place it in a plastic bag and seal it. Handle with care."
+          },
+          {
+            "label": null,
+            "text": "3. Do not leave your office or immediate work area."
+          },
+          {
+            "label": null,
+            "text": "4. No personnel working in the same space should be allowed to leave room."
+          },
+          {
+            "label": null,
+            "text": "5. Take measures to prevent others from entering the area because there is a risk of\npotential contamination."
+          },
+          {
+            "label": null,
+            "text": "6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772)."
+          },
+          {
+            "label": null,
+            "text": "7. Give Security the following information:"
+          },
+          {
+            "label": null,
+            "text": "a. exact location of the suspicious object (building, floor level, room number)"
+          },
+          {
+            "label": null,
+            "text": "b. number of people potentially contaminated"
+          },
+          {
+            "label": null,
+            "text": "c. description of the suspicious object"
+          },
+          {
+            "label": null,
+            "text": "d. details of action taken (e.g. object sealed and area isolated)."
+          },
+          {
+            "label": null,
+            "text": "8. Do not touch your face to avoid contaminating your eyes, nose and mouth."
+          },
+          {
+            "label": null,
+            "text": "9. Wash your hands only if it is possible to do so without leaving your work area."
+          },
+          {
+            "label": null,
+            "text": "10. Wait for help to arrive patiently and do not panic. It is unlikely you will be In any\nimmediate danger."
+          },
+          {
+            "label": null,
+            "text": "C. If the suspicious object has been opened:"
+          },
+          {
+            "label": null,
+            "text": "1. Put gloves on your hands, if possible."
+          },
+          {
+            "label": null,
+            "text": "2. Place all items in a second plastic bag and seal that bag. Handle Items carefully."
+          },
+          {
+            "label": null,
+            "text": "3. Do not disturb the object and items further and do not pass them around."
+          },
+          {
+            "label": null,
+            "text": "4. If any material has split from the object, do not attempt to clean it up or brush it\naway from your clothing."
+          },
+          {
+            "label": null,
+            "text": "5. Cover the object with a large dustbin (or something similar) without disturbing it\nfurther."
+          },
+          {
+            "label": null,
+            "text": "6. Follow steps 3 to 9 above."
+          },
+          {
+            "label": null,
+            "text": "7. Shut down the building ventilation system and turn off fans or any equipment\ncirculating air around your office or building."
+          },
+          {
+            "label": null,
+            "text": "8. Wait for help to arrive patiently and do not panic. It is unlikely you will be in any\nimmediate danger."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 10-14."
+          },
+          {
+            "label": null,
+            "text": "BUSINESS ADMINISTRATION AND MANAGEMENT COURSE"
+          },
+          {
+            "label": null,
+            "text": "The course consists of three modules as described below:"
+          },
+          {
+            "label": null,
+            "text": "Module 1: Business Basics"
+          },
+          {
+            "label": null,
+            "text": "- an introduction to the world of business, including an understanding of markets\nand market economies"
+          },
+          {
+            "label": null,
+            "text": "- an understanding of the structures, cultures and functioning of business\norganisations"
+          },
+          {
+            "label": null,
+            "text": "- an understanding of the complex nature of key business functions and processes"
+          },
+          {
+            "label": null,
+            "text": "- an understanding of the processes and outcomes of organisational decision-\nmaking, that is, how organisational strategies both develop and diversify as well as\nthe nature and role of policies which impact on business"
+          },
+          {
+            "label": null,
+            "text": "- a range of important business graduate skills, which you can apply to your work\ndirectly"
+          },
+          {
+            "label": null,
+            "text": "Module 2: Business Advanced 1"
+          },
+          {
+            "label": null,
+            "text": "This is an advanced course focusing on social impact management. In other words, you\nwill study concepts and insights which are absolutely necessary for success in\ncontemporary business management, where public pressure for corporations to address\npressing social and environmental concerns is increasingly apparent. Module 2 prepares\nyou to face precisely those challenges."
+          },
+          {
+            "label": null,
+            "text": "Module 3: Business Advanced 2"
+          },
+          {
+            "label": null,
+            "text": "Module 3 is a course that puts theory into practice, giving you the skills and knowledge\nto apply what you learn in your workplace, industry and career. Our programmers are\ndeveloped with insights from leading industry experts and courses are taught by\nrespected faculty who are active practitioners in the field of Business and Management."
+          },
+          {
+            "label": null,
+            "text": "For more information on our business and management programmes, tuition fees,\nfinancial aid and scholarships, download our brochure or call one of our admissions\ntutors."
+          }
+        ],
+        "text": "Read the text below and answer Questions 1-14.\n\nPROCEDURE FOR DEALING WITH A\nSUSPICIOUS PACKAGE\n\nThere are three procedures for dealing with a suspicious object such as a bag, briefcase,\nbackpack, package, mail, box, depending on the situation.\n\nA. If it is suspected that the item is an explosive device:\n\n1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772).\n\n2. Evacuate the area.\n\nB. If the suspicious object has not been opened:\n\n1. Put gloves on your hands, if possible.\n\n2. Place it in a plastic bag and seal it. Handle with care.\n\n3. Do not leave your office or immediate work area.\n\n4. No personnel working in the same space should be allowed to leave room.\n\n5. Take measures to prevent others from entering the area because there is a risk of\npotential contamination.\n\n6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772).\n\n7. Give Security the following information:\n\na. exact location of the suspicious object (building, floor level, room number)\n\nb. number of people potentially contaminated\n\nc. description of the suspicious object\n\nd. details of action taken (e.g. object sealed and area isolated).\n\n8. Do not touch your face to avoid contaminating your eyes, nose and mouth.\n\n9. Wash your hands only if it is possible to do so without leaving your work area.\n\n10. Wait for help to arrive patiently and do not panic. It is unlikely you will be In any\nimmediate danger.\n\nC. If the suspicious object has been opened:\n\n1. Put gloves on your hands, if possible.\n\n2. Place all items in a second plastic bag and seal that bag. Handle Items carefully.\n\n3. Do not disturb the object and items further and do not pass them around.\n\n4. If any material has split from the object, do not attempt to clean it up or brush it\naway from your clothing.\n\n5. Cover the object with a large dustbin (or something similar) without disturbing it\nfurther.\n\n6. Follow steps 3 to 9 above.\n\n7. Shut down the building ventilation system and turn off fans or any equipment\ncirculating air around your office or building.\n\n8. Wait for help to arrive patiently and do not panic. It is unlikely you will be in any\nimmediate danger.\n\nRead the text below and answer Questions 10-14.\n\nBUSINESS ADMINISTRATION AND MANAGEMENT COURSE\n\nThe course consists of three modules as described below:\n\nModule 1: Business Basics\n\n- an introduction to the world of business, including an understanding of markets\nand market economies\n\n- an understanding of the structures, cultures and functioning of business\norganisations\n\n- an understanding of the complex nature of key business functions and processes\n\n- an understanding of the processes and outcomes of organisational decision-\nmaking, that is, how organisational strategies both develop and diversify as well as\nthe nature and role of policies which impact on business\n\n- a range of important business graduate skills, which you can apply to your work\ndirectly\n\nModule 2: Business Advanced 1\n\nThis is an advanced course focusing on social impact management. In other words, you\nwill study concepts and insights which are absolutely necessary for success in\ncontemporary business management, where public pressure for corporations to address\npressing social and environmental concerns is increasingly apparent. Module 2 prepares\nyou to face precisely those challenges.\n\nModule 3: Business Advanced 2\n\nModule 3 is a course that puts theory into practice, giving you the skills and knowledge\nto apply what you learn in your workplace, industry and career. Our programmers are\ndeveloped with insights from leading industry experts and courses are taught by\nrespected faculty who are active practitioners in the field of Business and Management.\n\nFor more information on our business and management programmes, tuition fees,\nfinancial aid and scholarships, download our brochure or call one of our admissions\ntutors.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and",
+          "body": "[[1]] If the suspicious mail or package has not been opened, you should put it in a plastic bag and [[2]] Whether the package has been opened or not, you should stay in your office or immediate [[3]] You must prevent all people from leaving or entering the area and causing [[4]] You should advise Security of the [[5]] of the incident. It is important to keep your hands away from your [[6]] contamination. There is no reason to be overly concerned because there is probably no [[7]] Do not allow anyone to handle the object and items or [[8]] If any [[9]] from the item, place an object over it without disturbing it (such as a waste bin).",
+          "range": [
+            1,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 10-14, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            10,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "evacuate the area",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "seal it",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "work area",
+          "trap": null
+        },
         {
           "number": 4,
           "type": "sentence-completion",
-          "prompt": "You should advise Security of the 5 of the incident. It is important to keep your hands away from your 6 contamination.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it",
-          "answer": "potential contamination"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "potential contamination",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "exact location",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "face to avoid",
+          "trap": null
         },
         {
           "number": 7,
           "type": "sentence-completion",
-          "prompt": "Do not allow anyone to handle the object and items or 8 If any 9 from the item, place an object over it without disturbing it (such as a waste bin).",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it",
-          "answer": "immediate danger"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "immediate danger",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "pass them around",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "material has split",
+          "trap": null
         },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "If you do the course, you will gain knowledge critical to success in today’s business world.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it Do the following statements agree with the information given in the text? For questions 10-14, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "If you do the course, you will gain knowledge critical\nto success in today's business world.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
-          "prompt": "In today’s business world, large businesses often find themselves increasingly in a position where they have to take a stand on serious ecological issues.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it Do the following statements agree with the information given in the text? For questions 10-14, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "In today's business world, large businesses often\nfind themselves increasingly in a position where they have to take a stand\non serious ecological issues.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
-          "prompt": "The brochure includes information about on- campus accommodation.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it Do the following statements agree with the information given in the text? For questions 10-14, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "The brochure includes information about on-\ncampus accommodation.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "The course is entirely theoretical and does not offer work experience.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it Do the following statements agree with the information given in the text? For questions 10-14, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "The course is entirely theoretical and does not offer\nwork experience.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 14,
           "type": "true-false-not-given",
-          "prompt": "There are special scholarships for university graduates.",
-          "instruction": "Read the text below and answer Questions 1-14. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE There are three procedures for dealing with a suspicious object such as a bag, briefcase, backpack, package, mail, box, depending on the situation. A. If it is suspected that the item is an explosive device: 1. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 2. Evacuate the area. B. If the suspicious object has not been opened: 1. Put gloves on your hands, if possible. 2. Place it in a plastic bag and seal it. Handle with care. 3. Do not leave your office or immediate work area. 4. No personnel working in the same space should be allowed to leave room. 5. Take measures to prevent others from entering the area because there is a risk of potential contamination. 6. Phone Security (ring 4444) and Mail Room (ring 7771 or 7772). 7. Give Security the following information: a. exact location of the suspicious object (building, floor level, room number) b. number of people potentially contaminated c. description of the suspicious object Read the text below and answer Questions 10-14. BURGHAM COLLEGE BUSINESS ADMINISTRATION AND MANAGEMENT COURSE The course consists of three modules as described below: Module 1: Business Basics - an introduction to the world of business, including an understanding of markets and market economies - an understanding of the structures, cultures and functioning of business organisations - an understanding of the complex nature of key business functions and processes - an understanding of the processes and outcomes of organisational decision- making, that is, how organisational strategies both develop and diversify as well as the nature and role of policies which impact on business - a range of important business graduate skills, which you can apply to your work directly Module 2: Business Advanced 1 This is an advanced course focusing on social impact management. In other words, you will study concepts and insights which are absolutely necessary for success in contemporary business management, where public pressure for corporations to address pressing social and environmental concerns is increasingly apparent. Module 2 prepares you to face precisely those challenges. Module 3: Business Advanced 2 Module 3 is a course that puts theory into practice, giving you the skills and knowledge to apply what you learn in your workplace, industry and career. Our programmers are developed with insights from leading industry experts and courses are taught by respected faculty who are active practitioners in the field of Business and Management. For more information on our business and management programmes, tuition fees, financial aid and scholarships, download our brochure or call one of our admissions tutors. Questions 1-9 Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. PROCEDURE FOR DEALING WITH A SUSPICIOUS PACKAGE If you believe the item is a bomb, call Security and Mail Room and 1 If the suspicious mail or package has not been opened, you should put it Do the following statements agree with the information given in the text? For questions 10-14, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "There are special scholarships for university\ngraduates.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
         28
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [
+        "heading": "DISMISSALS, REDUNDANCIES AND SACKING",
+        "paragraphs": [
           {
-            "page": 9,
-            "rows": [
-              [
-                "",
-                ""
-              ],
-              [
-                "A dismissal is a redundancy when you terminate an employee's contract because there\nis a requirement to lose a particular number of employees, or when a fixed-term\ncontract of two years or more expires and is not renewed.\nA dismissal is a sacking when you terminate an employee's contract because of their\nconduct or capability. Examples of minor misconduct include being late, using company\nphones for personal calls, using company facilities for personal reasons, not performing\nto adequate/satisfactory standards, etc. Examples of gross misconduct include abusive\nbehaviour, violence, theft, fraud, alcohol or drug abuse, discrimination or harassment,\ndeliberately damaging company equipment/property, seriously breaking health and\nsafety regulations and serious insubordination, amongst other things.\nWhatever the grounds for dismissal, the employer must follow the correct dismissal\nprocedure, otherwise the dismissal will be considered either an unfair or a wrongful\ndismissal. The correct dismissal procedure involves the following five steps:\na. establishing the facts of the case\nb. informing the employee of the problem\nc. holding a meeting with the employee to discuss the problem\nd. deciding on appropriate action\ne. providing employees with an opportunity to appeal\nA dismissal is an unfair dismissal when an employer terminates an employee's contract\nfor a reason which is considered unfair by law or if the employer acts unreasonably\nduring the dismissal process. There are many different reasons why a dismissal would\nbe considered automatically unfair. One such example is dismissal on grounds of race,\ngender or disability.\nIt must be pointed out, however, that it is not wrong to dismiss a disabled person as\nlong as the grounds for dismissal are unrelated to the disability. Indeed, to dismiss a\ndisabled person for serious negligence is quite reasonable, but to dismiss them for slow\nproductivity caused by their disability is not allowed. This is always the case, no matter\nwhen the disability became apparent/occurred. The situation becomes more complex if\nthe disability in question makes the employee unable to carry out their existing job at\nall. In this case, the employer should look to provide alternative work.\nA wrongful dismissal is when you do not follow the correct dismissal procedure or break\ncontractual terms during the dismissal process. One example is dismissing an employee\nbefore the time specified in their contract as the end of their contract.\nConstructive dismissal occurs when an employee resigns because the employer has\nbreached their employment contract substantially. Examples of constructive dismissal\nwould be resignation due to the employer cutting an employee's wages without\nagreement, or resignation due to the employer unlawfully demoting the employee. A\nconstructive dismissal is not necessarily an unfair dismissal, although it would be\ndifficult for an employer to show that an action in breach of the contract was, in fact,\nfair.",
-                ""
-              ]
-            ],
-            "header": [
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "Read the text below and answer Questions 15-28."
           },
           {
-            "page": 10,
-            "rows": [
-              [
-                "F",
-                "minor misconduct"
-              ],
-              [
-                "G gross misconduct",
-                null
-              ]
-            ],
-            "header": [
-              "F",
-              "minor misconduct"
-            ]
+            "label": null,
+            "text": "A London Business School Training and Development College caters for the training\nneeds of central London businesses. Irrespective of what the needs of the business or\norganisation might be, our college can provide high-quality, short-term customised\ntraining for business, industry and government organisations as well as for the general\npublic."
+          },
+          {
+            "label": null,
+            "text": "B London Business School Training and Development College faculty boasts several\nhighly qualified trainers and coordinators with relevant and up-to-date business\nexperiences. In addition, Training and Development also work with our Business School\nfaculty, part-time industry leaders and external agencies to deliver quality training\ntailored to meet the needs of any business, schedules or location."
+          },
+          {
+            "label": null,
+            "text": "C Whether your company is focused on manufacturing, construction, agriculture, retail\nor service, Training and Development College can help develop and enhance the skills\nof your employees."
+          },
+          {
+            "label": null,
+            "text": "D We also collaborate with many other London colleges to deliver training not only\nacross London but also throughout Greater London as well as in most of the towns\nsurrounding the Greater London area."
+          },
+          {
+            "label": null,
+            "text": "E We also provide instruction and assistance in writing Job Training grants requests. In\nfact, our Worker Training programme is a business incentive programme designed to\nsupport the retraining and upgrading of London's current workforce."
+          },
+          {
+            "label": null,
+            "text": "F Should you be interested in finding out more about our training programmes and/or\nupgrading the skill level of your employees, we should appreciate the opportunity to\ninform you. We would be glad to schedule an appointment for you with one of our\nadvisors during which we can find out more about your company or organization and\ndiscuss the best way to serve your needs."
+          },
+          {
+            "label": null,
+            "text": "G For information about Training and Development classes on our London Campus\nplease contact Dr. Brian Richardson."
+          },
+          {
+            "label": null,
+            "text": "Brian Richardson, PhD"
+          },
+          {
+            "label": null,
+            "text": "Dean of School of Extended Learning"
+          },
+          {
+            "label": null,
+            "text": "Services and Training"
+          },
+          {
+            "label": null,
+            "text": "London"
+          },
+          {
+            "label": null,
+            "text": "brianrichardson@lbs_t&d"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-28."
+          },
+          {
+            "label": null,
+            "text": "There are many different kinds of dismissal including sacking, redundancy, unfair\ndismissal, wrongful dismissal and constructive dismissal."
+          },
+          {
+            "label": null,
+            "text": "A dismissal is a redundancy when you terminate an employee's contract because there\nis a requirement to lose a particular number of employees, or when a fixed-term\ncontract of two years or more expires and is not renewed."
+          },
+          {
+            "label": null,
+            "text": "A dismissal is a sacking when you terminate an employee's contract because of their\nconduct or capability. Examples of minor misconduct include being late, using company\nphones for personal calls, using company facilities for personal reasons, not performing\nto adequate/satisfactory standards, etc. Examples of gross misconduct include abusive\nbehaviour, violence, theft, fraud, alcohol or drug abuse, discrimination or harassment,\ndeliberately damaging company equipment/property, seriously breaking health and\nsafety regulations and serious insubordination, amongst other things."
+          },
+          {
+            "label": null,
+            "text": "Whatever the grounds for dismissal, the employer must follow the correct dismissal\nprocedure, otherwise the dismissal will be considered either an unfair or a wrongful\ndismissal. The correct dismissal procedure involves the following five steps:"
+          },
+          {
+            "label": null,
+            "text": "a. establishing the facts of the case"
+          },
+          {
+            "label": null,
+            "text": "b. informing the employee of the problem"
+          },
+          {
+            "label": null,
+            "text": "c. holding a meeting with the employee to discuss the problem"
+          },
+          {
+            "label": null,
+            "text": "d. deciding on appropriate action"
+          },
+          {
+            "label": null,
+            "text": "e. providing employees with an opportunity to appeal"
+          },
+          {
+            "label": null,
+            "text": "A dismissal is an unfair dismissal when an employer terminates an employee's contract\nfor a reason which is considered unfair by law or if the employer acts unreasonably\nduring the dismissal process. There are many different reasons why a dismissal would\nbe considered automatically unfair. One such example is dismissal on grounds of race,\ngender or disability."
+          },
+          {
+            "label": null,
+            "text": "It must be pointed out, however, that it is not wrong to dismiss a disabled person as\nlong as the grounds for dismissal are unrelated to the disability. Indeed, to dismiss a\ndisabled person for serious negligence is quite reasonable, but to dismiss them for slow\nproductivity caused by their disability is not allowed. This is always the case, no matter\nwhen the disability became apparent/occurred. The situation becomes more complex if\nthe disability in question makes the employee unable to carry out their existing job at\nall. In this case, the employer should look to provide alternative work."
+          },
+          {
+            "label": null,
+            "text": "A wrongful dismissal is when you do not follow the correct dismissal procedure or break\ncontractual terms during the dismissal process. One example is dismissing an employee\nbefore the time specified in their contract as the end of their contract."
+          },
+          {
+            "label": null,
+            "text": "Constructive dismissal occurs when an employee resigns because the employer has\nbreached their employment contract substantially. Examples of constructive dismissal\nwould be resignation due to the employer cutting an employee's wages without\nagreement, or resignation due to the employer unlawfully demoting the employee. A\nconstructive dismissal is not necessarily an unfair dismissal, although it would be\ndifficult for an employer to show that an action in breach of the contract was, in fact,\nfair."
           }
         ],
+        "text": "Read the text below and answer Questions 15-28.\n\nA London Business School Training and Development College caters for the training\nneeds of central London businesses. Irrespective of what the needs of the business or\norganisation might be, our college can provide high-quality, short-term customised\ntraining for business, industry and government organisations as well as for the general\npublic.\n\nB London Business School Training and Development College faculty boasts several\nhighly qualified trainers and coordinators with relevant and up-to-date business\nexperiences. In addition, Training and Development also work with our Business School\nfaculty, part-time industry leaders and external agencies to deliver quality training\ntailored to meet the needs of any business, schedules or location.\n\nC Whether your company is focused on manufacturing, construction, agriculture, retail\nor service, Training and Development College can help develop and enhance the skills\nof your employees.\n\nD We also collaborate with many other London colleges to deliver training not only\nacross London but also throughout Greater London as well as in most of the towns\nsurrounding the Greater London area.\n\nE We also provide instruction and assistance in writing Job Training grants requests. In\nfact, our Worker Training programme is a business incentive programme designed to\nsupport the retraining and upgrading of London's current workforce.\n\nF Should you be interested in finding out more about our training programmes and/or\nupgrading the skill level of your employees, we should appreciate the opportunity to\ninform you. We would be glad to schedule an appointment for you with one of our\nadvisors during which we can find out more about your company or organization and\ndiscuss the best way to serve your needs.\n\nG For information about Training and Development classes on our London Campus\nplease contact Dr. Brian Richardson.\n\nBrian Richardson, PhD\n\nDean of School of Extended Learning\n\nServices and Training\n\nLondon\n\nbrianrichardson@lbs_t&d\n\nRead the text below and answer Questions 22-28.\n\nThere are many different kinds of dismissal including sacking, redundancy, unfair\ndismissal, wrongful dismissal and constructive dismissal.\n\nA dismissal is a redundancy when you terminate an employee's contract because there\nis a requirement to lose a particular number of employees, or when a fixed-term\ncontract of two years or more expires and is not renewed.\n\nA dismissal is a sacking when you terminate an employee's contract because of their\nconduct or capability. Examples of minor misconduct include being late, using company\nphones for personal calls, using company facilities for personal reasons, not performing\nto adequate/satisfactory standards, etc. Examples of gross misconduct include abusive\nbehaviour, violence, theft, fraud, alcohol or drug abuse, discrimination or harassment,\ndeliberately damaging company equipment/property, seriously breaking health and\nsafety regulations and serious insubordination, amongst other things.\n\nWhatever the grounds for dismissal, the employer must follow the correct dismissal\nprocedure, otherwise the dismissal will be considered either an unfair or a wrongful\ndismissal. The correct dismissal procedure involves the following five steps:\n\na. establishing the facts of the case\n\nb. informing the employee of the problem\n\nc. holding a meeting with the employee to discuss the problem\n\nd. deciding on appropriate action\n\ne. providing employees with an opportunity to appeal\n\nA dismissal is an unfair dismissal when an employer terminates an employee's contract\nfor a reason which is considered unfair by law or if the employer acts unreasonably\nduring the dismissal process. There are many different reasons why a dismissal would\nbe considered automatically unfair. One such example is dismissal on grounds of race,\ngender or disability.\n\nIt must be pointed out, however, that it is not wrong to dismiss a disabled person as\nlong as the grounds for dismissal are unrelated to the disability. Indeed, to dismiss a\ndisabled person for serious negligence is quite reasonable, but to dismiss them for slow\nproductivity caused by their disability is not allowed. This is always the case, no matter\nwhen the disability became apparent/occurred. The situation becomes more complex if\nthe disability in question makes the employee unable to carry out their existing job at\nall. In this case, the employer should look to provide alternative work.\n\nA wrongful dismissal is when you do not follow the correct dismissal procedure or break\ncontractual terms during the dismissal process. One example is dismissing an employee\nbefore the time specified in their contract as the end of their contract.\n\nConstructive dismissal occurs when an employee resigns because the employer has\nbreached their employment contract substantially. Examples of constructive dismissal\nwould be resignation due to the employer cutting an employee's wages without\nagreement, or resignation due to the employer unlawfully demoting the employee. A\nconstructive dismissal is not necessarily an unfair dismissal, although it would be\ndifficult for an employer to show that an action in breach of the contract was, in fact,\nfair.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21.",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms",
+          "body": null,
+          "range": [
+            22,
+            28
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": [
+              "sacking",
+              "redundancy",
+              "infair dismissal",
+              "wrongful dismissal",
+              "constructive dismissal",
+              "minor misconduct",
+              "gross misconduct"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "locations where training is available",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "applying for funding",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "calibre of training staff",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "how to contact us",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "arranging a visit",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "what is offered and by whom",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "examples of fields of business dealt with",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
         {
           "number": 22,
           "type": "matching-features",
-          "prompt": "The closure of the department meant that over 100 people lost their jobs because they were no longer needed.",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "B"
+          "groupId": "p2g2",
+          "prompt": "The closure of the department meant that over 100\npeople lost their jobs because they were no longer needed.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 23,
           "type": "matching-features",
-          "prompt": "An employee is using a company vehicle for unauthorised personal use.",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "F"
+          "groupId": "p2g2",
+          "prompt": "An employee is using a company vehicle for\nunauthorised personal use.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 24,
           "type": "matching-features",
+          "groupId": "p2g2",
           "prompt": "An employee is fired for misusing the Internet at work.",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 25,
           "type": "matching-features",
-          "prompt": "An employee is making sexual remarks to someone from work who does not want this sort of attention",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "G"
+          "groupId": "p2g2",
+          "prompt": "An employee is making sexual remarks to someone from\nwork who does not want this sort of attention",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
         },
         {
           "number": 26,
           "type": "matching-features",
-          "prompt": "The resignation of an employee as a result of the employer allowing colleagues to subject them to harassment, bullying, victimisation, humiliation or discrimination.",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "E"
+          "groupId": "p2g2",
+          "prompt": "The resignation of an employee as a result of the\nemployer allowing colleagues to subject them to harassment, bullying,\nvictimisation, humiliation or discrimination.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 27,
           "type": "matching-features",
-          "prompt": "An employee is dismissed because of trade union membership",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "C"
+          "groupId": "p2g2",
+          "prompt": "An employee is dismissed because of trade union\nmembership",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 28,
           "type": "matching-features",
-          "prompt": "An employee is dismissed without being given proper notice",
-          "instruction": "Read the text below and answer Questions 15-28. Read the text below and answer Questions 22-28. DISMISSALS, REDUNDANCIES AND SACKING There are many different kinds of dismissal including sacking, redundancy, unfair dismissal, wrongful dismissal and constructive dismissal. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 15-21. 15 locations where training is available 16 applying for funding 17 calibre of training staff 18 how to contact us 19 arranging a visit 20 what is offered and by whom 21 examples of fields of business dealt with Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-G. Write the appropriate letter, A-G, next to questions 22-28. List of Terms A sacking B redundancy C infair dismissal D wrongful dismissal E constructive dismissal F minor misconduct G gross misconduct List of Descriptions",
-          "answer": "D"
+          "groupId": "p2g2",
+          "prompt": "An employee is dismissed without being given proper\nnotice",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         29,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 29-40."
+          },
+          {
+            "label": null,
+            "text": "Treatments for the common cold"
+          },
+          {
+            "label": null,
+            "text": "Colds, we all get them. Adults typically have two to four colds a year and\nchildren about double that."
+          },
+          {
+            "label": null,
+            "text": "Throughout the ages, many treatments have been tried for the common cold.\nThese include bizarre cures, such as wearing wet socks, putting brown paper\nand vinegar on your chest and soaking your feet in hot water, which today of\ncourse seem stupid. Nevertheless, even modern treatments for colds are not\nparticularly effective. Generally, they only reduce the symptoms: blocked or\nrunny nose, sneezing, sore throat, coughing rather than treating the viral\ninfection itself."
+          },
+          {
+            "label": null,
+            "text": "One area of treatment and prevention for colds is diet. It is particularly\nimportant to eat healthily to reinforce your body's capacity to deal with viral\ninfections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and\nvegetables. It's also recommended to drink plenty of fluids to replace those lost\ndue to sweating and a runny nose."
+          },
+          {
+            "label": null,
+            "text": "It is commonly believed that supplementing your diet with vitamins C and D is\nalso a good idea. However, the evidence suggests that the benefits of these\nare modest. Taking vitamin C has been shown to help people under great\nphysical strain, such as marathon runners, from falling ill, but for the rest of us\nit only reduces your risk by 3%. This means that if you get three colds a year,\nvitamin C supplements will only enable you to avoid one cold in 10 years."
+          },
+          {
+            "label": null,
+            "text": "More effective are zinc supplements. Taking zinc syrup, tablets or lozenges\nwithin a day of the symptoms starting will speed up recovery and lessen the"
+          },
+          {
+            "label": null,
+            "text": "severity of symptoms, by a day or so. Clinical trials show that children taking\nregular zinc supplements will suffer roughly 1 to 1.5 fewer colds a year on\naverage - compared to the six to eight that is normal for school children.\nHowever, long-term use of zinc can be problematic as it could cause side\neffects such as vomiting and diarrhoea. The consumption of alcohol is\nsometimes said to make you more vulnerable to colds. However, recent\nstudies suggest that regular but moderate drinkers are in fact less likely to\ncatch a cold. This is particularly the case if you drink wine."
+          },
+          {
+            "label": null,
+            "text": "Many people take medication when they have a cold. Over-the-counter pills\ntypically combine painkillers and decongestants. Painkillers, such as ibuprofen,\nparacetamol and aspirin, can help reduce fever as well as pain. Decongestants,\nsuch as pseudoephedrine, can be taken by mouth or as a spray in your nose\nand are designed to reduce nasal congestion. However, the benefits of these\nmedicines are often modest and vary between people, and with the particular\ntypes of infection. Nevertheless, these over-the-counter cold medicines are\nprobably the most widely used type of medication."
+          },
+          {
+            "label": null,
+            "text": "One word of warning about medication - do not even think of taking antibiotics.\nThere is, quite simply, no reason why antibiotics should help, since they target\nbacteria whereas it is viruses that cause colds."
+          },
+          {
+            "label": null,
+            "text": "Another oft-used treatment are herbal remedies, such as Echinacea and garlic\ntablets, but these do not have any effect. The only herbal remedy to show any\nbeneficial results in tests is honey. These indicate that a spoonful, taken\nstraight before bed, can soothe a cough and has a better success rate than\nother sugary drinks and cough syrups. However, further studies are required."
+          },
+          {
+            "label": null,
+            "text": "Other remedies that seem to have some impact include steam inhalation,\nwhich involves putting a towel over your head and sitting with your head over\na bowl of hot water. You simply close your eyes and breathe deeply. Gargling\nwith salt water sometimes reduces a sore throat and nasal congestion and\nmenthol sweets can also help relieve a sore throat."
+          },
+          {
+            "label": null,
+            "text": "One thing that people tend to forget about is the psychological support you\nreceive from the people around you. With a high level of support, people tend\nto get over their illness more quickly. For example, studies show that patients\nwho report feeling greater empathy from their doctor recover faster, both in\nterms of their symptoms disappearing and in measures of their immune\nactivity."
+          },
+          {
+            "label": null,
+            "text": "Finally, though, it is worth pointing out that perhaps the most effective\ntreatment for a cold is taking measures to avoid getting one in the first place.\nAnd much of this is commonsensical: wash your hands regularly and properly,"
+          },
+          {
+            "label": null,
+            "text": "particularly after touching your nose or mouth and before handling food; clean\nsurfaces regularly to keep them free of germs; use your own cup, plates and\ncutlery and use disposable paper towels to dry your hands and face rather than\nshared cloth towels. Other measures, like opening the window on a crowded\nbus, may also be effective, but are not to everyone's taste."
+          }
+        ],
+        "text": "Read the text below and answer Questions 29-40.\n\nTreatments for the common cold\n\nColds, we all get them. Adults typically have two to four colds a year and\nchildren about double that.\n\nThroughout the ages, many treatments have been tried for the common cold.\nThese include bizarre cures, such as wearing wet socks, putting brown paper\nand vinegar on your chest and soaking your feet in hot water, which today of\ncourse seem stupid. Nevertheless, even modern treatments for colds are not\nparticularly effective. Generally, they only reduce the symptoms: blocked or\nrunny nose, sneezing, sore throat, coughing rather than treating the viral\ninfection itself.\n\nOne area of treatment and prevention for colds is diet. It is particularly\nimportant to eat healthily to reinforce your body's capacity to deal with viral\ninfections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and\nvegetables. It's also recommended to drink plenty of fluids to replace those lost\ndue to sweating and a runny nose.\n\nIt is commonly believed that supplementing your diet with vitamins C and D is\nalso a good idea. However, the evidence suggests that the benefits of these\nare modest. Taking vitamin C has been shown to help people under great\nphysical strain, such as marathon runners, from falling ill, but for the rest of us\nit only reduces your risk by 3%. This means that if you get three colds a year,\nvitamin C supplements will only enable you to avoid one cold in 10 years.\n\nMore effective are zinc supplements. Taking zinc syrup, tablets or lozenges\nwithin a day of the symptoms starting will speed up recovery and lessen the\n\nseverity of symptoms, by a day or so. Clinical trials show that children taking\nregular zinc supplements will suffer roughly 1 to 1.5 fewer colds a year on\naverage - compared to the six to eight that is normal for school children.\nHowever, long-term use of zinc can be problematic as it could cause side\neffects such as vomiting and diarrhoea. The consumption of alcohol is\nsometimes said to make you more vulnerable to colds. However, recent\nstudies suggest that regular but moderate drinkers are in fact less likely to\ncatch a cold. This is particularly the case if you drink wine.\n\nMany people take medication when they have a cold. Over-the-counter pills\ntypically combine painkillers and decongestants. Painkillers, such as ibuprofen,\nparacetamol and aspirin, can help reduce fever as well as pain. Decongestants,\nsuch as pseudoephedrine, can be taken by mouth or as a spray in your nose\nand are designed to reduce nasal congestion. However, the benefits of these\nmedicines are often modest and vary between people, and with the particular\ntypes of infection. Nevertheless, these over-the-counter cold medicines are\nprobably the most widely used type of medication.\n\nOne word of warning about medication - do not even think of taking antibiotics.\nThere is, quite simply, no reason why antibiotics should help, since they target\nbacteria whereas it is viruses that cause colds.\n\nAnother oft-used treatment are herbal remedies, such as Echinacea and garlic\ntablets, but these do not have any effect. The only herbal remedy to show any\nbeneficial results in tests is honey. These indicate that a spoonful, taken\nstraight before bed, can soothe a cough and has a better success rate than\nother sugary drinks and cough syrups. However, further studies are required.\n\nOther remedies that seem to have some impact include steam inhalation,\nwhich involves putting a towel over your head and sitting with your head over\na bowl of hot water. You simply close your eyes and breathe deeply. Gargling\nwith salt water sometimes reduces a sore throat and nasal congestion and\nmenthol sweets can also help relieve a sore throat.\n\nOne thing that people tend to forget about is the psychological support you\nreceive from the people around you. With a high level of support, people tend\nto get over their illness more quickly. For example, studies show that patients\nwho report feeling greater empathy from their doctor recover faster, both in\nterms of their symptoms disappearing and in measures of their immune\nactivity.\n\nFinally, though, it is worth pointing out that perhaps the most effective\ntreatment for a cold is taking measures to avoid getting one in the first place.\nAnd much of this is commonsensical: wash your hands regularly and properly,\n\nparticularly after touching your nose or mouth and before handling food; clean\nsurfaces regularly to keep them free of germs; use your own cup, plates and\ncutlery and use disposable paper towels to dry your hands and face rather than\nshared cloth towels. Other measures, like opening the window on a crowded\nbus, may also be effective, but are not to everyone's taste.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not",
+          "body": "very efficacious when it comes to treating the [[29]] that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great [[30]] . Zinc supplements are much more effective but they have [[31]] Strangely enough, moderate consumption of wine can make it [[32]] to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are [[33]] . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have [[34]] But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on [[35]] kitchen roll or something equivalent rather than a used facecloth.",
+          "range": [
+            29,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 29,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "viral infection",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "physical strain",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "side effects",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "less likely",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "often modest",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(some) impact",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "disposable",
+          "trap": null
+        },
         {
           "number": 36,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "The average adult man suffers from approximately",
-          "instruction": "Read the text below and answer Questions 29-40. Treatments for the common cold Colds, we all get them. Adults typically have two to four colds a year and children about double that. Throughout the ages, many treatments have been tried for the common cold. These include bizarre cures, such as wearing wet socks, putting brown paper and vinegar on your chest and soaking your feet in hot water, which today of course seem stupid. Nevertheless, even modern treatments for colds are not particularly effective. Generally, they only reduce the symptoms: blocked or runny nose, sneezing, sore throat, coughing rather than treating the viral infection itself. One area of treatment and prevention for colds is diet. It is particularly important to eat healthily to reinforce your body's capacity to deal with viral infections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and vegetables. It's also recommended to drink plenty of fluids to replace those lost due to sweating and a runny nose. It is commonly believed that supplementing your diet with vitamins C and D is also a good idea. However, the evidence suggests that the benefits of these are modest. Taking vitamin C has been shown to help people under great physical strain, such as marathon runners, from falling ill, but for the rest of us it only reduces your risk by 3%. This means that if you get three colds a year, vitamin C supplements will only enable you to avoid one cold in 10 years. More effective are zinc supplements. Taking zinc syrup, tablets or lozenges within a day of the symptoms starting will speed up recovery and lessen the Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not very efficacious when it comes to treating the 29 that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great 30 . Zinc supplements are much more effective but they have 31 Strangely enough, moderate consumption of wine can make it 32 to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are 33 . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have 34 But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on 35 kitchen roll or something equivalent rather than a used facecloth. Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "3 colds per year.",
+            "twice as many colds as children.",
+            "either two or four colds yearly.",
+            "twice as many colds as women."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 37,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Ancient treatments for the common cold mentioned in the text include",
-          "instruction": "Read the text below and answer Questions 29-40. Treatments for the common cold Colds, we all get them. Adults typically have two to four colds a year and children about double that. Throughout the ages, many treatments have been tried for the common cold. These include bizarre cures, such as wearing wet socks, putting brown paper and vinegar on your chest and soaking your feet in hot water, which today of course seem stupid. Nevertheless, even modern treatments for colds are not particularly effective. Generally, they only reduce the symptoms: blocked or runny nose, sneezing, sore throat, coughing rather than treating the viral infection itself. One area of treatment and prevention for colds is diet. It is particularly important to eat healthily to reinforce your body's capacity to deal with viral infections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and vegetables. It's also recommended to drink plenty of fluids to replace those lost due to sweating and a runny nose. It is commonly believed that supplementing your diet with vitamins C and D is also a good idea. However, the evidence suggests that the benefits of these are modest. Taking vitamin C has been shown to help people under great physical strain, such as marathon runners, from falling ill, but for the rest of us it only reduces your risk by 3%. This means that if you get three colds a year, vitamin C supplements will only enable you to avoid one cold in 10 years. More effective are zinc supplements. Taking zinc syrup, tablets or lozenges within a day of the symptoms starting will speed up recovery and lessen the Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not very efficacious when it comes to treating the 29 that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great 30 . Zinc supplements are much more effective but they have 31 Strangely enough, moderate consumption of wine can make it 32 to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are 33 . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have 34 But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on 35 kitchen roll or something equivalent rather than a used facecloth. Choose the correct letter, A, B, C or D.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "B",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ]
+          "trap": null
         },
         {
           "number": 38,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Unless you take vitamin C, you are",
-          "instruction": "Read the text below and answer Questions 29-40. Treatments for the common cold Colds, we all get them. Adults typically have two to four colds a year and children about double that. Throughout the ages, many treatments have been tried for the common cold. These include bizarre cures, such as wearing wet socks, putting brown paper and vinegar on your chest and soaking your feet in hot water, which today of course seem stupid. Nevertheless, even modern treatments for colds are not particularly effective. Generally, they only reduce the symptoms: blocked or runny nose, sneezing, sore throat, coughing rather than treating the viral infection itself. One area of treatment and prevention for colds is diet. It is particularly important to eat healthily to reinforce your body's capacity to deal with viral infections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and vegetables. It's also recommended to drink plenty of fluids to replace those lost due to sweating and a runny nose. It is commonly believed that supplementing your diet with vitamins C and D is also a good idea. However, the evidence suggests that the benefits of these are modest. Taking vitamin C has been shown to help people under great physical strain, such as marathon runners, from falling ill, but for the rest of us it only reduces your risk by 3%. This means that if you get three colds a year, vitamin C supplements will only enable you to avoid one cold in 10 years. More effective are zinc supplements. Taking zinc syrup, tablets or lozenges within a day of the symptoms starting will speed up recovery and lessen the Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not very efficacious when it comes to treating the 29 that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great 30 . Zinc supplements are much more effective but they have 31 Strangely enough, moderate consumption of wine can make it 32 to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are 33 . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have 34 But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on 35 kitchen roll or something equivalent rather than a used facecloth. Choose the correct letter, A, B, C or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "three times more likely to catch a cold.",
+            "not likely to win a marathon.",
+            "slightly more likely to catch a cold.",
+            "79% more vulnerable to disease."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 39,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Effective cold treatments and remedies include",
-          "instruction": "Read the text below and answer Questions 29-40. Treatments for the common cold Colds, we all get them. Adults typically have two to four colds a year and children about double that. Throughout the ages, many treatments have been tried for the common cold. These include bizarre cures, such as wearing wet socks, putting brown paper and vinegar on your chest and soaking your feet in hot water, which today of course seem stupid. Nevertheless, even modern treatments for colds are not particularly effective. Generally, they only reduce the symptoms: blocked or runny nose, sneezing, sore throat, coughing rather than treating the viral infection itself. One area of treatment and prevention for colds is diet. It is particularly important to eat healthily to reinforce your body's capacity to deal with viral infections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and vegetables. It's also recommended to drink plenty of fluids to replace those lost due to sweating and a runny nose. It is commonly believed that supplementing your diet with vitamins C and D is also a good idea. However, the evidence suggests that the benefits of these are modest. Taking vitamin C has been shown to help people under great physical strain, such as marathon runners, from falling ill, but for the rest of us it only reduces your risk by 3%. This means that if you get three colds a year, vitamin C supplements will only enable you to avoid one cold in 10 years. More effective are zinc supplements. Taking zinc syrup, tablets or lozenges within a day of the symptoms starting will speed up recovery and lessen the Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not very efficacious when it comes to treating the 29 that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great 30 . Zinc supplements are much more effective but they have 31 Strangely enough, moderate consumption of wine can make it 32 to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are 33 . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have 34 But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on 35 kitchen roll or something equivalent rather than a used facecloth. Choose the correct letter, A, B, C or D.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "C",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ]
+          "trap": null
         },
         {
           "number": 40,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Increased levels of immune activity have been associated with",
-          "instruction": "Read the text below and answer Questions 29-40. Treatments for the common cold Colds, we all get them. Adults typically have two to four colds a year and children about double that. Throughout the ages, many treatments have been tried for the common cold. These include bizarre cures, such as wearing wet socks, putting brown paper and vinegar on your chest and soaking your feet in hot water, which today of course seem stupid. Nevertheless, even modern treatments for colds are not particularly effective. Generally, they only reduce the symptoms: blocked or runny nose, sneezing, sore throat, coughing rather than treating the viral infection itself. One area of treatment and prevention for colds is diet. It is particularly important to eat healthily to reinforce your body's capacity to deal with viral infections: a low-fat, high-fibre diet, which includes plenty of fresh fruit and vegetables. It's also recommended to drink plenty of fluids to replace those lost due to sweating and a runny nose. It is commonly believed that supplementing your diet with vitamins C and D is also a good idea. However, the evidence suggests that the benefits of these are modest. Taking vitamin C has been shown to help people under great physical strain, such as marathon runners, from falling ill, but for the rest of us it only reduces your risk by 3%. This means that if you get three colds a year, vitamin C supplements will only enable you to avoid one cold in 10 years. More effective are zinc supplements. Taking zinc syrup, tablets or lozenges within a day of the symptoms starting will speed up recovery and lessen the Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Neither ancient nor modern treatments for the common cold are particularly effective. In general, most treatments merely ease the symptoms but they are not very efficacious when it comes to treating the 29 that is the cause of the symptoms. Taking vitamin C supplements is not as beneficial as some people might think unless you are a professional athlete under great 30 . Zinc supplements are much more effective but they have 31 Strangely enough, moderate consumption of wine can make it 32 to catch a cold. Over-the-counter cold medicines are very popular, despite the fact that their benefits are 33 . However, remedies, such as steam inhalation, gargling with salt water and menthol sweets, appear to have 34 But the best treatment of all is prevention. The precautions you need to take include such simple measures as washing your hands regularly and making sure you dry them on 35 kitchen roll or something equivalent rather than a used facecloth. Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "slower recovery rates.",
+            "sympathetic support.",
+            "symptomatic increase.",
+            "confident GPs. Solution:             2 seal it Part 1: Question 1 - 14   4 potential contamination 6 face to avoid 1 evacuate the area      8 pass them around 3 work area              10 TRUE 5 exact location         12 NOT GIVEN 7 immediate danger       14 NOT GIVEN 9 material has split 11 TRUE 13 FALSE Part 2: Question 15 - 28  16 E 15 D 17 B                      18 G 19 F                      20 A 21 C                      22 B 23 F                      24 A 25 G                     26 E 27 C                     28 D Part 3: Question 29 - 40  30 physical strain 29 viral infection       32 less likely 31 side effects          34 (some) impact 33 often modest          36 A 35 disposable            38 C"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     }

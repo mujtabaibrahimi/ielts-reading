@@ -1,243 +1,1182 @@
 {
   "id": "ielts-general-training-volume-7_reading-practice-test-2-v9-360841",
   "type": "general",
-  "source": "ielts-general-training-volume-7 reading-practice-test-2-v9-360841",
+  "title": "IELTS General Training Volume 7 - Reading Test 2",
+  "collection": "IELTS General Training Volume 7",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 7,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-7_reading-practice-test-2-v9-360841.pdf",
-  "total_questions": 15,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Look at the five advertisements, A-E.",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        40
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nLook at the five advertisements, A-E.\nKu-ring-gai Chase National Park",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 5,
-            "rows": [
-              [
-                "ACTIVITY",
-                "What to\nbring/wear",
-                "What is\nsupplied",
-                "Chief Attraction",
-                "Duration"
-              ],
-              [
-                "Early\nMorning\nStroll",
-                "",
-                "",
-                "birdsong",
-                "6"
-              ],
-              [
-                "Morning\nWalk",
-                "7",
-                "",
-                "varied landscape,\nbirds",
-                "3 hours"
-              ],
-              [
-                "Poetry\naround a\nmid-winter\ncampfire",
-                "warm\nclothes,\nmug,\nrug/chair",
-                "8",
-                "",
-                "2.5 hours"
-              ],
-              [
-                "9",
-                "10",
-                "coffee,\nbiscuits",
-                "Lovely water view",
-                "2 hours"
-              ],
-              [
-                "Bairne /\nBasin track",
-                "11",
-                "",
-                "Pittwater views",
-                "6 hours"
-              ]
-            ],
-            "header": [
-              "ACTIVITY",
-              "What to\nbring/wear",
-              "What is\nsupplied",
-              "Chief Attraction",
-              "Duration"
-            ]
+            "label": null,
+            "text": "Look at the five advertisements, A-E."
+          },
+          {
+            "label": null,
+            "text": "Ku-ring-gai Chase National Park"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 6-14."
           }
         ],
+        "text": "Look at the five advertisements, A-E.\n\nKu-ring-gai Chase National Park\n\nRead the text below and answer Questions 6-14.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "For which advertisement are the following statements true? Write the appropriate letter A-E.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "Advertisements",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER from the text for each answer.",
+          "body": "Activity table with columns Activity, What to bring or wear, What is supplied, Chief Attraction, Duration. Early Morning Stroll: Chief Attraction is birdsong, Duration is [[6]]. Morning Walk: bring or wear [[7]], Chief Attraction is varied landscape and birds, Duration is 3 hours. Poetry around a mid-winter campfire: bring or wear warm clothes, mug, rug or chair, supplied [[8]], Duration is 2.5 hours. Activity [[9]]: bring or wear [[10]], supplied coffee and biscuits, Chief Attraction is a lovely water view, Duration is 2 hours. Bairne or Basin track: bring or wear [[11]], Chief Attraction is Pittwater views, Duration is 6 hours.",
+          "range": [
+            6,
+            11
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information in the text? YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            12,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Which advertisement is not for a restaurant?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Which restaurant serves Italian Food?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Which restaurant offers an extra serving if the customer presents a coupon?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Which restaurant does not have takeaway?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Which restaurant does not charge for wine that customers bring themselves?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
         {
           "number": 6,
           "type": "table-completion",
-          "prompt": "Morning Walk",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "4 hours"
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "4 hours",
+          "trap": null
         },
         {
           "number": 7,
           "type": "table-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "binoculars"
-        },
-        {
-          "number": 3,
-          "type": "table-completion",
-          "prompt": "hours",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "A"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "binoculars",
+          "trap": null
         },
         {
           "number": 8,
           "type": "table-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "billy tea, damper/tea,damper"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "billy tea, damper/tea,damper",
+          "trap": null
         },
         {
           "number": 9,
           "type": "table-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "possum prowl"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "possum prowl",
+          "trap": null
         },
         {
           "number": 10,
           "type": "table-completion",
-          "prompt": "coffee, biscuits Lovely water view",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "flashlight, non-slip shoes"
-        },
-        {
-          "number": 2,
-          "type": "table-completion",
-          "prompt": "hours",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "B"
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "flashlight, non-slip shoes",
+          "trap": null
         },
         {
           "number": 11,
           "type": "table-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "lunch and drink"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "lunch and drink",
+          "trap": null
         },
         {
-          "number": 6,
-          "type": "table-completion",
-          "prompt": "hours",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll",
-          "answer": "4 hours"
+          "number": 12,
+          "type": "yes-no-not-given",
+          "groupId": "p1g3",
+          "prompt": "Sections requiring some rock climbing are only\nsuitable for those who exercise on a regular basis.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "yes-no-not-given",
+          "groupId": "p1g3",
+          "prompt": "Poetry readings take place around a bonfire in the\nevening.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
         },
         {
           "number": 14,
-          "type": "true-false-not-given",
+          "type": "yes-no-not-given",
+          "groupId": "p1g3",
           "prompt": "The guided walk through Mitchell Park is free.",
-          "instruction": "Read the text below and answer Questions 6-14. Write the appropriate letter, A-E, in boxes 1-5 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which restaurant serves Italian Food? 3 Which restaurant offers an extra serving if the customer presents a coupon? 4 Which restaurant does not have takeaway? 5 Which restaurant does not charge for wine that Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER Write your answers in boxes 6-11 on your answer sheet. ACTIVITY What to bring/wear What is supplied Chief Attraction Duration Early Morning Stroll Do the following statements agree with the information in the text? YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 12 Sections requiring some rock climbing are only suitable for those who exercise on a regular basis. 13 Poetry readings take place around a bonfire in the evening.",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
+            "YES",
+            "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        22
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2",
-        "tables": [],
+        "heading": "COMMUNITY COLLEGE COURSES",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the course descriptions below and answer Questions 15-22"
+          },
+          {
+            "label": null,
+            "text": "COURSE A"
+          },
+          {
+            "label": null,
+            "text": "If you have no previous experience with computers, or you have some gaps in\nyour knowledge of the basics, then this is an appropriate course for you. This\ncourse will give you a thorough grounding in the fundamental concepts of\ncomputing common to all computers. It is a practical 'hands on' course that\nlooks at how a computer operates and how the programs work. Using three of\nthe most widely used programs in business, you will learn the basics of word\nprocessing, spreadsheets and databases. By the completion of the course you\nwill be productive at a basic level and competent to progress to the elementary\nlevel of any of the specialised programs. No previous computer skills assumed."
+          },
+          {
+            "label": null,
+            "text": "Duration: 2 days"
+          },
+          {
+            "label": null,
+            "text": "Fee: $279"
+          },
+          {
+            "label": null,
+            "text": "Class 25045: Wed/Thurs, 12,13 April, 9.15 am - 5.15 pm"
+          },
+          {
+            "label": null,
+            "text": "Class 25006:Tues/Wed, 30, 31 May, 9.15 am - 5.15 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE B"
+          },
+          {
+            "label": null,
+            "text": "When dealing with your customers you are in a position of great importance.\nYour abilities directly inﬂuence the company's bottom line. This course will look\nat ways to revitalise the customer contact skills you already have and add\nmany more. Learn ways to improve your communication with customers, at all\nlevels, techniques to use with diﬃcult customers, how to conﬁdently handle\ncomplaints and keep your cool in stressful situations. Most importantly, you will"
+          },
+          {
+            "label": null,
+            "text": "learn to build goodwill and trust with your customers. Course notes, lunch and\nrefreshments provided.\nTutor: Joshua Smith"
+          },
+          {
+            "label": null,
+            "text": "Fee: $145"
+          },
+          {
+            "label": null,
+            "text": "Class 25026: Sat 20 May, 9.00 am - 4.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE C\nEverything you need to know before purchasing or starting a coﬀee shop,\ntearoom or small restaurant. A useful course for all aspiring owners, managers\nand employees of these small businesses to assist them in ensuring they don't\nmake expensive mistakes and that their customers return again and again.\nBring lunch. Notes and manual provided."
+          },
+          {
+            "label": null,
+            "text": "Tutor: Sarah Bridge"
+          },
+          {
+            "label": null,
+            "text": "Fee: $55 (no concession)"
+          },
+          {
+            "label": null,
+            "text": "Class 25252: Sat 6 May, 10.00 am - 3.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE D"
+          },
+          {
+            "label": null,
+            "text": "This course covers three areas of business communication:"
+          },
+          {
+            "label": null,
+            "text": "Interpersonal Communication\nTelephone Skills\nBusiness Writing Skills\nLearning Outcomes: At the end of the course, participants will be able to\neﬀectively: plan and write workplace documents in plain English; gather,\nrecord and convey information using the telephone and in a face-to-face\nsituation; and interact with clients within and external to the workplace about\nroutine matters using the telephone and face-to-face contact. An excellent\ncourse for those entering or returning to the workforce. A Statement of\nCompetency is issued if the assessment requirements are successfully\ncompleted."
+          },
+          {
+            "label": null,
+            "text": "Tutor: Douglass McDougall"
+          },
+          {
+            "label": null,
+            "text": "Fee: $135"
+          },
+          {
+            "label": null,
+            "text": "Class 25021: Wed 3 May-21 June, 7-00 - 9.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE E"
+          },
+          {
+            "label": null,
+            "text": "Are you hating work, wanting a diﬀerent job, needing a change or wanting a\npromotion? Come along to a new two-day program for women. We will explore\nyour work goals and what holds you back; your fears in a work environment"
+          },
+          {
+            "label": null,
+            "text": "and how you handle them; your image and what it says to others; and your\ncommunication style and what it says. You will develop more conﬁdence to\nmake changes, get clearer about what you want and have the courage to act. It\nis a relaxed, informative and fun workshop with tots of practical tips!"
+          },
+          {
+            "label": null,
+            "text": "Tutor: Sophie Bradley"
+          },
+          {
+            "label": null,
+            "text": "Fee: $199"
+          },
+          {
+            "label": null,
+            "text": "Class 25036: Sun 18, 25 June, 9.30 am - 4.30 pm"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 23-27."
+          },
+          {
+            "label": null,
+            "text": "PLANNING YOUR CAREER PATH"
+          },
+          {
+            "label": null,
+            "text": "It is not uncommon for people today to have three, four or even ﬁve diﬀerent\ncareers over the span of their working life. While this may suit some\npersonalities, others may regard such a situation as disastrous. For the latter,\ntaking the time to plan a career path can help to make an informed choice and\navoid disappointment in the future."
+          },
+          {
+            "label": null,
+            "text": "There are several steps to consider in the career planning process."
+          },
+          {
+            "label": null,
+            "text": "PERSONAL ASSESSMENT"
+          },
+          {
+            "label": null,
+            "text": "Making a proﬁle of who you are as a person will start the ball rolling. This\ninvolves determining the kinds of tasks you excel in. Are you good at\ncalculating, designing, computer programming or maybe working with your\nhands? It also means deciding on the things you want from a career, such as\nlong-term security, prospects of growth, ﬂexible working hours or a good\nsalary."
+          },
+          {
+            "label": null,
+            "text": "CAREER OPTIONS"
+          },
+          {
+            "label": null,
+            "text": "Searching web sites, scanning newspapers and magazines, and talking to\nfriends and relatives allow you to learn about diﬀerent career ﬁelds. It is also\ngood to get ﬁrst hand knowledge from people working in the ﬁeld, giving you\nthe added beneﬁt of their experience. Matching up your personal attributes\nwith the features and requisites of the various jobs helps, at this preliminary\nstage, to narrow down more suitable career choices."
+          },
+          {
+            "label": null,
+            "text": "CAREER PATHWAY"
+          },
+          {
+            "label": null,
+            "text": "In the next phase of the process, it is important to set some career goals\nbecause achieving these will lead to ultimate satisfaction and personal\nfulfilment from your chosen job down the track."
+          },
+          {
+            "label": null,
+            "text": "When setting goals you should think about career growth, earning potential\nand professional development."
+          },
+          {
+            "label": null,
+            "text": "These factors should be considered from the perspective of what is achievable\nlong-term versus what can be feasibly reached in the short-term. Putting a\ntimeframe on your goals draws a career pathway and maximises your career\npotential. For example, seeking a position in which there is potential to assume\na managerial role is a goal that could be reached in a three year period, while\naiming for the top job of Chief Executive Oﬃcer (CEO) is more realistically a\nlong-term objective."
+          },
+          {
+            "label": null,
+            "text": "ACTING ON DECISIONS"
+          },
+          {
+            "label": null,
+            "text": "Looking into prospective jobs and employers and contacting them is your next\nstep. It is best to send a resume which is accompanied by a covering letter."
+          }
+        ],
+        "text": "Read the course descriptions below and answer Questions 15-22\n\nCOURSE A\n\nIf you have no previous experience with computers, or you have some gaps in\nyour knowledge of the basics, then this is an appropriate course for you. This\ncourse will give you a thorough grounding in the fundamental concepts of\ncomputing common to all computers. It is a practical 'hands on' course that\nlooks at how a computer operates and how the programs work. Using three of\nthe most widely used programs in business, you will learn the basics of word\nprocessing, spreadsheets and databases. By the completion of the course you\nwill be productive at a basic level and competent to progress to the elementary\nlevel of any of the specialised programs. No previous computer skills assumed.\n\nDuration: 2 days\n\nFee: $279\n\nClass 25045: Wed/Thurs, 12,13 April, 9.15 am - 5.15 pm\n\nClass 25006:Tues/Wed, 30, 31 May, 9.15 am - 5.15 pm\n\nCOURSE B\n\nWhen dealing with your customers you are in a position of great importance.\nYour abilities directly inﬂuence the company's bottom line. This course will look\nat ways to revitalise the customer contact skills you already have and add\nmany more. Learn ways to improve your communication with customers, at all\nlevels, techniques to use with diﬃcult customers, how to conﬁdently handle\ncomplaints and keep your cool in stressful situations. Most importantly, you will\n\nlearn to build goodwill and trust with your customers. Course notes, lunch and\nrefreshments provided.\nTutor: Joshua Smith\n\nFee: $145\n\nClass 25026: Sat 20 May, 9.00 am - 4.00 pm\n\nCOURSE C\nEverything you need to know before purchasing or starting a coﬀee shop,\ntearoom or small restaurant. A useful course for all aspiring owners, managers\nand employees of these small businesses to assist them in ensuring they don't\nmake expensive mistakes and that their customers return again and again.\nBring lunch. Notes and manual provided.\n\nTutor: Sarah Bridge\n\nFee: $55 (no concession)\n\nClass 25252: Sat 6 May, 10.00 am - 3.00 pm\n\nCOURSE D\n\nThis course covers three areas of business communication:\n\nInterpersonal Communication\nTelephone Skills\nBusiness Writing Skills\nLearning Outcomes: At the end of the course, participants will be able to\neﬀectively: plan and write workplace documents in plain English; gather,\nrecord and convey information using the telephone and in a face-to-face\nsituation; and interact with clients within and external to the workplace about\nroutine matters using the telephone and face-to-face contact. An excellent\ncourse for those entering or returning to the workforce. A Statement of\nCompetency is issued if the assessment requirements are successfully\ncompleted.\n\nTutor: Douglass McDougall\n\nFee: $135\n\nClass 25021: Wed 3 May-21 June, 7-00 - 9.00 pm\n\nCOURSE E\n\nAre you hating work, wanting a diﬀerent job, needing a change or wanting a\npromotion? Come along to a new two-day program for women. We will explore\nyour work goals and what holds you back; your fears in a work environment\n\nand how you handle them; your image and what it says to others; and your\ncommunication style and what it says. You will develop more conﬁdence to\nmake changes, get clearer about what you want and have the courage to act. It\nis a relaxed, informative and fun workshop with tots of practical tips!\n\nTutor: Sophie Bradley\n\nFee: $199\n\nClass 25036: Sun 18, 25 June, 9.30 am - 4.30 pm\n\nRead the text below and answer Questions 23-27.\n\nPLANNING YOUR CAREER PATH\n\nIt is not uncommon for people today to have three, four or even ﬁve diﬀerent\ncareers over the span of their working life. While this may suit some\npersonalities, others may regard such a situation as disastrous. For the latter,\ntaking the time to plan a career path can help to make an informed choice and\navoid disappointment in the future.\n\nThere are several steps to consider in the career planning process.\n\nPERSONAL ASSESSMENT\n\nMaking a proﬁle of who you are as a person will start the ball rolling. This\ninvolves determining the kinds of tasks you excel in. Are you good at\ncalculating, designing, computer programming or maybe working with your\nhands? It also means deciding on the things you want from a career, such as\nlong-term security, prospects of growth, ﬂexible working hours or a good\nsalary.\n\nCAREER OPTIONS\n\nSearching web sites, scanning newspapers and magazines, and talking to\nfriends and relatives allow you to learn about diﬀerent career ﬁelds. It is also\ngood to get ﬁrst hand knowledge from people working in the ﬁeld, giving you\nthe added beneﬁt of their experience. Matching up your personal attributes\nwith the features and requisites of the various jobs helps, at this preliminary\nstage, to narrow down more suitable career choices.\n\nCAREER PATHWAY\n\nIn the next phase of the process, it is important to set some career goals\nbecause achieving these will lead to ultimate satisfaction and personal\nfulfilment from your chosen job down the track.\n\nWhen setting goals you should think about career growth, earning potential\nand professional development.\n\nThese factors should be considered from the perspective of what is achievable\nlong-term versus what can be feasibly reached in the short-term. Putting a\ntimeframe on your goals draws a career pathway and maximises your career\npotential. For example, seeking a position in which there is potential to assume\na managerial role is a goal that could be reached in a three year period, while\naiming for the top job of Chief Executive Oﬃcer (CEO) is more realistically a\nlong-term objective.\n\nACTING ON DECISIONS\n\nLooking into prospective jobs and employers and contacting them is your next\nstep. It is best to send a resume which is accompanied by a covering letter.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "fill-in-blank-from-list",
+          "instruction": "From the list of course titles below, choose the most suitable title for Courses A-E. Write the correct number, i-ix. NB: There are more titles than you will need.",
+          "body": null,
+          "range": [
+            15,
+            19
+          ],
+          "optionBank": {
+            "title": "List of Course Titles",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix"
+            ],
+            "labels": [
+              "Managing Small Businesses",
+              "Making Career Changes for Women",
+              "Effective Workplace Communication",
+              "Exceptional Customer Service",
+              "Computer Skills for the Workplace",
+              "Communicating Effectively",
+              "Introductory Computer Skills",
+              "Restaurant Management for Beginners",
+              "Business Writing Course"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer; Write your answers in boxes 20-22 on your answer sheet.",
+          "body": "Improving one's communication skills can help ease [[20]] situations when dealing with difficult clients. Your ability to effectively communicate in a variety of situations not only with internal clients but those [[21]] to the work environment is assessed on the course. The focus is on exploring issues relating to your personal growth in the workplace and building [[22]] to bring about changes.",
+          "range": [
+            20,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "diagram-label",
+          "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 23-27 on your answer sheet.",
+          "body": "CAREER PLANNING PROCESS. Reason: making an [[23]] to avoid disappointment. Collecting information about yourself: Defining [[24]] you do well; Settling on things that are important. Researching possibilities: Reviewing the range of career options; Excluding less [[25]] fields. Mapping out a pathway: Setting career goals, based on job growth, remuneration and [[26]]; Looking at long- and short-term goals in terms of a [[27]]. Making a move: Getting in touch with prospective live employers.",
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 15,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g1",
+          "prompt": "Course A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g1",
+          "prompt": "Course B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g1",
+          "prompt": "Course C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g1",
+          "prompt": "Course D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
           "number": 19,
-          "type": "heading-matching",
-          "prompt": "Course E Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer; Write your answers in boxes 20-22 on your answer sheet.",
-          "instruction": "Read the course descriptions below and answer Questions 15-22 COMMUNITY COLLEGE COURSES COURSE A If you have no previous experience with computers, or you have some gaps in your knowledge of the basics, then this is an appropriate course for you. This course will give you a thorough grounding in the fundamental concepts of computing common to all computers. It is a practical 'hands on' course that looks at how a computer operates and how the programs work. Using three of the most widely used programs in business, you will learn the basics of word processing, spreadsheets and databases. By the completion of the course you will be productive at a basic level and competent to progress to the elementary level of any of the specialised programs. No previous computer skills assumed. Duration: 2 days Fee: $279 Class 25045: Wed/Thurs, 12,13 April, 9.15 am - 5.15 pm Class 25006:Tues/Wed, 30, 31 May, 9.15 am - 5.15 pm COURSE B When dealing with your customers you are in a position of great importance. Your abilities directly inﬂuence the company's bottom line. This course will look at ways to revitalise the customer contact skills you already have and add many more. Learn ways to improve your communication with customers, at all levels, techniques to use with diﬃcult customers, how to conﬁdently handle complaints and keep your cool in stressful situations. Most importantly, you will eﬀectively: plan and write workplace documents in plain English; gather, record and convey information using the telephone and in a face-to-face situation; and interact with clients within and external to the workplace about routine matters using the telephone and face-to-face contact. An excellent course for those entering or returning to the workforce. A Statement of Competency is issued if the assessment requirements are successfully completed. Tutor: Douglass McDougall Fee: $135 Class 25021: Wed 3 May-21 June, 7-00 - 9.00 pm COURSE E Are you hating work, wanting a diﬀerent job, needing a change or wanting a promotion? Come along to a new two-day program for women. We will explore your work goals and what holds you back; your fears in a work environment Read the text below and answer Questions 23-27. PLANNING YOUR CAREER PATH It is not uncommon for people today to have three, four or even ﬁve diﬀerent careers over the span of their working life. While this may suit some personalities, others may regard such a situation as disastrous. For the latter, taking the time to plan a career path can help to make an informed choice and avoid disappointment in the future. There are several steps to consider in the career planning process. PERSONAL ASSESSMENT Making a proﬁle of who you are as a person will start the ball rolling. This involves determining the kinds of tasks you excel in. Are you good at calculating, designing, computer programming or maybe working with your hands? It also means deciding on the things you want from a career, such as long-term security, prospects of growth, ﬂexible working hours or a good salary. CAREER OPTIONS Searching web sites, scanning newspapers and magazines, and talking to friends and relatives allow you to learn about diﬀerent career ﬁelds. It is also good to get ﬁrst hand knowledge from people working in the ﬁeld, giving you the added beneﬁt of their experience. Matching up your personal attributes with the features and requisites of the various jobs helps, at this preliminary stage, to narrow down more suitable career choices. CAREER PATHWAY In the next phase of the process, it is important to set some career goals because achieving these will lead to ultimate satisfaction and personal fulfilment from your chosen job down the track. From the list of course titles below, choose the most suitable title for Courses A-E. Write the correct number, i-ix, in boxes 15-19 on your answer sheet. NB: There are more titles than you will need. i Managing Small Businesses ii Making Career Changes for Women iii Effective Workplace Communication iv Exceptional Customer Service v Computer Skills for the Workplace vi Communicating Effectively vii Introductory Computer Skills viii Restaurant Management for Beginners ix Business Writing Course 15 Course A 16 Course B 17 Course C 18 Course D",
-          "answer": "ii"
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g1",
+          "prompt": "Course E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "stressful",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "external",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "more confidence/confidence",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "informed choice",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "tasks",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "suitable/suitable career",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "professional development",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "timeframe",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "The reading passage below describes some of the great inventions. From the",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nThe reading passage below describes some of the great inventions. From the",
-        "tables": [],
+        "heading": "GREAT INVENTIONS",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "The reading passage below describes some of the great inventions. From the\ninformation given, answer questions 28-40"
+          },
+          {
+            "label": null,
+            "text": "There are some things we use every day. Can you imagine a world without\nzippers to fasten clothing? Have you ever wondered about the layout of the\nkeyboard of a typewriter, which we see every day on the computer? These are\njust two of the many inventions which have made our lives easier. Maybe that's\nwhy we don't think about them very much!"
+          },
+          {
+            "label": null,
+            "text": "THE ZIPPER"
+          },
+          {
+            "label": null,
+            "text": "Whatever did we do\nIn 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor\nclaimed that it was a reliable fastening device for clothing, this was not the\ncase. The Chicago zipper sprang open without warning, or jammed shut, and it\nswiftly lost popularity. Twenty years later a Swedish-born engineer called\nSundback solved the problem. He attached tiny cups to the backs of the\ninterlocking teeth, and this meant that the teeth could be enmeshed more\nfirmly and reliably."
+          },
+          {
+            "label": null,
+            "text": "At ﬁrst zippers were made of metal. They were heavy, and if they got stuck it\nwas diﬃcult to free them. Then came nylon zippers which were lighter and\neasier to use, and had smaller teeth. The fashion industry liked the new zippers\nfar better because they did not distort the line of the garment or weigh down\nlight fabrics. They were also easier for the machinists to sew into the garment."
+          },
+          {
+            "label": null,
+            "text": "Meanwhile a new fastening agent made its appearance at the end of the\ntwentieth century: velcro. Velcro is another product made from nylon. Nylon is\na very tough synthetic ﬁbre ﬁrst developed in the 1930s, and bearing a name\nto remind the hearer of the two places where it was developed: NY for New\nYork and LON for London. Velcro is made with very small nylon hooks on one\nside of the fastening which catch tiny looped whiskers on the other side of the\nfastening, It is strong and durable.\nVelcro is used on clothing, luggage and footwear. It is quick and easy to fasten\nand unfasten, and has taken a large part of the zipper's share of the market. It\nis also used in ways a zipper cannot be used-for instance as an easily\nchanged fastening on plaster casts, and to hold furnishing fabrics in position."
+          },
+          {
+            "label": null,
+            "text": "THE TYPEWRITER AND THE KEYBOARD"
+          },
+          {
+            "label": null,
+            "text": "The keyboard of the modern typewriter is laid out in a most odd fashion. Why\nwould anyone place the letters on the left side of the top row of the keyboard in\nthe order QWERTY? The answer is simple: to slow the typist down. But ﬁrst,\nlet's consider the history of the typewriter itself."
+          },
+          {
+            "label": null,
+            "text": "In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee,\nUSA. Sholes invented the ﬁrst of the modern typewriters, although there had\nbeen patents for typewriter-like machines as early as 1714, when Queen Anne\nof England granted a patent to a man called Henry Mill for a machine which\nwould make marks on paper 'so neat and exact as not to be distinguished from\nprint'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a\npatent on a typewriter-like machine, four years before the French inventor\nXavier Projean produced his machine designed to record words at a speed\ncomparable to someone writing with a pen."
+          },
+          {
+            "label": null,
+            "text": "So the typewriter was not a new idea, although there had not been a successful\nrealisation of the idea before Christopher Sholes's machine. His typewriter\nbecame very popular, and soon people learned to type very quickly-so\nquickly, in fact, that the keys became tangled. On manual typewriters the\ncharacters were set on the end of bars which rose to strike the paper when the\nkey was pressed. In the ﬁrst models, the keys were set alphabetically. When a\nquick typist tapped out a word like 'federal', it was very likely the adjacent e\nand d keys would become entangled."
+          },
+          {
+            "label": null,
+            "text": "Sholes therefore set about ﬁnding ways to slow the typist down. He looked for\nthe letters which were most often used in English, and then placed them far\naway from each other. For instance, q and u, which are almost always used\ntogether in English, are separated by ﬁve intervening letters. The plan worked,"
+          },
+          {
+            "label": null,
+            "text": "and the typist was slowed down a little."
+          },
+          {
+            "label": null,
+            "text": "When computers came into use in the latter part of the twentieth century it\nwas suggested that the keyboard should be rationalised. After all, there was no\nlonger any need to avoid clashing manual typewriter keys. One new board\nincluded keys which produced letters which frequently occur together in\nEnglish, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes\nto write instead of ﬁve. Although this made perfect sense, people found it very\nhard to learn to use a new keyboard, and the idea was dropped. It is unlikely\nthat the keyboard will ever be changed."
+          }
+        ],
+        "text": "The reading passage below describes some of the great inventions. From the\ninformation given, answer questions 28-40\n\nThere are some things we use every day. Can you imagine a world without\nzippers to fasten clothing? Have you ever wondered about the layout of the\nkeyboard of a typewriter, which we see every day on the computer? These are\njust two of the many inventions which have made our lives easier. Maybe that's\nwhy we don't think about them very much!\n\nTHE ZIPPER\n\nWhatever did we do\nIn 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor\nclaimed that it was a reliable fastening device for clothing, this was not the\ncase. The Chicago zipper sprang open without warning, or jammed shut, and it\nswiftly lost popularity. Twenty years later a Swedish-born engineer called\nSundback solved the problem. He attached tiny cups to the backs of the\ninterlocking teeth, and this meant that the teeth could be enmeshed more\nfirmly and reliably.\n\nAt ﬁrst zippers were made of metal. They were heavy, and if they got stuck it\nwas diﬃcult to free them. Then came nylon zippers which were lighter and\neasier to use, and had smaller teeth. The fashion industry liked the new zippers\nfar better because they did not distort the line of the garment or weigh down\nlight fabrics. They were also easier for the machinists to sew into the garment.\n\nMeanwhile a new fastening agent made its appearance at the end of the\ntwentieth century: velcro. Velcro is another product made from nylon. Nylon is\na very tough synthetic ﬁbre ﬁrst developed in the 1930s, and bearing a name\nto remind the hearer of the two places where it was developed: NY for New\nYork and LON for London. Velcro is made with very small nylon hooks on one\nside of the fastening which catch tiny looped whiskers on the other side of the\nfastening, It is strong and durable.\nVelcro is used on clothing, luggage and footwear. It is quick and easy to fasten\nand unfasten, and has taken a large part of the zipper's share of the market. It\nis also used in ways a zipper cannot be used-for instance as an easily\nchanged fastening on plaster casts, and to hold furnishing fabrics in position.\n\nTHE TYPEWRITER AND THE KEYBOARD\n\nThe keyboard of the modern typewriter is laid out in a most odd fashion. Why\nwould anyone place the letters on the left side of the top row of the keyboard in\nthe order QWERTY? The answer is simple: to slow the typist down. But ﬁrst,\nlet's consider the history of the typewriter itself.\n\nIn the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee,\nUSA. Sholes invented the ﬁrst of the modern typewriters, although there had\nbeen patents for typewriter-like machines as early as 1714, when Queen Anne\nof England granted a patent to a man called Henry Mill for a machine which\nwould make marks on paper 'so neat and exact as not to be distinguished from\nprint'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a\npatent on a typewriter-like machine, four years before the French inventor\nXavier Projean produced his machine designed to record words at a speed\ncomparable to someone writing with a pen.\n\nSo the typewriter was not a new idea, although there had not been a successful\nrealisation of the idea before Christopher Sholes's machine. His typewriter\nbecame very popular, and soon people learned to type very quickly-so\nquickly, in fact, that the keys became tangled. On manual typewriters the\ncharacters were set on the end of bars which rose to strike the paper when the\nkey was pressed. In the ﬁrst models, the keys were set alphabetically. When a\nquick typist tapped out a word like 'federal', it was very likely the adjacent e\nand d keys would become entangled.\n\nSholes therefore set about ﬁnding ways to slow the typist down. He looked for\nthe letters which were most often used in English, and then placed them far\naway from each other. For instance, q and u, which are almost always used\ntogether in English, are separated by ﬁve intervening letters. The plan worked,\n\nand the typist was slowed down a little.\n\nWhen computers came into use in the latter part of the twentieth century it\nwas suggested that the keyboard should be rationalised. After all, there was no\nlonger any need to avoid clashing manual typewriter keys. One new board\nincluded keys which produced letters which frequently occur together in\nEnglish, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes\nto write instead of ﬁve. Although this made perfect sense, people found it very\nhard to learn to use a new keyboard, and the idea was dropped. It is unlikely\nthat the keyboard will ever be changed.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-features",
+          "instruction": "Classify the following events as occurring",
+          "body": null,
+          "range": [
+            28,
+            32
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "before the 19th century",
+              "during the 19th century",
+              "in the first half of the 20th century",
+              "at the end of the 20th century"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information in the passage? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            33,
+            37
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Choose THREE letters, A-l. Write the appropriate tetters in boxes 38-40 on your answer sheet. The writer discusses the qualities and uses of Velcro. Which THREE of the following are mentioned by the writter of the text? A used to make nylon B keeps objects from sliding C unfastens plaster bandages easily D removes pilling from clothing E is long lasting F easy to sew into a garment G is a strong synthetic fibre H keeps upholstery material in place I is very versatile Solution: 2B Part 1: Question 1 - 14 4D 6 4 hours 1E 8 billy tea, damper/tea,damper 3A 10 flashlight, non-slip shoes 5C 12 NO 7 binoculars 14 NOT GIVEN 9 possum prowl 11 lunch and drink 13 YES Part 2: Question 15 - 27 16 iv 15 vii 17 viii 18 iii 19 ii 20 stressful 21 external 22 more confidence/confidence 23 informed choice 24 tasks 25 suitable/suitable career 26 professional development 27 timeframe 29 C",
+          "body": "Part 3: Question 28 - [[40]] 31 A 28 C 33 FALSE 35 TRUE 30 D 37 TRUE 32 B 34 FALSE 36 NOT GIVEN [[38]] C,E,H 40",
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Sundback's zipper",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of nylon",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of velcro",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of the first typewriter-like machine",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the first appearance of Sholes's typewriter",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
         {
           "number": 33,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "The first zipper though reliable was unpopular as a",
-          "instruction": "information given, answer questions 28-40 GREAT INVENTIONS There are some things we use every day. Can you imagine a world without zippers to fasten clothing? Have you ever wondered about the layout of the keyboard of a typewriter, which we see every day on the computer? These are just two of the many inventions which have made our lives easier. Maybe that's why we don't think about them very much! THE ZIPPER Whatever did we do In 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor claimed that it was a reliable fastening device for clothing, this was not the case. The Chicago zipper sprang open without warning, or jammed shut, and it swiftly lost popularity. Twenty years later a Swedish-born engineer called Sundback solved the problem. He attached tiny cups to the backs of the interlocking teeth, and this meant that the teeth could be enmeshed more firmly and reliably. At ﬁrst zippers were made of metal. They were heavy, and if they got stuck it was diﬃcult to free them. Then came nylon zippers which were lighter and easier to use, and had smaller teeth. The fashion industry liked the new zippers far better because they did not distort the line of the garment or weigh down light fabrics. They were also easier for the machinists to sew into the garment. THE TYPEWRITER AND THE KEYBOARD The keyboard of the modern typewriter is laid out in a most odd fashion. Why would anyone place the letters on the left side of the top row of the keyboard in the order QWERTY? The answer is simple: to slow the typist down. But ﬁrst, let's consider the history of the typewriter itself. In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee, USA. Sholes invented the ﬁrst of the modern typewriters, although there had been patents for typewriter-like machines as early as 1714, when Queen Anne of England granted a patent to a man called Henry Mill for a machine which would make marks on paper 'so neat and exact as not to be distinguished from print'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a patent on a typewriter-like machine, four years before the French inventor Xavier Projean produced his machine designed to record words at a speed comparable to someone writing with a pen. So the typewriter was not a new idea, although there had not been a successful realisation of the idea before Christopher Sholes's machine. His typewriter became very popular, and soon people learned to type very quickly—so quickly, in fact, that the keys became tangled. On manual typewriters the characters were set on the end of bars which rose to strike the paper when the key was pressed. In the ﬁrst models, the keys were set alphabetically. When a quick typist tapped out a word like 'federal', it was very likely the adjacent e and d keys would become entangled. Sholes therefore set about ﬁnding ways to slow the typist down. He looked for the letters which were most often used in English, and then placed them far away from each other. For instance, q and u, which are almost always used together in English, are separated by ﬁve intervening letters. The plan worked, longer any need to avoid clashing manual typewriter keys. One new board included keys which produced letters which frequently occur together in English, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes to write instead of ﬁve. Although this made perfect sense, people found it very hard to learn to use a new keyboard, and the idea was dropped. It is unlikely that the keyboard will ever be changed. Questions 28-32 Questions 33-37 Classify the following events as occurring A before the 19th century B during the 19th century C in the first half of the 20th century D at the end of the 20th century Write the appropriate letter, A, B, C or D, in boxes 28-32 on your answer sheet. 28 Sundback’s zipper 29 the development of nylon 30 the development of velcro 31 the development of the first typewriter-like machine 32 the first appearance of Sholes’s typewriter Do the following statements agree with the information in the passage? TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 34,
           "type": "true-false-not-given",
-          "prompt": "The clothing industry welcomed the new zip fasteners because they easily weighed down lightweight material.",
-          "instruction": "information given, answer questions 28-40 GREAT INVENTIONS There are some things we use every day. Can you imagine a world without zippers to fasten clothing? Have you ever wondered about the layout of the keyboard of a typewriter, which we see every day on the computer? These are just two of the many inventions which have made our lives easier. Maybe that's why we don't think about them very much! THE ZIPPER Whatever did we do In 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor claimed that it was a reliable fastening device for clothing, this was not the case. The Chicago zipper sprang open without warning, or jammed shut, and it swiftly lost popularity. Twenty years later a Swedish-born engineer called Sundback solved the problem. He attached tiny cups to the backs of the interlocking teeth, and this meant that the teeth could be enmeshed more firmly and reliably. At ﬁrst zippers were made of metal. They were heavy, and if they got stuck it was diﬃcult to free them. Then came nylon zippers which were lighter and easier to use, and had smaller teeth. The fashion industry liked the new zippers far better because they did not distort the line of the garment or weigh down light fabrics. They were also easier for the machinists to sew into the garment. THE TYPEWRITER AND THE KEYBOARD The keyboard of the modern typewriter is laid out in a most odd fashion. Why would anyone place the letters on the left side of the top row of the keyboard in the order QWERTY? The answer is simple: to slow the typist down. But ﬁrst, let's consider the history of the typewriter itself. In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee, USA. Sholes invented the ﬁrst of the modern typewriters, although there had been patents for typewriter-like machines as early as 1714, when Queen Anne of England granted a patent to a man called Henry Mill for a machine which would make marks on paper 'so neat and exact as not to be distinguished from print'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a patent on a typewriter-like machine, four years before the French inventor Xavier Projean produced his machine designed to record words at a speed comparable to someone writing with a pen. So the typewriter was not a new idea, although there had not been a successful realisation of the idea before Christopher Sholes's machine. His typewriter became very popular, and soon people learned to type very quickly—so quickly, in fact, that the keys became tangled. On manual typewriters the characters were set on the end of bars which rose to strike the paper when the key was pressed. In the ﬁrst models, the keys were set alphabetically. When a quick typist tapped out a word like 'federal', it was very likely the adjacent e and d keys would become entangled. Sholes therefore set about ﬁnding ways to slow the typist down. He looked for the letters which were most often used in English, and then placed them far away from each other. For instance, q and u, which are almost always used together in English, are separated by ﬁve intervening letters. The plan worked, longer any need to avoid clashing manual typewriter keys. One new board included keys which produced letters which frequently occur together in English, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes to write instead of ﬁve. Although this made perfect sense, people found it very hard to learn to use a new keyboard, and the idea was dropped. It is unlikely that the keyboard will ever be changed. Questions 28-32 Questions 33-37 Classify the following events as occurring A before the 19th century B during the 19th century C in the first half of the 20th century D at the end of the 20th century Write the appropriate letter, A, B, C or D, in boxes 28-32 on your answer sheet. 28 Sundback’s zipper 29 the development of nylon 30 the development of velcro 31 the development of the first typewriter-like machine 32 the first appearance of Sholes’s typewriter Do the following statements agree with the information in the passage? TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "The clothing industry welcomed the new zip fasteners\nbecause they easily weighed down lightweight material.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
-          "prompt": "The nylon zipper lost a significant portion of its market share to the new fastening agent.",
-          "instruction": "information given, answer questions 28-40 GREAT INVENTIONS There are some things we use every day. Can you imagine a world without zippers to fasten clothing? Have you ever wondered about the layout of the keyboard of a typewriter, which we see every day on the computer? These are just two of the many inventions which have made our lives easier. Maybe that's why we don't think about them very much! THE ZIPPER Whatever did we do In 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor claimed that it was a reliable fastening device for clothing, this was not the case. The Chicago zipper sprang open without warning, or jammed shut, and it swiftly lost popularity. Twenty years later a Swedish-born engineer called Sundback solved the problem. He attached tiny cups to the backs of the interlocking teeth, and this meant that the teeth could be enmeshed more firmly and reliably. At ﬁrst zippers were made of metal. They were heavy, and if they got stuck it was diﬃcult to free them. Then came nylon zippers which were lighter and easier to use, and had smaller teeth. The fashion industry liked the new zippers far better because they did not distort the line of the garment or weigh down light fabrics. They were also easier for the machinists to sew into the garment. THE TYPEWRITER AND THE KEYBOARD The keyboard of the modern typewriter is laid out in a most odd fashion. Why would anyone place the letters on the left side of the top row of the keyboard in the order QWERTY? The answer is simple: to slow the typist down. But ﬁrst, let's consider the history of the typewriter itself. In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee, USA. Sholes invented the ﬁrst of the modern typewriters, although there had been patents for typewriter-like machines as early as 1714, when Queen Anne of England granted a patent to a man called Henry Mill for a machine which would make marks on paper 'so neat and exact as not to be distinguished from print'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a patent on a typewriter-like machine, four years before the French inventor Xavier Projean produced his machine designed to record words at a speed comparable to someone writing with a pen. So the typewriter was not a new idea, although there had not been a successful realisation of the idea before Christopher Sholes's machine. His typewriter became very popular, and soon people learned to type very quickly—so quickly, in fact, that the keys became tangled. On manual typewriters the characters were set on the end of bars which rose to strike the paper when the key was pressed. In the ﬁrst models, the keys were set alphabetically. When a quick typist tapped out a word like 'federal', it was very likely the adjacent e and d keys would become entangled. Sholes therefore set about ﬁnding ways to slow the typist down. He looked for the letters which were most often used in English, and then placed them far away from each other. For instance, q and u, which are almost always used together in English, are separated by ﬁve intervening letters. The plan worked, longer any need to avoid clashing manual typewriter keys. One new board included keys which produced letters which frequently occur together in English, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes to write instead of ﬁve. Although this made perfect sense, people found it very hard to learn to use a new keyboard, and the idea was dropped. It is unlikely that the keyboard will ever be changed. Questions 28-32 Questions 33-37 Classify the following events as occurring A before the 19th century B during the 19th century C in the first half of the 20th century D at the end of the 20th century Write the appropriate letter, A, B, C or D, in boxes 28-32 on your answer sheet. 28 Sundback’s zipper 29 the development of nylon 30 the development of velcro 31 the development of the first typewriter-like machine 32 the first appearance of Sholes’s typewriter Do the following statements agree with the information in the passage? TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "The nylon zipper lost a significant portion of its market\nshare to the new fastening agent.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "Typewriter-like machines began to be mass produced after they were patented.",
-          "instruction": "information given, answer questions 28-40 GREAT INVENTIONS There are some things we use every day. Can you imagine a world without zippers to fasten clothing? Have you ever wondered about the layout of the keyboard of a typewriter, which we see every day on the computer? These are just two of the many inventions which have made our lives easier. Maybe that's why we don't think about them very much! THE ZIPPER Whatever did we do In 1893 the world's ﬁrst zipper was produced in Chicago. Although the inventor claimed that it was a reliable fastening device for clothing, this was not the case. The Chicago zipper sprang open without warning, or jammed shut, and it swiftly lost popularity. Twenty years later a Swedish-born engineer called Sundback solved the problem. He attached tiny cups to the backs of the interlocking teeth, and this meant that the teeth could be enmeshed more firmly and reliably. At ﬁrst zippers were made of metal. They were heavy, and if they got stuck it was diﬃcult to free them. Then came nylon zippers which were lighter and easier to use, and had smaller teeth. The fashion industry liked the new zippers far better because they did not distort the line of the garment or weigh down light fabrics. They were also easier for the machinists to sew into the garment. THE TYPEWRITER AND THE KEYBOARD The keyboard of the modern typewriter is laid out in a most odd fashion. Why would anyone place the letters on the left side of the top row of the keyboard in the order QWERTY? The answer is simple: to slow the typist down. But ﬁrst, let's consider the history of the typewriter itself. In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee, USA. Sholes invented the ﬁrst of the modern typewriters, although there had been patents for typewriter-like machines as early as 1714, when Queen Anne of England granted a patent to a man called Henry Mill for a machine which would make marks on paper 'so neat and exact as not to be distinguished from print'. In 1829, across the Atlantic in Detroit USA, William.Austin Burt took out a patent on a typewriter-like machine, four years before the French inventor Xavier Projean produced his machine designed to record words at a speed comparable to someone writing with a pen. So the typewriter was not a new idea, although there had not been a successful realisation of the idea before Christopher Sholes's machine. His typewriter became very popular, and soon people learned to type very quickly—so quickly, in fact, that the keys became tangled. On manual typewriters the characters were set on the end of bars which rose to strike the paper when the key was pressed. In the ﬁrst models, the keys were set alphabetically. When a quick typist tapped out a word like 'federal', it was very likely the adjacent e and d keys would become entangled. Sholes therefore set about ﬁnding ways to slow the typist down. He looked for the letters which were most often used in English, and then placed them far away from each other. For instance, q and u, which are almost always used together in English, are separated by ﬁve intervening letters. The plan worked, longer any need to avoid clashing manual typewriter keys. One new board included keys which produced letters which frequently occur together in English, like \"ing\" and \"th\" and \"ed\", so the word 'thing' would take two strokes to write instead of ﬁve. Although this made perfect sense, people found it very hard to learn to use a new keyboard, and the idea was dropped. It is unlikely that the keyboard will ever be changed. Questions 28-32 Questions 33-37 Classify the following events as occurring A before the 19th century B during the 19th century C in the first half of the 20th century D at the end of the 20th century Write the appropriate letter, A, B, C or D, in boxes 28-32 on your answer sheet. 28 Sundback’s zipper 29 the development of nylon 30 the development of velcro 31 the development of the first typewriter-like machine 32 the first appearance of Sholes’s typewriter Do the following statements agree with the information in the passage? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "Typewriter-like machines began to be mass produced\nafter they were patented.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "Frequently used letters were positioned away from\neach other on the typewriter to reduce the typist's speed.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,H",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,H",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,H",
+          "trap": null
         }
       ]
     }
@@ -280,6 +1219,8 @@
     "35": "TRUE",
     "36": "NOT GIVEN",
     "37": "TRUE",
+    "38": "C,E,H",
+    "39": "C,E,H",
     "40": "C,E,H"
   }
 }

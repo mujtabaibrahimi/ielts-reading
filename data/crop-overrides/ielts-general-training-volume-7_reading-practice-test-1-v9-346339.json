@@ -1,0 +1,102 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Which concerts do the following statements talk about? Write the correct letter, A-E.",
+    "optionBank": {
+      "title": "Concerts",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "5": {
+        "prompt": "Young performers will play at this concert.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "6": {
+        "prompt": "The concert will be held outdoors.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "7": {
+        "prompt": "There will be only one performer.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "8": {
+        "prompt": "This concert will not be held at night.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "9": {
+        "prompt": "The audience can choose what will be performed.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer.",
+    "body": "Sub-schools, Student and Academic Support table. Pre-High School: Academic Support is [[31]]. Sub-school [[32]]: Student is Aboriginal and Torres Strait Islander, Academic Support is Specific literacy and numeracy. High School: Student is [[33]], Academic Support is [[34]]."
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the appropriate letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "The writer's purpose in this passage is to",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "explain why Kormilda College is so successful",
+          "provide an overview of the Aboriginal Education program",
+          "describe the specialist teaching program at Kormilda College",
+          "describe the special programs lor Aboriginal student"
+        ]
+      }
+    }
+  }
+}

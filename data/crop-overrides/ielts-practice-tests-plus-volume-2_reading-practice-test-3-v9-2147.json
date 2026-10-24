@@ -1,0 +1,12 @@
+{
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Choose NO MORE THAN ONE WORD from the passage for each answer. Write your answers in boxes 34-38.",
+    "body": "Stage 1: During the assembly of the Surveyor 3 probe, someone [[34]] on a TV camera. Stage 2: The TV Camera was carried to the Moon on Surveyor 3. Stage 3: The TV Camera remained on the Moon for over [[35]] years. Stage 4: Apollo 12 astronauts [[36]] the TV camera. Stage 5: The TV camera was returned to Earth for [[37]]. Stage 6: The Streptococcus mitis bacteria were found. Stage 7: The theory that this suggested there was [[38]] on the Moon was rejected. Stage 8: Scientists concluded that the bacteria can survive lunar conditions."
+  },
+  "_answers": {
+    "38": "life",
+    "39": "C,D",
+    "40": "C,D"
+  }
+}

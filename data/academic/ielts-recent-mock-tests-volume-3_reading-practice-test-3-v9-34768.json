@@ -1,224 +1,1163 @@
 {
   "id": "ielts-recent-mock-tests-volume-3_reading-practice-test-3-v9-34768",
   "type": "academic",
-  "source": "ielts-recent-mock-tests-volume-3 reading-practice-test-3-v9-34768",
+  "title": "IELTS Recent Mock Tests Volume 3 - Reading Test 3",
+  "collection": "IELTS Recent Mock Tests Volume 3",
+  "testNumber": 3,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-recent-mock-tests-volume-3_reading-practice-test-3-v9-34768.pdf",
-  "total_questions": 8,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "CLASSIFYING SOCIETIES",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nCLASSIFYING SOCIETIES\nAlthough humans have established many types of societies throughout history,\nsociologists and anthropologists tend to classify different societies according to\nthe degree to which different groups within a society have unequal access to\nadvantages such as resources, prestige or power, and usually refer to four\nbasic types of societies. From least to most socially Complex they are clans,\ntribes, chiefdoms and states.\nClan\nThese are small-scale societies of hunters and gatherers, generally of fewer\nthan 100 people, who move seasonally to exploit wild (undomesticated) food\nresources. Most surviving hunter-gatherer groups are of this kind, such as the\nHadza of Tanzania or the San of southern Africa. Clan members are generally\nkinsfolk, related by descent or marriage. Clans lack formal leaders, so there are\nno marked economic differences or disparities in status among their members.\nBecause clans are composed of mobile groups of hunter-gatherers, their sites\nconsist mainly of seasonally occupied camps, and other smaller and more\nspecialised sites. Among the latter are kill or butchery sites—locations where\nlarge mammals are killed and sometimes butchered— and work sites, where\ntools are made or other specific activities carried out. The base camp of such a\ngroup may give evidence of rather insubstantial dwellings or temporary\nshelters, along with the debris of residential occupation.\nTribe\nThese are generally larger than mobile hunter-gatherer groups, but rarely\nnumber more than a few thousand, and their diet or subsistence is based\n\nlargely on cultivated plants and domesticated animals. Typically, they are\nsettled farmers, but they may be nomadic with a very different, mobile\neconomy based on the intensive exploitation of livestock. These are generally\nmulti-community societies, with the individual communities integrated into the\nlarger society through kinship ties. Although some tribes have officials and\neven a \"capital\" or seat of government, such officials lack the economic base\nnecessary for effective use of\nThe typical settlement pattern for tribes is one of settled agricultural\nhomesteads or villages. Characteristically, no one settlement dominates any of\nthe others in the region. Instead, the archaeologist finds evidence for isolated,\npermanently occupied houses or for permanent villages. Such villages may be\nmade up of a collection of free-standing houses, like those of the first farms of\nthe Danube valley in Europe. Or they may be clusters of buildings grouped\ntogether, for example, the pueblos of the American Southwest, and the early\nfarming village or small town of (catalhoyuk in modern Turkey.\nChiefdom\nThese operate on the principle of ranking—differences in social status between\npeople. Different lineages (a lineage is a group claiming descent from a\ncommon ancestor) are graded on a scale of prestige, and the senior lineage,\nand hence the society as a whole, is governed by a chief. Prestige and rank are\ndetermined by how closely related one is to the chief, and there is no true\nstratification into classes. The role of the chief is crucial.\nOften, there is local specialisation in craft products, and surpluses of these and\nof foodstuffs are periodically paid as obligation to the chief. He uses these to\nmaintain his retainers, and may use them for redistribution to his subjects. The\nchiefdom generally has a center of power, often with temples, residences of\nthe chief and his retainers, and craft specialists. Chiefdoms vary greatly in size,\nbut the range is generally between about 5000 and 20,000 persons.\nEarly State\nThese preserve many of the features of chiefdoms, but the ruler (perhaps a\nking or sometimes a queen) has explicit authority to establish laws and also to\nenforce them by the use of a stand-ing army. Society no longer depends totally\nupon kin relationships: it is now stratified into dif-ferent classes. Agricultural\nworkers and the poorer urban dwellers form the lowest classes, with the craft\nspecialists above, and the priests and kinsfolk of the ruler higher still. The\nfunctions of the ruler are often separated from those of the priest: palace is\ndistinguished from temple. The society is viewed as a territory owned by the\nruling lineage and populated by tenants who have an obligation to pay taxes.",
-        "tables": [],
+        "heading": "CLASSIFYING SOCIETIES",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Although humans have established many types of societies throughout history,\nsociologists and anthropologists tend to classify different societies according to\nthe degree to which different groups within a society have unequal access to\nadvantages such as resources, prestige or power, and usually refer to four\nbasic types of societies. From least to most socially Complex they are clans,\ntribes, chiefdoms and states."
+          },
+          {
+            "label": null,
+            "text": "Clan"
+          },
+          {
+            "label": null,
+            "text": "These are small-scale societies of hunters and gatherers, generally of fewer\nthan 100 people, who move seasonally to exploit wild (undomesticated) food\nresources. Most surviving hunter-gatherer groups are of this kind, such as the\nHadza of Tanzania or the San of southern Africa. Clan members are generally\nkinsfolk, related by descent or marriage. Clans lack formal leaders, so there are\nno marked economic differences or disparities in status among their members."
+          },
+          {
+            "label": null,
+            "text": "Because clans are composed of mobile groups of hunter-gatherers, their sites\nconsist mainly of seasonally occupied camps, and other smaller and more\nspecialised sites. Among the latter are kill or butchery sites-locations where\nlarge mammals are killed and sometimes butchered- and work sites, where\ntools are made or other specific activities carried out. The base camp of such a\ngroup may give evidence of rather insubstantial dwellings or temporary\nshelters, along with the debris of residential occupation."
+          },
+          {
+            "label": null,
+            "text": "Tribe"
+          },
+          {
+            "label": null,
+            "text": "These are generally larger than mobile hunter-gatherer groups, but rarely\nnumber more than a few thousand, and their diet or subsistence is based"
+          },
+          {
+            "label": null,
+            "text": "largely on cultivated plants and domesticated animals. Typically, they are\nsettled farmers, but they may be nomadic with a very different, mobile\neconomy based on the intensive exploitation of livestock. These are generally\nmulti-community societies, with the individual communities integrated into the\nlarger society through kinship ties. Although some tribes have officials and\neven a \"capital\" or seat of government, such officials lack the economic base\nnecessary for effective use of"
+          },
+          {
+            "label": null,
+            "text": "The typical settlement pattern for tribes is one of settled agricultural\nhomesteads or villages. Characteristically, no one settlement dominates any of\nthe others in the region. Instead, the archaeologist finds evidence for isolated,\npermanently occupied houses or for permanent villages. Such villages may be\nmade up of a collection of free-standing houses, like those of the first farms of\nthe Danube valley in Europe. Or they may be clusters of buildings grouped\ntogether, for example, the pueblos of the American Southwest, and the early\nfarming village or small town of (catalhoyuk in modern Turkey."
+          },
+          {
+            "label": null,
+            "text": "Chiefdom"
+          },
+          {
+            "label": null,
+            "text": "These operate on the principle of ranking-differences in social status between\npeople. Different lineages (a lineage is a group claiming descent from a\ncommon ancestor) are graded on a scale of prestige, and the senior lineage,\nand hence the society as a whole, is governed by a chief. Prestige and rank are\ndetermined by how closely related one is to the chief, and there is no true\nstratification into classes. The role of the chief is crucial."
+          },
+          {
+            "label": null,
+            "text": "Often, there is local specialisation in craft products, and surpluses of these and\nof foodstuffs are periodically paid as obligation to the chief. He uses these to\nmaintain his retainers, and may use them for redistribution to his subjects. The\nchiefdom generally has a center of power, often with temples, residences of\nthe chief and his retainers, and craft specialists. Chiefdoms vary greatly in size,\nbut the range is generally between about 5000 and 20,000 persons."
+          },
+          {
+            "label": null,
+            "text": "Early State"
+          },
+          {
+            "label": null,
+            "text": "These preserve many of the features of chiefdoms, but the ruler (perhaps a\nking or sometimes a queen) has explicit authority to establish laws and also to\nenforce them by the use of a stand-ing army. Society no longer depends totally\nupon kin relationships: it is now stratified into dif-ferent classes. Agricultural\nworkers and the poorer urban dwellers form the lowest classes, with the craft\nspecialists above, and the priests and kinsfolk of the ruler higher still. The\nfunctions of the ruler are often separated from those of the priest: palace is\ndistinguished from temple. The society is viewed as a territory owned by the\nruling lineage and populated by tenants who have an obligation to pay taxes."
+          },
+          {
+            "label": null,
+            "text": "The central capital houses a bureaucratic administration of officials; one of\ntheir principal purposes is to collect revenue (often in the form of taxes and\ntolls) and distribute it to government, army and craft specialists. Many early\nstates developed complex redistribution systems to support these essential\nservices."
+          },
+          {
+            "label": null,
+            "text": "This rather simple social typology, set out by Elman Service and elaborated by\nWilliam Sanders and Joseph Marino, can be criticised, and it should not be used\nunthinkingly. Never-theless, if we are seeking to talk about early societies, we\nmust use words and hence concepts to do so. Service's categories provide a\ngood framework to help organise our thoughts."
+          }
+        ],
+        "text": "Although humans have established many types of societies throughout history,\nsociologists and anthropologists tend to classify different societies according to\nthe degree to which different groups within a society have unequal access to\nadvantages such as resources, prestige or power, and usually refer to four\nbasic types of societies. From least to most socially Complex they are clans,\ntribes, chiefdoms and states.\n\nClan\n\nThese are small-scale societies of hunters and gatherers, generally of fewer\nthan 100 people, who move seasonally to exploit wild (undomesticated) food\nresources. Most surviving hunter-gatherer groups are of this kind, such as the\nHadza of Tanzania or the San of southern Africa. Clan members are generally\nkinsfolk, related by descent or marriage. Clans lack formal leaders, so there are\nno marked economic differences or disparities in status among their members.\n\nBecause clans are composed of mobile groups of hunter-gatherers, their sites\nconsist mainly of seasonally occupied camps, and other smaller and more\nspecialised sites. Among the latter are kill or butchery sites-locations where\nlarge mammals are killed and sometimes butchered- and work sites, where\ntools are made or other specific activities carried out. The base camp of such a\ngroup may give evidence of rather insubstantial dwellings or temporary\nshelters, along with the debris of residential occupation.\n\nTribe\n\nThese are generally larger than mobile hunter-gatherer groups, but rarely\nnumber more than a few thousand, and their diet or subsistence is based\n\nlargely on cultivated plants and domesticated animals. Typically, they are\nsettled farmers, but they may be nomadic with a very different, mobile\neconomy based on the intensive exploitation of livestock. These are generally\nmulti-community societies, with the individual communities integrated into the\nlarger society through kinship ties. Although some tribes have officials and\neven a \"capital\" or seat of government, such officials lack the economic base\nnecessary for effective use of\n\nThe typical settlement pattern for tribes is one of settled agricultural\nhomesteads or villages. Characteristically, no one settlement dominates any of\nthe others in the region. Instead, the archaeologist finds evidence for isolated,\npermanently occupied houses or for permanent villages. Such villages may be\nmade up of a collection of free-standing houses, like those of the first farms of\nthe Danube valley in Europe. Or they may be clusters of buildings grouped\ntogether, for example, the pueblos of the American Southwest, and the early\nfarming village or small town of (catalhoyuk in modern Turkey.\n\nChiefdom\n\nThese operate on the principle of ranking-differences in social status between\npeople. Different lineages (a lineage is a group claiming descent from a\ncommon ancestor) are graded on a scale of prestige, and the senior lineage,\nand hence the society as a whole, is governed by a chief. Prestige and rank are\ndetermined by how closely related one is to the chief, and there is no true\nstratification into classes. The role of the chief is crucial.\n\nOften, there is local specialisation in craft products, and surpluses of these and\nof foodstuffs are periodically paid as obligation to the chief. He uses these to\nmaintain his retainers, and may use them for redistribution to his subjects. The\nchiefdom generally has a center of power, often with temples, residences of\nthe chief and his retainers, and craft specialists. Chiefdoms vary greatly in size,\nbut the range is generally between about 5000 and 20,000 persons.\n\nEarly State\n\nThese preserve many of the features of chiefdoms, but the ruler (perhaps a\nking or sometimes a queen) has explicit authority to establish laws and also to\nenforce them by the use of a stand-ing army. Society no longer depends totally\nupon kin relationships: it is now stratified into dif-ferent classes. Agricultural\nworkers and the poorer urban dwellers form the lowest classes, with the craft\nspecialists above, and the priests and kinsfolk of the ruler higher still. The\nfunctions of the ruler are often separated from those of the priest: palace is\ndistinguished from temple. The society is viewed as a territory owned by the\nruling lineage and populated by tenants who have an obligation to pay taxes.\n\nThe central capital houses a bureaucratic administration of officials; one of\ntheir principal purposes is to collect revenue (often in the form of taxes and\ntolls) and distribute it to government, army and craft specialists. Many early\nstates developed complex redistribution systems to support these essential\nservices.\n\nThis rather simple social typology, set out by Elman Service and elaborated by\nWilliam Sanders and Joseph Marino, can be criticised, and it should not be used\nunthinkingly. Never-theless, if we are seeking to talk about early societies, we\nmust use words and hence concepts to do so. Service's categories provide a\ngood framework to help organise our thoughts.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "The central capital houses a bureaucratic administration of officials; one of",
-      "questionRange": [
-        1,
-        7
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS OR/AND A NUMBER from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet. What are made at the clan work sites?",
+          "body": "[[8]] What is the other way of life for tribes besides settled farming? [[9]] How are Catalhoyuk's housing units arranged? [[10]] What does a chief give to his subjects as rewards besides crafted goods? [[11]] What is the largest possible population of a chiefdom? [[12]] Which group of people is at the bottom of an early state but higher than the farmers? [[13]]",
+          "range": [
+            8,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "The central capital houses a bureaucratic administration of officials; one of\ntheir principal purposes is to collect revenue (often in the form of taxes and\ntolls) and distribute it to government, army and craft specialists. Many early\nstates developed complex redistribution systems to support these essential\nservices.\nThis rather simple social typology, set out by Elman Service and elaborated by\nWilliam Sanders and Joseph Marino, can be criticised, and it should not be used\nunthinkingly. Never-theless, if we are seeking to talk about early societies, we\nmust use words and hence concepts to do so. Service’s categories provide a\ngood framework to help organise our thoughts.\nQuestions 1-7\nQuestions 8-13\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 1-7 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n1\n     There’s little economic difference between members\nof a clan.\n2\n     The farmers of a tribe grow a wide range of plants.\n3\n     One settlement is more important than any other\nsettlements in a tribe.\n4\n     A member’s status in a chiefdom is determined by\nhow much land he owns.\n5\n     There are people who craft goods in chiefdoms.\n6\n     The king keeps the order of a state by using an\narmy.\n7\n     Bureaucratic officers receive higher salaries than\nother members.\n\nAnswer the questions below.\nChoose NO MORE THAN TWO WORDS OR/AND A NUMBER from the\npassage for each answer.\nWrite your answers in boxes 8-13 on your answer sheet.\nWhat are made at the clan work sites?\n8\nWhat is the other way of life for tribes besides settled farming?\n9\nHow are Catalhoyuk’s housing units arranged?\n10\nWhat does a chief give to his subjects as rewards besides crafted goods?\n11\nWhat is the largest possible population of a chiefdom?\n12\nWhich group of people is at the bottom of an early state but higher than\nthe farmers?\n13",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "There's little economic difference between members",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "The farmers of a tribe grow a wide range of plants.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "One settlement is more important than any other",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "A member's status in a chiefdom is determined by",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "There are people who craft goods in chiefdoms.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "The king keeps the order of a state by using an",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "Bureaucratic officers receive higher salaries than",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "tools",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "nomadic",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "grouped (together)",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "foodstuffs",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "20,000 persons",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "craft specialists",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Tasmanian Tiger",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nTasmanian Tiger\nAlthough it was called tiger, it looked like a dog with black stripes on its back\nand it was the largest known carnivorous marsupial of modern times. Yet,\ndespite its fame for being one of the most fabled animals in the world, it is one\nof the least understood of Tasmania’s native animals. The scientific name for\nthe Tasmanian tiger is Thylacine and it is believed that they have become\nextinct in the 20th century.\nFossils of thylacines dating from about almost 12 million years ago have been\ndug up at various places in Victoria, South Australia and Western Australia.\nThey were widespread in Australia 7,000 years ago, but have probably been\nextinct on the continent for 2,000 years. This is believed to be because of the\nintroduction of dingoes around 8,000 years ago. Because of disease, thylacine\nnumbers may have been declining in Tasmania at the time of European\nsettlement 200 years ago, but the decline was certainly accelerated by the\nnew arrivals. The last known Tasmanian Tiger died in Hobart Zoo in 1936 and\nthe animal is officially classified as extinct. Technically, this means that it has\nnot been officially sighted in the wild or captivity for 50 years. However, there\nare still unsubstanti-ated sightings.\nHans Naarding, whose study of animals had taken him around the world, was\nconducting a survey of a species of endangered migratory bird. What he saw\nthat night is now regarded as the most credible sighting recorded of thylacine\nthat many believe has been extinct for more than 70 years.\n“I had to work at night,” Naarding takes up the story. “I was in the habit of\nintermittently shining a spotlight around. The beam fell on an animal in front of\nthe vehicle, less than 10m away. Instead of risking movement by grabbing for a\n\ncamera, I decided to register very carefully what I was seeing. The animal was\nabout the size of a small shepherd dog, a very healthy male in prime condition.\nWhat set it apart from a dog, though, was a slightly sloping hindquarter, with a\nfairly thick tail being a straight continuation of the backline of the animal. It had\n12 distinct stripes on its back, continuing onto its butt. I knew perfectly well\nwhat I was seeing. As soon as I reached for the camera, it disap-peared into the\ntea-tree undergrowth and scrub.”\nThe director of Tasmania’s National Parks at the time, Peter Morrow, decided in\nhis wisdom to keep Naarding’s sighting of the thylacine secret for two years.\nWhen the news finally broke, it was accompanied by pandemonium. “I was\nbesieged by television crews, including four to live from Japan, and others from\nthe United Kingdom, Germany, New Zealand and South America,” said\nNaarding.\nGovernment and private search parties combed the region, but no further\nsightings were made. The tiger, as always, had escaped to its lair, a place\nmany insist exists only in our imagination. But since then, the thylacine has\nstaged something of a comeback, becoming part of Australian mythology.\nThere have been more than 4,000 claimed sightings of the beast since it\nsupposedly died out, and the average claims each year reported to authorities\nnow number 150. Associate professor of zoology at the University of Tasmania,\nRandolph Rose, has said he dreams of seeing a thylacine. But Rose, who in his\n35 years in Tasmanian academia has fielded countless reports of thylacine\nsightings, is now convinced that his dream will go unfulfilled.\n“The consensus among conservationists is that, usually, any animal with a\npopulation base of less than 1,000 is headed for extinction within 60 years,”\nsays Rose. “Sixty years ago, there was only one thylacine that we know of, and\nthat was in Hobart Zoo,” he says.\nDr. David Pemberton, curator of zoology at the Tasmanian Museum and Art\nGallery, whose PhD thesis was on the thylacine, says that despite scientific\nthinking that 500 animals are required to sustain a population, the Florida\npanther is down to a dozen or so animals and, while it does have some\ninbreeding problems, is still ticking along. “I’ll take a punt and say that, if we\nmanage to find a thylacine in the scrub, it means that there are 50-plus\nanimals out there.”\nAfter all, animals can be notoriously elusive. The strange fish known as the\ncoelacanth, with its “proto-legs”, was thought to have died out along with the\ndinosaurs 700 million years ago until a specimen was dragged to the surface in\na shark net off the south-east coast of South Africa in 1938.\n\nWildlife biologist Nick Mooney has the unenviable task of investigating all\n“sightings” of the tiger totalling 4,000 since the mid-1980s, and averaging\nabout 150 a year. It was Mooney who was first consulted late last month about\nthe authenticity of digital photographic images purportedly taken by a German\ntourist while on a recent bushwalk in the state. On face value, Mooney says,\nthe account of the sighting, and the two photographs submitted as proof,\namount to one of the most convincing cases for the species’ survival he has\nseen.\nAnd Mooney has seen it all—the mistakes, the hoaxes, the illusions and the\nplausible accounts of sightings. Hoaxers aside, most people who report\nsightings end up believing they have seen a thy-lacine, and are themselves\nbelievable to the point they could pass a lie-detector test, according to\nMooney. Others, having tabled a creditable report, then become utterly\nobsessed like the Tasmanian who has registered 99 thylacine sightings to date.\nMooney has seen individuals bankrupted by the obsession, and families\ndestroyed. “It is a blind optimism that something is, rather than a cynicism that\nsomething isn’t,” Mooney says. “If something crosses the road, it’s not a case\nof ‘I wonder what that was?’ Rather, it is a case of ‘that’s a thylacine!’ It is a bit\nlike a gold prospector’s blind faith, ‘it has got to be there’.”\nHowever, Mooney treats all reports on face value. “I never try to embarrass\npeople, or make fools of them. But the fact that 1 don’t pack the car\nimmediately they ring can often be taken as ridicule. Obsessive characters get\nirate that someone in my position is not out there when they think the thy-\nlacine is there.”\nBut Hans Naarding, whose sighting of a striped animal two decades ago was\nthe highlight of “a life of animal spotting”, remains bemused by the time and\nmoney people waste on tiger searches. He says resources would be better\napplied to saving the Tasmanian devil, and helping migratory bird popula-tions\nthat are declining as a result of shrinking wetlands across Australia.\nGould the thylacine still be out there? “Sure,” Naarding says. But be also says\nany discovery of sur-viving thylacines would be “rather pointless”. “How do you\nsave a species from extinction? What could you do with it? If there are\nthylacines out there, they are better off right where they are,”",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Tasmanian Tiger"
+          },
+          {
+            "label": null,
+            "text": "Although it was called tiger, it looked like a dog with black stripes on its back\nand it was the largest known carnivorous marsupial of modern times. Yet,\ndespite its fame for being one of the most fabled animals in the world, it is one\nof the least understood of Tasmania's native animals. The scientific name for\nthe Tasmanian tiger is Thylacine and it is believed that they have become\nextinct in the 20th century."
+          },
+          {
+            "label": null,
+            "text": "Fossils of thylacines dating from about almost 12 million years ago have been\ndug up at various places in Victoria, South Australia and Western Australia.\nThey were widespread in Australia 7,000 years ago, but have probably been\nextinct on the continent for 2,000 years. This is believed to be because of the\nintroduction of dingoes around 8,000 years ago. Because of disease, thylacine\nnumbers may have been declining in Tasmania at the time of European\nsettlement 200 years ago, but the decline was certainly accelerated by the\nnew arrivals. The last known Tasmanian Tiger died in Hobart Zoo in 1936 and\nthe animal is officially classified as extinct. Technically, this means that it has\nnot been officially sighted in the wild or captivity for 50 years. However, there\nare still unsubstanti-ated sightings."
+          },
+          {
+            "label": null,
+            "text": "Hans Naarding, whose study of animals had taken him around the world, was\nconducting a survey of a species of endangered migratory bird. What he saw\nthat night is now regarded as the most credible sighting recorded of thylacine\nthat many believe has been extinct for more than 70 years."
+          },
+          {
+            "label": null,
+            "text": "\"I had to work at night,\" Naarding takes up the story. \"I was in the habit of\nintermittently shining a spotlight around. The beam fell on an animal in front of\nthe vehicle, less than 10m away. Instead of risking movement by grabbing for a"
+          },
+          {
+            "label": null,
+            "text": "camera, I decided to register very carefully what I was seeing. The animal was\nabout the size of a small shepherd dog, a very healthy male in prime condition.\nWhat set it apart from a dog, though, was a slightly sloping hindquarter, with a\nfairly thick tail being a straight continuation of the backline of the animal. It had\n12 distinct stripes on its back, continuing onto its butt. I knew perfectly well\nwhat I was seeing. As soon as I reached for the camera, it disap-peared into the\ntea-tree undergrowth and scrub.\""
+          },
+          {
+            "label": null,
+            "text": "The director of Tasmania's National Parks at the time, Peter Morrow, decided in\nhis wisdom to keep Naarding's sighting of the thylacine secret for two years.\nWhen the news finally broke, it was accompanied by pandemonium. \"I was\nbesieged by television crews, including four to live from Japan, and others from\nthe United Kingdom, Germany, New Zealand and South America,\" said\nNaarding."
+          },
+          {
+            "label": null,
+            "text": "Government and private search parties combed the region, but no further\nsightings were made. The tiger, as always, had escaped to its lair, a place\nmany insist exists only in our imagination. But since then, the thylacine has\nstaged something of a comeback, becoming part of Australian mythology."
+          },
+          {
+            "label": null,
+            "text": "There have been more than 4,000 claimed sightings of the beast since it\nsupposedly died out, and the average claims each year reported to authorities\nnow number 150. Associate professor of zoology at the University of Tasmania,\nRandolph Rose, has said he dreams of seeing a thylacine. But Rose, who in his\n35 years in Tasmanian academia has fielded countless reports of thylacine\nsightings, is now convinced that his dream will go unfulfilled."
+          },
+          {
+            "label": null,
+            "text": "\"The consensus among conservationists is that, usually, any animal with a\npopulation base of less than 1,000 is headed for extinction within 60 years,\"\nsays Rose. \"Sixty years ago, there was only one thylacine that we know of, and\nthat was in Hobart Zoo,\" he says."
+          },
+          {
+            "label": null,
+            "text": "Dr. David Pemberton, curator of zoology at the Tasmanian Museum and Art\nGallery, whose PhD thesis was on the thylacine, says that despite scientific\nthinking that 500 animals are required to sustain a population, the Florida\npanther is down to a dozen or so animals and, while it does have some\ninbreeding problems, is still ticking along. \"I'll take a punt and say that, if we\nmanage to find a thylacine in the scrub, it means that there are 50-plus\nanimals out there.\""
+          },
+          {
+            "label": null,
+            "text": "After all, animals can be notoriously elusive. The strange fish known as the\ncoelacanth, with its \"proto-legs\", was thought to have died out along with the\ndinosaurs 700 million years ago until a specimen was dragged to the surface in\na shark net off the south-east coast of South Africa in 1938."
+          },
+          {
+            "label": null,
+            "text": "Wildlife biologist Nick Mooney has the unenviable task of investigating all\n\"sightings\" of the tiger totalling 4,000 since the mid-1980s, and averaging\nabout 150 a year. It was Mooney who was first consulted late last month about\nthe authenticity of digital photographic images purportedly taken by a German\ntourist while on a recent bushwalk in the state. On face value, Mooney says,\nthe account of the sighting, and the two photographs submitted as proof,\namount to one of the most convincing cases for the species' survival he has\nseen."
+          },
+          {
+            "label": null,
+            "text": "And Mooney has seen it all-the mistakes, the hoaxes, the illusions and the\nplausible accounts of sightings. Hoaxers aside, most people who report\nsightings end up believing they have seen a thy-lacine, and are themselves\nbelievable to the point they could pass a lie-detector test, according to\nMooney. Others, having tabled a creditable report, then become utterly\nobsessed like the Tasmanian who has registered 99 thylacine sightings to date.\nMooney has seen individuals bankrupted by the obsession, and families\ndestroyed. \"It is a blind optimism that something is, rather than a cynicism that\nsomething isn't,\" Mooney says. \"If something crosses the road, it's not a case\nof 'I wonder what that was?' Rather, it is a case of 'that's a thylacine!' It is a bit\nlike a gold prospector's blind faith, 'it has got to be there'.\""
+          },
+          {
+            "label": null,
+            "text": "However, Mooney treats all reports on face value. \"I never try to embarrass\npeople, or make fools of them. But the fact that 1 don't pack the car\nimmediately they ring can often be taken as ridicule. Obsessive characters get\nirate that someone in my position is not out there when they think the thy-\nlacine is there.\""
+          },
+          {
+            "label": null,
+            "text": "But Hans Naarding, whose sighting of a striped animal two decades ago was\nthe highlight of \"a life of animal spotting\", remains bemused by the time and\nmoney people waste on tiger searches. He says resources would be better\napplied to saving the Tasmanian devil, and helping migratory bird popula-tions\nthat are declining as a result of shrinking wetlands across Australia."
+          },
+          {
+            "label": null,
+            "text": "Gould the thylacine still be out there? \"Sure,\" Naarding says. But be also says\nany discovery of sur-viving thylacines would be \"rather pointless\". \"How do you\nsave a species from extinction? What could you do with it? If there are\nthylacines out there, they are better off right where they are,\""
+          }
+        ],
+        "text": "Tasmanian Tiger\n\nAlthough it was called tiger, it looked like a dog with black stripes on its back\nand it was the largest known carnivorous marsupial of modern times. Yet,\ndespite its fame for being one of the most fabled animals in the world, it is one\nof the least understood of Tasmania's native animals. The scientific name for\nthe Tasmanian tiger is Thylacine and it is believed that they have become\nextinct in the 20th century.\n\nFossils of thylacines dating from about almost 12 million years ago have been\ndug up at various places in Victoria, South Australia and Western Australia.\nThey were widespread in Australia 7,000 years ago, but have probably been\nextinct on the continent for 2,000 years. This is believed to be because of the\nintroduction of dingoes around 8,000 years ago. Because of disease, thylacine\nnumbers may have been declining in Tasmania at the time of European\nsettlement 200 years ago, but the decline was certainly accelerated by the\nnew arrivals. The last known Tasmanian Tiger died in Hobart Zoo in 1936 and\nthe animal is officially classified as extinct. Technically, this means that it has\nnot been officially sighted in the wild or captivity for 50 years. However, there\nare still unsubstanti-ated sightings.\n\nHans Naarding, whose study of animals had taken him around the world, was\nconducting a survey of a species of endangered migratory bird. What he saw\nthat night is now regarded as the most credible sighting recorded of thylacine\nthat many believe has been extinct for more than 70 years.\n\n\"I had to work at night,\" Naarding takes up the story. \"I was in the habit of\nintermittently shining a spotlight around. The beam fell on an animal in front of\nthe vehicle, less than 10m away. Instead of risking movement by grabbing for a\n\ncamera, I decided to register very carefully what I was seeing. The animal was\nabout the size of a small shepherd dog, a very healthy male in prime condition.\nWhat set it apart from a dog, though, was a slightly sloping hindquarter, with a\nfairly thick tail being a straight continuation of the backline of the animal. It had\n12 distinct stripes on its back, continuing onto its butt. I knew perfectly well\nwhat I was seeing. As soon as I reached for the camera, it disap-peared into the\ntea-tree undergrowth and scrub.\"\n\nThe director of Tasmania's National Parks at the time, Peter Morrow, decided in\nhis wisdom to keep Naarding's sighting of the thylacine secret for two years.\nWhen the news finally broke, it was accompanied by pandemonium. \"I was\nbesieged by television crews, including four to live from Japan, and others from\nthe United Kingdom, Germany, New Zealand and South America,\" said\nNaarding.\n\nGovernment and private search parties combed the region, but no further\nsightings were made. The tiger, as always, had escaped to its lair, a place\nmany insist exists only in our imagination. But since then, the thylacine has\nstaged something of a comeback, becoming part of Australian mythology.\n\nThere have been more than 4,000 claimed sightings of the beast since it\nsupposedly died out, and the average claims each year reported to authorities\nnow number 150. Associate professor of zoology at the University of Tasmania,\nRandolph Rose, has said he dreams of seeing a thylacine. But Rose, who in his\n35 years in Tasmanian academia has fielded countless reports of thylacine\nsightings, is now convinced that his dream will go unfulfilled.\n\n\"The consensus among conservationists is that, usually, any animal with a\npopulation base of less than 1,000 is headed for extinction within 60 years,\"\nsays Rose. \"Sixty years ago, there was only one thylacine that we know of, and\nthat was in Hobart Zoo,\" he says.\n\nDr. David Pemberton, curator of zoology at the Tasmanian Museum and Art\nGallery, whose PhD thesis was on the thylacine, says that despite scientific\nthinking that 500 animals are required to sustain a population, the Florida\npanther is down to a dozen or so animals and, while it does have some\ninbreeding problems, is still ticking along. \"I'll take a punt and say that, if we\nmanage to find a thylacine in the scrub, it means that there are 50-plus\nanimals out there.\"\n\nAfter all, animals can be notoriously elusive. The strange fish known as the\ncoelacanth, with its \"proto-legs\", was thought to have died out along with the\ndinosaurs 700 million years ago until a specimen was dragged to the surface in\na shark net off the south-east coast of South Africa in 1938.\n\nWildlife biologist Nick Mooney has the unenviable task of investigating all\n\"sightings\" of the tiger totalling 4,000 since the mid-1980s, and averaging\nabout 150 a year. It was Mooney who was first consulted late last month about\nthe authenticity of digital photographic images purportedly taken by a German\ntourist while on a recent bushwalk in the state. On face value, Mooney says,\nthe account of the sighting, and the two photographs submitted as proof,\namount to one of the most convincing cases for the species' survival he has\nseen.\n\nAnd Mooney has seen it all-the mistakes, the hoaxes, the illusions and the\nplausible accounts of sightings. Hoaxers aside, most people who report\nsightings end up believing they have seen a thy-lacine, and are themselves\nbelievable to the point they could pass a lie-detector test, according to\nMooney. Others, having tabled a creditable report, then become utterly\nobsessed like the Tasmanian who has registered 99 thylacine sightings to date.\nMooney has seen individuals bankrupted by the obsession, and families\ndestroyed. \"It is a blind optimism that something is, rather than a cynicism that\nsomething isn't,\" Mooney says. \"If something crosses the road, it's not a case\nof 'I wonder what that was?' Rather, it is a case of 'that's a thylacine!' It is a bit\nlike a gold prospector's blind faith, 'it has got to be there'.\"\n\nHowever, Mooney treats all reports on face value. \"I never try to embarrass\npeople, or make fools of them. But the fact that 1 don't pack the car\nimmediately they ring can often be taken as ridicule. Obsessive characters get\nirate that someone in my position is not out there when they think the thy-\nlacine is there.\"\n\nBut Hans Naarding, whose sighting of a striped animal two decades ago was\nthe highlight of \"a life of animal spotting\", remains bemused by the time and\nmoney people waste on tiger searches. He says resources would be better\napplied to saving the Tasmanian devil, and helping migratory bird popula-tions\nthat are declining as a result of shrinking wetlands across Australia.\n\nGould the thylacine still be out there? \"Sure,\" Naarding says. But be also says\nany discovery of sur-viving thylacines would be \"rather pointless\". \"How do you\nsave a species from extinction? What could you do with it? If there are\nthylacines out there, they are better off right where they are,\"",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-17 on your answer sheet. The Tasmanian tiger, also called thylacine, resembles the look of a dog and has",
+          "body": "[[14]] on its fur coat. Many fossils have been found, showing that thylacines had existed as early as [[15]] years ago. They lived throughout [[16]] before disappearing from the mainland. And soon after the [[17]] settlers arrived the size of thylacine population in Tasmania shrunk at a higher speed.",
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements (Questions 18-23) and the list ofpeople below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-23 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            18,
+            23
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "Hans Naarding",
+              "Randolph Rose",
+              "David Pemberton",
+              "Nick Mooney"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 24-26 on your answer sheet.",
+          "body": null,
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 24,
-          "type": "multiple-choice",
-          "prompt": "Hans Naarding’s sighting has resulted in",
-          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-17 on your answer sheet. The Tasmanian tiger, also called thylacine, resembles the look of a dog and has 14 on its fur coat. Many fossils have been found, showing that thylacines had existed as early as 15 years ago. They lived throughout 16 before disappearing from the mainland. And soon after the 17 settlers arrived the size of thylacine population in Tasmania shrunk at a higher speed. Look at the following statements (Questions 18-23) and the list ofpeople below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-23 on your answer sheet. NB You may use any letter more than once. 18 His report of seeing a live thylacine in the wild attracted international interest. 19 Many eye-witnesses ’ reports are not trustworthy. 20 It doesn’t require a certain number of animals to ensure the survival of a species. 21 There is no hope of finding a surviving Tasmanian tiger. 22 Do not disturb them if there are any Tasmanian tigers still living today. 23 The interpretation of evidence can be affected by people’s beliefs. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 24-26 on your answer sheet.",
-          "answer": "B",
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "on its fur coat. Many fossils have been found, showing that",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "black stripes",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "12 million",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "before disappearing from the mainland. And soon after the",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Australia",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "settlers arrived the size of thylacine population in Tasmania shrunk\nat a higher speed.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "European",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "His report of seeing a live thylacine in the wild\nattracted international interest.",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Many eye-witnesses ' reports are not trustworthy.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "It doesn't require a certain number of animals to\nensure the survival of a species.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "There is no hope of finding a surviving Tasmanian\ntiger.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Do not disturb them if there are any Tasmanian tigers\nstill living today.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "The interpretation of evidence can be affected by\npeople's beliefs.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Hans Naarding's sighting has resulted in",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "government and organisations' cooperative efforts to protect thylacine.",
+            "extensive interests to find a living thylacine.",
+            "increase of the number of reports of thylacine worldwide.",
+            "growth of popularity of thylacine in literature."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 25,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "The example of coelacanth is to illustrate",
-          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-17 on your answer sheet. The Tasmanian tiger, also called thylacine, resembles the look of a dog and has 14 on its fur coat. Many fossils have been found, showing that thylacines had existed as early as 15 years ago. They lived throughout 16 before disappearing from the mainland. And soon after the 17 settlers arrived the size of thylacine population in Tasmania shrunk at a higher speed. Look at the following statements (Questions 18-23) and the list ofpeople below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-23 on your answer sheet. NB You may use any letter more than once. 18 His report of seeing a live thylacine in the wild attracted international interest. 19 Many eye-witnesses ’ reports are not trustworthy. 20 It doesn’t require a certain number of animals to ensure the survival of a species. 21 There is no hope of finding a surviving Tasmanian tiger. 22 Do not disturb them if there are any Tasmanian tigers still living today. 23 The interpretation of evidence can be affected by people’s beliefs. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 24-26 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "it lived in the same period with dinosaurs.",
+            "how dinosaurs evolved legs.",
+            "some animals are difficult to catch in the wild.",
+            "extinction of certain species can be mistaken."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 26,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "Mooney believes that all sighting reports should be",
-          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-17 on your answer sheet. The Tasmanian tiger, also called thylacine, resembles the look of a dog and has 14 on its fur coat. Many fossils have been found, showing that thylacines had existed as early as 15 years ago. They lived throughout 16 before disappearing from the mainland. And soon after the 17 settlers arrived the size of thylacine population in Tasmania shrunk at a higher speed. Look at the following statements (Questions 18-23) and the list ofpeople below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-23 on your answer sheet. NB You may use any letter more than once. 18 His report of seeing a live thylacine in the wild attracted international interest. 19 Many eye-witnesses ’ reports are not trustworthy. 20 It doesn’t require a certain number of animals to ensure the survival of a species. 21 There is no hope of finding a surviving Tasmanian tiger. 22 Do not disturb them if there are any Tasmanian tigers still living today. 23 The interpretation of evidence can be affected by people’s beliefs. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 24-26 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "given some credit as they claim even if they are untrue.",
+            "acted upon immediately.",
+            "viewed as equally untrustworthy.",
+            "questioned and carefully investigated. READING PASSAGE 3 You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage 3 on the following pages. Accidental Scientists A A paradox lies close to the heart of scientific discovery. If you know just what you are looking for, finding it can hardly count as a discovery, since it was fully anticipated. But if, on the other hand, you have no notion of what you are looking for, you cannot know when you have found it, and discovery, as such, is out of the question. In the philosophy of science, these extremes map onto the purist forms of deductivism and inductivism: In the former, the outcome is supposed to be logically contained in the premises you start with; in the latter, you are recommended to start with no expectations whatsoever and see what turns up. B As in so many things, the ideal position is widely supposed to reside somewhere in between these two impossible-to-realise extremes. You want to have a good enough idea of what you are looking for to be surprised when you find something else of value, and you want to be ignorant enough of your end point that you can entertain alternative outcomes. Scientific discovery should, therefore, have an accidental aspect, but not too much of one. Serendipity is a word that expresses a position something like that. It's a fascinating word, and the late Robert King Merton--\"the father of the sociology of science\"--liked it well enough to compose its biography, assisted by the French cultural historian Elinor Barber. C The word did not appear in the published literature until the early 19th century and did not become well enough known to use without explanation until sometime in the first third of the 20th century. Serendipity means a \"happy accident\" or \"pleasant surprise\", specifically, the accident of finding something good or useful without looking for it. The first noted use of \"serendipity\" in the English language was by Horace Walpole. He explained that it came from the fairy tale, called The Three Princes of Serendip (the ancient name for Ceylon, or present day Sri Lanka), whose heroes \"were always making discoveries, by accidents and sagacity, of things which they were not in quest of'. D Antiquarians, following Walpole, found use for it, as they were always rummaging about for curiosities, and unexpected but pleasant surprises were not unknown to them. Some people just seemed to have a knack for that sort of thing, and serendipity was used to express that special capacity. The other community that came to dwell on serendipity to say something important about their practice was that of scientists, and here usages cut to the heart of the matter and were often vigorously contested. Many scientists, including the Flarvard physiologist Walter Cannon and, later, the British immunologist Peter Medawar, liked to emphasise how much of scientific discovery was unplanned and even accidental. One of the examples is Hans Christian Orsted's discovery of electromagnetism when he unintentionally brought a current-carrying wire parallel to a magnetic needle. Rheto-ric about the sufficiency of rational method was so much hot air. Indeed, as Medawar insisted, \"There is no such thing as The Scientific Method,\" no way at all of systematis-ing the process of discovery. Really important discoveries had a way of showing up when they had a mind to do so and not when you were looking for them. Maybe some scientists, like some book collectors, had a happy knack; maybe serendipity described the situation rather than a personal skill or capacity. E Some scientists using the word meant to stress those accidents belonging to the situation; some treated serendipity as a personal capacity; many others exploited the ambiguity of the notion. Yet what Cannon and Medawar took as a benign nose-thumbing at Dreams of Method, other scientists found incendiary. To say that science had a significant serendipitous aspect was taken by some as dangerous denigration. If scientific discovery were really accidental, then what was the special basis of expert authority? In this connection, the aphorism of choice came from no less an authority on scientific discovery than Louis Pasteur: \"Chance favors the prepared mind.\" Accidents may happen, and things may turn up unplanned and unforeseen, as one is looking for something else, but the ability to notice such events, to see their potential bearing and meaning, to exploit their occurrence and make constructive use of them--these are the results of systematic mental preparation. What seems like an accident is just another form of expertise. On closer inspection, it is insisted, accident dissolves into sagacity. F The context in which scientific serendipity was most contested and had its greatest resonance was that connected with the idea of planned science. The serendipitists were not all inhab-itants of academic ivory towers. As Merton and Barber note, two of the great early-20th-century American pioneers of industrial research--Willis Whitney and Irving Langmuir, both of General Electric--made much play of serendipity, in the course of arguing against overly rigid research planning. Langmuir thought that misconceptions about the certainty and ratio-nality of the research process did much harm and that a mature acceptance of uncertainty was far more likely to result in productive research policies. For his own part, Langmuir said that satisfactory outcomes \"occurred as though we were just drifting with the wind. These things came about by accident.\" If there is no very determinate relationship between cause and effect in research, he said, \"then planning does not get us very far.\" So, from within the bowels of corporate capitalism came powerful arguments, by way of serendipity, for scientific spontane-ity and autonomy. The notion that industry was invariably committed to the regimentation of scientific research just doesn't wash. G For Merton himself--who one supposes must have been the senior author- serendipity rep-resented the keystone in the arch of his social scientific work. In 1936, as a very young man, Merton wrote a seminal essay on \"The Unanticipated Consequences of Purposive Social Action.\" It is, he argued, the nature of social action that what one intends is rarely what one gets: Intending to provide resources for buttressing Christian religion, the natural philoso-phers of the Scientific Revolution laid the groundwork for secularism; people wanting to be alone with nature in Yosemite Valley wind up crowding one another. We just don't know enough--and we can never know enough--to ensure that the past is an adequate guide to the future: Uncertainty about outcomes, even of our best-laid plans, is endemic. All social action, including that undertaken with the best evidence and formulated according to the most rational criteria, is uncertain in its consequences."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Accidental Scientists",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 on the following pages.\nAccidental Scientists\nA A paradox lies close to the heart of scientific discovery. If you know just what\nyou are looking for, finding it can hardly count as a discovery, since it was fully\nanticipated. But if, on the other hand, you have no notion of what you are\nlooking for, you cannot know when you have found it, and discovery, as such, is\nout of the question. In the philosophy of science, these extremes map onto the\npurist forms of deductivism and inductivism: In the former, the outcome is\nsupposed to be logically contained in the premises you start with; in the latter,\nyou are recommended to start with no expectations whatsoever and see what\nturns up.\nB As in so many things, the ideal position is widely supposed to reside\nsomewhere in between these two impossible-to-realise extremes. You want to\nhave a good enough idea of what you are looking for to be surprised when you\nfind something else of value, and you want to be ignorant enough of your end\npoint that you can entertain alternative outcomes. Scientific discovery should,\ntherefore, have an accidental aspect, but not too much of one. Serendipity is a\nword that expresses a position something like that. It’s a fascinating word, and\nthe late Robert King Merton—“the father of the sociology of science”—liked it\nwell enough to compose its biography, assisted by the French cultural historian\nElinor Barber.\nC The word did not appear in the published literature until the early 19th\ncentury and did not become well enough known to use without explanation\nuntil sometime in the first third of the 20th century. Serendipity means a\n“happy accident” or “pleasant surprise”, specifically, the accident of finding\nsomething good or useful without looking for it. The first noted use of\n\n“serendipity” in the English language was by Horace Walpole. He explained\nthat it came from the fairy tale, called The Three Princes of Serendip (the\nancient name for Ceylon, or present day Sri Lanka), whose heroes “were\nalways making discoveries, by accidents and sagacity, of things which they\nwere not in quest of’.\nD Antiquarians, following Walpole, found use for it, as they were always\nrummaging about for curiosities, and unexpected but pleasant surprises were\nnot unknown to them. Some people just seemed to have a knack for that sort\nof thing, and serendipity was used to express that special capacity. The other\ncommunity that came to dwell on serendipity to say something important\nabout their practice was that of scientists, and here usages cut to the heart of\nthe matter and were often vigorously contested. Many scientists, including the\nFlarvard physiologist Walter Cannon and, later, the British immunologist Peter\nMedawar, liked to emphasise how much of scientific discovery was unplanned\nand even accidental. One of the examples is Hans Christian Orsted’s discovery\nof electromagnetism when he unintentionally brought a current-carrying wire\nparallel to a magnetic needle. Rheto-ric about the sufficiency of rational\nmethod was so much hot air. Indeed, as Medawar insisted, “There is no such\nthing as The Scientific Method,” no way at all of systematis-ing the process of\ndiscovery. Really important discoveries had a way of showing up when they\nhad a mind to do so and not when you were looking for them. Maybe some\nscientists, like some book collectors, had a happy knack; maybe serendipity\ndescribed the situation rather than a personal skill or capacity.\nE Some scientists using the word meant to stress those accidents belonging to\nthe situation; some treated serendipity as a personal capacity; many others\nexploited the ambiguity of the notion. Yet what Cannon and Medawar took as a\nbenign nose-thumbing at Dreams of Method, other scientists found incendiary.\nTo say that science had a significant serendipitous aspect was taken by some\nas dangerous denigration. If scientific discovery were really accidental, then\nwhat was the special basis of expert authority? In this connection, the aphorism\nof choice came from no less an authority on scientific discovery than Louis\nPasteur: “Chance favors the prepared mind.” Accidents may happen, and\nthings may turn up unplanned and unforeseen, as one is looking for something\nelse, but the ability to notice such events, to see their potential bearing and\nmeaning, to exploit their occurrence and make constructive use of them—these\nare the results of systematic mental preparation. What seems like an accident\nis just another form of expertise. On closer inspection, it is insisted, accident\ndissolves into sagacity.\nF The context in which scientific serendipity was most contested and had its\n\ngreatest resonance was that connected with the idea of planned science. The\nserendipitists were not all inhab-itants of academic ivory towers. As Merton and\nBarber note, two of the great early-20th-century American pioneers of\nindustrial research—Willis Whitney and Irving Langmuir, both of General\nElectric—made much play of serendipity, in the course of arguing against\noverly rigid research planning. Langmuir thought that misconceptions about\nthe certainty and ratio-nality of the research process did much harm and that a\nmature acceptance of uncertainty was far more likely to result in productive\nresearch policies. For his own part, Langmuir said that satisfactory outcomes\n“occurred as though we were just drifting with the wind. These things came\nabout by accident.” If there is no very determinate relationship between cause\nand effect in research, he said, “then planning does not get us very far.” So,\nfrom within the bowels of corporate capitalism came powerful arguments, by\nway of serendipity, for scientific spontane-ity and autonomy. The notion that\nindustry was invariably committed to the regimentation of scientific research\njust doesn’t wash.\nG For Merton himself—who one supposes must have been the senior author-\nserendipity rep-resented the keystone in the arch of his social scientific work.\nIn 1936, as a very young man, Merton wrote a seminal essay on “The\nUnanticipated Consequences of Purposive Social Action.” It is, he argued, the\nnature of social action that what one intends is rarely what one gets: Intending\nto provide resources for buttressing Christian religion, the natural philoso-phers\nof the Scientific Revolution laid the groundwork for secularism; people wanting\nto be alone with nature in Yosemite Valley wind up crowding one another. We\njust don’t know enough—and we can never know enough—to ensure that the\npast is an adequate guide to the future: Uncertainty about outcomes, even of\nour best-laid plans, is endemic. All social action, including that undertaken with\nthe best evidence and formulated according to the most rational criteria, is\nuncertain in its consequences.",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 14,
-            "rows": [
-              [
-                "Example",
-                "Answer"
-              ],
-              [
-                "Paragraph B",
-                "iii"
-              ]
-            ],
-            "header": [
-              "Example",
-              "Answer"
-            ]
+            "label": null,
+            "text": "Accidental Scientists"
+          },
+          {
+            "label": null,
+            "text": "A A paradox lies close to the heart of scientific discovery. If you know just what\nyou are looking for, finding it can hardly count as a discovery, since it was fully\nanticipated. But if, on the other hand, you have no notion of what you are\nlooking for, you cannot know when you have found it, and discovery, as such, is\nout of the question. In the philosophy of science, these extremes map onto the\npurist forms of deductivism and inductivism: In the former, the outcome is\nsupposed to be logically contained in the premises you start with; in the latter,\nyou are recommended to start with no expectations whatsoever and see what\nturns up."
+          },
+          {
+            "label": null,
+            "text": "B As in so many things, the ideal position is widely supposed to reside\nsomewhere in between these two impossible-to-realise extremes. You want to\nhave a good enough idea of what you are looking for to be surprised when you\nfind something else of value, and you want to be ignorant enough of your end\npoint that you can entertain alternative outcomes. Scientific discovery should,\ntherefore, have an accidental aspect, but not too much of one. Serendipity is a\nword that expresses a position something like that. It's a fascinating word, and\nthe late Robert King Merton-\"the father of the sociology of science\"-liked it\nwell enough to compose its biography, assisted by the French cultural historian\nElinor Barber."
+          },
+          {
+            "label": null,
+            "text": "C The word did not appear in the published literature until the early 19th\ncentury and did not become well enough known to use without explanation\nuntil sometime in the first third of the 20th century. Serendipity means a\n\"happy accident\" or \"pleasant surprise\", specifically, the accident of finding\nsomething good or useful without looking for it. The first noted use of"
+          },
+          {
+            "label": null,
+            "text": "\"serendipity\" in the English language was by Horace Walpole. He explained\nthat it came from the fairy tale, called The Three Princes of Serendip (the\nancient name for Ceylon, or present day Sri Lanka), whose heroes \"were\nalways making discoveries, by accidents and sagacity, of things which they\nwere not in quest of'."
+          },
+          {
+            "label": null,
+            "text": "D Antiquarians, following Walpole, found use for it, as they were always\nrummaging about for curiosities, and unexpected but pleasant surprises were\nnot unknown to them. Some people just seemed to have a knack for that sort\nof thing, and serendipity was used to express that special capacity. The other\ncommunity that came to dwell on serendipity to say something important\nabout their practice was that of scientists, and here usages cut to the heart of\nthe matter and were often vigorously contested. Many scientists, including the\nFlarvard physiologist Walter Cannon and, later, the British immunologist Peter\nMedawar, liked to emphasise how much of scientific discovery was unplanned\nand even accidental. One of the examples is Hans Christian Orsted's discovery\nof electromagnetism when he unintentionally brought a current-carrying wire\nparallel to a magnetic needle. Rheto-ric about the sufficiency of rational\nmethod was so much hot air. Indeed, as Medawar insisted, \"There is no such\nthing as The Scientific Method,\" no way at all of systematis-ing the process of\ndiscovery. Really important discoveries had a way of showing up when they\nhad a mind to do so and not when you were looking for them. Maybe some\nscientists, like some book collectors, had a happy knack; maybe serendipity\ndescribed the situation rather than a personal skill or capacity."
+          },
+          {
+            "label": null,
+            "text": "E Some scientists using the word meant to stress those accidents belonging to\nthe situation; some treated serendipity as a personal capacity; many others\nexploited the ambiguity of the notion. Yet what Cannon and Medawar took as a\nbenign nose-thumbing at Dreams of Method, other scientists found incendiary.\nTo say that science had a significant serendipitous aspect was taken by some\nas dangerous denigration. If scientific discovery were really accidental, then\nwhat was the special basis of expert authority? In this connection, the aphorism\nof choice came from no less an authority on scientific discovery than Louis\nPasteur: \"Chance favors the prepared mind.\" Accidents may happen, and\nthings may turn up unplanned and unforeseen, as one is looking for something\nelse, but the ability to notice such events, to see their potential bearing and\nmeaning, to exploit their occurrence and make constructive use of them-these\nare the results of systematic mental preparation. What seems like an accident\nis just another form of expertise. On closer inspection, it is insisted, accident\ndissolves into sagacity."
+          },
+          {
+            "label": null,
+            "text": "F The context in which scientific serendipity was most contested and had its"
+          },
+          {
+            "label": null,
+            "text": "greatest resonance was that connected with the idea of planned science. The\nserendipitists were not all inhab-itants of academic ivory towers. As Merton and\nBarber note, two of the great early-20th-century American pioneers of\nindustrial research-Willis Whitney and Irving Langmuir, both of General\nElectric-made much play of serendipity, in the course of arguing against\noverly rigid research planning. Langmuir thought that misconceptions about\nthe certainty and ratio-nality of the research process did much harm and that a\nmature acceptance of uncertainty was far more likely to result in productive\nresearch policies. For his own part, Langmuir said that satisfactory outcomes\n\"occurred as though we were just drifting with the wind. These things came\nabout by accident.\" If there is no very determinate relationship between cause\nand effect in research, he said, \"then planning does not get us very far.\" So,\nfrom within the bowels of corporate capitalism came powerful arguments, by\nway of serendipity, for scientific spontane-ity and autonomy. The notion that\nindustry was invariably committed to the regimentation of scientific research\njust doesn't wash."
+          },
+          {
+            "label": null,
+            "text": "G For Merton himself-who one supposes must have been the senior author-\nserendipity rep-resented the keystone in the arch of his social scientific work.\nIn 1936, as a very young man, Merton wrote a seminal essay on \"The\nUnanticipated Consequences of Purposive Social Action.\" It is, he argued, the\nnature of social action that what one intends is rarely what one gets: Intending\nto provide resources for buttressing Christian religion, the natural philoso-phers\nof the Scientific Revolution laid the groundwork for secularism; people wanting\nto be alone with nature in Yosemite Valley wind up crowding one another. We\njust don't know enough-and we can never know enough-to ensure that the\npast is an adequate guide to the future: Uncertainty about outcomes, even of\nour best-laid plans, is endemic. All social action, including that undertaken with\nthe best evidence and formulated according to the most rational criteria, is\nuncertain in its consequences."
           }
         ],
+        "text": "Accidental Scientists\n\nA A paradox lies close to the heart of scientific discovery. If you know just what\nyou are looking for, finding it can hardly count as a discovery, since it was fully\nanticipated. But if, on the other hand, you have no notion of what you are\nlooking for, you cannot know when you have found it, and discovery, as such, is\nout of the question. In the philosophy of science, these extremes map onto the\npurist forms of deductivism and inductivism: In the former, the outcome is\nsupposed to be logically contained in the premises you start with; in the latter,\nyou are recommended to start with no expectations whatsoever and see what\nturns up.\n\nB As in so many things, the ideal position is widely supposed to reside\nsomewhere in between these two impossible-to-realise extremes. You want to\nhave a good enough idea of what you are looking for to be surprised when you\nfind something else of value, and you want to be ignorant enough of your end\npoint that you can entertain alternative outcomes. Scientific discovery should,\ntherefore, have an accidental aspect, but not too much of one. Serendipity is a\nword that expresses a position something like that. It's a fascinating word, and\nthe late Robert King Merton-\"the father of the sociology of science\"-liked it\nwell enough to compose its biography, assisted by the French cultural historian\nElinor Barber.\n\nC The word did not appear in the published literature until the early 19th\ncentury and did not become well enough known to use without explanation\nuntil sometime in the first third of the 20th century. Serendipity means a\n\"happy accident\" or \"pleasant surprise\", specifically, the accident of finding\nsomething good or useful without looking for it. The first noted use of\n\n\"serendipity\" in the English language was by Horace Walpole. He explained\nthat it came from the fairy tale, called The Three Princes of Serendip (the\nancient name for Ceylon, or present day Sri Lanka), whose heroes \"were\nalways making discoveries, by accidents and sagacity, of things which they\nwere not in quest of'.\n\nD Antiquarians, following Walpole, found use for it, as they were always\nrummaging about for curiosities, and unexpected but pleasant surprises were\nnot unknown to them. Some people just seemed to have a knack for that sort\nof thing, and serendipity was used to express that special capacity. The other\ncommunity that came to dwell on serendipity to say something important\nabout their practice was that of scientists, and here usages cut to the heart of\nthe matter and were often vigorously contested. Many scientists, including the\nFlarvard physiologist Walter Cannon and, later, the British immunologist Peter\nMedawar, liked to emphasise how much of scientific discovery was unplanned\nand even accidental. One of the examples is Hans Christian Orsted's discovery\nof electromagnetism when he unintentionally brought a current-carrying wire\nparallel to a magnetic needle. Rheto-ric about the sufficiency of rational\nmethod was so much hot air. Indeed, as Medawar insisted, \"There is no such\nthing as The Scientific Method,\" no way at all of systematis-ing the process of\ndiscovery. Really important discoveries had a way of showing up when they\nhad a mind to do so and not when you were looking for them. Maybe some\nscientists, like some book collectors, had a happy knack; maybe serendipity\ndescribed the situation rather than a personal skill or capacity.\n\nE Some scientists using the word meant to stress those accidents belonging to\nthe situation; some treated serendipity as a personal capacity; many others\nexploited the ambiguity of the notion. Yet what Cannon and Medawar took as a\nbenign nose-thumbing at Dreams of Method, other scientists found incendiary.\nTo say that science had a significant serendipitous aspect was taken by some\nas dangerous denigration. If scientific discovery were really accidental, then\nwhat was the special basis of expert authority? In this connection, the aphorism\nof choice came from no less an authority on scientific discovery than Louis\nPasteur: \"Chance favors the prepared mind.\" Accidents may happen, and\nthings may turn up unplanned and unforeseen, as one is looking for something\nelse, but the ability to notice such events, to see their potential bearing and\nmeaning, to exploit their occurrence and make constructive use of them-these\nare the results of systematic mental preparation. What seems like an accident\nis just another form of expertise. On closer inspection, it is insisted, accident\ndissolves into sagacity.\n\nF The context in which scientific serendipity was most contested and had its\n\ngreatest resonance was that connected with the idea of planned science. The\nserendipitists were not all inhab-itants of academic ivory towers. As Merton and\nBarber note, two of the great early-20th-century American pioneers of\nindustrial research-Willis Whitney and Irving Langmuir, both of General\nElectric-made much play of serendipity, in the course of arguing against\noverly rigid research planning. Langmuir thought that misconceptions about\nthe certainty and ratio-nality of the research process did much harm and that a\nmature acceptance of uncertainty was far more likely to result in productive\nresearch policies. For his own part, Langmuir said that satisfactory outcomes\n\"occurred as though we were just drifting with the wind. These things came\nabout by accident.\" If there is no very determinate relationship between cause\nand effect in research, he said, \"then planning does not get us very far.\" So,\nfrom within the bowels of corporate capitalism came powerful arguments, by\nway of serendipity, for scientific spontane-ity and autonomy. The notion that\nindustry was invariably committed to the regimentation of scientific research\njust doesn't wash.\n\nG For Merton himself-who one supposes must have been the senior author-\nserendipity rep-resented the keystone in the arch of his social scientific work.\nIn 1936, as a very young man, Merton wrote a seminal essay on \"The\nUnanticipated Consequences of Purposive Social Action.\" It is, he argued, the\nnature of social action that what one intends is rarely what one gets: Intending\nto provide resources for buttressing Christian religion, the natural philoso-phers\nof the Scientific Revolution laid the groundwork for secularism; people wanting\nto be alone with nature in Yosemite Valley wind up crowding one another. We\njust don't know enough-and we can never know enough-to ensure that the\npast is an adequate guide to the future: Uncertainty about outcomes, even of\nour best-laid plans, is endemic. All social action, including that undertaken with\nthe best evidence and formulated according to the most rational criteria, is\nuncertain in its consequences.",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "A paradox lies close to the heart of scientific discovery. If you know just what"
-          },
-          {
-            "label": "B",
-            "content": "As in so many things, the ideal position is widely supposed to reside"
-          },
-          {
-            "label": "C",
-            "content": "The word did not appear in the published literature until the early 19th"
-          },
-          {
-            "label": "D",
-            "content": "Antiquarians, following Walpole, found use for it, as they were always"
-          },
-          {
-            "label": "E",
-            "content": "Some scientists using the word meant to stress those accidents belonging to"
-          },
-          {
-            "label": "F",
-            "content": "The context in which scientific serendipity was most contested and had its"
-          },
-          {
-            "label": "G",
-            "content": "For Merton himself—who one supposes must have been the senior author-"
-          }
-        ]
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Examples of some scientific discoveries",
+              "Horace Walpole's fairy tale",
+              "Resolving the contradiction",
+              "What is the Scientific Method",
+              "The contradiction of views on scientific discovery",
+              "Some misunderstandings of serendipity",
+              "Opponents of authority",
+              "Reality doesn't always match expectation",
+              "How the word came into being",
+              "Illustration of serendipity in the business sector"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
+          "body": null,
+          "range": [
+            33,
+            37
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 38-40 on your answer sheet. Who is the person that first used the word \"serendipity\"?",
+          "body": "[[38]] What kind of story does the word come from? [[39]] What is the present name of serendip? [[40]]",
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 27,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
         {
           "number": 33,
           "type": "multiple-choice",
-          "prompt": "In paragraph A, the word “inductivism” means",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet. Reality doesn’t always match expectation ix How the word came into being x Illustration of serendipity in the business sector 27 Paragraph A Example Answer Paragraph B iii 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p3g2",
+          "prompt": "In paragraph A, the word \"inductivism\" means",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "anticipate results in the beginning.",
+            "work with prepared premises.",
+            "accept chance discoveries.",
+            "look for what you want."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 34,
           "type": "multiple-choice",
-          "prompt": "Medawar says “there is no such thing as The Scientific Method”",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet. Reality doesn’t always match expectation ix How the word came into being x Illustration of serendipity in the business sector 27 Paragraph A Example Answer Paragraph B iii 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
-          "answer": "B",
+          "groupId": "p3g2",
+          "prompt": "Medawar says \"there is no such thing as The Scientific Method\" because",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "discoveries are made by people with determined mind.",
+            "discoveries tend to happen unplanned.",
+            "the process of discovery is unpleasant.",
+            "serendipity is not a skill."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 35,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Many scientists dislike the idea of serendipity because",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet. Reality doesn’t always match expectation ix How the word came into being x Illustration of serendipity in the business sector 27 Paragraph A Example Answer Paragraph B iii 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "it is easily misunderstood and abused.",
+            "it is too unpredictable.",
+            "it is beyond their comprehension.",
+            "it devalues their scientific expertise."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 36,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "The writer mentions Irving Langmuir to illustrate",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet. Reality doesn’t always match expectation ix How the word came into being x Illustration of serendipity in the business sector 27 Paragraph A Example Answer Paragraph B iii 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "planned science should be avoided.",
+            "industrial development needs uncertainty.",
+            "people tend to misunderstand the relationship between cause and effect.",
+            "accepting uncertainty can help produce positive results."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 37,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "The example of Yosemite is to show",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 27-32 on your answer sheet. Reality doesn’t always match expectation ix How the word came into being x Illustration of serendipity in the business sector 27 Paragraph A Example Answer Paragraph B iii 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G Choose the correct letter, A, B, C or D. Write the correct letter in boxes 33-37 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the conflict between reality and expectation.",
+            "the importance of systematic planning.",
+            "the intention of social action.",
+            "the power of anticipation."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Horace Walpole",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "fairy tale",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Sri Lanka",
+          "trap": null
         }
       ]
     }

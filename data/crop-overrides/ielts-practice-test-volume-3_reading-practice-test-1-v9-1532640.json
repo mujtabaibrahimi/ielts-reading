@@ -1,0 +1,107 @@
+{
+  "p2g3": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Answer the questions. Choose the correct letter, E, I, or B. Which language:",
+    "optionBank": {
+      "title": "Languages",
+      "options": [
+        "E",
+        "I",
+        "B"
+      ],
+      "labels": [
+        "Esperanto",
+        "Ido",
+        "Both"
+      ]
+    },
+    "questions": {
+      "22": {
+        "prompt": "had many stages in its development?",
+        "options": [
+          "E",
+          "I",
+          "B"
+        ]
+      },
+      "23": {
+        "prompt": "had its development affected by World War One?",
+        "options": [
+          "E",
+          "I",
+          "B"
+        ]
+      },
+      "24": {
+        "prompt": "has some strange words?",
+        "options": [
+          "E",
+          "I",
+          "B"
+        ]
+      },
+      "25": {
+        "prompt": "was designed by many people?",
+        "options": [
+          "E",
+          "I",
+          "B"
+        ]
+      },
+      "26": {
+        "prompt": "has never achieved its aim?",
+        "options": [
+          "E",
+          "I",
+          "B"
+        ]
+      }
+    }
+  },
+  "p1g2": {
+    "instruction": "Label the diagram below. Choose ONE WORD from the passage for each answer. Write your answers in boxes 5-7.",
+    "questions": {
+      "5": {
+        "prompt": "Durian, label 5: three arrows pointing to the spiky outer surface"
+      },
+      "6": {
+        "prompt": "Durian, label 6: arrow from the lower left pointing to the area just inside the outer layer"
+      },
+      "7": {
+        "prompt": "Durian, label 7: ______ of flesh (arrow pointing to the dotted inner sections)"
+      }
+    }
+  },
+  "p3g1": {
+    "_keepImage": true,
+    "_reason": "Flowchart 'A Year without a summer' is missing from the source crop (only the instruction and blank answer lines 27-34 are present); cannot transcribe without inventing. Stale single-letter ['A'] options cleared so the answers are text inputs.",
+    "questions": {
+      "27": {
+        "options": null
+      },
+      "28": {
+        "options": null
+      },
+      "29": {
+        "options": null
+      },
+      "30": {
+        "options": null
+      },
+      "31": {
+        "options": null
+      },
+      "32": {
+        "options": null
+      },
+      "33": {
+        "options": null
+      },
+      "34": {
+        "options": null
+      }
+    },
+    "optionBank": null
+  }
+}

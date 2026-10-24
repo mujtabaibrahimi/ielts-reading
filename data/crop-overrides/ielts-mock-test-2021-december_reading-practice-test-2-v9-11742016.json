@@ -1,0 +1,16 @@
+{
+  "p1g2": {
+    "instruction": "Label the diagram below. Write NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 8-10 on your answer sheet.",
+    "questions": {
+      "8": {
+        "prompt": "Label (8): A spinning disk with ______ in a spiral"
+      },
+      "9": {
+        "prompt": "Label (9) on the diagram"
+      },
+      "10": {
+        "prompt": "Label (10) on the diagram"
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "The text has 5 paragraphs (A-E). Which paragraph contains each of the following pieces of information?",
+    "optionBank": {
+      "title": "Paragraphs",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "The fact that a woman runs one of Thailand's biggest banks",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "2": {
+        "prompt": "The number of countries included in the survey",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "3": {
+        "prompt": "The fact that Japan's birth rate is falling quickly",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "4": {
+        "prompt": "The criteria used to get a score for each country",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p2g4": {
+    "_keepImage": true,
+    "_reason": "Multi-select spread over boxes 25-26; answer key is garbled ('A,C 24 A' in both) and cannot map to single inputs."
+  },
+  "_answers": {
+    "18": "A,C,D,E,G",
+    "19": "A,C,D,E,G",
+    "20": "A,C,D,E,G",
+    "21": "A,C,D,E,G",
+    "22": "A,C,D,E,G",
+    "24": "A",
+    "25": "A,C",
+    "26": "A,C"
+  }
+}

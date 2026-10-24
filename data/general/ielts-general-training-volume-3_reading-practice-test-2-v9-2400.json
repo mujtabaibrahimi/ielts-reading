@@ -1,244 +1,1188 @@
 {
   "id": "ielts-general-training-volume-3_reading-practice-test-2-v9-2400",
   "type": "general",
-  "source": "ielts-general-training-volume-3 reading-practice-test-2-v9-2400",
+  "title": "IELTS General Training Volume 3 - Reading Test 2",
+  "collection": "IELTS General Training Volume 3",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-3_reading-practice-test-2-v9-2400.pdf",
-  "total_questions": 16,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         20
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\non Reading Passage 1 below.",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 6,
-            "rows": [
-              [
-                "Kuringai Chase National Park\nGuided Walks and Nature Activities",
-                null
-              ],
-              [
-                "SUNDAY MAY 7\nEASY\nEarly Morning Stroll in Upper Lane\nCove Valley\nMeet at 7.30 am at the end of Day Rd,\nCheltenham while the bush is alive with\nbirdsong.\nRound trip: 4 hours\nFRIDAY MAY 12\nMEDIUM\nPossum Prowl\nMeet 7.30 pm at Seaforth Oval carpark.\nEnjoy the peace of the bush at night.\nLovely water views. Bring torch and wear\nnon-slip shoes as some rock clambering\ninvolved. Coffee and biscuits supplied.\nDuration: 2 hours\nSUNDAY JUNE 4 HARD\nBairne / Basin Track\nMeet 9.30 am Track #8, West Head\nRoad. Magnificent Pittwater views. Visit\nBeechwood cottage. Bring lunch and\ndrink. Some steep sections. Reasonable\nfitness required.\nDuration: approx. 6 hours.",
-                "FRIDAY JUNE 16\nEASY\nPoetry around a mid-winter campfire\nMeet 7.00 pm Kalkaari Visitor Centre. Share\nyour favourite poem or one of your own with\na group around a gently crackling fire. Billy\ntea and damper to follow. Dress up warmly.\nBring a mug and a rug (or a chair).\nCost $4.00 per person.\nDuration: 2.5 hours\nSUNDAY JUNE 25 EASY\nMorning Walk at Mitchell Park\nMeet 8.30 am entrance to Mitchell Park,\nMitchell Park Rd, Cattai for a pleasant walk\nwandering through rainforest, river flats and\ndry forest to swampland. Binoculars a must\nto bring as many birds live here. Finish with\nmorning tea.\nDuration: 3 hours.\nGRADING\nEASY suitable for ALL fitness levels\nMEDIUM for those who PERIODICALLY\nexercise\nHARD only if you REGULARLY exercise"
-              ]
-            ],
-            "header": [
-              "Kuringai Chase National Park\nGuided Walks and Nature Activities",
-              null
-            ]
-          },
-          {
-            "page": 8,
-            "rows": [
-              [
-                "ACTIVITY",
-                "WHAT\nTO BRING/WEAR",
-                "WHAT IS\nSUPPLIED",
-                "CHIEF\nATTRACTION"
-              ],
-              [
-                "EARLY\nMORNING STROLL",
-                "",
-                "",
-                "13"
-              ],
-              [
-                "MORNING WALK",
-                "14",
-                "",
-                "varied\nlandscape,\nbirds"
-              ],
-              [
-                "POETRY",
-                "warm clothes,\nmug, rug/ chair,\npoem",
-                "15\n16",
-                ""
-              ],
-              [
-                "17",
-                "18\n19",
-                "coffee,\nbiscuits",
-                "peace,\n20"
-              ]
-            ],
-            "header": [
-              "ACTIVITY",
-              "WHAT\nTO BRING/WEAR",
-              "WHAT IS\nSUPPLIED",
-              "CHIEF\nATTRACTION"
-            ]
+            "label": null,
+            "text": "Jaspar's Macquarie Plaza"
           }
         ],
+        "text": "Jaspar's Macquarie Plaza",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "There are 5 advertisements A-E on the next page. Answer the questions below by writing the letters of the appropriate",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "B"
+            ],
+            "labels": [
+              "Y.O Eat In - Takeaway"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode R",
+          "body": "[[7]] Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. [[8]] Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced before cooking, to prevent bursting. [[9]] Do not dry clothes or other materials in the oven. They may catch on fire. [[10]] Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. [[11]] Do not hit control panel. Damage to controls may occur. [[12]] Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door.",
+          "range": [
+            7,
+            12
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "E"
+            ],
+            "labels": [
+              "if the underlilled section gives an EXAMPLE of the instruction"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure \"Guided Walks and Nature Activities\". Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT WHAT IS CHIEF TO BRING/WEAR SUPPLIED ATTRACTION",
+          "body": "EARLY [[13]] MORNING STROLL varied landscape, MORNING WALK [[14]] birds POETRY warm clothes, [[15]] peace, [[17]] mug, rug/ chair, [[16]] [[20]] poem coffee, [[18]] biscuits [[19]]",
+          "range": [
+            13,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which advertisement is not for a restaurant?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which advertisement offer facilities for parties up to 90 people?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which restaurant states that it serves breakfast?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which restaurant will give you an extra serving if you present the coupon?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which restaurant does not offer a takeaway service?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-features",
+          "groupId": "p1g4",
+          "prompt": "Which restaurant will bring the food you order to your house?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g5",
+          "prompt": "Whilst heating liquids which contain air (e.g. milk or milk",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "R",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g5",
+          "prompt": "Potatoes, apples, egg yolks, whole squash and sausages",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
           "number": 9,
-          "type": "fill-in-blank",
-          "prompt": "Do not dry clothes or other materials in the oven. They may catch on fire.",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced",
-          "answer": "R"
+          "type": "sentence-completion",
+          "groupId": "p1g5",
+          "prompt": "Do not dry clothes or other materials in the oven. They",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "R",
+          "trap": null
         },
         {
           "number": 10,
-          "type": "fill-in-blank",
-          "prompt": "Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil.",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced",
-          "answer": "CP"
+          "type": "sentence-completion",
+          "groupId": "p1g5",
+          "prompt": "Do not cook food directly on glass oven tray unless\nindicated in recipes. Food should be placed in a suitable cooking utensil.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "CP",
+          "trap": null
         },
         {
           "number": 11,
-          "type": "fill-in-blank",
+          "type": "sentence-completion",
+          "groupId": "p1g5",
           "prompt": "Do not hit control panel. Damage to controls may occur.",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced",
-          "answer": "R"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "R",
+          "trap": null
         },
         {
           "number": 12,
-          "type": "fill-in-blank",
-          "prompt": "Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Below is a chart containing some of the Kuringai Chase Park Nature",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced",
-          "answer": "CP"
+          "type": "sentence-completion",
+          "groupId": "p1g5",
+          "prompt": "Clean the oven, the door and the seals with water and a\nmild detergent at regular intervals. Never use an abrasive cleaner that\nmay scratch the surfaces around the door.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "CP",
+          "trap": null
         },
         {
           "number": 13,
-          "type": "table-completion",
-          "prompt": "MORNING WALK",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "birdsong"
+          "type": "sentence-completion",
+          "groupId": "p1g6",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "birdsong",
+          "trap": null
         },
         {
           "number": 14,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "binoculars"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "binoculars",
+          "trap": null
         },
         {
           "number": 15,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "(billy) tea"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(billy) tea",
+          "trap": null
         },
         {
           "number": 16,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "damper"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "damper",
+          "trap": null
         },
         {
           "number": 17,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "Possum Prowl"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Possum Prowl",
+          "trap": null
         },
         {
           "number": 18,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "torch"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "torch",
+          "trap": null
         },
         {
           "number": 19,
-          "type": "table-completion",
-          "prompt": "coffee, biscuits peace,",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "non-slip shoes"
+          "type": "sentence-completion",
+          "groupId": "p1g6",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "non-slip shoes",
+          "trap": null
         },
         {
           "number": 20,
-          "type": "table-completion",
+          "type": "sentence-completion",
+          "groupId": "p1g6",
           "prompt": "",
-          "instruction": "writers cafe Dante Trattoria, Shop 4, Spring Centre, Soldier’s Road, Neutral Bay. Ph: 953 1212 OPEN: 8 am-midnight CUISINE: Italian influence, menu changes every four months. Breakfast includes toast, pancakes, smoked salmon, scrambled eggs, gourmet sausages and fruit; light meals and lunch menu includes pasta, salad, crepes, seafood, soups, focaccia, burgers, desserts. PRICES: Breakfast $4.50 – $8.90 Lunch $6.90-513.90 ATMOSPHERE: Relaxed and quiet. Patronscan dine inside or out. CREDIT CARDS: Yes E Part of each instruction is underlined.ln boxes 7-12 on your answer sheet write: E if the underlilled section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CR if the underlilled seclioll is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Do not boil eggs in their shell (unless otherwise stated). 7. Whilst heating liquids which contain air (e.g. milk or milk based flUids), stir several times during heating to avoid spillage of the liquid from the container. 8. Potatoes, apples, egg yolks, whole squash and sausages afe all foods with non- porous skins. This type of food must be pierced before cooking. to prevent bursting. 9. Do not dry clothes or other materials in the oven. They may catch on fire. 10. Do not cook food directly on glass oven tray unless indicated in recipes. Food should be placed in a suitable cooking utensil. 11. Do not hit control panel. Damage to controls may occur. 12. Clean the oven, the door and the seals with water and a mild detergent at regular intervals. Never use an abrasive cleaner that may scratch the surfaces around the door. Questions 13-20 Read the “Guided Walks and Nature Activities” information below, and answer Questions 13-20. Answer the questions below by writing the letters of the appropriate advertisements in boxes 1-6 on your answer sheet. 1 Which advertisement is not for a restaurant? 2 Which advertisement offer facilities for parties up to 90 people? 3 Which restaurant states that it serves breakfast? 4 Which restaurant will give you an extra serving if you present the coupon? 5 Which restaurant does not offer a takeaway service? 6 Which restaurant will bring the food you order to your house? The following text is a series of general instructions for using a microwave oven. Part of each instruction is underlined. In boxes 7-12 on your answer sheet write: E if the underlined section gives an EXAMPLE of the instruction R if the underlined section gives a REASON for the instruction CP if the underlined section is a CORRECT PROCEDURE. GENERAL INSTRUCTIONS FOR THE USE OF YOUR MICROWAVE Example Answer Do not boil eggs in their shell (unless otherwise stated). Pressure will build up and the eggs will explode                                              R 7 Whilst heating liquids which contain air (e.g. milk or milk based fluids), stir several times during heating to avoid spillage of the liquid from the container. 8 Potatoes, apples, egg yolks, whole squash and sausages are all foods with non-porous skins. This type of food must be pierced Below is a chart containing some of the Kuringai Chase Park Nature Activities. Fill in the blanks using information from the brochure “Guided Walks and Nature Activities”. Write NO MORE THAN THREE WORDS in boxes 13-20 on your answer sheet. ACTIVITY WHAT TO BRING/WEAR WHAT IS SUPPLIED CHIEF ATTRACTION EARLY MORNING STROLL",
-          "answer": "(lovely) (water) views"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(lovely) (water) views",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Below are tile course descriptions for five courses offered by a local community",
+      "title": "Reading Passage 2",
       "questionRange": [
         21,
         31
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\nBelow are tile course descriptions for five courses offered by a local community",
-        "tables": [],
+        "heading": "COURSE A",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Below are tile course descriptions for five courses offered by a local community\ncollege. Read the descriptions and answer questions 21-31."
+          },
+          {
+            "label": null,
+            "text": "Community College Courses"
+          },
+          {
+            "label": null,
+            "text": "If you have no previous experience with computers, or you have some gaps in\nyour knowledge of the basics, then this is an appropriate course for you. This\ncourse will give you a thorough grounding in the fundamental concepts of\ncomputing common to all computers. It is a practical \"hands on\" course that\nlooks at how a computer operates and how the programs work. Using three of\nthe most widely used programs in business, you will learn the basics of word\nprocessing, spreadsheets and databases. By the completion of the course you\nwill be productive at a basic level and competent to progress to the elementary\nlevel of any of the specialised programs. No previous computer skills assumed."
+          },
+          {
+            "label": null,
+            "text": "2 days"
+          },
+          {
+            "label": null,
+            "text": "Fee: $279"
+          },
+          {
+            "label": null,
+            "text": "25045 Wed/Thurs 12, 13 April 9.15 am-5.15 pm"
+          },
+          {
+            "label": null,
+            "text": "25006 Tues/Wed 30, 31 May 9.15 am-5.15 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE B"
+          },
+          {
+            "label": null,
+            "text": "In dealing with your customers you are in a position of great importance. Your\nabilities directly influence the company's bottom line. This course will look at\nways to revitalise the customer contact skills you already have and add many\nmore. Learn ways to improve your communication with customers, at all levels;\ntechniques to use with difficult customers, how to confidently handle"
+          },
+          {
+            "label": null,
+            "text": "complaints and keep your cool in stressful situations. Most importantly, you will\nlearn to build goodwill and trust with your customers. Course notes, lunch and\nrefreshments provided."
+          },
+          {
+            "label": null,
+            "text": "Joshua Smith"
+          },
+          {
+            "label": null,
+            "text": "Fee: $145"
+          },
+          {
+            "label": null,
+            "text": "25026 Sat 20 May 9.00 am- 4.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE C"
+          },
+          {
+            "label": null,
+            "text": "Everything you need to know before purchasing or starting a coffee shop,\ntearooms or small restaurant. A useful course for all aspiring owners,\nmanagers, and employees of these small businesses to assist them in ensuring\nthey don't make expensive mistakes and that their customers return again and\nagain... Bring lunch. Notes and manual available (if required) for $25 from\nTutor."
+          },
+          {
+            "label": null,
+            "text": "Sarah Bridge"
+          },
+          {
+            "label": null,
+            "text": "Fee: $55 (no concession)"
+          },
+          {
+            "label": null,
+            "text": "25252 Sat 6 May 10.00 am- 3.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE D"
+          },
+          {
+            "label": null,
+            "text": "This course covers three areas of business communication:"
+          },
+          {
+            "label": null,
+            "text": "Interpersonal Communication\nTelephone Skills\nBusiness Writing Skills\nLearning Outcomes: At the end of the course participants will be able to\neffectively: Plan and write workplace documents in plain English; gather, record\nand convey information using the telephone and in a face-to-face situation;\ninteract with clients within and external to the workplace about routine matters\nusing the telephone and face-to-face contact. An excellent course for those\nentering or returning to the workforce. A Statement of Competency is issued if\nthe assessment requirements are successfully completed."
+          },
+          {
+            "label": null,
+            "text": "Douglass McDougall"
+          },
+          {
+            "label": null,
+            "text": "Fee: $135"
+          },
+          {
+            "label": null,
+            "text": "25021 Wed 3 May-21 June 7.00-9.00 pm"
+          },
+          {
+            "label": null,
+            "text": "COURSE E"
+          },
+          {
+            "label": null,
+            "text": "Are you hating work, wanting a different job, needing a change or wanting a\npromotion? Come along to a new two day program for women. We will explore"
+          },
+          {
+            "label": null,
+            "text": "your work goals and what holds you back, your fears in a work environment\nand how you handle them, your image and what it says to others, your\ncommunication style and what it says. You will develop more confidence to\nmake changes, get clearer about what you want and have the courage to act. it\nis a relaxed, informative and fun workshop with lots of practical tips!"
+          },
+          {
+            "label": null,
+            "text": "Sophie Bradley"
+          },
+          {
+            "label": null,
+            "text": "Fee $199"
+          },
+          {
+            "label": null,
+            "text": "25036 Sun 18, 25 June 9.30 am - 4.30 pm"
+          }
+        ],
+        "text": "Below are tile course descriptions for five courses offered by a local community\ncollege. Read the descriptions and answer questions 21-31.\n\nCommunity College Courses\n\nIf you have no previous experience with computers, or you have some gaps in\nyour knowledge of the basics, then this is an appropriate course for you. This\ncourse will give you a thorough grounding in the fundamental concepts of\ncomputing common to all computers. It is a practical \"hands on\" course that\nlooks at how a computer operates and how the programs work. Using three of\nthe most widely used programs in business, you will learn the basics of word\nprocessing, spreadsheets and databases. By the completion of the course you\nwill be productive at a basic level and competent to progress to the elementary\nlevel of any of the specialised programs. No previous computer skills assumed.\n\n2 days\n\nFee: $279\n\n25045 Wed/Thurs 12, 13 April 9.15 am-5.15 pm\n\n25006 Tues/Wed 30, 31 May 9.15 am-5.15 pm\n\nCOURSE B\n\nIn dealing with your customers you are in a position of great importance. Your\nabilities directly influence the company's bottom line. This course will look at\nways to revitalise the customer contact skills you already have and add many\nmore. Learn ways to improve your communication with customers, at all levels;\ntechniques to use with difficult customers, how to confidently handle\n\ncomplaints and keep your cool in stressful situations. Most importantly, you will\nlearn to build goodwill and trust with your customers. Course notes, lunch and\nrefreshments provided.\n\nJoshua Smith\n\nFee: $145\n\n25026 Sat 20 May 9.00 am- 4.00 pm\n\nCOURSE C\n\nEverything you need to know before purchasing or starting a coffee shop,\ntearooms or small restaurant. A useful course for all aspiring owners,\nmanagers, and employees of these small businesses to assist them in ensuring\nthey don't make expensive mistakes and that their customers return again and\nagain... Bring lunch. Notes and manual available (if required) for $25 from\nTutor.\n\nSarah Bridge\n\nFee: $55 (no concession)\n\n25252 Sat 6 May 10.00 am- 3.00 pm\n\nCOURSE D\n\nThis course covers three areas of business communication:\n\nInterpersonal Communication\nTelephone Skills\nBusiness Writing Skills\nLearning Outcomes: At the end of the course participants will be able to\neffectively: Plan and write workplace documents in plain English; gather, record\nand convey information using the telephone and in a face-to-face situation;\ninteract with clients within and external to the workplace about routine matters\nusing the telephone and face-to-face contact. An excellent course for those\nentering or returning to the workforce. A Statement of Competency is issued if\nthe assessment requirements are successfully completed.\n\nDouglass McDougall\n\nFee: $135\n\n25021 Wed 3 May-21 June 7.00-9.00 pm\n\nCOURSE E\n\nAre you hating work, wanting a different job, needing a change or wanting a\npromotion? Come along to a new two day program for women. We will explore\n\nyour work goals and what holds you back, your fears in a work environment\nand how you handle them, your image and what it says to others, your\ncommunication style and what it says. You will develop more confidence to\nmake changes, get clearer about what you want and have the courage to act. it\nis a relaxed, informative and fun workshop with lots of practical tips!\n\nSophie Bradley\n\nFee $199\n\n25036 Sun 18, 25 June 9.30 am - 4.30 pm",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "Choose the title which best fits each course and write the number i to ix in boxes 21-25 on your answer sheet. Note: there are more titles than you will need.",
+          "body": null,
+          "range": [
+            21,
+            25
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix"
+            ],
+            "labels": [
+              "Managing expansion in your restaurant",
+              "Making career changes for women",
+              "Effective workplace communication",
+              "Exceptional customer service",
+              "Advanced computing skills",
+              "Communicating effectively",
+              "Introductory computer skills",
+              "Restaurant management for non-managers",
+              "Business writing course"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "From the information about the courses, answer Questions 26 ' 30 by",
+          "body": null,
+          "range": [
+            26,
+            30
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Writing skills",
+              "Computers",
+              "Business Communication",
+              "Finance",
+              "Work goals",
+              "Management"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the subject from the list below and write its letter, A-F, in box 31 on your answer sheet.",
+          "body": null,
+          "range": [
+            31,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 21,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Which course is not specifically related to people's jobs?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "In which course are men not invited to participate?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Which course has course notes and lunch to go with\nthem?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Which course will deal with writing skills?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Which course is on at night?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
           "number": 31,
-          "type": "fill-in-blank-from-list",
+          "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "Three of the courses specifically cover the same subject.",
-          "instruction": "college. Read the descriptions and answer questions 21-31. Community College Courses COURSE A If you have no previous experience with computers, or you have some gaps in your knowledge of the basics, then this is an appropriate course for you. This course will give you a thorough grounding in the fundamental concepts of computing common to all computers. It is a practical “hands on” course that looks at how a computer operates and how the programs work. Using three of the most widely used programs in business, you will learn the basics of word processing, spreadsheets and databases. By the completion of the course you will be productive at a basic level and competent to progress to the elementary level of any of the specialised programs. No previous computer skills assumed. abilities directly influence the company’s bottom line. This course will look at ways to revitalise the customer contact skills you already have and add many more. Learn ways to improve your communication with customers, at all levels; techniques to use with difficult customers, how to confidently handle effectively: Plan and write workplace documents in plain English; gather, record and convey information using the telephone and in a face-to-face situation; interact with clients within and external to the workplace about routine matters using the telephone and face-to-face contact. An excellent course for those entering or returning to the workforce. A Statement of Competency is issued if the assessment requirements are successfully completed. Douglass McDougall Fee: $135 Choose the title which best fits each course and write the number i to ix in boxes 21-25 on your answer sheet. Note: there are more titles than you will need. i Managing expansion in your restaurant ii Making career changes for women iii Effective workplace communication iv Exceptional customer service v Advanced computing skills vi Communicating effectively vii Introductory computer skills viii Restaurant management for non-managers ix Business writing course Course A:       21 Course B:       22 Course C:       23 Course D:       24 Course E:       25 From the information about the courses, answer Questions 26 – 30 by writing the appropriate LETTER OR LETTERS A-E in boxes 26-30 on your answer sheet. 26 Which course is not specifically related to people’s jobs? 27 In which course are men not invited to participate? 28 Which course has course notes and lunch to go with them? 29 Which course will deal with writing skills? 30 Which course is on at night? Choose the subject from the list below and write its name in box 31 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": [
+            "Writing skills",
+            "Computers",
+            "Business Communication",
+            "Finance",
+            "Work goals",
+            "Management"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Great Inventions",
+      "title": "Reading Passage 3",
       "questionRange": [
         32,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 32-40, which are based on\nReading Passage 3 below.\nGreat Inventions\nThere are some things we use every day. Can you imagine a world without\nzippers to fasten clothing? Have you ever wondered about the layout of the\nkeyboard of a typewriter, which we see every day on the computer? These are\njust two of the many inventions which have made our lives easier. Maybe that’s\nwhy we don’t think about them very much!\nThe Zipper\nWhatever did we do before the invention of the zipper?\nIn 1893 the world’s first zipper was produced in Chicago. Although the inventor\nclaimed that it was a reliable fastening for clothing, this was not the case. The\nChicago zipper sprang open without warning, or jammed shut, and it swiftly lost\npopularity. Twenty years later a Swedish-born engineer called Sundback solved\nthe problem. He attached tiny cups to the backs of the interlocking teeth, and\nthis meant that the teeth could be enmeshed more firmly and reliably.\nAt first zippers were made of metal. They were heavy, and if they got stuck it\nwas difficult to free them. Then came nylon zippers which were lighter and\neasier to use, and had smaller teeth. The fashion industry liked the new zippers\nfar better because they did not distort the line of the garment or weigh down\nlight fabrics. They were also easier for the machinists to fit into the garment.\nMeanwhile a new fastening agent made its appearance at the end of the\ntwentieth century: velcro. Velcro is another product made from nylon. Nylon is\n\na very tough synthetic fibre first developed in the 1930s, and bearing a name\nto remind the hearer of the two places where it was developed: NY for New\nYork and LON for London. Velcro is made with very small nylon hooks on one\nside of the fastening which catch tiny looped whiskers on the other side of the\nfastening. It is strong and durable.\nVelcro is used on clothing, luggage and footwear. It is quick and easy to fasten\nand unfasten, and has taken a large part of the zipper’s share of the market. It\nis also used in ways a zipper cannot be used – for instance as an easily\nchanged fastening on plaster casts, and to hold furnishing fabrics in position.\nThe Typewriter and the Keyboard\nThe keyboard of the modern typewriter is laid out in a most odd fashion. Why\nwould anyone place the letters on the left side of the top row of the keyboard in\nthe order QWERTY? The answer is simple: to slow the typist down. But first,\nlet’s consider the history of the typewriter itself.\nIn the 1860’s a newspaper editor called Christopher Sholes lived in Milwaukee,\nUSA. Sholes invented the first of the modern typewriters, although there had\nbeen patents for typewriter-like machines as early as 1714, when Queen Anne\nof England granted a patent to a man called Henry Mill for a machine which\nwould make marks on paper “so neat and exact as not to be distinguished from\nprint“. In 1829, across the Atlantic in Detroit USA, William Austin Burt took out\na patent on a typewriter-like machine, four years before the French inventor\nXavier Projean produced his machine designed to record words at a speed\ncomparable to someone writing with a pen.\nSo the typewriter was not a new idea, although there had not been a successful\nrealisation of the idea before Christopher Sholes’ machine. His typewriter\nbecame very popular, and soon people learned to type very quickly – so\nquickly, in fact, that the keys became tangled. On manual typewriters the\ncharacters were set on the end of bars which rose to strike the paper when the\nkey was pressed. In the first models, the keys were set alphabetically. When a\nquick typist tapped out a word like federal, it was very likely the adjacent e and\nd keys would become entangled.\nSholes therefore set about finding ways to slow the typist down. He looked for\nthe letters which were most often used in English, and then placed them far\naway from each other. For instance, q and u, which are almost always used\ntogether in English, are separated by five intervening letters. The plan worked,\nand the typist was slowed down a little.\nWhen computers came into use in the latter part of the twentieth century it\n\nwas suggested that the keyboard should be rationalised. After all, there was no\nlonger any need to avoid clashing manual typewriter keys. One new board\nincluded keys which produced letters which frequently occur together in\nEnglish, like ing and th and ed, so the word thing would take two strokes to\nwrite instead of five. Although this made perfect sense, people found it very\nhard to learn to use a new keyboard, and the idea was dropped. It is unlikely\nthat the keyboard will ever be changed: as we approach the twenty-first\ncentury the voice-activated computer, already in an advanced state of\ndevelopment, is becoming more and more accessible. It is very likely that we\nwill soon have machines which take dictation as we speak to them, and the\nkeyboard will be used for corrections.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Great Inventions"
+          },
+          {
+            "label": null,
+            "text": "There are some things we use every day. Can you imagine a world without\nzippers to fasten clothing? Have you ever wondered about the layout of the\nkeyboard of a typewriter, which we see every day on the computer? These are\njust two of the many inventions which have made our lives easier. Maybe that's\nwhy we don't think about them very much!"
+          },
+          {
+            "label": null,
+            "text": "The Zipper"
+          },
+          {
+            "label": null,
+            "text": "Whatever did we do before the invention of the zipper?"
+          },
+          {
+            "label": null,
+            "text": "In 1893 the world's first zipper was produced in Chicago. Although the inventor\nclaimed that it was a reliable fastening for clothing, this was not the case. The\nChicago zipper sprang open without warning, or jammed shut, and it swiftly lost\npopularity. Twenty years later a Swedish-born engineer called Sundback solved\nthe problem. He attached tiny cups to the backs of the interlocking teeth, and\nthis meant that the teeth could be enmeshed more firmly and reliably."
+          },
+          {
+            "label": null,
+            "text": "At first zippers were made of metal. They were heavy, and if they got stuck it\nwas difficult to free them. Then came nylon zippers which were lighter and\neasier to use, and had smaller teeth. The fashion industry liked the new zippers\nfar better because they did not distort the line of the garment or weigh down\nlight fabrics. They were also easier for the machinists to fit into the garment."
+          },
+          {
+            "label": null,
+            "text": "Meanwhile a new fastening agent made its appearance at the end of the\ntwentieth century: velcro. Velcro is another product made from nylon. Nylon is"
+          },
+          {
+            "label": null,
+            "text": "a very tough synthetic fibre first developed in the 1930s, and bearing a name\nto remind the hearer of the two places where it was developed: NY for New\nYork and LON for London. Velcro is made with very small nylon hooks on one\nside of the fastening which catch tiny looped whiskers on the other side of the\nfastening. It is strong and durable."
+          },
+          {
+            "label": null,
+            "text": "Velcro is used on clothing, luggage and footwear. It is quick and easy to fasten\nand unfasten, and has taken a large part of the zipper's share of the market. It\nis also used in ways a zipper cannot be used - for instance as an easily\nchanged fastening on plaster casts, and to hold furnishing fabrics in position."
+          },
+          {
+            "label": null,
+            "text": "The Typewriter and the Keyboard"
+          },
+          {
+            "label": null,
+            "text": "The keyboard of the modern typewriter is laid out in a most odd fashion. Why\nwould anyone place the letters on the left side of the top row of the keyboard in\nthe order QWERTY? The answer is simple: to slow the typist down. But first,\nlet's consider the history of the typewriter itself."
+          },
+          {
+            "label": null,
+            "text": "In the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee,\nUSA. Sholes invented the first of the modern typewriters, although there had\nbeen patents for typewriter-like machines as early as 1714, when Queen Anne\nof England granted a patent to a man called Henry Mill for a machine which\nwould make marks on paper \"so neat and exact as not to be distinguished from\nprint\". In 1829, across the Atlantic in Detroit USA, William Austin Burt took out\na patent on a typewriter-like machine, four years before the French inventor\nXavier Projean produced his machine designed to record words at a speed\ncomparable to someone writing with a pen."
+          },
+          {
+            "label": null,
+            "text": "So the typewriter was not a new idea, although there had not been a successful\nrealisation of the idea before Christopher Sholes' machine. His typewriter\nbecame very popular, and soon people learned to type very quickly - so\nquickly, in fact, that the keys became tangled. On manual typewriters the\ncharacters were set on the end of bars which rose to strike the paper when the\nkey was pressed. In the first models, the keys were set alphabetically. When a\nquick typist tapped out a word like federal, it was very likely the adjacent e and\nd keys would become entangled."
+          },
+          {
+            "label": null,
+            "text": "Sholes therefore set about finding ways to slow the typist down. He looked for\nthe letters which were most often used in English, and then placed them far\naway from each other. For instance, q and u, which are almost always used\ntogether in English, are separated by five intervening letters. The plan worked,\nand the typist was slowed down a little."
+          },
+          {
+            "label": null,
+            "text": "When computers came into use in the latter part of the twentieth century it"
+          },
+          {
+            "label": null,
+            "text": "was suggested that the keyboard should be rationalised. After all, there was no\nlonger any need to avoid clashing manual typewriter keys. One new board\nincluded keys which produced letters which frequently occur together in\nEnglish, like ing and th and ed, so the word thing would take two strokes to\nwrite instead of five. Although this made perfect sense, people found it very\nhard to learn to use a new keyboard, and the idea was dropped. It is unlikely\nthat the keyboard will ever be changed: as we approach the twenty-first\ncentury the voice-activated computer, already in an advanced state of\ndevelopment, is becoming more and more accessible. It is very likely that we\nwill soon have machines which take dictation as we speak to them, and the\nkeyboard will be used for corrections."
+          }
+        ],
+        "text": "Great Inventions\n\nThere are some things we use every day. Can you imagine a world without\nzippers to fasten clothing? Have you ever wondered about the layout of the\nkeyboard of a typewriter, which we see every day on the computer? These are\njust two of the many inventions which have made our lives easier. Maybe that's\nwhy we don't think about them very much!\n\nThe Zipper\n\nWhatever did we do before the invention of the zipper?\n\nIn 1893 the world's first zipper was produced in Chicago. Although the inventor\nclaimed that it was a reliable fastening for clothing, this was not the case. The\nChicago zipper sprang open without warning, or jammed shut, and it swiftly lost\npopularity. Twenty years later a Swedish-born engineer called Sundback solved\nthe problem. He attached tiny cups to the backs of the interlocking teeth, and\nthis meant that the teeth could be enmeshed more firmly and reliably.\n\nAt first zippers were made of metal. They were heavy, and if they got stuck it\nwas difficult to free them. Then came nylon zippers which were lighter and\neasier to use, and had smaller teeth. The fashion industry liked the new zippers\nfar better because they did not distort the line of the garment or weigh down\nlight fabrics. They were also easier for the machinists to fit into the garment.\n\nMeanwhile a new fastening agent made its appearance at the end of the\ntwentieth century: velcro. Velcro is another product made from nylon. Nylon is\n\na very tough synthetic fibre first developed in the 1930s, and bearing a name\nto remind the hearer of the two places where it was developed: NY for New\nYork and LON for London. Velcro is made with very small nylon hooks on one\nside of the fastening which catch tiny looped whiskers on the other side of the\nfastening. It is strong and durable.\n\nVelcro is used on clothing, luggage and footwear. It is quick and easy to fasten\nand unfasten, and has taken a large part of the zipper's share of the market. It\nis also used in ways a zipper cannot be used - for instance as an easily\nchanged fastening on plaster casts, and to hold furnishing fabrics in position.\n\nThe Typewriter and the Keyboard\n\nThe keyboard of the modern typewriter is laid out in a most odd fashion. Why\nwould anyone place the letters on the left side of the top row of the keyboard in\nthe order QWERTY? The answer is simple: to slow the typist down. But first,\nlet's consider the history of the typewriter itself.\n\nIn the 1860's a newspaper editor called Christopher Sholes lived in Milwaukee,\nUSA. Sholes invented the first of the modern typewriters, although there had\nbeen patents for typewriter-like machines as early as 1714, when Queen Anne\nof England granted a patent to a man called Henry Mill for a machine which\nwould make marks on paper \"so neat and exact as not to be distinguished from\nprint\". In 1829, across the Atlantic in Detroit USA, William Austin Burt took out\na patent on a typewriter-like machine, four years before the French inventor\nXavier Projean produced his machine designed to record words at a speed\ncomparable to someone writing with a pen.\n\nSo the typewriter was not a new idea, although there had not been a successful\nrealisation of the idea before Christopher Sholes' machine. His typewriter\nbecame very popular, and soon people learned to type very quickly - so\nquickly, in fact, that the keys became tangled. On manual typewriters the\ncharacters were set on the end of bars which rose to strike the paper when the\nkey was pressed. In the first models, the keys were set alphabetically. When a\nquick typist tapped out a word like federal, it was very likely the adjacent e and\nd keys would become entangled.\n\nSholes therefore set about finding ways to slow the typist down. He looked for\nthe letters which were most often used in English, and then placed them far\naway from each other. For instance, q and u, which are almost always used\ntogether in English, are separated by five intervening letters. The plan worked,\nand the typist was slowed down a little.\n\nWhen computers came into use in the latter part of the twentieth century it\n\nwas suggested that the keyboard should be rationalised. After all, there was no\nlonger any need to avoid clashing manual typewriter keys. One new board\nincluded keys which produced letters which frequently occur together in\nEnglish, like ing and th and ed, so the word thing would take two strokes to\nwrite instead of five. Although this made perfect sense, people found it very\nhard to learn to use a new keyboard, and the idea was dropped. It is unlikely\nthat the keyboard will ever be changed: as we approach the twenty-first\ncentury the voice-activated computer, already in an advanced state of\ndevelopment, is becoming more and more accessible. It is very likely that we\nwill soon have machines which take dictation as we speak to them, and the\nkeyboard will be used for corrections.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-features",
+          "instruction": "From the information in the reading passage, classify the following events as occurring:",
+          "body": null,
+          "range": [
+            32,
+            37
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "before the nineteenth century",
+              "during the nineteenth century",
+              "in the first half of the twentieth century",
+              "at the end of the twentieth century"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Read the passage about Great Inventions and look at the statements below. In boxes 38 ' 42 on your answer sheet write",
+          "body": null,
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 32,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Sundback's zipper",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of nylon",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of velcro",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of the first typewriter-like machine",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "The first appearance of Sholes' typewriter",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "the development of the voice-activated computer",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
         {
           "number": 38,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "The first zipper was successful as a fastener.",
-          "instruction": "Write the appropriate letters A-D in boxes 32-37 on your answer sheet. 32 Sundback’s zipper 33 the development of nylon 34 the development of velcro 35 the development of the first typewriter-like machine 36 The first appearance of Sholes’ typewriter 37 the development of the voice-activated computer Read the passage about Great Inventions and look at the statements below. In boxes 38 – 42 on your answer sheet write",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "Nylon was used a lot during the Second World War, 1939-1945.",
-          "instruction": "Write the appropriate letters A-D in boxes 32-37 on your answer sheet. 32 Sundback’s zipper 33 the development of nylon 34 the development of velcro 35 the development of the first typewriter-like machine 36 The first appearance of Sholes’ typewriter 37 the development of the voice-activated computer Read the passage about Great Inventions and look at the statements below. In boxes 38 – 42 on your answer sheet write",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "Nylon was used a lot during the Second World War,\n1939-1945.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
-          "prompt": "The first typewriter’s keyboard was different to the modern keyboard.",
-          "instruction": "Write the appropriate letters A-D in boxes 32-37 on your answer sheet. 32 Sundback’s zipper 33 the development of nylon 34 the development of velcro 35 the development of the first typewriter-like machine 36 The first appearance of Sholes’ typewriter 37 the development of the voice-activated computer Read the passage about Great Inventions and look at the statements below. In boxes 38 – 42 on your answer sheet write",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "The first typewriter's keyboard was different to the\nmodern keyboard.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     }

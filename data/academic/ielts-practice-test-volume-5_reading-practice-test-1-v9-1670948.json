@@ -1,415 +1,1146 @@
 {
   "id": "ielts-practice-test-volume-5_reading-practice-test-1-v9-1670948",
   "type": "academic",
-  "source": "ielts-practice-test-volume-5 reading-practice-test-1-v9-1670948",
+  "title": "IELTS Practice Test Volume 5 - Reading Test 1",
+  "collection": "IELTS Practice Test Volume 5",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 5,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-test-volume-5_reading-practice-test-1-v9-1670948.pdf",
-  "total_questions": 22,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Reading Passage One.",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage One.\nFordlandia\nNatural latex, or rubber, comes from the sap of rubber trees. Native to the\nAmazon region of South America, they had long been a Brazilian monopoly,\nand the boom in wild rubber had made many remote jungle towns rich, until\nthousands of seeds of the tree were smuggled out by an entrepreneurial Brit,\nHenry Wickham. These were used to start plantations throughout British East-\nAsia, where the trees, facing none of their natural insect or fungal enemies,\nthrived. Thus, the Brazilian rubber boom crashed, leaving control of the world’s\nsupplies with the plantation owners in Malaysia (where to this day, most of the\nworld’s natural rubber is still produced).\nBut in the late 1920s, the automobile tycoon, Henry Ford, had a vision. He\nbelieved in vertical integration—that is, a supply chain of car parts and\nproducts united through his ownership. With his factories producing hundreds\nof thousands of cars, each of them needing rubber tyres, Ford wanted his own\nsource of rubber and resented dealing with the British plantation interests. He\ntherefore decided to buy a huge tract of Amazonian rainforest, where he would\ntransplant his American workers and lifestyle, in order to make the largest\nrubber plantation on the planet. It would be called Fordlandia — ambitious,\ngrandiose, and doomed from the beginning.\nThe ﬁrst mistake was to hire a rather untrustworthy Brazilian to scout for the\nbest location in the Amazon, This man recommended a damp, rocky, and\ninfertile series of hillsides near the Tapajos river, a tributary of the wide and\n\nmighty Amazon. In 1928, Ford blindly acquired a 10,000-square-kilometre\nconcession and immediately ordered an immense amount of infrastructure to\nbe built—at huge cost. To this end, earth-moving equipment arrived, tractors,\nstump-pullers, \ntrains, \nprefabricated \nliving \nquarters, \nand \nfood-making\nequipment. The surface jungle was cleared, scores of Ford’s employees were\nrelocated, and out of this wilderness sprang an instant slice of America,\ncomplete with a modern hospital, library, hotels, ice cream makers, and row\nupon row of prefabricated houses positioned along nicely paved streets.\nThe second big mistake was that, incredibly, Ford never thought to consult\ntrained horticulturists. He naively assumed that his own company engineers,\nwho had proven their worth in the production of cars, would prove equally\nadept at this agricultural endeavour. Thus, they planted the rubber trees\nthickly together, believing that they would nourish in their home environment.\nHowever, in the Amazonian jungle, wild rubber trees are actually few and far\nbetween — a defence against the prodigious insect life which chews, drills,\nsucks, and bites. In such environments, monocultural farming approaches are\ndubious at best. Ford’s young rubber trees had no sooner appeared from the\nground than they were attacked by caterpillars, ants, red spiders, and most\nsigniﬁcantly, South American leaf blight, which, to this day, limits the number\nof rubber plantations in this, the tree’s native land.\nThe next problem was based on cultural diﬀerences. The newly planted ﬁelds\nneeded hundreds of local workers, who, although well paid, were expected to\nfollow Ford’s patronising vision of a healthy lifestyle. Instead of the local\ncustom of working before and after the roastingly hot middle of the day, Ford’s\nworkers were forced to do the standard company 9-to-5 shift. Similarly, they\nhad to eat American food and take part in weekend activities considered\nsuﬃciently wholesome, such as poetry reading and square-dancing. Alcohol\nwas strictly forbidden at work, in the housing estates, or within Fordlandia’s\nsphere of inﬂuence. After a year denied their local customs, the disgruntled\nworkers had had enough, and a riot followed, leaving the hapless American\nstaﬀ scurrying into the jungle to escape injury. It was all ﬁnally quelled with the\narrival of the Brazilian army.\nAfter three years, and no signiﬁcant quantity of rubber to show for it all, Ford\ndid what he should have done from the beginning—hired a trained\nhorticulturist, who ultimately concluded that, in whatever manner the rubber\ntrees were planted, the land was not appropriate for their cultivation. With such\nhumiliating news, anyone less stubborn would have given up, yet Ford\npurchased another tract of land some ﬁfty miles downstream of the Tapajos\nriver—ﬂatter, drier, better drained, and more suitable for machinery — and\n\nstarted all over again. This time, Ford imported blight-resistant Malaysian\nrubber trees, and much more horticultural expertise. Still, 10 years later, in\n1942, the operation could only produce a paltry 750 tons of latex rubber.\nFord’s factories were hoping for almost 40,000.\nThe ﬁnal nail in the coﬃn was the development of synthetic rubber, and in\n1945, it was time to admit defeat, although it was not Ford who did so. By that\ntime he was old and ill and had relinquished control of his company to his\ngrandson, Henry Ford II, who closed down the entire rubber operation. The\nholdings were sold back to the Brazilian government for a pittance, leaving a\nloss of over $20 million (which would be over 10 times that much in today’s\nterms) — a complete and utter financial disaster.",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 4,
-            "rows": [
-              [
-                "",
-                "Fordlandia's Problems",
-                "Result of these"
-              ],
-              [
-                "One",
-                "first piece of land not 5 for\nrubber trees",
-                "no 6 of rubber\nproduced"
-              ]
-            ],
-            "header": [
-              "",
-              "Fordlandia's Problems",
-              "Result of these"
-            ]
+            "label": null,
+            "text": "Fordlandia"
           },
           {
-            "page": 5,
-            "rows": [
-              [
-                "Two",
-                "7 were infamiliar with farming",
-                "an unwise 8\napproach"
-              ],
-              [
-                "Three",
-                "not following 9",
-                "10\na"
-              ]
-            ],
-            "header": [
-              "Two",
-              "7 were infamiliar with farming",
-              "an unwise 8\napproach"
-            ]
+            "label": null,
+            "text": "Natural latex, or rubber, comes from the sap of rubber trees. Native to the\nAmazon region of South America, they had long been a Brazilian monopoly,\nand the boom in wild rubber had made many remote jungle towns rich, until\nthousands of seeds of the tree were smuggled out by an entrepreneurial Brit,\nHenry Wickham. These were used to start plantations throughout British East-\nAsia, where the trees, facing none of their natural insect or fungal enemies,\nthrived. Thus, the Brazilian rubber boom crashed, leaving control of the world's\nsupplies with the plantation owners in Malaysia (where to this day, most of the\nworld's natural rubber is still produced)."
+          },
+          {
+            "label": null,
+            "text": "But in the late 1920s, the automobile tycoon, Henry Ford, had a vision. He\nbelieved in vertical integration-that is, a supply chain of car parts and\nproducts united through his ownership. With his factories producing hundreds\nof thousands of cars, each of them needing rubber tyres, Ford wanted his own\nsource of rubber and resented dealing with the British plantation interests. He\ntherefore decided to buy a huge tract of Amazonian rainforest, where he would\ntransplant his American workers and lifestyle, in order to make the largest\nrubber plantation on the planet. It would be called Fordlandia - ambitious,\ngrandiose, and doomed from the beginning."
+          },
+          {
+            "label": null,
+            "text": "The ﬁrst mistake was to hire a rather untrustworthy Brazilian to scout for the\nbest location in the Amazon, This man recommended a damp, rocky, and\ninfertile series of hillsides near the Tapajos river, a tributary of the wide and"
+          },
+          {
+            "label": null,
+            "text": "mighty Amazon. In 1928, Ford blindly acquired a 10,000-square-kilometre\nconcession and immediately ordered an immense amount of infrastructure to\nbe built-at huge cost. To this end, earth-moving equipment arrived, tractors,\nstump-pullers, \ntrains, \nprefabricated \nliving \nquarters, \nand \nfood-making\nequipment. The surface jungle was cleared, scores of Ford's employees were\nrelocated, and out of this wilderness sprang an instant slice of America,\ncomplete with a modern hospital, library, hotels, ice cream makers, and row\nupon row of prefabricated houses positioned along nicely paved streets."
+          },
+          {
+            "label": null,
+            "text": "The second big mistake was that, incredibly, Ford never thought to consult\ntrained horticulturists. He naively assumed that his own company engineers,\nwho had proven their worth in the production of cars, would prove equally\nadept at this agricultural endeavour. Thus, they planted the rubber trees\nthickly together, believing that they would nourish in their home environment.\nHowever, in the Amazonian jungle, wild rubber trees are actually few and far\nbetween - a defence against the prodigious insect life which chews, drills,\nsucks, and bites. In such environments, monocultural farming approaches are\ndubious at best. Ford's young rubber trees had no sooner appeared from the\nground than they were attacked by caterpillars, ants, red spiders, and most\nsigniﬁcantly, South American leaf blight, which, to this day, limits the number\nof rubber plantations in this, the tree's native land."
+          },
+          {
+            "label": null,
+            "text": "The next problem was based on cultural diﬀerences. The newly planted ﬁelds\nneeded hundreds of local workers, who, although well paid, were expected to\nfollow Ford's patronising vision of a healthy lifestyle. Instead of the local\ncustom of working before and after the roastingly hot middle of the day, Ford's\nworkers were forced to do the standard company 9-to-5 shift. Similarly, they\nhad to eat American food and take part in weekend activities considered\nsuﬃciently wholesome, such as poetry reading and square-dancing. Alcohol\nwas strictly forbidden at work, in the housing estates, or within Fordlandia's\nsphere of inﬂuence. After a year denied their local customs, the disgruntled\nworkers had had enough, and a riot followed, leaving the hapless American\nstaﬀ scurrying into the jungle to escape injury. It was all ﬁnally quelled with the\narrival of the Brazilian army."
+          },
+          {
+            "label": null,
+            "text": "After three years, and no signiﬁcant quantity of rubber to show for it all, Ford\ndid what he should have done from the beginning-hired a trained\nhorticulturist, who ultimately concluded that, in whatever manner the rubber\ntrees were planted, the land was not appropriate for their cultivation. With such\nhumiliating news, anyone less stubborn would have given up, yet Ford\npurchased another tract of land some ﬁfty miles downstream of the Tapajos\nriver-ﬂatter, drier, better drained, and more suitable for machinery - and"
+          },
+          {
+            "label": null,
+            "text": "started all over again. This time, Ford imported blight-resistant Malaysian\nrubber trees, and much more horticultural expertise. Still, 10 years later, in\n1942, the operation could only produce a paltry 750 tons of latex rubber.\nFord's factories were hoping for almost 40,000."
+          },
+          {
+            "label": null,
+            "text": "The ﬁnal nail in the coﬃn was the development of synthetic rubber, and in\n1945, it was time to admit defeat, although it was not Ford who did so. By that\ntime he was old and ill and had relinquished control of his company to his\ngrandson, Henry Ford II, who closed down the entire rubber operation. The\nholdings were sold back to the Brazilian government for a pittance, leaving a\nloss of over $20 million (which would be over 10 times that much in today's\nterms) - a complete and utter financial disaster."
           }
         ],
+        "text": "Fordlandia\n\nNatural latex, or rubber, comes from the sap of rubber trees. Native to the\nAmazon region of South America, they had long been a Brazilian monopoly,\nand the boom in wild rubber had made many remote jungle towns rich, until\nthousands of seeds of the tree were smuggled out by an entrepreneurial Brit,\nHenry Wickham. These were used to start plantations throughout British East-\nAsia, where the trees, facing none of their natural insect or fungal enemies,\nthrived. Thus, the Brazilian rubber boom crashed, leaving control of the world's\nsupplies with the plantation owners in Malaysia (where to this day, most of the\nworld's natural rubber is still produced).\n\nBut in the late 1920s, the automobile tycoon, Henry Ford, had a vision. He\nbelieved in vertical integration-that is, a supply chain of car parts and\nproducts united through his ownership. With his factories producing hundreds\nof thousands of cars, each of them needing rubber tyres, Ford wanted his own\nsource of rubber and resented dealing with the British plantation interests. He\ntherefore decided to buy a huge tract of Amazonian rainforest, where he would\ntransplant his American workers and lifestyle, in order to make the largest\nrubber plantation on the planet. It would be called Fordlandia - ambitious,\ngrandiose, and doomed from the beginning.\n\nThe ﬁrst mistake was to hire a rather untrustworthy Brazilian to scout for the\nbest location in the Amazon, This man recommended a damp, rocky, and\ninfertile series of hillsides near the Tapajos river, a tributary of the wide and\n\nmighty Amazon. In 1928, Ford blindly acquired a 10,000-square-kilometre\nconcession and immediately ordered an immense amount of infrastructure to\nbe built-at huge cost. To this end, earth-moving equipment arrived, tractors,\nstump-pullers, \ntrains, \nprefabricated \nliving \nquarters, \nand \nfood-making\nequipment. The surface jungle was cleared, scores of Ford's employees were\nrelocated, and out of this wilderness sprang an instant slice of America,\ncomplete with a modern hospital, library, hotels, ice cream makers, and row\nupon row of prefabricated houses positioned along nicely paved streets.\n\nThe second big mistake was that, incredibly, Ford never thought to consult\ntrained horticulturists. He naively assumed that his own company engineers,\nwho had proven their worth in the production of cars, would prove equally\nadept at this agricultural endeavour. Thus, they planted the rubber trees\nthickly together, believing that they would nourish in their home environment.\nHowever, in the Amazonian jungle, wild rubber trees are actually few and far\nbetween - a defence against the prodigious insect life which chews, drills,\nsucks, and bites. In such environments, monocultural farming approaches are\ndubious at best. Ford's young rubber trees had no sooner appeared from the\nground than they were attacked by caterpillars, ants, red spiders, and most\nsigniﬁcantly, South American leaf blight, which, to this day, limits the number\nof rubber plantations in this, the tree's native land.\n\nThe next problem was based on cultural diﬀerences. The newly planted ﬁelds\nneeded hundreds of local workers, who, although well paid, were expected to\nfollow Ford's patronising vision of a healthy lifestyle. Instead of the local\ncustom of working before and after the roastingly hot middle of the day, Ford's\nworkers were forced to do the standard company 9-to-5 shift. Similarly, they\nhad to eat American food and take part in weekend activities considered\nsuﬃciently wholesome, such as poetry reading and square-dancing. Alcohol\nwas strictly forbidden at work, in the housing estates, or within Fordlandia's\nsphere of inﬂuence. After a year denied their local customs, the disgruntled\nworkers had had enough, and a riot followed, leaving the hapless American\nstaﬀ scurrying into the jungle to escape injury. It was all ﬁnally quelled with the\narrival of the Brazilian army.\n\nAfter three years, and no signiﬁcant quantity of rubber to show for it all, Ford\ndid what he should have done from the beginning-hired a trained\nhorticulturist, who ultimately concluded that, in whatever manner the rubber\ntrees were planted, the land was not appropriate for their cultivation. With such\nhumiliating news, anyone less stubborn would have given up, yet Ford\npurchased another tract of land some ﬁfty miles downstream of the Tapajos\nriver-ﬂatter, drier, better drained, and more suitable for machinery - and\n\nstarted all over again. This time, Ford imported blight-resistant Malaysian\nrubber trees, and much more horticultural expertise. Still, 10 years later, in\n1942, the operation could only produce a paltry 750 tons of latex rubber.\nFord's factories were hoping for almost 40,000.\n\nThe ﬁnal nail in the coﬃn was the development of synthetic rubber, and in\n1945, it was time to admit defeat, although it was not Ford who did so. By that\ntime he was old and ill and had relinquished control of his company to his\ngrandson, Henry Ford II, who closed down the entire rubber operation. The\nholdings were sold back to the Brazilian government for a pittance, leaving a\nloss of over $20 million (which would be over 10 times that much in today's\nterms) - a complete and utter financial disaster.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": "Fordlandia's Problems and Result of these table. One: Problem 'first piece of land not [[5]] for rubber trees', Result 'no [[6]] of rubber produced'. Two: Problem '[[7]] were unfamiliar with farming', Result 'an unwise [[8]] approach'. Three: Problem 'not following [[9]]', Result 'a [[10]]'.",
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": "The natural enemy of rubber trees is [[11]] Plantations definitely need the skills of [[12]] Fordlandia closed down upon the invention of [[13]]",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "Henry Wickham destroyed the Brazilian rubber boom.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Henry Wickham destroyed the Brazilian rubber",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Rubber trees are well suited to Malaysia.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "The Tapajos river is very wide.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "Fordlandia may have succeeded. Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "Fordlandia may have succeeded.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "appropriate",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "significant quantity",
+          "trap": null
         },
         {
           "number": 7,
           "type": "table-completion",
-          "prompt": "were infamiliar with farming an unwise 8 approach Three not following 9",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "Company engineers"
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Company engineers",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "monocultural (farming)",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "local customs",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "riot (followed)",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "leaf blight",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "trained horticulturists",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "synthetic rubber",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Reading Passage Two.",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage Two.\nShakespeare: The Authorship Question\nIf one were asked to name the greatest writer in the English language, few\nwould hesitate in answering, ‘William Shakespeare’. Although he dabbled in\npoetry, his central claim to fame is his plays, almost 40 of them. Extensively\nstudied, constantly performed, adapted, and reinterpreted into modern\ncontexts, Shakespeare’s plays remain as popular as ever. But did he write\nthem, that is the question?\nThe immediate reaction is to wonder why anyone would even ask this.\nAlthough there is little documentary evidence of Shakespeare’s life, what does\nexist unequivocally identiﬁes him as the author of the plays. His name appears\non title pages of a few publications, printing orders, and theatrical documents,\nand is mentioned by contemporary commentators and a fellow playwright,\nboth publicly and in private memoirs, in every case in a way that is consistent\nwith Shakespeare being the author. Consequently, for hundreds of years, no\none held any doubts whatsoever on the matter.\nThere it would have remained, had Shakespeare’s post-humous reputation not\nreached such lofty heights. With the widespread acceptance of his dramatic\ngenius, apparent inconsistencies were perceived. Chief among these was how\nsuch literature could originate from, as viewed by some, a humble ill-educated\ncountry bumpkin and bawdy stage entrepreneur, about whom so little was\nknown. Details of Shakespeare’s schooling and upbringing in the small market\ntown of Stratford-Upon-Avon are non-existent, but among his surviving children\n\nthere is no evidence of strong education or even basic literacy skills. No\noriginal written texts have ever been found, and Shakespeare’s six surviving\nsignatures are all unsteady, showing inconsistent style and spelling.\nMost tellingly for some are the circumstances of Shakespeare's death. Firstly,\nthere is his will, a commonplace and unpoetic document, making no mention\nwhatsoever of the considerable body of papers, reference books, and\nmiscellaneous plays, poetry, and writings that one would expect a playwright\nof Shakespeare’s stature to possess. Apparently he was unconcerned about the\nrights to both his own plays (many of which remained unpublished at that time)\nand his own literary heritage. The second fact is that, upon his death, there\nwere no eulogies, mourning notices, or testimonies from those who knew him.\nAll this seems very perplexing for a playwright and poet who, whilst not\nnecessarily considered the most polished, professional, or learned by his peers,\nhad nevertheless achieved considerable wealth, respect, and fame, even in his\nown lifetime.\nSuch thoughts ﬁrst became public in the mid-19th century -- and have never\nreally slopped, developing the grand title, ‘The Shakespeare authorship\nquestion\", and dividing those interested into two sides: the Stratfordians: those\nwho support Shakespeare as the author, and the anti-Stratfordians: those who\ndo not. For the latter body, the only way to overcome the documentary\nevidence in support of Shakespeare’s authorship is to assume a conspiracy\nexisted among a select group of people, perhaps including Shakespeare\nhimself, in order to protect the real author’s identity. So who was he (and in\nthose times, it goes without saying that it could not be a ‘she’)?\nThe anti-Stratfordians search for a university-educated, upper-class candidate\n— someone who would inevitably have had knowledge of aristocratic manners\nand mores, and familiarity with the proceedings and politics of the royal court,\nall of which so often appear in the plays themselves. The reason for the\nconspiracy is that producing such works, full with themes of royal revenge and\nmurder, intrigue and assassination, mob rule and rebellion, could render a\nnobleman liable to the dangerous charge of subversion. Some have also argued\nthat, at that time, it was considered socially unacceptable for the upper-class\nto publish creative literature for monetary gain, being instead conﬁned to\ncirculating their writings among their peers, or seeing them performed among\ncourtly audiences.\nThere are four leading contenders. Sir Francis Bacon was the ﬁrst nominated,\nand certainly had the best intellectual credentials, being well-versed in law,\nphilosophy, essay writing, and science. However, since the 1920s, Edward de\nVere, an aristocratic earl who patronised and sponsored actors and the arts,\n\nhas become the leading contender. Only slightly less favoured is a fellow\nplaywright, Christopher Marlowe. Born into the same social class as\nShakespeare, he at least went to university, although his early death in a\ntavern brawl presents diﬃculties — unless one assumes his demise was\nfabricated to allow him to continue writing under Shakespeare’s name. Finally,\nthere is William Stanley, another aristocratic earl. Contemporary accounts\nattest to the fact that he wrote plays for the common people, and throughout\nhis life he displayed interest and support for the theatre.\nAnd the evidence? Mere historical and literary conjecture, vague similarities in\nwriting styles, and loose coincidences between the lives and travels of these\ncontenders when compared to the scenes and settings of many of the plays in\nquestion. In other words, nothing solid at all. The case is so ﬂimsy that\nreputable scholars barely discuss it, and rightly so. Although capable of\nattracting public interest and selling books, unless some real evidence\nemerges, I would say that the authorship question is not questionable at all.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Shakespeare: The Authorship Question"
+          },
+          {
+            "label": null,
+            "text": "If one were asked to name the greatest writer in the English language, few\nwould hesitate in answering, 'William Shakespeare'. Although he dabbled in\npoetry, his central claim to fame is his plays, almost 40 of them. Extensively\nstudied, constantly performed, adapted, and reinterpreted into modern\ncontexts, Shakespeare's plays remain as popular as ever. But did he write\nthem, that is the question?"
+          },
+          {
+            "label": null,
+            "text": "The immediate reaction is to wonder why anyone would even ask this.\nAlthough there is little documentary evidence of Shakespeare's life, what does\nexist unequivocally identiﬁes him as the author of the plays. His name appears\non title pages of a few publications, printing orders, and theatrical documents,\nand is mentioned by contemporary commentators and a fellow playwright,\nboth publicly and in private memoirs, in every case in a way that is consistent\nwith Shakespeare being the author. Consequently, for hundreds of years, no\none held any doubts whatsoever on the matter."
+          },
+          {
+            "label": null,
+            "text": "There it would have remained, had Shakespeare's post-humous reputation not\nreached such lofty heights. With the widespread acceptance of his dramatic\ngenius, apparent inconsistencies were perceived. Chief among these was how\nsuch literature could originate from, as viewed by some, a humble ill-educated\ncountry bumpkin and bawdy stage entrepreneur, about whom so little was\nknown. Details of Shakespeare's schooling and upbringing in the small market\ntown of Stratford-Upon-Avon are non-existent, but among his surviving children"
+          },
+          {
+            "label": null,
+            "text": "there is no evidence of strong education or even basic literacy skills. No\noriginal written texts have ever been found, and Shakespeare's six surviving\nsignatures are all unsteady, showing inconsistent style and spelling."
+          },
+          {
+            "label": null,
+            "text": "Most tellingly for some are the circumstances of Shakespeare's death. Firstly,\nthere is his will, a commonplace and unpoetic document, making no mention\nwhatsoever of the considerable body of papers, reference books, and\nmiscellaneous plays, poetry, and writings that one would expect a playwright\nof Shakespeare's stature to possess. Apparently he was unconcerned about the\nrights to both his own plays (many of which remained unpublished at that time)\nand his own literary heritage. The second fact is that, upon his death, there\nwere no eulogies, mourning notices, or testimonies from those who knew him.\nAll this seems very perplexing for a playwright and poet who, whilst not\nnecessarily considered the most polished, professional, or learned by his peers,\nhad nevertheless achieved considerable wealth, respect, and fame, even in his\nown lifetime."
+          },
+          {
+            "label": null,
+            "text": "Such thoughts ﬁrst became public in the mid-19th century -- and have never\nreally slopped, developing the grand title, 'The Shakespeare authorship\nquestion\", and dividing those interested into two sides: the Stratfordians: those\nwho support Shakespeare as the author, and the anti-Stratfordians: those who\ndo not. For the latter body, the only way to overcome the documentary\nevidence in support of Shakespeare's authorship is to assume a conspiracy\nexisted among a select group of people, perhaps including Shakespeare\nhimself, in order to protect the real author's identity. So who was he (and in\nthose times, it goes without saying that it could not be a 'she')?"
+          },
+          {
+            "label": null,
+            "text": "The anti-Stratfordians search for a university-educated, upper-class candidate\n- someone who would inevitably have had knowledge of aristocratic manners\nand mores, and familiarity with the proceedings and politics of the royal court,\nall of which so often appear in the plays themselves. The reason for the\nconspiracy is that producing such works, full with themes of royal revenge and\nmurder, intrigue and assassination, mob rule and rebellion, could render a\nnobleman liable to the dangerous charge of subversion. Some have also argued\nthat, at that time, it was considered socially unacceptable for the upper-class\nto publish creative literature for monetary gain, being instead conﬁned to\ncirculating their writings among their peers, or seeing them performed among\ncourtly audiences."
+          },
+          {
+            "label": null,
+            "text": "There are four leading contenders. Sir Francis Bacon was the ﬁrst nominated,\nand certainly had the best intellectual credentials, being well-versed in law,\nphilosophy, essay writing, and science. However, since the 1920s, Edward de\nVere, an aristocratic earl who patronised and sponsored actors and the arts,"
+          },
+          {
+            "label": null,
+            "text": "has become the leading contender. Only slightly less favoured is a fellow\nplaywright, Christopher Marlowe. Born into the same social class as\nShakespeare, he at least went to university, although his early death in a\ntavern brawl presents diﬃculties - unless one assumes his demise was\nfabricated to allow him to continue writing under Shakespeare's name. Finally,\nthere is William Stanley, another aristocratic earl. Contemporary accounts\nattest to the fact that he wrote plays for the common people, and throughout\nhis life he displayed interest and support for the theatre."
+          },
+          {
+            "label": null,
+            "text": "And the evidence? Mere historical and literary conjecture, vague similarities in\nwriting styles, and loose coincidences between the lives and travels of these\ncontenders when compared to the scenes and settings of many of the plays in\nquestion. In other words, nothing solid at all. The case is so ﬂimsy that\nreputable scholars barely discuss it, and rightly so. Although capable of\nattracting public interest and selling books, unless some real evidence\nemerges, I would say that the authorship question is not questionable at all."
+          }
+        ],
+        "text": "Shakespeare: The Authorship Question\n\nIf one were asked to name the greatest writer in the English language, few\nwould hesitate in answering, 'William Shakespeare'. Although he dabbled in\npoetry, his central claim to fame is his plays, almost 40 of them. Extensively\nstudied, constantly performed, adapted, and reinterpreted into modern\ncontexts, Shakespeare's plays remain as popular as ever. But did he write\nthem, that is the question?\n\nThe immediate reaction is to wonder why anyone would even ask this.\nAlthough there is little documentary evidence of Shakespeare's life, what does\nexist unequivocally identiﬁes him as the author of the plays. His name appears\non title pages of a few publications, printing orders, and theatrical documents,\nand is mentioned by contemporary commentators and a fellow playwright,\nboth publicly and in private memoirs, in every case in a way that is consistent\nwith Shakespeare being the author. Consequently, for hundreds of years, no\none held any doubts whatsoever on the matter.\n\nThere it would have remained, had Shakespeare's post-humous reputation not\nreached such lofty heights. With the widespread acceptance of his dramatic\ngenius, apparent inconsistencies were perceived. Chief among these was how\nsuch literature could originate from, as viewed by some, a humble ill-educated\ncountry bumpkin and bawdy stage entrepreneur, about whom so little was\nknown. Details of Shakespeare's schooling and upbringing in the small market\ntown of Stratford-Upon-Avon are non-existent, but among his surviving children\n\nthere is no evidence of strong education or even basic literacy skills. No\noriginal written texts have ever been found, and Shakespeare's six surviving\nsignatures are all unsteady, showing inconsistent style and spelling.\n\nMost tellingly for some are the circumstances of Shakespeare's death. Firstly,\nthere is his will, a commonplace and unpoetic document, making no mention\nwhatsoever of the considerable body of papers, reference books, and\nmiscellaneous plays, poetry, and writings that one would expect a playwright\nof Shakespeare's stature to possess. Apparently he was unconcerned about the\nrights to both his own plays (many of which remained unpublished at that time)\nand his own literary heritage. The second fact is that, upon his death, there\nwere no eulogies, mourning notices, or testimonies from those who knew him.\nAll this seems very perplexing for a playwright and poet who, whilst not\nnecessarily considered the most polished, professional, or learned by his peers,\nhad nevertheless achieved considerable wealth, respect, and fame, even in his\nown lifetime.\n\nSuch thoughts ﬁrst became public in the mid-19th century -- and have never\nreally slopped, developing the grand title, 'The Shakespeare authorship\nquestion\", and dividing those interested into two sides: the Stratfordians: those\nwho support Shakespeare as the author, and the anti-Stratfordians: those who\ndo not. For the latter body, the only way to overcome the documentary\nevidence in support of Shakespeare's authorship is to assume a conspiracy\nexisted among a select group of people, perhaps including Shakespeare\nhimself, in order to protect the real author's identity. So who was he (and in\nthose times, it goes without saying that it could not be a 'she')?\n\nThe anti-Stratfordians search for a university-educated, upper-class candidate\n- someone who would inevitably have had knowledge of aristocratic manners\nand mores, and familiarity with the proceedings and politics of the royal court,\nall of which so often appear in the plays themselves. The reason for the\nconspiracy is that producing such works, full with themes of royal revenge and\nmurder, intrigue and assassination, mob rule and rebellion, could render a\nnobleman liable to the dangerous charge of subversion. Some have also argued\nthat, at that time, it was considered socially unacceptable for the upper-class\nto publish creative literature for monetary gain, being instead conﬁned to\ncirculating their writings among their peers, or seeing them performed among\ncourtly audiences.\n\nThere are four leading contenders. Sir Francis Bacon was the ﬁrst nominated,\nand certainly had the best intellectual credentials, being well-versed in law,\nphilosophy, essay writing, and science. However, since the 1920s, Edward de\nVere, an aristocratic earl who patronised and sponsored actors and the arts,\n\nhas become the leading contender. Only slightly less favoured is a fellow\nplaywright, Christopher Marlowe. Born into the same social class as\nShakespeare, he at least went to university, although his early death in a\ntavern brawl presents diﬃculties - unless one assumes his demise was\nfabricated to allow him to continue writing under Shakespeare's name. Finally,\nthere is William Stanley, another aristocratic earl. Contemporary accounts\nattest to the fact that he wrote plays for the common people, and throughout\nhis life he displayed interest and support for the theatre.\n\nAnd the evidence? Mere historical and literary conjecture, vague similarities in\nwriting styles, and loose coincidences between the lives and travels of these\ncontenders when compared to the scenes and settings of many of the plays in\nquestion. In other words, nothing solid at all. The case is so ﬂimsy that\nreputable scholars barely discuss it, and rightly so. Although capable of\nattracting public interest and selling books, unless some real evidence\nemerges, I would say that the authorship question is not questionable at all.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences. Choose ONE WORD from the passage for each answer.",
+          "body": "We have six examples of Shakespeare's [[18]] He used ordinary language in his [[19]] The lack of public grieving upon his death is [[20]] Those who believe Shakespeare was not the author are called [[21]]",
+          "range": [
+            18,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "diagram-label",
+          "instruction": "Complete the flowchart below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 22-24.",
+          "body": "The argument for an Aristpcratic author. Stage 1: Writing commercial plays was ... dangerous and [[22]]. Stage 2: Real author needed to [[23]]. Stage 3: A conspiracy was arranged (with Shakespeare, too). Stage 4: This counters the [[24]] supporting Shakespeare's authorship.",
+          "range": [
+            22,
+            24
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C, or D.",
+          "body": null,
+          "range": [
+            25,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
           "type": "true-false-not-given",
-          "prompt": "Shakespeare’s name appears on many documents.",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "Shakespeare's name appears on many documents.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 15,
           "type": "true-false-not-given",
+          "groupId": "p2g1",
           "prompt": "He was considered a genius even in his lifetime.",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
+          "groupId": "p2g1",
           "prompt": "He was well-educated.",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "When he died, not all the plays had been published. Complete the sentences. Choose ONE WORD from the passage for each answer. We have six examples of Shakespeare’s 18",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "When he died, not all the plays had been published.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "signature(s)",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "will",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "perplexing",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "anti-Stratfordians",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "socially unacceptable",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "protect (his) identity",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "diagram-label",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "documentary evidence",
+          "trap": null
         },
         {
           "number": 25,
-          "type": "true-false-not-given",
+          "type": "multiple-choice",
+          "groupId": "p2g4",
           "prompt": "Which sentence was mentioned in the reading passage?",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE Complete the sentences. Choose ONE WORD from the passage for each answer. We have six examples of Shakespeare’s 18 He used ordinary language in his 19 Complete the flowchart. Choose NO MORE THAN THREE WORDS from the passage for each answer. 22 23 24 Choose the correct letter, A, B, C, or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Sir Francis Bacon was the smartest of the candidates.",
+            "Edward de Vere was in the same social class as Shakespeare.",
+            "Christopher Marlowe is the prime candidate.",
+            "William Stanley wrote plays for courtly audiences."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 26,
-          "type": "true-false-not-given",
+          "type": "multiple-choice",
+          "groupId": "p2g4",
           "prompt": "The author believes that Shakespeare",
-          "instruction": "Write TRUE, FALSE, or NOT GIVEN. TRUE Complete the sentences. Choose ONE WORD from the passage for each answer. We have six examples of Shakespeare’s 18 He used ordinary language in his 19 Complete the flowchart. Choose NO MORE THAN THREE WORDS from the passage for each answer. 22 23 24 Choose the correct letter, A, B, C, or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "did not write the plays.",
+            "may not have written the plays.",
+            "probably wrote the plays.",
+            "certainly wrote the plays. Reading Passage 3 You should spend about 20 minutes on Questions 27-40, which are based on Reading Passage Three. The Immunisation Controversy A. Carl Sagan once said, `Science loses ground to pseudo-science because the latter seems to offer more comfort.' Yes, hard science, proven facts, and indisputable logic are often not sufficiently consoling, and thus routinely eliminated from the equation. Never, though, has this been more distressing than with the so-called `anti-vaccination' movement. The end result has been the needless death of very young children, the most helpless of bystanders, and yet it seems there is no end in sight. B. It is strange to believe that vaccination, with such a long and distinguished track record, is now under assault. Smallpox, for example, had killed over half a billion human beings throughout history but was eradicated -- completely removed from the face of the Earth -- via immunisation programs. Similarly, polio, rubella, whooping cough, measles, and a slew of other diseases which routinely decimated the youth are now, virtually, things of the past. The days of high infant mortality, short life spans, and nasty brutish lives are indeed long gone, and we owe it all to this crucial insight into disease prevention. C . And this is part of the problem. With the once terrible epidemics lying outside of human memory, a growing number of people are convinced that vaccinations are no longer necessary, and that the small risk of adverse effects outweighs the benefits. One reason for this belief is that many genetic disorders related to brain impairment often emerge at around two years of age -- that is, the same period in which babies receive vaccinations. If one in a hundred babies is destined to develop autism among a vaccinated group, then observable symptoms of the problem will likely appear after a vaccination shot, leading distraught parents to link one event to the other. D . This misattribution is compounded by the Internet, which now hosts a sprawling forum of anti-vaccination lobby groups and their websites, full with unsubstantiated claims, fraudulent research, anecdotal evidence, and the passionate tirades of multitudes, firmly convinced of the correctness of their case. Authority is undermined, statistics ignored, and hard science excluded. Is it so surprising? If creationists and alternative medicine practitioners can gain respectability and widespread public and political support, so too can the pseudo-scicnce of the anti-vaccinationists. When faced with this wave of propaganda, it would be hard for many parents, motivated by the intense desire to protect their children, not to be influenced. E . At this point, it must be clarified that there is no credible evidence whatsoever to support the anti-vaccinationists' claims. Over a score of peer- reviewed studies have found nothing to link the MMR (measles/mumps/rubella) vaccine to autism, or even the more subtle neurological problems, and every reason to continue with vaccinations. The so-called increase in autism so often attributed to vaccinations merely results from more accurate diagnoses. Children who in the past would have been labeled as `retarded' or `slow' are now identified as having one of the three main grades of autism (which is probably genetically determined). Yet this argument falls on deaf ears, and the counter-claimants have succeeded in reducing vaccination rates among certain communities to the extent that outbreaks of preventable childhood illnesses (such as polio, meningitis, and measles) are occurring. F. The MMR controversy is a sad case. In 1998, a high-profile paper linked this vaccine to autism. It was later shown that the author was receiving funds from various groups engaged in a lawsuit against vaccine manufacturers, and that the study was both ethically and methodologically faulty. Data had been manipulated, and results misreported. Similar studies found no link whatsoever, and in 2004, the medical journal which hosted the original article formally retracted its conclusion. Yet vaccination rates in the UK. had dropped to 80% in the subsequent years. In late 1999, a measles outbreak occurred in North Dublin (which had vaccination rates as low as 60%), resulting in 100 hospitalisations and three deaths. G. One of the key arguments of the anti-vaccinationists is that they have the right to choose their medication. These people attack what they see as the impersonal, intrusive, and uncaring edifice of modern medical science. However, the success of immunisation programs depends on a sufficiently high number of the population being immune, which forces the disease to die out through lack of carriers. If there are enough susceptible individuals to provide a chain of disease transmission, safety is compromised for all, and this is why free choice should not be an issue, particularly when the hard evidence presents an overwhelming case. Personally, I would have thought that when children started dying from preventable diseases, the anti-vaccinationists' case would die also. H . But there are other agendas at play. Anti-vaccinationists can posture as moral crusaders, dismissing those who support immunisation as being in the payment of big pharmaceutical companies, whom they see as dishonest and immoral. Talk show hosts, women's magazines, paid `experts', lawyers, and media celebrities, all benefit from creating controversy when none existed, while alternative medicine practitioners and snake-oil salesmen all oppose vaccination, believing that their own slew of pills, potions, and unproven expensive treatments do the job better. Against all this, how can rational science prevail?"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Reading Passage Three.",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage Three.\nThe Immunisation Controversy\nA. Carl Sagan once said, ‘Science loses ground to pseudo-science because the\nlatter seems to oﬀer more comfort.’ Yes, hard science, proven facts, and\nindisputable logic are often not suﬃciently consoling, and thus routinely\neliminated from the equation. Never, though, has this been more distressing\nthan with the so-called ‘anti-vaccination’ movement. The end result has been\nthe needless death of very young children, the most helpless of bystanders,\nand yet it seems there is no end in sight.\nB. It is strange to believe that vaccination, with such a long and distinguished\ntrack record, is now under assault. Smallpox, for example, had killed over half\na billion human beings throughout history but was eradicated — completely\nremoved from the face of the Earth — via immunisation programs. Similarly,\npolio, rubella, whooping cough, measles, and a slew of other diseases which\nroutinely decimated the youth are now, virtually, things of the past. The days of\nhigh infant mortality, short life spans, and nasty brutish lives are indeed long\ngone, and we owe it all to this crucial insight into disease prevention.\nC . And this is part of the problem. With the once terrible epidemics lying\noutside of human memory, a growing number of people are convinced that\nvaccinations are no longer necessary, and that the small risk of adverse eﬀects\noutweighs the beneﬁts. One reason for this belief is that many genetic\ndisorders related to brain impairment often emerge at around two years of age\n— that is, the same period in which babies receive vaccinations. If one in a\n\nhundred babies is destined to develop autism among a vaccinated group, then\nobservable symptoms of the problem will likely appear after a vaccination shot,\nleading distraught parents to link one event to the other.\nD . This misattribution is compounded by the Internet, which now hosts a\nsprawling forum of anti-vaccination lobby groups and their websites, full with\nunsubstantiated claims, fraudulent research, anecdotal evidence, and the\npassionate tirades of multitudes, ﬁrmly convinced of the correctness of their\ncase. Authority is undermined, statistics ignored, and hard science excluded. Is\nit so surprising? If creationists and alternative medicine practitioners can gain\nrespectability and widespread public and political support, so too can the\npseudo-scicnce of the anti-vaccinationists. When faced with this wave of\npropaganda, it would be hard for many parents, motivated by the intense\ndesire to protect their children, not to be influenced.\nE . At this point, it must be clariﬁed that there is no credible evidence\nwhatsoever to support the anti-vaccinationists’ claims. Over a score of peer-\nreviewed studies have found nothing to link the MMR (measles/mumps/rubella)\nvaccine to autism, or even the more subtle neurological problems, and every\nreason to continue with vaccinations. The so-called increase in autism so often\nattributed to vaccinations merely results from more accurate diagnoses.\nChildren who in the past would have been labeled as ‘retarded’ or ‘slow’ are\nnow identiﬁed as having one of the three main grades of autism (which is\nprobably genetically determined). Yet this argument falls on deaf ears, and the\ncounter-claimants have succeeded in reducing vaccination rates among certain\ncommunities to the extent that outbreaks of preventable childhood illnesses\n(such as polio, meningitis, and measles) are occurring.\nF. The MMR controversy is a sad case. In 1998, a high-proﬁle paper linked this\nvaccine to autism. It was later shown that the author was receiving funds from\nvarious groups engaged in a lawsuit against vaccine manufacturers, and that\nthe study was both ethically and methodologically faulty. Data had been\nmanipulated, and results misreported. Similar studies found no link\nwhatsoever, and in 2004, the medical journal which hosted the original article\nformally retracted its conclusion. Yet vaccination rates in the UK. had dropped\nto 80% in the subsequent years. In late 1999, a measles outbreak occurred in\nNorth Dublin (which had vaccination rates as low as 60%), resulting in 100\nhospitalisations and three deaths.\nG. One of the key arguments of the anti-vaccinationists is that they have the\nright to choose their medication. These people attack what they see as the\nimpersonal, intrusive, and uncaring ediﬁce of modern medical science.\nHowever, the success of immunisation programs depends on a suﬃciently high\n\nnumber of the population being immune, which forces the disease to die out\nthrough lack of carriers. If there are enough susceptible individuals to provide a\nchain of disease transmission, safety is compromised for all, and this is why\nfree choice should not be an issue, particularly when the hard evidence\npresents an overwhelming case. Personally, I would have thought that when\nchildren started dying from preventable diseases, the anti-vaccinationists’ case\nwould die also.\nH . But there are other agendas at play. Anti-vaccinationists can posture as\nmoral crusaders, dismissing those who support immunisation as being in the\npayment of big pharmaceutical companies, whom they see as dishonest and\nimmoral. Talk show hosts, women’s magazines, paid ‘experts’, lawyers, and\nmedia celebrities, all beneﬁt from creating controversy when none existed,\nwhile alternative medicine practitioners and snake-oil salesmen all oppose\nvaccination, believing that their own slew of pills, potions, and unproven\nexpensive treatments do the job better. Against all this, how can rational\nscience prevail?",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 13,
-            "rows": [
-              [
-                "number of the population being immune, which forces the disease to die out\nthrough lack of carriers. If there are enough susceptible individuals to provide a\nchain of disease transmission, safety is compromised for all, and this is why\nfree choice should not be an issue, particularly when the hard evidence\npresents an overwhelming case. Personally, I would have thought that when\nchildren started dying from preventable diseases, the anti-vaccinationists’ case\nwould die also.\nH . But there are other agendas at play. Anti-vaccinationists can posture as\nmoral crusaders, dismissing those who support immunisation as being in the\npayment of big pharmaceutical companies, whom they see as dishonest and\nimmoral. Talk show hosts, women’s magazines, paid ‘experts’, lawyers, and\nmedia celebrities, all benefit from creating controversy when none existed,\nwhile alternative medicine practitioners and snake-oil salesmen all oppose\nvaccination, believing that their own slew of pills, potions, and unproven\nexpensive treatments do the job better. Against all this, how can rational\nscience prevail?\nQuestions 27-33\nReading Passage Three has seven paragraphs, A-H.\nChoose the correct heading for Paragraphs B-H from the list of headings.\nWrite the correct number, i-x, for each answer.\nList of Headings\ni Easy publicity\nii Increasing outbreaks of disease\niii Some real reasons\niv All or nothing\nv Autism on the rise\nvi Past successes\nvii A sad consequence\nviii An unfortunate coincidence\nix A simple explanation\nx Some dubious evidence\nExample Answer\nParagraph A ..... vii ......",
-                null
-              ],
-              [
-                "Example",
-                "Answer"
-              ],
-              [
-                "Paragraph A",
-                "..... vii ......"
-              ]
-            ],
-            "header": [
-              "number of the population being immune, which forces the disease to die out\nthrough lack of carriers. If there are enough susceptible individuals to provide a\nchain of disease transmission, safety is compromised for all, and this is why\nfree choice should not be an issue, particularly when the hard evidence\npresents an overwhelming case. Personally, I would have thought that when\nchildren started dying from preventable diseases, the anti-vaccinationists’ case\nwould die also.\nH . But there are other agendas at play. Anti-vaccinationists can posture as\nmoral crusaders, dismissing those who support immunisation as being in the\npayment of big pharmaceutical companies, whom they see as dishonest and\nimmoral. Talk show hosts, women’s magazines, paid ‘experts’, lawyers, and\nmedia celebrities, all benefit from creating controversy when none existed,\nwhile alternative medicine practitioners and snake-oil salesmen all oppose\nvaccination, believing that their own slew of pills, potions, and unproven\nexpensive treatments do the job better. Against all this, how can rational\nscience prevail?\nQuestions 27-33\nReading Passage Three has seven paragraphs, A-H.\nChoose the correct heading for Paragraphs B-H from the list of headings.\nWrite the correct number, i-x, for each answer.\nList of Headings\ni Easy publicity\nii Increasing outbreaks of disease\niii Some real reasons\niv All or nothing\nv Autism on the rise\nvi Past successes\nvii A sad consequence\nviii An unfortunate coincidence\nix A simple explanation\nx Some dubious evidence\nExample Answer\nParagraph A ..... vii ......",
-              null
-            ]
+            "label": null,
+            "text": "The Immunisation Controversy"
           },
           {
-            "page": 14,
-            "rows": [
-              [
-                "27",
-                "Paragraph B"
-              ],
-              [
-                "28",
-                "Paragraph C"
-              ],
-              [
-                "29",
-                "Paragraph D"
-              ],
-              [
-                "30",
-                "Paragraph E"
-              ],
-              [
-                "31",
-                "Paragraph F"
-              ],
-              [
-                "32",
-                "Paragraph G"
-              ],
-              [
-                "33",
-                "Paragraph H"
-              ]
-            ],
-            "header": [
-              "27",
-              "Paragraph B"
-            ]
+            "label": null,
+            "text": "A. Carl Sagan once said, 'Science loses ground to pseudo-science because the\nlatter seems to oﬀer more comfort.' Yes, hard science, proven facts, and\nindisputable logic are often not suﬃciently consoling, and thus routinely\neliminated from the equation. Never, though, has this been more distressing\nthan with the so-called 'anti-vaccination' movement. The end result has been\nthe needless death of very young children, the most helpless of bystanders,\nand yet it seems there is no end in sight."
+          },
+          {
+            "label": null,
+            "text": "B. It is strange to believe that vaccination, with such a long and distinguished\ntrack record, is now under assault. Smallpox, for example, had killed over half\na billion human beings throughout history but was eradicated - completely\nremoved from the face of the Earth - via immunisation programs. Similarly,\npolio, rubella, whooping cough, measles, and a slew of other diseases which\nroutinely decimated the youth are now, virtually, things of the past. The days of\nhigh infant mortality, short life spans, and nasty brutish lives are indeed long\ngone, and we owe it all to this crucial insight into disease prevention."
+          },
+          {
+            "label": null,
+            "text": "C . And this is part of the problem. With the once terrible epidemics lying\noutside of human memory, a growing number of people are convinced that\nvaccinations are no longer necessary, and that the small risk of adverse eﬀects\noutweighs the beneﬁts. One reason for this belief is that many genetic\ndisorders related to brain impairment often emerge at around two years of age\n- that is, the same period in which babies receive vaccinations. If one in a"
+          },
+          {
+            "label": null,
+            "text": "hundred babies is destined to develop autism among a vaccinated group, then\nobservable symptoms of the problem will likely appear after a vaccination shot,\nleading distraught parents to link one event to the other."
+          },
+          {
+            "label": null,
+            "text": "D . This misattribution is compounded by the Internet, which now hosts a\nsprawling forum of anti-vaccination lobby groups and their websites, full with\nunsubstantiated claims, fraudulent research, anecdotal evidence, and the\npassionate tirades of multitudes, ﬁrmly convinced of the correctness of their\ncase. Authority is undermined, statistics ignored, and hard science excluded. Is\nit so surprising? If creationists and alternative medicine practitioners can gain\nrespectability and widespread public and political support, so too can the\npseudo-scicnce of the anti-vaccinationists. When faced with this wave of\npropaganda, it would be hard for many parents, motivated by the intense\ndesire to protect their children, not to be influenced."
+          },
+          {
+            "label": null,
+            "text": "E . At this point, it must be clariﬁed that there is no credible evidence\nwhatsoever to support the anti-vaccinationists' claims. Over a score of peer-\nreviewed studies have found nothing to link the MMR (measles/mumps/rubella)\nvaccine to autism, or even the more subtle neurological problems, and every\nreason to continue with vaccinations. The so-called increase in autism so often\nattributed to vaccinations merely results from more accurate diagnoses.\nChildren who in the past would have been labeled as 'retarded' or 'slow' are\nnow identiﬁed as having one of the three main grades of autism (which is\nprobably genetically determined). Yet this argument falls on deaf ears, and the\ncounter-claimants have succeeded in reducing vaccination rates among certain\ncommunities to the extent that outbreaks of preventable childhood illnesses\n(such as polio, meningitis, and measles) are occurring."
+          },
+          {
+            "label": null,
+            "text": "F. The MMR controversy is a sad case. In 1998, a high-proﬁle paper linked this\nvaccine to autism. It was later shown that the author was receiving funds from\nvarious groups engaged in a lawsuit against vaccine manufacturers, and that\nthe study was both ethically and methodologically faulty. Data had been\nmanipulated, and results misreported. Similar studies found no link\nwhatsoever, and in 2004, the medical journal which hosted the original article\nformally retracted its conclusion. Yet vaccination rates in the UK. had dropped\nto 80% in the subsequent years. In late 1999, a measles outbreak occurred in\nNorth Dublin (which had vaccination rates as low as 60%), resulting in 100\nhospitalisations and three deaths."
+          },
+          {
+            "label": null,
+            "text": "G. One of the key arguments of the anti-vaccinationists is that they have the\nright to choose their medication. These people attack what they see as the\nimpersonal, intrusive, and uncaring ediﬁce of modern medical science.\nHowever, the success of immunisation programs depends on a suﬃciently high"
+          },
+          {
+            "label": null,
+            "text": "number of the population being immune, which forces the disease to die out\nthrough lack of carriers. If there are enough susceptible individuals to provide a\nchain of disease transmission, safety is compromised for all, and this is why\nfree choice should not be an issue, particularly when the hard evidence\npresents an overwhelming case. Personally, I would have thought that when\nchildren started dying from preventable diseases, the anti-vaccinationists' case\nwould die also."
+          },
+          {
+            "label": null,
+            "text": "H . But there are other agendas at play. Anti-vaccinationists can posture as\nmoral crusaders, dismissing those who support immunisation as being in the\npayment of big pharmaceutical companies, whom they see as dishonest and\nimmoral. Talk show hosts, women's magazines, paid 'experts', lawyers, and\nmedia celebrities, all beneﬁt from creating controversy when none existed,\nwhile alternative medicine practitioners and snake-oil salesmen all oppose\nvaccination, believing that their own slew of pills, potions, and unproven\nexpensive treatments do the job better. Against all this, how can rational\nscience prevail?"
           }
         ],
+        "text": "The Immunisation Controversy\n\nA. Carl Sagan once said, 'Science loses ground to pseudo-science because the\nlatter seems to oﬀer more comfort.' Yes, hard science, proven facts, and\nindisputable logic are often not suﬃciently consoling, and thus routinely\neliminated from the equation. Never, though, has this been more distressing\nthan with the so-called 'anti-vaccination' movement. The end result has been\nthe needless death of very young children, the most helpless of bystanders,\nand yet it seems there is no end in sight.\n\nB. It is strange to believe that vaccination, with such a long and distinguished\ntrack record, is now under assault. Smallpox, for example, had killed over half\na billion human beings throughout history but was eradicated - completely\nremoved from the face of the Earth - via immunisation programs. Similarly,\npolio, rubella, whooping cough, measles, and a slew of other diseases which\nroutinely decimated the youth are now, virtually, things of the past. The days of\nhigh infant mortality, short life spans, and nasty brutish lives are indeed long\ngone, and we owe it all to this crucial insight into disease prevention.\n\nC . And this is part of the problem. With the once terrible epidemics lying\noutside of human memory, a growing number of people are convinced that\nvaccinations are no longer necessary, and that the small risk of adverse eﬀects\noutweighs the beneﬁts. One reason for this belief is that many genetic\ndisorders related to brain impairment often emerge at around two years of age\n- that is, the same period in which babies receive vaccinations. If one in a\n\nhundred babies is destined to develop autism among a vaccinated group, then\nobservable symptoms of the problem will likely appear after a vaccination shot,\nleading distraught parents to link one event to the other.\n\nD . This misattribution is compounded by the Internet, which now hosts a\nsprawling forum of anti-vaccination lobby groups and their websites, full with\nunsubstantiated claims, fraudulent research, anecdotal evidence, and the\npassionate tirades of multitudes, ﬁrmly convinced of the correctness of their\ncase. Authority is undermined, statistics ignored, and hard science excluded. Is\nit so surprising? If creationists and alternative medicine practitioners can gain\nrespectability and widespread public and political support, so too can the\npseudo-scicnce of the anti-vaccinationists. When faced with this wave of\npropaganda, it would be hard for many parents, motivated by the intense\ndesire to protect their children, not to be influenced.\n\nE . At this point, it must be clariﬁed that there is no credible evidence\nwhatsoever to support the anti-vaccinationists' claims. Over a score of peer-\nreviewed studies have found nothing to link the MMR (measles/mumps/rubella)\nvaccine to autism, or even the more subtle neurological problems, and every\nreason to continue with vaccinations. The so-called increase in autism so often\nattributed to vaccinations merely results from more accurate diagnoses.\nChildren who in the past would have been labeled as 'retarded' or 'slow' are\nnow identiﬁed as having one of the three main grades of autism (which is\nprobably genetically determined). Yet this argument falls on deaf ears, and the\ncounter-claimants have succeeded in reducing vaccination rates among certain\ncommunities to the extent that outbreaks of preventable childhood illnesses\n(such as polio, meningitis, and measles) are occurring.\n\nF. The MMR controversy is a sad case. In 1998, a high-proﬁle paper linked this\nvaccine to autism. It was later shown that the author was receiving funds from\nvarious groups engaged in a lawsuit against vaccine manufacturers, and that\nthe study was both ethically and methodologically faulty. Data had been\nmanipulated, and results misreported. Similar studies found no link\nwhatsoever, and in 2004, the medical journal which hosted the original article\nformally retracted its conclusion. Yet vaccination rates in the UK. had dropped\nto 80% in the subsequent years. In late 1999, a measles outbreak occurred in\nNorth Dublin (which had vaccination rates as low as 60%), resulting in 100\nhospitalisations and three deaths.\n\nG. One of the key arguments of the anti-vaccinationists is that they have the\nright to choose their medication. These people attack what they see as the\nimpersonal, intrusive, and uncaring ediﬁce of modern medical science.\nHowever, the success of immunisation programs depends on a suﬃciently high\n\nnumber of the population being immune, which forces the disease to die out\nthrough lack of carriers. If there are enough susceptible individuals to provide a\nchain of disease transmission, safety is compromised for all, and this is why\nfree choice should not be an issue, particularly when the hard evidence\npresents an overwhelming case. Personally, I would have thought that when\nchildren started dying from preventable diseases, the anti-vaccinationists' case\nwould die also.\n\nH . But there are other agendas at play. Anti-vaccinationists can posture as\nmoral crusaders, dismissing those who support immunisation as being in the\npayment of big pharmaceutical companies, whom they see as dishonest and\nimmoral. Talk show hosts, women's magazines, paid 'experts', lawyers, and\nmedia celebrities, all beneﬁt from creating controversy when none existed,\nwhile alternative medicine practitioners and snake-oil salesmen all oppose\nvaccination, believing that their own slew of pills, potions, and unproven\nexpensive treatments do the job better. Against all this, how can rational\nscience prevail?",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "Carl Sagan once said, ‘Science loses ground to pseudo-science because the"
-          },
-          {
-            "label": "B",
-            "content": "It is strange to believe that vaccination, with such a long and distinguished"
-          },
-          {
-            "label": "C",
-            "content": ". And this is part of the problem. With the once terrible epidemics lying"
-          },
-          {
-            "label": "D",
-            "content": ". This misattribution is compounded by the Internet, which now hosts a"
-          },
-          {
-            "label": "E",
-            "content": ". At this point, it must be clariﬁed that there is no credible evidence"
-          },
-          {
-            "label": "F",
-            "content": "The MMR controversy is a sad case. In 1998, a high-proﬁle paper linked this"
-          },
-          {
-            "label": "G",
-            "content": "One of the key arguments of the anti-vaccinationists is that they have the"
-          }
-        ]
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage Three has seven paragraphs, A-H.",
+          "body": null,
+          "range": [
+            27,
+            33
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Easy publicity",
+              "Increasing outbreaks of disease",
+              "Some real reasons",
+              "All or nothing",
+              "Autism on the rise",
+              "Past successes",
+              "A sad consequence",
+              "An unfortunate coincidence",
+              "A simple explanation",
+              "Some dubious evidence"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "fill-in-blank-from-list",
+          "instruction": "Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations?",
+          "body": null,
+          "range": [
+            34,
+            36
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": [
+              "Believing they cause problems",
+              "Wanting to save money",
+              "Wanting freedom of choice",
+              "Not believing drug manufacturers",
+              "The pain of vaccinations",
+              "The influence of creationists",
+              "Preferring alternative medicine"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph B",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "vi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 28,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph C",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "viii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 29,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph D",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "i"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
         },
         {
           "number": 30,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph E",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "ix"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
         },
         {
           "number": 31,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph F",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "x"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
         },
         {
           "number": 32,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph G",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "iv"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
         },
         {
           "number": 33,
           "type": "heading-matching",
-          "prompt": "Paragraph H Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ......",
-          "answer": "iii"
+          "groupId": "p3g1",
+          "prompt": "Paragraph H",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D",
+          "trap": null
         },
         {
           "number": 37,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "Autism is",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ...... Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations? A Choose the correct letter, A, B, C, or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "sometimes caused by vaccinations.",
+            "a very subtle neurological disorder.",
+            "most likely inherited.",
+            "increasing."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 38,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "The 1998 paper was",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ...... Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations? A Choose the correct letter, A, B, C, or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the cause of falling vaccination rates.",
+            "defended by the medical journal.",
+            "verified by other studies.",
+            "funded by patients."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 39,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "Vaccinations",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ...... Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations? A Choose the correct letter, A, B, C, or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "have removed most smallpox from the world.",
+            "are supported by solid evidence.",
+            "are defended on some websites.",
+            "are no longer necessary."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 40,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "Alternative medicine practitioners",
-          "instruction": "Choose the correct heading for Paragraphs B-H from the list of headings. Write the correct number, i-x, for each answer. List of Headings i Easy publicity ii Increasing outbreaks of disease iii Some real reasons iv All or nothing v Autism on the rise vi Past successes vii A sad consequence viii An unfortunate coincidence ix A simple explanation x Some dubious evidence Example Answer Paragraph A ..... vii ...... Choose THREE answers from the list and write the correct letter, A- G, next to the questions. For which THREE reasons, A-G, do anti-vaccinationists oppose vaccinations? A Choose the correct letter, A, B, C, or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "believe vaccinations are generally good.",
+            "can be impersonal and uncaring.",
+            "are often supported by politicians.",
+            "are often quite cheap."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     }
@@ -447,11 +1178,13 @@
     "30": "ix",
     "31": "x",
     "32": "iv",
-    "33": "iii",
-    "36": "A,C,D",
+    "34": "A,C,D",
     "37": "C",
     "38": "A",
     "39": "B",
-    "40": "C"
+    "40": "C",
+    "33": "iii",
+    "35": "A,C,D",
+    "36": "A,C,D"
   }
 }

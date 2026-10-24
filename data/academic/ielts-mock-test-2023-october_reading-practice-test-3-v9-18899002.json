@@ -1,324 +1,1219 @@
 {
   "id": "ielts-mock-test-2023-october_reading-practice-test-3-v9-18899002",
   "type": "academic",
-  "source": "ielts-mock-test-2023-october reading-practice-test-3-v9-18899002",
+  "title": "IELTS Academic 2023 October - Reading Test 3",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 3,
+  "year": 2023,
+  "month": 10,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-october_reading-practice-test-3-v9-18899002.pdf",
-  "total_questions": 20,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\non Reading Passage 1 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Grey Workers"
+          },
+          {
+            "label": "A",
+            "text": "Given the speed at which their workers are growing greyer, employers know\nsurprisingly little about how productive they are. The general assumption is\nthat the old are paid more in spite of, rather than because of, their extra\nproductivity. That might partly explain why, when employers are under\npressure to cut costs, they persuade the 55-year-olds to take early retirement.\nEarlier this year, Sun Life of Canada, an insurance company, announced that it\nwas offering redundancy to all its British employees aged 50 or over \"to bring\nin new blood\"."
+          },
+          {
+            "label": "B",
+            "text": "In Japan, says Mariko Fujiwara, an industrial anthropologist who runs a think-\ntank for Hakuhodo, Japan's second-largest advertising agency, most companies\nare bringing down the retirement age from the traditional 57 to 50 or\nthereabouts - and in some cases, such as Nissan, to 45. More than perhaps\nanywhere else, pay in Japan is linked to seniority. Given that the percentage of\nworkers who have spent more than 32 years with the same employer rose from\n11% in 1980 to 42% by 1994, it is hardly surprising that seniority-based wage\ncosts have become the most intractable item on corporate profit-and-loss\naccounts."
+          },
+          {
+            "label": "C",
+            "text": "In Germany, Patrick Pohl, spokesman for Hoechst, expresses a widely held\nview: \"The company is trying to lower the average age of the workforce.\nPerhaps the main reason for replacing older workers is that it makes it easier"
+          },
+          {
+            "label": null,
+            "text": "to 'defrost' the corporate culture. Older workers are less willing to try a new\nway of thinking. Younger workers are cheaper and more flexible.\" Some\nGerman firms are hampered from getting rid of older workers as quickly as\nthey would like. At SGL Carbon, a graphite producer, the average age of\nworkers has been going up not down. The reason, says the company's Ivo\nLingnau, is not that SGL values older workers more. It is collective bargaining:\nthe union agreement puts strict limits on the proportion of workers that may\nretire early."
+          },
+          {
+            "label": "D",
+            "text": "Clearly, when older people do heavy physical work, their age may affect their\nproductivity. But other skills may increase with age, including many that are\ncrucial for good management, such as an ability to handle people\ndiplomatically, to run a meeting or to spot a problem before it blows up. Peter\nHicks, who co-ordinates OECD work on the policy implications of ageing, says\nthat plenty of research suggests older people are paid more because they are\nworth more."
+          },
+          {
+            "label": "E",
+            "text": "And the virtues of the young may be exaggerated. \"The few companies that\nhave kept on older workers find they have good judgment and their\nproductivity is good,\" says Mr Peterson. \"Besides, their education standards are\nmuch better than those of today's young high-school graduates.\" Companies\nmay say that older workers are not worth training, because they are reaching\nthe end of their working lives: in fact, young people tend to switch jobs so\nfrequently that offer the worst returns on training. \"The median age for\nemployer-driven training is the late 40s and early 50s,\" says Mr Hicks. \"It goes\nmainly to managers.\""
+          },
+          {
+            "label": "F",
+            "text": "Take away those seniority-based pay scales, and older workers may become a\nmuch more attractive employment proposition. But most companies (and many\nworkers) are uncomfortable with the idea of reducing someone's pay in later\nlife - although workers on piece-fates often earn less over time. So retaining\nthe services of older workers may mean employing them in new ways."
+          },
+          {
+            "label": "G",
+            "text": "One innovation, described in Mr Walker's report on combating age barriers,\nwas devised by IBM Belgium. Faced with the need to cut staff costs, and have\ndecided to concentrate cuts on 55-60-year-olds, IBM set up a separate\ncompany called SkillTeam, which re-employed any of the early retired who"
+          },
+          {
+            "label": null,
+            "text": "wanted to go on working up to the age of 60. An employee who joined\nSkillTeam at the age of 55 on a five-year contract would work for 58% of his\ntime, over the full period, for 88% of his last IBM salary. The company offered\nservices to IBM, thus allowing it to retain access to some of the intellectual\ncapital it would otherwise have lost."
+          },
+          {
+            "label": "H",
+            "text": "The best way to tempt the old to go on working may be to build on such\n\"bridge\" jobs: part-time or temporary employment that creates a more gradual\ntransition from full-time work to retirement. Mr Quinn, who has studied the\nphenomenon, finds that, in the United States, nearly half of all men and\nwomen who had been in full-time jobs in middle age moved into such \"bridge\"\njobs at the end of their working lives. In general, it is the best-paid and worst-\npaid who carry on working: \"There are\", he says, \"two very different types of\nbridge jog-holders - those who continue working because they have to and\nthose who continue working because they want to, even though they could\nafford to retire.\""
+          },
+          {
+            "label": "I",
+            "text": "If the job market grows more flexible, the old may find more jobs that suit\nthem. Often, they will be self-employed. Sometimes, they may start their own\nbusinesses: a study by David Storey of Warwick University found that, in\nBritain, 70% of businesses started by people over 55 survived, compared with\nan average of only 19%. To coax the old back into the job market, work will not\nonly have to pay. It will need to be more fun than touring the country in an\nAirstream trailer, or seeing the grandchildren, or playing golf. Only then will\nthere be many more Joe Clarks."
+          }
+        ],
+        "text": "Grey Workers\n\nGiven the speed at which their workers are growing greyer, employers know\nsurprisingly little about how productive they are. The general assumption is\nthat the old are paid more in spite of, rather than because of, their extra\nproductivity. That might partly explain why, when employers are under\npressure to cut costs, they persuade the 55-year-olds to take early retirement.\nEarlier this year, Sun Life of Canada, an insurance company, announced that it\nwas offering redundancy to all its British employees aged 50 or over \"to bring\nin new blood\".\n\nIn Japan, says Mariko Fujiwara, an industrial anthropologist who runs a think-\ntank for Hakuhodo, Japan's second-largest advertising agency, most companies\nare bringing down the retirement age from the traditional 57 to 50 or\nthereabouts - and in some cases, such as Nissan, to 45. More than perhaps\nanywhere else, pay in Japan is linked to seniority. Given that the percentage of\nworkers who have spent more than 32 years with the same employer rose from\n11% in 1980 to 42% by 1994, it is hardly surprising that seniority-based wage\ncosts have become the most intractable item on corporate profit-and-loss\naccounts.\n\nIn Germany, Patrick Pohl, spokesman for Hoechst, expresses a widely held\nview: \"The company is trying to lower the average age of the workforce.\nPerhaps the main reason for replacing older workers is that it makes it easier\n\nto 'defrost' the corporate culture. Older workers are less willing to try a new\nway of thinking. Younger workers are cheaper and more flexible.\" Some\nGerman firms are hampered from getting rid of older workers as quickly as\nthey would like. At SGL Carbon, a graphite producer, the average age of\nworkers has been going up not down. The reason, says the company's Ivo\nLingnau, is not that SGL values older workers more. It is collective bargaining:\nthe union agreement puts strict limits on the proportion of workers that may\nretire early.\n\nClearly, when older people do heavy physical work, their age may affect their\nproductivity. But other skills may increase with age, including many that are\ncrucial for good management, such as an ability to handle people\ndiplomatically, to run a meeting or to spot a problem before it blows up. Peter\nHicks, who co-ordinates OECD work on the policy implications of ageing, says\nthat plenty of research suggests older people are paid more because they are\nworth more.\n\nAnd the virtues of the young may be exaggerated. \"The few companies that\nhave kept on older workers find they have good judgment and their\nproductivity is good,\" says Mr Peterson. \"Besides, their education standards are\nmuch better than those of today's young high-school graduates.\" Companies\nmay say that older workers are not worth training, because they are reaching\nthe end of their working lives: in fact, young people tend to switch jobs so\nfrequently that offer the worst returns on training. \"The median age for\nemployer-driven training is the late 40s and early 50s,\" says Mr Hicks. \"It goes\nmainly to managers.\"\n\nTake away those seniority-based pay scales, and older workers may become a\nmuch more attractive employment proposition. But most companies (and many\nworkers) are uncomfortable with the idea of reducing someone's pay in later\nlife - although workers on piece-fates often earn less over time. So retaining\nthe services of older workers may mean employing them in new ways.\n\nOne innovation, described in Mr Walker's report on combating age barriers,\nwas devised by IBM Belgium. Faced with the need to cut staff costs, and have\ndecided to concentrate cuts on 55-60-year-olds, IBM set up a separate\ncompany called SkillTeam, which re-employed any of the early retired who\n\nwanted to go on working up to the age of 60. An employee who joined\nSkillTeam at the age of 55 on a five-year contract would work for 58% of his\ntime, over the full period, for 88% of his last IBM salary. The company offered\nservices to IBM, thus allowing it to retain access to some of the intellectual\ncapital it would otherwise have lost.\n\nThe best way to tempt the old to go on working may be to build on such\n\"bridge\" jobs: part-time or temporary employment that creates a more gradual\ntransition from full-time work to retirement. Mr Quinn, who has studied the\nphenomenon, finds that, in the United States, nearly half of all men and\nwomen who had been in full-time jobs in middle age moved into such \"bridge\"\njobs at the end of their working lives. In general, it is the best-paid and worst-\npaid who carry on working: \"There are\", he says, \"two very different types of\nbridge jog-holders - those who continue working because they have to and\nthose who continue working because they want to, even though they could\nafford to retire.\"\n\nIf the job market grows more flexible, the old may find more jobs that suit\nthem. Often, they will be self-employed. Sometimes, they may start their own\nbusinesses: a study by David Storey of Warwick University found that, in\nBritain, 70% of businesses started by people over 55 survived, compared with\nan average of only 19%. To coax the old back into the job market, work will not\nonly have to pay. It will need to be more fun than touring the country in an\nAirstream trailer, or seeing the grandchildren, or playing golf. Only then will\nthere be many more Joe Clarks.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage, there are several advantages to hire elder people, please choose TWO from below",
+          "body": null,
+          "range": [
+            5,
+            6
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "their products are more superior to the young.",
+              "paid less compared with younger ones",
+              "run fast when there is a meeting",
+              "have a better inter-person relationship",
+              "identify problems in an advanced time"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose the correct letter, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr.Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below",
+          "body": null,
+          "range": [
+            7,
+            8
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "they are not worth training",
+              "their productivity is lower than counterparts.",
+              "they change work more often",
+              "their academic criteria is someway behind elders",
+              "they are normally high school graduates."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet.",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "Insurance company Sun Life of Canada made a decision that it would hire more Canadian employees rather than British ones in order to get a fresh staff.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g1",
+          "prompt": "Insurance company Sun Life of Canada made a decision",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
-          "prompt": "Unlike other places, employees in Japan get paid according to the years they are employed.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Unlike other places, employees in Japan get paid",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
-          "prompt": "Elder workers are laid off by some German companies which are refreshing corporate culture.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Elder workers are laid off by some German companies",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "According to Peter Hicks, companies pay older people more regardless of the contribution they make. Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "According to Peter Hicks, companies pay older people",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "D,E",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "D,E",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "C,D",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "C,D",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g4",
+          "prompt": "According to paragraph F, the firms and workers still hold the opinion that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Older workers are more likely to attract other staff",
+            "people are not happy if pay gets lower in retiring age.",
+            "Older people have more retaining motivation than young people",
+            "young people often earn less for their piece-rates salary."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 10,
-          "type": "multiple-choice-multi",
-          "prompt": "SkillTeam that has been founded by IBM conducted which of the",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage, there are several advantages to hire elder people, please choose TWO from below\u0000A Choose the correct letter, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr.Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below\u0000A Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet. 9 According to paragraph F, the firms and workers still hold the opinion that A",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p1g4",
+          "prompt": "SkillTeam that has been founded by IBM conducted which of the following movement:",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Ask all the old worker to continue their job on former working hours basis",
+            "Carry on the action of cutting off the elder's proportion of employment",
+            "Ask employees to work more hours in order to get extra pay",
+            "Re-hire old employees and kept the salary a bit lower"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 11,
-          "type": "multiple-choice-multi",
-          "prompt": "which of the followings is correct according to the research of Mr",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage, there are several advantages to hire elder people, please choose TWO from below\u0000A Choose the correct letter, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr.Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below\u0000A Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet. 9 According to paragraph F, the firms and workers still hold the opinion that A",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p1g4",
+          "prompt": "which of the followings is correct according to the research of Mr Quinn",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "About 50% of all employees in America switched into `Bridge' jobs.",
+            "Only the worst-paid continue to work.",
+            "More men than women fell into the category of 'bridge' work.",
+            "Some old people keep working for their motives rather than an economic incentive."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 12,
-          "type": "multiple-choice-multi",
+          "type": "multiple-choice",
+          "groupId": "p1g4",
           "prompt": "Which of the followings is correct according to David Storey:",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage, there are several advantages to hire elder people, please choose TWO from below\u0000A Choose the correct letter, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr.Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below\u0000A Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet. 9 According to paragraph F, the firms and workers still hold the opinion that A",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "70% of business is successful if hire more older people.",
+            "The average success of the self-employed business is getting lower.",
+            "Self-employed elder people are more likely to survive.",
+            "Older people's working hours are more flexible."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 13,
-          "type": "multiple-choice-multi",
+          "type": "multiple-choice",
+          "groupId": "p1g4",
           "prompt": "What is the main purpose of the author in writing this passage?",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE Choose the correct letter, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage, there are several advantages to hire elder people, please choose TWO from below\u0000A Choose the correct letter, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr.Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below\u0000A Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet. 9 According to paragraph F, the firms and workers still hold the opinion that A",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "there must be a successful retiring program for the old",
+            "older people should be correctly valued in employment",
+            "old people should offer more helping young employees grow.",
+            "There are more jobs in the world that only employ older people READING PASSAGE 2 You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below. Travel Accounts A There are many reasons why individuals have traveled beyond their own societies. Some travelers may have simply desired to satisfy curiosity about the larger world. Until recent times, however, trade, business dealings, diplomacy, political administration, military campaigns, exile, flight from persecution, migration, pilgrimage, missionary efforts, and the quest for economic or educational opportunities were more common inducements for foreign travel than was a mere curiosity. While the travelers' accounts give much valuable information on these foreign lands and provide a window for the understanding of the local cultures and histories, they are also a mirror to the travelers themselves, for these accounts help them to have a better understanding of themselves. B Records of foreign travel appeared soon after the invention of writing, and fragmentary travel accounts appeared in both Mesopotamia and Egypt in ancient times. After the formation of large, imperial states in the classical world, travel accounts emerged as a prominent literary genre in many lands, and they held especially strong appeal for rulers desiring useful knowledge about their realms. The Greek historian Herodotus reported on his travels in Egypt and Anatolia in researching the history of the Persian wars. The Chinese envoy Zhang Qian described much of central Asia as far west as Bactria (modern-day Afghanistan) on the basis of travels undertaken in the first century BC while searching for allies for the Han dynasty. Hellenistic and Roman geographers such as Ptolemy, Strabo, and Pliny the Elder relied on their own travels through much of the Mediterranean world as well as reports of other travelers to compile vast compendia of geographical knowledge. C During the postclassical era (about 500 to 1500 CE), trade and pilgrimage emerged as major incentives for travel to foreign lands. Muslim merchants sought trading opportunities throughout much of the eastern hemisphere. They described lands, peoples, and commercial products of the Indian Ocean basin from East Africa to Indonesia, and they supplied the first written accounts of societies in sub-Saharan west Africa. While merchants set out in search of trade and profit, devout Muslims traveled as pilgrims to Mecca to make their hajj and visit the holy sites of Islam. Since the prophet Muhammad's original pilgrimage to Mecca, untold millions of Muslims have followed his example, and thousands of hajj accounts have related their experiences. One of the best known Muslim travelers, Ibn Battuta, began his travels with the hajj but then went on to visit central Asia, India, China, sub-Saharan Africa, and parts of Mediterranean Europe before returning finally to his home in Morocco. East Asian travelers were not quite so prominent as Muslims during the postclassical era, but they too followed many of the highways and sea lanes of the eastern hemisphere. Chinese merchants frequently visited Southeast Asia and India, occasionally venturing even to east Africa, and devout East Asian Buddhists undertook distant pilgrimages. Between the 5th and 9th centuries CE, hundreds and possibly even thousands of Chinese Buddhists traveled to India to study with Buddhist teachers, collect sacred texts, and visit holy sites. Written accounts recorded the experiences of many pilgrims, such as Faxian, Xuanzang, and Yijing. Though not so numerous as the Chinese pilgrims, Buddhists from Japan, Korea, and other lands also ventured abroad in the interests of spiritual enlightenment. D Medieval Europeans did not hit the roads in such large numbers as their Muslim and east Asian counterparts during the early part of the postclassical era, although gradually increasing crowds of Christian pilgrims flowed to Jerusalem, Rome, Santiago de Compostela (in northern Spain), and other sites. After the 12th century, however, merchants, pilgrims, and missionaries from medieval Europe traveled widely and left numerous travel accounts, of which Marco Polo's description of his travels and sojourn in China is the best known. As they became familiar with the larger world of the eastern hemisphere ' and the profitable commercial opportunities that it offered ' European peoples worked to find new and more direct routes to Asian and African markets. Their efforts took them not only to all parts of the eastern hemisphere but eventually to the Americas and Oceania as well. E If Muslim and Chinese peoples dominated travel writing in postclassical times, European explorers, conquerors, merchants, and missionaries took center stage during the early modern era (about 1500 to 1800 CE). By no means did Muslim and Chinese travel come to a halt in early modern times. But European peoples ventured to the distant corners of the globe, and European printing presses churned out thousands of travel accounts that described foreign lands and peoples for a reading public with an apparently insatiable appetite for news about the larger world. The volume of travel literature was so great that several editors, including Giambattista Ramusio, Richard Hakluyt, Theodore de Bry, and Samuel Purchas, assembled numerous travel accounts and made them available in enormous published collections. F During the 19th century, European travelers made their way to the interior regions of Africa and the Americas, generating a fresh round of travel writing as they did so. Meanwhile, European colonial administrators devoted numerous writing to the societies of their colonial subjects, particularly in Asian and African colonies they established. By midcentury, attention was flowing also in the other direction. Painfully aware of the military and technological prowess of European and Euro-American societies, Asian travelers, in particular, visited Europe and the United States in hopes of discovering principles useful for the reorganization of their own societies. Among the most prominent of these travelers who made extensive use of their overseas observations and experiences in their own writing were the Japanese reformer Fukuzawa Yukichi and the Chinese revolutionary Sun Yat-sen. G With the development of inexpensive and reliable means of mass transport, the 20th century witnessed explosions both in the frequency of long-distance travel and in the volume of travel writing. While a great deal of travel took place for reasons of business, administration, diplomacy, pilgrimage, and missionary work, as in ages past, increasingly effective modes of mass transport made it possible for new kinds of travel to flourish. The most distinctive of them was mass tourism, which emerged as a major form of consumption for individuals living in the world's wealthy societies. Tourism enabled consumers to get away from home to see the sights in Rome, take a cruise through the Caribbean, walk the Great Wall of China, visit some wineries in Bordeaux, or go on safari in Kenya. A peculiar variant of the travel account arose to meet the needs of these tourists: the guidebook, which offered advice on food, lodging, shopping, local customs, and all the sights that visitors should not miss seeing. Tourism has had a massive economic impact throughout the world, but other new forms of travel have also had considerable influence in contemporary times. Recent times have seen unprecedented waves of migration, for example, and numerous migrants have sought to record their experiences and articulate their feelings about life in foreign lands. Recent times have also seen an unprecedented development of ethnic consciousness, and many are the intellectuals and writers in the diaspora who have visited the homes of their ancestors to see how much of their forebears' values and cultural traditions they themselves have inherited. Particularly notable among their accounts are the memoirs of Malcolm X and Maya Angelou describing their visits to Africa."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Travel Accounts",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nTravel Accounts\nA\nThere are many reasons why individuals have traveled beyond their own\nsocieties. Some travelers may have simply desired to satisfy curiosity about the\nlarger world. Until recent times, however, trade, business dealings, diplomacy,\npolitical administration, military campaigns, exile, flight from persecution,\nmigration, pilgrimage, missionary efforts, and the quest for economic or\neducational opportunities were more common inducements for foreign travel\nthan was a mere curiosity. While the travelers’ accounts give much valuable\ninformation on these foreign lands and provide a window for the understanding\nof the local cultures and histories, they are also a mirror to the travelers\nthemselves, for these accounts help them to have a better understanding of\nthemselves.\nB\nRecords of foreign travel appeared soon after the invention of writing, and\nfragmentary travel accounts appeared in both Mesopotamia and Egypt in\nancient times. After the formation of large, imperial states in the classical\nworld, travel accounts emerged as a prominent literary genre in many lands,\nand they held especially strong appeal for rulers desiring useful knowledge\nabout their realms. The Greek historian Herodotus reported on his travels in\nEgypt and Anatolia in researching the history of the Persian wars. The Chinese\nenvoy Zhang Qian described much of central Asia as far west as Bactria\n(modern-day Afghanistan) on the basis of travels undertaken in the first\ncentury BC while searching for allies for the Han dynasty. Hellenistic and\nRoman geographers such as Ptolemy, Strabo, and Pliny the Elder relied on their\n\nown travels through much of the Mediterranean world as well as reports of\nother travelers to compile vast compendia of geographical knowledge.\nC\nDuring the postclassical era (about 500 to 1500 CE), trade and pilgrimage\nemerged as major incentives for travel to foreign lands. Muslim merchants\nsought trading opportunities throughout much of the eastern hemisphere. They\ndescribed lands, peoples, and commercial products of the Indian Ocean basin\nfrom East Africa to Indonesia, and they supplied the first written accounts of\nsocieties in sub-Saharan west Africa. While merchants set out in search of\ntrade and profit, devout Muslims traveled as pilgrims to Mecca to make their\nhajj and visit the holy sites of Islam. Since the prophet Muhammad’s original\npilgrimage to Mecca, untold millions of Muslims have followed his example, and\nthousands of hajj accounts have related their experiences. One of the best\nknown Muslim travelers, Ibn Battuta, began his travels with the hajj but then\nwent on to visit central Asia, India, China, sub-Saharan Africa, and parts of\nMediterranean Europe before returning finally to his home in Morocco. East\nAsian travelers were not quite so prominent as Muslims during the postclassical\nera, but they too followed many of the highways and sea lanes of the eastern\nhemisphere. Chinese merchants frequently visited Southeast Asia and India,\noccasionally venturing even to east Africa, and devout East Asian Buddhists\nundertook distant pilgrimages. Between the 5th and 9th centuries CE,\nhundreds and possibly even thousands of Chinese Buddhists traveled to India\nto study with Buddhist teachers, collect sacred texts, and visit holy sites.\nWritten accounts recorded the experiences of many pilgrims, such as Faxian,\nXuanzang, and Yijing. Though not so numerous as the Chinese pilgrims,\nBuddhists from Japan, Korea, and other lands also ventured abroad in the\ninterests of spiritual enlightenment.\nD\nMedieval Europeans did not hit the roads in such large numbers as their Muslim\nand east Asian counterparts during the early part of the postclassical era,\nalthough gradually increasing crowds of Christian pilgrims flowed to Jerusalem,\nRome, Santiago de Compostela (in northern Spain), and other sites. After the\n12th century, however, merchants, pilgrims, and missionaries from medieval\nEurope traveled widely and left numerous travel accounts, of which Marco\nPolo’s description of his travels and sojourn in China is the best known. As they\nbecame familiar with the larger world of the eastern hemisphere – and the\nprofitable commercial opportunities that it offered – European peoples worked\nto find new and more direct routes to Asian and African markets. Their efforts\n\ntook them not only to all parts of the eastern hemisphere but eventually to the\nAmericas and Oceania as well.\nE\nIf Muslim and Chinese peoples dominated travel writing in postclassical times,\nEuropean explorers, conquerors, merchants, and missionaries took center\nstage during the early modern era (about 1500 to 1800 CE). By no means did\nMuslim and Chinese travel come to a halt in early modern times. But European\npeoples ventured to the distant corners of the globe, and European printing\npresses churned out thousands of travel accounts that described foreign lands\nand peoples for a reading public with an apparently insatiable appetite for\nnews about the larger world. The volume of travel literature was so great that\nseveral editors, including Giambattista Ramusio, Richard Hakluyt, Theodore de\nBry, and Samuel Purchas, assembled numerous travel accounts and made\nthem available in enormous published collections.\nF\nDuring the 19th century, European travelers made their way to the interior\nregions of Africa and the Americas, generating a fresh round of travel writing as\nthey did so. Meanwhile, European colonial administrators devoted numerous\nwriting to the societies of their colonial subjects, particularly in Asian and\nAfrican colonies they established. By midcentury, attention was flowing also in\nthe other direction. Painfully aware of the military and technological prowess of\nEuropean and Euro-American societies, Asian travelers, in particular, visited\nEurope and the United States in hopes of discovering principles useful for the\nreorganization of their own societies. Among the most prominent of these\ntravelers who made extensive use of their overseas observations and\nexperiences in their own writing were the Japanese reformer Fukuzawa Yukichi\nand the Chinese revolutionary Sun Yat-sen.\nG\nWith the development of inexpensive and reliable means of mass transport, the\n20th century witnessed explosions both in the frequency of long-distance travel\nand in the volume of travel writing. While a great deal of travel took place for\nreasons of business, administration, diplomacy, pilgrimage, and missionary\nwork, as in ages past, increasingly effective modes of mass transport made it\npossible for new kinds of travel to flourish. The most distinctive of them was\nmass tourism, which emerged as a major form of consumption for individuals\nliving in the world’s wealthy societies. Tourism enabled consumers to get away\nfrom home to see the sights in Rome, take a cruise through the Caribbean,\nwalk the Great Wall of China, visit some wineries in Bordeaux, or go on safari in\n\nKenya. A peculiar variant of the travel account arose to meet the needs of\nthese tourists: the guidebook, which offered advice on food, lodging, shopping,\nlocal customs, and all the sights that visitors should not miss seeing. Tourism\nhas had a massive economic impact throughout the world, but other new forms\nof travel have also had considerable influence in contemporary times. Recent\ntimes have seen unprecedented waves of migration, for example, and\nnumerous migrants have sought to record their experiences and articulate their\nfeelings about life in foreign lands. Recent times have also seen an\nunprecedented development of ethnic consciousness, and many are the\nintellectuals and writers in the diaspora who have visited the homes of their\nancestors to see how much of their forebears’ values and cultural traditions\nthey themselves have inherited. Particularly notable among their accounts are\nthe memoirs of Malcolm X and Maya Angelou describing their visits to Africa.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Travel Accounts"
+          },
           {
             "label": "A",
-            "content": "There are many reasons why individuals have traveled beyond their own"
+            "text": "There are many reasons why individuals have traveled beyond their own\nsocieties. Some travelers may have simply desired to satisfy curiosity about the\nlarger world. Until recent times, however, trade, business dealings, diplomacy,\npolitical administration, military campaigns, exile, flight from persecution,\nmigration, pilgrimage, missionary efforts, and the quest for economic or\neducational opportunities were more common inducements for foreign travel\nthan was a mere curiosity. While the travelers' accounts give much valuable\ninformation on these foreign lands and provide a window for the understanding\nof the local cultures and histories, they are also a mirror to the travelers\nthemselves, for these accounts help them to have a better understanding of\nthemselves."
           },
           {
             "label": "B",
-            "content": "Records of foreign travel appeared soon after the invention of writing, and"
+            "text": "Records of foreign travel appeared soon after the invention of writing, and\nfragmentary travel accounts appeared in both Mesopotamia and Egypt in\nancient times. After the formation of large, imperial states in the classical\nworld, travel accounts emerged as a prominent literary genre in many lands,\nand they held especially strong appeal for rulers desiring useful knowledge\nabout their realms. The Greek historian Herodotus reported on his travels in\nEgypt and Anatolia in researching the history of the Persian wars. The Chinese\nenvoy Zhang Qian described much of central Asia as far west as Bactria\n(modern-day Afghanistan) on the basis of travels undertaken in the first\ncentury BC while searching for allies for the Han dynasty. Hellenistic and\nRoman geographers such as Ptolemy, Strabo, and Pliny the Elder relied on their"
+          },
+          {
+            "label": null,
+            "text": "own travels through much of the Mediterranean world as well as reports of\nother travelers to compile vast compendia of geographical knowledge."
           },
           {
             "label": "C",
-            "content": "During the postclassical era (about 500 to 1500 CE), trade and pilgrimage"
+            "text": "During the postclassical era (about 500 to 1500 CE), trade and pilgrimage\nemerged as major incentives for travel to foreign lands. Muslim merchants\nsought trading opportunities throughout much of the eastern hemisphere. They\ndescribed lands, peoples, and commercial products of the Indian Ocean basin\nfrom East Africa to Indonesia, and they supplied the first written accounts of\nsocieties in sub-Saharan west Africa. While merchants set out in search of\ntrade and profit, devout Muslims traveled as pilgrims to Mecca to make their\nhajj and visit the holy sites of Islam. Since the prophet Muhammad's original\npilgrimage to Mecca, untold millions of Muslims have followed his example, and\nthousands of hajj accounts have related their experiences. One of the best\nknown Muslim travelers, Ibn Battuta, began his travels with the hajj but then\nwent on to visit central Asia, India, China, sub-Saharan Africa, and parts of\nMediterranean Europe before returning finally to his home in Morocco. East\nAsian travelers were not quite so prominent as Muslims during the postclassical\nera, but they too followed many of the highways and sea lanes of the eastern\nhemisphere. Chinese merchants frequently visited Southeast Asia and India,\noccasionally venturing even to east Africa, and devout East Asian Buddhists\nundertook distant pilgrimages. Between the 5th and 9th centuries CE,\nhundreds and possibly even thousands of Chinese Buddhists traveled to India\nto study with Buddhist teachers, collect sacred texts, and visit holy sites.\nWritten accounts recorded the experiences of many pilgrims, such as Faxian,\nXuanzang, and Yijing. Though not so numerous as the Chinese pilgrims,\nBuddhists from Japan, Korea, and other lands also ventured abroad in the\ninterests of spiritual enlightenment."
           },
           {
             "label": "D",
-            "content": "Medieval Europeans did not hit the roads in such large numbers as their Muslim"
+            "text": "Medieval Europeans did not hit the roads in such large numbers as their Muslim\nand east Asian counterparts during the early part of the postclassical era,\nalthough gradually increasing crowds of Christian pilgrims flowed to Jerusalem,\nRome, Santiago de Compostela (in northern Spain), and other sites. After the\n12th century, however, merchants, pilgrims, and missionaries from medieval\nEurope traveled widely and left numerous travel accounts, of which Marco\nPolo's description of his travels and sojourn in China is the best known. As they\nbecame familiar with the larger world of the eastern hemisphere - and the\nprofitable commercial opportunities that it offered - European peoples worked\nto find new and more direct routes to Asian and African markets. Their efforts"
+          },
+          {
+            "label": null,
+            "text": "took them not only to all parts of the eastern hemisphere but eventually to the\nAmericas and Oceania as well."
           },
           {
             "label": "E",
-            "content": "If Muslim and Chinese peoples dominated travel writing in postclassical times,"
+            "text": "If Muslim and Chinese peoples dominated travel writing in postclassical times,\nEuropean explorers, conquerors, merchants, and missionaries took center\nstage during the early modern era (about 1500 to 1800 CE). By no means did\nMuslim and Chinese travel come to a halt in early modern times. But European\npeoples ventured to the distant corners of the globe, and European printing\npresses churned out thousands of travel accounts that described foreign lands\nand peoples for a reading public with an apparently insatiable appetite for\nnews about the larger world. The volume of travel literature was so great that\nseveral editors, including Giambattista Ramusio, Richard Hakluyt, Theodore de\nBry, and Samuel Purchas, assembled numerous travel accounts and made\nthem available in enormous published collections."
           },
           {
             "label": "F",
-            "content": "During the 19th century, European travelers made their way to the interior"
+            "text": "During the 19th century, European travelers made their way to the interior\nregions of Africa and the Americas, generating a fresh round of travel writing as\nthey did so. Meanwhile, European colonial administrators devoted numerous\nwriting to the societies of their colonial subjects, particularly in Asian and\nAfrican colonies they established. By midcentury, attention was flowing also in\nthe other direction. Painfully aware of the military and technological prowess of\nEuropean and Euro-American societies, Asian travelers, in particular, visited\nEurope and the United States in hopes of discovering principles useful for the\nreorganization of their own societies. Among the most prominent of these\ntravelers who made extensive use of their overseas observations and\nexperiences in their own writing were the Japanese reformer Fukuzawa Yukichi\nand the Chinese revolutionary Sun Yat-sen."
           },
           {
             "label": "G",
-            "content": "With the development of inexpensive and reliable means of mass transport, the"
+            "text": "With the development of inexpensive and reliable means of mass transport, the\n20th century witnessed explosions both in the frequency of long-distance travel\nand in the volume of travel writing. While a great deal of travel took place for\nreasons of business, administration, diplomacy, pilgrimage, and missionary\nwork, as in ages past, increasingly effective modes of mass transport made it\npossible for new kinds of travel to flourish. The most distinctive of them was\nmass tourism, which emerged as a major form of consumption for individuals\nliving in the world's wealthy societies. Tourism enabled consumers to get away\nfrom home to see the sights in Rome, take a cruise through the Caribbean,\nwalk the Great Wall of China, visit some wineries in Bordeaux, or go on safari in"
+          },
+          {
+            "label": null,
+            "text": "Kenya. A peculiar variant of the travel account arose to meet the needs of\nthese tourists: the guidebook, which offered advice on food, lodging, shopping,\nlocal customs, and all the sights that visitors should not miss seeing. Tourism\nhas had a massive economic impact throughout the world, but other new forms\nof travel have also had considerable influence in contemporary times. Recent\ntimes have seen unprecedented waves of migration, for example, and\nnumerous migrants have sought to record their experiences and articulate their\nfeelings about life in foreign lands. Recent times have also seen an\nunprecedented development of ethnic consciousness, and many are the\nintellectuals and writers in the diaspora who have visited the homes of their\nancestors to see how much of their forebears' values and cultural traditions\nthey themselves have inherited. Particularly notable among their accounts are\nthe memoirs of Malcolm X and Maya Angelou describing their visits to Africa."
           }
-        ]
+        ],
+        "text": "Travel Accounts\n\nThere are many reasons why individuals have traveled beyond their own\nsocieties. Some travelers may have simply desired to satisfy curiosity about the\nlarger world. Until recent times, however, trade, business dealings, diplomacy,\npolitical administration, military campaigns, exile, flight from persecution,\nmigration, pilgrimage, missionary efforts, and the quest for economic or\neducational opportunities were more common inducements for foreign travel\nthan was a mere curiosity. While the travelers' accounts give much valuable\ninformation on these foreign lands and provide a window for the understanding\nof the local cultures and histories, they are also a mirror to the travelers\nthemselves, for these accounts help them to have a better understanding of\nthemselves.\n\nRecords of foreign travel appeared soon after the invention of writing, and\nfragmentary travel accounts appeared in both Mesopotamia and Egypt in\nancient times. After the formation of large, imperial states in the classical\nworld, travel accounts emerged as a prominent literary genre in many lands,\nand they held especially strong appeal for rulers desiring useful knowledge\nabout their realms. The Greek historian Herodotus reported on his travels in\nEgypt and Anatolia in researching the history of the Persian wars. The Chinese\nenvoy Zhang Qian described much of central Asia as far west as Bactria\n(modern-day Afghanistan) on the basis of travels undertaken in the first\ncentury BC while searching for allies for the Han dynasty. Hellenistic and\nRoman geographers such as Ptolemy, Strabo, and Pliny the Elder relied on their\n\nown travels through much of the Mediterranean world as well as reports of\nother travelers to compile vast compendia of geographical knowledge.\n\nDuring the postclassical era (about 500 to 1500 CE), trade and pilgrimage\nemerged as major incentives for travel to foreign lands. Muslim merchants\nsought trading opportunities throughout much of the eastern hemisphere. They\ndescribed lands, peoples, and commercial products of the Indian Ocean basin\nfrom East Africa to Indonesia, and they supplied the first written accounts of\nsocieties in sub-Saharan west Africa. While merchants set out in search of\ntrade and profit, devout Muslims traveled as pilgrims to Mecca to make their\nhajj and visit the holy sites of Islam. Since the prophet Muhammad's original\npilgrimage to Mecca, untold millions of Muslims have followed his example, and\nthousands of hajj accounts have related their experiences. One of the best\nknown Muslim travelers, Ibn Battuta, began his travels with the hajj but then\nwent on to visit central Asia, India, China, sub-Saharan Africa, and parts of\nMediterranean Europe before returning finally to his home in Morocco. East\nAsian travelers were not quite so prominent as Muslims during the postclassical\nera, but they too followed many of the highways and sea lanes of the eastern\nhemisphere. Chinese merchants frequently visited Southeast Asia and India,\noccasionally venturing even to east Africa, and devout East Asian Buddhists\nundertook distant pilgrimages. Between the 5th and 9th centuries CE,\nhundreds and possibly even thousands of Chinese Buddhists traveled to India\nto study with Buddhist teachers, collect sacred texts, and visit holy sites.\nWritten accounts recorded the experiences of many pilgrims, such as Faxian,\nXuanzang, and Yijing. Though not so numerous as the Chinese pilgrims,\nBuddhists from Japan, Korea, and other lands also ventured abroad in the\ninterests of spiritual enlightenment.\n\nMedieval Europeans did not hit the roads in such large numbers as their Muslim\nand east Asian counterparts during the early part of the postclassical era,\nalthough gradually increasing crowds of Christian pilgrims flowed to Jerusalem,\nRome, Santiago de Compostela (in northern Spain), and other sites. After the\n12th century, however, merchants, pilgrims, and missionaries from medieval\nEurope traveled widely and left numerous travel accounts, of which Marco\nPolo's description of his travels and sojourn in China is the best known. As they\nbecame familiar with the larger world of the eastern hemisphere - and the\nprofitable commercial opportunities that it offered - European peoples worked\nto find new and more direct routes to Asian and African markets. Their efforts\n\ntook them not only to all parts of the eastern hemisphere but eventually to the\nAmericas and Oceania as well.\n\nIf Muslim and Chinese peoples dominated travel writing in postclassical times,\nEuropean explorers, conquerors, merchants, and missionaries took center\nstage during the early modern era (about 1500 to 1800 CE). By no means did\nMuslim and Chinese travel come to a halt in early modern times. But European\npeoples ventured to the distant corners of the globe, and European printing\npresses churned out thousands of travel accounts that described foreign lands\nand peoples for a reading public with an apparently insatiable appetite for\nnews about the larger world. The volume of travel literature was so great that\nseveral editors, including Giambattista Ramusio, Richard Hakluyt, Theodore de\nBry, and Samuel Purchas, assembled numerous travel accounts and made\nthem available in enormous published collections.\n\nDuring the 19th century, European travelers made their way to the interior\nregions of Africa and the Americas, generating a fresh round of travel writing as\nthey did so. Meanwhile, European colonial administrators devoted numerous\nwriting to the societies of their colonial subjects, particularly in Asian and\nAfrican colonies they established. By midcentury, attention was flowing also in\nthe other direction. Painfully aware of the military and technological prowess of\nEuropean and Euro-American societies, Asian travelers, in particular, visited\nEurope and the United States in hopes of discovering principles useful for the\nreorganization of their own societies. Among the most prominent of these\ntravelers who made extensive use of their overseas observations and\nexperiences in their own writing were the Japanese reformer Fukuzawa Yukichi\nand the Chinese revolutionary Sun Yat-sen.\n\nWith the development of inexpensive and reliable means of mass transport, the\n20th century witnessed explosions both in the frequency of long-distance travel\nand in the volume of travel writing. While a great deal of travel took place for\nreasons of business, administration, diplomacy, pilgrimage, and missionary\nwork, as in ages past, increasingly effective modes of mass transport made it\npossible for new kinds of travel to flourish. The most distinctive of them was\nmass tourism, which emerged as a major form of consumption for individuals\nliving in the world's wealthy societies. Tourism enabled consumers to get away\nfrom home to see the sights in Rome, take a cruise through the Caribbean,\nwalk the Great Wall of China, visit some wineries in Bordeaux, or go on safari in\n\nKenya. A peculiar variant of the travel account arose to meet the needs of\nthese tourists: the guidebook, which offered advice on food, lodging, shopping,\nlocal customs, and all the sights that visitors should not miss seeing. Tourism\nhas had a massive economic impact throughout the world, but other new forms\nof travel have also had considerable influence in contemporary times. Recent\ntimes have seen unprecedented waves of migration, for example, and\nnumerous migrants have sought to record their experiences and articulate their\nfeelings about life in foreign lands. Recent times have also seen an\nunprecedented development of ethnic consciousness, and many are the\nintellectuals and writers in the diaspora who have visited the homes of their\nancestors to see how much of their forebears' values and cultural traditions\nthey themselves have inherited. Particularly notable among their accounts are\nthe memoirs of Malcolm X and Maya Angelou describing their visits to Africa.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+          "body": "Time, Destination, Traveler and Purpose table. Classical era, Egypt and Anatolia, Herodotus: Purpose is 'To obtain information on [[14]]'. 1st century BC, Central Asia, Zhang Qian: Purpose is 'To seek [[15]]'. Roman Empire, Mediterranean, Ptolemy, Strabo and Pliny the Elder: Purpose is 'To gather [[16]]'. Post-classical era, Eastern Hemisphere, Muslims: Purpose is 'For business and [[17]]'. 5th to 9th centuries CE, India, Asian Buddhists: Purpose is 'To study with [[18]] and for spiritual enlightenment'. Early modern era, distant places of the globe, the Europeans: Purpose is 'To meet the public's expectation for the outside'. 19th century, Asia and Africa, Colonial administrator: Purpose is 'To provide information on the [[19]] they conquer'. By the mid-century of the 1800s, Europe and the United States, Sun Yat-sen and Fukuzawa Yukichi: Purpose is 'To learn [[20]] for the reorganization of their societies'. 20th century, Mass tourism, People from [[21]] countries: Purpose is 'For entertainment'.",
+          "range": [
+            14,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet.",
+          "body": null,
+          "range": [
+            22,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Persian wars",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "allies",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "geographical knowledge",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pilgrimage",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Buddhist teachers",
+          "trap": null
+        },
         {
           "number": 19,
           "type": "table-completion",
-          "prompt": "they conquer By the mid- century of the",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside",
-          "answer": "colonies"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "colonies",
+          "trap": null
         },
         {
           "number": 20,
           "type": "table-completion",
-          "prompt": "for the reorganization of their societies 20th century",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside",
-          "answer": "principles"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "principles",
+          "trap": null
         },
         {
           "number": 21,
           "type": "table-completion",
-          "prompt": "countries For entertainment Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet.",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside",
-          "answer": "wealthy"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "wealthy",
+          "trap": null
         },
         {
           "number": 22,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "Why did some people travel in the early days?",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "to do research on themselves",
+            "to write travel books",
+            "to have a better understanding of other people and places",
+            "to study local culture"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 23,
           "type": "multiple-choice",
-          "prompt": "The travelers’ accounts are a mirror to themselves,",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet.",
-          "answer": "D",
+          "groupId": "p2g2",
+          "prompt": "The travelers' accounts are a mirror to themselves,",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "because they help them to be aware of local histories.",
+            "because travelers are curious about the world.",
+            "because travelers could do more research on the unknown.",
+            "because they reflect the writers' own experience and social life."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 24,
           "type": "multiple-choice",
-          "prompt": "Most of the people who went to holy sites during the early part of the",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet.",
-          "answer": "B",
+          "groupId": "p2g2",
+          "prompt": "Most of the people who went to holy sites during the early part of the postclassical era are",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Europeans",
+            "Muslim and East Asians.",
+            "Americans.",
+            "Greeks."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 25,
           "type": "multiple-choice",
-          "prompt": "During the early modern era, a large number of travel books were",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet. to write travel books to have a better understanding of other people and places to study local culture because they help them to be aware of local histories. because travelers are curious about the world. because travelers could do more research on the unknown. because they reflect the writers’ own experience and social life. Europeans Muslim and East Asians.",
-          "answer": "A",
+          "groupId": "p2g2",
+          "prompt": "During the early modern era, a large number of travel books were published to",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "provide what the public wants.",
+            "encourage the public's feedback.",
+            "gain profit.",
+            "prompt trips to the new world."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 26,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "What stimulated the market for traveling in the 20th century?",
-          "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer. Write your answer in boxes 14-21 on your answer sheet. TIME DESTINATION TRAVELER PURPOSE Classical era Egypt and Anatolia Herodotus To obtain information on 14 . 1st century BC Central Asia Zhang Qian To seek 15 . Roman Empire Mediterranean Ptolemy, Strabo Pliny the Elder To gather 16 Post-classical era Eastern Hemisphere Muslims For business and 17 5th to 9th centuries CE India Asian Buddhists To study with 18 and for spiritual enlightenment Early modern era Distant places of the globe The Europeans To meet the public’s expectation for the outside Choose the correct letter, A, B, C or D. Write your answers in boxes 22-26 on your answer sheet. to write travel books to have a better understanding of other people and places to study local culture because they help them to be aware of local histories. because travelers are curious about the world. because travelers could do more research on the unknown. because they reflect the writers’ own experience and social life. Europeans Muslim and East Asians.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the wealthy",
+            "travel books",
+            "delicious food",
+            "mass transport READING PASSAGE 3 You should spend about 20 minutes on Questions 28-40, which are based on Reading Passage 3 below. What Are Dreams ? A Thousands of years ago, dreams were seen as messages from the gods, and in many cultures, they are still considered prophetic. In ancient Greece, sick people slept at the temples of Asclepius, the god of medicine, in order to receive dreams that would heal them. Modern dream science really begins at the end of the 19th century with Sigmund Feud, who theorized that dreams were the expression of unconscious desires often stemming from childhood. He believed that exploring these hidden emotions through analysis could help cure mental illness. The Freudian model of psychoanalysis dominated until the 1970s when new research into the chemistry of the brain showed that emotional problems could have biological or chemical roots, as well as environmental ones. In other words, we weren't sick just because of something our mothers did (or didn't do), but because of some imbalance that might be cured with medication. B After Freud, the most important event in dream science was the discovery in the early 1950s of a phase of sleep characterized by intense brain activity and rapid eye movement (REM). People awakened in the midst of REM sleep reported vivid dreams, which led researchers to conclude that most dreaming took place during REM. Using the electroencephalograph (EEG), researchers could see that brain activity during REM resembled that of the waking brain. That old them that a lot more was going on at night than anyone had suspected. But what, exactly? C Scientists still don't know for sure, although they have lots of theories. On one side are scientists like Harvard's Allan Hobson, who believes that dreams are essentially random. In the 1970s, Hobson and his colleague Robert McCarley proposed what they called the \"activation-synthesis hypothesis'\" which describes how dreams are formed by nerve signals sent out during REM sleep from a small area at the base of the brain called the pons. These signals, the researchers said, activate the images that we call dreams. That put a crimp in dream research; if dreams were meaningless nocturnal firings, what was the point of studying them? D Adult humans spend about a quarter of their sleep time in REM, much of it dreaming. During that time, the body is essentially paralyzed but the brain is buzzing. Scientists using PET and fMRI technology to watch the dreaming brain have found that one of the most active areas during REM is the limbic system, which controls our emotions. Much less active is the prefrontal cortex, which is associated with logical thinking. That could explain why dreams in REM sleep often lack a coherent storyline (some researchers have also found that people dream in non-REM sleep as well, although those dreams generally are less vivid.) Another active part of the brain in REM sleep is the anterior cingulate cortex, which detects discrepancies. Eric Nofzinger, director of the Sleep Neuroimaging Program at the University of Pittsburgh Medical Center, thinks that could be why people often figure out thorny problems in their dreams. \"As if the brain surveys the internal milieu and tries to figure out what it should be doing, and whether our actions conflict with who we are,\" he says. E These may seem like vital mental functions, but no one has yet been able to say that REM sleep or dreaming is essential to life or even sanity. MAO inhibitors, an older class of antidepressants, essentially block REM sleep without any detectable effects, although people do get a \"REM rebound\" ' extra REM ' if they stop the medication. That's also true of selective serotonin reuptake inhibitors (SSRIs) like Prozac, which reduce dreaming by a third to a half. Even permanently losing the ability to dream doesn't have to be disabling. Israeli researcher Peretz Lavie has been observing a patient named Yuval Chamtzani, who was injured by a fragment of shrapnel that penetrated his brain when he was 19. As a result, he gets no REM sleep and doesn't remember any dreams. But Lavie says that Chamtzani, now 55, \"is probably the most normal person I know and one of the most successful ones.\" He's a lawyer, a painter and the editor of a puzzle column in a popular Israeli newspaper. F The mystery of REM sleep is that even though it may not be essential, it is ubiquitous ' at least in mammals and birds. But that doesn't mean all mammals and birds dream (or if they do, they're certainly not ' talking about it). Some researchers think REM may have evolved for physiological reasons. \"One thing that's unique about mammals and birds is that they regulate body temperature\", says neuroscientist Jerry Siegel, director of UCLA's Center for Sleep Research. \"There's no good evidence that any coldblooded animal has REM sleep.\" REM sleep heats up the brain and non-REM cools it off, Siegel says, and that could mean that the changing sleep cycles allow the brain to repair itself. \"It seems likely that REM sleep is filling a basic physiological function and that dreams are a kind of epiphenomenon,\" Siegel says ' an extraneous byproduct; like foam on beer. G Whatever the function of dreams at night, they clearly can play a role in therapy during the day. The University of Maryland's Clara Hill, who has studied the use of dreams in therapy, says that dreams are a `backdoor', into a patient's thinking. \"Dreams reveal stuff about you that you didn't know was there,\" she says. The therapists she trains to work with patients' dreams are, in essence, heirs to Freud, using dream imagery to uncover hidden emotions and feelings. Dreams provide clues to the nature of the more serious mental illness. Schizophrenics, for example, have poor-quality dreams, usually about objects rather than people. \"If you're going to understand human behavior,\" says Rosalind Cartwright, a chairman of psychology at Rush University Medical Center in Chicago, \"here's a big piece of it. Dreaming is our own storytelling time ' to help us know who we are, where we're going and how we're going to get there.\" Cartwright has been studying depression in divorced men and women, and she is finding that \"good dreamers,\" people who have vivid dreams with strong storylines, are less likely to remain depressed. She thinks that dreaming helps diffuse strong emotions. \"Dreaming is a mental-health activity,\" she says."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "What Are Dreams ?",
+      "title": "Reading Passage 3",
       "questionRange": [
-        28,
+        27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 3 below.\nWhat Are Dreams ?\nA\nThousands of years ago, dreams were seen as messages from the gods, and in\nmany cultures, they are still considered prophetic. In ancient Greece, sick\npeople slept at the temples of Asclepius, the god of medicine, in order to\nreceive dreams that would heal them. Modern dream science really begins at\nthe end of the 19th century with Sigmund Feud, who theorized that dreams\nwere the expression of unconscious desires often stemming from childhood. He\nbelieved that exploring these hidden emotions through analysis could help cure\nmental illness. The Freudian model of psychoanalysis dominated until the\n1970s when new research into the chemistry of the brain showed that\nemotional problems could have biological or chemical roots, as well as\nenvironmental ones. In other words, we weren’t sick just because of something\nour mothers did (or didn’t do), but because of some imbalance that might be\ncured with medication.\nB\n\nAfter Freud, the most important event in dream science was the discovery in\nthe early 1950s of a phase of sleep characterized by intense brain activity and\nrapid eye movement (REM). People awakened in the midst of REM sleep\nreported vivid dreams, which led researchers to conclude that most dreaming\ntook place during REM. Using the electroencephalograph (EEG), researchers\ncould see that brain activity during REM resembled that of the waking brain.\nThat old them that a lot more was going on at night than anyone had\nsuspected. But what, exactly?\nC\nScientists still don’t know for sure, although they have lots of theories. On one\nside are scientists like Harvard’s Allan Hobson, who believes that dreams are\nessentially random. In the 1970s, Hobson and his colleague Robert McCarley\nproposed what they called the “activation-synthesis hypothesis’” which\ndescribes how dreams are formed by nerve signals sent out during REM sleep\nfrom a small area at the base of the brain called the pons. These signals, the\nresearchers said, activate the images that we call dreams. That put a crimp in\ndream research; if dreams were meaningless nocturnal firings, what was the\npoint of studying them?\nD\nAdult humans spend about a quarter of their sleep time in REM, much of it\ndreaming. During that time, the body is essentially paralyzed but the brain is\nbuzzing. Scientists using PET and fMRI technology to watch the dreaming brain\nhave found that one of the most active areas during REM is the limbic system,\nwhich controls our emotions. Much less active is the prefrontal cortex, which is\nassociated with logical thinking. That could explain why dreams in REM sleep\noften lack a coherent storyline (some researchers have also found that people\n\ndream in non-REM sleep as well, although those dreams generally are less\nvivid.) Another active part of the brain in REM sleep is the anterior cingulate\ncortex, which detects discrepancies. Eric Nofzinger, director of the Sleep\nNeuroimaging Program at the University of Pittsburgh Medical Center, thinks\nthat could be why people often figure out thorny problems in their dreams. “As\nif the brain surveys the internal milieu and tries to figure out what it should be\ndoing, and whether our actions conflict with who we are,” he says.\nE\nThese may seem like vital mental functions, but no one has yet been able to\nsay that REM sleep or dreaming is essential to life or even sanity. MAO\ninhibitors, an older class of antidepressants, essentially block REM sleep\nwithout any detectable effects, although people do get a “REM rebound” –\nextra REM – if they stop the medication. That’s also true of selective serotonin\nreuptake inhibitors (SSRIs) like Prozac, which reduce dreaming by a third to a\nhalf. Even permanently losing the ability to dream doesn’t have to be disabling.\nIsraeli researcher Peretz Lavie has been observing a patient named Yuval\nChamtzani, who was injured by a fragment of shrapnel that penetrated his\nbrain when he was 19. As a result, he gets no REM sleep and doesn’t\nremember any dreams. But Lavie says that Chamtzani, now 55, “is probably\nthe most normal person I know and one of the most successful ones.” He’s a\nlawyer, a painter and the editor of a puzzle column in a popular Israeli\nnewspaper.\nF\nThe mystery of REM sleep is that even though it may not be essential, it is\nubiquitous – at least in mammals and birds. But that doesn’t mean all\nmammals and birds dream (or if they do, they’re certainly not – talking about\nit). Some researchers think REM may have evolved for physiological reasons.\n“One thing that’s unique about mammals and birds is that they regulate body\ntemperature”, says neuroscientist Jerry Siegel, director of UCLA’s Center for\nSleep Research. “There’s no good evidence that any coldblooded animal has\nREM sleep.” REM sleep heats up the brain and non-REM cools it off, Siegel says,\nand that could mean that the changing sleep cycles allow the brain to repair\nitself. “It seems likely that REM sleep is filling a basic physiological function and\nthat dreams are a kind of epiphenomenon,” Siegel says – an extraneous\nbyproduct; like foam on beer.\nG\nWhatever the function of dreams at night, they clearly can play a role in\ntherapy during the day. The University of Maryland’s Clara Hill, who has\n\nstudied the use of dreams in therapy, says that dreams are a ‘backdoor’, into a\npatient’s thinking. “Dreams reveal stuff about you that you didn’t know was\nthere,” she says. The therapists she trains to work with patients’ dreams are, in\nessence, heirs to Freud, using dream imagery to uncover hidden emotions and\nfeelings. Dreams provide clues to the nature of the more serious mental illness.\nSchizophrenics, for example, have poor-quality dreams, usually about objects\nrather than people. “If you’re going to understand human behavior,” says\nRosalind Cartwright, a chairman of psychology at Rush University Medical\nCenter in Chicago, “here’s a big piece of it. Dreaming is our own storytelling\ntime – to help us know who we are, where we’re going and how we’re going to\nget there.” Cartwright has been studying depression in divorced men and\nwomen, and she is finding that “good dreamers,” people who have vivid\ndreams with strong storylines, are less likely to remain depressed. She thinks\nthat dreaming helps diffuse strong emotions. “Dreaming is a mental-health\nactivity,” she says.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "What Are Dreams ?"
+          },
           {
             "label": "A",
-            "content": "Thousands of years ago, dreams were seen as messages from the gods, and in"
+            "text": "Thousands of years ago, dreams were seen as messages from the gods, and in\nmany cultures, they are still considered prophetic. In ancient Greece, sick\npeople slept at the temples of Asclepius, the god of medicine, in order to\nreceive dreams that would heal them. Modern dream science really begins at\nthe end of the 19th century with Sigmund Feud, who theorized that dreams\nwere the expression of unconscious desires often stemming from childhood. He\nbelieved that exploring these hidden emotions through analysis could help cure\nmental illness. The Freudian model of psychoanalysis dominated until the\n1970s when new research into the chemistry of the brain showed that\nemotional problems could have biological or chemical roots, as well as\nenvironmental ones. In other words, we weren't sick just because of something\nour mothers did (or didn't do), but because of some imbalance that might be\ncured with medication."
           },
           {
             "label": "B",
-            "content": "After Freud, the most important event in dream science was the discovery in"
+            "text": "After Freud, the most important event in dream science was the discovery in\nthe early 1950s of a phase of sleep characterized by intense brain activity and\nrapid eye movement (REM). People awakened in the midst of REM sleep\nreported vivid dreams, which led researchers to conclude that most dreaming\ntook place during REM. Using the electroencephalograph (EEG), researchers\ncould see that brain activity during REM resembled that of the waking brain.\nThat old them that a lot more was going on at night than anyone had\nsuspected. But what, exactly?"
           },
           {
             "label": "C",
-            "content": "Scientists still don’t know for sure, although they have lots of theories. On one"
+            "text": "Scientists still don't know for sure, although they have lots of theories. On one\nside are scientists like Harvard's Allan Hobson, who believes that dreams are\nessentially random. In the 1970s, Hobson and his colleague Robert McCarley\nproposed what they called the \"activation-synthesis hypothesis'\" which\ndescribes how dreams are formed by nerve signals sent out during REM sleep\nfrom a small area at the base of the brain called the pons. These signals, the\nresearchers said, activate the images that we call dreams. That put a crimp in\ndream research; if dreams were meaningless nocturnal firings, what was the\npoint of studying them?"
           },
           {
             "label": "D",
-            "content": "Adult humans spend about a quarter of their sleep time in REM, much of it"
+            "text": "Adult humans spend about a quarter of their sleep time in REM, much of it\ndreaming. During that time, the body is essentially paralyzed but the brain is\nbuzzing. Scientists using PET and fMRI technology to watch the dreaming brain\nhave found that one of the most active areas during REM is the limbic system,\nwhich controls our emotions. Much less active is the prefrontal cortex, which is\nassociated with logical thinking. That could explain why dreams in REM sleep\noften lack a coherent storyline (some researchers have also found that people"
+          },
+          {
+            "label": null,
+            "text": "dream in non-REM sleep as well, although those dreams generally are less\nvivid.) Another active part of the brain in REM sleep is the anterior cingulate\ncortex, which detects discrepancies. Eric Nofzinger, director of the Sleep\nNeuroimaging Program at the University of Pittsburgh Medical Center, thinks\nthat could be why people often figure out thorny problems in their dreams. \"As\nif the brain surveys the internal milieu and tries to figure out what it should be\ndoing, and whether our actions conflict with who we are,\" he says."
           },
           {
             "label": "E",
-            "content": "These may seem like vital mental functions, but no one has yet been able to"
+            "text": "These may seem like vital mental functions, but no one has yet been able to\nsay that REM sleep or dreaming is essential to life or even sanity. MAO\ninhibitors, an older class of antidepressants, essentially block REM sleep\nwithout any detectable effects, although people do get a \"REM rebound\" -\nextra REM - if they stop the medication. That's also true of selective serotonin\nreuptake inhibitors (SSRIs) like Prozac, which reduce dreaming by a third to a\nhalf. Even permanently losing the ability to dream doesn't have to be disabling.\nIsraeli researcher Peretz Lavie has been observing a patient named Yuval\nChamtzani, who was injured by a fragment of shrapnel that penetrated his\nbrain when he was 19. As a result, he gets no REM sleep and doesn't\nremember any dreams. But Lavie says that Chamtzani, now 55, \"is probably\nthe most normal person I know and one of the most successful ones.\" He's a\nlawyer, a painter and the editor of a puzzle column in a popular Israeli\nnewspaper."
           },
           {
             "label": "F",
-            "content": "The mystery of REM sleep is that even though it may not be essential, it is"
+            "text": "The mystery of REM sleep is that even though it may not be essential, it is\nubiquitous - at least in mammals and birds. But that doesn't mean all\nmammals and birds dream (or if they do, they're certainly not - talking about\nit). Some researchers think REM may have evolved for physiological reasons.\n\"One thing that's unique about mammals and birds is that they regulate body\ntemperature\", says neuroscientist Jerry Siegel, director of UCLA's Center for\nSleep Research. \"There's no good evidence that any coldblooded animal has\nREM sleep.\" REM sleep heats up the brain and non-REM cools it off, Siegel says,\nand that could mean that the changing sleep cycles allow the brain to repair\nitself. \"It seems likely that REM sleep is filling a basic physiological function and\nthat dreams are a kind of epiphenomenon,\" Siegel says - an extraneous\nbyproduct; like foam on beer."
           },
           {
             "label": "G",
-            "content": "Whatever the function of dreams at night, they clearly can play a role in"
+            "text": "Whatever the function of dreams at night, they clearly can play a role in\ntherapy during the day. The University of Maryland's Clara Hill, who has"
+          },
+          {
+            "label": null,
+            "text": "studied the use of dreams in therapy, says that dreams are a 'backdoor', into a\npatient's thinking. \"Dreams reveal stuff about you that you didn't know was\nthere,\" she says. The therapists she trains to work with patients' dreams are, in\nessence, heirs to Freud, using dream imagery to uncover hidden emotions and\nfeelings. Dreams provide clues to the nature of the more serious mental illness.\nSchizophrenics, for example, have poor-quality dreams, usually about objects\nrather than people. \"If you're going to understand human behavior,\" says\nRosalind Cartwright, a chairman of psychology at Rush University Medical\nCenter in Chicago, \"here's a big piece of it. Dreaming is our own storytelling\ntime - to help us know who we are, where we're going and how we're going to\nget there.\" Cartwright has been studying depression in divorced men and\nwomen, and she is finding that \"good dreamers,\" people who have vivid\ndreams with strong storylines, are less likely to remain depressed. She thinks\nthat dreaming helps diffuse strong emotions. \"Dreaming is a mental-health\nactivity,\" she says."
           }
-        ]
+        ],
+        "text": "What Are Dreams ?\n\nThousands of years ago, dreams were seen as messages from the gods, and in\nmany cultures, they are still considered prophetic. In ancient Greece, sick\npeople slept at the temples of Asclepius, the god of medicine, in order to\nreceive dreams that would heal them. Modern dream science really begins at\nthe end of the 19th century with Sigmund Feud, who theorized that dreams\nwere the expression of unconscious desires often stemming from childhood. He\nbelieved that exploring these hidden emotions through analysis could help cure\nmental illness. The Freudian model of psychoanalysis dominated until the\n1970s when new research into the chemistry of the brain showed that\nemotional problems could have biological or chemical roots, as well as\nenvironmental ones. In other words, we weren't sick just because of something\nour mothers did (or didn't do), but because of some imbalance that might be\ncured with medication.\n\nAfter Freud, the most important event in dream science was the discovery in\nthe early 1950s of a phase of sleep characterized by intense brain activity and\nrapid eye movement (REM). People awakened in the midst of REM sleep\nreported vivid dreams, which led researchers to conclude that most dreaming\ntook place during REM. Using the electroencephalograph (EEG), researchers\ncould see that brain activity during REM resembled that of the waking brain.\nThat old them that a lot more was going on at night than anyone had\nsuspected. But what, exactly?\n\nScientists still don't know for sure, although they have lots of theories. On one\nside are scientists like Harvard's Allan Hobson, who believes that dreams are\nessentially random. In the 1970s, Hobson and his colleague Robert McCarley\nproposed what they called the \"activation-synthesis hypothesis'\" which\ndescribes how dreams are formed by nerve signals sent out during REM sleep\nfrom a small area at the base of the brain called the pons. These signals, the\nresearchers said, activate the images that we call dreams. That put a crimp in\ndream research; if dreams were meaningless nocturnal firings, what was the\npoint of studying them?\n\nAdult humans spend about a quarter of their sleep time in REM, much of it\ndreaming. During that time, the body is essentially paralyzed but the brain is\nbuzzing. Scientists using PET and fMRI technology to watch the dreaming brain\nhave found that one of the most active areas during REM is the limbic system,\nwhich controls our emotions. Much less active is the prefrontal cortex, which is\nassociated with logical thinking. That could explain why dreams in REM sleep\noften lack a coherent storyline (some researchers have also found that people\n\ndream in non-REM sleep as well, although those dreams generally are less\nvivid.) Another active part of the brain in REM sleep is the anterior cingulate\ncortex, which detects discrepancies. Eric Nofzinger, director of the Sleep\nNeuroimaging Program at the University of Pittsburgh Medical Center, thinks\nthat could be why people often figure out thorny problems in their dreams. \"As\nif the brain surveys the internal milieu and tries to figure out what it should be\ndoing, and whether our actions conflict with who we are,\" he says.\n\nThese may seem like vital mental functions, but no one has yet been able to\nsay that REM sleep or dreaming is essential to life or even sanity. MAO\ninhibitors, an older class of antidepressants, essentially block REM sleep\nwithout any detectable effects, although people do get a \"REM rebound\" -\nextra REM - if they stop the medication. That's also true of selective serotonin\nreuptake inhibitors (SSRIs) like Prozac, which reduce dreaming by a third to a\nhalf. Even permanently losing the ability to dream doesn't have to be disabling.\nIsraeli researcher Peretz Lavie has been observing a patient named Yuval\nChamtzani, who was injured by a fragment of shrapnel that penetrated his\nbrain when he was 19. As a result, he gets no REM sleep and doesn't\nremember any dreams. But Lavie says that Chamtzani, now 55, \"is probably\nthe most normal person I know and one of the most successful ones.\" He's a\nlawyer, a painter and the editor of a puzzle column in a popular Israeli\nnewspaper.\n\nThe mystery of REM sleep is that even though it may not be essential, it is\nubiquitous - at least in mammals and birds. But that doesn't mean all\nmammals and birds dream (or if they do, they're certainly not - talking about\nit). Some researchers think REM may have evolved for physiological reasons.\n\"One thing that's unique about mammals and birds is that they regulate body\ntemperature\", says neuroscientist Jerry Siegel, director of UCLA's Center for\nSleep Research. \"There's no good evidence that any coldblooded animal has\nREM sleep.\" REM sleep heats up the brain and non-REM cools it off, Siegel says,\nand that could mean that the changing sleep cycles allow the brain to repair\nitself. \"It seems likely that REM sleep is filling a basic physiological function and\nthat dreams are a kind of epiphenomenon,\" Siegel says - an extraneous\nbyproduct; like foam on beer.\n\nWhatever the function of dreams at night, they clearly can play a role in\ntherapy during the day. The University of Maryland's Clara Hill, who has\n\nstudied the use of dreams in therapy, says that dreams are a 'backdoor', into a\npatient's thinking. \"Dreams reveal stuff about you that you didn't know was\nthere,\" she says. The therapists she trains to work with patients' dreams are, in\nessence, heirs to Freud, using dream imagery to uncover hidden emotions and\nfeelings. Dreams provide clues to the nature of the more serious mental illness.\nSchizophrenics, for example, have poor-quality dreams, usually about objects\nrather than people. \"If you're going to understand human behavior,\" says\nRosalind Cartwright, a chairman of psychology at Rush University Medical\nCenter in Chicago, \"here's a big piece of it. Dreaming is our own storytelling\ntime - to help us know who we are, where we're going and how we're going to\nget there.\" Cartwright has been studying depression in divorced men and\nwomen, and she is finding that \"good dreamers,\" people who have vivid\ndreams with strong storylines, are less likely to remain depressed. She thinks\nthat dreaming helps diffuse strong emotions. \"Dreaming is a mental-health\nactivity,\" she says.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct number, A-G, in boxes 27-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 32-34 on your answer sheet.",
+          "body": null,
+          "range": [
+            32,
+            34
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "matching-features",
+          "instruction": "Look at the following people and the list of statements below. Match each statement with the correct person, A-G.",
+          "body": null,
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": [
+              "Sigmund Freud",
+              "Allan Hobson (Harvard)",
+              "Robert McCarley",
+              "Eric Nofzinger",
+              "Jerry Siegel",
+              "Clara Hill",
+              "Rosalind Cartwright"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Reference of an artist's dreams who has versatile talents",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The dream actually happens to many animals",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Dreams are related to benefit and happiness",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Advanced scientific technology applied in the",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
           "number": 31,
-          "type": "matching-features",
-          "prompt": "Questioning concern raised about the usefulness of investigation on dreams Choose the correct letter, A, B, C or D. Write your answers in boxes 32-34 on your answer sheet.",
-          "instruction": "Which paragraph contains the following information? Write the correct number, A-G, in boxes 27-31 on your answer sheet. A A B B C C D D E E F F G G 27 Reference of an artist’s dreams who has versatile talents 28 The dream actually happens to many animals 29 Dreams are related to benefit and happiness 30 Advanced scientific technology applied in the",
-          "answer": "C"
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Questioning concern raised about the usefulness of\ninvestigation on dreams",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 32,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "What were dreams regarded as by ancient people?",
-          "instruction": "Which paragraph contains the following information? Write the correct number, A-G, in boxes 27-31 on your answer sheet. A A B B C C D D E E F F G G 27 Reference of an artist’s dreams who has versatile talents 28 The dream actually happens to many animals 29 Dreams are related to benefit and happiness 30 Advanced scientific technology applied in the Choose the correct letter, A, B, C or D. Write your answers in boxes 32-34 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "superstitious and unreliable",
+            "communication with gods and chance to predict the future",
+            "medical relief for children with an ill desire",
+            "rules to follow as they fell asleep in a temple"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 33,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "According to Paragraph D, which part of the brain controls reasoning?",
-          "instruction": "Which paragraph contains the following information? Write the correct number, A-G, in boxes 27-31 on your answer sheet. A A B B C C D D E E F F G G 27 Reference of an artist’s dreams who has versatile talents 28 The dream actually happens to many animals 29 Dreams are related to benefit and happiness 30 Advanced scientific technology applied in the Choose the correct letter, A, B, C or D. Write your answers in boxes 32-34 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "anterior cingulate cortex",
+            "internal cortex",
+            "limbic system",
+            "prefrontal cortex"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 34,
           "type": "multiple-choice",
-          "prompt": "What can we conclude when the author cited a reference for dreams",
-          "instruction": "Which paragraph contains the following information? Write the correct number, A-G, in boxes 27-31 on your answer sheet. A A B B C C D D E E F F G G 27 Reference of an artist’s dreams who has versatile talents 28 The dream actually happens to many animals 29 Dreams are related to benefit and happiness 30 Advanced scientific technology applied in the Choose the correct letter, A, B, C or D. Write your answers in boxes 32-34 on your answer sheet.",
-          "answer": "A",
+          "groupId": "p3g2",
+          "prompt": "What can we conclude when the author cited a reference for dreams in animals?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Brain temperature rises when REM pattern happens.",
+            "The reason why mammals are warm-blooded",
+            "mammals are bound to appear with more frequent REM.",
+            "REM makes people want to drink beer with more foam."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Dreams sometimes come along with REM as no more\nthan a trivial attachment",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Exploring patients' dreams would be beneficial for\ntreatment as it reveals the unconscious thinking",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Dreams help people cope with the difficulties they meet\nin the daytime",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Decoding dreams would provide a reminder to human\ndesire in the early days",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Dreams are a body function to control strong emotion",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "Dreams seem to be as randomly occurring and have\nlimited research significance.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     }
@@ -328,6 +1223,10 @@
     "2": "TRUE",
     "3": "TRUE",
     "4": "FALSE",
+    "5": "D,E",
+    "6": "D,E",
+    "7": "C,D",
+    "8": "C,D",
     "9": "B",
     "10": "D",
     "11": "D",

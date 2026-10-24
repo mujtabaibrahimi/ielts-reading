@@ -1,0 +1,18 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text for each gap.",
+    "body": "The January rains are described as 'crucial' because [[5]] need the water. Maize is an unsuitable crop in much of southern Africa because it requires [[6]]. In Zimbabwe, much agricultural produce cannot be moved because of [[7]]. [[8]] can be used instead of irrigation canals to water crops."
+  },
+  "p2g3": {
+    "_keepImage": true,
+    "_reason": "Each question is 'choose the correct answer or answers' with multi-letter keys (e.g. 25 'A,B'); cannot map to single inputs."
+  },
+  "_answers": {
+    "18": "A,C,D,F,G",
+    "19": "A,C,D,F,G",
+    "20": "A,C,D,F,G",
+    "21": "A,C,D,F,G",
+    "22": "A,C,D,F,G"
+  }
+}

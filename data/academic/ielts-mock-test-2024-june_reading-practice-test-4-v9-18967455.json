@@ -1,181 +1,1066 @@
 {
   "id": "ielts-mock-test-2024-june_reading-practice-test-4-v9-18967455",
   "type": "academic",
-  "source": "ielts-mock-test-2024-june reading-practice-test-4-v9-18967455",
+  "title": "IELTS Academic 2024 June - Reading Test 4",
+  "collection": "IELTS Academic Mock Tests 2024",
+  "testNumber": 4,
+  "year": 2024,
+  "month": 6,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2024-june_reading-practice-test-4-v9-18967455.pdf",
-  "total_questions": 8,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Spot the Difference",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1 -13, which are based on\nReading Passage 1 below.\nSpot the Difference\nA. Taxonomic history has been made this week, at least according to the World\nWildlife Fund (WWF). a conservation group. Scientists have described a new\nspecies of clouded leopard from the tropical forests of Indonesia with spots (or\n“clouds\", as they are poetically known; smaller than those of other clouded\nleopards, with fur a little darker and with a double as opposed to a \"partial\ndouble\" stripe down its back.\nB. However, no previously unknown beast has suddenly leapt out from the\nforest. Instead, some scientists have proposed a change in the official\ntaxonomic accounting system of clouded leopards. Where there were four\nsubspecies there will likely now be two species. A genetic analysis and a closer\ninspection of museum specimens’ coats published in Current Biology has found\nno relevant difference between three subspecies described 50 years ago from\ncontinental Asia and from the Hainan and Taiwan islands. The 5,000-11,000\nclouded leopards on Borneo, the 3,000 -7,000 on Sumatra, and the remaining\nfew on the nearby Batu islands can now, the authors say, claim a more\nelevated distinction as a species.\nC. What this actually means is fuzzy and whether it is scientifically important is\nquestionable. In any case, biologists do not agree what species and subspecies\nare. Creatures are given Latin first and second names (corresponding to a\ngenus and species) according to the convention of Carl von Linné, who was\nborn 300 years ago this May. But Linneaus, as he is more commonly known,\nthought of species as perfectly discrete units created by God. Darwinism has\nthem as mutable things, generated gradually over time by natural selection.\nSo, delineating when enough variation has evolved to justify a new category is\nlargely a matter of taste.\nD. Take ants and butterflies. Ant experts have recently been waging a war\nagainst all types of species subdivision. Lepidopterists, on the other hand, cling\nto the double barrel second names from their discipline’s 19th-century\ntradition, and categorise many local subclasses within species found over wide\nareas. Thus, it would be futile - if one were so inclined - to attempt to compare\nthe diversity of ant and butterfly populations.\nE. The traditional way around the problem is to call a species all members of a\n\ngroup that share the same gene pool. They can mate together and produce\nfertile offspring. Whether Indonesian clouded leopards can make cubs with\ncontinental ones remains unknown but seems probable. Instead, the claim this\nweek is that genetics and slight differences in fur patterning are enough to\njustify rebranding the clouded leopard as two significant types. Genetically,\nthat makes sense if many DNA variations correlate perfectly between members\nof the two groups. The authors did find some correlation, but they looked for it\nin only three Indonesian animals. A larger sample would have been more\ndifficult.\nF. One thing is abundantly clear: conservationists who are trying to stop the\ndestruction of the leopards’ habitat in Borneo and Sumatra see the\nannouncement of a new species of big cat as a means to gain publicity and\npolitical capital. Upgrading subspecies to species is a strategy which James\nMallet, of University College London, likes to call species inflation. It is a\ncommon by-product of genetic analysis, which can reveal differences between\npopulations that the eye cannot. Creating ever more detailed genetic\ncategories means creating smaller and increasingly restricted populations of\nmore species. The trouble is that risks devaluing the importance of the term\n“species”.\nG. The problem of redefining species by genetics is the creation of taxonomic\nconfusion, a potentially serious difficulty for conservationists and others. The\nrecent proposal to add the polar bear to the list of animals protected under\nAmerica’s Endangered Species Act is an example. That seems all well and\ngood. However, study the genetics and it transpires that polar bears are closer\nto some brown bears, than some brown bears are to each other. Go by the\ngenes and it seems that the polar bear would not count as a species in its own\nright (and thus might not enjoy the protection afforded to species) but should\nbe labelled a subspecies of the brown bear.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Taxonomic history has been made this week, at least according to the World"
+            "label": null,
+            "text": "Spot the Difference"
           },
           {
-            "label": "B",
-            "content": "However, no previously unknown beast has suddenly leapt out from the"
+            "label": null,
+            "text": "A. Taxonomic history has been made this week, at least according to the World\nWildlife Fund (WWF). a conservation group. Scientists have described a new\nspecies of clouded leopard from the tropical forests of Indonesia with spots (or\n\"clouds\", as they are poetically known; smaller than those of other clouded\nleopards, with fur a little darker and with a double as opposed to a \"partial\ndouble\" stripe down its back."
           },
           {
-            "label": "C",
-            "content": "What this actually means is fuzzy and whether it is scientifically important is"
+            "label": null,
+            "text": "B. However, no previously unknown beast has suddenly leapt out from the\nforest. Instead, some scientists have proposed a change in the official\ntaxonomic accounting system of clouded leopards. Where there were four\nsubspecies there will likely now be two species. A genetic analysis and a closer\ninspection of museum specimens' coats published in Current Biology has found\nno relevant difference between three subspecies described 50 years ago from\ncontinental Asia and from the Hainan and Taiwan islands. The 5,000-11,000\nclouded leopards on Borneo, the 3,000 -7,000 on Sumatra, and the remaining\nfew on the nearby Batu islands can now, the authors say, claim a more\nelevated distinction as a species."
           },
           {
-            "label": "D",
-            "content": "Take ants and butterflies. Ant experts have recently been waging a war"
+            "label": null,
+            "text": "C. What this actually means is fuzzy and whether it is scientifically important is\nquestionable. In any case, biologists do not agree what species and subspecies\nare. Creatures are given Latin first and second names (corresponding to a\ngenus and species) according to the convention of Carl von Linné, who was\nborn 300 years ago this May. But Linneaus, as he is more commonly known,\nthought of species as perfectly discrete units created by God. Darwinism has\nthem as mutable things, generated gradually over time by natural selection.\nSo, delineating when enough variation has evolved to justify a new category is\nlargely a matter of taste."
           },
           {
-            "label": "E",
-            "content": "The traditional way around the problem is to call a species all members of a"
+            "label": null,
+            "text": "D. Take ants and butterflies. Ant experts have recently been waging a war\nagainst all types of species subdivision. Lepidopterists, on the other hand, cling\nto the double barrel second names from their discipline's 19th-century\ntradition, and categorise many local subclasses within species found over wide\nareas. Thus, it would be futile - if one were so inclined - to attempt to compare\nthe diversity of ant and butterfly populations."
           },
           {
-            "label": "F",
-            "content": "One thing is abundantly clear: conservationists who are trying to stop the"
+            "label": null,
+            "text": "E. The traditional way around the problem is to call a species all members of a"
           },
           {
-            "label": "G",
-            "content": "The problem of redefining species by genetics is the creation of taxonomic"
+            "label": null,
+            "text": "group that share the same gene pool. They can mate together and produce\nfertile offspring. Whether Indonesian clouded leopards can make cubs with\ncontinental ones remains unknown but seems probable. Instead, the claim this\nweek is that genetics and slight differences in fur patterning are enough to\njustify rebranding the clouded leopard as two significant types. Genetically,\nthat makes sense if many DNA variations correlate perfectly between members\nof the two groups. The authors did find some correlation, but they looked for it\nin only three Indonesian animals. A larger sample would have been more\ndifficult."
+          },
+          {
+            "label": null,
+            "text": "F. One thing is abundantly clear: conservationists who are trying to stop the\ndestruction of the leopards' habitat in Borneo and Sumatra see the\nannouncement of a new species of big cat as a means to gain publicity and\npolitical capital. Upgrading subspecies to species is a strategy which James\nMallet, of University College London, likes to call species inflation. It is a\ncommon by-product of genetic analysis, which can reveal differences between\npopulations that the eye cannot. Creating ever more detailed genetic\ncategories means creating smaller and increasingly restricted populations of\nmore species. The trouble is that risks devaluing the importance of the term\n\"species\"."
+          },
+          {
+            "label": null,
+            "text": "G. The problem of redefining species by genetics is the creation of taxonomic\nconfusion, a potentially serious difficulty for conservationists and others. The\nrecent proposal to add the polar bear to the list of animals protected under\nAmerica's Endangered Species Act is an example. That seems all well and\ngood. However, study the genetics and it transpires that polar bears are closer\nto some brown bears, than some brown bears are to each other. Go by the\ngenes and it seems that the polar bear would not count as a species in its own\nright (and thus might not enjoy the protection afforded to species) but should\nbe labelled a subspecies of the brown bear."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 5-8",
-      "questionRange": [
-        5,
-        8
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 5-8\nQuestions 9-13\nconservationists\n4\n Some scientists want to change the way clouded\nleopards are classified into species and subspecies.\nComplete the following sentences using NO MORE THAN TWO WORDS\nfrom the text for each gap.\nIt is difficult to decide exactly when there is enough 5\n to say an\nanimal is a new species.\nIt is 6\n to compare the number of species of ant and butterfly.\nGenerally, animals of the same species can make 7\n together.\nSome scientists claim that genetics has led to 8\n rather than the\nactual discovery of new species.\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 9 -13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n9\n The possible new species of leopard appears different\nin two ways.\n10\n Darwinism created a problem with how species are\ndefined.\n11\n Lepidopterists study ants.\n12\n Scientists are going to study more clouded leopards in\nIndonesia.\n13\n The writer believes that polar bears are not a species\n\nin their own right.",
-        "tables": [],
+        ],
+        "text": "Spot the Difference\n\nA. Taxonomic history has been made this week, at least according to the World\nWildlife Fund (WWF). a conservation group. Scientists have described a new\nspecies of clouded leopard from the tropical forests of Indonesia with spots (or\n\"clouds\", as they are poetically known; smaller than those of other clouded\nleopards, with fur a little darker and with a double as opposed to a \"partial\ndouble\" stripe down its back.\n\nB. However, no previously unknown beast has suddenly leapt out from the\nforest. Instead, some scientists have proposed a change in the official\ntaxonomic accounting system of clouded leopards. Where there were four\nsubspecies there will likely now be two species. A genetic analysis and a closer\ninspection of museum specimens' coats published in Current Biology has found\nno relevant difference between three subspecies described 50 years ago from\ncontinental Asia and from the Hainan and Taiwan islands. The 5,000-11,000\nclouded leopards on Borneo, the 3,000 -7,000 on Sumatra, and the remaining\nfew on the nearby Batu islands can now, the authors say, claim a more\nelevated distinction as a species.\n\nC. What this actually means is fuzzy and whether it is scientifically important is\nquestionable. In any case, biologists do not agree what species and subspecies\nare. Creatures are given Latin first and second names (corresponding to a\ngenus and species) according to the convention of Carl von Linné, who was\nborn 300 years ago this May. But Linneaus, as he is more commonly known,\nthought of species as perfectly discrete units created by God. Darwinism has\nthem as mutable things, generated gradually over time by natural selection.\nSo, delineating when enough variation has evolved to justify a new category is\nlargely a matter of taste.\n\nD. Take ants and butterflies. Ant experts have recently been waging a war\nagainst all types of species subdivision. Lepidopterists, on the other hand, cling\nto the double barrel second names from their discipline's 19th-century\ntradition, and categorise many local subclasses within species found over wide\nareas. Thus, it would be futile - if one were so inclined - to attempt to compare\nthe diversity of ant and butterfly populations.\n\nE. The traditional way around the problem is to call a species all members of a\n\ngroup that share the same gene pool. They can mate together and produce\nfertile offspring. Whether Indonesian clouded leopards can make cubs with\ncontinental ones remains unknown but seems probable. Instead, the claim this\nweek is that genetics and slight differences in fur patterning are enough to\njustify rebranding the clouded leopard as two significant types. Genetically,\nthat makes sense if many DNA variations correlate perfectly between members\nof the two groups. The authors did find some correlation, but they looked for it\nin only three Indonesian animals. A larger sample would have been more\ndifficult.\n\nF. One thing is abundantly clear: conservationists who are trying to stop the\ndestruction of the leopards' habitat in Borneo and Sumatra see the\nannouncement of a new species of big cat as a means to gain publicity and\npolitical capital. Upgrading subspecies to species is a strategy which James\nMallet, of University College London, likes to call species inflation. It is a\ncommon by-product of genetic analysis, which can reveal differences between\npopulations that the eye cannot. Creating ever more detailed genetic\ncategories means creating smaller and increasingly restricted populations of\nmore species. The trouble is that risks devaluing the importance of the term\n\"species\".\n\nG. The problem of redefining species by genetics is the creation of taxonomic\nconfusion, a potentially serious difficulty for conservationists and others. The\nrecent proposal to add the polar bear to the list of animals protected under\nAmerica's Endangered Species Act is an example. That seems all well and\ngood. However, study the genetics and it transpires that polar bears are closer\nto some brown bears, than some brown bears are to each other. Go by the\ngenes and it seems that the polar bear would not count as a species in its own\nright (and thus might not enjoy the protection afforded to species) but should\nbe labelled a subspecies of the brown bear.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 7 paragraphs (A - G). Which paragraph contains each of the following pieces of information?",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN TWO WORDS from the text for each gap.",
+          "body": "It is difficult to decide exactly when there is enough [[5]] to say an animal is a new species. It is [[6]] to compare the number of species of ant and butterfly. Generally, animals of the same species can make [[7]] together. Some scientists claim that genetics has led to [[8]] rather than the actual discovery of new species.",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 9 -13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "How it is generally accepted that different species are",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The reason that conservationists are happy with the",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "How genes could cause a potential problem for",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Some scientists want to change the way clouded",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "variation/difference",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "futile",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "fertile offspring",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "species inflation",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "The possible new species of leopard appears different",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Darwinism created a problem with how species are\ndefined.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Lepidopterists study ants.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Scientists are going to study more clouded leopards in\nIndonesia.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "The writer believes that polar bears are not a species",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\non Reading Passage 2 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "The Fertility Bust"
+          },
+          {
+            "label": null,
+            "text": "A. Falling populations - the despair of state pension systems - are often\nregarded with calmness, even a secret satisfaction, by ordinary people.\nEuropeans no longer need large families to gather the harvest or to look after\nparents. They have used their good fortune to have fewer children, thinking\nthis will make their lives better. Much of Europe is too crowded as it is. Is this\nall that is going on? Germans have been agonising about recent European\nUnion estimates suggesting that 30% of German women are, and will remain,\nchildless. The number is a guess: Germany does not collect figures like this.\nEven if the share is 25%, as other surveys suggest, it is by far the highest in\nEurope."
+          },
+          {
+            "label": null,
+            "text": "B. Germany is something of an oddity in this. In most countries with low\nfertility, young women have their first child late, and stop at one. In Germany,\nwomen with children often have two or three, but many have none at all.\nGermany is also odd in experiencing low fertility for such a long time. Europe is\ndemographically polarised. Countries in the north and west saw fertility fall\nearly, in the 1960s. Recently, they have seen it stabilise or rise back towards\nreplacement level (i.e. 2.1 births per woman). Countries in the south and east,\non the other hand, saw fertility rates fall much faster, more recently (often to\nbelow 1.3, a rate at which the population falls by half every 45 years).\nGermany combines both. Its fertility rate fell below 2 in 1971, However, it has\nstayed low and is still only just above 1.3. This challenges the notion that\nEuropean fertility is likely to stabilise at tolerable levels. It raises questions\nabout whether the low birth rates of Italy and Poland, say, really are, as some\nhave argued, merely temporary."
+          },
+          {
+            "label": null,
+            "text": "C. The list of explanations for why German fertility has not rebounded is long.\nMichael Teitelbaum, a demographer at the Sloan Foundation in New York ticks\nthem off: poor childcare; unusually extended higher education; inflexible labour\nlaws; high youth unemployment; and non-economic or cultural factors. One\nGerman writer, Gunter Grass, wrote a novel, \"Headbirths\", in 1982, about\nHarm and Dorte Peters, \"a model couple\" who disport themselves on the\nbeaches of Asia rather than invest time and trouble in bringing up a baby.\n\"They keep a cat,\" writes Mr. Grass, \"and still have no child.\" The novel is\nsubtitled \"The Germans Are Dying Out\". With the exception of this cultural"
+          },
+          {
+            "label": null,
+            "text": "factor, none of these features is peculiar to Germany. If social and economic\nexplanations account for persistent low fertility there, then they may well\nproduce the same persistence elsewhere."
+          },
+          {
+            "label": null,
+            "text": "D. The reason for hoping otherwise is that the initial decline in southern and\neastern Europe was drastic, and may be reversible. In the Mediterranean,\ndemographic decline was associated with freeing young women from the\nconstraints of traditional Catholicism, which encouraged large families. In\neastern Europe, it was associated with the collapse in living standards and the\nending of pro-birth policies. In both regions, as such temporary factors fade,\nfertility rates might, in principle, be expected to rise. Indeed, they may already\nbe stabilising in Italy and Spain. Germany tells you that reversing these trends\ncan be hard. There, and elsewhere, fertility rates did not merely fall; they went\nbelow what people said they wanted. In 1979, Eurobarometer asked Europeans\nhow many children they would like. Almost everywhere, the answer was two:\nthe traditional two-child ideal persisted even when people were not delivering\nit. This may have reflected old habits of mind. Or people may really be having\nfewer children than they claim to want."
+          },
+          {
+            "label": null,
+            "text": "E. A recent paper suggests how this might come about. If women postpone\ntheir first child past their mid-30s, it may be too late to have a second even if\nthey want one (the average age of first births in most of Europe is now 30). If\neveryone does the same, one child becomes the norm: a one-child policy by\nexample rather than coercion, as it were. If women wait to start a family until\nthey are established at work, they may end up postponing children longer than\nthey might otherwise have chosen. When birth rates began to fall in Europe,\nthis was said to be a simple matter of choice. That was true, but it is possible\nthat fertility may overshoot below what people might naturally have chosen.\nFor many years, politicians have argued that southern Europe will catch up\nfrom its fertility decline because women, having postponed their first child, will\nquickly have a second and third. The overshoot theory suggests there may be\nonly partial recuperation. Postponement could permanently lower fertility, not\njust redistribute it across time."
+          },
+          {
+            "label": null,
+            "text": "F. There is a twist. If people have fewer children than they claim to want, how\nthey see the family may change, too. Research by Tomas Sobotka of the\nVienna Institute of Demography suggests that, after decades of low fertility, a\nquarter of young German men and a fifth of young women say they have no\nintention of having children and think that this is fine. When Eurobarometer\nrepeated its poll about ideal family size in 2001, support for the two-child\nmodel had fallen everywhere. Parts of Europe, then, may be entering a new\ndemographic trap. People restrict family size from choice. Social, economic,"
+          },
+          {
+            "label": null,
+            "text": "and cultural factors then cause this natural fertility decline to overshoot. This\nchanges expectations, to which people respond by having even fewer children.\nThat does not necessarily mean that birth rates will fall even more: there may\nyet be some natural floor, but it could mean that recovery from very low\nfertility rates proves to be slow or even non-existent."
+          }
+        ],
+        "text": "The Fertility Bust\n\nA. Falling populations - the despair of state pension systems - are often\nregarded with calmness, even a secret satisfaction, by ordinary people.\nEuropeans no longer need large families to gather the harvest or to look after\nparents. They have used their good fortune to have fewer children, thinking\nthis will make their lives better. Much of Europe is too crowded as it is. Is this\nall that is going on? Germans have been agonising about recent European\nUnion estimates suggesting that 30% of German women are, and will remain,\nchildless. The number is a guess: Germany does not collect figures like this.\nEven if the share is 25%, as other surveys suggest, it is by far the highest in\nEurope.\n\nB. Germany is something of an oddity in this. In most countries with low\nfertility, young women have their first child late, and stop at one. In Germany,\nwomen with children often have two or three, but many have none at all.\nGermany is also odd in experiencing low fertility for such a long time. Europe is\ndemographically polarised. Countries in the north and west saw fertility fall\nearly, in the 1960s. Recently, they have seen it stabilise or rise back towards\nreplacement level (i.e. 2.1 births per woman). Countries in the south and east,\non the other hand, saw fertility rates fall much faster, more recently (often to\nbelow 1.3, a rate at which the population falls by half every 45 years).\nGermany combines both. Its fertility rate fell below 2 in 1971, However, it has\nstayed low and is still only just above 1.3. This challenges the notion that\nEuropean fertility is likely to stabilise at tolerable levels. It raises questions\nabout whether the low birth rates of Italy and Poland, say, really are, as some\nhave argued, merely temporary.\n\nC. The list of explanations for why German fertility has not rebounded is long.\nMichael Teitelbaum, a demographer at the Sloan Foundation in New York ticks\nthem off: poor childcare; unusually extended higher education; inflexible labour\nlaws; high youth unemployment; and non-economic or cultural factors. One\nGerman writer, Gunter Grass, wrote a novel, \"Headbirths\", in 1982, about\nHarm and Dorte Peters, \"a model couple\" who disport themselves on the\nbeaches of Asia rather than invest time and trouble in bringing up a baby.\n\"They keep a cat,\" writes Mr. Grass, \"and still have no child.\" The novel is\nsubtitled \"The Germans Are Dying Out\". With the exception of this cultural\n\nfactor, none of these features is peculiar to Germany. If social and economic\nexplanations account for persistent low fertility there, then they may well\nproduce the same persistence elsewhere.\n\nD. The reason for hoping otherwise is that the initial decline in southern and\neastern Europe was drastic, and may be reversible. In the Mediterranean,\ndemographic decline was associated with freeing young women from the\nconstraints of traditional Catholicism, which encouraged large families. In\neastern Europe, it was associated with the collapse in living standards and the\nending of pro-birth policies. In both regions, as such temporary factors fade,\nfertility rates might, in principle, be expected to rise. Indeed, they may already\nbe stabilising in Italy and Spain. Germany tells you that reversing these trends\ncan be hard. There, and elsewhere, fertility rates did not merely fall; they went\nbelow what people said they wanted. In 1979, Eurobarometer asked Europeans\nhow many children they would like. Almost everywhere, the answer was two:\nthe traditional two-child ideal persisted even when people were not delivering\nit. This may have reflected old habits of mind. Or people may really be having\nfewer children than they claim to want.\n\nE. A recent paper suggests how this might come about. If women postpone\ntheir first child past their mid-30s, it may be too late to have a second even if\nthey want one (the average age of first births in most of Europe is now 30). If\neveryone does the same, one child becomes the norm: a one-child policy by\nexample rather than coercion, as it were. If women wait to start a family until\nthey are established at work, they may end up postponing children longer than\nthey might otherwise have chosen. When birth rates began to fall in Europe,\nthis was said to be a simple matter of choice. That was true, but it is possible\nthat fertility may overshoot below what people might naturally have chosen.\nFor many years, politicians have argued that southern Europe will catch up\nfrom its fertility decline because women, having postponed their first child, will\nquickly have a second and third. The overshoot theory suggests there may be\nonly partial recuperation. Postponement could permanently lower fertility, not\njust redistribute it across time.\n\nF. There is a twist. If people have fewer children than they claim to want, how\nthey see the family may change, too. Research by Tomas Sobotka of the\nVienna Institute of Demography suggests that, after decades of low fertility, a\nquarter of young German men and a fifth of young women say they have no\nintention of having children and think that this is fine. When Eurobarometer\nrepeated its poll about ideal family size in 2001, support for the two-child\nmodel had fallen everywhere. Parts of Europe, then, may be entering a new\ndemographic trap. People restrict family size from choice. Social, economic,\n\nand cultural factors then cause this natural fertility decline to overshoot. This\nchanges expectations, to which people respond by having even fewer children.\nThat does not necessarily mean that birth rates will fall even more: there may\nyet be some natural floor, but it could mean that recovery from very low\nfertility rates proves to be slow or even non-existent.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 6 paragraphs (A - F). Which paragraph does each of the following headings best fit?",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "According to the text, FIVE of the following statements are true.",
+          "body": "Write the corresponding letters in answer boxes [[18]] to [[22]] in any order. A Germany has the highest percentage of childless women. B Italy and Poland have high birth rates. C Most of the reasons given by Michael Teitelbaum are not unique to Germany. D Governments in eastern Europe encouraged people to have children. E In 1979, most families had one or two children. F European women who have a child later usually have more soon after. G In 2001, people wanted fewer children than in 1979, according to Eurobarometer research. H Here may be a natural level at which birth rates stop declining.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "matching-features",
+          "instruction": "necessary to have as many children because A Less labour is needed to farm land. B There's growing cultural focus on individual freedom. C Adults have a general dislike towards children. reason for low fertility rate? A Poor childcare facilities B Longer working hours C High unemployment amongst young adults because of A The reduced influence of the Catholic church B Higher standards of living C Governments encourage smaller families A Women are having children at a later age B They are following the example of other people C Politicians want them to",
+          "body": null,
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "Less labour is needed to farm land.",
+              "There's growing cultural focus on individual freedom.",
+              "Adults have a general dislike towards children."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Even further falls?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "One-child policy",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Germany differs",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Possible reasons",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,G,H",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,G,H",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,G,H",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,G,H",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,G,H",
+          "trap": null
+        },
         {
           "number": 23,
           "type": "matching-features",
-          "prompt": "In paragraph 1, it’s stated that ordinary Europeans do not think it is",
-          "instruction": "below 1.3, a rate at which the population falls by half every 45 years). Germany combines both. Its fertility rate fell below 2 in 1971, However, it has stayed low and is still only just above 1.3. This challenges the notion that European fertility is likely to stabilise at tolerable levels. It raises questions about whether the low birth rates of Italy and Poland, say, really are, as some have argued, merely temporary. C. The list of explanations for why German fertility has not rebounded is long. Michael Teitelbaum, a demographer at the Sloan Foundation in New York ticks them off: poor childcare; unusually extended higher education; inflexible labour laws; high youth unemployment; and non-economic or cultural factors. One German writer, Gunter Grass, wrote a novel, “Headbirths”, in 1982, about Harm and Dorte Peters, “a model couple” who disport themselves on the beaches of Asia rather than invest time and trouble in bringing up a baby. “They keep a cat,” writes Mr. Grass, “and still have no child.” The novel is subtitled “The Germans Are Dying Out”. With the exception of this cultural below what people said they wanted. In 1979, Eurobarometer asked Europeans how many children they would like. Almost everywhere, the answer was two: the traditional two-child ideal persisted even when people were not delivering it. This may have reflected old habits of mind. Or people may really be having fewer children than they claim to want. E. A recent paper suggests how this might come about. If women postpone their first child past their mid-30s, it may be too late to have a second even if they want one (the average age of first births in most of Europe is now 30). If everyone does the same, one child becomes the norm: a one-child policy by example rather than coercion, as it were. If women wait to start a family until they are established at work, they may end up postponing children longer than they might otherwise have chosen. When birth rates began to fall in Europe, this was said to be a simple matter of choice. That was true, but it is possible that fertility may overshoot below what people might naturally have chosen. For many years, politicians have argued that southern Europe will catch up from its fertility decline because women, having postponed their first child, will quickly have a second and third. The overshoot theory suggests there may be only partial recuperation. Postponement could permanently lower fertility, not just redistribute it across time. F. There is a twist. If people have fewer children than they claim to want, how they see the family may change, too. Research by Tomas Sobotka of the Vienna Institute of Demography suggests that, after decades of low fertility, a quarter of young German men and a fifth of young women say they have no intention of having children and think that this is fine. When Eurobarometer repeated its poll about ideal family size in 2001, support for the two-child model had fallen everywhere. Parts of Europe, then, may be entering a new demographic trap. People restrict family size from choice. Social, economic, Which paragraph does each of the following headings best fit? 14 Even further falls? 15 One-child policy 16 Germany differs 17 Possible reasons According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A",
-          "answer": "A"
+          "groupId": "p2g3",
+          "prompt": "In paragraph 1, it's stated that ordinary Europeans do not think it is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 24,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "According to Michael Teitelbaum, which of the following is NOT a",
-          "instruction": "below 1.3, a rate at which the population falls by half every 45 years). Germany combines both. Its fertility rate fell below 2 in 1971, However, it has stayed low and is still only just above 1.3. This challenges the notion that European fertility is likely to stabilise at tolerable levels. It raises questions about whether the low birth rates of Italy and Poland, say, really are, as some have argued, merely temporary. C. The list of explanations for why German fertility has not rebounded is long. Michael Teitelbaum, a demographer at the Sloan Foundation in New York ticks them off: poor childcare; unusually extended higher education; inflexible labour laws; high youth unemployment; and non-economic or cultural factors. One German writer, Gunter Grass, wrote a novel, “Headbirths”, in 1982, about Harm and Dorte Peters, “a model couple” who disport themselves on the beaches of Asia rather than invest time and trouble in bringing up a baby. “They keep a cat,” writes Mr. Grass, “and still have no child.” The novel is subtitled “The Germans Are Dying Out”. With the exception of this cultural below what people said they wanted. In 1979, Eurobarometer asked Europeans how many children they would like. Almost everywhere, the answer was two: the traditional two-child ideal persisted even when people were not delivering it. This may have reflected old habits of mind. Or people may really be having fewer children than they claim to want. E. A recent paper suggests how this might come about. If women postpone their first child past their mid-30s, it may be too late to have a second even if they want one (the average age of first births in most of Europe is now 30). If everyone does the same, one child becomes the norm: a one-child policy by example rather than coercion, as it were. If women wait to start a family until they are established at work, they may end up postponing children longer than they might otherwise have chosen. When birth rates began to fall in Europe, this was said to be a simple matter of choice. That was true, but it is possible that fertility may overshoot below what people might naturally have chosen. For many years, politicians have argued that southern Europe will catch up from its fertility decline because women, having postponed their first child, will quickly have a second and third. The overshoot theory suggests there may be only partial recuperation. Postponement could permanently lower fertility, not just redistribute it across time. F. There is a twist. If people have fewer children than they claim to want, how they see the family may change, too. Research by Tomas Sobotka of the Vienna Institute of Demography suggests that, after decades of low fertility, a quarter of young German men and a fifth of young women say they have no intention of having children and think that this is fine. When Eurobarometer repeated its poll about ideal family size in 2001, support for the two-child model had fallen everywhere. Parts of Europe, then, may be entering a new demographic trap. People restrict family size from choice. Social, economic, Which paragraph does each of the following headings best fit? 14 Even further falls? 15 One-child policy 16 Germany differs 17 Possible reasons According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 25,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "Initial declines in birth rates in southern and eastern Europe were",
-          "instruction": "below 1.3, a rate at which the population falls by half every 45 years). Germany combines both. Its fertility rate fell below 2 in 1971, However, it has stayed low and is still only just above 1.3. This challenges the notion that European fertility is likely to stabilise at tolerable levels. It raises questions about whether the low birth rates of Italy and Poland, say, really are, as some have argued, merely temporary. C. The list of explanations for why German fertility has not rebounded is long. Michael Teitelbaum, a demographer at the Sloan Foundation in New York ticks them off: poor childcare; unusually extended higher education; inflexible labour laws; high youth unemployment; and non-economic or cultural factors. One German writer, Gunter Grass, wrote a novel, “Headbirths”, in 1982, about Harm and Dorte Peters, “a model couple” who disport themselves on the beaches of Asia rather than invest time and trouble in bringing up a baby. “They keep a cat,” writes Mr. Grass, “and still have no child.” The novel is subtitled “The Germans Are Dying Out”. With the exception of this cultural below what people said they wanted. In 1979, Eurobarometer asked Europeans how many children they would like. Almost everywhere, the answer was two: the traditional two-child ideal persisted even when people were not delivering it. This may have reflected old habits of mind. Or people may really be having fewer children than they claim to want. E. A recent paper suggests how this might come about. If women postpone their first child past their mid-30s, it may be too late to have a second even if they want one (the average age of first births in most of Europe is now 30). If everyone does the same, one child becomes the norm: a one-child policy by example rather than coercion, as it were. If women wait to start a family until they are established at work, they may end up postponing children longer than they might otherwise have chosen. When birth rates began to fall in Europe, this was said to be a simple matter of choice. That was true, but it is possible that fertility may overshoot below what people might naturally have chosen. For many years, politicians have argued that southern Europe will catch up from its fertility decline because women, having postponed their first child, will quickly have a second and third. The overshoot theory suggests there may be only partial recuperation. Postponement could permanently lower fertility, not just redistribute it across time. F. There is a twist. If people have fewer children than they claim to want, how they see the family may change, too. Research by Tomas Sobotka of the Vienna Institute of Demography suggests that, after decades of low fertility, a quarter of young German men and a fifth of young women say they have no intention of having children and think that this is fine. When Eurobarometer repeated its poll about ideal family size in 2001, support for the two-child model had fallen everywhere. Parts of Europe, then, may be entering a new demographic trap. People restrict family size from choice. Social, economic, Which paragraph does each of the following headings best fit? 14 Even further falls? 15 One-child policy 16 Germany differs 17 Possible reasons According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 26,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "People may have fewer children than they want because",
-          "instruction": "below 1.3, a rate at which the population falls by half every 45 years). Germany combines both. Its fertility rate fell below 2 in 1971, However, it has stayed low and is still only just above 1.3. This challenges the notion that European fertility is likely to stabilise at tolerable levels. It raises questions about whether the low birth rates of Italy and Poland, say, really are, as some have argued, merely temporary. C. The list of explanations for why German fertility has not rebounded is long. Michael Teitelbaum, a demographer at the Sloan Foundation in New York ticks them off: poor childcare; unusually extended higher education; inflexible labour laws; high youth unemployment; and non-economic or cultural factors. One German writer, Gunter Grass, wrote a novel, “Headbirths”, in 1982, about Harm and Dorte Peters, “a model couple” who disport themselves on the beaches of Asia rather than invest time and trouble in bringing up a baby. “They keep a cat,” writes Mr. Grass, “and still have no child.” The novel is subtitled “The Germans Are Dying Out”. With the exception of this cultural below what people said they wanted. In 1979, Eurobarometer asked Europeans how many children they would like. Almost everywhere, the answer was two: the traditional two-child ideal persisted even when people were not delivering it. This may have reflected old habits of mind. Or people may really be having fewer children than they claim to want. E. A recent paper suggests how this might come about. If women postpone their first child past their mid-30s, it may be too late to have a second even if they want one (the average age of first births in most of Europe is now 30). If everyone does the same, one child becomes the norm: a one-child policy by example rather than coercion, as it were. If women wait to start a family until they are established at work, they may end up postponing children longer than they might otherwise have chosen. When birth rates began to fall in Europe, this was said to be a simple matter of choice. That was true, but it is possible that fertility may overshoot below what people might naturally have chosen. For many years, politicians have argued that southern Europe will catch up from its fertility decline because women, having postponed their first child, will quickly have a second and third. The overshoot theory suggests there may be only partial recuperation. Postponement could permanently lower fertility, not just redistribute it across time. F. There is a twist. If people have fewer children than they claim to want, how they see the family may change, too. Research by Tomas Sobotka of the Vienna Institute of Demography suggests that, after decades of low fertility, a quarter of young German men and a fifth of young women say they have no intention of having children and think that this is fine. When Eurobarometer repeated its poll about ideal family size in 2001, support for the two-child model had fallen everywhere. Parts of Europe, then, may be entering a new demographic trap. People restrict family size from choice. Social, economic, Which paragraph does each of the following headings best fit? 14 Even further falls? 15 One-child policy 16 Germany differs 17 Possible reasons According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Teens Try to Change the World, One\nPurchase at a Time"
+          },
+          {
+            "label": null,
+            "text": "When classes adjourn here at the Fayerweather Street School, eighth-graders\nignore the mall down the street and go straight to the place they consider\nmuch cooler: the local natural-foods grocer's. There, they gather in groups of\nten or more sometimes, smitten by a marketing atmosphere that links\nattractiveness to eating well. When time comes to buy something even as\nsmall as a chocolate treat, they feel good knowing a farmer somewhere\nprobably received a good price. \"Food is something you need to stay alive,\"\nsays eighth-grader Emma Lewis. \"Paying farmers well is really important\nbecause if we didn't have any unprocessed food, we'd all be living on candy.\""
+          },
+          {
+            "label": null,
+            "text": "Eating morally, as some describe it, is becoming a priority for teenagers as well\nas adults in their early 20s. What began a decade ago as a concern on college\ncampuses to shun clothing made in overseas sweatshops has given birth to a\nparallel phenomenon in the food and beverage industries. Here, youthful\nshoppers are leveraging their dollars in a bid to reduce pesticide usage, limit\ndeforestation, and make sure farmers are not left with a pittance on payday.\nOnce again, college campuses are setting the pace. Students at 30 colleges\nhave helped persuade administrators to make sure all cafeteria coffee comes\nwith a \"Fair Trade\" label, which means bean pickers in Latin America and Africa\nwere paid higher than the going rates. Their peers on another 300 campuses\nare pushing to follow suit, according to Students United for Fair Trade in\nWashington, D.C."
+          },
+          {
+            "label": null,
+            "text": "Coffee is just the beginning. Bon Appetit, an institutional food-service provider\nbased in California, relies on organic and locally grown produce. In each year\nsince 2001, more than 25 colleges have asked the company to bid on their\nfood-service contracts. Though Bon Appetit intentionally limits its growth, its\ncollegiate client list has grown from 58 to 71 in that period. \"It's really just\nbeen in the last five years that we've seen students become concerned with\nwhere their food was coming from,\" says Maisie Ganzler, Bon Appetit's director\nof strategic initiatives. \"Prior to that, students were excited to be getting\nsugared cereal.\""
+          },
+          {
+            "label": null,
+            "text": "To reach a younger set that often does not drink coffee, Fair Trade importer"
+          },
+          {
+            "label": null,
+            "text": "Equal Exchange rolled our a line of cocoa in 2003 and chocolate bars in 2004.\nProfits in both sectors have justified the project, says Equal Exchange co-\npresident Hob Everts. What is more, dozens of schools have contacted the firm\nto use its products in fundraisers and as classroom teaching, tools. \"Kids often\nare the ones who agitate in the family'\" for recycling and other eco-friendly\npractices, Mr. Everts says. \"So, it's a ripe audience.\""
+          },
+          {
+            "label": null,
+            "text": "Concerns of today's youthful food shoppers seem to reflect in some ways the\nidealism that inspired prior generations to join boycotts in solidarity with farm\nworkers. Today's efforts are distinct in that youthful consumers say they do not\nwant to make sacrifices. They want high-quality, competitively priced goods\nthat do not require exploitation of workers or the environment. They will gladly\nreward companies that deliver. One activist who shares this sentiment and\nhears it repeatedly from her peers is Summer Rayne Oakes, a recent college\ngraduate and fashion model who promotes stylish Fair Trade clothing. \"I'm not\ngoing to buy something that can't stand on its own or looks bad just because\nit's socially responsible,\" Ms. Oakes says. \"My generation has come to terms\nwith the fact that we're all consumers, and we all buy something. So, if I do\nhave to buy food, what are the consequences?\""
+          },
+          {
+            "label": null,
+            "text": "Wanting to ameliorate the world's big problems can be frustrating, especially\nfor those who feel ineffective because they are young. Marketers are figuring\nout that teenagers resent this feeling of powerlessness and are pushing\nproducts that make young buyers feel as though they are making a difference,\nsays Michael Wood, vice president of Teenage Research Unlimited. His\nexample: Ethos Water from Starbucks, which contributes five cents from every\nbottle sold to water-purification centres in developing countries. \"This is a very\neasy way for young people to contribute. All they have to do is buy bottled\nwater,\" Mr. Wood says. \"Buying products or supporting companies that give\nthem ways to support global issues is one way for them to get involved, and\nthey really appreciate that.\""
+          },
+          {
+            "label": null,
+            "text": "Convenience is also driving consumer activism. Joe Curnow, national\ncoordinator of United Students for Fair Trade, says she first got involved about\nfive years ago as a high schooler when she spent time hanging out in cafes.\nBuying coffee with an eco-friendly label \"was a very easy way for me to\nexpress what I believed in\", she says. For young teens, consumption is their\nfirst foray into activism. At the Fayerweather Street School, Emma Lewis\nteamed up with classmates Kayla Kleinman and Therese LaRue to sell Fair\nTrade chocolate, cocoa, and other products at a school fundraiser in November.\nWhen the tally reached $8,000, they realised they were striking a chord."
+          },
+          {
+            "label": null,
+            "text": "Some adults hasten to point out the limitations of ethical consumption as a tool"
+          },
+          {
+            "label": null,
+            "text": "for doing good deeds and personal growth. Gary Lindsay, director of Children's\nMinistries, encourages Fair Trade purchases, but he also organises children to\ncollect toys for foster children and save coins for a playground-construction\nproject in Tanzania. He says it helps them learn to enjoy helping others even\nwhen they are not getting anything tangible in return. \"When we're benefiting,\nhow much are we really giving? Is it really sacri-lice?\" Mr. Lindsay asks. Of Fair\nTrade products, he says: \"Those things are great when we're given\nopportunities like that once in a while, but I think for us to expect that we\nshould get something out of everything we do is a very selfish attitude to\nhave.\""
+          }
+        ],
+        "text": "Teens Try to Change the World, One\nPurchase at a Time\n\nWhen classes adjourn here at the Fayerweather Street School, eighth-graders\nignore the mall down the street and go straight to the place they consider\nmuch cooler: the local natural-foods grocer's. There, they gather in groups of\nten or more sometimes, smitten by a marketing atmosphere that links\nattractiveness to eating well. When time comes to buy something even as\nsmall as a chocolate treat, they feel good knowing a farmer somewhere\nprobably received a good price. \"Food is something you need to stay alive,\"\nsays eighth-grader Emma Lewis. \"Paying farmers well is really important\nbecause if we didn't have any unprocessed food, we'd all be living on candy.\"\n\nEating morally, as some describe it, is becoming a priority for teenagers as well\nas adults in their early 20s. What began a decade ago as a concern on college\ncampuses to shun clothing made in overseas sweatshops has given birth to a\nparallel phenomenon in the food and beverage industries. Here, youthful\nshoppers are leveraging their dollars in a bid to reduce pesticide usage, limit\ndeforestation, and make sure farmers are not left with a pittance on payday.\nOnce again, college campuses are setting the pace. Students at 30 colleges\nhave helped persuade administrators to make sure all cafeteria coffee comes\nwith a \"Fair Trade\" label, which means bean pickers in Latin America and Africa\nwere paid higher than the going rates. Their peers on another 300 campuses\nare pushing to follow suit, according to Students United for Fair Trade in\nWashington, D.C.\n\nCoffee is just the beginning. Bon Appetit, an institutional food-service provider\nbased in California, relies on organic and locally grown produce. In each year\nsince 2001, more than 25 colleges have asked the company to bid on their\nfood-service contracts. Though Bon Appetit intentionally limits its growth, its\ncollegiate client list has grown from 58 to 71 in that period. \"It's really just\nbeen in the last five years that we've seen students become concerned with\nwhere their food was coming from,\" says Maisie Ganzler, Bon Appetit's director\nof strategic initiatives. \"Prior to that, students were excited to be getting\nsugared cereal.\"\n\nTo reach a younger set that often does not drink coffee, Fair Trade importer\n\nEqual Exchange rolled our a line of cocoa in 2003 and chocolate bars in 2004.\nProfits in both sectors have justified the project, says Equal Exchange co-\npresident Hob Everts. What is more, dozens of schools have contacted the firm\nto use its products in fundraisers and as classroom teaching, tools. \"Kids often\nare the ones who agitate in the family'\" for recycling and other eco-friendly\npractices, Mr. Everts says. \"So, it's a ripe audience.\"\n\nConcerns of today's youthful food shoppers seem to reflect in some ways the\nidealism that inspired prior generations to join boycotts in solidarity with farm\nworkers. Today's efforts are distinct in that youthful consumers say they do not\nwant to make sacrifices. They want high-quality, competitively priced goods\nthat do not require exploitation of workers or the environment. They will gladly\nreward companies that deliver. One activist who shares this sentiment and\nhears it repeatedly from her peers is Summer Rayne Oakes, a recent college\ngraduate and fashion model who promotes stylish Fair Trade clothing. \"I'm not\ngoing to buy something that can't stand on its own or looks bad just because\nit's socially responsible,\" Ms. Oakes says. \"My generation has come to terms\nwith the fact that we're all consumers, and we all buy something. So, if I do\nhave to buy food, what are the consequences?\"\n\nWanting to ameliorate the world's big problems can be frustrating, especially\nfor those who feel ineffective because they are young. Marketers are figuring\nout that teenagers resent this feeling of powerlessness and are pushing\nproducts that make young buyers feel as though they are making a difference,\nsays Michael Wood, vice president of Teenage Research Unlimited. His\nexample: Ethos Water from Starbucks, which contributes five cents from every\nbottle sold to water-purification centres in developing countries. \"This is a very\neasy way for young people to contribute. All they have to do is buy bottled\nwater,\" Mr. Wood says. \"Buying products or supporting companies that give\nthem ways to support global issues is one way for them to get involved, and\nthey really appreciate that.\"\n\nConvenience is also driving consumer activism. Joe Curnow, national\ncoordinator of United Students for Fair Trade, says she first got involved about\nfive years ago as a high schooler when she spent time hanging out in cafes.\nBuying coffee with an eco-friendly label \"was a very easy way for me to\nexpress what I believed in\", she says. For young teens, consumption is their\nfirst foray into activism. At the Fayerweather Street School, Emma Lewis\nteamed up with classmates Kayla Kleinman and Therese LaRue to sell Fair\nTrade chocolate, cocoa, and other products at a school fundraiser in November.\nWhen the tally reached $8,000, they realised they were striking a chord.\n\nSome adults hasten to point out the limitations of ethical consumption as a tool\n\nfor doing good deeds and personal growth. Gary Lindsay, director of Children's\nMinistries, encourages Fair Trade purchases, but he also organises children to\ncollect toys for foster children and save coins for a playground-construction\nproject in Tanzania. He says it helps them learn to enjoy helping others even\nwhen they are not getting anything tangible in return. \"When we're benefiting,\nhow much are we really giving? Is it really sacri-lice?\" Mr. Lindsay asks. Of Fair\nTrade products, he says: \"Those things are great when we're given\nopportunities like that once in a while, but I think for us to expect that we\nshould get something out of everything we do is a very selfish attitude to\nhave.\"",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "For each question, only ONE of the choices is correct. Write the corresponding letter in the appropriate box on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN ONE WORD from the text for each gap. Eighth-graders from Fayerweather Street School go to the natural-foods",
+          "body": "grocer's rather than the [[31]] Bon Appetit limits its growth [[32]] Previously, young generations were [[33]] to make sacrifices. Young people can feel frustrated and [[34]] because of their age. Gary Lindsay [[35]] people to buy products that make use of Fair Trade.",
+          "range": [
+            31,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36 - 40 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Trying to change the world through what people purchase began with",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "chocolate",
+            "clothing",
+            "coffee"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 28,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Bon Appetit had_______colleges using its services in 2006.",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "25",
+            "58",
+            "71"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 29,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Buying Ethos Water helps provide money for",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "poor people in Africa.",
+            "poor farmers.",
+            "clean water projects."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 30,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Joe Curnow first got involved with consumer activism through buying",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "coffee",
+            "cocoa",
+            "water"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "mall",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "intentionally",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "inspired",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "ineffective",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "encourages",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Fair Trade coffee is more expensive than usual coffee.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Bon Appetit used to sell sugared cereal.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Hob Everts thinks that kids do not understand about\nprotecting the environment.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Summer Rayne Oakes will wear clothes that do not\nlook so good as long as they promote Fair Trade.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Gary Lindsay thinks people should do more than just\nconsume ethically.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 31-35",
-      "questionRange": [
-        31,
-        35
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 31-35\nQuestions 36-40\nB\n \nC\n \ncocoa\nwater\nComplete the following sentences using NO MORE THAN ONE WORD\nfrom the text for each gap.\nEighth-graders from Fayerweather Street School go to the natural-foods\ngrocer’s rather than the 31\nBon Appetit limits its growth 32\nPreviously, young generations were 33\n to make sacrifices.\nYoung people can feel frustrated and 34\n because of their age.\nGary Lindsay 35\n people to buy products that make use of Fair\nTrade.\nDo the following statements agree with the information given in Reading\nPassage 3?\nIn boxes 36 - 40 on your answer sheet, write:\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n36\n Fair Trade coffee is more expensive than usual coffee.\n37\n Bon Appetit used to sell sugared cereal.\n38\n Hob Everts thinks that kids do not understand about\nprotecting the environment.\n39\n Summer Rayne Oakes will wear clothes that do not\nlook so good as long as they promote Fair Trade.\n\n40\n Gary Lindsay thinks people should do more than just\nconsume ethically.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "B",
-            "content": "C"
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -196,7 +1081,7 @@
     "15": "E",
     "16": "B",
     "17": "C",
-    "22": "A,C,D,G,H",
+    "18": "A,C,D,G,H",
     "23": "A",
     "24": "B",
     "25": "A",
@@ -214,6 +1099,10 @@
     "37": "NOT GIVEN",
     "38": "FALSE",
     "39": "FALSE",
-    "40": "TRUE"
+    "40": "TRUE",
+    "19": "A,C,D,G,H",
+    "20": "A,C,D,G,H",
+    "21": "A,C,D,G,H",
+    "22": "A,C,D,G,H"
   }
 }

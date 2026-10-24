@@ -1,0 +1,122 @@
+{
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+    "body": "Advantages and Disadvantages of CCS table. Advantages of CCS: Sequestration is already used in the oil and gas sector. CCS may cut [[35]] in a short time. [[36]] in labour, industry, and states already support CCS. Alternatives, like [[37]] energy, take up vast amounts of space. Disadvantages of CCS: The construction of new and the conversion of existing power plants and the liquefaction and transport of CO2 are very costly. While sequestration is possible, the scale would be enormous. Therefore, CCS would need [[38]]. Some CCS technology is [[39]]. Gas-driven turbines for IGCC have not been used on an industrial scale. Shallow underground storage may be limited; deep ocean storage is currently impossible. Geologists fear leaks in quake-prone regions. Natural gas and solar PVs are cheaper. LCOE estimates for CCS = $0.09-15/kWh; for natural gas = [[40]]; and, for solar PV = $0.0849/kWh."
+  },
+  "p3g2": {
+    "instruction": "Label the diagrams below. Write the correct letter, A-H, in boxes 29-34 on your answer sheet.",
+    "optionBank": {
+      "title": "Labels",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": [
+        "CO2",
+        "Coal",
+        "Natural gas",
+        "Oil",
+        "Saline aquifer",
+        "Steam-driven turbines",
+        "Syngas",
+        "Syngas-driven turbines"
+      ]
+    },
+    "questions": {
+      "29": {
+        "prompt": "Carbon dioxide sequestration diagram, label 29: marked on the pipe running from the power plant to the tanks and down the wells",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "30": {
+        "prompt": "Carbon dioxide sequestration diagram, label 30: marked on the underground pocket on the left, reached by the angled well",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "31": {
+        "prompt": "Carbon dioxide sequestration diagram, label 31: marked on the deepest underground layer at the bottom",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "32": {
+        "prompt": "An IGCC system, label 32: marked on the input into the side of the gasifier, below OXYGEN",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "33": {
+        "prompt": "An IGCC system, label 33: marked on the pipe leaving the top of the gasifier",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "34": {
+        "prompt": "An IGCC system, label 34: marked on the lower-right turbine, beside WATER and the CONDENSER",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    },
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        32,
+        33,
+        34
+      ],
+      "type": "diagram-label"
+    }
+  }
+}

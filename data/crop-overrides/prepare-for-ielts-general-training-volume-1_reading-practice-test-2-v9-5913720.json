@@ -1,0 +1,107 @@
+{
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Match each question with the appropriate tour, A, B, C, D or E, as described in the texts. Which tour:",
+    "optionBank": {
+      "title": "Tours",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "9": {
+        "prompt": "has restricted places?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "10": {
+        "prompt": "caters for qualified experts as well as amateur enthusiasts?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "11": {
+        "prompt": "has the least restrictive itinerary?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "12": {
+        "prompt": "operates only in good weather?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "13": {
+        "prompt": "offers no price reduction for children?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "14": {
+        "prompt": "promises to be the most informative?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p1g4": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        6
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Write the correct letter, A, B, C or D, in box 6 on your answer sheet.",
+    "questions": {
+      "6": {
+        "prompt": "Choose the most suitable title for the text from the list below.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Changes in public attitude towards plastic pollution",
+          "Problems in manufacturing recyclable plastic water bottles",
+          "Environmental pollution caused by plastic",
+          "The edible water bottle as a possible solution to plastic pollution"
+        ]
+      }
+    }
+  }
+}

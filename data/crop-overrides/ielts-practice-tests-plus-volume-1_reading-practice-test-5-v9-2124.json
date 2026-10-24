@@ -1,0 +1,39 @@
+{
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the appropriate letter, A-D, and write it in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "The writer thinks that Ms Costa",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "provides strong evidence to support her theory.",
+          "displays serious flaws in her research methods.",
+          "attempts to answer too many questions.",
+          "has a useful overall point to make"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "8": "8-14 (year-olds)",
+    "9": "Orion",
+    "10": "J.K. Rowling",
+    "11": "D",
+    "12": "H",
+    "13": "C",
+    "14": "A"
+  }
+}

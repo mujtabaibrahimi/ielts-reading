@@ -1,0 +1,36 @@
+{
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "What is the main idea of the passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "to prove that quantitative research is most applicable to children's education",
+          "to illustrate the society lacks of deep comprehension of educational approach",
+          "to explain the ideas of quantitative research and the characteristics of the related criticisms",
+          "to imply qualitative research is a flawless method compared with quantitative one"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "36": "grammar school",
+    "37": "B,E,F",
+    "38": "B,E,F",
+    "39": "B,E,F"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "p3g1": {
+    "_keepImage": true,
+    "_reason": "Answer key is garbled: questions 27-30 are empty and all five dates are packed into question 31 ('27 1772 28 1781 29 1787 30 1977 31 1986')."
+  },
+  "_answers": {
+    "5": "D",
+    "6": "A",
+    "7": "A",
+    "8": "B",
+    "9": "cells",
+    "10": "grubs",
+    "11": "parcel",
+    "12": "mud",
+    "13": "rare",
+    "14": "D",
+    "15": "G",
+    "16": "E",
+    "17": "A",
+    "18": "G",
+    "19": "FALSE",
+    "20": "TRUE",
+    "21": "TRUE",
+    "22": "NOT GIVEN",
+    "23": "the military",
+    "24": "high density",
+    "25": "self-sharpening",
+    "26": "chemical toxicity",
+    "27": "1772",
+    "28": "1781",
+    "29": "1787",
+    "30": "1977",
+    "31": "1986"
+  },
+  "p1g1": {
+    "questions": {
+      "3": {
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "have had more studies into their behaviour than others.",
+          "may suffer more from pesticides than social bees.",
+          "have an advantage because of when they fly.",
+          "have certain similarities with honey bees."
+        ]
+      },
+      "4": {
+        "prompt": "Why does Beth Nicholls consider red mason bees to be valuable pollinators?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "They regularly lose some of the pollen they are carrying.",
+          "They transport pollen with great care.",
+          "Their pollination season is longer than that of social bees.",
+          "The females do most of the pollen collection."
+        ]
+      }
+    }
+  }
+}

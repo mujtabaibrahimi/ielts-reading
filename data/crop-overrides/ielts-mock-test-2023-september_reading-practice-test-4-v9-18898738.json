@@ -1,0 +1,140 @@
+{
+  "_parts": {
+    "1": [
+      1,
+      14
+    ],
+    "2": [
+      15,
+      27
+    ],
+    "3": [
+      28,
+      40
+    ]
+  },
+  "p1g1": {
+    "clearImages": true,
+    "type": "multiple-choice-multi",
+    "instruction": "Choose THREE letters, A-H. Which THREE statements are true of salt?",
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": [
+        "A number of cities take their name from the word salt.",
+        "Salt contributed to the French Revolution.",
+        "The uses of salt are countless.",
+        "Salt has been produced in China for less than 2000 years.",
+        "There are many commercial applications for salt.",
+        "Salt deposits in the state of Kansas are vast.",
+        "Salt has few industrial uses nowadays.",
+        "Slaves used salt as a currency."
+      ]
+    },
+    "questions": {
+      "1": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "maxSelect": 3
+      },
+      "2": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "maxSelect": 3
+      },
+      "3": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "maxSelect": 3
+      }
+    }
+  },
+  "p2g1": {
+    "clearImages": true,
+    "type": "multiple-choice-multi",
+    "instruction": "Choose the correct letter, A-E. Write your answers in boxes 12-13 on your answer sheet. Which TWO of the following are provided by plants to the human?",
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "food",
+        "fuels",
+        "clothes",
+        "energy",
+        "commercial products"
+      ]
+    },
+    "questions": {
+      "26": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "maxSelect": 2
+      },
+      "27": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "maxSelect": 2
+      }
+    },
+    "_note": "Answer key for Q26-27 is empty in the data; the source key's garbled '12 13 A,B' line most likely belongs to these two. Shown but cannot be marked."
+  },
+  "_answers": {
+    "14": "TRUE",
+    "26": "A,B",
+    "27": "A,B"
+  }
+}

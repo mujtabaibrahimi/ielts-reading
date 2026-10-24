@@ -1,0 +1,101 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Look at the accommodation options A-E in the reading passage. For which options are the following statements true? Write the correct letter A-E. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Accommodation Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "21": {
+        "prompt": "This is possibly inconvenient for car owners.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "22": {
+        "prompt": "This is best if you like surfing the Web.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "23": {
+        "prompt": "Of the College residences, this has the fewest students.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "24": {
+        "prompt": "This is a new option offered by the College.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "25": {
+        "prompt": "You have to organise parking a year at a time.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "26": {
+        "prompt": "This accommodation does not belong to the College.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "27": {
+        "prompt": "Here you definitely do not have your own bathroom.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p1g3": {
+    "drop": true,
+    "ifNumbers": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  }
+}

@@ -1,225 +1,1048 @@
 {
   "id": "ielts-mock-test-2024-may_reading-practice-test-2-v9-18967165",
   "type": "academic",
-  "source": "ielts-mock-test-2024-may reading-practice-test-2-v9-18967165",
+  "title": "IELTS Academic 2024 May - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2024",
+  "testNumber": 2,
+  "year": 2024,
+  "month": 5,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2024-may_reading-practice-test-2-v9-18967165.pdf",
-  "total_questions": 12,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Money Transfers by Mobile",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1 -13, which are based on\nReading Passage 1 below.\nMoney Transfers by Mobile\nA. The ping of a text message has never sounded so sweet. In what is being\ntouted as a world first, Kenya’s biggest mobile operator is allowing subscribers\nto send cash to other phone users by SMS. Known as M-Pesa, or mobile money,\nthe service is expected to revolutionise banking in a country where more than\n80% of people are excluded from the formal financial sector. Apart from\ntransferring cash - a service much in demand among urban Kenyans\nsupporting relatives in rural areas - customers of the Safaricom network will be\nable to keep up to 50,000 shillings (£370) in a “virtual account” on their\nhandsets.\nB. Developed by Vodafone, which holds a 35% share in Safaricom, M-Pesa was\nformally launched in Kenya two weeks ago. More than 10,000 people have\nsigned up for the service, with around 8 million shillings transferred so far,\nmostly in tiny denominations. Safaricom’s executives are confident that growth\nwill be strong in Kenya, and later across Africa. “We are effectively giving\npeople ATM cards without them ever having to open a real bank account,” said\nMichael Joseph, chief executive of Safaricom, who called the money transfer\nconcept the “next big thing” in mobile telephony.\nC. M-Pesa’s is simple. There is no need for a new handset or SIM card. To send\nmoney, you hand over the cash to a registered agent - typically a retailer - who\ncredits your virtual account. You then send between 100 shillings (74p) and\n35,000 shillings (£259) via text message to the desired recipient - even\nsomeone on a different mobile network - who cashes it at an agent by entering\na secret code and showing ID. A commission of up to 170 shillings (£1.25) is\npaid by the recipient but it compares favourably with fees levied by the major\nbanks, whose services are too expensive for most of the population.\nD. Mobile phone growth in Kenya, as in most of Africa, has been remarkable,\neven among the rural poor. In June 1999, Kenya had 15,000 mobile\nsubscribers. Today, it has nearly 8 million out of a population of 35 million, and\nthe two operators’ networks are as extensive as the access to banks is limited.\nSafaricom says it is not so much competing with financial services companies\nas filling a void. In time, M-Pesa will allow people to borrow and repay money,\nand make purchases. Companies will be able to pay salaries directly into\n\nworkers’ phones - something that has already attracted the interest of larger\nemployers, such as the tea companies, whose workers often have to be paid in\ncash as they do not have bank accounts. There are concerns about security,\nbut Safaricom insists that even if someone’s phone is stolen, the PIN system\nprevents unauthorised withdrawals. Mr. Joseph said the only danger is sending\ncash to the wrong mobile number and the recipient redeeming it straight away.\nE. The project is being watched closely by mobile operators around the world\nas a way of targeting the multibillion pound international cash transfer industry\nlong dominated by companies such as Western Union and Moneygram.\nRemittances sent from nearly 200 million migrant workers to developing\ncountries totalled £102 billion last year, according to the World Bank. The GSM\nAssociation, which represents more than 700 mobile operators worldwide,\nbelieves this could quadruple by 2012 if transfers by SMS become the norm.\nVodafone has entered a partnership with Citigroup that will soon allow Kenyans\nin the UK to send money home via text message. The charge for sending £50 is\nexpected to be about £3, less than a third of what some traditional services\ncharge.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "The ping of a text message has never sounded so sweet. In what is being"
+            "label": null,
+            "text": "Money Transfers by Mobile"
           },
           {
-            "label": "B",
-            "content": "Developed by Vodafone, which holds a 35% share in Safaricom, M-Pesa was"
+            "label": null,
+            "text": "A. The ping of a text message has never sounded so sweet. In what is being\ntouted as a world first, Kenya's biggest mobile operator is allowing subscribers\nto send cash to other phone users by SMS. Known as M-Pesa, or mobile money,\nthe service is expected to revolutionise banking in a country where more than\n80% of people are excluded from the formal financial sector. Apart from\ntransferring cash - a service much in demand among urban Kenyans\nsupporting relatives in rural areas - customers of the Safaricom network will be\nable to keep up to 50,000 shillings (£370) in a \"virtual account\" on their\nhandsets."
           },
           {
-            "label": "C",
-            "content": "M-Pesa’s is simple. There is no need for a new handset or SIM card. To send"
+            "label": null,
+            "text": "B. Developed by Vodafone, which holds a 35% share in Safaricom, M-Pesa was\nformally launched in Kenya two weeks ago. More than 10,000 people have\nsigned up for the service, with around 8 million shillings transferred so far,\nmostly in tiny denominations. Safaricom's executives are confident that growth\nwill be strong in Kenya, and later across Africa. \"We are effectively giving\npeople ATM cards without them ever having to open a real bank account,\" said\nMichael Joseph, chief executive of Safaricom, who called the money transfer\nconcept the \"next big thing\" in mobile telephony."
           },
           {
-            "label": "D",
-            "content": "Mobile phone growth in Kenya, as in most of Africa, has been remarkable,"
+            "label": null,
+            "text": "C. M-Pesa's is simple. There is no need for a new handset or SIM card. To send\nmoney, you hand over the cash to a registered agent - typically a retailer - who\ncredits your virtual account. You then send between 100 shillings (74p) and\n35,000 shillings (£259) via text message to the desired recipient - even\nsomeone on a different mobile network - who cashes it at an agent by entering\na secret code and showing ID. A commission of up to 170 shillings (£1.25) is\npaid by the recipient but it compares favourably with fees levied by the major\nbanks, whose services are too expensive for most of the population."
           },
           {
-            "label": "E",
-            "content": "The project is being watched closely by mobile operators around the world"
+            "label": null,
+            "text": "D. Mobile phone growth in Kenya, as in most of Africa, has been remarkable,\neven among the rural poor. In June 1999, Kenya had 15,000 mobile\nsubscribers. Today, it has nearly 8 million out of a population of 35 million, and\nthe two operators' networks are as extensive as the access to banks is limited.\nSafaricom says it is not so much competing with financial services companies\nas filling a void. In time, M-Pesa will allow people to borrow and repay money,\nand make purchases. Companies will be able to pay salaries directly into"
+          },
+          {
+            "label": null,
+            "text": "workers' phones - something that has already attracted the interest of larger\nemployers, such as the tea companies, whose workers often have to be paid in\ncash as they do not have bank accounts. There are concerns about security,\nbut Safaricom insists that even if someone's phone is stolen, the PIN system\nprevents unauthorised withdrawals. Mr. Joseph said the only danger is sending\ncash to the wrong mobile number and the recipient redeeming it straight away."
+          },
+          {
+            "label": null,
+            "text": "E. The project is being watched closely by mobile operators around the world\nas a way of targeting the multibillion pound international cash transfer industry\nlong dominated by companies such as Western Union and Moneygram.\nRemittances sent from nearly 200 million migrant workers to developing\ncountries totalled £102 billion last year, according to the World Bank. The GSM\nAssociation, which represents more than 700 mobile operators worldwide,\nbelieves this could quadruple by 2012 if transfers by SMS become the norm.\nVodafone has entered a partnership with Citigroup that will soon allow Kenyans\nin the UK to send money home via text message. The charge for sending £50 is\nexpected to be about £3, less than a third of what some traditional services\ncharge."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 9-13",
-      "questionRange": [
-        9,
-        13
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 9-13\nDo the statements on the next page agree with the information given in\nReading Passage 1?\nIn boxes 9 - 13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n9\n Most Kenyans working in urban areas have relatives in\nrural areas.\n10\n So far, most of the people using M-Pesa have used it\nto send small amounts of money.\n11\n M-Pesa can only be used by people using one phone\nnetwork.\n12\n M-Pesa can be used to buy products and services.\n13\n The GSM Association is a consumer organisation.",
-        "tables": [],
+        ],
+        "text": "Money Transfers by Mobile\n\nA. The ping of a text message has never sounded so sweet. In what is being\ntouted as a world first, Kenya's biggest mobile operator is allowing subscribers\nto send cash to other phone users by SMS. Known as M-Pesa, or mobile money,\nthe service is expected to revolutionise banking in a country where more than\n80% of people are excluded from the formal financial sector. Apart from\ntransferring cash - a service much in demand among urban Kenyans\nsupporting relatives in rural areas - customers of the Safaricom network will be\nable to keep up to 50,000 shillings (£370) in a \"virtual account\" on their\nhandsets.\n\nB. Developed by Vodafone, which holds a 35% share in Safaricom, M-Pesa was\nformally launched in Kenya two weeks ago. More than 10,000 people have\nsigned up for the service, with around 8 million shillings transferred so far,\nmostly in tiny denominations. Safaricom's executives are confident that growth\nwill be strong in Kenya, and later across Africa. \"We are effectively giving\npeople ATM cards without them ever having to open a real bank account,\" said\nMichael Joseph, chief executive of Safaricom, who called the money transfer\nconcept the \"next big thing\" in mobile telephony.\n\nC. M-Pesa's is simple. There is no need for a new handset or SIM card. To send\nmoney, you hand over the cash to a registered agent - typically a retailer - who\ncredits your virtual account. You then send between 100 shillings (74p) and\n35,000 shillings (£259) via text message to the desired recipient - even\nsomeone on a different mobile network - who cashes it at an agent by entering\na secret code and showing ID. A commission of up to 170 shillings (£1.25) is\npaid by the recipient but it compares favourably with fees levied by the major\nbanks, whose services are too expensive for most of the population.\n\nD. Mobile phone growth in Kenya, as in most of Africa, has been remarkable,\neven among the rural poor. In June 1999, Kenya had 15,000 mobile\nsubscribers. Today, it has nearly 8 million out of a population of 35 million, and\nthe two operators' networks are as extensive as the access to banks is limited.\nSafaricom says it is not so much competing with financial services companies\nas filling a void. In time, M-Pesa will allow people to borrow and repay money,\nand make purchases. Companies will be able to pay salaries directly into\n\nworkers' phones - something that has already attracted the interest of larger\nemployers, such as the tea companies, whose workers often have to be paid in\ncash as they do not have bank accounts. There are concerns about security,\nbut Safaricom insists that even if someone's phone is stolen, the PIN system\nprevents unauthorised withdrawals. Mr. Joseph said the only danger is sending\ncash to the wrong mobile number and the recipient redeeming it straight away.\n\nE. The project is being watched closely by mobile operators around the world\nas a way of targeting the multibillion pound international cash transfer industry\nlong dominated by companies such as Western Union and Moneygram.\nRemittances sent from nearly 200 million migrant workers to developing\ncountries totalled £102 billion last year, according to the World Bank. The GSM\nAssociation, which represents more than 700 mobile operators worldwide,\nbelieves this could quadruple by 2012 if transfers by SMS become the norm.\nVodafone has entered a partnership with Citigroup that will soon allow Kenyans\nin the UK to send money home via text message. The charge for sending £50 is\nexpected to be about £3, less than a third of what some traditional services\ncharge.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 5 paragraphs (A - E). Which paragraph contains each of the following pieces of information?",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text for each gap.",
+          "body": "Safaricom is the [[5]] mobile phone company in Kenya. An M-Pesa account needs to be credited by [[6]] [[7]] companies are particularly interested in using M-Pesa. Companies like Moneygram and Western Union have [[8]] the international money transfer market.",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the statements on the next page agree with the information given in Reading Passage 1? In boxes 9 - 13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "A possible security problem",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The cost of M-Pesa",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "An international service similar to M-Pesa",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The fact that most Kenyans do not have a bank account",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "biggest",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "an agent/a registered agent",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "companies are particularly interested in using M-Pesa.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Tea",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "long dominated",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Most Kenyans working in urban areas have relatives in",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "So far, most of the people using M-Pesa have used it\nto send small amounts of money.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "M-Pesa can only be used by people using one phone\nnetwork.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "M-Pesa can be used to buy products and services.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "The GSM Association is a consumer organisation.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\non Reading Passage 2 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Park the Car Permanently"
+          },
+          {
+            "label": null,
+            "text": "A. More than a million people are likely to be disappointed by their experience\nof the Government's attempts to improve the democratic process. They may\nhave signed an online petition against road pricing, but ministers are\ndetermined to push ahead with plans to make it more expensive to drive. The\nGovernment is convinced that this is the only way to reduce congestion and\nthe environmental damage caused by motoring."
+          },
+          {
+            "label": null,
+            "text": "B. Why wait until you are forced off the road by costly charges? You may enjoy\nthe convenience of your car, but the truth is that for huge numbers of people,\nowning a car makes little financial sense. You'd be far better off giving it up\nand relying on other forms of transport. \"I'm 47 and I've never owned a car,\ndespite having a job that requires me to travel all over the South-East to visit\nclients,\" says Donnachadh McCarthy, an environmental expert who specialises\nin advising people how to be greener. \"A car is a huge financial commitment,\nas well as being a psychological addiction. Not owning a vehicle is far more\npractical than most people realise.\""
+          },
+          {
+            "label": null,
+            "text": "C. It may seem as if cars have never been cheaper. After all, it is now possible\nto buy a brand new car for less than £4,800 - the Perodua Kelisa, if you're\ninterested. There are plenty of decent vehicles you can buy straight from the\nshowroom for between £5,000 and £7,000. Of course, if you buy second-hand,\nthe prices will be even lower. However, the falling purchase price of cars masks\nthe fact that it has never been more expensive to own and run a vehicle. The\nestimate is that the cost of running a car rose by more than ten per cent last\nyear alone. The annual cost of running your own vehicle is pul at an average of\n£5,539, or £107 a week. While drivers who do less or more than the average\nmileage each year will spend correspondingly less or more, many of the costs\nof ear ownership are fixed - and therefore unavoidable."
+          },
+          {
+            "label": null,
+            "text": "D. Depreciation - the fact that your vehicle loses a large chunk of its resale\nvalue each year - is one problem, accounting for £2,420 a year. The cost of\nfinance packages, which most people have to resort to to pay for at least part\nof the price of a new car, has also been rising - to an average of £1,040 a year.\nThen there's insurance, maintenance, tax, and breakdown insurance, all of\nwhich will cost you broadly the same amount, however many miles you do."
+          },
+          {
+            "label": null,
+            "text": "Only fuel costs are truly variable. While petrol prices are the most visible\nindicator of the cost of running a car, for the typical driver they account for less\nthan one fifth of the real costs each year. In other words, leaving aside all the\npractical and psychological barriers to giving up your car, in financial terms,\ndoing so makes sense for many people."
+          },
+          {
+            "label": null,
+            "text": "E. Take the cost of public transport, for example. In London, the most\nexpensive city in the UK, the most expensive annual travel card, allowing travel\nin any zone at any time, costs just over £1,700. You could give up your car and\nstill have thousands of pounds to spare to spend on occasional car hire. In fact,\nassuming that you have the most expensive travel card in London, you could\nhire a cheap car from a company, such as easyCar for about 30 weeks a year,\nand still be better off overall than if you own your own vehicle. Not that car hire\nis necessarily the most cost-effective option for people who are prepared to do\nwithout a car but may still need to drive occasionally."
+          },
+          {
+            "label": null,
+            "text": "F. Streetcar, one of several \"car clubs\" with growing numbers of members,\nreckons that using its vehicles twice a week, every week, for a year, would cost\nyou just £700. Streetcar's model works very similarly to those of its main rivals,\nCitycarclub and Whizzgo. These three companies, which now operate in 20 of\nBritain's towns and cities, charge their members a refundable deposit - £150 at\nStreetcar - and then provide them with an electronic smart card. This enables\nmembers to get into the vehicles, which are left parked in set locations, and\nthe keys are then found in the glove compartment. Members pay an hourly\nrate for the car - £4.95 is the cost at Streetcar - and return it to the same spot,\nor to a different designated parking place."
+          },
+          {
+            "label": null,
+            "text": "G. Car sharing is an increasingly popular option for people making the same\njourneys regularly - to and from work, for example. Many companies run\nschemes that help colleagues who live near to each other and work in the\nsame place to contact each other so they can share the journey to work.\nLiftshare and Carshare are two national organisations that maintain online\ndatabases of people who would be prepared to team up. Other people may be\nable to replace part or all of their journey to work - or any journeys, for that\nmatter - with low-cost transport such as a bicycle, or even by just walking. The\nmore you can reduce your car use, however you gain access to it, the more you\nwill save."
+          }
+        ],
+        "text": "Park the Car Permanently\n\nA. More than a million people are likely to be disappointed by their experience\nof the Government's attempts to improve the democratic process. They may\nhave signed an online petition against road pricing, but ministers are\ndetermined to push ahead with plans to make it more expensive to drive. The\nGovernment is convinced that this is the only way to reduce congestion and\nthe environmental damage caused by motoring.\n\nB. Why wait until you are forced off the road by costly charges? You may enjoy\nthe convenience of your car, but the truth is that for huge numbers of people,\nowning a car makes little financial sense. You'd be far better off giving it up\nand relying on other forms of transport. \"I'm 47 and I've never owned a car,\ndespite having a job that requires me to travel all over the South-East to visit\nclients,\" says Donnachadh McCarthy, an environmental expert who specialises\nin advising people how to be greener. \"A car is a huge financial commitment,\nas well as being a psychological addiction. Not owning a vehicle is far more\npractical than most people realise.\"\n\nC. It may seem as if cars have never been cheaper. After all, it is now possible\nto buy a brand new car for less than £4,800 - the Perodua Kelisa, if you're\ninterested. There are plenty of decent vehicles you can buy straight from the\nshowroom for between £5,000 and £7,000. Of course, if you buy second-hand,\nthe prices will be even lower. However, the falling purchase price of cars masks\nthe fact that it has never been more expensive to own and run a vehicle. The\nestimate is that the cost of running a car rose by more than ten per cent last\nyear alone. The annual cost of running your own vehicle is pul at an average of\n£5,539, or £107 a week. While drivers who do less or more than the average\nmileage each year will spend correspondingly less or more, many of the costs\nof ear ownership are fixed - and therefore unavoidable.\n\nD. Depreciation - the fact that your vehicle loses a large chunk of its resale\nvalue each year - is one problem, accounting for £2,420 a year. The cost of\nfinance packages, which most people have to resort to to pay for at least part\nof the price of a new car, has also been rising - to an average of £1,040 a year.\nThen there's insurance, maintenance, tax, and breakdown insurance, all of\nwhich will cost you broadly the same amount, however many miles you do.\n\nOnly fuel costs are truly variable. While petrol prices are the most visible\nindicator of the cost of running a car, for the typical driver they account for less\nthan one fifth of the real costs each year. In other words, leaving aside all the\npractical and psychological barriers to giving up your car, in financial terms,\ndoing so makes sense for many people.\n\nE. Take the cost of public transport, for example. In London, the most\nexpensive city in the UK, the most expensive annual travel card, allowing travel\nin any zone at any time, costs just over £1,700. You could give up your car and\nstill have thousands of pounds to spare to spend on occasional car hire. In fact,\nassuming that you have the most expensive travel card in London, you could\nhire a cheap car from a company, such as easyCar for about 30 weeks a year,\nand still be better off overall than if you own your own vehicle. Not that car hire\nis necessarily the most cost-effective option for people who are prepared to do\nwithout a car but may still need to drive occasionally.\n\nF. Streetcar, one of several \"car clubs\" with growing numbers of members,\nreckons that using its vehicles twice a week, every week, for a year, would cost\nyou just £700. Streetcar's model works very similarly to those of its main rivals,\nCitycarclub and Whizzgo. These three companies, which now operate in 20 of\nBritain's towns and cities, charge their members a refundable deposit - £150 at\nStreetcar - and then provide them with an electronic smart card. This enables\nmembers to get into the vehicles, which are left parked in set locations, and\nthe keys are then found in the glove compartment. Members pay an hourly\nrate for the car - £4.95 is the cost at Streetcar - and return it to the same spot,\nor to a different designated parking place.\n\nG. Car sharing is an increasingly popular option for people making the same\njourneys regularly - to and from work, for example. Many companies run\nschemes that help colleagues who live near to each other and work in the\nsame place to contact each other so they can share the journey to work.\nLiftshare and Carshare are two national organisations that maintain online\ndatabases of people who would be prepared to team up. Other people may be\nable to replace part or all of their journey to work - or any journeys, for that\nmatter - with low-cost transport such as a bicycle, or even by just walking. The\nmore you can reduce your car use, however you gain access to it, the more you\nwill save.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 7 paragraphs (A - G). Which paragraph does each of the following headings best fit?",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "According to the text, FIVE of the following statements are true.",
+          "body": "Write the corresponding letters in answer boxes [[18]] to [[22]] in any order. A McCarthy claims people can become addicted to using cars. B The cost of using a car rose by over ten per cent last year. C Most British people borrow money to help buy cars. D Many people need cars to drive in London occasionally. E Streetcar operates in over [[20]] cities in Britain. F Streetcar's cars must be left at specific locations. G Car sharing is becoming more popular with people who live and work near each other. H The government wants to encourage people to go to work on foot or by bicycle.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "According to the information given in the text, choose the correct answer or answers from the choices given.",
+          "body": null,
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
           "prompt": "Don't wait!",
-          "instruction": "Which paragraph does each of the following headings best fit?",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 15,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
           "prompt": "Team up",
-          "instruction": "Which paragraph does each of the following headings best fit?",
-          "answer": "G"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
         },
         {
           "number": 16,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
           "prompt": "Join a club",
-          "instruction": "Which paragraph does each of the following headings best fit?",
-          "answer": "F"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 17,
-          "type": "matching-features",
-          "prompt": "Use public transport According to the text, FIVE of the following statements are true. Write the corresponding letters in answer boxes 18 to 22 in any order. A",
-          "instruction": "Which paragraph does each of the following headings best fit?",
-          "answer": "E"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Use public transport",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B,C,F,G",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B,C,F,G",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B,C,F,G",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B,C,F,G",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B,C,F,G",
+          "trap": null
         },
         {
           "number": 23,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "The government has decided",
-          "instruction": "Which paragraph does each of the following headings best fit? Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "to follow protestors' suggestions",
+            "to become more democratic",
+            "to go ahead with charging drivers more to use roads"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 24,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "Nowadays, cars in Britain are",
-          "instruction": "Which paragraph does each of the following headings best fit? Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "not as cheap as in the past.",
+            "relatively expensive to operate.",
+            "often sold second-hand."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 25,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "Fuel costs",
-          "instruction": "Which paragraph does each of the following headings best fit? Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "make up about 20% of the cost of running a car.",
+            "are related to the amount drivers pay for their cars.",
+            "depend on how far you drive."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 26,
           "type": "multiple-choice",
+          "groupId": "p2g3",
           "prompt": "Using public transport",
-          "instruction": "Which paragraph does each of the following headings best fit? Write the corresponding letters in answer boxes 18 to 22 in any order. A According to the information given in the text, choose the correct answer or answers from the choices given.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
-            "C",
-            "D"
-          ]
+            "C"
+          ],
+          "optionLabels": [
+            "will save money for British motorists, except in London.",
+            "and renting a car part of the time can save money.",
+            "costs Londoners up to '1,700 a year. Reading Passage 3 You should spend about 20 minutes on Questions 27 - 40, which are based on Reading Passage 3 below. Low-Cost Lamps Light Rural India Until three months ago, life in this humble village without electricity would come to a halt after sunset. Inside his mud-and-clay home, Ganpat Jadhav's three children used to study in the dim, smoky glow of a kerosene lamp, when their monthly fuel quota of four litres dried up in just a fortnight, they had to strain their eyes using the light from a cooking fire. That all changed with the installation of low-cost, energy-efficient lamps that are powered entirely by the sun. The lights were installed by the Grameen Surya Bijli Foundation (GSBF), an Indian non-governmental organisation focused on bringing light to rural India. Some 100,000 Indian villages do not yet have electricity. The GSBF lamps use LEDs - light emitting diodes - that are four times more efficient than a normal bulb. After a $55 installation cost, solar energy lights the lamp free of charge. LED lighting, like cell phones, is another example of a technology whose low cost could allow the rural poor to leap into the 21st century. As many as 1.5 billion people - nearly 80 million in India alone - light their houses using kerosene as the primary lighting media. The fuel is dangerous, dirty, and - despite being subsidised - consumes nearly four per cent of a typical rural Indian household's budget. A recent report by the Intermediate Technology Development Group suggests that indoor air pollution from such lighting media results in 1.6 million deaths worldwide every year. LED lamps, or more specifically white LEDs, are believed to produce nearly 200 times more useful light than a kerosene lamp and almost 50 times the amount of useful light of a conventional bulb. \"This technology can light an entire rural village with less energy than that used by a single conventional 100-watt light bulb,\" says Dave Irvine-Halliday, a professor of electrical engineering at the University of Calgary, Canada and the founder of Light up the World Foundation (LUTW). Founded in 1997, LUTW has used LED technology to bring light to nearly 10,000 homes in remote and disadvantaged corners of some 27 countries like India, Nepal, Sri Lanka, Bolivia, and the Philippines. The technology, which is not yet widely known in India, faces some scepticism here. \"LED systems are revolutionising rural lighting, but this isn't a magic solution to the world's energy problems,\" says Ashok Jhunjhunwala, head of the electrical engineering department at the Indian Institute of Technology, Madras. In a scenario in which nearly 60 per cent of India's rural population uses 180 million tons of biomass per year for cooking via primitive wood stoves - which are smoky and provide only 10-15 per cent efficiency in cooking - Jhunjhunwala emphasises the need for a clean energy source, not just for lighting but for other domestic purposes as well. The Indian government in April launched an ambitious project to bring electricity to 112,000 rural villages in the next decade. However, the remote locations of the village will make reaching this goal difficult. A. K. Lakhina, the chairman of India's Rural Electrification Corporation, says the Indian government recognises the potential of LED lighting powered by solar technology, but expressed reservations about its high costs. \"If only LEDs weren't imported but manufactured locally,\" he says, \"and in bulk.\" The lamps installed in nearly 300 homes by GSBF cost nearly half the price of other solar lighting systems. Jasjeet Singh Chaddha, the founder of the NGO, currently imports his LEDs from China. He wants to set up an LED manufacturing unit and a solar panel manufacturing unit in India. If manufactured locally, the cost of his LED lamp could plummet to $22, as they will not incur heavy import duties. \"We need close to $5 million for this,\" he says. Mr. Chaddha says he has also asked the government to exempt the lamps from such duties, but to no avail. An entrepreneur who made his money in plastics, Chaddha, has poured his own money into the project, providing the initial installations free of charge. As he looks to make the project self- sustainable, he recognises that it is only urban markets -which have also shown an avid interest in LED lighting - that can pay. The rural markets in India cannot afford it, he says, until the prices are brought down. The rural markets would be able to afford it, says Mr. Irvine-Halliday, if they had access to microcredit. He says that in Tembisa, a shanty town in Johannesburg, he found that almost 10,000 homes spent more than $60 each on candles and paraffin every year. As calculations revealed, these families can afford to purchase a solid state lighting system in just over a year of paying per week what they would normally spend on candles and paraffin - if they have access to microcredit. LUTW is in the process of creating such a microcredit facility for South Africa. In villages near Khadakwadi, the newly installed LED lamps are a subject of envy, even for those connected to the grid. Those connected to the grid have to face power cuts up to 6 or 7 hours a day. Constant energy shortages and blackouts are a common problem due to a lack of power plants, transmission, and distribution losses caused by old technology and illegal stealing of electricity from the grid. LED systems require far less maintenance, a longer life, and as villagers jokingly say, \"no electricity bills\". The lamps provided by GSBF have enough power to provide just four hours of light a day. However, that is enough for people to get their work done in the early hours of the night, and is more reliable than light generated off India's electrical grid. Villagers are educated by GSBF officials to make the most of the new lamps. An official from GSBF instructs Jadhav and his family to clean the lamp regularly. \"Its luminosity and life will diminish if you let the dust settle on it,\" he warns them."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Low-Cost Lamps Light Rural India"
+          },
+          {
+            "label": null,
+            "text": "Until three months ago, life in this humble village without electricity would\ncome to a halt after sunset. Inside his mud-and-clay home, Ganpat Jadhav's\nthree children used to study in the dim, smoky glow of a kerosene lamp, when\ntheir monthly fuel quota of four litres dried up in just a fortnight, they had to\nstrain their eyes using the light from a cooking fire. That all changed with the\ninstallation of low-cost, energy-efficient lamps that are powered entirely by the\nsun. The lights were installed by the Grameen Surya Bijli Foundation (GSBF), an\nIndian non-governmental organisation focused on bringing light to rural India.\nSome 100,000 Indian villages do not yet have electricity. The GSBF lamps use\nLEDs - light emitting diodes - that are four times more efficient than a normal\nbulb. After a $55 installation cost, solar energy lights the lamp free of charge.\nLED lighting, like cell phones, is another example of a technology whose low\ncost could allow the rural poor to leap into the 21st century."
+          },
+          {
+            "label": null,
+            "text": "As many as 1.5 billion people - nearly 80 million in India alone - light their\nhouses using kerosene as the primary lighting media. The fuel is dangerous,\ndirty, and - despite being subsidised - consumes nearly four per cent of a\ntypical rural Indian household's budget. A recent report by the Intermediate\nTechnology Development Group suggests that indoor air pollution from such\nlighting media results in 1.6 million deaths worldwide every year. LED lamps, or\nmore specifically white LEDs, are believed to produce nearly 200 times more\nuseful light than a kerosene lamp and almost 50 times the amount of useful\nlight of a conventional bulb. \"This technology can light an entire rural village\nwith less energy than that used by a single conventional 100-watt light bulb,\"\nsays Dave Irvine-Halliday, a professor of electrical engineering at the University\nof Calgary, Canada and the founder of Light up the World Foundation (LUTW).\nFounded in 1997, LUTW has used LED technology to bring light to nearly\n10,000 homes in remote and disadvantaged corners of some 27 countries like\nIndia, Nepal, Sri Lanka, Bolivia, and the Philippines."
+          },
+          {
+            "label": null,
+            "text": "The technology, which is not yet widely known in India, faces some scepticism\nhere. \"LED systems are revolutionising rural lighting, but this isn't a magic\nsolution to the world's energy problems,\" says Ashok Jhunjhunwala, head of the\nelectrical engineering department at the Indian Institute of Technology,\nMadras. In a scenario in which nearly 60 per cent of India's rural population"
+          },
+          {
+            "label": null,
+            "text": "uses 180 million tons of biomass per year for cooking via primitive wood stoves\n- which are smoky and provide only 10-15 per cent efficiency in cooking -\nJhunjhunwala emphasises the need for a clean energy source, not just for\nlighting but for other domestic purposes as well. The Indian government in\nApril launched an ambitious project to bring electricity to 112,000 rural villages\nin the next decade. However, the remote locations of the village will make\nreaching this goal difficult. A. K. Lakhina, the chairman of India's Rural\nElectrification Corporation, says the Indian government recognises the\npotential of LED lighting powered by solar technology, but expressed\nreservations about its high costs. \"If only LEDs weren't imported but\nmanufactured locally,\" he says, \"and in bulk.\""
+          },
+          {
+            "label": null,
+            "text": "The lamps installed in nearly 300 homes by GSBF cost nearly half the price of\nother solar lighting systems. Jasjeet Singh Chaddha, the founder of the NGO,\ncurrently imports his LEDs from China. He wants to set up an LED\nmanufacturing unit and a solar panel manufacturing unit in India. If\nmanufactured locally, the cost of his LED lamp could plummet to $22, as they\nwill not incur heavy import duties. \"We need close to $5 million for this,\" he\nsays. Mr. Chaddha says he has also asked the government to exempt the lamps\nfrom such duties, but to no avail. An entrepreneur who made his money in\nplastics, Chaddha, has poured his own money into the project, providing the\ninitial installations free of charge. As he looks to make the project self-\nsustainable, he recognises that it is only urban markets -which have also\nshown an avid interest in LED lighting - that can pay. The rural markets in India\ncannot afford it, he says, until the prices are brought down. The rural markets\nwould be able to afford it, says Mr. Irvine-Halliday, if they had access to\nmicrocredit. He says that in Tembisa, a shanty town in Johannesburg, he found\nthat almost 10,000 homes spent more than $60 each on candles and paraffin\nevery year. As calculations revealed, these families can afford to purchase a\nsolid state lighting system in just over a year of paying per week what they\nwould normally spend on candles and paraffin - if they have access to\nmicrocredit. LUTW is in the process of creating such a microcredit facility for\nSouth Africa."
+          },
+          {
+            "label": null,
+            "text": "In villages near Khadakwadi, the newly installed LED lamps are a subject of\nenvy, even for those connected to the grid. Those connected to the grid have to\nface power cuts up to 6 or 7 hours a day. Constant energy shortages and\nblackouts are a common problem due to a lack of power plants, transmission,\nand distribution losses caused by old technology and illegal stealing of\nelectricity from the grid. LED systems require far less maintenance, a longer\nlife, and as villagers jokingly say, \"no electricity bills\". The lamps provided by"
+          },
+          {
+            "label": null,
+            "text": "GSBF have enough power to provide just four hours of light a day. However,\nthat is enough for people to get their work done in the early hours of the night,\nand is more reliable than light generated off India's electrical grid. Villagers are\neducated by GSBF officials to make the most of the new lamps. An official from\nGSBF instructs Jadhav and his family to clean the lamp regularly. \"Its luminosity\nand life will diminish if you let the dust settle on it,\" he warns them."
+          }
+        ],
+        "text": "Low-Cost Lamps Light Rural India\n\nUntil three months ago, life in this humble village without electricity would\ncome to a halt after sunset. Inside his mud-and-clay home, Ganpat Jadhav's\nthree children used to study in the dim, smoky glow of a kerosene lamp, when\ntheir monthly fuel quota of four litres dried up in just a fortnight, they had to\nstrain their eyes using the light from a cooking fire. That all changed with the\ninstallation of low-cost, energy-efficient lamps that are powered entirely by the\nsun. The lights were installed by the Grameen Surya Bijli Foundation (GSBF), an\nIndian non-governmental organisation focused on bringing light to rural India.\nSome 100,000 Indian villages do not yet have electricity. The GSBF lamps use\nLEDs - light emitting diodes - that are four times more efficient than a normal\nbulb. After a $55 installation cost, solar energy lights the lamp free of charge.\nLED lighting, like cell phones, is another example of a technology whose low\ncost could allow the rural poor to leap into the 21st century.\n\nAs many as 1.5 billion people - nearly 80 million in India alone - light their\nhouses using kerosene as the primary lighting media. The fuel is dangerous,\ndirty, and - despite being subsidised - consumes nearly four per cent of a\ntypical rural Indian household's budget. A recent report by the Intermediate\nTechnology Development Group suggests that indoor air pollution from such\nlighting media results in 1.6 million deaths worldwide every year. LED lamps, or\nmore specifically white LEDs, are believed to produce nearly 200 times more\nuseful light than a kerosene lamp and almost 50 times the amount of useful\nlight of a conventional bulb. \"This technology can light an entire rural village\nwith less energy than that used by a single conventional 100-watt light bulb,\"\nsays Dave Irvine-Halliday, a professor of electrical engineering at the University\nof Calgary, Canada and the founder of Light up the World Foundation (LUTW).\nFounded in 1997, LUTW has used LED technology to bring light to nearly\n10,000 homes in remote and disadvantaged corners of some 27 countries like\nIndia, Nepal, Sri Lanka, Bolivia, and the Philippines.\n\nThe technology, which is not yet widely known in India, faces some scepticism\nhere. \"LED systems are revolutionising rural lighting, but this isn't a magic\nsolution to the world's energy problems,\" says Ashok Jhunjhunwala, head of the\nelectrical engineering department at the Indian Institute of Technology,\nMadras. In a scenario in which nearly 60 per cent of India's rural population\n\nuses 180 million tons of biomass per year for cooking via primitive wood stoves\n- which are smoky and provide only 10-15 per cent efficiency in cooking -\nJhunjhunwala emphasises the need for a clean energy source, not just for\nlighting but for other domestic purposes as well. The Indian government in\nApril launched an ambitious project to bring electricity to 112,000 rural villages\nin the next decade. However, the remote locations of the village will make\nreaching this goal difficult. A. K. Lakhina, the chairman of India's Rural\nElectrification Corporation, says the Indian government recognises the\npotential of LED lighting powered by solar technology, but expressed\nreservations about its high costs. \"If only LEDs weren't imported but\nmanufactured locally,\" he says, \"and in bulk.\"\n\nThe lamps installed in nearly 300 homes by GSBF cost nearly half the price of\nother solar lighting systems. Jasjeet Singh Chaddha, the founder of the NGO,\ncurrently imports his LEDs from China. He wants to set up an LED\nmanufacturing unit and a solar panel manufacturing unit in India. If\nmanufactured locally, the cost of his LED lamp could plummet to $22, as they\nwill not incur heavy import duties. \"We need close to $5 million for this,\" he\nsays. Mr. Chaddha says he has also asked the government to exempt the lamps\nfrom such duties, but to no avail. An entrepreneur who made his money in\nplastics, Chaddha, has poured his own money into the project, providing the\ninitial installations free of charge. As he looks to make the project self-\nsustainable, he recognises that it is only urban markets -which have also\nshown an avid interest in LED lighting - that can pay. The rural markets in India\ncannot afford it, he says, until the prices are brought down. The rural markets\nwould be able to afford it, says Mr. Irvine-Halliday, if they had access to\nmicrocredit. He says that in Tembisa, a shanty town in Johannesburg, he found\nthat almost 10,000 homes spent more than $60 each on candles and paraffin\nevery year. As calculations revealed, these families can afford to purchase a\nsolid state lighting system in just over a year of paying per week what they\nwould normally spend on candles and paraffin - if they have access to\nmicrocredit. LUTW is in the process of creating such a microcredit facility for\nSouth Africa.\n\nIn villages near Khadakwadi, the newly installed LED lamps are a subject of\nenvy, even for those connected to the grid. Those connected to the grid have to\nface power cuts up to 6 or 7 hours a day. Constant energy shortages and\nblackouts are a common problem due to a lack of power plants, transmission,\nand distribution losses caused by old technology and illegal stealing of\nelectricity from the grid. LED systems require far less maintenance, a longer\nlife, and as villagers jokingly say, \"no electricity bills\". The lamps provided by\n\nGSBF have enough power to provide just four hours of light a day. However,\nthat is enough for people to get their work done in the early hours of the night,\nand is more reliable than light generated off India's electrical grid. Villagers are\neducated by GSBF officials to make the most of the new lamps. An official from\nGSBF instructs Jadhav and his family to clean the lamp regularly. \"Its luminosity\nand life will diminish if you let the dust settle on it,\" he warns them.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "For each question, only ONE of the choices is correct. Write the corresponding letter in the appropriate box on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text for each gap. Another example of cheap technology helping poor people in the",
+          "body": "countryside is [[31]] Kerosene lamps and conventional bulbs give off less [[32]] than GSBF lamps. It is unlikely that the Indian government will achieve its aim of connecting 112,000 villages to electricity because many villages are [[33]] GSBF lamps would be cheaper if it weren't for [[34]] Users need to wipe [[35]] from the LED in order to keep it working well.",
+          "range": [
+            31,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36 - 40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "The GSBF lamps",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "provide light for 100,000 Indian villages.",
+            "are very expensive to install.",
+            "are powered by the sun."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 28,
-          "type": "matching-features",
-          "prompt": "More than half of India’s population uses",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "B"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "More than half of India's population uses",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "kerosene as a cooking fuel.",
+            "biomass as a cooking fuel.",
+            "solar power as a cooking fuel."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 29,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "In India, the GSBF lamps are too expensive for most people",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "in rural areas.",
+            "in urban areas.",
+            "in all areas."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 30,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "The GSBF lamps",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "are not as reliable as electricity from the national power grid.",
+            "require skill to use.",
+            "only provide four hours of light a day."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cell phones",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "useful light",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "remote",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(heavy) import duties",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "dust",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Ganpat Jadhav's monthly ration of kerosene was\ninsufficient.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Kerosene causes many fires in homes in developing\ncountries.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "LED systems could solve the world's energy problems.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Chaddha has so far funded the GSBF lamp project\nhimself.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Microcredit would help to get more people to use LED\nlamps.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "",
-      "questionRange": [
-        36,
-        40
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
     }
   ],
   "answers": {
-    "27": "C",
-    "30": "C",
     "1": "D",
     "2": "C",
     "3": "E",
@@ -237,13 +1060,15 @@
     "15": "G",
     "16": "F",
     "17": "E",
-    "22": "A,B,C,F,G",
+    "18": "A,B,C,F,G",
     "23": "C",
     "24": "B",
     "25": "A",
     "26": "C",
+    "27": "C",
     "28": "B",
     "29": "A",
+    "30": "C",
     "31": "cell phones",
     "32": "useful light",
     "33": "remote",
@@ -253,6 +1078,10 @@
     "37": "NOT GIVEN",
     "38": "FALSE",
     "39": "TRUE",
-    "40": "TRUE"
+    "40": "TRUE",
+    "19": "A,B,C,F,G",
+    "20": "A,B,C,F,G",
+    "21": "A,B,C,F,G",
+    "22": "A,B,C,F,G"
   }
 }

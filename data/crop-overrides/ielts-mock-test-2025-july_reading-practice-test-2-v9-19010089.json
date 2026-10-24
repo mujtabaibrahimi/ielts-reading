@@ -1,0 +1,138 @@
+{
+  "p2g1": {
+    "clearImages": true,
+    "instruction": "The passage has eight sections, A-H. Choose the most suitable heading for sections B-F from the list of headings below. Write the appropriate numbers (i-x). There are more headings than sections, so you will not use all of them.",
+    "optionBank": {
+      "title": "List of Headings",
+      "options": [
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "ix",
+        "x"
+      ],
+      "labels": [
+        "Use of hypnotism in criminal cases",
+        "The normality of hypnotised subjects' behaviour",
+        "Early medical experiments with hypnotism",
+        "Early association of hypnosis with psychology",
+        "Dangers of hypnotism",
+        "How to hypnotise",
+        "Hypnosis and free will",
+        "Difference between mesmerism and hypnotism",
+        "Therapeutic uses of hypnosis",
+        "Origins of hypnosis"
+      ]
+    },
+    "questions": {
+      "14": {
+        "prompt": "Section B",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "15": {
+        "prompt": "Section C",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "16": {
+        "prompt": "Section D",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "17": {
+        "prompt": "Section E",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "18": {
+        "prompt": "Section F",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      }
+    }
+  },
+  "p1g3": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        13
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Write the appropriate letter, A-D.",
+    "questions": {
+      "13": {
+        "prompt": "The main purpose of Frogwatch is ...",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "for people to collect and deliver dead or dying frogs to scientists.",
+          "for people to observe and collect information about frog populations for scientists.",
+          "for people to allow scientists onto their private land to look at frog habitats.",
+          "for people to set up ponds in their gardens as habitat for frogs."
+        ]
+      }
+    }
+  }
+}

@@ -1,245 +1,1148 @@
 {
   "id": "ielts-practice-tests-plus-volume-3_reading-practice-test-2-v9-2081",
   "type": "academic",
-  "source": "ielts-practice-tests-plus-volume-3 reading-practice-test-2-v9-2081",
+  "title": "IELTS Practice Tests Plus Volume 3 - Reading Test 2",
+  "collection": "IELTS Practice Tests Plus Volume 3",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-tests-plus-volume-3_reading-practice-test-2-v9-2081.pdf",
-  "total_questions": 3,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Sport Science in Australia",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13. which are based on\nReading Passage 1 below.\nSport Science in Australia\nThe professional career paths available to graduates from courses relating to\nhuman movement and sport science are as diverse as the graduate’s\nimagination. However, undergraduate courses with this type of content, in\nAustralia as well as in most other Western countries, were originally designed\nas preparation programmes for Physical Education (PE) teachers.\nThe initial programmes commenced soon after the conclusion of World War II in\nthe mid-1940s. One of the primary motives for these initiatives was the fact\nthat, during the war effort, so many of the men who were assessed for military\nduty had been declared unfit. The government saw the solution in the\nproviding of Physical Education programmes in schools, delivered by better\nprepared and specifically educated PE teachers.\nLater, in the 1970s and early 1980s, the surplus of Australians graduating with\na PE degree obliged institutions delivering this qualification to identify new\nemployment opportunities for their graduates, resulting in the first appearance\nof degrees catering for recreation professionals. In many instances, this\ndiversity of programme delivery merely led to degrees, delivered by physical\neducators, as a side​line activity to the production of PE teachers.\nWhilst the need to produce Physical Education teachers remains a significant\nsocial need, and most developed societies demand the availability of quality\nleisure programmes for their citizens, the career options of graduates within\nthis domain are still developing. The two most evident growth domains are in\n\nthe area of the professional delivery of sport, and the role of a physical lifestyle\nfor community health.\nThe sports industry is developing at an unprecedented rate of growth. From a\nbusiness perspective, sport is now seen as an area with the potential for high\nreturns. It is quite significant that the businessman Rupert Murdoch broadened\nhis business base from media to sport, having purchased an American baseball\nteam and an Australian Rugby League competition, as well as seeking\nopportunities to invest in an English football club. No business person of such\ninternational stature would see fit to invest in sport unless he was satisfied that\nthis was a sound business venture with ideal revenue-generating opportunities.\nThese developments have confirmed sport as a business with professional\nmanagement structures, marketing processes, and development strategies in\nplace. They have indicated new and developing career paths for graduates of\nhuman movement science, sport science, exercise science and related\ndegrees. Graduates can now visualise career paths extending into such diverse\ndomains as sport management, sport marketing, event and facility\nmanagement, government policy development pertaining to sport, sport\njournalism, sport psychology, and sport or athletic coaching.\nBusiness leaders will only continue their enthusiasm for sport if they receive\nreturns for their money. Such returns will only be forthcoming if astute,\nenthusiastic and properly educated professionals are delivering the programs\nthat earn appropriate financial returns. The successful universities of the 21st\ncentury will be those that have responded to this challenge by delivering such\ndegrees.\nA second professional growth area for this group of graduates is associated\nwith community health. The increasing demand for government expenditure\nwithin health budgets is reaching the stage where most governments are\nsimply unable to function in a manner that is satisfying their constituents. One\nof the primary reasons for this problem is the unhelpful emphasis on treatment\nin medical care programmes. Governments have traditionally given their senior\nhealth official the title of ‘Minister for Health’, when in fact this officer has\nfunctioned as ‘Minister for Sickness and the Construction of Hospitals’.\nGovernment focus simply has to change. If the change is not brought about for\nphilosophical reasons, it will occur naturally, because insufficient funding will\nbe available to address the ever-increasing costs of medical support.\nGraduates of human movement, exercise science and sport science have the\npotential to become major players in this shift in policy focus. It is these\ngraduates who already have the skills, knowledge and understanding to initiate\n\ncommunity health education programmes to reduce cardio-vascular disease, to\nreduce medical dependency upon diabetes, to improve workplace health\nleading to increased productivity, to initiate and promote programmes of\nactivity for the elderly that reduce medical dependency, and to maintain an\nactive lifestyle for the unemployed and disadvantaged groups in society. This\nis the graduate that governments will be calling upon to shift the community\nfocus from medical dependency to healthy lifestyles in the decades ahead.\nThe career paths of these graduates are developing at a pace that is not\nevident in other professions. The contribution that these graduates can make\nto society, and the recognition of this contribution is at an unprecedented high,\nand all indications are that it will continue to grow.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "second professional growth area for this group of graduates is associated"
+            "label": null,
+            "text": "Sport Science in Australia"
+          },
+          {
+            "label": null,
+            "text": "The professional career paths available to graduates from courses relating to\nhuman movement and sport science are as diverse as the graduate's\nimagination. However, undergraduate courses with this type of content, in\nAustralia as well as in most other Western countries, were originally designed\nas preparation programmes for Physical Education (PE) teachers."
+          },
+          {
+            "label": null,
+            "text": "The initial programmes commenced soon after the conclusion of World War II in\nthe mid-1940s. One of the primary motives for these initiatives was the fact\nthat, during the war effort, so many of the men who were assessed for military\nduty had been declared unfit. The government saw the solution in the\nproviding of Physical Education programmes in schools, delivered by better\nprepared and specifically educated PE teachers."
+          },
+          {
+            "label": null,
+            "text": "Later, in the 1970s and early 1980s, the surplus of Australians graduating with\na PE degree obliged institutions delivering this qualification to identify new\nemployment opportunities for their graduates, resulting in the first appearance\nof degrees catering for recreation professionals. In many instances, this\ndiversity of programme delivery merely led to degrees, delivered by physical\neducators, as a sideline activity to the production of PE teachers."
+          },
+          {
+            "label": null,
+            "text": "Whilst the need to produce Physical Education teachers remains a significant\nsocial need, and most developed societies demand the availability of quality\nleisure programmes for their citizens, the career options of graduates within\nthis domain are still developing. The two most evident growth domains are in"
+          },
+          {
+            "label": null,
+            "text": "the area of the professional delivery of sport, and the role of a physical lifestyle\nfor community health."
+          },
+          {
+            "label": null,
+            "text": "The sports industry is developing at an unprecedented rate of growth. From a\nbusiness perspective, sport is now seen as an area with the potential for high\nreturns. It is quite significant that the businessman Rupert Murdoch broadened\nhis business base from media to sport, having purchased an American baseball\nteam and an Australian Rugby League competition, as well as seeking\nopportunities to invest in an English football club. No business person of such\ninternational stature would see fit to invest in sport unless he was satisfied that\nthis was a sound business venture with ideal revenue-generating opportunities."
+          },
+          {
+            "label": null,
+            "text": "These developments have confirmed sport as a business with professional\nmanagement structures, marketing processes, and development strategies in\nplace. They have indicated new and developing career paths for graduates of\nhuman movement science, sport science, exercise science and related\ndegrees. Graduates can now visualise career paths extending into such diverse\ndomains as sport management, sport marketing, event and facility\nmanagement, government policy development pertaining to sport, sport\njournalism, sport psychology, and sport or athletic coaching."
+          },
+          {
+            "label": null,
+            "text": "Business leaders will only continue their enthusiasm for sport if they receive\nreturns for their money. Such returns will only be forthcoming if astute,\nenthusiastic and properly educated professionals are delivering the programs\nthat earn appropriate financial returns. The successful universities of the 21st\ncentury will be those that have responded to this challenge by delivering such\ndegrees."
+          },
+          {
+            "label": null,
+            "text": "A second professional growth area for this group of graduates is associated\nwith community health. The increasing demand for government expenditure\nwithin health budgets is reaching the stage where most governments are\nsimply unable to function in a manner that is satisfying their constituents. One\nof the primary reasons for this problem is the unhelpful emphasis on treatment\nin medical care programmes. Governments have traditionally given their senior\nhealth official the title of 'Minister for Health', when in fact this officer has\nfunctioned as 'Minister for Sickness and the Construction of Hospitals'.\nGovernment focus simply has to change. If the change is not brought about for\nphilosophical reasons, it will occur naturally, because insufficient funding will\nbe available to address the ever-increasing costs of medical support."
+          },
+          {
+            "label": null,
+            "text": "Graduates of human movement, exercise science and sport science have the\npotential to become major players in this shift in policy focus. It is these\ngraduates who already have the skills, knowledge and understanding to initiate"
+          },
+          {
+            "label": null,
+            "text": "community health education programmes to reduce cardio-vascular disease, to\nreduce medical dependency upon diabetes, to improve workplace health\nleading to increased productivity, to initiate and promote programmes of\nactivity for the elderly that reduce medical dependency, and to maintain an\nactive lifestyle for the unemployed and disadvantaged groups in society. This\nis the graduate that governments will be calling upon to shift the community\nfocus from medical dependency to healthy lifestyles in the decades ahead."
+          },
+          {
+            "label": null,
+            "text": "The career paths of these graduates are developing at a pace that is not\nevident in other professions. The contribution that these graduates can make\nto society, and the recognition of this contribution is at an unprecedented high,\nand all indications are that it will continue to grow."
           }
-        ]
+        ],
+        "text": "Sport Science in Australia\n\nThe professional career paths available to graduates from courses relating to\nhuman movement and sport science are as diverse as the graduate's\nimagination. However, undergraduate courses with this type of content, in\nAustralia as well as in most other Western countries, were originally designed\nas preparation programmes for Physical Education (PE) teachers.\n\nThe initial programmes commenced soon after the conclusion of World War II in\nthe mid-1940s. One of the primary motives for these initiatives was the fact\nthat, during the war effort, so many of the men who were assessed for military\nduty had been declared unfit. The government saw the solution in the\nproviding of Physical Education programmes in schools, delivered by better\nprepared and specifically educated PE teachers.\n\nLater, in the 1970s and early 1980s, the surplus of Australians graduating with\na PE degree obliged institutions delivering this qualification to identify new\nemployment opportunities for their graduates, resulting in the first appearance\nof degrees catering for recreation professionals. In many instances, this\ndiversity of programme delivery merely led to degrees, delivered by physical\neducators, as a sideline activity to the production of PE teachers.\n\nWhilst the need to produce Physical Education teachers remains a significant\nsocial need, and most developed societies demand the availability of quality\nleisure programmes for their citizens, the career options of graduates within\nthis domain are still developing. The two most evident growth domains are in\n\nthe area of the professional delivery of sport, and the role of a physical lifestyle\nfor community health.\n\nThe sports industry is developing at an unprecedented rate of growth. From a\nbusiness perspective, sport is now seen as an area with the potential for high\nreturns. It is quite significant that the businessman Rupert Murdoch broadened\nhis business base from media to sport, having purchased an American baseball\nteam and an Australian Rugby League competition, as well as seeking\nopportunities to invest in an English football club. No business person of such\ninternational stature would see fit to invest in sport unless he was satisfied that\nthis was a sound business venture with ideal revenue-generating opportunities.\n\nThese developments have confirmed sport as a business with professional\nmanagement structures, marketing processes, and development strategies in\nplace. They have indicated new and developing career paths for graduates of\nhuman movement science, sport science, exercise science and related\ndegrees. Graduates can now visualise career paths extending into such diverse\ndomains as sport management, sport marketing, event and facility\nmanagement, government policy development pertaining to sport, sport\njournalism, sport psychology, and sport or athletic coaching.\n\nBusiness leaders will only continue their enthusiasm for sport if they receive\nreturns for their money. Such returns will only be forthcoming if astute,\nenthusiastic and properly educated professionals are delivering the programs\nthat earn appropriate financial returns. The successful universities of the 21st\ncentury will be those that have responded to this challenge by delivering such\ndegrees.\n\nA second professional growth area for this group of graduates is associated\nwith community health. The increasing demand for government expenditure\nwithin health budgets is reaching the stage where most governments are\nsimply unable to function in a manner that is satisfying their constituents. One\nof the primary reasons for this problem is the unhelpful emphasis on treatment\nin medical care programmes. Governments have traditionally given their senior\nhealth official the title of 'Minister for Health', when in fact this officer has\nfunctioned as 'Minister for Sickness and the Construction of Hospitals'.\nGovernment focus simply has to change. If the change is not brought about for\nphilosophical reasons, it will occur naturally, because insufficient funding will\nbe available to address the ever-increasing costs of medical support.\n\nGraduates of human movement, exercise science and sport science have the\npotential to become major players in this shift in policy focus. It is these\ngraduates who already have the skills, knowledge and understanding to initiate\n\ncommunity health education programmes to reduce cardio-vascular disease, to\nreduce medical dependency upon diabetes, to improve workplace health\nleading to increased productivity, to initiate and promote programmes of\nactivity for the elderly that reduce medical dependency, and to maintain an\nactive lifestyle for the unemployed and disadvantaged groups in society. This\nis the graduate that governments will be calling upon to shift the community\nfocus from medical dependency to healthy lifestyles in the decades ahead.\n\nThe career paths of these graduates are developing at a pace that is not\nevident in other professions. The contribution that these graduates can make\nto society, and the recognition of this contribution is at an unprecedented high,\nand all indications are that it will continue to grow.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "diagram-label",
+          "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 1-5.",
+          "body": "The history of sports and physical science in Australia. Stage 1: A lot of people identified as being [[1]]. Stage 2: Introduction of PE to [[2]]. Stage 3: Special training programmes for [[3]]. Stage 4: [[4]] of PE graduates. Stage 5: Identification of alternative [[5]]. Stage 6: Diversification of course delivery.",
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1 ? Write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            6,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "unfit",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "schools",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "PE teachers",
+          "trap": null
+        },
+        {
           "number": 4,
-          "type": "sentence-completion",
-          "prompt": "of PE graduates Identification of alternative 5",
-          "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. The history of sports and physical science in Australia",
-          "answer": "surplus"
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "surplus",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "employment opportunities/careers/routes",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Sport is generally regarded as a profitable area for",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Rupert Murdoch has a personal as well as a",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "The range of career opportunities available to",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "The interests of business and the interests of",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Governments have been focusing too much\nattention on preventative medicine.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "It is inevitable that government priorities for health\nspending will change.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Existing degree courses are unsuitable for careers\nin community health.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Funding for sport science and related degrees has\nbeen increased considerably.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
-      "partNumber": 1,
-      "title": "Questions 6-13",
-      "questionRange": [
-        6,
-        13
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 6-13\nDiversification of course delivery \nDo the following statements agree with the information given in Reading\nPassage 1 ? Write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n6\n         Sport is generally regarded as a profitable area for\ninvestment.\n7\n         Rupert Murdoch has a personal as well as a\nbusiness interest in sport.\n8\n         The range of career opportunities available to\nsport graduates is increasing.\n9\n        The interests of business and the interests of\nuniversities are linked.\n10\n      Governments have been focusing too much\nattention on preventative medicine.\n11\n      It is inevitable that government priorities for health\nspending will change.\n12\n     Existing degree courses are unsuitable for careers\nin community health.\n13\n     Funding for sport science and related degrees has\nbeen increased considerably.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
       "partNumber": 2,
-      "title": "An assessment of micro-wind turbines",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below:\nAn assessment of micro-wind turbines\nA In terms of micro-renewable energy sources suitable for private use, a 15-\nkilowatt (kW) turbine is at the biggest end of the spectrum. With a nine metre\ndiameter and a pole as high as a four-storey house, this is the most efficient\nform of wind micro​turbine, and the sort of thing you could install only if you had\nplenty of space and money. According to one estimate, a 15-kW micro-turbine\n(that’s one with the maximum output), costing £41,000 to purchase and a\nfurther £9,000 to install, is capable of delivering 25,000 kilowatt-hours (kWh)’\nof electricity each year if placed on a suitably windy site.\nB I don’t know of any credible studies of the greenhouse gas emissions\ninvolved in producing and installing turbines, so my estimates here are going\nto be even more broad than usual. However, it is worth trying. If turbine\nmanufacture is about as carbon intensive per pound sterling of product as\nother generators and electrical motors, which seems a reasonable assumption,\nthe carbon intensity of manufacture will be around 640 kilograms (kg) per\n£1,000 of value. Installation is probably about as carbon intensive as typical\nconstruction, at around 380 kg per £1,000. That makes the carbon footprint\n(the total amount of greenhouse gases that installing a turbine creates) 30\ntonnes.\nC The carbon savings from wind-powered electricity generation depend on the\ncarbon intensity of the electricity that you’re replacing. Let’s assume that your\ngeneration replaces the coal-fuelled part of the country’s energy mix. In other\n\nwords, if you live in the UK, let’s say that rather than replacing typical grid\nelectricity, which comes from a mix of coal, gas, oil and renewable energy\nsources, the effect of your turbine is to reduce the use of coal-fired power\nstations. That’s reasonable, because coal is the least preferable source in the\nelectricity mix. In this case the carbon saving is roughly one kilogram per kWh,\nso you save 25 tonnes per year and pay back the embodied carbon in just 14\nmonths - a great start.\nD The UK government has recently introduced a subsidy for renewable energy\nthat pays individual producers 24p per energy unit on top of all the money they\nsave on their own fuel bill, and on selling surplus electricity back to the grid at\napproximately 5p per unit. With all this taken into account, individuals would\nget back £7,250 per year on their investment. That pays back the costs in\nabout six years. It makes good financial sense and, for people who care about\nthe carbon savings for their own sake, it looks like a fantastic move. The\ncarbon investment pays back in just over a year, and every year after that is a\n25-tonne carbon saving. (It’s important to remember that all these sums rely\non a wind turbine having a favourable location)\nE So, at face value, the turbine looks like a great idea environmentally, and a\nfairly good long-term investment economically for the person installing it.\nHowever, there is a crucial perspective missing from the analysis so far. Has\nthe government spent its money wisely? It has invested 24p per unit into each\nmicro-turbine. That works out at a massive £250 per tonne of carbon saved. My\ncalculations tell me that had the government invested its money in offshore\nwind farms, instead of subsidising smaller domestic turbines, they would have\nbroken even after eight years. In other words, the micro-turbine works out as a\ngood investment for individuals, but only because the government spends, and\narguably wastes, so much money subsidising it. Carbon savings are far lower\ntoo.\nF Nevertheless, although the micro-wind turbine subsidy doesn’t look like the\nvery best way of spending government resources on climate change mitigation,\nwe are talking about investing only about 0.075 percent per year of the\nnation’s GDP to get a one percent reduction in carbon emissions, which is a\nworthwhile benefit. In other words, it could be much better, but it could be\nworse. In addition, such investment helps to promote and sustain developing\ntechnology.\nG There is one extra favourable way of looking at the micro-wind turbine, even\nif it is not the single best way of investing money in cutting carbon. Input-\noutput modelling has told us that it is actually quite difficult to spend money\nwithout having a negative carbon impact. So if the subsidy encourages people",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "In terms of micro-renewable energy sources suitable for private use, a 15-"
+            "label": null,
+            "text": "An assessment of micro-wind turbines"
           },
           {
-            "label": "B",
-            "content": "I don’t know of any credible studies of the greenhouse gas emissions"
+            "label": null,
+            "text": "A In terms of micro-renewable energy sources suitable for private use, a 15-\nkilowatt (kW) turbine is at the biggest end of the spectrum. With a nine metre\ndiameter and a pole as high as a four-storey house, this is the most efficient\nform of wind microturbine, and the sort of thing you could install only if you had\nplenty of space and money. According to one estimate, a 15-kW micro-turbine\n(that's one with the maximum output), costing £41,000 to purchase and a\nfurther £9,000 to install, is capable of delivering 25,000 kilowatt-hours (kWh)'\nof electricity each year if placed on a suitably windy site."
           },
           {
-            "label": "C",
-            "content": "The carbon savings from wind-powered electricity generation depend on the"
+            "label": null,
+            "text": "B I don't know of any credible studies of the greenhouse gas emissions\ninvolved in producing and installing turbines, so my estimates here are going\nto be even more broad than usual. However, it is worth trying. If turbine\nmanufacture is about as carbon intensive per pound sterling of product as\nother generators and electrical motors, which seems a reasonable assumption,\nthe carbon intensity of manufacture will be around 640 kilograms (kg) per\n£1,000 of value. Installation is probably about as carbon intensive as typical\nconstruction, at around 380 kg per £1,000. That makes the carbon footprint\n(the total amount of greenhouse gases that installing a turbine creates) 30\ntonnes."
           },
           {
-            "label": "D",
-            "content": "The UK government has recently introduced a subsidy for renewable energy"
+            "label": null,
+            "text": "C The carbon savings from wind-powered electricity generation depend on the\ncarbon intensity of the electricity that you're replacing. Let's assume that your\ngeneration replaces the coal-fuelled part of the country's energy mix. In other"
           },
           {
-            "label": "E",
-            "content": "So, at face value, the turbine looks like a great idea environmentally, and a"
+            "label": null,
+            "text": "words, if you live in the UK, let's say that rather than replacing typical grid\nelectricity, which comes from a mix of coal, gas, oil and renewable energy\nsources, the effect of your turbine is to reduce the use of coal-fired power\nstations. That's reasonable, because coal is the least preferable source in the\nelectricity mix. In this case the carbon saving is roughly one kilogram per kWh,\nso you save 25 tonnes per year and pay back the embodied carbon in just 14\nmonths - a great start."
           },
           {
-            "label": "F",
-            "content": "Nevertheless, although the micro-wind turbine subsidy doesn’t look like the"
+            "label": null,
+            "text": "D The UK government has recently introduced a subsidy for renewable energy\nthat pays individual producers 24p per energy unit on top of all the money they\nsave on their own fuel bill, and on selling surplus electricity back to the grid at\napproximately 5p per unit. With all this taken into account, individuals would\nget back £7,250 per year on their investment. That pays back the costs in\nabout six years. It makes good financial sense and, for people who care about\nthe carbon savings for their own sake, it looks like a fantastic move. The\ncarbon investment pays back in just over a year, and every year after that is a\n25-tonne carbon saving. (It's important to remember that all these sums rely\non a wind turbine having a favourable location)"
           },
           {
-            "label": "G",
-            "content": "There is one extra favourable way of looking at the micro-wind turbine, even"
+            "label": null,
+            "text": "E So, at face value, the turbine looks like a great idea environmentally, and a\nfairly good long-term investment economically for the person installing it.\nHowever, there is a crucial perspective missing from the analysis so far. Has\nthe government spent its money wisely? It has invested 24p per unit into each\nmicro-turbine. That works out at a massive £250 per tonne of carbon saved. My\ncalculations tell me that had the government invested its money in offshore\nwind farms, instead of subsidising smaller domestic turbines, they would have\nbroken even after eight years. In other words, the micro-turbine works out as a\ngood investment for individuals, but only because the government spends, and\narguably wastes, so much money subsidising it. Carbon savings are far lower\ntoo."
+          },
+          {
+            "label": null,
+            "text": "F Nevertheless, although the micro-wind turbine subsidy doesn't look like the\nvery best way of spending government resources on climate change mitigation,\nwe are talking about investing only about 0.075 percent per year of the\nnation's GDP to get a one percent reduction in carbon emissions, which is a\nworthwhile benefit. In other words, it could be much better, but it could be\nworse. In addition, such investment helps to promote and sustain developing\ntechnology."
+          },
+          {
+            "label": null,
+            "text": "G There is one extra favourable way of looking at the micro-wind turbine, even\nif it is not the single best way of investing money in cutting carbon. Input-\noutput modelling has told us that it is actually quite difficult to spend money\nwithout having a negative carbon impact. So if the subsidy encourages people"
+          },
+          {
+            "label": null,
+            "text": "to spend their money on a carbon-reducing technology such as a wind turbine,\nrather than on carbon-producing goods like cars, and services such as overseas\nholidays, then the reductions in emissions will be greater than my simple sums\nabove have suggested."
           }
-        ]
+        ],
+        "text": "An assessment of micro-wind turbines\n\nA In terms of micro-renewable energy sources suitable for private use, a 15-\nkilowatt (kW) turbine is at the biggest end of the spectrum. With a nine metre\ndiameter and a pole as high as a four-storey house, this is the most efficient\nform of wind microturbine, and the sort of thing you could install only if you had\nplenty of space and money. According to one estimate, a 15-kW micro-turbine\n(that's one with the maximum output), costing £41,000 to purchase and a\nfurther £9,000 to install, is capable of delivering 25,000 kilowatt-hours (kWh)'\nof electricity each year if placed on a suitably windy site.\n\nB I don't know of any credible studies of the greenhouse gas emissions\ninvolved in producing and installing turbines, so my estimates here are going\nto be even more broad than usual. However, it is worth trying. If turbine\nmanufacture is about as carbon intensive per pound sterling of product as\nother generators and electrical motors, which seems a reasonable assumption,\nthe carbon intensity of manufacture will be around 640 kilograms (kg) per\n£1,000 of value. Installation is probably about as carbon intensive as typical\nconstruction, at around 380 kg per £1,000. That makes the carbon footprint\n(the total amount of greenhouse gases that installing a turbine creates) 30\ntonnes.\n\nC The carbon savings from wind-powered electricity generation depend on the\ncarbon intensity of the electricity that you're replacing. Let's assume that your\ngeneration replaces the coal-fuelled part of the country's energy mix. In other\n\nwords, if you live in the UK, let's say that rather than replacing typical grid\nelectricity, which comes from a mix of coal, gas, oil and renewable energy\nsources, the effect of your turbine is to reduce the use of coal-fired power\nstations. That's reasonable, because coal is the least preferable source in the\nelectricity mix. In this case the carbon saving is roughly one kilogram per kWh,\nso you save 25 tonnes per year and pay back the embodied carbon in just 14\nmonths - a great start.\n\nD The UK government has recently introduced a subsidy for renewable energy\nthat pays individual producers 24p per energy unit on top of all the money they\nsave on their own fuel bill, and on selling surplus electricity back to the grid at\napproximately 5p per unit. With all this taken into account, individuals would\nget back £7,250 per year on their investment. That pays back the costs in\nabout six years. It makes good financial sense and, for people who care about\nthe carbon savings for their own sake, it looks like a fantastic move. The\ncarbon investment pays back in just over a year, and every year after that is a\n25-tonne carbon saving. (It's important to remember that all these sums rely\non a wind turbine having a favourable location)\n\nE So, at face value, the turbine looks like a great idea environmentally, and a\nfairly good long-term investment economically for the person installing it.\nHowever, there is a crucial perspective missing from the analysis so far. Has\nthe government spent its money wisely? It has invested 24p per unit into each\nmicro-turbine. That works out at a massive £250 per tonne of carbon saved. My\ncalculations tell me that had the government invested its money in offshore\nwind farms, instead of subsidising smaller domestic turbines, they would have\nbroken even after eight years. In other words, the micro-turbine works out as a\ngood investment for individuals, but only because the government spends, and\narguably wastes, so much money subsidising it. Carbon savings are far lower\ntoo.\n\nF Nevertheless, although the micro-wind turbine subsidy doesn't look like the\nvery best way of spending government resources on climate change mitigation,\nwe are talking about investing only about 0.075 percent per year of the\nnation's GDP to get a one percent reduction in carbon emissions, which is a\nworthwhile benefit. In other words, it could be much better, but it could be\nworse. In addition, such investment helps to promote and sustain developing\ntechnology.\n\nG There is one extra favourable way of looking at the micro-wind turbine, even\nif it is not the single best way of investing money in cutting carbon. Input-\noutput modelling has told us that it is actually quite difficult to spend money\nwithout having a negative carbon impact. So if the subsidy encourages people\n\nto spend their money on a carbon-reducing technology such as a wind turbine,\nrather than on carbon-producing goods like cars, and services such as overseas\nholidays, then the reductions in emissions will be greater than my simple sums\nabove have suggested.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "to spend their money on a carbon-reducing technology such as a wind turbine,",
-      "questionRange": [
-        14,
-        20
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 2 has SEVEN paragraphs, A-G.",
+          "body": null,
+          "range": [
+            14,
+            20
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "ix"
+            ],
+            "labels": [
+              "A better use for large sums of money.",
+              "The environmental costs of manufacture and installation.",
+              "Estimates of the number of micro-turbines in use.",
+              "The environmental benefits of running a micro-turbine.",
+              "The size and output of the largest type of micro-turbine.",
+              "A limited case for subsidising micro-turbines.",
+              "Recent improvements in the design of micro-turbines.",
+              "The financial benefits of running a micro-turbine."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters, A-E. The list below contains some possible statements about micro wind- turbines. Which TWO of these statements are made by the writer of the passage?",
+          "body": null,
+          "range": [
+            21,
+            22
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "In certain areas, permission is required to install them.",
+              "Their exact energy output depends on their position.",
+              "They probably take less energy to make than other engines.",
+              "The UK government contributes towards their purchase cost.",
+              "They can produce more energy than a household needs."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "body": "[[23]] would be a more effective target for government investment than micro-turbines. An indirect benefit of subsidising micro-turbines is the support it provides for [[24]] Most spending has a [[25]] effect on the environment. If people buy a micro-turbine, they have less money to spend on things like foreign holidays and [[26]]",
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "to spend their money on a carbon-reducing technology such as a wind turbine,\nrather than on carbon-producing goods like cars, and services such as overseas\nholidays, then the reductions in emissions will be greater than my simple sums\nabove have suggested.\nQuestions 14-20\nReading Passage 2 has SEVEN paragraphs, A-G.\nChoose the correct heading for each paragraph from the list of headings\nbelow.\nWrite the correct number, i-ix. \nList of Headings\ni\n A better use for large sums of money.\nii\nThe environmental costs of manufacture and installation.\niii\nEstimates of the number of micro-turbines in use.\niv\nThe environmental benefits of running a micro-turbine.\nv\nThe size and output of the largest type of micro-turbine.\nvi\nA limited case for subsidising micro-turbines.\nvii\nRecent improvements in the design of micro-turbines.\nviii\nAn indirect method of reducing carbon emissions.\nix\nThe financial benefits of running a micro-turbine.\n14\n     Paragraph A\n15\n     Paragraph B\n16\n     Paragraph C\n17\n     Paragraph D\n18\n     Paragraph E\n19\n     Paragraph F\n20\n     Paragraph G",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "limited case for subsidising micro-turbines."
-          }
-        ]
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 14,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,E",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,E",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "would be a more effective target for government\ninvestment than micro-turbines.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "offshore wind farms",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "developing technology",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "negative",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cars",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Pottery production in ancient Akrotiri",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nPottery production in ancient Akrotiri\nExcavations at the site of prehistoric Akrotiri, on the coast of the Aegean Sea,\nhave revealed much about the technical aspects of pottery manufacture,\nindisputably one of the basic industries of this Greek city. However,\nconsiderably less is known about the socio-economic context and the way\nproduction was organised.\nThe bulk of pottery found at Akrotiri is locally made, and dates from the late\nfifteenth century BC. It clearly fulfilled a vast range of the settlement’s\nrequirements: more than fifty different types of pots can be distinguished. The\npottery found includes a wide variety of functional types like storage jars,\nsmaller containers, pouring vessels, cooking pots, drinking vessels and so on,\nwhich all relate to specific activities and which would have been made and\ndistributed with those activities in mind. Given the large number of shapes\nproduced and the relatively high degree of standardisation, it has generally\nbeen assumed that most, if not all, of Akrotiri pottery was produced by\nspecialised craftsmen in a non​domestic context. Unfortunately neither the\npotters’ workshops nor kilns have been found within the excavated area. The\nreason may be that the ceramic workshops were located on the periphery of\nthe site, which has not yet been excavated. In any event, the ubiquity of the\npottery, and the consistent repetition of the same types in different sizes,\nsuggests production on an industrial scale.\nThe Akrotirian potters seem to have responded to pressures beyond their\n\nhouseholds, namely to the increasing complexity of regional distribution and\nexchange systems. We can imagine them as full​time craftsmen working\npermanently in a high production-rate craft such as pottery manufacture, and\nsupporting themselves entirely from the proceeds of their craft. In view of the\nabove, one can begin to speak in terms of mass-produced pottery and the\nexistence of organised workshops of craftsmen during the period 1550-1500\nBC. Yet, how pottery production was organised at Akrotiri remains an open\nquestion, as there is no real documentary evidence. Our entire knowledge\ncomes from the ceramic material itself, and the tentative conclusions which\ncan be drawn from it.\nThe invention of units of quantity and of a numerical system to count them was\nof capital importance for an exchange-geared society such as that of Akrotiri. In\nspite of the absence of any written records, the archaeological evidence\nreveals that concepts of measurements, both of weight and number, had been\nformulated. Standard measures may already have been in operation, such as\nthose evidenced by a graduated series of lead weights - made in disc form -\nfound at the site. The existence of units of capacity in Late Bronze Age times is\nalso evidenced by the notation of units of a liquid measure for wine on\nexcavated containers.\nIt must be recognised that the function of pottery vessels plays a very\nimportant role in determining their characteristics. The intended function\naffects the choice of clay, the production technique, and the shape and the size\nof the pots. For example, large storage jars (pithoi) would be needed to store\ncommodities, whereas smaller containers would be used for transport. In fact,\nthe length of a man’s arm limits the size of a smaller pot to a capacity of about\ntwenty litres; that is also the maximum a man can comfortably carry.\nThe various sizes of container would thus represent standard quantities of a\ncommodity, which is a fundamental element in the function of exchange.\nAkrotirian merchants handling a commodity such as wine would have been\nable to determine easily the amount of wine they were transporting from the\nnumber of containers they carried in their ships, since the capacity of each\ncontainer was known to be 14-18 litres. (We could draw a parallel here with the\ncurrent practice in Greece of selling oil in 17 kilogram tins)\nWe may therefore assume that the shape, capacity, and, sometimes\ndecoration of vessels are indicative of the commodity contained by them. Since\nindividual transactions would normally involve different quantities of a given\ncommodity, a range of ‘standardised’ types of vessel would be needed to meet\ntraders’ requirements.\n\nIn trying to reconstruct systems of capacity by measuring the volume of\nexcavated pottery, a rather generous range of tolerances must be allowed. It\nseems possible that the potters of that time had specific sizes of vessel in\nmind, and tried to reproduce them using a specific type and amount of clay.\nHowever, it would be quite difficult for them to achieve the exact size required\nevery time, without any mechanical means of regulating symmetry and wall\nthickness, and some potters would be more skilled than others. In addition,\nvariations in the repetition of types and size may also occur because of\nunforeseen circumstances during the throwing process. For instance, instead of\ndestroying the entire pot if the clay in the rim contained a piece of grit, a potter\nmight produce a smaller pot by simply cutting off the rim. Even where there is\nno noticeable external difference between pots meant to contain the same\nquantity of a commodity, differences in their capacity can actually reach one or\ntwo litres. In one case the deviation from the required size appears to be as\nmuch as 10-20 percent.\nThe establishment of regular trade routes within the Aegean led to increased\nmovement of goods; consequently a regular exchange of local, luxury and\nsurplus goods, including metals, would have become feasible as a result of the\nadvances in transport technology. The increased demand for standardised\nexchanges, inextricably linked to commercial transactions, might have been\none of the main factors which led to the standardisation of pottery production.\nThus, the whole network of ceramic production and exchange would have\ndepended on specific regional economic conditions, and would reflect the\nsocio-economic structure of prehistoric Akrotiri.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Pottery production in ancient Akrotiri"
+          },
+          {
+            "label": null,
+            "text": "Excavations at the site of prehistoric Akrotiri, on the coast of the Aegean Sea,\nhave revealed much about the technical aspects of pottery manufacture,\nindisputably one of the basic industries of this Greek city. However,\nconsiderably less is known about the socio-economic context and the way\nproduction was organised."
+          },
+          {
+            "label": null,
+            "text": "The bulk of pottery found at Akrotiri is locally made, and dates from the late\nfifteenth century BC. It clearly fulfilled a vast range of the settlement's\nrequirements: more than fifty different types of pots can be distinguished. The\npottery found includes a wide variety of functional types like storage jars,\nsmaller containers, pouring vessels, cooking pots, drinking vessels and so on,\nwhich all relate to specific activities and which would have been made and\ndistributed with those activities in mind. Given the large number of shapes\nproduced and the relatively high degree of standardisation, it has generally\nbeen assumed that most, if not all, of Akrotiri pottery was produced by\nspecialised craftsmen in a nondomestic context. Unfortunately neither the\npotters' workshops nor kilns have been found within the excavated area. The\nreason may be that the ceramic workshops were located on the periphery of\nthe site, which has not yet been excavated. In any event, the ubiquity of the\npottery, and the consistent repetition of the same types in different sizes,\nsuggests production on an industrial scale."
+          },
+          {
+            "label": null,
+            "text": "The Akrotirian potters seem to have responded to pressures beyond their"
+          },
+          {
+            "label": null,
+            "text": "households, namely to the increasing complexity of regional distribution and\nexchange systems. We can imagine them as fulltime craftsmen working\npermanently in a high production-rate craft such as pottery manufacture, and\nsupporting themselves entirely from the proceeds of their craft. In view of the\nabove, one can begin to speak in terms of mass-produced pottery and the\nexistence of organised workshops of craftsmen during the period 1550-1500\nBC. Yet, how pottery production was organised at Akrotiri remains an open\nquestion, as there is no real documentary evidence. Our entire knowledge\ncomes from the ceramic material itself, and the tentative conclusions which\ncan be drawn from it."
+          },
+          {
+            "label": null,
+            "text": "The invention of units of quantity and of a numerical system to count them was\nof capital importance for an exchange-geared society such as that of Akrotiri. In\nspite of the absence of any written records, the archaeological evidence\nreveals that concepts of measurements, both of weight and number, had been\nformulated. Standard measures may already have been in operation, such as\nthose evidenced by a graduated series of lead weights - made in disc form -\nfound at the site. The existence of units of capacity in Late Bronze Age times is\nalso evidenced by the notation of units of a liquid measure for wine on\nexcavated containers."
+          },
+          {
+            "label": null,
+            "text": "It must be recognised that the function of pottery vessels plays a very\nimportant role in determining their characteristics. The intended function\naffects the choice of clay, the production technique, and the shape and the size\nof the pots. For example, large storage jars (pithoi) would be needed to store\ncommodities, whereas smaller containers would be used for transport. In fact,\nthe length of a man's arm limits the size of a smaller pot to a capacity of about\ntwenty litres; that is also the maximum a man can comfortably carry."
+          },
+          {
+            "label": null,
+            "text": "The various sizes of container would thus represent standard quantities of a\ncommodity, which is a fundamental element in the function of exchange.\nAkrotirian merchants handling a commodity such as wine would have been\nable to determine easily the amount of wine they were transporting from the\nnumber of containers they carried in their ships, since the capacity of each\ncontainer was known to be 14-18 litres. (We could draw a parallel here with the\ncurrent practice in Greece of selling oil in 17 kilogram tins)"
+          },
+          {
+            "label": null,
+            "text": "We may therefore assume that the shape, capacity, and, sometimes\ndecoration of vessels are indicative of the commodity contained by them. Since\nindividual transactions would normally involve different quantities of a given\ncommodity, a range of 'standardised' types of vessel would be needed to meet\ntraders' requirements."
+          },
+          {
+            "label": null,
+            "text": "In trying to reconstruct systems of capacity by measuring the volume of\nexcavated pottery, a rather generous range of tolerances must be allowed. It\nseems possible that the potters of that time had specific sizes of vessel in\nmind, and tried to reproduce them using a specific type and amount of clay.\nHowever, it would be quite difficult for them to achieve the exact size required\nevery time, without any mechanical means of regulating symmetry and wall\nthickness, and some potters would be more skilled than others. In addition,\nvariations in the repetition of types and size may also occur because of\nunforeseen circumstances during the throwing process. For instance, instead of\ndestroying the entire pot if the clay in the rim contained a piece of grit, a potter\nmight produce a smaller pot by simply cutting off the rim. Even where there is\nno noticeable external difference between pots meant to contain the same\nquantity of a commodity, differences in their capacity can actually reach one or\ntwo litres. In one case the deviation from the required size appears to be as\nmuch as 10-20 percent."
+          },
+          {
+            "label": null,
+            "text": "The establishment of regular trade routes within the Aegean led to increased\nmovement of goods; consequently a regular exchange of local, luxury and\nsurplus goods, including metals, would have become feasible as a result of the\nadvances in transport technology. The increased demand for standardised\nexchanges, inextricably linked to commercial transactions, might have been\none of the main factors which led to the standardisation of pottery production.\nThus, the whole network of ceramic production and exchange would have\ndepended on specific regional economic conditions, and would reflect the\nsocio-economic structure of prehistoric Akrotiri."
+          }
+        ],
+        "text": "Pottery production in ancient Akrotiri\n\nExcavations at the site of prehistoric Akrotiri, on the coast of the Aegean Sea,\nhave revealed much about the technical aspects of pottery manufacture,\nindisputably one of the basic industries of this Greek city. However,\nconsiderably less is known about the socio-economic context and the way\nproduction was organised.\n\nThe bulk of pottery found at Akrotiri is locally made, and dates from the late\nfifteenth century BC. It clearly fulfilled a vast range of the settlement's\nrequirements: more than fifty different types of pots can be distinguished. The\npottery found includes a wide variety of functional types like storage jars,\nsmaller containers, pouring vessels, cooking pots, drinking vessels and so on,\nwhich all relate to specific activities and which would have been made and\ndistributed with those activities in mind. Given the large number of shapes\nproduced and the relatively high degree of standardisation, it has generally\nbeen assumed that most, if not all, of Akrotiri pottery was produced by\nspecialised craftsmen in a nondomestic context. Unfortunately neither the\npotters' workshops nor kilns have been found within the excavated area. The\nreason may be that the ceramic workshops were located on the periphery of\nthe site, which has not yet been excavated. In any event, the ubiquity of the\npottery, and the consistent repetition of the same types in different sizes,\nsuggests production on an industrial scale.\n\nThe Akrotirian potters seem to have responded to pressures beyond their\n\nhouseholds, namely to the increasing complexity of regional distribution and\nexchange systems. We can imagine them as fulltime craftsmen working\npermanently in a high production-rate craft such as pottery manufacture, and\nsupporting themselves entirely from the proceeds of their craft. In view of the\nabove, one can begin to speak in terms of mass-produced pottery and the\nexistence of organised workshops of craftsmen during the period 1550-1500\nBC. Yet, how pottery production was organised at Akrotiri remains an open\nquestion, as there is no real documentary evidence. Our entire knowledge\ncomes from the ceramic material itself, and the tentative conclusions which\ncan be drawn from it.\n\nThe invention of units of quantity and of a numerical system to count them was\nof capital importance for an exchange-geared society such as that of Akrotiri. In\nspite of the absence of any written records, the archaeological evidence\nreveals that concepts of measurements, both of weight and number, had been\nformulated. Standard measures may already have been in operation, such as\nthose evidenced by a graduated series of lead weights - made in disc form -\nfound at the site. The existence of units of capacity in Late Bronze Age times is\nalso evidenced by the notation of units of a liquid measure for wine on\nexcavated containers.\n\nIt must be recognised that the function of pottery vessels plays a very\nimportant role in determining their characteristics. The intended function\naffects the choice of clay, the production technique, and the shape and the size\nof the pots. For example, large storage jars (pithoi) would be needed to store\ncommodities, whereas smaller containers would be used for transport. In fact,\nthe length of a man's arm limits the size of a smaller pot to a capacity of about\ntwenty litres; that is also the maximum a man can comfortably carry.\n\nThe various sizes of container would thus represent standard quantities of a\ncommodity, which is a fundamental element in the function of exchange.\nAkrotirian merchants handling a commodity such as wine would have been\nable to determine easily the amount of wine they were transporting from the\nnumber of containers they carried in their ships, since the capacity of each\ncontainer was known to be 14-18 litres. (We could draw a parallel here with the\ncurrent practice in Greece of selling oil in 17 kilogram tins)\n\nWe may therefore assume that the shape, capacity, and, sometimes\ndecoration of vessels are indicative of the commodity contained by them. Since\nindividual transactions would normally involve different quantities of a given\ncommodity, a range of 'standardised' types of vessel would be needed to meet\ntraders' requirements.\n\nIn trying to reconstruct systems of capacity by measuring the volume of\nexcavated pottery, a rather generous range of tolerances must be allowed. It\nseems possible that the potters of that time had specific sizes of vessel in\nmind, and tried to reproduce them using a specific type and amount of clay.\nHowever, it would be quite difficult for them to achieve the exact size required\nevery time, without any mechanical means of regulating symmetry and wall\nthickness, and some potters would be more skilled than others. In addition,\nvariations in the repetition of types and size may also occur because of\nunforeseen circumstances during the throwing process. For instance, instead of\ndestroying the entire pot if the clay in the rim contained a piece of grit, a potter\nmight produce a smaller pot by simply cutting off the rim. Even where there is\nno noticeable external difference between pots meant to contain the same\nquantity of a commodity, differences in their capacity can actually reach one or\ntwo litres. In one case the deviation from the required size appears to be as\nmuch as 10-20 percent.\n\nThe establishment of regular trade routes within the Aegean led to increased\nmovement of goods; consequently a regular exchange of local, luxury and\nsurplus goods, including metals, would have become feasible as a result of the\nadvances in transport technology. The increased demand for standardised\nexchanges, inextricably linked to commercial transactions, might have been\none of the main factors which led to the standardisation of pottery production.\nThus, the whole network of ceramic production and exchange would have\ndepended on specific regional economic conditions, and would reflect the\nsocio-economic structure of prehistoric Akrotiri.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            27,
+            28
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F.",
+          "body": null,
+          "range": [
+            29,
+            32
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "the discovery of a collection of metal discs.",
+              "the size and type of the sailing ships in use.",
+              "variations in the exact shape and thickness of similar containers.",
+              "the physical characteristics of workmen.",
+              "marks found on wine containers.",
+              "the variety of commodities for which they would have been used."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            33,
+            38
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What does the writer say about items of pottery excavated at Akrotiri?",
-          "instruction": "Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "There was very little duplication.",
+            "They would have met a big variety of needs.",
+            "Most of them had been imported from other places.",
+            "The intended purpose of each piece was unclear."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 28,
           "type": "multiple-choice",
-          "prompt": "The assumption that pottery from Akrotiri was produced by specialists",
-          "instruction": "Choose the correct letter, A, B, C or D.",
-          "answer": "D",
+          "groupId": "p3g1",
+          "prompt": "The assumption that pottery from Akrotiri was produced by specialists is partly based on",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the discovery of kilns.",
+            "the central location of workshops.",
+            "the sophistication of decorative patterns.",
+            "the wide range of shapes represented."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "The assumption that standard units of weight were in\nuse could be based on",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Evidence of the use of standard units of volume is\nprovided by",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "The size of certain types of containers would have been\nrestricted by",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Attempts to identify the intended capacity of containers\nare complicated by",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "There are plans to excavate new areas of the\narchaeological site in the near future.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "Some of the evidence concerning pottery\nproduction in ancient Akrotiri comes from written records.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "Pots for transporting liquids would have held no\nmore than about 20 litres.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "It would have been hard for merchants to calculate\nhow much wine was on their ships.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "The capacity of containers intended to hold the\nsame amounts differed by up to 20 percent.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "Regular trading of goods around the Aegean would\nhave led to the general standardisation of quantities.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "multiple-choice",
+          "groupId": "p3g4",
+          "prompt": "What does the writer say about the standardisation of container sizes?",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice",
+          "groupId": "p3g4",
+          "prompt": "What is probably the main purpose of Reading Passage 3?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "To evaluate the quality of pottery containers found in prehistoric Akrotiri.",
+            "To suggest how features of pottery production at Akrotiri reflected other developments in the region.",
+            "To outline the development of pottery-making skills in ancient Greece.",
+            "To describe methods for storing and transporting household goods in prehistoric societies. Solution:                      2 schools Part 1: Question 1 - 13 1 unfit 3 PE teachers                      4 surplus 5 employment                       6 TRUE opportunities/careers/routes  8 TRUE 7 NOT GIVEN 9 TRUE                             10 FALSE 11 TRUE                            12 FALSE 13 NOT GIVEN Part 2: Question 14 - 26           15 ii 14 v 16 iv                              17 ix 18 i                               19 vi 20 viii                            21  B,E 22 23 offshore wind farms             24 developing technology 25 negative              26 cars Part 3: Question 27 - 40  28 D 27 B                     30 E 29 A                     32 C 31 D                     34 NO 33 NOT GIVEN             36 NO 35 YES                   38 YES 37 YES                   40 B"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 29-32",
-      "questionRange": [
-        29,
-        32
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 29-32\nQuestions 33-38\nB\n \nC\n \nD\n \nthe central location of workshops.\nthe sophistication of decorative patterns.\nthe wide range of shapes represented.\nComplete each sentence with the correct ending, A-F, below.\nWrite the correct letter, A-F.\n29\n The assumption that standard units of weight were in\nuse could be based on\n30\n Evidence of the use of standard units of volume is\nprovided by\n31\n The size of certain types of containers would have been\nrestricted by\n32\n Attempts to identify the intended capacity of containers\nare complicated by\nA\nthe discovery of a collection of metal discs.\nB\nthe size and type of the sailing ships in use.\nC\nvariations in the exact shape and thickness of similar containers.\nD\nthe physical characteristics of workmen.\nE\nmarks found on wine containers.\nF\nthe variety of commodities for which they would have been used.\nDo the following statements agree with the views of the writer in Reading\nPassage 3? Write\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "B",
-            "content": "C"
-          },
-          {
-            "label": "D",
-            "content": "the central location of workshops."
-          },
-          {
-            "label": "A",
-            "content": "the discovery of a collection of metal discs."
-          },
-          {
-            "label": "B",
-            "content": "the size and type of the sailing ships in use."
-          },
-          {
-            "label": "C",
-            "content": "variations in the exact shape and thickness of similar containers."
-          },
-          {
-            "label": "D",
-            "content": "the physical characteristics of workmen."
-          },
-          {
-            "label": "E",
-            "content": "marks found on wine containers."
-          },
-          {
-            "label": "F",
-            "content": "the variety of commodities for which they would have been used."
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 39-40",
-      "questionRange": [
-        39,
-        40
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 39-40\n33\n     There are plans to excavate new areas of the\narchaeological site in the near future. \n34\n     Some of the evidence concerning pottery\nproduction in ancient Akrotiri comes from written records. \n35\n     Pots for transporting liquids would have held no\nmore than about 20 litres. \n36\n     It would have been hard for merchants to calculate\nhow much wine was on their ships. \n37\n     The capacity of containers intended to hold the\nsame amounts differed by up to 20 percent. \n38\n     Regular trading of goods around the Aegean would\nhave led to the general standardisation of quantities. \nChoose the correct letter, A, B, C or D.\n39 What does the writer say about the standardisation of container sizes?\nA\n \nB\n \nC\n \nD\n \n40 What is probably the main purpose of Reading Passage 3?\nA\n \nB\n \nContainers which looked the same from the outside often varied\nin capacity.\nThe instruments used to control container size were unreliable.\nThe unsystematic use of different types of clay resulted in size\nvariations.\nPotters usually discarded containers which were of a non-\nstandard size.\nTo evaluate the quality of pottery containers found in prehistoric\nAkrotiri.\nTo suggest how features of pottery production at Akrotiri\nreflected other developments in the region.\n\nC\n \nD\n \nTo outline the development of pottery-making skills in ancient\nGreece.\nTo describe methods for storing and transporting household\ngoods in prehistoric societies.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -247,7 +1150,7 @@
     "2": "schools",
     "3": "PE teachers",
     "4": "surplus",
-    "5": "employment",
+    "5": "employment opportunities/careers/routes",
     "6": "TRUE",
     "7": "NOT GIVEN",
     "8": "TRUE",
@@ -262,7 +1165,7 @@
     "17": "ix",
     "18": "i",
     "19": "vi",
-    "20": "viii",
+    "21": "B,E",
     "22": "B,E",
     "23": "offshore wind farms",
     "24": "developing technology",
@@ -281,6 +1184,7 @@
     "37": "YES",
     "38": "YES",
     "39": "A",
-    "40": "B"
+    "40": "B",
+    "20": "viii"
   }
 }

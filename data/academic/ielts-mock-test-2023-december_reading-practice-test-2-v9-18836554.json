@@ -1,419 +1,1079 @@
 {
   "id": "ielts-mock-test-2023-december_reading-practice-test-2-v9-18836554",
   "type": "academic",
-  "source": "ielts-mock-test-2023-december reading-practice-test-2-v9-18836554",
+  "title": "IELTS Academic 2023 December - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 2,
+  "year": 2023,
+  "month": 12,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-december_reading-practice-test-2-v9-18836554.pdf",
-  "total_questions": 29,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Nature works for Nature Work PLA",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below.\nNature works for Nature Work PLA\nA\nA dozen years ago, scientists at Cargill got the idea of converting lactic acid\nmade from corn into plastic while examining possible new uses for materials\nproduced from corn wet milling processes. In the past, several efforts had been\nmade to develop plastics from lactic acid, but with limited success. Achieving\nthis technological breakthrough didn’t come easily, but in time the efforts did\nsucceed. A fermentation and distillation process using com was designed to\ncreate a polymer suitable for a broad variety of applications.\nB\nAs an agricultural based firm, Cargill had taken this product as far as it could by\n1997. The company needed a partner with access to plastics markets and\npolymerization capabilities, and began discussions with The Dow Chemical\nCompany. The next step was the formation of the joint venture that created\nCargill Dow LLC. Cargill Dow’s product is the world’s first commercially\navailable plastic made from annually renewable resources such as com:\nNature Works™ PLA is a family of packaging polymers (carbon-based\nmolecules) made from non-petroleum based resources.\nIngeo is a family of polymers for fibers made in a similar manner.\nC\nBy applying their unique technology to the processing of natural plant sugars,\nCargill Dow has created a more environmentally friendly material that reaches\nthe consumer in clothes, cups, packaging and other products. While Cargill\nDow is a stand-alone business, it continues to leverage the agricultural\n\nprocessing, manufacturing and polymer expertise of the two parent companies\nin order to bring the best possible products to market.\nD\nThe basic raw materials for PLA are carbon dioxide and water. Growing plants,\nlike com, take these building blocks from the atmosphere and the soil. They are\ncombined in the plant to make carbohydrates (sucrose and starch) through a\nprocess driven by photosynthesis. The process for making Nature Works PLA\nbegins when a renewable resource such as corn is milled, separating starch\nfrom the raw material. Unrefined dextrose, in turn, is processed from the\nstarch.\nE\nCargill Dow turns the unrefined dextrose into lactic acid using a fermentation\nprocess similar to that used by beer and wine producers. This is the same\nlactic acid that is used as a food additive and is found in muscle tissue in the\nhuman body. Through a special condensation process, a lactide is formed. This\nlactide is purified through vacuum distillation and becomes a polymer (the\nbase for NatureWorks PLA) that is ready for use through a solvent-free melt\nprocess. Development of this new technology allows the company to “harvest”\nthe carbon that living plants remove from the air through photosynthesis.\nCarbon is stored in plant starches, which can be broken down into natural plant\nsugars. The carbon and other elements in these natural sugars are then used\nto make NatureWorks PLA.\nF\nNature Works PLA fits all disposal systems and is fully compostable in\ncommercial composting facilities. With the proper infrastructure, products\nmade from this polymer can be recycled back to a monomer and re-used as a\npolymer. Thus, at the end of its life cycle, a product made from Nature Works\nPLA can be broken down into its simplest parts so that no sign of it remains.\nG\nPLA is now actively competing with traditional materials in packaging and fiber\napplications throughout the world; based on the technology’s success and\npromise, Cargill Dow is quickly becoming a premier player in the polymers\nmarket. This new polymer now competes head-on with petroleum-based\nmaterials like polyester. A wide range of products that vary in molecular weight\nand crystallinity can be produced, and the blend of physical properties of PLA\nmakes it suited for a broad range of fiber and packaging applications. Fiber and\nnon-woven applications include clothing, fiberfill, blankets and wipes.\n\nPackaging applications include packaging films and food and beverage\ncontainers.\nH\nAs Nature Works PLA polymers are more oil- and grease-resistant and provide\na better flavor and aroma barrier than existing petroleum-based polymers,\ngrocery retailers are increasingly using this packaging for their fresh foods. As\ncompanies begin to explore this family of polymers, more potential applications\nare being identified. For example, PLA possess two properties that are\nparticularly useful for drape fabrics and window furnishings. Their resistance to\nultraviolet light is particularly appealing as this reduces the amount of fading in\nsuch fabrics, and their refractive index is low, which means fabrics constructed\nfrom these polymers can be made with deep colors without requiring large\namounts of dye. In addition, sportswear makers have been drawn to the\nproduct as it has an inherent ability to take moisture away from the skin and\nwhen blended with cotton and wool, the result is garments that are lighter and\nbetter at absorbing moisture.\nI\nPLA combines inexpensive large-scale fermentation with chemical processing\nto produce a value-added polymer product that improves the environment as\nwell. The source material for PLA is a natural sugar found in plants such as com\nand using such renewable feedstock presents several environmental benefits.\nAs an alternative to traditional petroleum-based polymers, the production of\nPLA uses 20%-50% less fossil fuel and releases a lower amount of greenhouse\ngasses than comparable petroleum-based plastic; carbon dioxide in the\natmosphere is removed when the feedstock is grown and is returned to the\nearth when the polymer is degraded. Because the company is using raw\nmaterials that can be regenerated year after year, it is both cost-competitive\nand environmentally responsible.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Nature works for Nature Work PLA"
+          },
           {
             "label": "A",
-            "content": "A dozen years ago, scientists at Cargill got the idea of converting lactic acid"
+            "text": "A dozen years ago, scientists at Cargill got the idea of converting lactic acid\nmade from corn into plastic while examining possible new uses for materials\nproduced from corn wet milling processes. In the past, several efforts had been\nmade to develop plastics from lactic acid, but with limited success. Achieving\nthis technological breakthrough didn't come easily, but in time the efforts did\nsucceed. A fermentation and distillation process using com was designed to\ncreate a polymer suitable for a broad variety of applications."
           },
           {
             "label": "B",
-            "content": "As an agricultural based firm, Cargill had taken this product as far as it could by"
+            "text": "As an agricultural based firm, Cargill had taken this product as far as it could by\n1997. The company needed a partner with access to plastics markets and\npolymerization capabilities, and began discussions with The Dow Chemical\nCompany. The next step was the formation of the joint venture that created\nCargill Dow LLC. Cargill Dow's product is the world's first commercially\navailable plastic made from annually renewable resources such as com:"
           },
           {
-            "label": "C",
-            "content": "By applying their unique technology to the processing of natural plant sugars,"
+            "label": null,
+            "text": "Nature Works™ PLA is a family of packaging polymers (carbon-based\nmolecules) made from non-petroleum based resources.\nIngeo is a family of polymers for fibers made in a similar manner.\nC"
+          },
+          {
+            "label": null,
+            "text": "By applying their unique technology to the processing of natural plant sugars,\nCargill Dow has created a more environmentally friendly material that reaches\nthe consumer in clothes, cups, packaging and other products. While Cargill\nDow is a stand-alone business, it continues to leverage the agricultural"
+          },
+          {
+            "label": null,
+            "text": "processing, manufacturing and polymer expertise of the two parent companies\nin order to bring the best possible products to market."
           },
           {
             "label": "D",
-            "content": "The basic raw materials for PLA are carbon dioxide and water. Growing plants,"
+            "text": "The basic raw materials for PLA are carbon dioxide and water. Growing plants,\nlike com, take these building blocks from the atmosphere and the soil. They are\ncombined in the plant to make carbohydrates (sucrose and starch) through a\nprocess driven by photosynthesis. The process for making Nature Works PLA\nbegins when a renewable resource such as corn is milled, separating starch\nfrom the raw material. Unrefined dextrose, in turn, is processed from the\nstarch."
           },
           {
             "label": "E",
-            "content": "Cargill Dow turns the unrefined dextrose into lactic acid using a fermentation"
+            "text": "Cargill Dow turns the unrefined dextrose into lactic acid using a fermentation\nprocess similar to that used by beer and wine producers. This is the same\nlactic acid that is used as a food additive and is found in muscle tissue in the\nhuman body. Through a special condensation process, a lactide is formed. This\nlactide is purified through vacuum distillation and becomes a polymer (the\nbase for NatureWorks PLA) that is ready for use through a solvent-free melt\nprocess. Development of this new technology allows the company to \"harvest\"\nthe carbon that living plants remove from the air through photosynthesis.\nCarbon is stored in plant starches, which can be broken down into natural plant\nsugars. The carbon and other elements in these natural sugars are then used\nto make NatureWorks PLA."
           },
           {
             "label": "F",
-            "content": "Nature Works PLA fits all disposal systems and is fully compostable in"
+            "text": "Nature Works PLA fits all disposal systems and is fully compostable in\ncommercial composting facilities. With the proper infrastructure, products\nmade from this polymer can be recycled back to a monomer and re-used as a\npolymer. Thus, at the end of its life cycle, a product made from Nature Works\nPLA can be broken down into its simplest parts so that no sign of it remains."
           },
           {
             "label": "G",
-            "content": "PLA is now actively competing with traditional materials in packaging and fiber"
+            "text": "PLA is now actively competing with traditional materials in packaging and fiber\napplications throughout the world; based on the technology's success and\npromise, Cargill Dow is quickly becoming a premier player in the polymers\nmarket. This new polymer now competes head-on with petroleum-based\nmaterials like polyester. A wide range of products that vary in molecular weight\nand crystallinity can be produced, and the blend of physical properties of PLA\nmakes it suited for a broad range of fiber and packaging applications. Fiber and\nnon-woven applications include clothing, fiberfill, blankets and wipes."
+          },
+          {
+            "label": null,
+            "text": "Packaging applications include packaging films and food and beverage\ncontainers."
+          },
+          {
+            "label": "H",
+            "text": "As Nature Works PLA polymers are more oil- and grease-resistant and provide\na better flavor and aroma barrier than existing petroleum-based polymers,\ngrocery retailers are increasingly using this packaging for their fresh foods. As\ncompanies begin to explore this family of polymers, more potential applications\nare being identified. For example, PLA possess two properties that are\nparticularly useful for drape fabrics and window furnishings. Their resistance to\nultraviolet light is particularly appealing as this reduces the amount of fading in\nsuch fabrics, and their refractive index is low, which means fabrics constructed\nfrom these polymers can be made with deep colors without requiring large\namounts of dye. In addition, sportswear makers have been drawn to the\nproduct as it has an inherent ability to take moisture away from the skin and\nwhen blended with cotton and wool, the result is garments that are lighter and\nbetter at absorbing moisture."
+          },
+          {
+            "label": "I",
+            "text": "PLA combines inexpensive large-scale fermentation with chemical processing\nto produce a value-added polymer product that improves the environment as\nwell. The source material for PLA is a natural sugar found in plants such as com\nand using such renewable feedstock presents several environmental benefits.\nAs an alternative to traditional petroleum-based polymers, the production of\nPLA uses 20%-50% less fossil fuel and releases a lower amount of greenhouse\ngasses than comparable petroleum-based plastic; carbon dioxide in the\natmosphere is removed when the feedstock is grown and is returned to the\nearth when the polymer is degraded. Because the company is using raw\nmaterials that can be regenerated year after year, it is both cost-competitive\nand environmentally responsible."
           }
-        ]
+        ],
+        "text": "Nature works for Nature Work PLA\n\nA dozen years ago, scientists at Cargill got the idea of converting lactic acid\nmade from corn into plastic while examining possible new uses for materials\nproduced from corn wet milling processes. In the past, several efforts had been\nmade to develop plastics from lactic acid, but with limited success. Achieving\nthis technological breakthrough didn't come easily, but in time the efforts did\nsucceed. A fermentation and distillation process using com was designed to\ncreate a polymer suitable for a broad variety of applications.\n\nAs an agricultural based firm, Cargill had taken this product as far as it could by\n1997. The company needed a partner with access to plastics markets and\npolymerization capabilities, and began discussions with The Dow Chemical\nCompany. The next step was the formation of the joint venture that created\nCargill Dow LLC. Cargill Dow's product is the world's first commercially\navailable plastic made from annually renewable resources such as com:\n\nNature Works™ PLA is a family of packaging polymers (carbon-based\nmolecules) made from non-petroleum based resources.\nIngeo is a family of polymers for fibers made in a similar manner.\nC\n\nBy applying their unique technology to the processing of natural plant sugars,\nCargill Dow has created a more environmentally friendly material that reaches\nthe consumer in clothes, cups, packaging and other products. While Cargill\nDow is a stand-alone business, it continues to leverage the agricultural\n\nprocessing, manufacturing and polymer expertise of the two parent companies\nin order to bring the best possible products to market.\n\nThe basic raw materials for PLA are carbon dioxide and water. Growing plants,\nlike com, take these building blocks from the atmosphere and the soil. They are\ncombined in the plant to make carbohydrates (sucrose and starch) through a\nprocess driven by photosynthesis. The process for making Nature Works PLA\nbegins when a renewable resource such as corn is milled, separating starch\nfrom the raw material. Unrefined dextrose, in turn, is processed from the\nstarch.\n\nCargill Dow turns the unrefined dextrose into lactic acid using a fermentation\nprocess similar to that used by beer and wine producers. This is the same\nlactic acid that is used as a food additive and is found in muscle tissue in the\nhuman body. Through a special condensation process, a lactide is formed. This\nlactide is purified through vacuum distillation and becomes a polymer (the\nbase for NatureWorks PLA) that is ready for use through a solvent-free melt\nprocess. Development of this new technology allows the company to \"harvest\"\nthe carbon that living plants remove from the air through photosynthesis.\nCarbon is stored in plant starches, which can be broken down into natural plant\nsugars. The carbon and other elements in these natural sugars are then used\nto make NatureWorks PLA.\n\nNature Works PLA fits all disposal systems and is fully compostable in\ncommercial composting facilities. With the proper infrastructure, products\nmade from this polymer can be recycled back to a monomer and re-used as a\npolymer. Thus, at the end of its life cycle, a product made from Nature Works\nPLA can be broken down into its simplest parts so that no sign of it remains.\n\nPLA is now actively competing with traditional materials in packaging and fiber\napplications throughout the world; based on the technology's success and\npromise, Cargill Dow is quickly becoming a premier player in the polymers\nmarket. This new polymer now competes head-on with petroleum-based\nmaterials like polyester. A wide range of products that vary in molecular weight\nand crystallinity can be produced, and the blend of physical properties of PLA\nmakes it suited for a broad range of fiber and packaging applications. Fiber and\nnon-woven applications include clothing, fiberfill, blankets and wipes.\n\nPackaging applications include packaging films and food and beverage\ncontainers.\n\nAs Nature Works PLA polymers are more oil- and grease-resistant and provide\na better flavor and aroma barrier than existing petroleum-based polymers,\ngrocery retailers are increasingly using this packaging for their fresh foods. As\ncompanies begin to explore this family of polymers, more potential applications\nare being identified. For example, PLA possess two properties that are\nparticularly useful for drape fabrics and window furnishings. Their resistance to\nultraviolet light is particularly appealing as this reduces the amount of fading in\nsuch fabrics, and their refractive index is low, which means fabrics constructed\nfrom these polymers can be made with deep colors without requiring large\namounts of dye. In addition, sportswear makers have been drawn to the\nproduct as it has an inherent ability to take moisture away from the skin and\nwhen blended with cotton and wool, the result is garments that are lighter and\nbetter at absorbing moisture.\n\nPLA combines inexpensive large-scale fermentation with chemical processing\nto produce a value-added polymer product that improves the environment as\nwell. The source material for PLA is a natural sugar found in plants such as com\nand using such renewable feedstock presents several environmental benefits.\nAs an alternative to traditional petroleum-based polymers, the production of\nPLA uses 20%-50% less fossil fuel and releases a lower amount of greenhouse\ngasses than comparable petroleum-based plastic; carbon dioxide in the\natmosphere is removed when the feedstock is grown and is returned to the\nearth when the polymer is degraded. Because the company is using raw\nmaterials that can be regenerated year after year, it is both cost-competitive\nand environmentally responsible.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "make things like clothes",
+              "produce plastic from plant",
+              "selling plastic in market",
+              "fermentation process",
+              "drape fabrics",
+              "wrapping products"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet. Process: the production of PLA",
+          "body": "[[5]] [[6]] [[7]] [[8]]",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-10 on your answer sheet.",
+          "body": null,
+          "range": [
+            9,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "fill-in-blank",
+          "instruction": "Which two features of PLA are correct?",
+          "body": null,
+          "range": [
+            11,
+            12
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12
+          ]
+        },
+        {
+          "id": "p1g5",
+          "type": "fill-in-blank",
+          "instruction": "Which two features of PLA are correct?",
+          "body": null,
+          "range": [
+            13,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "matching-features",
+          "groupId": "p1g1",
           "prompt": "Scientists manage to",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 2,
           "type": "matching-features",
+          "groupId": "p1g1",
           "prompt": "Cargill needs to have contacts with",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 3,
           "type": "matching-features",
+          "groupId": "p1g1",
           "prompt": "Nature work is used for",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
-          "answer": "F"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 4,
           "type": "matching-features",
-          "prompt": "Ingeo is used to Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer.",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
-          "answer": "A"
+          "groupId": "p1g1",
+          "prompt": "Ingeo is used to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "fill-in-blank",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet. Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet.",
-          "answer": "starch"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "starch",
+          "trap": null
         },
         {
           "number": 6,
-          "type": "fill-in-blank",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet. Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet.",
-          "answer": "fermentation"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "fermentation",
+          "trap": null
         },
         {
           "number": 7,
-          "type": "fill-in-blank",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet. Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet.",
-          "answer": "condensation"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "condensation",
+          "trap": null
         },
         {
           "number": 8,
-          "type": "fill-in-blank",
-          "prompt": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-10 on your answer sheet.",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet. Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet.",
-          "answer": "polymer"
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "polymer",
+          "trap": null
         },
         {
-          "number": 10,
+          "number": 9,
           "type": "multiple-choice",
-          "prompt": "What is PLA packaging is used for?",
-          "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet. Complete the following summary of the paragraphs of Reading Passage. Using ONE WORD ONLY/strong> from the Reading Passage for each answer. Write your answers in boxes 5-8 on your answer sheet. Choose the correct letter, A, B, C or D. Write your answers in boxes 9-10 on your answer sheet. 9 Why did choose the PLA as material for food packaging? A",
-          "answer": "C",
+          "groupId": "p1g3",
+          "prompt": "Why did choose the PLA as material for food packaging?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "It smells good",
+            "It can save food freshness",
+            "It can be used on other materials",
+            "Some other things need to be revised about it."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "What is PLA packaging is used for?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "absorbing moisture",
+            "composting facilities",
+            "Packaging fresh food",
+            "manufacturing"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "fill-in-blank",
+          "groupId": "p1g5",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "fill-in-blank",
+          "groupId": "p1g5",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Renewable Energy",
+      "title": "Reading Passage 2",
       "questionRange": [
-        14,
-        26
+        15,
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nRenewable Energy\nAn insight into the progress in renewable energy research\nA\nThe race is on for the ultimate goal of renewable energy: electricity production\nat prices that are competitive with coal-fired power stations, but without coal’s\npollution. Some new technologies are aiming to be the first to push coal from\nits position as Australia’s chief source of electricity.\nB\nAt the moment the front-runner in renewable energy is wind technology.\nAccording to Peter Bergin of Australian Hydro, one of Australia’s leading wind\nenergy companies, there have been no dramatic changes in windmill design for\nmany years, but the cumulative effects of numerous small improvements have\nhad a major impact on cost. ‘We’re reaping the benefits of 30 years of research\nin Europe, without have to make the same mistakes that they did,’ Mr Bergin\nsays.\nC\nElectricity can be produced from coal at around 4 cents per kilowatt-hour, but\nonly if the environmental costs are ignored. ‘Australia has the second cheapest\nelectricity in the world, and this makes it difficult for renewable to compete,’\nsays Richard Hunter of the Australian Ecogeneration Association (AEA).\nNevertheless, the AEA reports: ‘The production cost of a kilowatt-hour of wind\npower is one-fifth of what it was 20 years ago,’ or around 7 cents per kilowatt-\nhour.\n\nD\nAustralian Hydro has dozens of wind monitoring stations across Australia as\npart of its aim to become Australia’s pre-eminent renewable energy company.\nDespite all these developments, wind power remains one of the few forms of\nalternative energy where Australia is nowhere near the global cutting edge,\nmostly just replicating European designs.\nE\nWhile wind may currently lead the way, some consider a number of\ntechnologies under development have more potential. In several cases,\nAustralia is at the forefront of global research in the area. Some of them are\nvery site-specific, ensuring that they may never become dominant market\nplayers. On the other hand, these newer developments are capable of\nproviding more reliable power, avoiding the major criticism of windmills – the\nneed for back-up on a calm day.\nF\nOne such development uses hot, dry rocks. Deep beneath South Australia,\nradiation from elements contained in granite heats the rocks. Layers of\ninsulating sedimentation raise the temperatures in some location to 250°\ncentigrade. An Australian firm, Geoenergy, is proposing to pump water 3.5\nkilometres into the earth, where it will travel through tiny fissures in the\ngranite, heating up as it goes until it escapes as steam through another drilled\nhole.\nG\nNo greenhouse gases are produced, but the system needs some additional\nfeatures if it is to be environmentally friendly. Dr Prue Chopra, a geophysicist at\nthe Australian National University and one of the founders of Geoenergy, note\nthat the steam will bring with it radon gas, along through a heat exchanger and\nthen sent back underground for another cycle. Technically speaking, hot dry\nrocks are not a renewable source of energy. However, the Australian source is\nso large it could supply the entire country’s needs for thousands of years at\ncurrent rates of consumption.\nH\nTwo other proposals for very different ways to harness sun and wind energy\nhave surfaced recently. Progress continues with Australian company\nEnviroPower’s plans for Australia’s first solar chimney near Mildura, in Victoria.\nUnder this scheme, a tall tower will draw hot air from a greenhouse built to\n\ncover the surrounding 5 km². As the air rises, it will drive a turbine* to produce\nelectricity. The solar tower combines three very old technologies – the\nchimney, the turbine and the greenhouse – to produce something quite new. It\nis this reliance on proven engineering principles that led Enviropower’s CEO,\nRichard Davies, to state: There is no doubt this technology will work, none at\nall.’\nI\nThis year, Enviropower recognized that the quality of sunlight in the Mildura\ndistrict will require a substantially larger collecting area than was previously\nthought. However, spokesperson kay Firth says that a new location closer to\nMildura will enable Enviropower to balance the increased costs with extra\nrevenue. Besides saving in transmission costs, the new site ‘will mean\nincreased revenue from tourism and use of power for telecommunications.\nWe’ll also be able to use the outer 500 metres for agribusiness.’ Wind speeds\ncloser to the tower will be too high for farming.\nJ\nAnother Australian company, Wavetech, is achieving success with ways of\nharvesting the energy in waves. Wavetech’s invention uses a curved surface to\npush waves into a chamber, where the flowing water column pushes air back\nand forth through a turbine. Wavetech was created when Dr Tim Devine\noffered the idea to the world leader in wave generator manufacturers, who\nrather surprisingly rejected it. Dr Devine responded by establishing Wavetech\nand making a number of other improvements to generator design. Wavetech\nclaims that, at appropriate sites, ‘the cost of electricity produced with our\ntechnology should be below 4 cents per kilowatt-hour.\nK\nThe diversity of forms of greenhouse – friendly energy under development in\nAustralia is remarkable. However, support on a national level is disappointing.\nAccording to Richard Hunter of the AEA, ‘Australia has huge potential for wind,\nsun and wave technology. We should really be at the forefront, but the reality\nis we are a long way behind.’",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Renewable Energy"
+          },
+          {
+            "label": null,
+            "text": "An insight into the progress in renewable energy research"
+          },
           {
             "label": "A",
-            "content": "The race is on for the ultimate goal of renewable energy: electricity production"
+            "text": "The race is on for the ultimate goal of renewable energy: electricity production\nat prices that are competitive with coal-fired power stations, but without coal's\npollution. Some new technologies are aiming to be the first to push coal from\nits position as Australia's chief source of electricity."
           },
           {
             "label": "B",
-            "content": "At the moment the front-runner in renewable energy is wind technology."
+            "text": "At the moment the front-runner in renewable energy is wind technology.\nAccording to Peter Bergin of Australian Hydro, one of Australia's leading wind\nenergy companies, there have been no dramatic changes in windmill design for\nmany years, but the cumulative effects of numerous small improvements have\nhad a major impact on cost. 'We're reaping the benefits of 30 years of research\nin Europe, without have to make the same mistakes that they did,' Mr Bergin\nsays."
           },
           {
             "label": "C",
-            "content": "Electricity can be produced from coal at around 4 cents per kilowatt-hour, but"
+            "text": "Electricity can be produced from coal at around 4 cents per kilowatt-hour, but\nonly if the environmental costs are ignored. 'Australia has the second cheapest\nelectricity in the world, and this makes it difficult for renewable to compete,'\nsays Richard Hunter of the Australian Ecogeneration Association (AEA).\nNevertheless, the AEA reports: 'The production cost of a kilowatt-hour of wind\npower is one-fifth of what it was 20 years ago,' or around 7 cents per kilowatt-\nhour."
           },
           {
             "label": "D",
-            "content": "Australian Hydro has dozens of wind monitoring stations across Australia as"
+            "text": "Australian Hydro has dozens of wind monitoring stations across Australia as\npart of its aim to become Australia's pre-eminent renewable energy company.\nDespite all these developments, wind power remains one of the few forms of\nalternative energy where Australia is nowhere near the global cutting edge,\nmostly just replicating European designs."
           },
           {
             "label": "E",
-            "content": "While wind may currently lead the way, some consider a number of"
+            "text": "While wind may currently lead the way, some consider a number of\ntechnologies under development have more potential. In several cases,\nAustralia is at the forefront of global research in the area. Some of them are\nvery site-specific, ensuring that they may never become dominant market\nplayers. On the other hand, these newer developments are capable of\nproviding more reliable power, avoiding the major criticism of windmills - the\nneed for back-up on a calm day."
           },
           {
             "label": "F",
-            "content": "One such development uses hot, dry rocks. Deep beneath South Australia,"
+            "text": "One such development uses hot, dry rocks. Deep beneath South Australia,\nradiation from elements contained in granite heats the rocks. Layers of\ninsulating sedimentation raise the temperatures in some location to 250°\ncentigrade. An Australian firm, Geoenergy, is proposing to pump water 3.5\nkilometres into the earth, where it will travel through tiny fissures in the\ngranite, heating up as it goes until it escapes as steam through another drilled\nhole."
           },
           {
             "label": "G",
-            "content": "No greenhouse gases are produced, but the system needs some additional"
+            "text": "No greenhouse gases are produced, but the system needs some additional\nfeatures if it is to be environmentally friendly. Dr Prue Chopra, a geophysicist at\nthe Australian National University and one of the founders of Geoenergy, note\nthat the steam will bring with it radon gas, along through a heat exchanger and\nthen sent back underground for another cycle. Technically speaking, hot dry\nrocks are not a renewable source of energy. However, the Australian source is\nso large it could supply the entire country's needs for thousands of years at\ncurrent rates of consumption."
+          },
+          {
+            "label": "H",
+            "text": "Two other proposals for very different ways to harness sun and wind energy\nhave surfaced recently. Progress continues with Australian company\nEnviroPower's plans for Australia's first solar chimney near Mildura, in Victoria.\nUnder this scheme, a tall tower will draw hot air from a greenhouse built to"
+          },
+          {
+            "label": null,
+            "text": "cover the surrounding 5 km². As the air rises, it will drive a turbine* to produce\nelectricity. The solar tower combines three very old technologies - the\nchimney, the turbine and the greenhouse - to produce something quite new. It\nis this reliance on proven engineering principles that led Enviropower's CEO,\nRichard Davies, to state: There is no doubt this technology will work, none at\nall.'"
+          },
+          {
+            "label": "I",
+            "text": "This year, Enviropower recognized that the quality of sunlight in the Mildura\ndistrict will require a substantially larger collecting area than was previously\nthought. However, spokesperson kay Firth says that a new location closer to\nMildura will enable Enviropower to balance the increased costs with extra\nrevenue. Besides saving in transmission costs, the new site 'will mean\nincreased revenue from tourism and use of power for telecommunications.\nWe'll also be able to use the outer 500 metres for agribusiness.' Wind speeds\ncloser to the tower will be too high for farming."
+          },
+          {
+            "label": "J",
+            "text": "Another Australian company, Wavetech, is achieving success with ways of\nharvesting the energy in waves. Wavetech's invention uses a curved surface to\npush waves into a chamber, where the flowing water column pushes air back\nand forth through a turbine. Wavetech was created when Dr Tim Devine\noffered the idea to the world leader in wave generator manufacturers, who\nrather surprisingly rejected it. Dr Devine responded by establishing Wavetech\nand making a number of other improvements to generator design. Wavetech\nclaims that, at appropriate sites, 'the cost of electricity produced with our\ntechnology should be below 4 cents per kilowatt-hour."
+          },
+          {
+            "label": "K",
+            "text": "The diversity of forms of greenhouse - friendly energy under development in\nAustralia is remarkable. However, support on a national level is disappointing.\nAccording to Richard Hunter of the AEA, 'Australia has huge potential for wind,\nsun and wave technology. We should really be at the forefront, but the reality\nis we are a long way behind.'"
           }
-        ]
+        ],
+        "text": "Renewable Energy\n\nAn insight into the progress in renewable energy research\n\nThe race is on for the ultimate goal of renewable energy: electricity production\nat prices that are competitive with coal-fired power stations, but without coal's\npollution. Some new technologies are aiming to be the first to push coal from\nits position as Australia's chief source of electricity.\n\nAt the moment the front-runner in renewable energy is wind technology.\nAccording to Peter Bergin of Australian Hydro, one of Australia's leading wind\nenergy companies, there have been no dramatic changes in windmill design for\nmany years, but the cumulative effects of numerous small improvements have\nhad a major impact on cost. 'We're reaping the benefits of 30 years of research\nin Europe, without have to make the same mistakes that they did,' Mr Bergin\nsays.\n\nElectricity can be produced from coal at around 4 cents per kilowatt-hour, but\nonly if the environmental costs are ignored. 'Australia has the second cheapest\nelectricity in the world, and this makes it difficult for renewable to compete,'\nsays Richard Hunter of the Australian Ecogeneration Association (AEA).\nNevertheless, the AEA reports: 'The production cost of a kilowatt-hour of wind\npower is one-fifth of what it was 20 years ago,' or around 7 cents per kilowatt-\nhour.\n\nAustralian Hydro has dozens of wind monitoring stations across Australia as\npart of its aim to become Australia's pre-eminent renewable energy company.\nDespite all these developments, wind power remains one of the few forms of\nalternative energy where Australia is nowhere near the global cutting edge,\nmostly just replicating European designs.\n\nWhile wind may currently lead the way, some consider a number of\ntechnologies under development have more potential. In several cases,\nAustralia is at the forefront of global research in the area. Some of them are\nvery site-specific, ensuring that they may never become dominant market\nplayers. On the other hand, these newer developments are capable of\nproviding more reliable power, avoiding the major criticism of windmills - the\nneed for back-up on a calm day.\n\nOne such development uses hot, dry rocks. Deep beneath South Australia,\nradiation from elements contained in granite heats the rocks. Layers of\ninsulating sedimentation raise the temperatures in some location to 250°\ncentigrade. An Australian firm, Geoenergy, is proposing to pump water 3.5\nkilometres into the earth, where it will travel through tiny fissures in the\ngranite, heating up as it goes until it escapes as steam through another drilled\nhole.\n\nNo greenhouse gases are produced, but the system needs some additional\nfeatures if it is to be environmentally friendly. Dr Prue Chopra, a geophysicist at\nthe Australian National University and one of the founders of Geoenergy, note\nthat the steam will bring with it radon gas, along through a heat exchanger and\nthen sent back underground for another cycle. Technically speaking, hot dry\nrocks are not a renewable source of energy. However, the Australian source is\nso large it could supply the entire country's needs for thousands of years at\ncurrent rates of consumption.\n\nTwo other proposals for very different ways to harness sun and wind energy\nhave surfaced recently. Progress continues with Australian company\nEnviroPower's plans for Australia's first solar chimney near Mildura, in Victoria.\nUnder this scheme, a tall tower will draw hot air from a greenhouse built to\n\ncover the surrounding 5 km². As the air rises, it will drive a turbine* to produce\nelectricity. The solar tower combines three very old technologies - the\nchimney, the turbine and the greenhouse - to produce something quite new. It\nis this reliance on proven engineering principles that led Enviropower's CEO,\nRichard Davies, to state: There is no doubt this technology will work, none at\nall.'\n\nThis year, Enviropower recognized that the quality of sunlight in the Mildura\ndistrict will require a substantially larger collecting area than was previously\nthought. However, spokesperson kay Firth says that a new location closer to\nMildura will enable Enviropower to balance the increased costs with extra\nrevenue. Besides saving in transmission costs, the new site 'will mean\nincreased revenue from tourism and use of power for telecommunications.\nWe'll also be able to use the outer 500 metres for agribusiness.' Wind speeds\ncloser to the tower will be too high for farming.\n\nAnother Australian company, Wavetech, is achieving success with ways of\nharvesting the energy in waves. Wavetech's invention uses a curved surface to\npush waves into a chamber, where the flowing water column pushes air back\nand forth through a turbine. Wavetech was created when Dr Tim Devine\noffered the idea to the world leader in wave generator manufacturers, who\nrather surprisingly rejected it. Dr Devine responded by establishing Wavetech\nand making a number of other improvements to generator design. Wavetech\nclaims that, at appropriate sites, 'the cost of electricity produced with our\ntechnology should be below 4 cents per kilowatt-hour.\n\nThe diversity of forms of greenhouse - friendly energy under development in\nAustralia is remarkable. However, support on a national level is disappointing.\nAccording to Richard Hunter of the AEA, 'Australia has huge potential for wind,\nsun and wave technology. We should really be at the forefront, but the reality\nis we are a long way behind.'",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements (Questions 22-27) and the list of companies below. List of Companies",
+          "body": null,
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "Australian Hydro",
+              "Geoenergy",
+              "Enviropower",
+              "Wavetech"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "true-false-not-given",
-          "prompt": "In Australia, alternative energies are less expensive than conventional electricity.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "In Australia, alternative energies are less expensive\nthan conventional electricity.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
-          "prompt": "Geoenergy needs to adapt its system to make it less harmful to the environment.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "Geoenergy needs to adapt its system to make it less\nharmful to the environment.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "Dr Prue Chopra has studied the effects of radon gas on the environment.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "Dr Prue Chopra has studied the effects of radon gas on\nthe environment.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 18,
           "type": "true-false-not-given",
-          "prompt": "Hot, dry rocks could provide enough power for the whole of Australia.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "Hot, dry rocks could provide enough power for the\nwhole of Australia.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 19,
           "type": "true-false-not-given",
+          "groupId": "p2g1",
           "prompt": "The new Enviropower facility will keep tourists away.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 20,
           "type": "true-false-not-given",
-          "prompt": "Wavetech was established when its founders were turned down by another company.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "Wavetech was established when its founders were\nturned down by another company.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 21,
           "type": "true-false-not-given",
-          "prompt": "According to AEA, Australia is a world leader in developing renewable energy. Look at the following statements (Questions 22-27) and the list of companies below.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "According to AEA, Australia is a world leader in\ndeveloping renewable energy.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 22,
           "type": "matching-features",
-          "prompt": "During the process, harmful substances are prevented from escaping.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write Look at the following statements (Questions 22-27) and the list of companies below. List of Companies A Australian Hydro B Geoenergy C Enviropower D Wavetech Match each statement with the correct company, A-D. Write the correct letter, A-D, in boxes 22-27 on your answer sheet. NB You may use any letter more than once.",
-          "answer": "B"
+          "groupId": "p2g2",
+          "prompt": "During the process, harmful substances are prevented\nfrom escaping.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 23,
           "type": "matching-features",
+          "groupId": "p2g2",
           "prompt": "Water is used to force air through a special device.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write Look at the following statements (Questions 22-27) and the list of companies below. List of Companies A Australian Hydro B Geoenergy C Enviropower D Wavetech Match each statement with the correct company, A-D. Write the correct letter, A-D, in boxes 22-27 on your answer sheet. NB You may use any letter more than once.",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 24,
           "type": "matching-features",
+          "groupId": "p2g2",
           "prompt": "Techniques used by other countries are being copied.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write Look at the following statements (Questions 22-27) and the list of companies below. List of Companies A Australian Hydro B Geoenergy C Enviropower D Wavetech Match each statement with the correct company, A-D. Write the correct letter, A-D, in boxes 22-27 on your answer sheet. NB You may use any letter more than once.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 25,
           "type": "matching-features",
-          "prompt": "The system can provide services other than energy production.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write Look at the following statements (Questions 22-27) and the list of companies below. List of Companies A Australian Hydro B Geoenergy C Enviropower D Wavetech Match each statement with the correct company, A-D. Write the correct letter, A-D, in boxes 22-27 on your answer sheet. NB You may use any letter more than once.",
-          "answer": "C"
+          "groupId": "p2g2",
+          "prompt": "The system can provide services other than energy\nproduction.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 26,
           "type": "matching-features",
+          "groupId": "p2g2",
           "prompt": "It is planned to force water deep under the ground.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-21 on your answer sheet, write Look at the following statements (Questions 22-27) and the list of companies below. List of Companies A Australian Hydro B Geoenergy C Enviropower D Wavetech Match each statement with the correct company, A-D. Write the correct letter, A-D, in boxes 22-27 on your answer sheet. NB You may use any letter more than once.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Original estimates for part of the project have been\nrevised.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Alfred Nobel: The man behind the Nobel",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 3 below.\nAlfred Nobel: The man behind the Nobel\nPrize\nA\nSince 1901, the Nobel Prize has been honoring men and women from all\ncorners of the globe for outstanding achievements in physics, chemistry,\nmedicine, literature, and for work in peace. The foundations for the prize were\nlaid in 1895 when Alfred Nobel wrote his last will, leaving much of his wealth to\nthe establishment of the Nobel Prize.\nB\nAlfred Nobel was born in Stockholm on October 21, 1833. His father Immanuel\nNobel was an engineer and inventor who built bridges and buildings in\nStockholm. In connection with his construction work, Immanuel Nobel also\nexperimented with different techniques for blasting rocks. Successful in his\nindustrial and business ventures, Immanuel Nobel was able, in 1842, to bring\nhis family to St. Petersburg. There, his sons were given a first-class education\nby private teachers. The training included natural sciences, languages and\nliterature. By the age of 17, Alfred Nobel was fluent in Swedish, Russian,\nFrench, English and German. His primary interests were in English literature\nand poetry as well as in chemistry and physics. Alfred’s father, who wanted his\nsons to join his enterprise as engineers, disliked Alfred’s interest in poetry and\nfound his son rather introverted.\nC\nIn order to widen Alfred’s horizons, his father sent him abroad for further\n\ntraining in chemical engineering. During a two year period, Alfred Nobel visited\nSweden, Germany, France and the United States. In Paris, the city he came to\nlike best, he worked in the private laboratory of Professor T. J. Pclouze, a\nfamous chemist. There he met the young Italian chemist Ascanio Sobrero who,\nthree years earlier, had invented nitroglycerine, a highly explosive liquid. But it\nwas considered too dangerous to be of any practical use. Although its explosive\npower greatly exceeded that of gunpowder, the liquid would explode in a very\nunpredictable manner if subjected to heat and pressure. Alfred Nobel became\nvery interested in nitroglycerine and how it could be put to practical use in\nconstruction work. He also realized that the safety problems had to be solved\nand a method had to be developed for the controlled detonation of\nnitroglycerine.\nD\nAfter his return to Sweden in 1863, Alfred Nobel concentrated on developing\nnitroglycerine as an explosive. Several explosions, including one (1864) in\nwhich his brother Emil and several other persons were killed, convinced the\nauthorities that nitroglycerine production was exceedingly dangerous. They\nforbade further experimentation with nitroglycerine within the Stockholm city\nlimits and Alfred Nobel had to move his experimentation to a barge anchored\non Lake Malaren. Alfred was not discouraged and in 1864 he was able to start\nmass production of nitroglycerine. To make the handling of nitroglycerine safer\nAlfred Nobel experimented with different additives. He soon found that mixing\nnitroglycerine with kieselguhr would turn the liquid into a paste which could be\nshaped into rods of a size and form suitable for insertion into drilling holes. In\n1867 he patented this material under the name of dynamite. To be able to\ndetonate the dynamite rods he also invented a detonator (blasting cap) which\ncould be ignited by lighting a fuse. These inventions were made at the same\ntime as the pneumatic drill came into general use. Together these inventions\ndrastically reduced the cost of blasting rock, drilling tunnels, building canals\nand many other forms of construction work.\nE\nThe market for dynamite and detonating caps grew very rapidly and Alfred\nNobel also proved himself to be a very skillful entrepreneur and businessman.\nOver the years he founded factories and laboratories in some 90 different\nplaces in more than 20 countries. Although he lived in Paris much of his life he\nwas constantly traveling. When he was not traveling or engaging in business\nactivities Nobel himself worked intensively in his various laboratories, first in\nStockholm and later in other places. He focused on the development of\nexplosives technology as well as other chemical inventions including such\n\nmaterials as synthetic rubber and leather, artificial silk, etc. By the time of his\ndeath in 18%, he had 355 patents.\nF\nIntensive work and travel did not leave much time for private life. At the age of\n43, he was feeling like an old man. At this time he advertised in a newspaper\n“Wealthy, highly-educated elderly gentleman seeks the lady of mature age,\nversed in languages, as secretary and supervisor of household.” The most\nqualified applicant turned out to be an Austrian woman, Countess Bertha\nKinsky. After working a very short time for Nobel she decided to return to\nAustria to marry Count Arthur von Suttner. In spite of this Alfred Nobel and\nBertha von Suttner remained friends and kept writing letters to each other for\ndecades. Over the years Bertha von Suttner became increasingly critical of the\narms race. She wrote a famous book, Lay Down Your Arms and became a\nprominent figure in the peace movement. No doubt this influenced Alfred\nNobel when he wrote his final will which was to include a Prize for persons or\norganizations who promoted peace. Several years after the death of Alfred\nNobel, the Norwegian Storting (Parliament) decided to award the 1905 Nobel\nPeace Prize to Bertha von Suttner.\nG\nAlfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was\nopened it came as a surprise that his fortune was to be used for Prizes in\nPhysics, Chemistry, Physiology or Medicine, Literature and Peace. The\nexecutors of his will were two young engineers, Ragnar Sohlman and Rudolf\nLilljequist. They set about forming the Nobel Foundation as an organization to\ntake care of the financial assets left by Nobel for this purpose and to coordinate\nthe work of the Prize-Awarding Institutions. This was not without its difficulties\nsince the will was contested by relatives and questioned by authorities in\nvarious countries.\nH\nAlfred Nobel’s greatness lay in his ability to combine the penetrating mind of\nthe scientist and inventor with the forward-looking dynamism of the\nindustrialist. Nobel was very interested in social and peace-related issues and\nheld what were considered radical views in his era. He had a great interest in\nliterature and wrote his own poetry and dramatic works. The Nobel Prizes\nbecame an extension and a fulfillment of his lifetime interests.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Alfred Nobel: The man behind the Nobel\nPrize"
+          },
           {
             "label": "A",
-            "content": "Since 1901, the Nobel Prize has been honoring men and women from all"
+            "text": "Since 1901, the Nobel Prize has been honoring men and women from all\ncorners of the globe for outstanding achievements in physics, chemistry,\nmedicine, literature, and for work in peace. The foundations for the prize were\nlaid in 1895 when Alfred Nobel wrote his last will, leaving much of his wealth to\nthe establishment of the Nobel Prize."
           },
           {
             "label": "B",
-            "content": "Alfred Nobel was born in Stockholm on October 21, 1833. His father Immanuel"
+            "text": "Alfred Nobel was born in Stockholm on October 21, 1833. His father Immanuel\nNobel was an engineer and inventor who built bridges and buildings in\nStockholm. In connection with his construction work, Immanuel Nobel also\nexperimented with different techniques for blasting rocks. Successful in his\nindustrial and business ventures, Immanuel Nobel was able, in 1842, to bring\nhis family to St. Petersburg. There, his sons were given a first-class education\nby private teachers. The training included natural sciences, languages and\nliterature. By the age of 17, Alfred Nobel was fluent in Swedish, Russian,\nFrench, English and German. His primary interests were in English literature\nand poetry as well as in chemistry and physics. Alfred's father, who wanted his\nsons to join his enterprise as engineers, disliked Alfred's interest in poetry and\nfound his son rather introverted."
           },
           {
             "label": "C",
-            "content": "In order to widen Alfred’s horizons, his father sent him abroad for further"
+            "text": "In order to widen Alfred's horizons, his father sent him abroad for further"
+          },
+          {
+            "label": null,
+            "text": "training in chemical engineering. During a two year period, Alfred Nobel visited\nSweden, Germany, France and the United States. In Paris, the city he came to\nlike best, he worked in the private laboratory of Professor T. J. Pclouze, a\nfamous chemist. There he met the young Italian chemist Ascanio Sobrero who,\nthree years earlier, had invented nitroglycerine, a highly explosive liquid. But it\nwas considered too dangerous to be of any practical use. Although its explosive\npower greatly exceeded that of gunpowder, the liquid would explode in a very\nunpredictable manner if subjected to heat and pressure. Alfred Nobel became\nvery interested in nitroglycerine and how it could be put to practical use in\nconstruction work. He also realized that the safety problems had to be solved\nand a method had to be developed for the controlled detonation of\nnitroglycerine."
           },
           {
             "label": "D",
-            "content": "After his return to Sweden in 1863, Alfred Nobel concentrated on developing"
+            "text": "After his return to Sweden in 1863, Alfred Nobel concentrated on developing\nnitroglycerine as an explosive. Several explosions, including one (1864) in\nwhich his brother Emil and several other persons were killed, convinced the\nauthorities that nitroglycerine production was exceedingly dangerous. They\nforbade further experimentation with nitroglycerine within the Stockholm city\nlimits and Alfred Nobel had to move his experimentation to a barge anchored\non Lake Malaren. Alfred was not discouraged and in 1864 he was able to start\nmass production of nitroglycerine. To make the handling of nitroglycerine safer\nAlfred Nobel experimented with different additives. He soon found that mixing\nnitroglycerine with kieselguhr would turn the liquid into a paste which could be\nshaped into rods of a size and form suitable for insertion into drilling holes. In\n1867 he patented this material under the name of dynamite. To be able to\ndetonate the dynamite rods he also invented a detonator (blasting cap) which\ncould be ignited by lighting a fuse. These inventions were made at the same\ntime as the pneumatic drill came into general use. Together these inventions\ndrastically reduced the cost of blasting rock, drilling tunnels, building canals\nand many other forms of construction work."
           },
           {
             "label": "E",
-            "content": "The market for dynamite and detonating caps grew very rapidly and Alfred"
+            "text": "The market for dynamite and detonating caps grew very rapidly and Alfred\nNobel also proved himself to be a very skillful entrepreneur and businessman.\nOver the years he founded factories and laboratories in some 90 different\nplaces in more than 20 countries. Although he lived in Paris much of his life he\nwas constantly traveling. When he was not traveling or engaging in business\nactivities Nobel himself worked intensively in his various laboratories, first in\nStockholm and later in other places. He focused on the development of\nexplosives technology as well as other chemical inventions including such"
+          },
+          {
+            "label": null,
+            "text": "materials as synthetic rubber and leather, artificial silk, etc. By the time of his\ndeath in 18%, he had 355 patents."
           },
           {
             "label": "F",
-            "content": "Intensive work and travel did not leave much time for private life. At the age of"
+            "text": "Intensive work and travel did not leave much time for private life. At the age of\n43, he was feeling like an old man. At this time he advertised in a newspaper\n\"Wealthy, highly-educated elderly gentleman seeks the lady of mature age,\nversed in languages, as secretary and supervisor of household.\" The most\nqualified applicant turned out to be an Austrian woman, Countess Bertha\nKinsky. After working a very short time for Nobel she decided to return to\nAustria to marry Count Arthur von Suttner. In spite of this Alfred Nobel and\nBertha von Suttner remained friends and kept writing letters to each other for\ndecades. Over the years Bertha von Suttner became increasingly critical of the\narms race. She wrote a famous book, Lay Down Your Arms and became a\nprominent figure in the peace movement. No doubt this influenced Alfred\nNobel when he wrote his final will which was to include a Prize for persons or\norganizations who promoted peace. Several years after the death of Alfred\nNobel, the Norwegian Storting (Parliament) decided to award the 1905 Nobel\nPeace Prize to Bertha von Suttner."
           },
           {
             "label": "G",
-            "content": "Alfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was"
+            "text": "Alfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was\nopened it came as a surprise that his fortune was to be used for Prizes in\nPhysics, Chemistry, Physiology or Medicine, Literature and Peace. The\nexecutors of his will were two young engineers, Ragnar Sohlman and Rudolf\nLilljequist. They set about forming the Nobel Foundation as an organization to\ntake care of the financial assets left by Nobel for this purpose and to coordinate\nthe work of the Prize-Awarding Institutions. This was not without its difficulties\nsince the will was contested by relatives and questioned by authorities in\nvarious countries."
+          },
+          {
+            "label": "H",
+            "text": "Alfred Nobel's greatness lay in his ability to combine the penetrating mind of\nthe scientist and inventor with the forward-looking dynamism of the\nindustrialist. Nobel was very interested in social and peace-related issues and\nheld what were considered radical views in his era. He had a great interest in\nliterature and wrote his own poetry and dramatic works. The Nobel Prizes\nbecame an extension and a fulfillment of his lifetime interests."
           }
-        ]
+        ],
+        "text": "Alfred Nobel: The man behind the Nobel\nPrize\n\nSince 1901, the Nobel Prize has been honoring men and women from all\ncorners of the globe for outstanding achievements in physics, chemistry,\nmedicine, literature, and for work in peace. The foundations for the prize were\nlaid in 1895 when Alfred Nobel wrote his last will, leaving much of his wealth to\nthe establishment of the Nobel Prize.\n\nAlfred Nobel was born in Stockholm on October 21, 1833. His father Immanuel\nNobel was an engineer and inventor who built bridges and buildings in\nStockholm. In connection with his construction work, Immanuel Nobel also\nexperimented with different techniques for blasting rocks. Successful in his\nindustrial and business ventures, Immanuel Nobel was able, in 1842, to bring\nhis family to St. Petersburg. There, his sons were given a first-class education\nby private teachers. The training included natural sciences, languages and\nliterature. By the age of 17, Alfred Nobel was fluent in Swedish, Russian,\nFrench, English and German. His primary interests were in English literature\nand poetry as well as in chemistry and physics. Alfred's father, who wanted his\nsons to join his enterprise as engineers, disliked Alfred's interest in poetry and\nfound his son rather introverted.\n\nIn order to widen Alfred's horizons, his father sent him abroad for further\n\ntraining in chemical engineering. During a two year period, Alfred Nobel visited\nSweden, Germany, France and the United States. In Paris, the city he came to\nlike best, he worked in the private laboratory of Professor T. J. Pclouze, a\nfamous chemist. There he met the young Italian chemist Ascanio Sobrero who,\nthree years earlier, had invented nitroglycerine, a highly explosive liquid. But it\nwas considered too dangerous to be of any practical use. Although its explosive\npower greatly exceeded that of gunpowder, the liquid would explode in a very\nunpredictable manner if subjected to heat and pressure. Alfred Nobel became\nvery interested in nitroglycerine and how it could be put to practical use in\nconstruction work. He also realized that the safety problems had to be solved\nand a method had to be developed for the controlled detonation of\nnitroglycerine.\n\nAfter his return to Sweden in 1863, Alfred Nobel concentrated on developing\nnitroglycerine as an explosive. Several explosions, including one (1864) in\nwhich his brother Emil and several other persons were killed, convinced the\nauthorities that nitroglycerine production was exceedingly dangerous. They\nforbade further experimentation with nitroglycerine within the Stockholm city\nlimits and Alfred Nobel had to move his experimentation to a barge anchored\non Lake Malaren. Alfred was not discouraged and in 1864 he was able to start\nmass production of nitroglycerine. To make the handling of nitroglycerine safer\nAlfred Nobel experimented with different additives. He soon found that mixing\nnitroglycerine with kieselguhr would turn the liquid into a paste which could be\nshaped into rods of a size and form suitable for insertion into drilling holes. In\n1867 he patented this material under the name of dynamite. To be able to\ndetonate the dynamite rods he also invented a detonator (blasting cap) which\ncould be ignited by lighting a fuse. These inventions were made at the same\ntime as the pneumatic drill came into general use. Together these inventions\ndrastically reduced the cost of blasting rock, drilling tunnels, building canals\nand many other forms of construction work.\n\nThe market for dynamite and detonating caps grew very rapidly and Alfred\nNobel also proved himself to be a very skillful entrepreneur and businessman.\nOver the years he founded factories and laboratories in some 90 different\nplaces in more than 20 countries. Although he lived in Paris much of his life he\nwas constantly traveling. When he was not traveling or engaging in business\nactivities Nobel himself worked intensively in his various laboratories, first in\nStockholm and later in other places. He focused on the development of\nexplosives technology as well as other chemical inventions including such\n\nmaterials as synthetic rubber and leather, artificial silk, etc. By the time of his\ndeath in 18%, he had 355 patents.\n\nIntensive work and travel did not leave much time for private life. At the age of\n43, he was feeling like an old man. At this time he advertised in a newspaper\n\"Wealthy, highly-educated elderly gentleman seeks the lady of mature age,\nversed in languages, as secretary and supervisor of household.\" The most\nqualified applicant turned out to be an Austrian woman, Countess Bertha\nKinsky. After working a very short time for Nobel she decided to return to\nAustria to marry Count Arthur von Suttner. In spite of this Alfred Nobel and\nBertha von Suttner remained friends and kept writing letters to each other for\ndecades. Over the years Bertha von Suttner became increasingly critical of the\narms race. She wrote a famous book, Lay Down Your Arms and became a\nprominent figure in the peace movement. No doubt this influenced Alfred\nNobel when he wrote his final will which was to include a Prize for persons or\norganizations who promoted peace. Several years after the death of Alfred\nNobel, the Norwegian Storting (Parliament) decided to award the 1905 Nobel\nPeace Prize to Bertha von Suttner.\n\nAlfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was\nopened it came as a surprise that his fortune was to be used for Prizes in\nPhysics, Chemistry, Physiology or Medicine, Literature and Peace. The\nexecutors of his will were two young engineers, Ragnar Sohlman and Rudolf\nLilljequist. They set about forming the Nobel Foundation as an organization to\ntake care of the financial assets left by Nobel for this purpose and to coordinate\nthe work of the Prize-Awarding Institutions. This was not without its difficulties\nsince the will was contested by relatives and questioned by authorities in\nvarious countries.\n\nAlfred Nobel's greatness lay in his ability to combine the penetrating mind of\nthe scientist and inventor with the forward-looking dynamism of the\nindustrialist. Nobel was very interested in social and peace-related issues and\nheld what were considered radical views in his era. He had a great interest in\nliterature and wrote his own poetry and dramatic works. The Nobel Prizes\nbecame an extension and a fulfillment of his lifetime interests.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading",
+          "body": null,
+          "range": [
+            28,
+            33
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below using NO MORE THAN TWO WORDS from the passage. Write your answers in boxes 34-40 on your answer sheet. Education: Having accumulated a great fortune in his business, Nobel's father determined to give his son the best education and sent him abroad to be",
+          "body": "trained in [[34]] during Nobel's study in Paris, he worked in a private laboratory, where he came in contact with a young engineer [[35]] and his invention nitroglycerine, a more powerful explosive than [[36]] . Benefits in construction works: Nobel became really interested in this new explosive and experimented on it. But nitroglycerine was too dangerous and was banned for experiments within the city of [[37]] . So Nobel had to move his experiments to a lake. To make nitroglycerine easily usable, Nobel invented dynamite along with [[38]] . while in the meantime [[39]] became popular, all of which dramatically lowered the [[40]] of construction works. A Stockholm B detonator C gunpowder D cost E chemical engineering F pneumatic drill G Ascanio Sobrero",
+          "range": [
+            34,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "true-false-not-given",
+          "groupId": "p3g1",
           "prompt": "The first Nobel Prize was awarded in 1895.",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 29,
           "type": "true-false-not-given",
-          "prompt": "The Nobel Foundation was established after the death of Nobel",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "The Nobel Foundation was established after the death\nof Nobel",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 30,
           "type": "true-false-not-given",
-          "prompt": "Nobel’s father wanted his son to have a better education than what he had had.",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g1",
+          "prompt": "Nobel's father wanted his son to have a better\neducation than what he had had.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 31,
           "type": "true-false-not-given",
+          "groupId": "p3g1",
           "prompt": "Nobel was an unsuccessful businessman.",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 32,
           "type": "true-false-not-given",
-          "prompt": "Bertha von Suttner was selected by Nobel himself for the first peace prize.",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g1",
+          "prompt": "Bertha von Suttner was selected by Nobel himself for\nthe first peace prize.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 33,
           "type": "true-false-not-given",
-          "prompt": "Nobel’s social involvement was uncommon in the 1800s. Complete the notes below using NO MORE THAN TWO WORDS from the passage.",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "Nobel's social involvement was uncommon in the\n1800s.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "and his invention nitroglycerine, a more powerful",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 39,
-          "type": "matching-features",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
           "prompt": "became popular, all of which dramatically lowered the",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE Complete the notes below using NO MORE THAN TWO WORDS from the passage. Write your answers in boxes 34-40 on your answer sheet. Education: Having accumulated a great fortune in his business, Nobel’s father determined to give his son the best education and sent him abroad to be trained in 34 during Nobel’s study in Paris, he worked in a private laboratory, where he came in contact with a young engineer 35 and his invention nitroglycerine, a more powerful explosive than 36 . Benefits in construction works:",
-          "answer": "F"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 40,
-          "type": "matching-features",
-          "prompt": "of construction works. A Stockholm B",
-          "instruction": "Do the following statements agree with the information given in Reading In boxes 28-33 on your answer sheet, write TRUE Complete the notes below using NO MORE THAN TWO WORDS from the passage. Write your answers in boxes 34-40 on your answer sheet. Education: Having accumulated a great fortune in his business, Nobel’s father determined to give his son the best education and sent him abroad to be trained in 34 during Nobel’s study in Paris, he worked in a private laboratory, where he came in contact with a young engineer 35 and his invention nitroglycerine, a more powerful explosive than 36 . Benefits in construction works:",
-          "answer": "D"
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "of construction works.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     }
@@ -429,7 +1089,9 @@
     "8": "polymer",
     "9": "B",
     "10": "C",
+    "11": "A,D",
     "12": "A,D",
+    "13": "A,C",
     "14": "A,C",
     "15": "FALSE",
     "16": "TRUE",

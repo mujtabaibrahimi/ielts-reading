@@ -1,0 +1,30 @@
+{
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "The Mpemba Effect is best summed up as the observation that",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "ice cream freezes at different temperatures.",
+          "different sources of heat result in water cooling at different rates.",
+          "salt water freezes at a lower temperature than ordinary water.",
+          "warmer water can freeze faster than colder water."
+        ]
+      }
+    }
+  }
+}

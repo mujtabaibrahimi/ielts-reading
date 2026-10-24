@@ -1,0 +1,16 @@
+{
+  "p1g2": {
+    "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 6-8.",
+    "questions": {
+      "6": {
+        "prompt": "The snow gun, label 6: ______ air (arrow into the pipe at the back of the gun)"
+      },
+      "7": {
+        "prompt": "The snow gun, label 7: water is atomized into ______ (arrow down into the barrel)"
+      },
+      "8": {
+        "prompt": "The snow gun, label 8: ______ are formed (arrow at the front, where the snow comes out)"
+      }
+    }
+  }
+}

@@ -1,279 +1,1229 @@
 {
   "id": "ielts-mock-test-2023-march_reading-practice-test-1-v9-18835999",
   "type": "academic",
-  "source": "ielts-mock-test-2023-march reading-practice-test-1-v9-18835999",
+  "title": "IELTS Academic 2023 March - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 1,
+  "year": 2023,
+  "month": 3,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-march_reading-practice-test-1-v9-18835999.pdf",
-  "total_questions": 5,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Father of modern management",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14 which are based on\nReading Passage 1.\nFather of modern management\nA\nPeter Drucker was one of the most important management thinkers of the past\nhundred years. He wrote about 40 book and thousands of articles and he never\nrested in his mission to persuade the world that management matters.\n“Management is an organ of institutions … the organ that converts a mob into\nan organisation, and human efforts into performance.” Did he succeed? The\nrange of his influence was extraordinary. Wherever people grapple with tricky\nmanagement problems, from big organizations to small ones, from the public\nsector to the private, and increasingly in the voluntary sector, you can find\nDrucker’s fingerprints.\nB\nHis first two books – The End of Economic Man (1939) and The Future of\nIndustrial Man (1942) – had their admirers, including Winston Churchill, but\nthey annoyed academic critics by ranging so widely over so many different\nsubjects. Still, the second of these books attracted attention with its passionate\ninsistence that companies had a social dimension as well as an economic\npurpose. His third book, The Concept of the Corporation, became an instant\nbestseller and has remained in print ever since.\nC\nThe two most interesting arguments in The Concept of the Corporation actually\nhad little to do with the decentralization fad. They were to dominate his work.\nThe first had to do with “empowering” workers. Drucker believed in treating\nworkers as resources rather than just as costs. He was a harsh critic of the\n\nassembly-line system of production that then dominated the manufacturing\nsector – partly because assembly lines moved at the speed of the slowest and\npartly because they failed to engage the creativity of individual workers. The\nsecond argument had to do with the rise of knowledge workers. Drucker\nargued that the world is moving from an “economy of goods” to an economy of\n“knowledge” – and from a society dominated by an industrial proletariat to one\ndominated by brain workers. He insisted that this had profound implications for\nboth managers and politicians. Managers had to stop treating workers like cogs\nin a huge inhuman machine and start treating them as brain workers. In turn,\npoliticians had to realise that knowledge, and hence education, was the single\nmost important resource for any advanced society. Yet Drucker also thought\nthat this economy had implications for knowledge workers themselves. They\nhad to come to terms with the fact that they were neither “bosses” nor\n“workers”, but something in between: entrepreneurs who had responsibility for\ndeveloping their most important resource, brainpower, and who also needed to\ntake more control of their own careers, including their pension plans.\nD\nHowever, there was also a hard side to his work. Drucker was responsible for\ninventing one of the rational school of management’s most successful products\n– “management by objectives”. In one of his most substantial works, The\nPractice of Management (1954), he emphasised the importance of managers\nand corporations setting clear long-term objectives and then translating those\nlong-term objectives into more immediate goals. He argued that firms should\nhave an elite corps of general managers, who set these long-term objectives,\nand then a group of more specialised managers. For his critics, this was a\nretreat from his earlier emphasis on the soft side of management. For Drucker\nit was all perfectly consistent: if you rely too much on empowerment you risk\nanarchy, whereas if you rely too much on command-and-control you sacrifice\ncreativity. The trick is for managers to set long-term goals, but then allow their\nemployees to work out ways of achieving those goals. If Drucker helped make\nmanagement a global industry, he also helped push it beyond its business\nbase. He was emphatically a management thinker, not just a business one. He\nbelieved that management is “the defining organ of all modern institutions”,\nnot just corporations.\nE\nThere are three persistent criticisms of Drucker’s work. The first is that he\nfocused on big organisations rather than small ones. The Concept of the\nCorporation was in many ways a fanfare to big organisations. As Drucker said,\n“We know today that in modern industrial production, particularly in modern\n\nmass production, the small unit is not only inefficient, it cannot produce at all.”\nThe book helped to launch the “big organisation boom” that dominated\nbusiness thinking for the next 20 years. The second criticism is that Drucker’s\nenthusiasm for management by objectives helped to lead the business down a\ndead end. They prefer to allow ideas, including ideas for long-term strategies,\nto bubble up from the bottom and middle of the organisations rather than\nbeing imposed from on high. Thirdly, Drucker is criticised for being a maverick\nwho has increasingly been left behind by the increasing rigour of his chosen\nfield. There is no single area of academic management theory that he made his\nown.\nF\nThere is some truth in the first two arguments. Drucker never wrote anything\nas good as The Concept of the Corporation on entrepreneurial start-ups.\nDrucker’s work on management by objectives sits uneasily with his earlier and\nlater writings on the importance of knowledge workers and self-directed teams.\nBut the third argument is short-sighted and unfair because it ignores Drucker’s\npioneering role in creating the modern profession of management. He\nproduced one of the first systematic studies of a big company. He pioneered\nthe idea that ideas can help galvanise companies. The biggest problem with\nevaluating Drucker’s influence is that so many of his ideas have passed into\nconventional wisdom. In other words, he is the victim of his own success. His\nwritings on the importance of knowledge workers and empowerment may\nsound a little banal today. But they certainly weren’t banal when he first\ndreamed them up in the 1940s, or when they were first put in to practice in the\nAnglo-Saxon world in the 1980s. Moreover, Drucker continued to produce new\nideas up until his 90s. His work on the management of voluntary organisations\nremained at the cutting edge.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Father of modern management"
+          },
           {
             "label": "A",
-            "content": "Peter Drucker was one of the most important management thinkers of the past"
+            "text": "Peter Drucker was one of the most important management thinkers of the past\nhundred years. He wrote about 40 book and thousands of articles and he never\nrested in his mission to persuade the world that management matters.\n\"Management is an organ of institutions ... the organ that converts a mob into\nan organisation, and human efforts into performance.\" Did he succeed? The\nrange of his influence was extraordinary. Wherever people grapple with tricky\nmanagement problems, from big organizations to small ones, from the public\nsector to the private, and increasingly in the voluntary sector, you can find\nDrucker's fingerprints."
           },
           {
             "label": "B",
-            "content": "His first two books – The End of Economic Man (1939) and The Future of"
+            "text": "His first two books - The End of Economic Man (1939) and The Future of\nIndustrial Man (1942) - had their admirers, including Winston Churchill, but\nthey annoyed academic critics by ranging so widely over so many different\nsubjects. Still, the second of these books attracted attention with its passionate\ninsistence that companies had a social dimension as well as an economic\npurpose. His third book, The Concept of the Corporation, became an instant\nbestseller and has remained in print ever since."
           },
           {
             "label": "C",
-            "content": "The two most interesting arguments in The Concept of the Corporation actually"
+            "text": "The two most interesting arguments in The Concept of the Corporation actually\nhad little to do with the decentralization fad. They were to dominate his work.\nThe first had to do with \"empowering\" workers. Drucker believed in treating\nworkers as resources rather than just as costs. He was a harsh critic of the"
+          },
+          {
+            "label": null,
+            "text": "assembly-line system of production that then dominated the manufacturing\nsector - partly because assembly lines moved at the speed of the slowest and\npartly because they failed to engage the creativity of individual workers. The\nsecond argument had to do with the rise of knowledge workers. Drucker\nargued that the world is moving from an \"economy of goods\" to an economy of\n\"knowledge\" - and from a society dominated by an industrial proletariat to one\ndominated by brain workers. He insisted that this had profound implications for\nboth managers and politicians. Managers had to stop treating workers like cogs\nin a huge inhuman machine and start treating them as brain workers. In turn,\npoliticians had to realise that knowledge, and hence education, was the single\nmost important resource for any advanced society. Yet Drucker also thought\nthat this economy had implications for knowledge workers themselves. They\nhad to come to terms with the fact that they were neither \"bosses\" nor\n\"workers\", but something in between: entrepreneurs who had responsibility for\ndeveloping their most important resource, brainpower, and who also needed to\ntake more control of their own careers, including their pension plans."
           },
           {
             "label": "D",
-            "content": "However, there was also a hard side to his work. Drucker was responsible for"
+            "text": "However, there was also a hard side to his work. Drucker was responsible for\ninventing one of the rational school of management's most successful products\n- \"management by objectives\". In one of his most substantial works, The\nPractice of Management (1954), he emphasised the importance of managers\nand corporations setting clear long-term objectives and then translating those\nlong-term objectives into more immediate goals. He argued that firms should\nhave an elite corps of general managers, who set these long-term objectives,\nand then a group of more specialised managers. For his critics, this was a\nretreat from his earlier emphasis on the soft side of management. For Drucker\nit was all perfectly consistent: if you rely too much on empowerment you risk\nanarchy, whereas if you rely too much on command-and-control you sacrifice\ncreativity. The trick is for managers to set long-term goals, but then allow their\nemployees to work out ways of achieving those goals. If Drucker helped make\nmanagement a global industry, he also helped push it beyond its business\nbase. He was emphatically a management thinker, not just a business one. He\nbelieved that management is \"the defining organ of all modern institutions\",\nnot just corporations."
           },
           {
             "label": "E",
-            "content": "There are three persistent criticisms of Drucker’s work. The first is that he"
+            "text": "There are three persistent criticisms of Drucker's work. The first is that he\nfocused on big organisations rather than small ones. The Concept of the\nCorporation was in many ways a fanfare to big organisations. As Drucker said,\n\"We know today that in modern industrial production, particularly in modern"
+          },
+          {
+            "label": null,
+            "text": "mass production, the small unit is not only inefficient, it cannot produce at all.\"\nThe book helped to launch the \"big organisation boom\" that dominated\nbusiness thinking for the next 20 years. The second criticism is that Drucker's\nenthusiasm for management by objectives helped to lead the business down a\ndead end. They prefer to allow ideas, including ideas for long-term strategies,\nto bubble up from the bottom and middle of the organisations rather than\nbeing imposed from on high. Thirdly, Drucker is criticised for being a maverick\nwho has increasingly been left behind by the increasing rigour of his chosen\nfield. There is no single area of academic management theory that he made his\nown."
           },
           {
             "label": "F",
-            "content": "There is some truth in the first two arguments. Drucker never wrote anything"
+            "text": "There is some truth in the first two arguments. Drucker never wrote anything\nas good as The Concept of the Corporation on entrepreneurial start-ups.\nDrucker's work on management by objectives sits uneasily with his earlier and\nlater writings on the importance of knowledge workers and self-directed teams.\nBut the third argument is short-sighted and unfair because it ignores Drucker's\npioneering role in creating the modern profession of management. He\nproduced one of the first systematic studies of a big company. He pioneered\nthe idea that ideas can help galvanise companies. The biggest problem with\nevaluating Drucker's influence is that so many of his ideas have passed into\nconventional wisdom. In other words, he is the victim of his own success. His\nwritings on the importance of knowledge workers and empowerment may\nsound a little banal today. But they certainly weren't banal when he first\ndreamed them up in the 1940s, or when they were first put in to practice in the\nAnglo-Saxon world in the 1980s. Moreover, Drucker continued to produce new\nideas up until his 90s. His work on the management of voluntary organisations\nremained at the cutting edge."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Questions 7-10",
-      "questionRange": [
-        7,
-        10
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 7-10\nList of Headings\ni\nThe popularity and impact of Drucker’s work\nii\nFinding fault with Drucker\niii\nThe impact of economic globalisation\niv\nGovernment regulation of business\nv\nEarly publications of Drucker’s\nvi\nDrucker’s view of balanced management\nvii\nDrucker’s rejection of big business\nviii\nAn appreciation of the pros and cons of Drucker’s work\nix\nThe changing role of the employee\n1\n Paragraph A\n2\n Paragraph B\n3\n Paragraph C\n4\n Paragraph D\n5\n Paragraph E\n6\n Paragraph F\nDo the following statements agree with the information given in Reading\nPassage 2?\nIn boxes 7-10 on your answer sheet, write:\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n7\n Drucker believed the employees should enjoy the same\nstatus as the employers in a company\n8\n Drucker argued the managers and politicians will\ndominate the economy during a social transition\n\nQuestions 11-12\nQuestions 13-14\n9\n Drucker support that workers are not simply put\nthemselves just in the employment relationship and should develop their\nresources of intelligence voluntarily\n10\n Drucker’s work on the management is out of date in\nmoderns days\nChoose TWO letters from A-E.\nWrite your answers in boxes 12 and 13 on your answer sheet.\nWhich TWO of the following are true of Drucker’s views?\nA\n \nB\n \nC\n \nD\n \nE\n \nHigh-rank executives and workers should be put in balanced\npositions in management practice\nYoung executives should be given chances to start from low-\nlevel jobs\nMore emphasis should be laid on fostering the development of\nthe union.\nManagement should facilitate workers with tools of self-appraisal\ninstead of controlling them from the outside force\nLeaders should go beyond the scope of management details and\nstrategically establish goals\nChoose TWO letters from A-E.\nWrite your answers in boxes 13 and 14 on your answer sheet.\nWhich TWO of the following are mentioned in the passage as criticisms to\nDrucker and his views?\nA\n \nB\n \nC\n \nHis lectures focus too much on big organisations and ignore the\nsmall ones.\nHis lectures are too broad and lack of being precise and accurate\nabout the facts.\nHe put a source of objectives more on corporate executives but\n\nD\n \nE\n \nnot on average workers.\nHe acted much like a maverick and did not set up his own\nmanagement groups\nHe was overstating the case for knowledge workers when\nwarning business to get prepared.",
-        "tables": [],
+        ],
+        "text": "Father of modern management\n\nPeter Drucker was one of the most important management thinkers of the past\nhundred years. He wrote about 40 book and thousands of articles and he never\nrested in his mission to persuade the world that management matters.\n\"Management is an organ of institutions ... the organ that converts a mob into\nan organisation, and human efforts into performance.\" Did he succeed? The\nrange of his influence was extraordinary. Wherever people grapple with tricky\nmanagement problems, from big organizations to small ones, from the public\nsector to the private, and increasingly in the voluntary sector, you can find\nDrucker's fingerprints.\n\nHis first two books - The End of Economic Man (1939) and The Future of\nIndustrial Man (1942) - had their admirers, including Winston Churchill, but\nthey annoyed academic critics by ranging so widely over so many different\nsubjects. Still, the second of these books attracted attention with its passionate\ninsistence that companies had a social dimension as well as an economic\npurpose. His third book, The Concept of the Corporation, became an instant\nbestseller and has remained in print ever since.\n\nThe two most interesting arguments in The Concept of the Corporation actually\nhad little to do with the decentralization fad. They were to dominate his work.\nThe first had to do with \"empowering\" workers. Drucker believed in treating\nworkers as resources rather than just as costs. He was a harsh critic of the\n\nassembly-line system of production that then dominated the manufacturing\nsector - partly because assembly lines moved at the speed of the slowest and\npartly because they failed to engage the creativity of individual workers. The\nsecond argument had to do with the rise of knowledge workers. Drucker\nargued that the world is moving from an \"economy of goods\" to an economy of\n\"knowledge\" - and from a society dominated by an industrial proletariat to one\ndominated by brain workers. He insisted that this had profound implications for\nboth managers and politicians. Managers had to stop treating workers like cogs\nin a huge inhuman machine and start treating them as brain workers. In turn,\npoliticians had to realise that knowledge, and hence education, was the single\nmost important resource for any advanced society. Yet Drucker also thought\nthat this economy had implications for knowledge workers themselves. They\nhad to come to terms with the fact that they were neither \"bosses\" nor\n\"workers\", but something in between: entrepreneurs who had responsibility for\ndeveloping their most important resource, brainpower, and who also needed to\ntake more control of their own careers, including their pension plans.\n\nHowever, there was also a hard side to his work. Drucker was responsible for\ninventing one of the rational school of management's most successful products\n- \"management by objectives\". In one of his most substantial works, The\nPractice of Management (1954), he emphasised the importance of managers\nand corporations setting clear long-term objectives and then translating those\nlong-term objectives into more immediate goals. He argued that firms should\nhave an elite corps of general managers, who set these long-term objectives,\nand then a group of more specialised managers. For his critics, this was a\nretreat from his earlier emphasis on the soft side of management. For Drucker\nit was all perfectly consistent: if you rely too much on empowerment you risk\nanarchy, whereas if you rely too much on command-and-control you sacrifice\ncreativity. The trick is for managers to set long-term goals, but then allow their\nemployees to work out ways of achieving those goals. If Drucker helped make\nmanagement a global industry, he also helped push it beyond its business\nbase. He was emphatically a management thinker, not just a business one. He\nbelieved that management is \"the defining organ of all modern institutions\",\nnot just corporations.\n\nThere are three persistent criticisms of Drucker's work. The first is that he\nfocused on big organisations rather than small ones. The Concept of the\nCorporation was in many ways a fanfare to big organisations. As Drucker said,\n\"We know today that in modern industrial production, particularly in modern\n\nmass production, the small unit is not only inefficient, it cannot produce at all.\"\nThe book helped to launch the \"big organisation boom\" that dominated\nbusiness thinking for the next 20 years. The second criticism is that Drucker's\nenthusiasm for management by objectives helped to lead the business down a\ndead end. They prefer to allow ideas, including ideas for long-term strategies,\nto bubble up from the bottom and middle of the organisations rather than\nbeing imposed from on high. Thirdly, Drucker is criticised for being a maverick\nwho has increasingly been left behind by the increasing rigour of his chosen\nfield. There is no single area of academic management theory that he made his\nown.\n\nThere is some truth in the first two arguments. Drucker never wrote anything\nas good as The Concept of the Corporation on entrepreneurial start-ups.\nDrucker's work on management by objectives sits uneasily with his earlier and\nlater writings on the importance of knowledge workers and self-directed teams.\nBut the third argument is short-sighted and unfair because it ignores Drucker's\npioneering role in creating the modern profession of management. He\nproduced one of the first systematic studies of a big company. He pioneered\nthe idea that ideas can help galvanise companies. The biggest problem with\nevaluating Drucker's influence is that so many of his ideas have passed into\nconventional wisdom. In other words, he is the victim of his own success. His\nwritings on the importance of knowledge workers and empowerment may\nsound a little banal today. But they certainly weren't banal when he first\ndreamed them up in the 1940s, or when they were first put in to practice in the\nAnglo-Saxon world in the 1980s. Moreover, Drucker continued to produce new\nideas up until his 90s. His work on the management of voluntary organisations\nremained at the cutting edge.",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "E",
-            "content": "High-rank executives and workers should be put in balanced"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "His lectures focus too much on big organisations and ignore the"
-          },
-          {
-            "label": "D",
-            "content": "E"
-          }
-        ]
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage has six paragraphs, A-F Choose the correct heading for each paragraph from the list below. Write the correct number, i-ix, in boxes 1-6 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix"
+            ],
+            "labels": [
+              "The popularity and impact of Drucker's work",
+              "Finding fault with Drucker",
+              "The impact of economic globalisation",
+              "Government regulation of business",
+              "Early publications of Drucker's",
+              "Drucker's view of balanced management",
+              "Drucker's rejection of big business",
+              "An appreciation of the pros and cons of Drucker's work"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 7-10 on your answer sheet, write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "body": null,
+          "range": [
+            7,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters from A-E. Write your answers in boxes 12 and 13 on your answer sheet. Which TWO of the following are true of Drucker's views?",
+          "body": null,
+          "range": [
+            11,
+            12
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "High-rank executives and workers should be put in balanced positions in management practice",
+              "Young executives should be given chances to start from low-level jobs",
+              "More emphasis should be laid on fostering the development of the union.",
+              "Management should facilitate workers with tools of self-appraisal instead of controlling them from the outside force",
+              "Leaders should go beyond the scope of management details and strategically establish goals"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            11,
+            12
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters from A-E. Write your answers in boxes 13 and 14 on your answer sheet. Which TWO of the following are mentioned in the passage as criticisms to Drucker and his views?",
+          "body": null,
+          "range": [
+            13,
+            14
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "His lectures focus too much on big organisations and ignore the small ones.",
+              "His lectures are too broad and lack of being precise and accurate about the facts.",
+              "He put a source of objectives more on corporate executives but not on average workers.",
+              "He acted much like a maverick and did not set up his own management groups",
+              "He was overstating the case for knowledge workers when warning business to get prepared."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            13,
+            14
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "yes-no-not-given",
+          "groupId": "p1g2",
+          "prompt": "Drucker believed the employees should enjoy the same status as the employers in a company",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "yes-no-not-given",
+          "groupId": "p1g2",
+          "prompt": "Drucker argued the managers and politicians will dominate the economy during a social transition",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "yes-no-not-given",
+          "groupId": "p1g2",
+          "prompt": "Drucker support that workers are not simply put themselves just in the employment relationship and should develop their resources of intelligence voluntarily",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "yes-no-not-given",
+          "groupId": "p1g2",
+          "prompt": "Drucker's work on the management is out of date in moderns days",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,E",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,E",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "New Agriculture in Oregon, US",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27 which are based on\nReading Passage 2.\nNew Agriculture in Oregon, US\nA\nOnion growers in eastern Oregon are adopting a system that saves water and\nkeeps topsoil in place while producing the highest quality “super-colossal”\nonions. Pear growers in southern Oregon have reduced their use of some of the\nmost toxic pesticides by up to two-thirds, and are still producing top-quality\npear. Range managers throughout the state have controlled the poisonous\nweed tansy ragwort with insect predators and saved the Oregon livestock\nindustry up to $4.8 million a year.\nB\nThese are some of the results Oregon growers have achieved in collaboration\nwith Oregon State University (OSU) researchers as they test new farming\nmethods including integrated pest management (IPM). Nationwide, however,\nIPM has not delivered results comparable to those in Oregon. A recent U.S\nGeneral Accounting Office (GAO) report indicates that while integrated pest\nmanagement can result in dramatically reduced pesticide use, the federal\ngovernment has been lacking in effectively promoting that goal and\nimplementing IPM. Farmers also blame the government for not making the new\noptions of pest management attractive. “Wholesale changes in the way that\nfarmers control the pests on their farms is an expensive business.” Tony\nBrown, of the National Farmers Association, says. “If the farmers are given tax\nbreaks to offset the expenditure, then they would willingly accept the new\npractices.” The report goes on to note that even though the use of the riskiest\npesticides has declined nationwide, they still make up more than 40 percent of\nall pesticides used today; and national pesticide use has risen by 40 million\n\nkilograms since 1992. “Our food supply remains the safest and highest quality\non Earth but we continue to overdose our farmland with powerful and toxic\npesticides and to under-use the safe and effective alternatives,” charged\nPatrick Leahy, who commissioned the report. Green action groups disagree\nabout the safety issue. “There is no way that habitual consumption of\nfoodstuffs grown using toxic chemical of the nature found on today’s farms can\nbe healthy for consumers,” noted Bill Bowler, spokesman for Green Action, one\nof many lobbyists interested in this issue.\nC\nThe GAO report singles out Oregon’s apple and pear producers who have used\nthe new IPM techniques with growing success. Although Oregon is clearly\nahead of the nation, scientists at OSU are taking the Government Accounting\nOffice criticisms seriously. “We must continue to develop effective alternative\npractices that will reduce environmental hazards and produce high-quality\nproducts,” said Paul Jepson, a professor of entomology at OSU and new director\nof\nD\nOSU’s Integrated Plant Protection Centre (IPPC). The IPPC brings together\nscientists from OSU’s Agricultural Experiment Station, OSU Extension service,\nthe U.S. Department of Agriculture and Oregon farmers to help develop\nagricultural systems that will save water and soil, and reduce pesticides. In\nresponse to the GAO report, the Centre is putting even more emphasis on\nintegrating research and farming practices to improve Oregon agriculture\nenvironmentally and economically.\nE\n“The GAO report criticizes agencies for not clearly communicating the goals of\nIPM,” said Jepson. “Our challenge is to greatly improve the communication to\nand from growers, to learn what works and what doesn’t. the work coming\nfrom OSU researchers must be adopted in the field and not simply languish in\nscientific journals.”\nF\nIn Oregon, growers and scientists are working together to instigate new\npractices. For example, a few years ago scientists at OSU’s Malheur\nExperiment Station began testing a new drip irrigation system to replace old\nditches that wasted water and washed soil and fertilizer into streams. The new\nsystem cut water and fertilizer use by half kept topsoil in place and protected\nwater quality.\n\nG\nIn addition, the new system produced crops of very large onions, rated “super-\ncolossal” and highly valued by the restaurant industry and food processors. Art\nPimms, one of the researchers at Malheur comments: “Growers are finding that\nwhen they adopt more environmentally benign practices, they can have\nexcellent results. The new practices benefit the environment and give the\ngrowers their success.”\nH\nOSU researcher in Malheur next tested straw mulch and found that it\nsuccessfully held soil in place and kept the ground moist with less irrigation. In\naddition, and unexpectedly, the scientists found that the mulched soil created\na home for beneficial beetles and spiders that prey on onion thrips – a\nnotorious pest in commercial onion fields – a discovery that could reduce the\nneed for pesticides. “I would never have believed that we could replace the\nartificial pest controls that we had before and still keep our good results,”\ncommented Steve Black, a commercial onion farmer in Oregon, “but instead\nwe have actually surpassed expectations.”\nI\nOSU researchers throughout the state have been working to reduce\ndependence on broad-spectrum chemical spays that are toxic to many kinds of\norganisms, including humans. “Consumers are rightly putting more and more\npressure on the industry to change its reliance on chemical pesticides, but they\nstill want a picture-perfect product,” said Rick Hilton, an entomologist at OSU’s\nSouthern Oregon Research and Extension Centre, where researches help pear\ngrowers reduce the need for highly toxic pesticides. Picture perfect pears are\nan important product in Oregon and traditionally they have required lots of\nchemicals. In recent years, the industry has faced stiff competition from\noverseas producers, so any new methods that growers adopt must make sense\neconomically as well as environmentally. Hilton is testing a growth regulator\nthat interferes with the molting of codling moth larvae. Another study used\npheromone dispensers to disrupt codling moth mating. These and other\nmethods of integrated pest management have allowed pear growers to reduce\ntheir use of organophosphates by two-thirds and reduce all other synthetic\npesticides by even more and still produce top-quality pears. These and other\nstudies around the state are part of the effort of the IPPC to find alternative\nfarming practices that benefit both the economy and the environment.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "New Agriculture in Oregon, US"
+          },
           {
             "label": "A",
-            "content": "Onion growers in eastern Oregon are adopting a system that saves water and"
+            "text": "Onion growers in eastern Oregon are adopting a system that saves water and\nkeeps topsoil in place while producing the highest quality \"super-colossal\"\nonions. Pear growers in southern Oregon have reduced their use of some of the\nmost toxic pesticides by up to two-thirds, and are still producing top-quality\npear. Range managers throughout the state have controlled the poisonous\nweed tansy ragwort with insect predators and saved the Oregon livestock\nindustry up to $4.8 million a year."
           },
           {
             "label": "B",
-            "content": "These are some of the results Oregon growers have achieved in collaboration"
+            "text": "These are some of the results Oregon growers have achieved in collaboration\nwith Oregon State University (OSU) researchers as they test new farming\nmethods including integrated pest management (IPM). Nationwide, however,\nIPM has not delivered results comparable to those in Oregon. A recent U.S\nGeneral Accounting Office (GAO) report indicates that while integrated pest\nmanagement can result in dramatically reduced pesticide use, the federal\ngovernment has been lacking in effectively promoting that goal and\nimplementing IPM. Farmers also blame the government for not making the new\noptions of pest management attractive. \"Wholesale changes in the way that\nfarmers control the pests on their farms is an expensive business.\" Tony\nBrown, of the National Farmers Association, says. \"If the farmers are given tax\nbreaks to offset the expenditure, then they would willingly accept the new\npractices.\" The report goes on to note that even though the use of the riskiest\npesticides has declined nationwide, they still make up more than 40 percent of\nall pesticides used today; and national pesticide use has risen by 40 million"
+          },
+          {
+            "label": null,
+            "text": "kilograms since 1992. \"Our food supply remains the safest and highest quality\non Earth but we continue to overdose our farmland with powerful and toxic\npesticides and to under-use the safe and effective alternatives,\" charged\nPatrick Leahy, who commissioned the report. Green action groups disagree\nabout the safety issue. \"There is no way that habitual consumption of\nfoodstuffs grown using toxic chemical of the nature found on today's farms can\nbe healthy for consumers,\" noted Bill Bowler, spokesman for Green Action, one\nof many lobbyists interested in this issue."
           },
           {
             "label": "C",
-            "content": "The GAO report singles out Oregon’s apple and pear producers who have used"
+            "text": "The GAO report singles out Oregon's apple and pear producers who have used\nthe new IPM techniques with growing success. Although Oregon is clearly\nahead of the nation, scientists at OSU are taking the Government Accounting\nOffice criticisms seriously. \"We must continue to develop effective alternative\npractices that will reduce environmental hazards and produce high-quality\nproducts,\" said Paul Jepson, a professor of entomology at OSU and new director\nof"
           },
           {
             "label": "D",
-            "content": "OSU’s Integrated Plant Protection Centre (IPPC). The IPPC brings together"
+            "text": "OSU's Integrated Plant Protection Centre (IPPC). The IPPC brings together\nscientists from OSU's Agricultural Experiment Station, OSU Extension service,\nthe U.S. Department of Agriculture and Oregon farmers to help develop\nagricultural systems that will save water and soil, and reduce pesticides. In\nresponse to the GAO report, the Centre is putting even more emphasis on\nintegrating research and farming practices to improve Oregon agriculture\nenvironmentally and economically."
           },
           {
             "label": "E",
-            "content": "“The GAO report criticizes agencies for not clearly communicating the goals of"
+            "text": "\"The GAO report criticizes agencies for not clearly communicating the goals of\nIPM,\" said Jepson. \"Our challenge is to greatly improve the communication to\nand from growers, to learn what works and what doesn't. the work coming\nfrom OSU researchers must be adopted in the field and not simply languish in\nscientific journals.\""
           },
           {
             "label": "F",
-            "content": "In Oregon, growers and scientists are working together to instigate new"
+            "text": "In Oregon, growers and scientists are working together to instigate new\npractices. For example, a few years ago scientists at OSU's Malheur\nExperiment Station began testing a new drip irrigation system to replace old\nditches that wasted water and washed soil and fertilizer into streams. The new\nsystem cut water and fertilizer use by half kept topsoil in place and protected\nwater quality."
           },
           {
             "label": "G",
-            "content": "In addition, the new system produced crops of very large onions, rated “super-"
+            "text": "In addition, the new system produced crops of very large onions, rated \"super-\ncolossal\" and highly valued by the restaurant industry and food processors. Art\nPimms, one of the researchers at Malheur comments: \"Growers are finding that\nwhen they adopt more environmentally benign practices, they can have\nexcellent results. The new practices benefit the environment and give the\ngrowers their success.\""
+          },
+          {
+            "label": "H",
+            "text": "OSU researcher in Malheur next tested straw mulch and found that it\nsuccessfully held soil in place and kept the ground moist with less irrigation. In\naddition, and unexpectedly, the scientists found that the mulched soil created\na home for beneficial beetles and spiders that prey on onion thrips - a\nnotorious pest in commercial onion fields - a discovery that could reduce the\nneed for pesticides. \"I would never have believed that we could replace the\nartificial pest controls that we had before and still keep our good results,\"\ncommented Steve Black, a commercial onion farmer in Oregon, \"but instead\nwe have actually surpassed expectations.\""
+          },
+          {
+            "label": "I",
+            "text": "OSU researchers throughout the state have been working to reduce\ndependence on broad-spectrum chemical spays that are toxic to many kinds of\norganisms, including humans. \"Consumers are rightly putting more and more\npressure on the industry to change its reliance on chemical pesticides, but they\nstill want a picture-perfect product,\" said Rick Hilton, an entomologist at OSU's\nSouthern Oregon Research and Extension Centre, where researches help pear\ngrowers reduce the need for highly toxic pesticides. Picture perfect pears are\nan important product in Oregon and traditionally they have required lots of\nchemicals. In recent years, the industry has faced stiff competition from\noverseas producers, so any new methods that growers adopt must make sense\neconomically as well as environmentally. Hilton is testing a growth regulator\nthat interferes with the molting of codling moth larvae. Another study used\npheromone dispensers to disrupt codling moth mating. These and other\nmethods of integrated pest management have allowed pear growers to reduce\ntheir use of organophosphates by two-thirds and reduce all other synthetic\npesticides by even more and still produce top-quality pears. These and other\nstudies around the state are part of the effort of the IPPC to find alternative\nfarming practices that benefit both the economy and the environment."
           }
-        ]
+        ],
+        "text": "New Agriculture in Oregon, US\n\nOnion growers in eastern Oregon are adopting a system that saves water and\nkeeps topsoil in place while producing the highest quality \"super-colossal\"\nonions. Pear growers in southern Oregon have reduced their use of some of the\nmost toxic pesticides by up to two-thirds, and are still producing top-quality\npear. Range managers throughout the state have controlled the poisonous\nweed tansy ragwort with insect predators and saved the Oregon livestock\nindustry up to $4.8 million a year.\n\nThese are some of the results Oregon growers have achieved in collaboration\nwith Oregon State University (OSU) researchers as they test new farming\nmethods including integrated pest management (IPM). Nationwide, however,\nIPM has not delivered results comparable to those in Oregon. A recent U.S\nGeneral Accounting Office (GAO) report indicates that while integrated pest\nmanagement can result in dramatically reduced pesticide use, the federal\ngovernment has been lacking in effectively promoting that goal and\nimplementing IPM. Farmers also blame the government for not making the new\noptions of pest management attractive. \"Wholesale changes in the way that\nfarmers control the pests on their farms is an expensive business.\" Tony\nBrown, of the National Farmers Association, says. \"If the farmers are given tax\nbreaks to offset the expenditure, then they would willingly accept the new\npractices.\" The report goes on to note that even though the use of the riskiest\npesticides has declined nationwide, they still make up more than 40 percent of\nall pesticides used today; and national pesticide use has risen by 40 million\n\nkilograms since 1992. \"Our food supply remains the safest and highest quality\non Earth but we continue to overdose our farmland with powerful and toxic\npesticides and to under-use the safe and effective alternatives,\" charged\nPatrick Leahy, who commissioned the report. Green action groups disagree\nabout the safety issue. \"There is no way that habitual consumption of\nfoodstuffs grown using toxic chemical of the nature found on today's farms can\nbe healthy for consumers,\" noted Bill Bowler, spokesman for Green Action, one\nof many lobbyists interested in this issue.\n\nThe GAO report singles out Oregon's apple and pear producers who have used\nthe new IPM techniques with growing success. Although Oregon is clearly\nahead of the nation, scientists at OSU are taking the Government Accounting\nOffice criticisms seriously. \"We must continue to develop effective alternative\npractices that will reduce environmental hazards and produce high-quality\nproducts,\" said Paul Jepson, a professor of entomology at OSU and new director\nof\n\nOSU's Integrated Plant Protection Centre (IPPC). The IPPC brings together\nscientists from OSU's Agricultural Experiment Station, OSU Extension service,\nthe U.S. Department of Agriculture and Oregon farmers to help develop\nagricultural systems that will save water and soil, and reduce pesticides. In\nresponse to the GAO report, the Centre is putting even more emphasis on\nintegrating research and farming practices to improve Oregon agriculture\nenvironmentally and economically.\n\n\"The GAO report criticizes agencies for not clearly communicating the goals of\nIPM,\" said Jepson. \"Our challenge is to greatly improve the communication to\nand from growers, to learn what works and what doesn't. the work coming\nfrom OSU researchers must be adopted in the field and not simply languish in\nscientific journals.\"\n\nIn Oregon, growers and scientists are working together to instigate new\npractices. For example, a few years ago scientists at OSU's Malheur\nExperiment Station began testing a new drip irrigation system to replace old\nditches that wasted water and washed soil and fertilizer into streams. The new\nsystem cut water and fertilizer use by half kept topsoil in place and protected\nwater quality.\n\nIn addition, the new system produced crops of very large onions, rated \"super-\ncolossal\" and highly valued by the restaurant industry and food processors. Art\nPimms, one of the researchers at Malheur comments: \"Growers are finding that\nwhen they adopt more environmentally benign practices, they can have\nexcellent results. The new practices benefit the environment and give the\ngrowers their success.\"\n\nOSU researcher in Malheur next tested straw mulch and found that it\nsuccessfully held soil in place and kept the ground moist with less irrigation. In\naddition, and unexpectedly, the scientists found that the mulched soil created\na home for beneficial beetles and spiders that prey on onion thrips - a\nnotorious pest in commercial onion fields - a discovery that could reduce the\nneed for pesticides. \"I would never have believed that we could replace the\nartificial pest controls that we had before and still keep our good results,\"\ncommented Steve Black, a commercial onion farmer in Oregon, \"but instead\nwe have actually surpassed expectations.\"\n\nOSU researchers throughout the state have been working to reduce\ndependence on broad-spectrum chemical spays that are toxic to many kinds of\norganisms, including humans. \"Consumers are rightly putting more and more\npressure on the industry to change its reliance on chemical pesticides, but they\nstill want a picture-perfect product,\" said Rick Hilton, an entomologist at OSU's\nSouthern Oregon Research and Extension Centre, where researches help pear\ngrowers reduce the need for highly toxic pesticides. Picture perfect pears are\nan important product in Oregon and traditionally they have required lots of\nchemicals. In recent years, the industry has faced stiff competition from\noverseas producers, so any new methods that growers adopt must make sense\neconomically as well as environmentally. Hilton is testing a growth regulator\nthat interferes with the molting of codling moth larvae. Another study used\npheromone dispensers to disrupt codling moth mating. These and other\nmethods of integrated pest management have allowed pear growers to reduce\ntheir use of organophosphates by two-thirds and reduce all other synthetic\npesticides by even more and still produce top-quality pears. These and other\nstudies around the state are part of the effort of the IPPC to find alternative\nfarming practices that benefit both the economy and the environment.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 23-27",
-      "questionRange": [
-        23,
-        27
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-features",
+          "instruction": "Use the information in the passage to match the people (listed A-G) with opinions or deeds below. Write the appropriate letters A-G in boxes 15-22 on your answer sheet. NB You may use any letter more than once A Tony Brown B Patrick Leahy C Bill Bowler D Paul Jepson E Art Pimms F Steve Black G Rick Hilton",
+          "body": null,
+          "range": [
+            15,
+            22
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": [
+              "Tony Brown",
+              "Patrick Leahy",
+              "Bill Bowler",
+              "Paul Jepson",
+              "Art Pimms",
+              "Steve Black",
+              "Rick Hilton"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+          "body": null,
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 23-27\nUse the information in the passage to match the people (listed A-G) with\nopinions or deeds below.\nWrite the appropriate letters A-G in boxes 15-22 on your answer sheet.\nNB You may use any letter more than once\nA\nTony Brown\nB\nPatrick Leahy\nC\nBill Bowler\nD\nPaul Jepson\nE\nArt Pimms\nF\nSteve Black\nG\nRick Hilton\n15\n There is a double-advantage to the new techniques.\n16\n The work on developing these alternative techniques is\nnot finished.\n17\n Eating food that has had chemicals used in its\nproduction is dangerous to our health.\n18\n Changing current farming methods into a new one is not\na cheap process.\n19\n Results have exceeded the anticipated goal.\n20\n The research done should be translated into practical\nprojects.\n21\n The U.S. produces the best food in the world nowadays.\n22\n Expectations of end-users of agricultural products affect\nthe products.\nDo the following statements agree with the information given in Reading\nPassage 1?\n\nIn boxes 23-27 on your answer sheet, write:\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n23\n Integrated Pest Management has generally been\nregarded as a success in across the US.\n24\n Oregon farmers of apples and pears have been\npromoted as successful examples of Integrated Pest Management.\n25\n The IPPC uses scientists from different organisations\nglobally\n26\n Straw mulch experiments produced unplanned\nbenefits.\n27\n The apple industry is now facing a lot of competition\nfrom abroad.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "Tony Brown"
-          },
-          {
-            "label": "B",
-            "content": "Patrick Leahy"
-          },
-          {
-            "label": "C",
-            "content": "Bill Bowler"
-          },
-          {
-            "label": "D",
-            "content": "Paul Jepson"
-          },
-          {
-            "label": "E",
-            "content": "Art Pimms"
-          },
-          {
-            "label": "F",
-            "content": "Steve Black"
-          },
-          {
-            "label": "G",
-            "content": "Rick Hilton"
-          }
-        ]
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 15,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "There is a double-advantage to the new techniques.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "The work on developing these alternative techniques is\nnot finished.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "Eating food that has had chemicals used in its\nproduction is dangerous to our health.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "Changing current farming methods into a new one is not\na cheap process.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "Results have exceeded the anticipated goal.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "The research done should be translated into practical\nprojects.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "The U.S. produces the best food in the world nowadays.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "Expectations of end-users of agricultural products affect\nthe products.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Integrated Pest Management has generally been\nregarded as a success in across the US.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Oregon farmers of apples and pears have been\npromoted as successful examples of Integrated Pest Management.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "The IPPC uses scientists from different organisations\nglobally",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Straw mulch experiments produced unplanned\nbenefits.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "The apple industry is now facing a lot of competition\nfrom abroad.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Terminated Dinosaur Era",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40 which are based on\nReading Passage 3.\nTerminated Dinosaur Era\nA.\nDay after day, we hear about how anthropogenic development is causing\nglobal warming. According to an increasingly vocal minority, however, we\nshould be asking ourselves how much of this is media hype, and how much is\nbased on real evidence. It seems – as so often is the ease – that it depends on\nwhich expert you listen to, or which statistics you study.\nB.\nYes, it is true that there is a mass of evidence to indicate that the world is\ngetting warmer, with one of the world’s leading weather predictors stating that\nair temperatures have frown an increase of just under half a degree Celsius\nsince the beginning of the twentieth century. And while this may not sound like\nanything worth losing sleep over, the interna​tional press would have us believe\nthat the consequences could be devastating. Other ex​perts, however, are of\nthe opinion that what we are seeing is just part of a natural upward and\ndownward swing that has always been part of the cycle of global weather. An\nanalysis of the views of major meteorologists in the United States showed that\nless than 20% of them believed that any change in temperature over the last\nhundred years was our own fault – the rest attributed it to natural cyclical\nchanges.\nC.\nThere is, of course, no denying that we are still at a very early stage in\nunderstanding weather. The effects of such variables as rainfall, cloud\nformation, the seas and oceans, gases such as methane and ozone, or even\nsolar energy are still not really understood, and therefore the predictions that\n\nwe make using them cannot always be relied on.\nDr James Hansen, in 19BH, was predicting that the likely effects of global\nwarming would be a raising of the world temperature which would have\ndisastrous consequences for mankind: “a strong cause arid effect relationship\nbetween the current climate and human alteration of the at​mosphere”. He has\nnow gone on record as stating that using artificial models of climate as a way of\npredicting change is all but impossible. In fact, he now believes that, rather\nthan getting hotter, our planet is getting greener as a result of the carbon\ndioxide increase, with the prospect of increasing vegetation in areas which in\nrecent history have been frozen wastelands.\nD.\nIn fact, there is some evidence to suggest that as our computer-based weather\nmodels have become more sophisticated, the predicted rises In temperature\nhave been cut back. In addi​tion, if we look at the much-reported rise in global\ntemperature over the last century, a close analysis reveals that the lion’s share\nof that increase, almost three quarters in total, occurred before man began to\n“poison” his world with industrial processes and the accom​panying greenhouse\ngas emissions in the second half of the twentieth century.\nE.\nSo should we pay any attention to those stories that scream out at us from\nbillboards and television news headlines, claiming that man, with his\ninexhaustible dependence on oil-based machinery and ever more sophisticated\nforms of transport is creating a nightmare level of greenhouse gas emissions,\npoisoning his environment and ripping open the ozone layer?\nDoubters point to scientific evidence, which can prove that, of all the\ngreenhouse gases, only two per cent come from man-made sources, the rest\nresulting from natural emissions. Who, then, to believe: the environmentalist\nexhorting us to leave the car at home, to buy re-usable products packaged in\nrecycled paper and to plant trees in our back yard? Or the sceptics, including,\nof course, a lot of big businesses who have most to lose, when they tell us that\nwe are making a mountain out of a molehill? And my own opinion? The jury’s\nstill out as for as I am concerned!",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Day after day, we hear about how anthropogenic development is causing"
+            "label": null,
+            "text": "Terminated Dinosaur Era"
           },
           {
-            "label": "B",
-            "content": "Yes, it is true that there is a mass of evidence to indicate that the world is"
+            "label": null,
+            "text": "A."
           },
           {
-            "label": "C",
-            "content": "There is, of course, no denying that we are still at a very early stage in"
+            "label": null,
+            "text": "Day after day, we hear about how anthropogenic development is causing\nglobal warming. According to an increasingly vocal minority, however, we\nshould be asking ourselves how much of this is media hype, and how much is\nbased on real evidence. It seems - as so often is the ease - that it depends on\nwhich expert you listen to, or which statistics you study."
           },
           {
-            "label": "D",
-            "content": "In fact, there is some evidence to suggest that as our computer-based weather"
+            "label": null,
+            "text": "B."
           },
           {
-            "label": "E",
-            "content": "So should we pay any attention to those stories that scream out at us from"
+            "label": null,
+            "text": "Yes, it is true that there is a mass of evidence to indicate that the world is\ngetting warmer, with one of the world's leading weather predictors stating that\nair temperatures have frown an increase of just under half a degree Celsius\nsince the beginning of the twentieth century. And while this may not sound like\nanything worth losing sleep over, the international press would have us believe\nthat the consequences could be devastating. Other experts, however, are of\nthe opinion that what we are seeing is just part of a natural upward and\ndownward swing that has always been part of the cycle of global weather. An\nanalysis of the views of major meteorologists in the United States showed that\nless than 20% of them believed that any change in temperature over the last\nhundred years was our own fault - the rest attributed it to natural cyclical\nchanges."
+          },
+          {
+            "label": null,
+            "text": "C."
+          },
+          {
+            "label": null,
+            "text": "There is, of course, no denying that we are still at a very early stage in\nunderstanding weather. The effects of such variables as rainfall, cloud\nformation, the seas and oceans, gases such as methane and ozone, or even\nsolar energy are still not really understood, and therefore the predictions that"
+          },
+          {
+            "label": null,
+            "text": "we make using them cannot always be relied on."
+          },
+          {
+            "label": null,
+            "text": "Dr James Hansen, in 19BH, was predicting that the likely effects of global\nwarming would be a raising of the world temperature which would have\ndisastrous consequences for mankind: \"a strong cause arid effect relationship\nbetween the current climate and human alteration of the atmosphere\". He has\nnow gone on record as stating that using artificial models of climate as a way of\npredicting change is all but impossible. In fact, he now believes that, rather\nthan getting hotter, our planet is getting greener as a result of the carbon\ndioxide increase, with the prospect of increasing vegetation in areas which in\nrecent history have been frozen wastelands."
+          },
+          {
+            "label": null,
+            "text": "D."
+          },
+          {
+            "label": null,
+            "text": "In fact, there is some evidence to suggest that as our computer-based weather\nmodels have become more sophisticated, the predicted rises In temperature\nhave been cut back. In addition, if we look at the much-reported rise in global\ntemperature over the last century, a close analysis reveals that the lion's share\nof that increase, almost three quarters in total, occurred before man began to\n\"poison\" his world with industrial processes and the accompanying greenhouse\ngas emissions in the second half of the twentieth century."
+          },
+          {
+            "label": null,
+            "text": "E."
+          },
+          {
+            "label": null,
+            "text": "So should we pay any attention to those stories that scream out at us from\nbillboards and television news headlines, claiming that man, with his\ninexhaustible dependence on oil-based machinery and ever more sophisticated\nforms of transport is creating a nightmare level of greenhouse gas emissions,\npoisoning his environment and ripping open the ozone layer?"
+          },
+          {
+            "label": null,
+            "text": "Doubters point to scientific evidence, which can prove that, of all the\ngreenhouse gases, only two per cent come from man-made sources, the rest\nresulting from natural emissions. Who, then, to believe: the environmentalist\nexhorting us to leave the car at home, to buy re-usable products packaged in\nrecycled paper and to plant trees in our back yard? Or the sceptics, including,\nof course, a lot of big businesses who have most to lose, when they tell us that\nwe are making a mountain out of a molehill? And my own opinion? The jury's\nstill out as for as I am concerned!"
           }
-        ]
+        ],
+        "text": "Terminated Dinosaur Era\n\nA.\n\nDay after day, we hear about how anthropogenic development is causing\nglobal warming. According to an increasingly vocal minority, however, we\nshould be asking ourselves how much of this is media hype, and how much is\nbased on real evidence. It seems - as so often is the ease - that it depends on\nwhich expert you listen to, or which statistics you study.\n\nB.\n\nYes, it is true that there is a mass of evidence to indicate that the world is\ngetting warmer, with one of the world's leading weather predictors stating that\nair temperatures have frown an increase of just under half a degree Celsius\nsince the beginning of the twentieth century. And while this may not sound like\nanything worth losing sleep over, the international press would have us believe\nthat the consequences could be devastating. Other experts, however, are of\nthe opinion that what we are seeing is just part of a natural upward and\ndownward swing that has always been part of the cycle of global weather. An\nanalysis of the views of major meteorologists in the United States showed that\nless than 20% of them believed that any change in temperature over the last\nhundred years was our own fault - the rest attributed it to natural cyclical\nchanges.\n\nC.\n\nThere is, of course, no denying that we are still at a very early stage in\nunderstanding weather. The effects of such variables as rainfall, cloud\nformation, the seas and oceans, gases such as methane and ozone, or even\nsolar energy are still not really understood, and therefore the predictions that\n\nwe make using them cannot always be relied on.\n\nDr James Hansen, in 19BH, was predicting that the likely effects of global\nwarming would be a raising of the world temperature which would have\ndisastrous consequences for mankind: \"a strong cause arid effect relationship\nbetween the current climate and human alteration of the atmosphere\". He has\nnow gone on record as stating that using artificial models of climate as a way of\npredicting change is all but impossible. In fact, he now believes that, rather\nthan getting hotter, our planet is getting greener as a result of the carbon\ndioxide increase, with the prospect of increasing vegetation in areas which in\nrecent history have been frozen wastelands.\n\nD.\n\nIn fact, there is some evidence to suggest that as our computer-based weather\nmodels have become more sophisticated, the predicted rises In temperature\nhave been cut back. In addition, if we look at the much-reported rise in global\ntemperature over the last century, a close analysis reveals that the lion's share\nof that increase, almost three quarters in total, occurred before man began to\n\"poison\" his world with industrial processes and the accompanying greenhouse\ngas emissions in the second half of the twentieth century.\n\nE.\n\nSo should we pay any attention to those stories that scream out at us from\nbillboards and television news headlines, claiming that man, with his\ninexhaustible dependence on oil-based machinery and ever more sophisticated\nforms of transport is creating a nightmare level of greenhouse gas emissions,\npoisoning his environment and ripping open the ozone layer?\n\nDoubters point to scientific evidence, which can prove that, of all the\ngreenhouse gases, only two per cent come from man-made sources, the rest\nresulting from natural emissions. Who, then, to believe: the environmentalist\nexhorting us to leave the car at home, to buy re-usable products packaged in\nrecycled paper and to plant trees in our back yard? Or the sceptics, including,\nof course, a lot of big businesses who have most to lose, when they tell us that\nwe are making a mountain out of a molehill? And my own opinion? The jury's\nstill out as for as I am concerned!",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the statements below agree with the information in Reading Passage 1? In Boxes 33-38, write: YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this Example: Computer-based weather models have become more sophisticated. Answer: Yes.",
+          "body": null,
+          "range": [
+            33,
+            38
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Use NO MORE THAN THREE WORDS from the passage for each blank space. Write your answers in boxes 39-40 on your answer sheet. As well as planting trees and not driving, the environmentalist would like",
+          "body": "us to choose products that are wrapped [[39]] and can be used more than once. Big businesses would have us believe that we are making too much fuss about global warming, because they have [[40]]",
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
-          "type": "matching-features",
-          "prompt": "The author …",
-          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "The author ...",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "believes that man is causing global warming",
+            "believes that global warming is a natural process",
+            "is sure what the causes of global warming are",
+            "does not say what he believes the causes of global warming are"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 29,
-          "type": "matching-features",
-          "prompt": "As to the cause of global warming, the author believes that …",
-          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
-          "answer": "C"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "As to the cause of global warming, the author believes that ...",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "occasionally the fact depends on who you are talking to",
+            "the facts always depend on who you are talking to",
+            "often the fact depends on which expert you listen to",
+            "you should not speak to experts"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 30,
-          "type": "matching-features",
-          "prompt": "More than 80% of the top meteorologists in the United States are of",
-          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "More than 80% of the top meteorologists in the United States are of the opinion that...",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "global warming should make us lose sleep",
+            "global warming is not the result of oil natural cyclical changes, but man-made",
+            "the consequences of global warming will be deviating",
+            "global warming is not man-made, but the result of natural cyclical changes."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 31,
-          "type": "matching-features",
-          "prompt": "Our understanding of the weather…",
-          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Our understanding of the weather...",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "leads to reliable predictions",
+            "is variable",
+            "cannot be denied",
+            "is not very developed yet"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 32,
-          "type": "matching-features",
-          "prompt": "Currently, Dr. James Hansen’s beliefs include the fact that …",
-          "instruction": "Choose the appropriate letters A-D Write a theme in Boxes 28-32 on your answer sheet.",
-          "answer": "A"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Currently, Dr. James Hansen's beliefs include the fact that ...",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "It is nearly impossible to predict weather change using artificial models",
+            "the consequences of global warming would be disastrous in mankind",
+            "there is a significant link between the climate now, mid man's changing of the atmosphere",
+            "Earth is getting colder"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "At the same time that computer-based weather\nmodels have become more sophisticated, weather forecasters have\nbecome more expert.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Most of the increase in global temperature happened\nin the second half of the twentieth century.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The media wants us to blame ourselves for global\nwarming.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The media encourages the public to use environment-\nfriendly vehicles, such as electric cars to combat global warming.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Environmentalists are very effective at persuading\npeople to be kind to the environment.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Many big businesses are on the side of the sceptics as\nregards the cause of global warming.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "in recycled paper",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "most to lose",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 33-38",
-      "questionRange": [
-        33,
-        38
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 33-38\nB\n \nC\n \nD\n \nthe consequences of global warming would be disastrous in\nmankind\nthere is a significant link between the climate now, mid man’s\nchanging of the atmosphere\nEarth is getting colder\nDo the statements below agree with the information in Reading Passage\n1?\nIn Boxes 33-38, write:\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\nExample: Computer-based weather models have become more\nsophisticated.\nAnswer: Yes.\n33\n At the same time that computer-based weather\nmodels have become more sophisticated, weather forecasters have\nbecome more expert.\n34\n Most of the increase in global temperature happened\nin the second half of the twentieth century.\n35\n The media wants us to blame ourselves for global\nwarming.\n36\n The media encourages the public to use environment-\nfriendly vehicles, such as electric cars to combat global warming.\n37\n Environmentalists are very effective at persuading\npeople to be kind to the environment.\n38\n Many big businesses are on the side of the sceptics as\nregards the cause of global warming.\n\nQuestions 39-40\nComplete the sentences below.\nUse NO MORE THAN THREE WORDS from the passage for each blank\nspace.\nWrite your answers in boxes 39-40 on your answer sheet.\nAs well as planting trees and not driving, the environmentalist would like\nus to choose products that are wrapped 39\n and can be used more\nthan once.\nBig businesses would have us believe that we are making too much fuss\nabout global warming, because they have 40",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "B",
-            "content": "C"
-          },
-          {
-            "label": "D",
-            "content": "the consequences of global warming would be disastrous in"
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -287,7 +1237,9 @@
     "8": "NOT GIVEN",
     "9": "YES",
     "10": "NO",
+    "11": "A,E",
     "12": "A,E",
+    "13": "A,D",
     "14": "A,D",
     "15": "E",
     "16": "D",

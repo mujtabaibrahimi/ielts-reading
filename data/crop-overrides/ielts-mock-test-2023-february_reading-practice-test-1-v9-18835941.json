@@ -1,0 +1,35 @@
+{
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "There are three steps of collecting data from the lake as follows. Complete the flow chart below. Write your answers in boxes 32-35 on your answer sheet.",
+    "body": "Collecting data from the lake. Step 1: a [[32]] is needed to creat the explosion into the water. Step 2: the [[33]] enters deep into the water and return back. Step 3: a 50-meter [[34]] with many [[35]] embeded."
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        26
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 26 on your answer sheet.",
+    "questions": {
+      "26": {
+        "prompt": "From your opinion this article written by",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "a journalist who write for magazine",
+          "a zoo keeper in London Zoo.",
+          "a tourist who traveling back from Australia",
+          "a government official who studies koalas to establish a law"
+        ]
+      }
+    }
+  }
+}

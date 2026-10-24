@@ -1,265 +1,1241 @@
 {
   "id": "ielts-practice-tests-plus-volume-2_reading-practice-test-2-v9-2145",
   "type": "academic",
-  "source": "ielts-practice-tests-plus-volume-2 reading-practice-test-2-v9-2145",
+  "title": "IELTS Practice Tests Plus Volume 2 - Reading Test 2",
+  "collection": "IELTS Practice Tests Plus Volume 2",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 2,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-tests-plus-volume-2_reading-practice-test-2-v9-2145.pdf",
-  "total_questions": 0,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Why Risks Can Go Wrong",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nWhy Risks Can Go Wrong\nHuman intuition is a bad guide to handling risk\nA. People make terrible decisions about the future. The evidence is all around,\nfrom their investments in the stock markets to the way they run their\nbusinesses. In fact, people are consistently bad at dealing with uncertainty,\nunderestimating some kinds of risk and overestimating others. Surely there\nmust be a better way than using intuition?\nB. In the 1960s a young American research psychologist, Daniel Kahneman,\nbecame interested in people's inability to make logical decisions. That\nlaunched him on a career to show just how irrationally people behave in\npractice. When Kahneman and his colleagues first started work, the idea of\napplying psychological insights to economics and business decisions was seen\nas rather bizarre. But in the past decade the fields of behavioural finance and\nbehavioural economics have blossomed, and in 2002 Kahneman shared a\nNobel prize in economics for his work. Today he is in demand by business\norganizations and international banking companies. But, he says, there are\nplenty of institutions that still fail to understand the roots of their poor\ndecisions. He claims that, far from being random, these mistakes are\nsystematic and predictable.\n\nC. One common cause of problems in decision-making is over-optimism. Ask\nmost people about the future, and they will see too much blue sky ahead, even\nif past experience suggests otherwise. Surveys have shown that people's\nforecasts of future stock market movements are far more optimistic than past\nlong-term returns would justify. The same goes for their hopes of ever-rising\nprices for their homes or doing well in games of chance. Such optimism can be\nuseful for managers or sportsmen, and sometimes turns into a self-fulfilling\nprophecy. But most of the time it results in wasted effort and dashed hopes.\nKahneman's work points to three types of over-confidence. First, people tend to\nexaggerate their own skill and prowess; in polls, far fewer than half the\nrespondents admit to having below-average skills in, say, driving. Second, they\noverestimate the amount of control they have over the future, forgetting about\nluck and chalking up success solely to skill. And third, in competitive pursuits\nsuch as dealing on shares, they forget that they have to judge their skills\nagainst those of the competition.\nD. Another source of wrong decisions is related to the decisive effect of the\ninitial meeting, particularly in negotiations over money. This is referred to as\nthe 'anchor effect'. Once a figure has been mentioned, it takes a strange hold\nover the human mind. The asking price quoted in a house sale, for example,\ntends to become accepted by all parties as the 'anchor' around which\nnegotiations take place. Much the same goes for salary negotiations or mergers\nand acquisitions. If nobody has much information to go on, a figure can provide\ncomfort - even though it may lead to a terrible mistake.\nE. In addition, mistakes may arise due to stubbornness. No one likes to\nabandon a cherished belief, and the earlier a decision has been taken, the\nharder it is to abandon it. Drug companies must decide early to cancel a failing\nresearch project to avoid wasting money, but may find it difficult to admit they\nhave made a mistake. In the same way, analysts may have become wedded\nearly to a single explanation that coloured their perception. A fresh eye always\nhelps.\nF. People also tend to put a lot of emphasis on things they have seen and\nexperienced themselves, which may not be the best guide to decision-making.\nFor example, somebody may buy an overvalued share because a relative has\nmade thousands on it, only to get his fingers burned. In finance, too much\nemphasis on information close at hand helps to explain the tendency by most\ninvestors to invest only within the country they live in. Even though they know\nthat diversification is good for their portfolio, a large majority of both\nAmericans and Europeans invest far too heavily in the shares of their home\ncountries. They would be much better off spreading their risks more widely.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "People make terrible decisions about the future. The evidence is all around,"
+            "label": null,
+            "text": "Why Risks Can Go Wrong"
           },
           {
-            "label": "B",
-            "content": "In the 1960s a young American research psychologist, Daniel Kahneman,"
+            "label": null,
+            "text": "Human intuition is a bad guide to handling risk"
           },
           {
-            "label": "C",
-            "content": "One common cause of problems in decision-making is over-optimism. Ask"
+            "label": null,
+            "text": "A. People make terrible decisions about the future. The evidence is all around,\nfrom their investments in the stock markets to the way they run their\nbusinesses. In fact, people are consistently bad at dealing with uncertainty,\nunderestimating some kinds of risk and overestimating others. Surely there\nmust be a better way than using intuition?"
           },
           {
-            "label": "D",
-            "content": "Another source of wrong decisions is related to the decisive effect of the"
+            "label": null,
+            "text": "B. In the 1960s a young American research psychologist, Daniel Kahneman,\nbecame interested in people's inability to make logical decisions. That\nlaunched him on a career to show just how irrationally people behave in\npractice. When Kahneman and his colleagues first started work, the idea of\napplying psychological insights to economics and business decisions was seen\nas rather bizarre. But in the past decade the fields of behavioural finance and\nbehavioural economics have blossomed, and in 2002 Kahneman shared a\nNobel prize in economics for his work. Today he is in demand by business\norganizations and international banking companies. But, he says, there are\nplenty of institutions that still fail to understand the roots of their poor\ndecisions. He claims that, far from being random, these mistakes are\nsystematic and predictable."
           },
           {
-            "label": "E",
-            "content": "In addition, mistakes may arise due to stubbornness. No one likes to"
+            "label": null,
+            "text": "C. One common cause of problems in decision-making is over-optimism. Ask\nmost people about the future, and they will see too much blue sky ahead, even\nif past experience suggests otherwise. Surveys have shown that people's\nforecasts of future stock market movements are far more optimistic than past\nlong-term returns would justify. The same goes for their hopes of ever-rising\nprices for their homes or doing well in games of chance. Such optimism can be\nuseful for managers or sportsmen, and sometimes turns into a self-fulfilling\nprophecy. But most of the time it results in wasted effort and dashed hopes.\nKahneman's work points to three types of over-confidence. First, people tend to\nexaggerate their own skill and prowess; in polls, far fewer than half the\nrespondents admit to having below-average skills in, say, driving. Second, they\noverestimate the amount of control they have over the future, forgetting about\nluck and chalking up success solely to skill. And third, in competitive pursuits\nsuch as dealing on shares, they forget that they have to judge their skills\nagainst those of the competition."
           },
           {
-            "label": "F",
-            "content": "People also tend to put a lot of emphasis on things they have seen and"
+            "label": null,
+            "text": "D. Another source of wrong decisions is related to the decisive effect of the\ninitial meeting, particularly in negotiations over money. This is referred to as\nthe 'anchor effect'. Once a figure has been mentioned, it takes a strange hold\nover the human mind. The asking price quoted in a house sale, for example,\ntends to become accepted by all parties as the 'anchor' around which\nnegotiations take place. Much the same goes for salary negotiations or mergers\nand acquisitions. If nobody has much information to go on, a figure can provide\ncomfort - even though it may lead to a terrible mistake."
+          },
+          {
+            "label": null,
+            "text": "E. In addition, mistakes may arise due to stubbornness. No one likes to\nabandon a cherished belief, and the earlier a decision has been taken, the\nharder it is to abandon it. Drug companies must decide early to cancel a failing\nresearch project to avoid wasting money, but may find it difficult to admit they\nhave made a mistake. In the same way, analysts may have become wedded\nearly to a single explanation that coloured their perception. A fresh eye always\nhelps."
+          },
+          {
+            "label": null,
+            "text": "F. People also tend to put a lot of emphasis on things they have seen and\nexperienced themselves, which may not be the best guide to decision-making.\nFor example, somebody may buy an overvalued share because a relative has\nmade thousands on it, only to get his fingers burned. In finance, too much\nemphasis on information close at hand helps to explain the tendency by most\ninvestors to invest only within the country they live in. Even though they know\nthat diversification is good for their portfolio, a large majority of both\nAmericans and Europeans invest far too heavily in the shares of their home\ncountries. They would be much better off spreading their risks more widely."
+          },
+          {
+            "label": null,
+            "text": "G. More information is helpful in making any decision but, says Kahneman,\npeople spend proportionally too much time on small decisions and not enough\non big ones. They need to adjust the balance. During the boom years, some\ncompanies put as much effort into planning their office party as into\nconsidering strategic mergers."
+          },
+          {
+            "label": null,
+            "text": "H. Finally, crying over spilled milk is not just a waste of time; it also often\ncolours people's perceptions of the future. Some stock market investors trade\nfar too frequently because they are chasing the returns on shares they wish\nthey had bought earlier."
+          },
+          {
+            "label": null,
+            "text": "I. Kahneman reckons that some types of businesses are much better than\nothers at dealing with risk. Pharmaceutical companies, which are accustomed\nto many failures and a few big successes in their drug-discovery programmes,\nare fairly rational about their risk-taking. But banks, he says, have a long way\nto go. They may take big risks on a few huge loans, but are extremely cautious\nabout their much more numerous loans to small businesses, many of which\nmay be less risky than the big ones. And the research has implications for\ngovernments too. They face a whole range of sometimes conflicting political\npressures, which means they are even more likely to take irrational decisions."
           }
-        ]
+        ],
+        "text": "Why Risks Can Go Wrong\n\nHuman intuition is a bad guide to handling risk\n\nA. People make terrible decisions about the future. The evidence is all around,\nfrom their investments in the stock markets to the way they run their\nbusinesses. In fact, people are consistently bad at dealing with uncertainty,\nunderestimating some kinds of risk and overestimating others. Surely there\nmust be a better way than using intuition?\n\nB. In the 1960s a young American research psychologist, Daniel Kahneman,\nbecame interested in people's inability to make logical decisions. That\nlaunched him on a career to show just how irrationally people behave in\npractice. When Kahneman and his colleagues first started work, the idea of\napplying psychological insights to economics and business decisions was seen\nas rather bizarre. But in the past decade the fields of behavioural finance and\nbehavioural economics have blossomed, and in 2002 Kahneman shared a\nNobel prize in economics for his work. Today he is in demand by business\norganizations and international banking companies. But, he says, there are\nplenty of institutions that still fail to understand the roots of their poor\ndecisions. He claims that, far from being random, these mistakes are\nsystematic and predictable.\n\nC. One common cause of problems in decision-making is over-optimism. Ask\nmost people about the future, and they will see too much blue sky ahead, even\nif past experience suggests otherwise. Surveys have shown that people's\nforecasts of future stock market movements are far more optimistic than past\nlong-term returns would justify. The same goes for their hopes of ever-rising\nprices for their homes or doing well in games of chance. Such optimism can be\nuseful for managers or sportsmen, and sometimes turns into a self-fulfilling\nprophecy. But most of the time it results in wasted effort and dashed hopes.\nKahneman's work points to three types of over-confidence. First, people tend to\nexaggerate their own skill and prowess; in polls, far fewer than half the\nrespondents admit to having below-average skills in, say, driving. Second, they\noverestimate the amount of control they have over the future, forgetting about\nluck and chalking up success solely to skill. And third, in competitive pursuits\nsuch as dealing on shares, they forget that they have to judge their skills\nagainst those of the competition.\n\nD. Another source of wrong decisions is related to the decisive effect of the\ninitial meeting, particularly in negotiations over money. This is referred to as\nthe 'anchor effect'. Once a figure has been mentioned, it takes a strange hold\nover the human mind. The asking price quoted in a house sale, for example,\ntends to become accepted by all parties as the 'anchor' around which\nnegotiations take place. Much the same goes for salary negotiations or mergers\nand acquisitions. If nobody has much information to go on, a figure can provide\ncomfort - even though it may lead to a terrible mistake.\n\nE. In addition, mistakes may arise due to stubbornness. No one likes to\nabandon a cherished belief, and the earlier a decision has been taken, the\nharder it is to abandon it. Drug companies must decide early to cancel a failing\nresearch project to avoid wasting money, but may find it difficult to admit they\nhave made a mistake. In the same way, analysts may have become wedded\nearly to a single explanation that coloured their perception. A fresh eye always\nhelps.\n\nF. People also tend to put a lot of emphasis on things they have seen and\nexperienced themselves, which may not be the best guide to decision-making.\nFor example, somebody may buy an overvalued share because a relative has\nmade thousands on it, only to get his fingers burned. In finance, too much\nemphasis on information close at hand helps to explain the tendency by most\ninvestors to invest only within the country they live in. Even though they know\nthat diversification is good for their portfolio, a large majority of both\nAmericans and Europeans invest far too heavily in the shares of their home\ncountries. They would be much better off spreading their risks more widely.\n\nG. More information is helpful in making any decision but, says Kahneman,\npeople spend proportionally too much time on small decisions and not enough\non big ones. They need to adjust the balance. During the boom years, some\ncompanies put as much effort into planning their office party as into\nconsidering strategic mergers.\n\nH. Finally, crying over spilled milk is not just a waste of time; it also often\ncolours people's perceptions of the future. Some stock market investors trade\nfar too frequently because they are chasing the returns on shares they wish\nthey had bought earlier.\n\nI. Kahneman reckons that some types of businesses are much better than\nothers at dealing with risk. Pharmaceutical companies, which are accustomed\nto many failures and a few big successes in their drug-discovery programmes,\nare fairly rational about their risk-taking. But banks, he says, have a long way\nto go. They may take big risks on a few huge loans, but are extremely cautious\nabout their much more numerous loans to small businesses, many of which\nmay be less risky than the big ones. And the research has implications for\ngovernments too. They face a whole range of sometimes conflicting political\npressures, which means they are even more likely to take irrational decisions.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "G. More information is helpful in making any decision but, says Kahneman,",
-      "questionRange": [
-        1,
-        6
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 1 has nine paragraphs A-I. Choose the correct heading for Paragraphs B and D-H from the list of headings below. Write the correct number (i-xi) in boxes 1-6 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "ix",
+              "x",
+              "xi"
+            ],
+            "labels": [
+              "Not identifying the correct priorities",
+              "A solution for the long term",
+              "The difficulty of changing your mind",
+              "Why looking back is unhelpful",
+              "Strengthening inner resources",
+              "A successful approach to the study of decision-making",
+              "The danger of trusting a global market",
+              "The power of the first number",
+              "The need for more effective risk assessment",
+              "Underestimating the difficulties ahead"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct answer A, B, C or D Write your answers in boxes 7-10 on your answer sheet.",
+          "body": null,
+          "range": [
+            7,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below, using NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 11-13 on your answer sheet. Which two occupations may benefit from being over-optimistic?",
+          "body": "[[11]] Which practical skill are many people over-confident about? [[12]] Which type of business has a generally good attitude to dealing with uncertainty? [[13]]",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "G. More information is helpful in making any decision but, says Kahneman,\npeople spend proportionally too much time on small decisions and not enough\non big ones. They need to adjust the balance. During the boom years, some\ncompanies put as much effort into planning their office party as into\nconsidering strategic mergers.\nH. Finally, crying over spilled milk is not just a waste of time; it also often\ncolours people's perceptions of the future. Some stock market investors trade\nfar too frequently because they are chasing the returns on shares they wish\nthey had bought earlier.\nI. Kahneman reckons that some types of businesses are much better than\nothers at dealing with risk. Pharmaceutical companies, which are accustomed\nto many failures and a few big successes in their drug-discovery programmes,\nare fairly rational about their risk-taking. But banks, he says, have a long way\nto go. They may take big risks on a few huge loans, but are extremely cautious\nabout their much more numerous loans to small businesses, many of which\nmay be less risky than the big ones. And the research has implications for\ngovernments too. They face a whole range of sometimes conflicting political\npressures, which means they are even more likely to take irrational decisions.\nQuestions 1-6\nReading Passage 1 has nine paragraphs A-I.\nChoose the correct heading for Paragraphs B and D-H from the list of\nheadings below.\nWrite the correct number (i-xi) in boxes 1-6 on your answer sheet.\n1\n      Paragraph B\n2\n      Paragraph D\n3\n       Paragraph E\n4\n       Paragraph F\n5\n       Paragraph G\n6\n       Paragraph H",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "G",
-            "content": "More information is helpful in making any decision but, says Kahneman,"
-          }
-        ]
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph H",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x",
+            "xi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "People initially found Kahneman's work unusual because he",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "saw mistakes as following predictable patterns.",
+            "was unaware of behavioural approaches.",
+            "dealt with irrational types of practice.",
+            "applied psychology to finance and economics"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The writer mentions house-owners attitudes towards the value of their homes to illustrate that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "past failures may destroy an optimistic attitude.",
+            "people tend to exaggerate their chances of success.",
+            "optimism may be justified in certain circumstances.",
+            "people are influenced by the success of others."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Stubbornness and inflexibility can cause problems when people",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "think their financial difficulties are just due to bad luck.",
+            "avoid seeking advice from experts and analysts.",
+            "refuse to invest in the early stages of a project.",
+            "are unwilling to give up unsuccessful activities or beliefs."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Why do many Americans and Europeans fail to spread their financial risks when investing?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "They feel safer dealing in a context which is close to home.",
+            "They do not understand the benefits of diversification.",
+            "They are over-influenced by the successes of their relatives.",
+            "They do not have sufficient knowledge of one another's countries."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "managers and sportsmen",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "driving",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Pharmaceutical (companies)",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "There has always been a sense in which America and Europe owned film. They",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 on the following pages.\nThere has always been a sense in which America and Europe owned film. They\ninvented it at the end of the nineteenth century in unfashionable places like\nNew Jersey, Leeds and the suburbs of Lyons. At first, they saw their clumsy new\ncamera-projectors merely as more profitable versions of Victorian lantern\nshows, mechanical curiosities which might have a use as a sideshow at a\nfunfair. Then the best of the pioneers looked beyond the fairground properties\nof their invention. A few directors, now mostly forgotten, saw that the flickering\nnew medium was more than just a diversion. This crass commercial invention\ngradually began to evolve as an art. D W Griffith in California glimpsed its\ngrace, German directors used it as an analogue to the human mind and the\nmodernising city, Soviets emphasised its agitational and intellectual properties,\nand the Italians reconfigured it on an operatic scale.\nSo heady were these first decades of cinema that America and Europe can be\nforgiven for assuming that they were the only game in town. In less than\ntwenty years western cinema had grown out of all recognition; its unknowns\nbecame the most famous people in the world; it made millions. It never\noccurred to its financial backers that another continent might borrow their\nmagic box and make it its own. But film industries were emerging in Shanghai,\nBombay and Tokyo, some of which would outgrow those in the west.\nBetween 1930 and 1935, China produced more than 500 films, mostly\nconventionally made in studios in Shanghai, without soundtracks. China's best\ndirectors - Bu Wancang and Yuan Muzhi - introduced elements of realism to\n\ntheir stories. The Peach Girl (1931) and Street Angel (1937) are regularly voted\namong the best ever made in the country.\nIndia followed a different course. In the west, the arrival of talkies gave birth to\na new genre - the musical - but in India, every one of the 5000 films made\nbetween 1931 and the mid-1950s had musical interludes. The films were\nstylistically more wide ranging than the western musical, encompassing\nrealism and escapist dance within individual sequences, and they were often\nthree hours long rather than Hollywood's 90 minutes. The cost of such\nproductions resulted in a distinctive national style of cinema. They were often\nmade in Bombay, the centre of what is now known as 'Bollywood'. Performed in\nHindi (rather than any of the numerous regional languages), they addressed\nsocial and peasant themes in an optimistic and romantic way and found\nmarkets in the Middle East, Africa and the Soviet Union.\nIn Japan, the film industry did not rival India's in size but was unusual in other\nways. Whereas in Hollywood the producer was the central figure, in Tokyo the\ndirector chose the stories and hired the producer and actors. The model was\nthat of an artist and his studio of apprentices. Employed by a studio as an\nassistant, a future director worked with senior figures, learned his craft, gained\nauthority, until promoted to director with the power to select screenplays and\nperformers. In the 1930s and 40s, this freedom of the director led to the\nproduction of some of Asia's finest films.\nThe films of Kenji Mizoguchi were among the greatest of these. Mizoguchi's\nfilms were usually set in the nineteenth century and analysed the way in which\nthe lives of the female characters whom he chose as his focus were\nconstrained by the society of the time. From Osaka Elegy (1936) to Ugetsu\nMonogatari (1953) and beyond, he evolved a sinuous way of moving his\ncamera in and around a scene, advancing towards significant details but often\nretreating at moments of confrontation or strong feeling. No one had used the\ncamera with such finesse before.\nEven more important for film history, however, is the work of the great Ozu.\nWhere Hollywood cranked up drama, Ozu avoided it. His camera seldom\nmoved. It nestled at seated height, framing people square on, listening quietly\nto their words. Ozu rejected the conventions of editing, cutting not on action, as\nis usually done in the west, but for visual balance. Even more strikingly, Ozu\nregularly cut away from his action to a shot of a tree or a kettle or clouds, not\nto establish a new location but as a moment of repose. Many historians now\ncompare such 'pillow shots' to the Buddhist idea that mu - empty space or\nnothing - is itself an element of composition.\nAs the art form most swayed by money and market, cinema would appear to",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "be too busy to bother with questions of philosophy. The Asian nations proved",
-      "questionRange": [
-        14,
-        18
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "be too busy to bother with questions of philosophy. The Asian nations proved\nand are still proving that this is not the case. Just as deep ideas about\nindividual freedom have led to the aspirational cinema of Hollywood, so it is the\nbeliefs which underlie cultures such as those of China and Japan that explain\nthe distinctiveness of Asian cinema at its best. Yes, these films are visually\nstriking, but it is their different sense of what a person is, and what space and\naction are, which makes them new to western eye.\nQuestions 14-18\nQuestions 19-25\nDo the following statements agree with the information given in\nReading Passage 2?\nIn boxes 14-18 on your answer sheet write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n14\n       The inventors of cinema regarded it as a minor\nattraction.\n15\n       Some directors were aware of cinema's artistic\npossibilities from the very beginning.\n16\n       The development of cinema's artistic potential\ndepended on technology.\n17\n       Cinema's possibilities were developed in varied\nways in different western countries.\n18\n      Western businessmen were concerned about the\nemergence of film industries in other parts of the world.\nComplete the notes below using the list of words (A-K) from the box\nbelow.\nWrite the correct letters in boxes 19-25 on your answer sheet.\nChinese cinema",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Question 26",
-      "questionRange": [
-        1,
-        40
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Question 26\nlarge number of 19\n films produced in 1930s\nsome early films still generally regarded as 20\nIndian cinema\n   films included musical interludes\n   films avoided 21\n topics\nJapanese cinema\n   unusual because film director was very 22\n   two important directors:\nMizoguchi - focused on the 23\n restrictions faced\nby women\n                 - camera movement related to 24\n content of\nfilm\nOzu           - 25\n camera movement\nA\nemotional\nB\nnegative\nC\nexpensive\nD\nsilent\nE\nsocial\nF\noutstanding\nG\nlittle\nH\npowerful\nI\nrealistic\nJ\nstylistic\nK\neconomic\n26 Which of the following is the most suitable title for Reading Passage 2?\n\nA\n \nB\n \nC\n \nD\n \nBlind to change: how is it that the west has ignored Asian\ncinema for so long?\nA different basis: how has the cinema of Asian countries been\nshaped by their cultures and beliefs?\nOutside Asia: how did the origins of cinema affect its\ndevelopment worldwide?\nTwo cultures: how has western cinema tried to come to terms\nwith the challenge of the Asian market?",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 10,
-            "rows": [
-              [
-                "",
-                ""
-              ],
-              [
-                "19\nlarge number of films produced in 1930s\n20\nsome early films still generally regarded as\nIndian cinema\nfilms included musical interludes\n21\nfilms avoided topics\nJapanese cinema\n22\nunusual because film director was very\ntwo important directors:\n23\nMizoguchi - focused on the restrictions faced\nby women\n24\n- camera movement related to content of\nfilm\n25\nOzu - camera movement",
-                null
-              ]
-            ],
-            "header": [
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "There has always been a sense in which America and Europe owned film. They\ninvented it at the end of the nineteenth century in unfashionable places like\nNew Jersey, Leeds and the suburbs of Lyons. At first, they saw their clumsy new\ncamera-projectors merely as more profitable versions of Victorian lantern\nshows, mechanical curiosities which might have a use as a sideshow at a\nfunfair. Then the best of the pioneers looked beyond the fairground properties\nof their invention. A few directors, now mostly forgotten, saw that the flickering\nnew medium was more than just a diversion. This crass commercial invention\ngradually began to evolve as an art. D W Griffith in California glimpsed its\ngrace, German directors used it as an analogue to the human mind and the\nmodernising city, Soviets emphasised its agitational and intellectual properties,\nand the Italians reconfigured it on an operatic scale."
+          },
+          {
+            "label": null,
+            "text": "So heady were these first decades of cinema that America and Europe can be\nforgiven for assuming that they were the only game in town. In less than\ntwenty years western cinema had grown out of all recognition; its unknowns\nbecame the most famous people in the world; it made millions. It never\noccurred to its financial backers that another continent might borrow their\nmagic box and make it its own. But film industries were emerging in Shanghai,\nBombay and Tokyo, some of which would outgrow those in the west."
+          },
+          {
+            "label": null,
+            "text": "Between 1930 and 1935, China produced more than 500 films, mostly\nconventionally made in studios in Shanghai, without soundtracks. China's best\ndirectors - Bu Wancang and Yuan Muzhi - introduced elements of realism to"
+          },
+          {
+            "label": null,
+            "text": "their stories. The Peach Girl (1931) and Street Angel (1937) are regularly voted\namong the best ever made in the country."
+          },
+          {
+            "label": null,
+            "text": "India followed a different course. In the west, the arrival of talkies gave birth to\na new genre - the musical - but in India, every one of the 5000 films made\nbetween 1931 and the mid-1950s had musical interludes. The films were\nstylistically more wide ranging than the western musical, encompassing\nrealism and escapist dance within individual sequences, and they were often\nthree hours long rather than Hollywood's 90 minutes. The cost of such\nproductions resulted in a distinctive national style of cinema. They were often\nmade in Bombay, the centre of what is now known as 'Bollywood'. Performed in\nHindi (rather than any of the numerous regional languages), they addressed\nsocial and peasant themes in an optimistic and romantic way and found\nmarkets in the Middle East, Africa and the Soviet Union."
+          },
+          {
+            "label": null,
+            "text": "In Japan, the film industry did not rival India's in size but was unusual in other\nways. Whereas in Hollywood the producer was the central figure, in Tokyo the\ndirector chose the stories and hired the producer and actors. The model was\nthat of an artist and his studio of apprentices. Employed by a studio as an\nassistant, a future director worked with senior figures, learned his craft, gained\nauthority, until promoted to director with the power to select screenplays and\nperformers. In the 1930s and 40s, this freedom of the director led to the\nproduction of some of Asia's finest films.\nThe films of Kenji Mizoguchi were among the greatest of these. Mizoguchi's\nfilms were usually set in the nineteenth century and analysed the way in which\nthe lives of the female characters whom he chose as his focus were\nconstrained by the society of the time. From Osaka Elegy (1936) to Ugetsu\nMonogatari (1953) and beyond, he evolved a sinuous way of moving his\ncamera in and around a scene, advancing towards significant details but often\nretreating at moments of confrontation or strong feeling. No one had used the\ncamera with such finesse before.\nEven more important for film history, however, is the work of the great Ozu.\nWhere Hollywood cranked up drama, Ozu avoided it. His camera seldom\nmoved. It nestled at seated height, framing people square on, listening quietly\nto their words. Ozu rejected the conventions of editing, cutting not on action, as\nis usually done in the west, but for visual balance. Even more strikingly, Ozu\nregularly cut away from his action to a shot of a tree or a kettle or clouds, not\nto establish a new location but as a moment of repose. Many historians now\ncompare such 'pillow shots' to the Buddhist idea that mu - empty space or\nnothing - is itself an element of composition."
+          },
+          {
+            "label": null,
+            "text": "As the art form most swayed by money and market, cinema would appear to"
+          },
+          {
+            "label": null,
+            "text": "be too busy to bother with questions of philosophy. The Asian nations proved\nand are still proving that this is not the case. Just as deep ideas about\nindividual freedom have led to the aspirational cinema of Hollywood, so it is the\nbeliefs which underlie cultures such as those of China and Japan that explain\nthe distinctiveness of Asian cinema at its best. Yes, these films are visually\nstriking, but it is their different sense of what a person is, and what space and\naction are, which makes them new to western eye."
           }
         ],
+        "text": "There has always been a sense in which America and Europe owned film. They\ninvented it at the end of the nineteenth century in unfashionable places like\nNew Jersey, Leeds and the suburbs of Lyons. At first, they saw their clumsy new\ncamera-projectors merely as more profitable versions of Victorian lantern\nshows, mechanical curiosities which might have a use as a sideshow at a\nfunfair. Then the best of the pioneers looked beyond the fairground properties\nof their invention. A few directors, now mostly forgotten, saw that the flickering\nnew medium was more than just a diversion. This crass commercial invention\ngradually began to evolve as an art. D W Griffith in California glimpsed its\ngrace, German directors used it as an analogue to the human mind and the\nmodernising city, Soviets emphasised its agitational and intellectual properties,\nand the Italians reconfigured it on an operatic scale.\n\nSo heady were these first decades of cinema that America and Europe can be\nforgiven for assuming that they were the only game in town. In less than\ntwenty years western cinema had grown out of all recognition; its unknowns\nbecame the most famous people in the world; it made millions. It never\noccurred to its financial backers that another continent might borrow their\nmagic box and make it its own. But film industries were emerging in Shanghai,\nBombay and Tokyo, some of which would outgrow those in the west.\n\nBetween 1930 and 1935, China produced more than 500 films, mostly\nconventionally made in studios in Shanghai, without soundtracks. China's best\ndirectors - Bu Wancang and Yuan Muzhi - introduced elements of realism to\n\ntheir stories. The Peach Girl (1931) and Street Angel (1937) are regularly voted\namong the best ever made in the country.\n\nIndia followed a different course. In the west, the arrival of talkies gave birth to\na new genre - the musical - but in India, every one of the 5000 films made\nbetween 1931 and the mid-1950s had musical interludes. The films were\nstylistically more wide ranging than the western musical, encompassing\nrealism and escapist dance within individual sequences, and they were often\nthree hours long rather than Hollywood's 90 minutes. The cost of such\nproductions resulted in a distinctive national style of cinema. They were often\nmade in Bombay, the centre of what is now known as 'Bollywood'. Performed in\nHindi (rather than any of the numerous regional languages), they addressed\nsocial and peasant themes in an optimistic and romantic way and found\nmarkets in the Middle East, Africa and the Soviet Union.\n\nIn Japan, the film industry did not rival India's in size but was unusual in other\nways. Whereas in Hollywood the producer was the central figure, in Tokyo the\ndirector chose the stories and hired the producer and actors. The model was\nthat of an artist and his studio of apprentices. Employed by a studio as an\nassistant, a future director worked with senior figures, learned his craft, gained\nauthority, until promoted to director with the power to select screenplays and\nperformers. In the 1930s and 40s, this freedom of the director led to the\nproduction of some of Asia's finest films.\nThe films of Kenji Mizoguchi were among the greatest of these. Mizoguchi's\nfilms were usually set in the nineteenth century and analysed the way in which\nthe lives of the female characters whom he chose as his focus were\nconstrained by the society of the time. From Osaka Elegy (1936) to Ugetsu\nMonogatari (1953) and beyond, he evolved a sinuous way of moving his\ncamera in and around a scene, advancing towards significant details but often\nretreating at moments of confrontation or strong feeling. No one had used the\ncamera with such finesse before.\nEven more important for film history, however, is the work of the great Ozu.\nWhere Hollywood cranked up drama, Ozu avoided it. His camera seldom\nmoved. It nestled at seated height, framing people square on, listening quietly\nto their words. Ozu rejected the conventions of editing, cutting not on action, as\nis usually done in the west, but for visual balance. Even more strikingly, Ozu\nregularly cut away from his action to a shot of a tree or a kettle or clouds, not\nto establish a new location but as a moment of repose. Many historians now\ncompare such 'pillow shots' to the Buddhist idea that mu - empty space or\nnothing - is itself an element of composition.\n\nAs the art form most swayed by money and market, cinema would appear to\n\nbe too busy to bother with questions of philosophy. The Asian nations proved\nand are still proving that this is not the case. Just as deep ideas about\nindividual freedom have led to the aspirational cinema of Hollywood, so it is the\nbeliefs which underlie cultures such as those of China and Japan that explain\nthe distinctiveness of Asian cinema at its best. Yes, these films are visually\nstriking, but it is their different sense of what a person is, and what space and\naction are, which makes them new to western eye.",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "emotional"
-          },
-          {
-            "label": "B",
-            "content": "negative"
-          },
-          {
-            "label": "C",
-            "content": "expensive"
-          },
-          {
-            "label": "D",
-            "content": "silent"
-          },
-          {
-            "label": "E",
-            "content": "social"
-          },
-          {
-            "label": "F",
-            "content": "outstanding"
-          },
-          {
-            "label": "G",
-            "content": "little"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "different basis: how has the cinema of Asian countries been"
-          }
-        ]
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 14-18 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            14,
+            18
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below using the list of words (A-K) from the box below. Write the correct letters in boxes 19-25 on your answer sheet. Chinese cinema",
+          "body": "large number of [[19]] films produced in 1930s some early films still generally regarded as [[20]] Indian cinema films included musical interludes films avoided [[21]] topics Japanese cinema unusual because film director was very [[22]] two important directors: Mizoguchi - focused on the [[23]] restrictions faced by women - camera movement related to [[24]] content of film Ozu - [[25]] camera movement A emotional B negative C expensive D silent E social F outstanding G little H powerful I realistic J stylistic K economic Question 26",
+          "range": [
+            19,
+            25
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            26,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "The inventors of cinema regarded it as a minor\nattraction.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Some directors were aware of cinema's artistic\npossibilities from the very beginning.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "The development of cinema's artistic potential\ndepended on technology.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Cinema's possibilities were developed in varied\nways in different western countries.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Western businessmen were concerned about the\nemergence of film industries in other parts of the world.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Which of the following is the most suitable title for Reading Passage 2?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Blind to change: how is it that the west has ignored Asian cinema for so long?",
+            "A different basis: how has the cinema of Asian countries been shaped by their cultures and beliefs?",
+            "Outside Asia: how did the origins of cinema affect its development worldwide?",
+            "Two cultures: how has western cinema tried to come to terms with the challenge of the Asian market?"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Quiet roads ahead",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nQuiet roads ahead\nThe roar of passing vehicles could soon be a thing of the past\nA. The noise produced by busy roads is a growing problem. While vehicle\ndesigners have worked hard to quieten engines, they have been less\nsuccessful elsewhere. The sound created by the tyres on the surface of the\nroad now accounts for more than half the noise that vehicles create, and as\nroad building and car sales continue to boom - particularly in Asia and the US -\nthis is turning into a global issue.\nB. According to the World Health Organization, exposure to noise from road\ntraffic over long periods can lead to stress-related health problems. And where\ntraffic noise exceeds a certain threshold, road builders have to spend money\nerecting sound barriers and installing double glazing in blighted homes.\nHouses become harder to sell where environmental noise is high, and people\nare not as efficient or productive at work.\nC. Already, researchers in the Netherlands - one of the most densely populated\ncountries in the world - are working to develop techniques for silencing the\nroads. In the next five years the Dutch government aims to have reduced noise\nlevels from the country's road surfaces by six decibels overall. Dutch\nmechanical engineer Ard Kuijpers has come up with one of the most promising,\n\nand radical, ideas. He set out to tackle the three most important factors:\nsurface texture, hardness and ability to absorb sound.\nD. The rougher the surface, the more likely it is that a tyre will vibrate and\ncreate noise. Road builders usually eliminate bumps on freshly laid asphalt\nwith heavy rollers, but Kuijpers has developed a method of road building that\nhe thinks can create the ultimate quiet road. His secret is a special mould 3\nmetres wide and 50 metres long. Hot asphalt, mixed with small stones, is\nspread into the mould by a railmounted machine which flattens the asphalt mix\nwith a roller. When it sets, the 10-millimetre-thick sheet has a surface\nsmoother than anything that can be achieved by conventional methods.\nE. To optimise the performance of his road surface - to make it hard wearing\nyet soft enough to snuff out vibrations - he then adds another layer below the\nasphalt. This consists of a 30-millimetre-thick layer of rubber, mixed with\nstones which are larger than those in the layer above. 'It's like a giant mouse\nmat, making the road softer,' says Kuijpers.\nF. The size of the stones used in the two layers is important, since they create\npores of a specific size in the road surface. Those used in the top layer are just\n4 or 5 millimetres across, while the ones below are approximately twice that\nsize - about 9 millimetres. Kuijpers says the surface can absorb any air that is\npassing through a tyre's tread (the indentations or ridges on the surface of a\ntyre), damping oscillations that would otherwise create noise. And in addition\nthey make it easier for the water to drain away, which can make the road safer\nin wet weather.\nG. Compared with the complex manufacturing process, laying the surface is\nquite simple. It emerges from the factory rolled, like a carpet, onto a drum 1.5\nmetres in diameter. On site, it is unrolled and stuck onto its foundation with\nbitumen. Even the white lines are applied in the factory.\nH. The foundation itself uses an even more sophisticated technique to reduce\nnoise further. It consists of a sound-absorbing concrete base containing flask-\nshaped slots up to 10 millimetres wide and 30 millimetres deep that are open\nat the top and sealed at the lower end. These cavities act like Helmholtz\nresonators - when sound waves of specific frequencies enter the top of a flask,\nthey set up resonances inside and the energy of the sound dissipates into the\nconcrete as heat. The cavities play another important role: they help to drain\nwater that seeps through from the upper surface. This flow will help flush out\nwaste material and keep the pores in the outer layers clear.\nI. Kuijpers can even control the sounds that his resonators absorb, simply by\naltering their dimensions. This could prove especially useful since different",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "The noise produced by busy roads is a growing problem. While vehicle"
+            "label": null,
+            "text": "Quiet roads ahead"
           },
           {
-            "label": "B",
-            "content": "According to the World Health Organization, exposure to noise from road"
+            "label": null,
+            "text": "The roar of passing vehicles could soon be a thing of the past"
           },
           {
-            "label": "C",
-            "content": "Already, researchers in the Netherlands - one of the most densely populated"
+            "label": null,
+            "text": "A. The noise produced by busy roads is a growing problem. While vehicle\ndesigners have worked hard to quieten engines, they have been less\nsuccessful elsewhere. The sound created by the tyres on the surface of the\nroad now accounts for more than half the noise that vehicles create, and as\nroad building and car sales continue to boom - particularly in Asia and the US -\nthis is turning into a global issue."
           },
           {
-            "label": "D",
-            "content": "The rougher the surface, the more likely it is that a tyre will vibrate and"
+            "label": null,
+            "text": "B. According to the World Health Organization, exposure to noise from road\ntraffic over long periods can lead to stress-related health problems. And where\ntraffic noise exceeds a certain threshold, road builders have to spend money\nerecting sound barriers and installing double glazing in blighted homes.\nHouses become harder to sell where environmental noise is high, and people\nare not as efficient or productive at work."
           },
           {
-            "label": "E",
-            "content": "To optimise the performance of his road surface - to make it hard wearing"
+            "label": null,
+            "text": "C. Already, researchers in the Netherlands - one of the most densely populated\ncountries in the world - are working to develop techniques for silencing the\nroads. In the next five years the Dutch government aims to have reduced noise\nlevels from the country's road surfaces by six decibels overall. Dutch\nmechanical engineer Ard Kuijpers has come up with one of the most promising,"
           },
           {
-            "label": "F",
-            "content": "The size of the stones used in the two layers is important, since they create"
+            "label": null,
+            "text": "and radical, ideas. He set out to tackle the three most important factors:\nsurface texture, hardness and ability to absorb sound."
           },
           {
-            "label": "G",
-            "content": "Compared with the complex manufacturing process, laying the surface is"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "vehicles produce noise at different frequencies. Car tyres peak at around 1000",
-      "questionRange": [
-        27,
-        32
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "vehicles produce noise at different frequencies. Car tyres peak at around 1000\nhertz, for example, but trucks generate lower-frequency noise at around 600\nhertz. By varying the size of the Kuijpers resonators, it is possible to control\nwhich frequencies the concrete absorbs. On large highways, trucks tend to use\nthe inside lane, so resonators here could be tuned to absorb sounds at around\n600 hertz while those in other lanes could deal with higher frequency noise\nfrom cars.\nJ. Kuijpers believes he can cut noise by five decibels compared to the quietest\nof today's roads. He has already tested a l00-metre-long section of his road on\na motorway near Apeldoorn, and Dutch construction company Heijmans is\ndiscussing the location of the next roll-out road with the country's government.\nThe success of Kuijpers' design will depend on how much it eventually costs.\nBut for those affected by traffic noise there is hope of quieter times ahead.\nQuestions 27-32\nQuestions 33-35\nReading Passage 3 has ten paragraphs labelled A-J\nWhich paragraph contains the following information?\nWrite the correct letter A-J in boxes 27-32 on your answer sheet.\n27\n  a description of the form in which Kuijpers' road surface\nis taken to its destination\n28\n  an explanation of how Kuijpers makes a smooth road\nsurface\n29\n  something that has to be considered when\nevaluating Kuijpers' proposal\n30\n  various economic reasons for reducing road noise\n31\n  a generalisation about the patterns of use of vehicles on\nmajor roads\n32\n  a summary of the different things affecting levels of\nnoise on roads\nLabel the diagram below.",
-        "tables": [
+            "label": null,
+            "text": "D. The rougher the surface, the more likely it is that a tyre will vibrate and\ncreate noise. Road builders usually eliminate bumps on freshly laid asphalt\nwith heavy rollers, but Kuijpers has developed a method of road building that\nhe thinks can create the ultimate quiet road. His secret is a special mould 3\nmetres wide and 50 metres long. Hot asphalt, mixed with small stones, is\nspread into the mould by a railmounted machine which flattens the asphalt mix\nwith a roller. When it sets, the 10-millimetre-thick sheet has a surface\nsmoother than anything that can be achieved by conventional methods."
+          },
           {
-            "page": 15,
-            "rows": [
-              [
-                "Layer",
-                "Component",
-                "Function"
-              ],
-              [
-                "upper and\nlower",
-                "stones",
-                "36\n• reduce oscillations caused by\n37\n• create pores which help"
-              ],
-              [
-                "foundation",
-                "slots",
-                "38\n• convert to heat.\n39\n• help to remove\n• can be adapted to absorb different\n40"
-              ]
-            ],
-            "header": [
-              "Layer",
-              "Component",
-              "Function"
-            ]
+            "label": null,
+            "text": "E. To optimise the performance of his road surface - to make it hard wearing\nyet soft enough to snuff out vibrations - he then adds another layer below the\nasphalt. This consists of a 30-millimetre-thick layer of rubber, mixed with\nstones which are larger than those in the layer above. 'It's like a giant mouse\nmat, making the road softer,' says Kuijpers."
+          },
+          {
+            "label": null,
+            "text": "F. The size of the stones used in the two layers is important, since they create\npores of a specific size in the road surface. Those used in the top layer are just\n4 or 5 millimetres across, while the ones below are approximately twice that\nsize - about 9 millimetres. Kuijpers says the surface can absorb any air that is\npassing through a tyre's tread (the indentations or ridges on the surface of a\ntyre), damping oscillations that would otherwise create noise. And in addition\nthey make it easier for the water to drain away, which can make the road safer\nin wet weather."
+          },
+          {
+            "label": null,
+            "text": "G. Compared with the complex manufacturing process, laying the surface is\nquite simple. It emerges from the factory rolled, like a carpet, onto a drum 1.5\nmetres in diameter. On site, it is unrolled and stuck onto its foundation with\nbitumen. Even the white lines are applied in the factory."
+          },
+          {
+            "label": null,
+            "text": "H. The foundation itself uses an even more sophisticated technique to reduce\nnoise further. It consists of a sound-absorbing concrete base containing flask-\nshaped slots up to 10 millimetres wide and 30 millimetres deep that are open\nat the top and sealed at the lower end. These cavities act like Helmholtz\nresonators - when sound waves of specific frequencies enter the top of a flask,\nthey set up resonances inside and the energy of the sound dissipates into the\nconcrete as heat. The cavities play another important role: they help to drain\nwater that seeps through from the upper surface. This flow will help flush out\nwaste material and keep the pores in the outer layers clear."
+          },
+          {
+            "label": null,
+            "text": "I. Kuijpers can even control the sounds that his resonators absorb, simply by\naltering their dimensions. This could prove especially useful since different"
+          },
+          {
+            "label": null,
+            "text": "vehicles produce noise at different frequencies. Car tyres peak at around 1000\nhertz, for example, but trucks generate lower-frequency noise at around 600\nhertz. By varying the size of the Kuijpers resonators, it is possible to control\nwhich frequencies the concrete absorbs. On large highways, trucks tend to use\nthe inside lane, so resonators here could be tuned to absorb sounds at around\n600 hertz while those in other lanes could deal with higher frequency noise\nfrom cars."
+          },
+          {
+            "label": null,
+            "text": "J. Kuijpers believes he can cut noise by five decibels compared to the quietest\nof today's roads. He has already tested a l00-metre-long section of his road on\na motorway near Apeldoorn, and Dutch construction company Heijmans is\ndiscussing the location of the next roll-out road with the country's government.\nThe success of Kuijpers' design will depend on how much it eventually costs.\nBut for those affected by traffic noise there is hope of quieter times ahead."
           }
         ],
+        "text": "Quiet roads ahead\n\nThe roar of passing vehicles could soon be a thing of the past\n\nA. The noise produced by busy roads is a growing problem. While vehicle\ndesigners have worked hard to quieten engines, they have been less\nsuccessful elsewhere. The sound created by the tyres on the surface of the\nroad now accounts for more than half the noise that vehicles create, and as\nroad building and car sales continue to boom - particularly in Asia and the US -\nthis is turning into a global issue.\n\nB. According to the World Health Organization, exposure to noise from road\ntraffic over long periods can lead to stress-related health problems. And where\ntraffic noise exceeds a certain threshold, road builders have to spend money\nerecting sound barriers and installing double glazing in blighted homes.\nHouses become harder to sell where environmental noise is high, and people\nare not as efficient or productive at work.\n\nC. Already, researchers in the Netherlands - one of the most densely populated\ncountries in the world - are working to develop techniques for silencing the\nroads. In the next five years the Dutch government aims to have reduced noise\nlevels from the country's road surfaces by six decibels overall. Dutch\nmechanical engineer Ard Kuijpers has come up with one of the most promising,\n\nand radical, ideas. He set out to tackle the three most important factors:\nsurface texture, hardness and ability to absorb sound.\n\nD. The rougher the surface, the more likely it is that a tyre will vibrate and\ncreate noise. Road builders usually eliminate bumps on freshly laid asphalt\nwith heavy rollers, but Kuijpers has developed a method of road building that\nhe thinks can create the ultimate quiet road. His secret is a special mould 3\nmetres wide and 50 metres long. Hot asphalt, mixed with small stones, is\nspread into the mould by a railmounted machine which flattens the asphalt mix\nwith a roller. When it sets, the 10-millimetre-thick sheet has a surface\nsmoother than anything that can be achieved by conventional methods.\n\nE. To optimise the performance of his road surface - to make it hard wearing\nyet soft enough to snuff out vibrations - he then adds another layer below the\nasphalt. This consists of a 30-millimetre-thick layer of rubber, mixed with\nstones which are larger than those in the layer above. 'It's like a giant mouse\nmat, making the road softer,' says Kuijpers.\n\nF. The size of the stones used in the two layers is important, since they create\npores of a specific size in the road surface. Those used in the top layer are just\n4 or 5 millimetres across, while the ones below are approximately twice that\nsize - about 9 millimetres. Kuijpers says the surface can absorb any air that is\npassing through a tyre's tread (the indentations or ridges on the surface of a\ntyre), damping oscillations that would otherwise create noise. And in addition\nthey make it easier for the water to drain away, which can make the road safer\nin wet weather.\n\nG. Compared with the complex manufacturing process, laying the surface is\nquite simple. It emerges from the factory rolled, like a carpet, onto a drum 1.5\nmetres in diameter. On site, it is unrolled and stuck onto its foundation with\nbitumen. Even the white lines are applied in the factory.\n\nH. The foundation itself uses an even more sophisticated technique to reduce\nnoise further. It consists of a sound-absorbing concrete base containing flask-\nshaped slots up to 10 millimetres wide and 30 millimetres deep that are open\nat the top and sealed at the lower end. These cavities act like Helmholtz\nresonators - when sound waves of specific frequencies enter the top of a flask,\nthey set up resonances inside and the energy of the sound dissipates into the\nconcrete as heat. The cavities play another important role: they help to drain\nwater that seeps through from the upper surface. This flow will help flush out\nwaste material and keep the pores in the outer layers clear.\n\nI. Kuijpers can even control the sounds that his resonators absorb, simply by\naltering their dimensions. This could prove especially useful since different\n\nvehicles produce noise at different frequencies. Car tyres peak at around 1000\nhertz, for example, but trucks generate lower-frequency noise at around 600\nhertz. By varying the size of the Kuijpers resonators, it is possible to control\nwhich frequencies the concrete absorbs. On large highways, trucks tend to use\nthe inside lane, so resonators here could be tuned to absorb sounds at around\n600 hertz while those in other lanes could deal with higher frequency noise\nfrom cars.\n\nJ. Kuijpers believes he can cut noise by five decibels compared to the quietest\nof today's roads. He has already tested a l00-metre-long section of his road on\na motorway near Apeldoorn, and Dutch construction company Heijmans is\ndiscussing the location of the next roll-out road with the country's government.\nThe success of Kuijpers' design will depend on how much it eventually costs.\nBut for those affected by traffic noise there is hope of quieter times ahead.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 3 has ten paragraphs labelled A-J Which paragraph contains the following information? Write the correct letter A-J in boxes 27-32 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I",
+              "J"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "Label the diagram below.",
+          "body": null,
+          "range": [
+            33,
+            35
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-practice-tests-plus-volume-2_reading-practice-test-2-v9-2145/p3g2-1.png",
+              "w": 982,
+              "h": 100
+            },
+            {
+              "src": "assets/crops/ielts-practice-tests-plus-volume-2_reading-practice-test-2-v9-2145/p3g2-2.png",
+              "w": 982,
+              "h": 391
+            }
+          ],
+          "questionNumbers": [
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "table-completion",
+          "instruction": "Complete the table below using the list of words (A-K) from the box. Write the correct letter, A-K, for each answer. Title: Kuijpers' noise-reducing road: components and function.",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": {
+            "title": "List of words",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I",
+              "J",
+              "K"
+            ],
+            "labels": [
+              "frequencies",
+              "the engine",
+              "rubbish",
+              "resonators",
+              "air flow",
+              "dissipation",
+              "sound energy",
+              "pores",
+              "lanes",
+              "drainage",
+              "sources"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a description of the form in which Kuijpers' road surface\nis taken to its destination",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "an explanation of how Kuijpers makes a smooth road\nsurface",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "something that has to be considered when\nevaluating Kuijpers' proposal",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "J",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "various economic reasons for reducing road noise",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a generalisation about the patterns of use of vehicles on\nmajor roads",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a summary of the different things affecting levels of\nnoise on roads",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "asphalt",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "9/nine",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "concrete",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "Upper and lower layer (stones): reduce oscillations caused by ___",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "Upper and lower layer (stones): create pores which help ___",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "J",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "Foundation layer (slots): convert ___ to heat",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "Foundation layer (slots): help to remove ___",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "Foundation layer (slots): can be adapted to absorb different ___",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

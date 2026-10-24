@@ -1,0 +1,15 @@
+{
+  "p2g1": {
+    "clearImages": true,
+    "instruction": "The Reading Passage has nine paragraphs A-I. Which paragraph contains the following information? Choose the correct letter A-I. NB You may use any letter more than once.",
+    "optionBank": {"title": "Paragraphs", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"], "labels": []},
+    "questions": {
+      "14": {"prompt": "examples of countries where electricity use is greater during the day than at night", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]},
+      "15": {"prompt": "a detailed description of an experiment that led to photovoltaics being promoted throughout the country", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]},
+      "16": {"prompt": "the negative effects of using conventional means of generating electricity", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]},
+      "17": {"prompt": "an explanation of the photovoltaic system.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]},
+      "18": {"prompt": "the long-term benefits of using photovoltaics", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]},
+      "19": {"prompt": "a reference to wealthy countries being prepared to help less wealthy countries have access to photovoltaics", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I"]}
+    }
+  }
+}

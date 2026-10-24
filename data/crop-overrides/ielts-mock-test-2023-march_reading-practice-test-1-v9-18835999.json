@@ -1,0 +1,88 @@
+{
+  "p1g2": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "type": "yes-no-not-given"
+    },
+    "type": "yes-no-not-given",
+    "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 7-10 on your answer sheet, write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+    "questions": {
+      "7": {
+        "prompt": "Drucker believed the employees should enjoy the same status as the employers in a company",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      "8": {
+        "prompt": "Drucker argued the managers and politicians will dominate the economy during a social transition",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      "9": {
+        "prompt": "Drucker support that workers are not simply put themselves just in the employment relationship and should develop their resources of intelligence voluntarily",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      },
+      "10": {
+        "prompt": "Drucker's work on the management is out of date in moderns days",
+        "options": [
+          "YES",
+          "NO",
+          "NOT GIVEN"
+        ]
+      }
+    }
+  },
+  "p1g3": {
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "High-rank executives and workers should be put in balanced positions in management practice",
+        "Young executives should be given chances to start from low-level jobs",
+        "More emphasis should be laid on fostering the development of the union.",
+        "Management should facilitate workers with tools of self-appraisal instead of controlling them from the outside force",
+        "Leaders should go beyond the scope of management details and strategically establish goals"
+      ]
+    }
+  },
+  "p1g4": {
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "His lectures focus too much on big organisations and ignore the small ones.",
+        "His lectures are too broad and lack of being precise and accurate about the facts.",
+        "He put a source of objectives more on corporate executives but not on average workers.",
+        "He acted much like a maverick and did not set up his own management groups",
+        "He was overstating the case for knowledge workers when warning business to get prepared."
+      ]
+    }
+  }
+}

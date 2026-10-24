@@ -1,0 +1,41 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "type": "matching-sentence-endings",
+    "instruction": "Complete each sentence with the correct ending, A-E, below. Choose the correct letter, A-E.",
+    "optionBank": {
+      "title": "Endings",
+      "options": ["A", "B", "C", "D", "E"],
+      "labels": [
+        "requires more detailed study by psychologists.",
+        "means people have no time to challenge the significance of the new technology.",
+        "may reduce inventiveness and innovation.",
+        "suggests computers will take over the workplace.",
+        "results from increased electronic supervision."
+      ]
+    },
+    "questions": {
+      "27": {"prompt": "The speed of technological changes", "options": ["A", "B", "C", "D", "E"]},
+      "28": {"prompt": "A dependency on technology and computers", "options": ["A", "B", "C", "D", "E"]},
+      "29": {"prompt": "A deterioration in personal service", "options": ["A", "B", "C", "D", "E"]}
+    }
+  },
+  "p3g2": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Look at the following statements (Questions 30-35) and the list of people below. Match each statement with the correct person or people, A, B, C, or D. Choose the correct letter, A, B, C, or D. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "List of People",
+      "options": ["A", "B", "C", "D"],
+      "labels": ["Craig Brod", "Daniel Dennett", "Joseph Boyett and Henry Conn", "Philip Nicholson"]
+    },
+    "questions": {
+      "30": {"prompt": "Technology has placed greater expectations on workers not to make mistakes.", "options": ["A", "B", "C", "D"]},
+      "31": {"prompt": "People will need time away from technology to reduce the frustrations caused by it.", "options": ["A", "B", "C", "D"]},
+      "32": {"prompt": "Interacting with others at work contributes to creative thinking.", "options": ["A", "B", "C", "D"]},
+      "33": {"prompt": "The psychological effect of working with technology is similar to the anxiety felt after surviving a major ordeal.", "options": ["A", "B", "C", "D"]},
+      "34": {"prompt": "Technology will ultimately increase unemployment for more highly qualified personnel.", "options": ["A", "B", "C", "D"]},
+      "35": {"prompt": "More counselling is required to help people cope with the demands of the modern workplace.", "options": ["A", "B", "C", "D"]}
+    }
+  }
+}

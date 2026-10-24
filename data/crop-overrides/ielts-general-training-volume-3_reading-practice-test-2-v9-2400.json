@@ -1,0 +1,144 @@
+{
+  "p1g4": {
+    "clearImages": true,
+    "instruction": "There are 5 advertisements A-E on the next page. Answer the questions below by writing the letters of the appropriate advertisements.",
+    "optionBank": {
+      "title": "Advertisements",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "Which advertisement is not for a restaurant?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "2": {
+        "prompt": "Which advertisement offer facilities for parties up to 90 people?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "3": {
+        "prompt": "Which restaurant states that it serves breakfast?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "4": {
+        "prompt": "Which restaurant will give you an extra serving if you present the coupon?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "5": {
+        "prompt": "Which restaurant does not offer a takeaway service?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "6": {
+        "prompt": "Which restaurant will bring the food you order to your house?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    },
+    "drop": true,
+    "ifNumbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        31
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the subject from the list below and write its letter, A-F, in box 31 on your answer sheet.",
+    "questions": {
+      "31": {
+        "prompt": "Three of the courses specifically cover the same subject.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "optionLabels": [
+          "Writing skills",
+          "Computers",
+          "Business Communication",
+          "Finance",
+          "Work goals",
+          "Management"
+        ]
+      }
+    }
+  },
+  "p1g5": {
+    "drop": true,
+    "ifNumbers": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "p1g6": {
+    "drop": true,
+    "ifNumbers": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  }
+}

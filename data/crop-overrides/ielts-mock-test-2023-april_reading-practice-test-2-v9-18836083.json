@@ -1,0 +1,85 @@
+{
+  "p2g4": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        25,
+        26,
+        27
+      ],
+      "type": "sentence-completion"
+    },
+    "type": "sentence-completion",
+    "instruction": "Complete the following summary of the paragraphs of Reading Passage 3, using NO MORE THAN TWO WORDS from the Reading Passage for each answer. Write your answers in boxes 25-27 on your answer sheet.",
+    "body": "TV is becoming a worldwide [[25]]. Some people love it and spend a great deal of time watching it. According to some surveys, a small group even claim themselves as [[26]]. One researcher believes that this attraction comes from our human instinct, described as [[27]] which is built in part of our physiological evolution."
+  },
+  "p2g3": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Look at the following researchers (Questions 22-24) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-G in boxes 22-24 on your answer sheets.",
+    "optionBank": {
+      "title": "List of Statements",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "labels": [
+        "It is the specific media formal characteristic that counts.",
+        "TV distraction shows human physical reaction to a new and prompted stimulus",
+        "Conveying information is the most important thing.",
+        "It is hard to ignore the effects of TV.",
+        "Whether people can remember deeper of the content relates with the format.",
+        "The heart rate remains stable when watching.",
+        "Clinically reliance on TV does not meet the criteria of an addiction."
+      ]
+    },
+    "questions": {
+      "22": {
+        "prompt": "Percy Tannenbaum",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "23": {
+        "prompt": "Ivan Pavlov",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "24": {
+        "prompt": "Byron Reeves and Esther Thorson",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "19": "A,C,D",
+    "20": "A,C,D",
+    "21": "A,C,D"
+  }
+}

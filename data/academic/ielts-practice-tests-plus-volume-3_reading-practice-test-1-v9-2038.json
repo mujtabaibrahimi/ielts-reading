@@ -1,221 +1,1091 @@
 {
   "id": "ielts-practice-tests-plus-volume-3_reading-practice-test-1-v9-2038",
   "type": "academic",
-  "source": "ielts-practice-tests-plus-volume-3 reading-practice-test-1-v9-2038",
+  "title": "IELTS Practice Tests Plus Volume 3 - Reading Test 1",
+  "collection": "IELTS Practice Tests Plus Volume 3",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-tests-plus-volume-3_reading-practice-test-1-v9-2038.pdf",
-  "total_questions": 0,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Reducing electricity consumption on the",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13. which are based on\nReading Passage 1 below.\nReducing electricity consumption on the\nIsle of Eigg\nBackground\nThe Isle of Eigg is situated off the West Coast of Scotland, and is reached by\nferry from the mainland. For the island community of about a hundred\nresidents, it has always been expensive to import products, materials and\nskilled labour from the mainland, and this has encouraged a culture of self-\nsufficiency and careful use of resources. Today, although the island now has\nmost modern conveniences, CO2 emissions per household are 20 percent\nlower than the UK average, and electricity use is 50 percent lower.\nWhen Eigg designed its electricity grid, which was switched on in February\n2008, it quickly became apparent that in order to keep the capital building\ncosts down, it would be necessary to manage demand. This would also allow\nthe island to generate most of its electricity from renewable sources, mainly\nwater, wind and solar power. This goal was overseen by the Eigg Heritage Trust\n(EHT).\nThe technology\nEigg manages electricity demand mainly by capping the instantaneous power\nthat can be used to five kilowatts (kW) for a household and ten kW for a\nbusiness. If usage goes over the limit, the electricity supply is cut off and the\nmaintenance team must be called to come and switch it back on again. All\n\nhouseholds and businesses have energy monitors, which display current and\ncumulative electricity usage, and sound an alarm when consumption reaches a\nuser-defined level, usually set a few hundred watts below the actual limit. The\nresult is that Eigg residents have a keen sense of how much power different\nelectrical appliances use, and are careful to minimise energy consumption.\nDemand is also managed by warning the entire island when renewable energy\ngeneration is lower than demand, and diesel generators are operating to back\nit up - a so-called ‘red light day’, as opposed to ‘green light days’ when there is\nsufficient renewable energy. Residents then take steps to temporarily reduce\nelectricity demand further still, or postpone demand until renewable energy\ngeneration has increased.\nEnergy use on the island has also been reduced through improved wall and loft\ninsulation in homes, new boilers, solar water heating, car​sharing and various\nsmall, energy-saving measures in households. New energy supplies are being\ndeveloped, including sustainably harvested forests to supply wood for heating.\nEigg Heritage Trust has installed insulation in all of its own properties at no cost\nto the tenants, while private properties have paid for their own insulation to be\ninstalled. The same applies for installations of solar water heating, although not\nall Trust properties have received this as yet. The Trust also operates a Green\nGrants scheme, where residents can claim 50 percent of the cost of equipment\nto reduce carbon emissions, up to a limit of £300. Purchases included bikes,\nsolar water heating, secondary glazing, thicker curtains, and greenhouses to\ngrow food locally, rather than importing it.\nEnvironmental benefits\nPrior to the installation of the new electricity grid and renewable energy\ngeneration, most households on Eigg used-diesel generators to supply\nelectricity, resulting in significant carbon emissions. Homes were also poorly\ninsulated and had old, inefficient oil-burning boilers, or used coal for heating.\nThe work by the Eigg Heritage Trust to reduce energy use has resulted in\nsignificant reductions in carbon emissions from the island’s households and\nbusinesses. The average annual electricity use per household is just 2,160\nkilowatt hours (kWh), compared to a UK average in 2008 of 4,198 kWh.\nDomestic carbon emissions have fallen by 47 percent, from 8.4 to 4.45 tonnes\nper year. This compares to average UK household emissions of 5.5 to 6 tonnes\nper year. The emissions should fall even further over the next few years as the\nsupply of wood for heating increases.\nSocial benefits\n\nThe completion of Eigg’s electricity grid has made a significant difference to the\nisland’s residents, freeing them from dependence on diesel generators and\nproviding them with a stable and affordable power supply. A reliable electricity\nsupply has brought improvements in other areas, for example, better\ntreatment of drinking water in some houses, and the elimination of the\nconstant noise of diesel generators. Improved home insulation and heating has\nalso yielded benefits, making it more affordable to keep homes at a\ncomfortable temperature. One of the incentives for capping electricity use,\nrather than charging different amounts according to usage, was to make\naccess to energy equitable. Every household has the same five kW cap,\nirrespective of income, so distributing the available resources equally across\nthe island’s population.\nEconomic and employment benefits\nEigg’s electricity grid supports four part-time maintenance jobs on the island,\nand residents have also been employed for building work to improve Trust-\nowned houses and other buildings. Likewise, the start of organised harvesting\nof wood for heating has created several forestry jobs for residents. A part-time\n‘green project manager’ post has also been created. A wider economic impact\nhas come from having a reliable and affordable electricity supply, which has\nenabled several new businesses to start up, including restaurants, shops, guest\nhouses and self-catering accommodation. As Eigg has become known for\ncutting carbon emissions and protecting the environment, an increasing\nnumber of visitors have come to the island to learn about its work, bringing a\nfurther economic benefit to the residents.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Reducing electricity consumption on the\nIsle of Eigg"
+          },
+          {
+            "label": null,
+            "text": "Background"
+          },
+          {
+            "label": null,
+            "text": "The Isle of Eigg is situated off the West Coast of Scotland, and is reached by\nferry from the mainland. For the island community of about a hundred\nresidents, it has always been expensive to import products, materials and\nskilled labour from the mainland, and this has encouraged a culture of self-\nsufficiency and careful use of resources. Today, although the island now has\nmost modern conveniences, CO2 emissions per household are 20 percent\nlower than the UK average, and electricity use is 50 percent lower."
+          },
+          {
+            "label": null,
+            "text": "When Eigg designed its electricity grid, which was switched on in February\n2008, it quickly became apparent that in order to keep the capital building\ncosts down, it would be necessary to manage demand. This would also allow\nthe island to generate most of its electricity from renewable sources, mainly\nwater, wind and solar power. This goal was overseen by the Eigg Heritage Trust\n(EHT)."
+          },
+          {
+            "label": null,
+            "text": "The technology"
+          },
+          {
+            "label": null,
+            "text": "Eigg manages electricity demand mainly by capping the instantaneous power\nthat can be used to five kilowatts (kW) for a household and ten kW for a\nbusiness. If usage goes over the limit, the electricity supply is cut off and the\nmaintenance team must be called to come and switch it back on again. All"
+          },
+          {
+            "label": null,
+            "text": "households and businesses have energy monitors, which display current and\ncumulative electricity usage, and sound an alarm when consumption reaches a\nuser-defined level, usually set a few hundred watts below the actual limit. The\nresult is that Eigg residents have a keen sense of how much power different\nelectrical appliances use, and are careful to minimise energy consumption."
+          },
+          {
+            "label": null,
+            "text": "Demand is also managed by warning the entire island when renewable energy\ngeneration is lower than demand, and diesel generators are operating to back\nit up - a so-called 'red light day', as opposed to 'green light days' when there is\nsufficient renewable energy. Residents then take steps to temporarily reduce\nelectricity demand further still, or postpone demand until renewable energy\ngeneration has increased."
+          },
+          {
+            "label": null,
+            "text": "Energy use on the island has also been reduced through improved wall and loft\ninsulation in homes, new boilers, solar water heating, carsharing and various\nsmall, energy-saving measures in households. New energy supplies are being\ndeveloped, including sustainably harvested forests to supply wood for heating."
+          },
+          {
+            "label": null,
+            "text": "Eigg Heritage Trust has installed insulation in all of its own properties at no cost\nto the tenants, while private properties have paid for their own insulation to be\ninstalled. The same applies for installations of solar water heating, although not\nall Trust properties have received this as yet. The Trust also operates a Green\nGrants scheme, where residents can claim 50 percent of the cost of equipment\nto reduce carbon emissions, up to a limit of £300. Purchases included bikes,\nsolar water heating, secondary glazing, thicker curtains, and greenhouses to\ngrow food locally, rather than importing it."
+          },
+          {
+            "label": null,
+            "text": "Environmental benefits"
+          },
+          {
+            "label": null,
+            "text": "Prior to the installation of the new electricity grid and renewable energy\ngeneration, most households on Eigg used-diesel generators to supply\nelectricity, resulting in significant carbon emissions. Homes were also poorly\ninsulated and had old, inefficient oil-burning boilers, or used coal for heating."
+          },
+          {
+            "label": null,
+            "text": "The work by the Eigg Heritage Trust to reduce energy use has resulted in\nsignificant reductions in carbon emissions from the island's households and\nbusinesses. The average annual electricity use per household is just 2,160\nkilowatt hours (kWh), compared to a UK average in 2008 of 4,198 kWh.\nDomestic carbon emissions have fallen by 47 percent, from 8.4 to 4.45 tonnes\nper year. This compares to average UK household emissions of 5.5 to 6 tonnes\nper year. The emissions should fall even further over the next few years as the\nsupply of wood for heating increases."
+          },
+          {
+            "label": null,
+            "text": "Social benefits"
+          },
+          {
+            "label": null,
+            "text": "The completion of Eigg's electricity grid has made a significant difference to the\nisland's residents, freeing them from dependence on diesel generators and\nproviding them with a stable and affordable power supply. A reliable electricity\nsupply has brought improvements in other areas, for example, better\ntreatment of drinking water in some houses, and the elimination of the\nconstant noise of diesel generators. Improved home insulation and heating has\nalso yielded benefits, making it more affordable to keep homes at a\ncomfortable temperature. One of the incentives for capping electricity use,\nrather than charging different amounts according to usage, was to make\naccess to energy equitable. Every household has the same five kW cap,\nirrespective of income, so distributing the available resources equally across\nthe island's population."
+          },
+          {
+            "label": null,
+            "text": "Economic and employment benefits"
+          },
+          {
+            "label": null,
+            "text": "Eigg's electricity grid supports four part-time maintenance jobs on the island,\nand residents have also been employed for building work to improve Trust-\nowned houses and other buildings. Likewise, the start of organised harvesting\nof wood for heating has created several forestry jobs for residents. A part-time\n'green project manager' post has also been created. A wider economic impact\nhas come from having a reliable and affordable electricity supply, which has\nenabled several new businesses to start up, including restaurants, shops, guest\nhouses and self-catering accommodation. As Eigg has become known for\ncutting carbon emissions and protecting the environment, an increasing\nnumber of visitors have come to the island to learn about its work, bringing a\nfurther economic benefit to the residents."
+          }
+        ],
+        "text": "Reducing electricity consumption on the\nIsle of Eigg\n\nBackground\n\nThe Isle of Eigg is situated off the West Coast of Scotland, and is reached by\nferry from the mainland. For the island community of about a hundred\nresidents, it has always been expensive to import products, materials and\nskilled labour from the mainland, and this has encouraged a culture of self-\nsufficiency and careful use of resources. Today, although the island now has\nmost modern conveniences, CO2 emissions per household are 20 percent\nlower than the UK average, and electricity use is 50 percent lower.\n\nWhen Eigg designed its electricity grid, which was switched on in February\n2008, it quickly became apparent that in order to keep the capital building\ncosts down, it would be necessary to manage demand. This would also allow\nthe island to generate most of its electricity from renewable sources, mainly\nwater, wind and solar power. This goal was overseen by the Eigg Heritage Trust\n(EHT).\n\nThe technology\n\nEigg manages electricity demand mainly by capping the instantaneous power\nthat can be used to five kilowatts (kW) for a household and ten kW for a\nbusiness. If usage goes over the limit, the electricity supply is cut off and the\nmaintenance team must be called to come and switch it back on again. All\n\nhouseholds and businesses have energy monitors, which display current and\ncumulative electricity usage, and sound an alarm when consumption reaches a\nuser-defined level, usually set a few hundred watts below the actual limit. The\nresult is that Eigg residents have a keen sense of how much power different\nelectrical appliances use, and are careful to minimise energy consumption.\n\nDemand is also managed by warning the entire island when renewable energy\ngeneration is lower than demand, and diesel generators are operating to back\nit up - a so-called 'red light day', as opposed to 'green light days' when there is\nsufficient renewable energy. Residents then take steps to temporarily reduce\nelectricity demand further still, or postpone demand until renewable energy\ngeneration has increased.\n\nEnergy use on the island has also been reduced through improved wall and loft\ninsulation in homes, new boilers, solar water heating, carsharing and various\nsmall, energy-saving measures in households. New energy supplies are being\ndeveloped, including sustainably harvested forests to supply wood for heating.\n\nEigg Heritage Trust has installed insulation in all of its own properties at no cost\nto the tenants, while private properties have paid for their own insulation to be\ninstalled. The same applies for installations of solar water heating, although not\nall Trust properties have received this as yet. The Trust also operates a Green\nGrants scheme, where residents can claim 50 percent of the cost of equipment\nto reduce carbon emissions, up to a limit of £300. Purchases included bikes,\nsolar water heating, secondary glazing, thicker curtains, and greenhouses to\ngrow food locally, rather than importing it.\n\nEnvironmental benefits\n\nPrior to the installation of the new electricity grid and renewable energy\ngeneration, most households on Eigg used-diesel generators to supply\nelectricity, resulting in significant carbon emissions. Homes were also poorly\ninsulated and had old, inefficient oil-burning boilers, or used coal for heating.\n\nThe work by the Eigg Heritage Trust to reduce energy use has resulted in\nsignificant reductions in carbon emissions from the island's households and\nbusinesses. The average annual electricity use per household is just 2,160\nkilowatt hours (kWh), compared to a UK average in 2008 of 4,198 kWh.\nDomestic carbon emissions have fallen by 47 percent, from 8.4 to 4.45 tonnes\nper year. This compares to average UK household emissions of 5.5 to 6 tonnes\nper year. The emissions should fall even further over the next few years as the\nsupply of wood for heating increases.\n\nSocial benefits\n\nThe completion of Eigg's electricity grid has made a significant difference to the\nisland's residents, freeing them from dependence on diesel generators and\nproviding them with a stable and affordable power supply. A reliable electricity\nsupply has brought improvements in other areas, for example, better\ntreatment of drinking water in some houses, and the elimination of the\nconstant noise of diesel generators. Improved home insulation and heating has\nalso yielded benefits, making it more affordable to keep homes at a\ncomfortable temperature. One of the incentives for capping electricity use,\nrather than charging different amounts according to usage, was to make\naccess to energy equitable. Every household has the same five kW cap,\nirrespective of income, so distributing the available resources equally across\nthe island's population.\n\nEconomic and employment benefits\n\nEigg's electricity grid supports four part-time maintenance jobs on the island,\nand residents have also been employed for building work to improve Trust-\nowned houses and other buildings. Likewise, the start of organised harvesting\nof wood for heating has created several forestry jobs for residents. A part-time\n'green project manager' post has also been created. A wider economic impact\nhas come from having a reliable and affordable electricity supply, which has\nenabled several new businesses to start up, including restaurants, shops, guest\nhouses and self-catering accommodation. As Eigg has become known for\ncutting carbon emissions and protecting the environment, an increasing\nnumber of visitors have come to the island to learn about its work, bringing a\nfurther economic benefit to the residents.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 8-13",
-      "questionRange": [
-        8,
-        13
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Approximately how many people live on Eigg?",
+          "body": "[[1]] What proportion of a UK household's electricity consumption does an Eigg household consume? [[2]] Apart from wind and sun, where does most of Eigg's electricity come from? [[3]] What device measures the amount of electricity Eigg's households are using? [[4]] When renewable energy supplies are insufficient, what backs them up? [[5]] What has EHT provided free of charge in all the houses it owns? [[6]] Which gardening aid did some Eigg inhabitants claim grants for? [[7]]",
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            8,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 8-13\n3\nWhat device measures the amount of electricity Eigg’s households are\nusing?\n4\nWhen renewable energy supplies are insufficient, what backs them up?\n5\nWhat has EHT provided free of charge in all the houses it owns?\n6\nWhich gardening aid did some Eigg inhabitants claim grants for?\n7\nDo the following statements agree with the information given in Reading\nPassage 1? Write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n8\n       Electricity was available for the first time on Eigg\nwhen a new grid was switched on.\n9\n       Eigg’s carbon emissions are now much lower than\nbefore.\n10\n     Wood will soon be the main source of heating on\nEigg.\n11\n     Eigg is quieter as a result of having a new electricity\nsupply.\n12\n     Well-off households pay higher prices for the use of\nextra electricity.\n13\n     The new electricity grid has created additional\nemployment opportunities on Eigg.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "100/a hundred",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "50%/50 percent",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(mainly) water",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "energy monitors",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "diesel generators",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "insulation",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "greenhouses",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Electricity was available for the first time on Eigg",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Eigg's carbon emissions are now much lower than",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Wood will soon be the main source of heating on\nEigg.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Eigg is quieter as a result of having a new electricity\nsupply.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Well-off households pay higher prices for the use of\nextra electricity.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "The new electricity grid has created additional\nemployment opportunities on Eigg.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Change in business organisations",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below:\nChange in business organisations\nA The forces that operate to bring about change in organisations can be\nthought of as winds which are many and varied - from small summer breezes\nthat merely disturb a few papers, to mighty howling gales which cause\ndevastation to structures and operations, causing consequent reorientation of\npurpose and rebuilding. Sometimes, however, the winds die down to give\nperiods of relative calm, periods of relative organisational stability. Such a\nperiod was the agricultural age, which Goodman (1995) maintains prevailed in\nEurope and western societies as a whole until the early 1700s. During this\nperiod, wealth was created in the context of an agriculturally based society\ninfluenced mainly by local markets (both customer and labour) and factors\noutside people’s control, such as the weather. During this time, people could\nfairly well predict the cycle of activities required to maintain life, even if that\nlife might be at little more than subsistence level.\nB To maintain the meteorological metaphor, stronger winds of change blew to\nbring in the Industrial Revolution and the industrial age. Again, according to\nGoodman, this lasted for a long time, until around 1945. It was characterised\nby a series of inventions and innovations that reduced the number of people\nneeded to work the land and, in turn, provided the means of production of\nhitherto rarely obtainable goods; for organisations, supplying these in ever\nincreasing numbers became the aim. To a large extent, demand and supply\nwere predictable, enabling . companies to structure their organisations along\nwhat Burns and Stalker (1966) described as mechanistic lines, that is as\n\nsystems of strict hierarchical structures and firm means of control.\nC This situation prevailed for some time, with demand still coming mainly from\nthe domestic market and organisations striving to fill the ‘supply gap’. Thus the\nmost disturbing environmental influence on organisations of this time was the\ndemand for products, which outstripped supply. The saying attributed to Henry\nFord that ‘You can have any colour of car so long as it is black’, gives a flavour\nof the supply-led state of the market. Apart from any technical difficulties of\nproducing different colours of car, Ford did not have to worry about customers’\ncolour preferences: he could sell all that he made. Organisations of this period\ncan be regarded as ‘task-oriented’, with effort being put into increasing\nproduction through more effective and efficient production processes.\nD As time passed, this favourable period for organisations began to decline. In\nthe neo-industrial age, people became more discriminating in the goods and\nservices they wished to buy and, as technological advancements brought about\nincreased productivity, supply overtook demand. Companies began,\nincreasingly, to look abroad for additional markets.\nE At the same time, organisations faced more intensive competition from\nabroad for their own products and services. In the West, this development was\naccompanied by a shift in focus from manufacturing to service, whether this\nmerely added value to manufactured products, or whether it was service in-its\nown right. In the neo-industrial age of western countries, the emphasis moved\ntowards adding value to goods and services - what Goodman calls the value-\noriented time, as contrasted with the task- oriented and products/services-\noriented times of the past.\nF Today, in the post-industrial age, most people agree that organisational life is\nbecoming ever more uncertain, as the pace of change quickens and the future\nbecomes less predictable. Writing in 1999, Nadler and Tushman, two US\nacademics, said: ‘Poised on the eve of the next century, we are witnessing a\nprofound transformation in the very nature of our business organisations.\nHistoric forces have converged to fundamentally reshape the scope, strategies,\nand structures of large enterprises.’ At a less general level of analysis, Graeme\nLeach, Chief Economist at the British Institute of Directors, claimed in the\nGuardian newspaper (2000) that: ‘By 2020, the nine-to-five rat race will be\nextinct and present levels of self-employment, commuting and technology use,\nas well as age and sex gaps, will have changed beyond recognition.’ According\nto the article, Leach anticipates that: ‘In 20 years time, 20-25 percent of the\nworkforce will be temporary workers and many more will be flexible, ... 25\npercent of people will no longer work in a traditional office and ... 50 percent\nwill work from home in some form.’ Continuing to use the ‘winds of change’",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "The forces that operate to bring about change in organisations can be"
+            "label": null,
+            "text": "Change in business organisations"
           },
           {
-            "label": "B",
-            "content": "To maintain the meteorological metaphor, stronger winds of change blew to"
+            "label": null,
+            "text": "A The forces that operate to bring about change in organisations can be\nthought of as winds which are many and varied - from small summer breezes\nthat merely disturb a few papers, to mighty howling gales which cause\ndevastation to structures and operations, causing consequent reorientation of\npurpose and rebuilding. Sometimes, however, the winds die down to give\nperiods of relative calm, periods of relative organisational stability. Such a\nperiod was the agricultural age, which Goodman (1995) maintains prevailed in\nEurope and western societies as a whole until the early 1700s. During this\nperiod, wealth was created in the context of an agriculturally based society\ninfluenced mainly by local markets (both customer and labour) and factors\noutside people's control, such as the weather. During this time, people could\nfairly well predict the cycle of activities required to maintain life, even if that\nlife might be at little more than subsistence level."
           },
           {
-            "label": "C",
-            "content": "This situation prevailed for some time, with demand still coming mainly from"
+            "label": null,
+            "text": "B To maintain the meteorological metaphor, stronger winds of change blew to\nbring in the Industrial Revolution and the industrial age. Again, according to\nGoodman, this lasted for a long time, until around 1945. It was characterised\nby a series of inventions and innovations that reduced the number of people\nneeded to work the land and, in turn, provided the means of production of\nhitherto rarely obtainable goods; for organisations, supplying these in ever\nincreasing numbers became the aim. To a large extent, demand and supply\nwere predictable, enabling . companies to structure their organisations along\nwhat Burns and Stalker (1966) described as mechanistic lines, that is as"
           },
           {
-            "label": "D",
-            "content": "As time passed, this favourable period for organisations began to decline. In"
+            "label": null,
+            "text": "systems of strict hierarchical structures and firm means of control."
           },
           {
-            "label": "E",
-            "content": "At the same time, organisations faced more intensive competition from"
+            "label": null,
+            "text": "C This situation prevailed for some time, with demand still coming mainly from\nthe domestic market and organisations striving to fill the 'supply gap'. Thus the\nmost disturbing environmental influence on organisations of this time was the\ndemand for products, which outstripped supply. The saying attributed to Henry\nFord that 'You can have any colour of car so long as it is black', gives a flavour\nof the supply-led state of the market. Apart from any technical difficulties of\nproducing different colours of car, Ford did not have to worry about customers'\ncolour preferences: he could sell all that he made. Organisations of this period\ncan be regarded as 'task-oriented', with effort being put into increasing\nproduction through more effective and efficient production processes."
           },
           {
-            "label": "F",
-            "content": "Today, in the post-industrial age, most people agree that organisational life is"
+            "label": null,
+            "text": "D As time passed, this favourable period for organisations began to decline. In\nthe neo-industrial age, people became more discriminating in the goods and\nservices they wished to buy and, as technological advancements brought about\nincreased productivity, supply overtook demand. Companies began,\nincreasingly, to look abroad for additional markets."
+          },
+          {
+            "label": null,
+            "text": "E At the same time, organisations faced more intensive competition from\nabroad for their own products and services. In the West, this development was\naccompanied by a shift in focus from manufacturing to service, whether this\nmerely added value to manufactured products, or whether it was service in-its\nown right. In the neo-industrial age of western countries, the emphasis moved\ntowards adding value to goods and services - what Goodman calls the value-\noriented time, as contrasted with the task- oriented and products/services-\noriented times of the past."
+          },
+          {
+            "label": null,
+            "text": "F Today, in the post-industrial age, most people agree that organisational life is\nbecoming ever more uncertain, as the pace of change quickens and the future\nbecomes less predictable. Writing in 1999, Nadler and Tushman, two US\nacademics, said: 'Poised on the eve of the next century, we are witnessing a\nprofound transformation in the very nature of our business organisations.\nHistoric forces have converged to fundamentally reshape the scope, strategies,\nand structures of large enterprises.' At a less general level of analysis, Graeme\nLeach, Chief Economist at the British Institute of Directors, claimed in the\nGuardian newspaper (2000) that: 'By 2020, the nine-to-five rat race will be\nextinct and present levels of self-employment, commuting and technology use,\nas well as age and sex gaps, will have changed beyond recognition.' According\nto the article, Leach anticipates that: 'In 20 years time, 20-25 percent of the\nworkforce will be temporary workers and many more will be flexible, ... 25\npercent of people will no longer work in a traditional office and ... 50 percent\nwill work from home in some form.' Continuing to use the 'winds of change'"
+          },
+          {
+            "label": null,
+            "text": "metaphor, the expectation's of damaging gale-force winds bringing the need\nfor rebuilding that takes the opportunity to incorporate new ideas and ways of\ndoing things."
+          },
+          {
+            "label": null,
+            "text": "G Whether all this will happen is arguable. Forecasting the future is always\nfraught with difficulties. For instance, Mannermann (1998) sees future studies\nas part art and part science and notes: 'The future is full of surprises,\nuncertainty, trends and trend breaks, irrationality and rationality, and it is\nchanging and escaping from our hands as time goes by. It is also the result of\nactions made by innumerable more or less powerful forces.' What seems\ncertain is that the organisational world is changing at a fast rate - even if the\ndirection of change is not always predictable. Consequently, it is crucial that\norganisational managers and decision makers are aware of, and able to\nanalyse the factors which trigger organisational change."
           }
-        ]
+        ],
+        "text": "Change in business organisations\n\nA The forces that operate to bring about change in organisations can be\nthought of as winds which are many and varied - from small summer breezes\nthat merely disturb a few papers, to mighty howling gales which cause\ndevastation to structures and operations, causing consequent reorientation of\npurpose and rebuilding. Sometimes, however, the winds die down to give\nperiods of relative calm, periods of relative organisational stability. Such a\nperiod was the agricultural age, which Goodman (1995) maintains prevailed in\nEurope and western societies as a whole until the early 1700s. During this\nperiod, wealth was created in the context of an agriculturally based society\ninfluenced mainly by local markets (both customer and labour) and factors\noutside people's control, such as the weather. During this time, people could\nfairly well predict the cycle of activities required to maintain life, even if that\nlife might be at little more than subsistence level.\n\nB To maintain the meteorological metaphor, stronger winds of change blew to\nbring in the Industrial Revolution and the industrial age. Again, according to\nGoodman, this lasted for a long time, until around 1945. It was characterised\nby a series of inventions and innovations that reduced the number of people\nneeded to work the land and, in turn, provided the means of production of\nhitherto rarely obtainable goods; for organisations, supplying these in ever\nincreasing numbers became the aim. To a large extent, demand and supply\nwere predictable, enabling . companies to structure their organisations along\nwhat Burns and Stalker (1966) described as mechanistic lines, that is as\n\nsystems of strict hierarchical structures and firm means of control.\n\nC This situation prevailed for some time, with demand still coming mainly from\nthe domestic market and organisations striving to fill the 'supply gap'. Thus the\nmost disturbing environmental influence on organisations of this time was the\ndemand for products, which outstripped supply. The saying attributed to Henry\nFord that 'You can have any colour of car so long as it is black', gives a flavour\nof the supply-led state of the market. Apart from any technical difficulties of\nproducing different colours of car, Ford did not have to worry about customers'\ncolour preferences: he could sell all that he made. Organisations of this period\ncan be regarded as 'task-oriented', with effort being put into increasing\nproduction through more effective and efficient production processes.\n\nD As time passed, this favourable period for organisations began to decline. In\nthe neo-industrial age, people became more discriminating in the goods and\nservices they wished to buy and, as technological advancements brought about\nincreased productivity, supply overtook demand. Companies began,\nincreasingly, to look abroad for additional markets.\n\nE At the same time, organisations faced more intensive competition from\nabroad for their own products and services. In the West, this development was\naccompanied by a shift in focus from manufacturing to service, whether this\nmerely added value to manufactured products, or whether it was service in-its\nown right. In the neo-industrial age of western countries, the emphasis moved\ntowards adding value to goods and services - what Goodman calls the value-\noriented time, as contrasted with the task- oriented and products/services-\noriented times of the past.\n\nF Today, in the post-industrial age, most people agree that organisational life is\nbecoming ever more uncertain, as the pace of change quickens and the future\nbecomes less predictable. Writing in 1999, Nadler and Tushman, two US\nacademics, said: 'Poised on the eve of the next century, we are witnessing a\nprofound transformation in the very nature of our business organisations.\nHistoric forces have converged to fundamentally reshape the scope, strategies,\nand structures of large enterprises.' At a less general level of analysis, Graeme\nLeach, Chief Economist at the British Institute of Directors, claimed in the\nGuardian newspaper (2000) that: 'By 2020, the nine-to-five rat race will be\nextinct and present levels of self-employment, commuting and technology use,\nas well as age and sex gaps, will have changed beyond recognition.' According\nto the article, Leach anticipates that: 'In 20 years time, 20-25 percent of the\nworkforce will be temporary workers and many more will be flexible, ... 25\npercent of people will no longer work in a traditional office and ... 50 percent\nwill work from home in some form.' Continuing to use the 'winds of change'\n\nmetaphor, the expectation's of damaging gale-force winds bringing the need\nfor rebuilding that takes the opportunity to incorporate new ideas and ways of\ndoing things.\n\nG Whether all this will happen is arguable. Forecasting the future is always\nfraught with difficulties. For instance, Mannermann (1998) sees future studies\nas part art and part science and notes: 'The future is full of surprises,\nuncertainty, trends and trend breaks, irrationality and rationality, and it is\nchanging and escaping from our hands as time goes by. It is also the result of\nactions made by innumerable more or less powerful forces.' What seems\ncertain is that the organisational world is changing at a fast rate - even if the\ndirection of change is not always predictable. Consequently, it is crucial that\norganisational managers and decision makers are aware of, and able to\nanalyse the factors which trigger organisational change.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "metaphor, the expectation's of damaging gale-force winds bringing the need",
-      "questionRange": [
-        14,
-        18
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 2 has SEVEN paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G.",
+          "body": null,
+          "range": [
+            14,
+            18
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C.",
+          "body": null,
+          "range": [
+            19,
+            23
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "The agricultural age.",
+              "The industrial age.",
+              "The neo-industrial age."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Businesses in the 21st century It is generally agreed that changes are taking place more quickly now, and that organisations are being transformed. One leading economist suggested that by 2020, up to a quarter of employees would be",
+          "body": "[[24]] and half of all employees would be based in the [[25]] . Although predictions can be wrong, the speed of change is not in doubt, and business leaders need to understand the [[26]] that will be influential.",
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "metaphor, the expectation's of damaging gale-force winds bringing the need\nfor rebuilding that takes the opportunity to incorporate new ideas and ways of\ndoing things.\nG Whether all this will happen is arguable. Forecasting the future is always\nfraught with difficulties. For instance, Mannermann (1998) sees future studies\nas part art and part science and notes: ‘The future is full of surprises,\nuncertainty, trends and trend breaks, irrationality and rationality, and it is\nchanging and escaping from our hands as time goes by. It is also the result of\nactions made by innumerable more or less powerful forces.’ What seems\ncertain is that the organisational world is changing at a fast rate - even if the\ndirection of change is not always predictable. Consequently, it is crucial that\norganisational managers and decision makers are aware of, and able to\nanalyse the factors which trigger organisational change.\nQuestions 14-18\nQuestions 19-23\nReading Passage 2 has SEVEN paragraphs, A-G.\nWhich paragraph contains the following information?\nWrite the correct letter, A-G.\n14\n some specific predictions about businesses and working\npractices\n15\n  reference to the way company employees were usually\nmanaged\n16\n  a warning for business leaders\n17\n the description of an era notable for the relative absence\nof change \n18\n  a reason why customer satisfaction was not a high\npriority",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "G",
-            "content": "Whether all this will happen is arguable. Forecasting the future is always"
-          }
-        ]
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "some specific predictions about businesses and working\npractices",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "reference to the way company employees were usually\nmanaged",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "a warning for business leaders",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "the description of an era notable for the relative absence\nof change",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "a reason why customer satisfaction was not a high\npriority",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "a surplus of goods.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "an emphasis on production quantity.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "the proximity of consumers to workplaces.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "a focus on the quality of goods.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "new products and new ways of working.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "and half of all employees would be based in the 25\n .\nAlthough predictions can be wrong, the speed of change is not in doubt,",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "temporary",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "home",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "factors",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "The creation of lasting memories",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nThe creation of lasting memories\nMany studies of the brain processes underlying the creation of memory\nconsolidation (lasting memories) have involved giving various human and\nanimal subjects treatment, while training them to perform a task. These have\ncontributed greatly to our understanding.\nIn pioneering studies using goldfish, Bernard Agranoff found that protein\nsynthesis inhibitors injected after training caused the goldfish to forget what\nthey had learned. In other experiments, he administered protein synthesis\ninhibitors immediately before the fish were trained. The remarkable finding was\nthat the fish learned the task completely normally, but forgot it within a few\nhours - that is, the protein synthesis inhibitors blocked memory consolidation,\nbut did not influence short-term memory.\nThere is now extensive evidence that short-term memory is spared by many\nkinds of treatments, including electro-convulsive therapy (ECT), that block\nmemory consolidation. On the other hand, and equally importantly,\nneuroscientist Ivan Izquierdo found that many drug treatments can block short-\nterm memory without blocking memory consolidation. Contrary to the\nhypothesis put forward by Canadian psychologist Donald Hebb, in 1949, long-\nterm memory does not require short-term memory, and vice versa.\nSuch findings suggest that our experiences create parallel, and possibly\nindependent stages of memory, .each with a different life span. All of this\nevidence from clinical and experimental studies strongly indicates that the\n\nbrain handles recent and remote memory in different ways; but why does it do\nthat?\nWe obviously need to have memory that is created rapidly: reacting to an ever\nand rapidly changing environment requires that. For example, most current\nbuilding codes require that the heights of all steps in a staircase be equal. After\ntaking a couple of steps, up or down, we implicitly remember the heights of the\nsteps and assume that the others will be the same. If they are not the same,\nwe are very likely to trip and fall. Lack of this kind of rapidly created implicit\nmemory would be bad for us and for insurance companies, but perhaps good\nfor lawyers. It would be of little value to us if we remembered the heights of the\nsteps only after a delay of many hours, when the memory becomes\nconsolidated.\nThe hypothesis that lasting memory consolidates slowly over time is supported\nprimarily by clinical and experimental evidence that the formation of long-term\nmemory is influenced by treatments and disorders affecting brain functioning.\nThere are also other kinds of evidence indicating more directly that the\nmemories consolidate over time after learning. Avi Kami and Dov Sagi reported\nthat the performance of human subjects trained in a visual skill did not improve\nuntil eight hours after the training was completed, and that improvement was\neven greater the following day. Furthermore, the skill was retained for several\nyears.\nStudies using human brain imaging to study changes in neural activity induced\nby learning have also reported that the changes continue to develop for hours\nafter learning. In an innovative study using functional imaging of the brain,\nReza Shadmehr and Henry Holcomb examined brain activity in several brain\nregions shortly after human subjects were trained in a motor learning task\nrequiring arm and hand movements. They found that while the performance of\nthe subjects remained stable for several hours after completion of the training,\ntheir brain activity did not; different regions of the brain were predominantly\nactive at different times over a period of several hours after the training. The\nactivity shifted from the prefrontal cortex to two areas known to be involved in\ncontrolling movements, the motor cortex and cerebellar cortex. Consolidation\nof the motor skill appeared to involve activation of different neural systems\nthat increased the stability of the brain processes underlying the skill.\nThere is also evidence that learning-induced changes in the activity of neurons\nin the cerebral cortex continue to increase for many days after the training. In\nan extensive series of studies using rats with electrodes implanted in the\nauditory cortex, Norman Weinberger reported that, after a tone of specific\nfrequency was paired a few times with footshock, neurons in the rats’ auditory",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "cortex responded more to that specific tone and less to other tones of other",
-      "questionRange": [
-        27,
-        31
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "cortex responded more to that specific tone and less to other tones of other\nfrequencies. Even more interestingly, the selectivity of the neurons’ response\nto the specific tone used in training continued to increase for several days after\nthe training was terminated.\nIt is not intuitively obvious why our lasting memories consolidate slowly.\nCertainly, one can wonder why we have a form of memory that we have to rely\non for many hours, days or a lifetime, that is so susceptible to disruption\nshortly after it is initiated. Perhaps the brain system that consolidates long-\nterm memory over time was a late development in vertebrate evolution.\nMoreover, maybe we consolidate memories slowly because our mammalian\nbrains are large and enormously complex. We can readily reject these ideas.\nAll species of animals studied to date have both short and long-term memory;\nand all are susceptible to retrograde amnesia. Like humans, birds, bees, and\nmolluscs, as well as fish and rats, make long-term memory slowly.\nConsolidation of memory clearly emerged early in evolution, and was\nconserved.\nAlthough there seems to be no compelling reason to conclude that a biological\nsystem such as a brain could not quickly make a lasting memory, the fact is\nthat animal brains do not. Thus, memory consolidation must serve some very\nimportant adaptive function or functions. There is considerable evidence\nsuggesting that the slow consolidation is adaptive because it enables\nneurobiological processes occurring shortly after learning to influence the\nstrength of memory for experiences. The extensive evidence that memory can\nbe enhanced, as well as impaired, by treatments administered shortly after\ntraining, provides intriguing support for this hypothesis.\nQuestions 27-31\nChoose the correct letter, A, B, C or D.\n27  Experiments by Bernard Agranoff described in Reading Passage 3\ninvolved\nA\n \nB\n \nC\n \nD\n \ninjecting goldfish at different stages of the experiments.\ntraining goldfish to do different types of task.\nusing different types of treatment on goldfish.\ncomparing the performance of different goldfish on certain\ntasks.\n\n28 Most findings from recent studies suggest that\nA\n \nB\n \nC\n \nD\n \n29 In the fifth paragraph, what does the writer want to show by the\nexample of staircases?\nA\n \nB\n \nC\n \nD\n \n30 Observations about memory by Kami and Sagi\nA\n \nB\n \nC\n \nD\n \n31 What did the experiment by Shadmehr and Holcomb show?\nA\n \nB\n \nC\n \nD\n \ndrug treatments do not normally affect short-term memories.\nlong-term memories build upon short-term memories.\nshort and long-term memories are formed by separate\nprocesses.\nECT treatment affects both short-and long-term memories.\nPrompt memory formation underlies the performance of\neveryday tasks.\nRoutine tasks can be carried out unconsciously.\nPhysical accidents can impair the function of memory.\nComplex information such as regulations cannot be retained by\nthe memory.\ncast doubt on existing hypotheses.\nrelated only to short-term memory.\nwere based on tasks involving hearing.\nconfirmed other experimental findings.\nDifferent areas of the brain were activated by different tasks.\nActivity in the brain gradually moved from one area to other\nareas.\nSubjects continued to get better at a task after training had\nfinished.\nTreatment given to subjects improved their performance on a\ntask.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "The creation of lasting memories"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "Many studies of the brain processes underlying the creation of memory\nconsolidation (lasting memories) have involved giving various human and\nanimal subjects treatment, while training them to perform a task. These have\ncontributed greatly to our understanding."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "In pioneering studies using goldfish, Bernard Agranoff found that protein\nsynthesis inhibitors injected after training caused the goldfish to forget what\nthey had learned. In other experiments, he administered protein synthesis\ninhibitors immediately before the fish were trained. The remarkable finding was\nthat the fish learned the task completely normally, but forgot it within a few\nhours - that is, the protein synthesis inhibitors blocked memory consolidation,\nbut did not influence short-term memory."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "There is now extensive evidence that short-term memory is spared by many\nkinds of treatments, including electro-convulsive therapy (ECT), that block\nmemory consolidation. On the other hand, and equally importantly,\nneuroscientist Ivan Izquierdo found that many drug treatments can block short-\nterm memory without blocking memory consolidation. Contrary to the\nhypothesis put forward by Canadian psychologist Donald Hebb, in 1949, long-\nterm memory does not require short-term memory, and vice versa."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Such findings suggest that our experiences create parallel, and possibly\nindependent stages of memory, .each with a different life span. All of this\nevidence from clinical and experimental studies strongly indicates that the"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "brain handles recent and remote memory in different ways; but why does it do\nthat?"
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "We obviously need to have memory that is created rapidly: reacting to an ever\nand rapidly changing environment requires that. For example, most current\nbuilding codes require that the heights of all steps in a staircase be equal. After\ntaking a couple of steps, up or down, we implicitly remember the heights of the\nsteps and assume that the others will be the same. If they are not the same,\nwe are very likely to trip and fall. Lack of this kind of rapidly created implicit\nmemory would be bad for us and for insurance companies, but perhaps good\nfor lawyers. It would be of little value to us if we remembered the heights of the\nsteps only after a delay of many hours, when the memory becomes\nconsolidated."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "The hypothesis that lasting memory consolidates slowly over time is supported\nprimarily by clinical and experimental evidence that the formation of long-term\nmemory is influenced by treatments and disorders affecting brain functioning.\nThere are also other kinds of evidence indicating more directly that the\nmemories consolidate over time after learning. Avi Kami and Dov Sagi reported\nthat the performance of human subjects trained in a visual skill did not improve\nuntil eight hours after the training was completed, and that improvement was\neven greater the following day. Furthermore, the skill was retained for several\nyears."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Studies using human brain imaging to study changes in neural activity induced\nby learning have also reported that the changes continue to develop for hours\nafter learning. In an innovative study using functional imaging of the brain,\nReza Shadmehr and Henry Holcomb examined brain activity in several brain\nregions shortly after human subjects were trained in a motor learning task\nrequiring arm and hand movements. They found that while the performance of\nthe subjects remained stable for several hours after completion of the training,\ntheir brain activity did not; different regions of the brain were predominantly\nactive at different times over a period of several hours after the training. The\nactivity shifted from the prefrontal cortex to two areas known to be involved in\ncontrolling movements, the motor cortex and cerebellar cortex. Consolidation\nof the motor skill appeared to involve activation of different neural systems\nthat increased the stability of the brain processes underlying the skill."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "There is also evidence that learning-induced changes in the activity of neurons\nin the cerebral cortex continue to increase for many days after the training. In\nan extensive series of studies using rats with electrodes implanted in the\nauditory cortex, Norman Weinberger reported that, after a tone of specific\nfrequency was paired a few times with footshock, neurons in the rats' auditory"
+          },
+          {
+            "label": null,
+            "text": "cortex responded more to that specific tone and less to other tones of other\nfrequencies. Even more interestingly, the selectivity of the neurons' response\nto the specific tone used in training continued to increase for several days after\nthe training was terminated."
+          },
+          {
+            "label": null,
+            "text": "It is not intuitively obvious why our lasting memories consolidate slowly.\nCertainly, one can wonder why we have a form of memory that we have to rely\non for many hours, days or a lifetime, that is so susceptible to disruption\nshortly after it is initiated. Perhaps the brain system that consolidates long-\nterm memory over time was a late development in vertebrate evolution.\nMoreover, maybe we consolidate memories slowly because our mammalian\nbrains are large and enormously complex. We can readily reject these ideas.\nAll species of animals studied to date have both short and long-term memory;\nand all are susceptible to retrograde amnesia. Like humans, birds, bees, and\nmolluscs, as well as fish and rats, make long-term memory slowly.\nConsolidation of memory clearly emerged early in evolution, and was\nconserved."
+          },
+          {
+            "label": null,
+            "text": "Although there seems to be no compelling reason to conclude that a biological\nsystem such as a brain could not quickly make a lasting memory, the fact is\nthat animal brains do not. Thus, memory consolidation must serve some very\nimportant adaptive function or functions. There is considerable evidence\nsuggesting that the slow consolidation is adaptive because it enables\nneurobiological processes occurring shortly after learning to influence the\nstrength of memory for experiences. The extensive evidence that memory can\nbe enhanced, as well as impaired, by treatments administered shortly after\ntraining, provides intriguing support for this hypothesis."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 32-36",
-      "questionRange": [
-        32,
-        36
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 32-36\nQuestions 37-40\nDo the following statements agree with the views of the writer in Reading\nPassage 3?\nWrite\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n32\n   The training which Kami and Sagi’s subjects were\ngiven was repeated over several days.\n33\n    The rats in Weinberger’s studies learned to\nassociate a certain sound with a specific experience.\n34\n    The results of Weinberger’s studies indicated that\nthe strength of the rats’ learned associations increases with time.\n35\n   It is easy to see the evolutionary advantage of the\nway lasting memories in humans are created.\n36\n    Long-term memories in humans are more stable\nthan in many other species.\nComplete the summary using the list of words, A-l, below\nLong-term memory\nVarious researchers have examined the way lasting memories are formed.\nLaboratory experiments usually involve teaching subjects to do something\n37\n  and treating them with mild electric shocks or drugs.\nOther studies monitor behaviour after a learning experience, or use\nsophisticated equipment to observe brain activity.\nThe results are generally consistent: they show that lasting memories are\nthe result of a 38\n  and complex biological process.\nThe fact that humans share this trait with other species, including\n\nanimals with 39\n  brains, suggests that it developed \n40\n in our evolutionary history.\nA\nearly\nB\neasy\nC\nlarge\nD\nlate\nE\nlengthy\nF\nnew\nG\nrecently\nH\nsmall\nI\nquick",
-        "tables": [],
+        ],
+        "text": "The creation of lasting memories\n\nMany studies of the brain processes underlying the creation of memory\nconsolidation (lasting memories) have involved giving various human and\nanimal subjects treatment, while training them to perform a task. These have\ncontributed greatly to our understanding.\n\nIn pioneering studies using goldfish, Bernard Agranoff found that protein\nsynthesis inhibitors injected after training caused the goldfish to forget what\nthey had learned. In other experiments, he administered protein synthesis\ninhibitors immediately before the fish were trained. The remarkable finding was\nthat the fish learned the task completely normally, but forgot it within a few\nhours - that is, the protein synthesis inhibitors blocked memory consolidation,\nbut did not influence short-term memory.\n\nThere is now extensive evidence that short-term memory is spared by many\nkinds of treatments, including electro-convulsive therapy (ECT), that block\nmemory consolidation. On the other hand, and equally importantly,\nneuroscientist Ivan Izquierdo found that many drug treatments can block short-\nterm memory without blocking memory consolidation. Contrary to the\nhypothesis put forward by Canadian psychologist Donald Hebb, in 1949, long-\nterm memory does not require short-term memory, and vice versa.\n\nSuch findings suggest that our experiences create parallel, and possibly\nindependent stages of memory, .each with a different life span. All of this\nevidence from clinical and experimental studies strongly indicates that the\n\nbrain handles recent and remote memory in different ways; but why does it do\nthat?\n\nWe obviously need to have memory that is created rapidly: reacting to an ever\nand rapidly changing environment requires that. For example, most current\nbuilding codes require that the heights of all steps in a staircase be equal. After\ntaking a couple of steps, up or down, we implicitly remember the heights of the\nsteps and assume that the others will be the same. If they are not the same,\nwe are very likely to trip and fall. Lack of this kind of rapidly created implicit\nmemory would be bad for us and for insurance companies, but perhaps good\nfor lawyers. It would be of little value to us if we remembered the heights of the\nsteps only after a delay of many hours, when the memory becomes\nconsolidated.\n\nThe hypothesis that lasting memory consolidates slowly over time is supported\nprimarily by clinical and experimental evidence that the formation of long-term\nmemory is influenced by treatments and disorders affecting brain functioning.\nThere are also other kinds of evidence indicating more directly that the\nmemories consolidate over time after learning. Avi Kami and Dov Sagi reported\nthat the performance of human subjects trained in a visual skill did not improve\nuntil eight hours after the training was completed, and that improvement was\neven greater the following day. Furthermore, the skill was retained for several\nyears.\n\nStudies using human brain imaging to study changes in neural activity induced\nby learning have also reported that the changes continue to develop for hours\nafter learning. In an innovative study using functional imaging of the brain,\nReza Shadmehr and Henry Holcomb examined brain activity in several brain\nregions shortly after human subjects were trained in a motor learning task\nrequiring arm and hand movements. They found that while the performance of\nthe subjects remained stable for several hours after completion of the training,\ntheir brain activity did not; different regions of the brain were predominantly\nactive at different times over a period of several hours after the training. The\nactivity shifted from the prefrontal cortex to two areas known to be involved in\ncontrolling movements, the motor cortex and cerebellar cortex. Consolidation\nof the motor skill appeared to involve activation of different neural systems\nthat increased the stability of the brain processes underlying the skill.\n\nThere is also evidence that learning-induced changes in the activity of neurons\nin the cerebral cortex continue to increase for many days after the training. In\nan extensive series of studies using rats with electrodes implanted in the\nauditory cortex, Norman Weinberger reported that, after a tone of specific\nfrequency was paired a few times with footshock, neurons in the rats' auditory\n\ncortex responded more to that specific tone and less to other tones of other\nfrequencies. Even more interestingly, the selectivity of the neurons' response\nto the specific tone used in training continued to increase for several days after\nthe training was terminated.\n\nIt is not intuitively obvious why our lasting memories consolidate slowly.\nCertainly, one can wonder why we have a form of memory that we have to rely\non for many hours, days or a lifetime, that is so susceptible to disruption\nshortly after it is initiated. Perhaps the brain system that consolidates long-\nterm memory over time was a late development in vertebrate evolution.\nMoreover, maybe we consolidate memories slowly because our mammalian\nbrains are large and enormously complex. We can readily reject these ideas.\nAll species of animals studied to date have both short and long-term memory;\nand all are susceptible to retrograde amnesia. Like humans, birds, bees, and\nmolluscs, as well as fish and rats, make long-term memory slowly.\nConsolidation of memory clearly emerged early in evolution, and was\nconserved.\n\nAlthough there seems to be no compelling reason to conclude that a biological\nsystem such as a brain could not quickly make a lasting memory, the fact is\nthat animal brains do not. Thus, memory consolidation must serve some very\nimportant adaptive function or functions. There is considerable evidence\nsuggesting that the slow consolidation is adaptive because it enables\nneurobiological processes occurring shortly after learning to influence the\nstrength of memory for experiences. The extensive evidence that memory can\nbe enhanced, as well as impaired, by treatments administered shortly after\ntraining, provides intriguing support for this hypothesis.",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "early"
-          },
-          {
-            "label": "B",
-            "content": "easy"
-          },
-          {
-            "label": "C",
-            "content": "large"
-          },
-          {
-            "label": "D",
-            "content": "late"
-          },
-          {
-            "label": "E",
-            "content": "lengthy"
-          },
-          {
-            "label": "F",
-            "content": "new"
-          },
-          {
-            "label": "G",
-            "content": "recently"
-          }
-        ]
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            32,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary using the list of words, A-l, below Long-term memory Various researchers have examined the way lasting memories are formed. Laboratory experiments usually involve teaching subjects to do something",
+          "body": "[[37]] and treating them with mild electric shocks or drugs. Other studies monitor behaviour after a learning experience, or use sophisticated equipment to observe brain activity. The results are generally consistent: they show that lasting memories are the result of a [[38]] and complex biological process. The fact that humans share this trait with other species, including animals with [[39]] brains, suggests that it developed [[40]] in our evolutionary history. A early B easy C large D late E lengthy F new G recently H small I quick",
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Experiments by Bernard Agranoff described in Reading Passage 3 involved",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "injecting goldfish at different stages of the experiments.",
+            "training goldfish to do different types of task.",
+            "using different types of treatment on goldfish.",
+            "comparing the performance of different goldfish on certain tasks."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Most findings from recent studies suggest that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "drug treatments do not normally affect short-term memories.",
+            "long-term memories build upon short-term memories.",
+            "short and long-term memories are formed by separate processes.",
+            "ECT treatment affects both short-and long-term memories."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "In the fifth paragraph, what does the writer want to show by the example of staircases?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Prompt memory formation underlies the performance of everyday tasks.",
+            "Routine tasks can be carried out unconsciously.",
+            "Physical accidents can impair the function of memory.",
+            "Complex information such as regulations cannot be retained by the memory."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Observations about memory by Kami and Sagi",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "cast doubt on existing hypotheses.",
+            "related only to short-term memory.",
+            "were based on tasks involving hearing.",
+            "confirmed other experimental findings."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What did the experiment by Shadmehr and Holcomb show?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Different areas of the brain were activated by different tasks.",
+            "Activity in the brain gradually moved from one area to other areas.",
+            "Subjects continued to get better at a task after training had finished.",
+            "Treatment given to subjects improved their performance on a task."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The training which Kami and Sagi's subjects were\ngiven was repeated over several days.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The rats in Weinberger's studies learned to\nassociate a certain sound with a specific experience.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The results of Weinberger's studies indicated that\nthe strength of the rats' learned associations increases with time.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "It is easy to see the evolutionary advantage of the\nway lasting memories in humans are created.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Long-term memories in humans are more stable\nthan in many other species.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "and treating them with mild electric shocks or drugs.\nOther studies monitor behaviour after a learning experience, or use\nsophisticated equipment to observe brain activity.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "in our evolutionary history.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

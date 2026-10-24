@@ -1,195 +1,1216 @@
 {
   "id": "ielts-mock-test-2025-september_reading-practice-test-2-v9-19041790",
   "type": "academic",
-  "source": "ielts-mock-test-2025-september reading-practice-test-2-v9-19041790",
+  "title": "IELTS Academic 2025 September - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2025",
+  "testNumber": 2,
+  "year": 2025,
+  "month": 9,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2025-september_reading-practice-test-2-v9-19041790.pdf",
-  "total_questions": 4,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "PROJECT: Reform Of The Prison System In",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nPROJECT: Reform Of The Prison System In\nThe UK\nPenal progress:\nThe UK's large prison population is fuelled by a high level of recidivism - when\ncriminals repeatedly relapse into crime. This project for a model prison tackles\nissues of architecture, management and funding in an enlightened attempt to\nachieve lasting rehabilitation.\nProject:\nThe penal system is one of the most direct manifestations of the power of the\nstate, but is often also a revealing reflection of the national psyche and the\npublic's attitude to punishment and rehabilitation. Surprisingly, for a\nprosperous, progressive Western democracy, the UK has a lamentable penal\nrecord. Britain's prison population is currently in excess of 60,000 (up 50 per\ncent from a decade ago) making it the second largest in Europe. The average\ncost of keeping an individual prisoner incarcerated for a year is £27,000 (ten\ntimes the average expenditure on a secondary school pupil in the state sector).\nDespite such substantial investment, over half of British prisoners re-offend\nwithin two years of release.\nSuch high rates of recidivism is a serious problem. It means that the prison\npopulation is continuing to grow at an alarming rate (recently by as many as\n700 a week), so overcrowding is endemic, hampering opportunities for\neducation and rehabilitation and lowering staff and prisoner morale. To ease\nthis pressure, the UK government is investing in the prison estate at historic\nlevels, with 12,000 new prison places proposed within the next few years. Yet,\n\nlike their nineteenth-century predecessors, Britain's 'new Victorian' prisons are\ndesigned for security and control rather than for the rehabilitation and\neducation which is increasingly recognised as what prisoners need. Most are\npoorly educated young men under 30 (at least 60 per cent of whom are\nfunctionally illiterate and innumerate), so without education and skills few will\nbe able to build meaningful lives away from crime, no matter how often they go\nto prison, or how long they spend there.\nAny transformation of the penal system must start with the redesign of prison\nbuildings. Prison architecture has a clearly discernible effect on behaviour,\noperational efficiency, interaction and morale. Last year, architects Buschow\nHenley were commissioned by a think tank organisation working with the\nHome Office Prison Service to research and develop an alternative prison\nmodel that focuses more intensely on rehabilitation through a concentrated\nprogramme of intellectual, physical and social education. The model is not\nintended as a blueprint but rather a series of principles that might be adapted\nto support the wider concept of the 'Learning Prison' in which other aspects\nsuch as organisation, management and funding would obviously play a part.\nKey to this is the introduction of a system that groups together prisoners in\nsmall communities or 'houses' of between 30 and 40 inmates. This has two\nimportant consequences. First, the more compact spatial organisation of the\nhouse reduces staff time spent on supervising and escorting prisoners. Second,\nthe system places educational and other facilities at the heart of the building,\nwithin easy reach at all times of day, reinforced by a supportive social\nenvironment. This model also enables resources to be dramatically redeployed,\nfrom a current estimated ratio of 80:20 (costs of security versus rehabilitation)\nto a predicted reversed figure of 20:80, freeing up much-needed funds to\ninvest in educational programmes, thereby helping to promote rehabilitation,\nreduce recidivism and initiate a virtuous cycle.\nIn Buschow Henley's scheme, the proposed group size of 30-40 has the\npotential for social accountability - each prisoner being known within the\ncommunity and personally accountable for his behaviour. Houses are semi-\nautonomous, not just dormitories, with communal, as opposed to centralised,\nfacilities. Circulation is simplified and reduced. Buildings are arranged in a\nchess-board formation, as opposed to pavilions marooned in space, each with a\ndiscrete external area that can be productively used for sport, games or\ngardening with a minimum of supervision.\nIndividual cells are replanned to make them less like domestic lavatories and\nmore conducive to learning. In an inversion of the conventional layout, the bed\nis placed lengthways along the external wall at high level, freeing up space\n\nbelow. Storage is built in and each inmate is provided with a moveable table\nequipped with electronic tools for study. Washing facilities are contained in a\nsmall adjoining space (included in the basic 8 sqm allowance) so reducing\npressure on prison staff to manage inmate hygiene and ablution. Each cell is\npaired with a neighbouring 'buddy' cell linked by sliding doors controlled by\nindividual prisoners to mitigate the risk of self-harm.\nWhile this new type of prison appears to be somewhat liberal, the arrangement\nof spaces and functions both inside and out is actually tightly controlled.\nParadoxically, however, this proscription enables a greater range of activities\nto take place, and makes general supervision easier. In this environment the\nprisoners are judged not by their degree of conformity, but by the scope of\ntheir activities and achievements, so laying the foundations for genuine\nrehabilitation. As Martin Narey, Director General of the UK Prison Services\nobserves, 'We have got to accept that prison must be a humane and\nconstructive place, not least because all but 23 of my population are going\nhome some day.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "PROJECT: Reform Of The Prison System In\nThe UK"
+          },
+          {
+            "label": null,
+            "text": "Penal progress:"
+          },
+          {
+            "label": null,
+            "text": "The UK's large prison population is fuelled by a high level of recidivism - when\ncriminals repeatedly relapse into crime. This project for a model prison tackles\nissues of architecture, management and funding in an enlightened attempt to\nachieve lasting rehabilitation."
+          },
+          {
+            "label": null,
+            "text": "Project:"
+          },
+          {
+            "label": null,
+            "text": "The penal system is one of the most direct manifestations of the power of the\nstate, but is often also a revealing reflection of the national psyche and the\npublic's attitude to punishment and rehabilitation. Surprisingly, for a\nprosperous, progressive Western democracy, the UK has a lamentable penal\nrecord. Britain's prison population is currently in excess of 60,000 (up 50 per\ncent from a decade ago) making it the second largest in Europe. The average\ncost of keeping an individual prisoner incarcerated for a year is £27,000 (ten\ntimes the average expenditure on a secondary school pupil in the state sector).\nDespite such substantial investment, over half of British prisoners re-offend\nwithin two years of release."
+          },
+          {
+            "label": null,
+            "text": "Such high rates of recidivism is a serious problem. It means that the prison\npopulation is continuing to grow at an alarming rate (recently by as many as\n700 a week), so overcrowding is endemic, hampering opportunities for\neducation and rehabilitation and lowering staff and prisoner morale. To ease\nthis pressure, the UK government is investing in the prison estate at historic\nlevels, with 12,000 new prison places proposed within the next few years. Yet,"
+          },
+          {
+            "label": null,
+            "text": "like their nineteenth-century predecessors, Britain's 'new Victorian' prisons are\ndesigned for security and control rather than for the rehabilitation and\neducation which is increasingly recognised as what prisoners need. Most are\npoorly educated young men under 30 (at least 60 per cent of whom are\nfunctionally illiterate and innumerate), so without education and skills few will\nbe able to build meaningful lives away from crime, no matter how often they go\nto prison, or how long they spend there."
+          },
+          {
+            "label": null,
+            "text": "Any transformation of the penal system must start with the redesign of prison\nbuildings. Prison architecture has a clearly discernible effect on behaviour,\noperational efficiency, interaction and morale. Last year, architects Buschow\nHenley were commissioned by a think tank organisation working with the\nHome Office Prison Service to research and develop an alternative prison\nmodel that focuses more intensely on rehabilitation through a concentrated\nprogramme of intellectual, physical and social education. The model is not\nintended as a blueprint but rather a series of principles that might be adapted\nto support the wider concept of the 'Learning Prison' in which other aspects\nsuch as organisation, management and funding would obviously play a part.\nKey to this is the introduction of a system that groups together prisoners in\nsmall communities or 'houses' of between 30 and 40 inmates. This has two\nimportant consequences. First, the more compact spatial organisation of the\nhouse reduces staff time spent on supervising and escorting prisoners. Second,\nthe system places educational and other facilities at the heart of the building,\nwithin easy reach at all times of day, reinforced by a supportive social\nenvironment. This model also enables resources to be dramatically redeployed,\nfrom a current estimated ratio of 80:20 (costs of security versus rehabilitation)\nto a predicted reversed figure of 20:80, freeing up much-needed funds to\ninvest in educational programmes, thereby helping to promote rehabilitation,\nreduce recidivism and initiate a virtuous cycle."
+          },
+          {
+            "label": null,
+            "text": "In Buschow Henley's scheme, the proposed group size of 30-40 has the\npotential for social accountability - each prisoner being known within the\ncommunity and personally accountable for his behaviour. Houses are semi-\nautonomous, not just dormitories, with communal, as opposed to centralised,\nfacilities. Circulation is simplified and reduced. Buildings are arranged in a\nchess-board formation, as opposed to pavilions marooned in space, each with a\ndiscrete external area that can be productively used for sport, games or\ngardening with a minimum of supervision."
+          },
+          {
+            "label": null,
+            "text": "Individual cells are replanned to make them less like domestic lavatories and\nmore conducive to learning. In an inversion of the conventional layout, the bed\nis placed lengthways along the external wall at high level, freeing up space"
+          },
+          {
+            "label": null,
+            "text": "below. Storage is built in and each inmate is provided with a moveable table\nequipped with electronic tools for study. Washing facilities are contained in a\nsmall adjoining space (included in the basic 8 sqm allowance) so reducing\npressure on prison staff to manage inmate hygiene and ablution. Each cell is\npaired with a neighbouring 'buddy' cell linked by sliding doors controlled by\nindividual prisoners to mitigate the risk of self-harm."
+          },
+          {
+            "label": null,
+            "text": "While this new type of prison appears to be somewhat liberal, the arrangement\nof spaces and functions both inside and out is actually tightly controlled.\nParadoxically, however, this proscription enables a greater range of activities\nto take place, and makes general supervision easier. In this environment the\nprisoners are judged not by their degree of conformity, but by the scope of\ntheir activities and achievements, so laying the foundations for genuine\nrehabilitation. As Martin Narey, Director General of the UK Prison Services\nobserves, 'We have got to accept that prison must be a humane and\nconstructive place, not least because all but 23 of my population are going\nhome some day."
+          }
+        ],
+        "text": "PROJECT: Reform Of The Prison System In\nThe UK\n\nPenal progress:\n\nThe UK's large prison population is fuelled by a high level of recidivism - when\ncriminals repeatedly relapse into crime. This project for a model prison tackles\nissues of architecture, management and funding in an enlightened attempt to\nachieve lasting rehabilitation.\n\nProject:\n\nThe penal system is one of the most direct manifestations of the power of the\nstate, but is often also a revealing reflection of the national psyche and the\npublic's attitude to punishment and rehabilitation. Surprisingly, for a\nprosperous, progressive Western democracy, the UK has a lamentable penal\nrecord. Britain's prison population is currently in excess of 60,000 (up 50 per\ncent from a decade ago) making it the second largest in Europe. The average\ncost of keeping an individual prisoner incarcerated for a year is £27,000 (ten\ntimes the average expenditure on a secondary school pupil in the state sector).\nDespite such substantial investment, over half of British prisoners re-offend\nwithin two years of release.\n\nSuch high rates of recidivism is a serious problem. It means that the prison\npopulation is continuing to grow at an alarming rate (recently by as many as\n700 a week), so overcrowding is endemic, hampering opportunities for\neducation and rehabilitation and lowering staff and prisoner morale. To ease\nthis pressure, the UK government is investing in the prison estate at historic\nlevels, with 12,000 new prison places proposed within the next few years. Yet,\n\nlike their nineteenth-century predecessors, Britain's 'new Victorian' prisons are\ndesigned for security and control rather than for the rehabilitation and\neducation which is increasingly recognised as what prisoners need. Most are\npoorly educated young men under 30 (at least 60 per cent of whom are\nfunctionally illiterate and innumerate), so without education and skills few will\nbe able to build meaningful lives away from crime, no matter how often they go\nto prison, or how long they spend there.\n\nAny transformation of the penal system must start with the redesign of prison\nbuildings. Prison architecture has a clearly discernible effect on behaviour,\noperational efficiency, interaction and morale. Last year, architects Buschow\nHenley were commissioned by a think tank organisation working with the\nHome Office Prison Service to research and develop an alternative prison\nmodel that focuses more intensely on rehabilitation through a concentrated\nprogramme of intellectual, physical and social education. The model is not\nintended as a blueprint but rather a series of principles that might be adapted\nto support the wider concept of the 'Learning Prison' in which other aspects\nsuch as organisation, management and funding would obviously play a part.\nKey to this is the introduction of a system that groups together prisoners in\nsmall communities or 'houses' of between 30 and 40 inmates. This has two\nimportant consequences. First, the more compact spatial organisation of the\nhouse reduces staff time spent on supervising and escorting prisoners. Second,\nthe system places educational and other facilities at the heart of the building,\nwithin easy reach at all times of day, reinforced by a supportive social\nenvironment. This model also enables resources to be dramatically redeployed,\nfrom a current estimated ratio of 80:20 (costs of security versus rehabilitation)\nto a predicted reversed figure of 20:80, freeing up much-needed funds to\ninvest in educational programmes, thereby helping to promote rehabilitation,\nreduce recidivism and initiate a virtuous cycle.\n\nIn Buschow Henley's scheme, the proposed group size of 30-40 has the\npotential for social accountability - each prisoner being known within the\ncommunity and personally accountable for his behaviour. Houses are semi-\nautonomous, not just dormitories, with communal, as opposed to centralised,\nfacilities. Circulation is simplified and reduced. Buildings are arranged in a\nchess-board formation, as opposed to pavilions marooned in space, each with a\ndiscrete external area that can be productively used for sport, games or\ngardening with a minimum of supervision.\n\nIndividual cells are replanned to make them less like domestic lavatories and\nmore conducive to learning. In an inversion of the conventional layout, the bed\nis placed lengthways along the external wall at high level, freeing up space\n\nbelow. Storage is built in and each inmate is provided with a moveable table\nequipped with electronic tools for study. Washing facilities are contained in a\nsmall adjoining space (included in the basic 8 sqm allowance) so reducing\npressure on prison staff to manage inmate hygiene and ablution. Each cell is\npaired with a neighbouring 'buddy' cell linked by sliding doors controlled by\nindividual prisoners to mitigate the risk of self-harm.\n\nWhile this new type of prison appears to be somewhat liberal, the arrangement\nof spaces and functions both inside and out is actually tightly controlled.\nParadoxically, however, this proscription enables a greater range of activities\nto take place, and makes general supervision easier. In this environment the\nprisoners are judged not by their degree of conformity, but by the scope of\ntheir activities and achievements, so laying the foundations for genuine\nrehabilitation. As Martin Narey, Director General of the UK Prison Services\nobserves, 'We have got to accept that prison must be a humane and\nconstructive place, not least because all but 23 of my population are going\nhome some day.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Complete each sentence with the correct ending, A - H, below. Write the correct letter A - H in spaces 1-5 below.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": [
+              "improved security, supervision and education.",
+              "rehabilitation and education.",
+              "reduced efficiency, morale and interaction.",
+              "reduced risk of self harm.",
+              "security and control.",
+              "an alternative prison model",
+              "a learning environment rather than a punitive compound",
+              "organisation, management and funding."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter A, B, C or D.",
+          "body": null,
+          "range": [
+            6,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "diagram-label",
+          "instruction": "Label the diagram below. Write NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 10-13.",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-mock-test-2025-september_reading-practice-test-2-v9-19041790/p1g3.png",
+              "w": 982,
+              "h": 817
+            }
+          ],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 7,
+          "number": 1,
           "type": "matching-features",
-          "prompt": "The proposal to create 12,000 new prison places, within the next few years, indicates that A",
-          "instruction": "Complete each sentence with the correct ending, A - H, below. Write the correct letter A - H in spaces 1-5 below. 1 The agenda of current British prison systems is primarily 2 The primary role of prisons should he 3 The new prison scheme will create 4 Existing prison architecture causes 5 The positive results of reducing the number of prisoners in one space include Choose the correct letter A, B, C or D. 6 The project to reform the penal system in the UK A",
-          "answer": "C"
+          "groupId": "p1g1",
+          "prompt": "The agenda of current British prison systems is primarily",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "The primary role of prisons should he",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "The new prison scheme will create",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Existing prison architecture causes",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "The positive results of reducing the number of prisoners",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The project to reform the penal system in the UK",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "is progressive.",
+            "is inexpensive.",
+            "will eliminate the need for supervision.",
+            "is, primarily, to make prisoners more comfortable."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The proposal to create 12,000 new prison places, within the next few years, indicates that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "prison cells are too small.",
+            "a lot of money is invested into educating offenders.",
+            "there is an increasing population of offenders in the UK.",
+            "the government is getting tougher on offenders."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 8,
-          "type": "matching-features",
-          "prompt": "The proposed changes to prison architecture are designed primarily to A",
-          "instruction": "Complete each sentence with the correct ending, A - H, below. Write the correct letter A - H in spaces 1-5 below. 1 The agenda of current British prison systems is primarily 2 The primary role of prisons should he 3 The new prison scheme will create 4 Existing prison architecture causes 5 The positive results of reducing the number of prisoners in one space include Choose the correct letter A, B, C or D. 6 The project to reform the penal system in the UK A",
-          "answer": "B"
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The proposed changes to prison architecture are designed primarily to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "improve the aesthetic value of the building.",
+            "boost self-esteem and social behaviour.",
+            "allow prisoners more living space.",
+            "increase running costs within prisons."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 9,
-          "type": "matching-features",
-          "prompt": "Why is the bed placed lengthways along the external wall at high level? A",
-          "instruction": "Complete each sentence with the correct ending, A - H, below. Write the correct letter A - H in spaces 1-5 below. 1 The agenda of current British prison systems is primarily 2 The primary role of prisons should he 3 The new prison scheme will create 4 Existing prison architecture causes 5 The positive results of reducing the number of prisoners in one space include Choose the correct letter A, B, C or D. 6 The project to reform the penal system in the UK A",
-          "answer": "C"
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Why is the bed placed lengthways along the external wall at high level?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "to make room below for washing facilities",
+            "for the improvement of the inmates' hygiene",
+            "to allow room below for storage and shelves",
+            "to make room for sliding doors"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "diagram-label",
+          "groupId": "p1g3",
+          "prompt": "Prison Plan (semi-autonomous cell buildings): ______ for recreational activities (the open squares between the buildings)",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(discrete) external area",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "diagram-label",
+          "groupId": "p1g3",
+          "prompt": "Cell Design, Main Cell: Raised ______",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "bed",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "diagram-label",
+          "groupId": "p1g3",
+          "prompt": "Cell Design, Buddy Cell: Built in ______ unit",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "storage",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "diagram-label",
+          "groupId": "p1g3",
+          "prompt": "Cell Design: label 13 (arrow to the dividing wall between the Buddy Cell and the Main Cell)",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "sliding doors",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\non Reading Passage 2 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "have the Atlantoaxial Instability condition.",
-      "questionRange": [
-        14,
-        20
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "have the Atlantoaxial Instability condition.\n3) For any individual diagnosed as having Atlantoaxial Instability condition,\nthe examining physician shall notify the athlete's parents or guardians of\nthe nature and extent of the individual's condition and such athlete shall be\nallowed to participate in the activities listed in 1) above only if the athlete\nsubmits written certification from two physicians combined with an\nacknowledgment of the risks signed by the adult athlete or his/her parent\nor guardian if the athlete is a minor.\n4) It is the responsibility of parents/guardians to monitor the individual and\ntake appropriate action if neurological symptoms appear.\nTerminology note: the term intellectual disability is used to replace the clinical\nterm of Mental Retardation. Intellectual disability is not a disease, nor should it\nbe confused with mental illness. People with mental disabilities have both a\nslower rate of learning and a limited capacity to learn. They may also have\ndifficulty managing the ordinary activities of daily living, understanding the\nbehaviour of others, and determining their own appropriate social responses\n(adaptive behaviour). Children with intellectual disabilities grow into adults\nwith intellectual disabilities; they do not remain ‘eternal children’.\nPeople with intellectual disabilities constitute one of the largest groups of\ncitizens with disabilities. There are an estimated 156 million individuals in the\nworld who have intellectual disabilities. Intellectual disability cuts across lines\nof race, education, and social and economic background. It can occur in\nanyone. Hereditary components are known to account for only a fraction of the\ncases of intellectual disability. There are well over 350 causes of intellectual\ndisability and in three-quarters of the cases the specific cause is unknown.\nAbout 87 percent of all people with intellectual disabilities are mildly afflicted\nand in many respects are indistinguishable from people who do not have\nintellectual disabilities\nQuestions 14-20\nDo the following statements agree with the information given in Reading\nPassage 2?\nIn spaces 14-20 below, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n\nQuestions 21-23\n14\n To be eligible to take part in the Special Olympics, the\nathlete has to be not only less than intellectually capable, but must also\nbe lacking in a number of other functions.\n15\n People with intellectual disabilities never improve\ntheir lives.\n16\n All people with intellectual disabilities need the written\npermission of a parent or guardian in order to participate.\n17\n Down Syndrome participants often excel in their\nchosen field of athletic activity.\n18\n People with Down Syndrome cannot participate in any\nswimming events.\n19\n If you have Down Syndrome, your neck may be at risk\nof damage in certain spoils.\n20\n Participation in sports helps people with intellectual\ndisabilities lo improve their communication and social skills.\nChoose the correct letter A, B, C or D.\n21 What were the objectives of the Special Olympics document?\nA\n \nB\n \nC\n \nD\n \n22 What does the passage say about intellectual disability?\nA\n \nto inform the public about what they are to expect from the\nSpecial Olympics\nto provide information for future candidates\nto promote awareness in the general population of the plight of\ndisabled people\nto list the problems intellectually disabled people have\nThe majority of cases are inherited.\n\nQuestions 24-26\nB\n \nC\n \nD\n \n23 What word best describes the Special Olympics participation policy?\nA\n \nB\n \nC\n \nD\n \nSufferers of the condition outnumber those with physical\ndisabilities.\nIn most cases, the cause of the condition cannot be determined.\nIt may be determined by race, education, or social and economic\nbackground.\ninconsistent\nambiguous\ncontroversial\nnon-discriminatory\nWhich THREE of the following facts relating to Down Syndrome are\nmentioned?\nChoose THREE letters A - F.\nA\n \nB\n \nC\n \nD\n \nE\n \nF\n \nIt is thought that about one Down Syndrome person in every\nseven has Atlantoaxial Instability\nA person with Down Syndrome cannot participate in any winter\ncompetitions.\nDown Syndrome sufferers with Atlantoaxial Instability who are\nminors need permission from a guardian to play soccer.\nDown Syndrome sufferers are unable to flex the upper spine.\nDown Syndrome athletes need to wear a neck brace to\nparticipate in the Special Olympics.\nDown Syndrome athletes can take part in sports that do not\ndirectly affect the neck or spine without any preconditions being\nfulfilled.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Special Olympics Conditions of\nParticipation"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "To be eligible for participation in the Special Olympics an individual with an\nintellectual disability must agree to observe and abide by the SOC Sports Rules.\n'Mental Retardation' refers to substantial limitations in present functioning. It is\ncharacterised by significantly sub-average intellectual functioning, existing\nconcurrently with related limitations in two or more of the following applicable\nadaptive skill areas: communication, self-care, home living, social skills,\ncommunity use, self-direction, health and safety, functional academics, leisure\nand work. Mental retardation manifests itself before the age of 18. The\nfollowing four assumptions are essential to the application of the definition:"
           },
           {
-            "label": "A",
-            "content": "to inform the public about what they are to expect from the"
+            "label": null,
+            "text": "1. Valid assessment considers cultural and linguistic diversity as well as\ndifferences in communication and behavioural factors."
           },
           {
-            "label": "B",
-            "content": "C"
+            "label": null,
+            "text": "2. The existence of limitations in adaptive skills occurs within the context of\ncommunity environments typical of the individual's age-peers and is\nindexed to the person's individualised needs for support."
           },
           {
-            "label": "D",
-            "content": "23 What word best describes the Special Olympics participation policy?"
+            "label": null,
+            "text": "3. Specific adaptive limitations often co-exist with strengths in other\nadaptive skills or other personal capabilities."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "4. With appropriate support over a sustained period, the life functioning of\nthe person with mental retardation will generally improve."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "The term 'mental retardation' is a diagnostic term used to describe the\ncondition defined above. In keeping with the current language practised within\nthe field, the term 'mental retardation' is no longer commonly used. In its"
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "place, if it is absolutely necessary to use a label, i.e. in an educational setting\nor in a SOC/NCCP Technical Programme, then the term that is in keeping with\nthe current practices is a person with an intellectual disability. Special\nOlympics was created and developed to give individuals with an intellectual\ndisability the opportunity to train and compete in sport activities. No person\nshall, on the grounds of gender, race, religion, colour, national origin or\nfinancial constraint be excluded from participation in, or be denied the benefits\nof, or otherwise be subjected to discrimination under any programme or activity\nof Special Olympics. Flexibility is left to the Local, Region/Zone, Chapter and\nNational Special Olympics organisations for determining the eligibility of the\nparticipants because of the variety of situations and needs that exist in the\nmany localities where Special Olympics programmes have been and will be\ninstituted. Inclusion is preferred to exclusion when eligibility is in question.\nIndividuals who have both an intellectual disability and multiple disabilities may\nparticipate in Special Olympics programmes and competitions."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "A. Participation by individuals with Down Syndrome who have\nAtlantoaxial Instability."
           },
           {
-            "label": "E",
-            "content": "F"
+            "label": null,
+            "text": "There is evidence from medical research that up to 15 percent of individuals\nwith Down Syndrome have a defect in the cervical vertebrae C-1 and C-2 in the\nneck. This condition exposes Down Syndrome individuals to the heightened\npossibility of a neck injury if they participate in activities that hyperextend or\nradically flex the neck or upper spine."
           },
           {
-            "label": "A",
-            "content": "person with Down Syndrome cannot participate in any winter"
+            "label": null,
+            "text": "B. SOC requires temporary restriction of individuals with Down\nSyndrome from participation in certain activities."
+          },
+          {
+            "label": null,
+            "text": "1) Accredited Programmes may allow all individuals with Down Syndrome\nto continue in most Special Olympics sports training and competition\nactivities. However, such individuals shall not be permitted to participate in\nsport training and competitions which, by their nature, result in\nhyperextension, radical flexion or direct pressure on the neck or upper\nspine. Such sports training and competition activities include: the butterfly\nstroke and diving starts in swimming, diving, pentathlon, high jump,\nequestrian sports, artistic gymnastics, soccer, alpine skiing and any warm-\nup exercise placing undue stress on the head and neck."
+          },
+          {
+            "label": null,
+            "text": "2) Restriction from participation in the above-listed activities shall continue\nuntil an individual with Down Syndrome has been examined (including X-\nray views of full extension and flexion of the neck) by a physician who has\nbeen briefed on the nature of the Atlantoaxial Instability condition, and the\nresults of such an examination demonstrate that the individual does not"
+          },
+          {
+            "label": null,
+            "text": "have the Atlantoaxial Instability condition."
+          },
+          {
+            "label": null,
+            "text": "3) For any individual diagnosed as having Atlantoaxial Instability condition,\nthe examining physician shall notify the athlete's parents or guardians of\nthe nature and extent of the individual's condition and such athlete shall be\nallowed to participate in the activities listed in 1) above only if the athlete\nsubmits written certification from two physicians combined with an\nacknowledgment of the risks signed by the adult athlete or his/her parent\nor guardian if the athlete is a minor."
+          },
+          {
+            "label": null,
+            "text": "4) It is the responsibility of parents/guardians to monitor the individual and\ntake appropriate action if neurological symptoms appear."
+          },
+          {
+            "label": null,
+            "text": "Terminology note: the term intellectual disability is used to replace the clinical\nterm of Mental Retardation. Intellectual disability is not a disease, nor should it\nbe confused with mental illness. People with mental disabilities have both a\nslower rate of learning and a limited capacity to learn. They may also have\ndifficulty managing the ordinary activities of daily living, understanding the\nbehaviour of others, and determining their own appropriate social responses\n(adaptive behaviour). Children with intellectual disabilities grow into adults\nwith intellectual disabilities; they do not remain 'eternal children'."
+          },
+          {
+            "label": null,
+            "text": "People with intellectual disabilities constitute one of the largest groups of\ncitizens with disabilities. There are an estimated 156 million individuals in the\nworld who have intellectual disabilities. Intellectual disability cuts across lines\nof race, education, and social and economic background. It can occur in\nanyone. Hereditary components are known to account for only a fraction of the\ncases of intellectual disability. There are well over 350 causes of intellectual\ndisability and in three-quarters of the cases the specific cause is unknown.\nAbout 87 percent of all people with intellectual disabilities are mildly afflicted\nand in many respects are indistinguishable from people who do not have\nintellectual disabilities"
           }
-        ]
+        ],
+        "text": "Special Olympics Conditions of\nParticipation\n\nTo be eligible for participation in the Special Olympics an individual with an\nintellectual disability must agree to observe and abide by the SOC Sports Rules.\n'Mental Retardation' refers to substantial limitations in present functioning. It is\ncharacterised by significantly sub-average intellectual functioning, existing\nconcurrently with related limitations in two or more of the following applicable\nadaptive skill areas: communication, self-care, home living, social skills,\ncommunity use, self-direction, health and safety, functional academics, leisure\nand work. Mental retardation manifests itself before the age of 18. The\nfollowing four assumptions are essential to the application of the definition:\n\n1. Valid assessment considers cultural and linguistic diversity as well as\ndifferences in communication and behavioural factors.\n\n2. The existence of limitations in adaptive skills occurs within the context of\ncommunity environments typical of the individual's age-peers and is\nindexed to the person's individualised needs for support.\n\n3. Specific adaptive limitations often co-exist with strengths in other\nadaptive skills or other personal capabilities.\n\n4. With appropriate support over a sustained period, the life functioning of\nthe person with mental retardation will generally improve.\n\nThe term 'mental retardation' is a diagnostic term used to describe the\ncondition defined above. In keeping with the current language practised within\nthe field, the term 'mental retardation' is no longer commonly used. In its\n\nplace, if it is absolutely necessary to use a label, i.e. in an educational setting\nor in a SOC/NCCP Technical Programme, then the term that is in keeping with\nthe current practices is a person with an intellectual disability. Special\nOlympics was created and developed to give individuals with an intellectual\ndisability the opportunity to train and compete in sport activities. No person\nshall, on the grounds of gender, race, religion, colour, national origin or\nfinancial constraint be excluded from participation in, or be denied the benefits\nof, or otherwise be subjected to discrimination under any programme or activity\nof Special Olympics. Flexibility is left to the Local, Region/Zone, Chapter and\nNational Special Olympics organisations for determining the eligibility of the\nparticipants because of the variety of situations and needs that exist in the\nmany localities where Special Olympics programmes have been and will be\ninstituted. Inclusion is preferred to exclusion when eligibility is in question.\nIndividuals who have both an intellectual disability and multiple disabilities may\nparticipate in Special Olympics programmes and competitions.\n\nA. Participation by individuals with Down Syndrome who have\nAtlantoaxial Instability.\n\nThere is evidence from medical research that up to 15 percent of individuals\nwith Down Syndrome have a defect in the cervical vertebrae C-1 and C-2 in the\nneck. This condition exposes Down Syndrome individuals to the heightened\npossibility of a neck injury if they participate in activities that hyperextend or\nradically flex the neck or upper spine.\n\nB. SOC requires temporary restriction of individuals with Down\nSyndrome from participation in certain activities.\n\n1) Accredited Programmes may allow all individuals with Down Syndrome\nto continue in most Special Olympics sports training and competition\nactivities. However, such individuals shall not be permitted to participate in\nsport training and competitions which, by their nature, result in\nhyperextension, radical flexion or direct pressure on the neck or upper\nspine. Such sports training and competition activities include: the butterfly\nstroke and diving starts in swimming, diving, pentathlon, high jump,\nequestrian sports, artistic gymnastics, soccer, alpine skiing and any warm-\nup exercise placing undue stress on the head and neck.\n\n2) Restriction from participation in the above-listed activities shall continue\nuntil an individual with Down Syndrome has been examined (including X-\nray views of full extension and flexion of the neck) by a physician who has\nbeen briefed on the nature of the Atlantoaxial Instability condition, and the\nresults of such an examination demonstrate that the individual does not\n\nhave the Atlantoaxial Instability condition.\n\n3) For any individual diagnosed as having Atlantoaxial Instability condition,\nthe examining physician shall notify the athlete's parents or guardians of\nthe nature and extent of the individual's condition and such athlete shall be\nallowed to participate in the activities listed in 1) above only if the athlete\nsubmits written certification from two physicians combined with an\nacknowledgment of the risks signed by the adult athlete or his/her parent\nor guardian if the athlete is a minor.\n\n4) It is the responsibility of parents/guardians to monitor the individual and\ntake appropriate action if neurological symptoms appear.\n\nTerminology note: the term intellectual disability is used to replace the clinical\nterm of Mental Retardation. Intellectual disability is not a disease, nor should it\nbe confused with mental illness. People with mental disabilities have both a\nslower rate of learning and a limited capacity to learn. They may also have\ndifficulty managing the ordinary activities of daily living, understanding the\nbehaviour of others, and determining their own appropriate social responses\n(adaptive behaviour). Children with intellectual disabilities grow into adults\nwith intellectual disabilities; they do not remain 'eternal children'.\n\nPeople with intellectual disabilities constitute one of the largest groups of\ncitizens with disabilities. There are an estimated 156 million individuals in the\nworld who have intellectual disabilities. Intellectual disability cuts across lines\nof race, education, and social and economic background. It can occur in\nanyone. Hereditary components are known to account for only a fraction of the\ncases of intellectual disability. There are well over 350 causes of intellectual\ndisability and in three-quarters of the cases the specific cause is unknown.\nAbout 87 percent of all people with intellectual disabilities are mildly afflicted\nand in many respects are indistinguishable from people who do not have\nintellectual disabilities",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In spaces 14-20 below, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            14,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter A, B, C or D.",
+          "body": null,
+          "range": [
+            21,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "fill-in-blank",
+          "instruction": "Which THREE of the following facts relating to Down Syndrome are mentioned? Choose THREE letters A - F.",
+          "body": null,
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "To be eligible to take part in the Special Olympics, the\nathlete has to be not only less than intellectually capable, but must also\nbe lacking in a number of other functions.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "People with intellectual disabilities never improve\ntheir lives.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "All people with intellectual disabilities need the written\npermission of a parent or guardian in order to participate.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Down Syndrome participants often excel in their\nchosen field of athletic activity.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "People with Down Syndrome cannot participate in any\nswimming events.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "If you have Down Syndrome, your neck may be at risk\nof damage in certain spoils.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Participation in sports helps people with intellectual\ndisabilities lo improve their communication and social skills.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "What were the objectives of the Special Olympics document?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "to inform the public about what they are to expect from the Special Olympics",
+            "to provide information for future candidates",
+            "to promote awareness in the general population of the plight of disabled people",
+            "to list the problems intellectually disabled people have"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "What does the passage say about intellectual disability?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "The majority of cases are inherited.",
+            "Sufferers of the condition outnumber those with physical disabilities.",
+            "In most cases, the cause of the condition cannot be determined.",
+            "It may be determined by race, education, or social and economic background."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice",
+          "groupId": "p2g2",
+          "prompt": "What word best describes the Special Olympics participation policy?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "inconsistent",
+            "ambiguous",
+            "controversial",
+            "non-discriminatory"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "fill-in-blank",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,F",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "fill-in-blank",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,F",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "fill-in-blank",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,F",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Migrants and Refugees: Racial\nDiscrimination and Xenophobia"
+          },
+          {
+            "label": null,
+            "text": "Today, one in every 50 human beings is a migrant worker, a refugee or asylum\nseeker, or an immigrant living in a foreign country. Current estimates by the\nUnited Nations and the International Organisation for Migration indicate that\nsome 150 million people live temporarily or permanently outside their countries\nof origin (2.5% of the world population). Many of these, 80-97 million, are\nestimated to be migrant workers with members of their families. Another 12\nmillion are refugees outside their country of origin. These figures do not include\nthe estimated 20 million Internally Displaced Persons forcibly displaced within\ntheir own country, nor the tens of millions more of internal migrants, mainly\nrural to urban, in countries around the world."
+          },
+          {
+            "label": null,
+            "text": "Increasing ethnic and racial diversity of societies is the inevitable consequence\nof migration. Increasing migration means that a growing number of states have\nbecome or are becoming more multi-ethnic, and are confronted with the\nchallenge of accommodating peoples of different cultures, races, religions and\nlanguages. Addressing the reality of increased diversity means finding political,\nlegal, social and economic mechanisms to ensure mutual respect and to\nmediate relations across differences. But xenophobia and racism have become\nmanifest in some societies which have received substantial numbers of\nimmigrants, as workers or as asylum-seekers. In those countries the migrants\nhave become the targets in internal disputes about national identity. In the last\nfew decades, the emergence of new nation states has often been accompanied\nby ethnic exclusion."
+          },
+          {
+            "label": null,
+            "text": "As governments grapple with the new realities of their multi-ethnic societies,"
+          },
+          {
+            "label": null,
+            "text": "there has been a marked increase in discrimination and violence directed\nagainst migrants, refugees and other non-nationals by extremist groups in\nmany parts of the world. The lack of any systematic documentation or research\nover time makes it unclear whether there is a real increase in the level of\nabuse or in the level of exposure and reporting. Unfortunately, there is more\nthan enough anecdotal evidence to show that violations of the human rights of\nmigrants, refugees and other non-nationals are so generalised, widespread and\ncommonplace that they are a defining feature of international migration today."
+          },
+          {
+            "label": null,
+            "text": "The extent of racial discrimination and xenophobia is often played down and\nsometimes denied by authorities. Racial discrimination is defined in\ninternational law as being: any distinction, exclusion, restriction or preference\nbased on race, colour, descent or national or ethnic origin which has the\npurpose or effect of nullifying or impairing the recognition, enjoyment or\nexercise, on an equal footing, of human rights and fundamental freedoms in\nthe political, economic, social, cultural or any other field of public life."
+          },
+          {
+            "label": null,
+            "text": "Racism and xenophobia are distinct phenomena, although they often overlap.\nWhile racism generally implies distinction based on difference in physical\ncharacteristics, such as skin colour, hair type, facial features, etc, xenophobia\ndenotes behaviour specifically based on the perception that 'the other' is\nforeign to or originates from outside the community or nation. By the standard\ndictionary definition, xenophobia is the intense dislike or fear of strangers or\npeople from other countries. As a sociologist puts it, 'xenophobia is an\nattitudinal orientation of hostility against non-natives in a given population.'"
+          },
+          {
+            "label": null,
+            "text": "The definition of xenophobia, and its differentiation from racism and racial\ndiscrimination, is a still-evolving concept. One of the regional Preparatory\nMeetings for a recent World Conference suggested that:"
+          },
+          {
+            "label": null,
+            "text": "- Racism is an ideological construct that assigns a certain race and/or ethnic\ngroup, to a position of power over others on the basis of physical and cultural\nattributes, as well as economic wealth, involving hierarchical relations where\nthe superior race exercises domination and control over others."
+          },
+          {
+            "label": null,
+            "text": "- Xenophobia describes attitudes, prejudices and behaviour that reject, exclude\nand often vilify persons, based on the perception that they are outsiders or\nforeigners in the community, society or with respect to national identity."
+          },
+          {
+            "label": null,
+            "text": "In many cases, it is difficult to distinguish between racism and xenophobia as\nmotivations for behaviour, since differences in physical characteristics are\noften assumed to distinguish a person from the common identity. However,\nmanifestations of xenophobia occur against people of identical physical\ncharacteristics, even of shared ancestry, when such people arrive, return or"
+          },
+          {
+            "label": null,
+            "text": "migrate to states or areas where occupants consider them outsiders"
+          }
+        ],
+        "text": "Migrants and Refugees: Racial\nDiscrimination and Xenophobia\n\nToday, one in every 50 human beings is a migrant worker, a refugee or asylum\nseeker, or an immigrant living in a foreign country. Current estimates by the\nUnited Nations and the International Organisation for Migration indicate that\nsome 150 million people live temporarily or permanently outside their countries\nof origin (2.5% of the world population). Many of these, 80-97 million, are\nestimated to be migrant workers with members of their families. Another 12\nmillion are refugees outside their country of origin. These figures do not include\nthe estimated 20 million Internally Displaced Persons forcibly displaced within\ntheir own country, nor the tens of millions more of internal migrants, mainly\nrural to urban, in countries around the world.\n\nIncreasing ethnic and racial diversity of societies is the inevitable consequence\nof migration. Increasing migration means that a growing number of states have\nbecome or are becoming more multi-ethnic, and are confronted with the\nchallenge of accommodating peoples of different cultures, races, religions and\nlanguages. Addressing the reality of increased diversity means finding political,\nlegal, social and economic mechanisms to ensure mutual respect and to\nmediate relations across differences. But xenophobia and racism have become\nmanifest in some societies which have received substantial numbers of\nimmigrants, as workers or as asylum-seekers. In those countries the migrants\nhave become the targets in internal disputes about national identity. In the last\nfew decades, the emergence of new nation states has often been accompanied\nby ethnic exclusion.\n\nAs governments grapple with the new realities of their multi-ethnic societies,\n\nthere has been a marked increase in discrimination and violence directed\nagainst migrants, refugees and other non-nationals by extremist groups in\nmany parts of the world. The lack of any systematic documentation or research\nover time makes it unclear whether there is a real increase in the level of\nabuse or in the level of exposure and reporting. Unfortunately, there is more\nthan enough anecdotal evidence to show that violations of the human rights of\nmigrants, refugees and other non-nationals are so generalised, widespread and\ncommonplace that they are a defining feature of international migration today.\n\nThe extent of racial discrimination and xenophobia is often played down and\nsometimes denied by authorities. Racial discrimination is defined in\ninternational law as being: any distinction, exclusion, restriction or preference\nbased on race, colour, descent or national or ethnic origin which has the\npurpose or effect of nullifying or impairing the recognition, enjoyment or\nexercise, on an equal footing, of human rights and fundamental freedoms in\nthe political, economic, social, cultural or any other field of public life.\n\nRacism and xenophobia are distinct phenomena, although they often overlap.\nWhile racism generally implies distinction based on difference in physical\ncharacteristics, such as skin colour, hair type, facial features, etc, xenophobia\ndenotes behaviour specifically based on the perception that 'the other' is\nforeign to or originates from outside the community or nation. By the standard\ndictionary definition, xenophobia is the intense dislike or fear of strangers or\npeople from other countries. As a sociologist puts it, 'xenophobia is an\nattitudinal orientation of hostility against non-natives in a given population.'\n\nThe definition of xenophobia, and its differentiation from racism and racial\ndiscrimination, is a still-evolving concept. One of the regional Preparatory\nMeetings for a recent World Conference suggested that:\n\n- Racism is an ideological construct that assigns a certain race and/or ethnic\ngroup, to a position of power over others on the basis of physical and cultural\nattributes, as well as economic wealth, involving hierarchical relations where\nthe superior race exercises domination and control over others.\n\n- Xenophobia describes attitudes, prejudices and behaviour that reject, exclude\nand often vilify persons, based on the perception that they are outsiders or\nforeigners in the community, society or with respect to national identity.\n\nIn many cases, it is difficult to distinguish between racism and xenophobia as\nmotivations for behaviour, since differences in physical characteristics are\noften assumed to distinguish a person from the common identity. However,\nmanifestations of xenophobia occur against people of identical physical\ncharacteristics, even of shared ancestry, when such people arrive, return or\n\nmigrate to states or areas where occupants consider them outsiders",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-features",
+          "instruction": "Complete each sentence with the correct ending, A - F, below. Write the correct letter, A - F, in the spaces below.",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "are always culturally or physically distinct from the perpetrators of the acts of wrongdoing.",
+              "tend to share a likeness with the perpetrators of the crime",
+              "may still find themselves the victims of xenophobic behaviour.",
+              "has been observed in many different parts of the world.",
+              "will eventually reach a position of total submission.",
+              "has a controlling hand in the affairs of one or more of the other sections of society."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter A, B, C or D.",
+          "body": null,
+          "range": [
+            31,
+            34
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In spaces 35 - 40 below, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "An upward trend in violence perpetrated against non-\nnational minority groups by radical nationals",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Where racism occurs, the dominant group promotes a\nhierarchical system in which it",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Persons not considered to be culturally or physically\ndistinct from the majority",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Racism differs from xenophobia in that victims of the\nformer",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
         {
           "number": 31,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Which of the following migrants are there more of?",
-          "instruction": "Complete each sentence with the correct ending, A - F, below. Write the correct letter, A - F, in the spaces below. 27 An upward trend in violence perpetrated against non- national minority groups by radical nationals 28 Where racism occurs, the dominant group promotes a hierarchical system in which it 29 Persons not considered to be culturally or physically distinct from the majority 30 Racism differs from xenophobia in that victims of the former A are always culturally or physically distinct from the perpetrators of the acts of wrongdoing. B tend to share a likeness with the perpetrators of the crime C may still find themselves the victims of xenophobic behaviour. D has been observed in many different parts of the world. E will eventually reach a position of total submission. F has a controlling hand in the affairs of one or more of the other sections of society. Choose the correct letter A, B, C or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "internally displaced persons",
+            "refugees",
+            "internal migrants",
+            "immigrant workers"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "The author of the text believes that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "racism is inevitable when people emigrate.",
+            "governments arc finding it difficult to stop racism and xenophobia.",
+            "the exploitation of minority groups deters others from migrating.",
+            "xenophobia does not exist within minority groups."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "There is no real way of knowing how many migrants are discriminated against because",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "not all racial abuse cases are documented or looked into.",
+            "the number of migrants is increasing at an alarming rate.",
+            "migrants don't complain about being abused.",
+            "only serious cases are documented."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "People in authority sometimes",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "exaggerate the seriousness of the problem.",
+            "create the problem.",
+            "deny there is a problem.",
+            "are eager to solve the problem."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Most migrants flee their country of origin because of\npolitical or social disorder.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Most internal migrants leave the countryside for the\ncities.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Governments are often reluctant to acknowledge that\nracial discrimination and xenophobia exist.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Migrants are exploited and abused because they\ncreate a sense of insecurity for extremist groups.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "People who are racist or xenophobic are uneducated\nand hostile.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "People returning to their country of ancestry do not\nface xenophobia.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 35-40",
-      "questionRange": [
-        35,
-        40
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 35-40\n32 The author of the text believes that\nA\n \nB\n \nC\n \nD\n \n33 There is no real way of knowing how many migrants are discriminated\nagainst because\nA\n \nB\n \nC\n \nD\n \n34 People in authority sometimes\nA\n \nB\n \nC\n \nD\n \nracism is inevitable when people emigrate.\ngovernments arc finding it difficult to stop racism and\nxenophobia.\nthe exploitation of minority groups deters others from migrating.\nxenophobia does not exist within minority groups.\nnot all racial abuse cases are documented or looked into.\nthe number of migrants is increasing at an alarming rate.\nmigrants don’t complain about being abused.\nonly serious cases are documented.\nexaggerate the seriousness of the problem.\ncreate the problem.\ndeny there is a problem.\nare eager to solve the problem.\nDo the following statements agree with the information given in Reading\nPassage 3?\nIn spaces 35 - 40 below, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n35\n Most migrants flee their country of origin because of\npolitical or social disorder.\n\n36\n Most internal migrants leave the countryside for the\ncities.\n37\n Governments are often reluctant to acknowledge that\nracial discrimination and xenophobia exist.\n38\n Migrants are exploited and abused because they\ncreate a sense of insecurity for extremist groups.\n39\n People who are racist or xenophobic are uneducated\nand hostile.\n40\n People returning to their country of ancestry do not\nface xenophobia.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -216,7 +1237,7 @@
     "21": "B",
     "22": "C",
     "23": "D",
-    "26": "A,C,F",
+    "24": "A,C,F",
     "27": "D",
     "28": "F",
     "29": "C",
@@ -230,6 +1251,8 @@
     "37": "TRUE",
     "38": "NOT GIVEN",
     "39": "NOT GIVEN",
-    "40": "FALSE"
+    "40": "FALSE",
+    "25": "A,C,F",
+    "26": "A,C,F"
   }
 }

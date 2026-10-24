@@ -1,187 +1,1081 @@
 {
   "id": "master-ielts-general-training-volume-6_reading-practice-test-1-v9-2260444",
   "type": "general",
-  "source": "master-ielts-general-training-volume-6 reading-practice-test-1-v9-2260444",
+  "title": "Master IELTS General Training Volume 6 - Reading Test 1",
+  "collection": "Master IELTS General Training Volume 6",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 6,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-6_reading-practice-test-1-v9-2260444.pdf",
-  "total_questions": 15,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Ötzi the Iceman",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        7
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nÖtzi the Iceman",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Ötzi the Iceman"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-7"
+          },
+          {
+            "label": null,
+            "text": "Found in 1991 in the Ötztal Alps this well preserved mummy of a man has been\naffectionately nicknamed Ötzi the Iceman. He is Europe's oldest natural human mummy\nand has been estimated to have lived around 3,300 BC."
+          },
+          {
+            "label": null,
+            "text": "When first found people thought this was the body of a recently deceased climber. It\nwas only when Ötzi was taken to the University of Innsbruck that it was fairly quickly\ndetermined that this was an ancient mummy."
+          },
+          {
+            "label": null,
+            "text": "It was finally determined that Ötzi was about 45 years old when he died, weighed 50kg,\nand was 1.65 metres tall. It was even possible to tell which village he had lived in by the\ntype of pollen and dust grains found on his body."
+          },
+          {
+            "label": null,
+            "text": "His diet from several months before he died was determined by hair analysis and shown\nto be a mixture of different meats, wheat bread, root vegetables, fruits, and other\ngrains."
+          },
+          {
+            "label": null,
+            "text": "Ötzi's death most likely happened in the spring because of the presence of very fresh\npollen that is only seen at this time of year."
+          },
+          {
+            "label": null,
+            "text": "High levels of copper and arsenic were also found in his hair suggesting that he might\nhave been involved in making bronze (a mixture of copper, arsenic and/or tin). The\ncopper axe found by his side was probably made by him."
+          },
+          {
+            "label": null,
+            "text": "Lines on one of the two fingernails found indicate that he had been ill three times in the\nlast six months.\nÖtzi had several tattoos on his body including a cross behind his right knee and various\nmarks around both ankles. These might have been for decoration but it is thought that\nthey are connected to pain relief treatments similar to acupuncture and acupressure."
+          },
+          {
+            "label": null,
+            "text": "He wore a cloak made of woven grass and a coat, a belt, a pair of leggings, a loincloth,\nand shoes, all made of leather of different skins. This was seen as very sophisticated for\nthe time and suggests that Ötzi was a chief of his tribe. The shoes were waterproof and\ndesigned for walking across the snow. They were constructed using bearskin for the\nsoles, deer hide for the top panels, and a netting made of tree bark."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 8 -14."
+          },
+          {
+            "label": null,
+            "text": "Charles Macintosh"
+          },
+          {
+            "label": null,
+            "text": "It is difficult to imagine in today's world of high technology but in the 19th century it\nwas impossible to find a waterproof coat. Whenever it rained you were sure to get wet\nfrom head to toe. This was all to change with a little help from Charles Macintosh a\nScottish chemist and inventor."
+          },
+          {
+            "label": null,
+            "text": "Born in 1766, he was expected to spend his life working for his father in the family\nbusiness dyeing wool and silk. Charles had other ideas, after leaving school, he studied\nchemistry at a university in Glasgow and after graduating was employed as a clerk with\na merchant."
+          },
+          {
+            "label": null,
+            "text": "This was only a stepping-stone as Charles never gave up his love of science, particularly\nchemistry, and spent all of his free time studying. By the time he was twenty Charles\nhad given up his job and had opened up his own company manufacturing various\nchemicals including ammonium chloride and Prussian blue dye."
+          },
+          {
+            "label": null,
+            "text": "This became a successful business for Charles but he was not the kind of man just to\nfocus on one thing. He was constantly looking for better ways, and easier ways to do\nthings and with the help of James Beaumont Nelson he developed a process to make\nhigh quality cast iron. This was an essential part of the industrial revolution that was\nhappening in Britain at the time and was used to make machines, tools, bridges and\nships."
+          },
+          {
+            "label": null,
+            "text": "After the death of his father, Charles inherited the family business and began to look for\nways to invest his money. Around the same time, in 1817, the Glasgow Gas Light\nCompany was established and Charles became interested in finding a use for the waste\nproducts from the coal gas industry. One of these was the waste product known as coal\ntar naptha. With a touch of genius that perhaps no one else at the time could have\nthought of Charles combined his knowledge of dyeing material with his love of\nchemistry."
+          },
+          {
+            "label": null,
+            "text": "The result was a liquid rubber that when combined with other textiles made them\nwaterproof. The rainproof cloth was quickly adopted by the British army and navy. It\nwas sold to the public as the world's first raincoat - the Mackintosh. Note the added 'k'\nto Charles's name."
+          }
+        ],
+        "text": "Ötzi the Iceman\n\nRead the text below and answer Questions 1-7\n\nFound in 1991 in the Ötztal Alps this well preserved mummy of a man has been\naffectionately nicknamed Ötzi the Iceman. He is Europe's oldest natural human mummy\nand has been estimated to have lived around 3,300 BC.\n\nWhen first found people thought this was the body of a recently deceased climber. It\nwas only when Ötzi was taken to the University of Innsbruck that it was fairly quickly\ndetermined that this was an ancient mummy.\n\nIt was finally determined that Ötzi was about 45 years old when he died, weighed 50kg,\nand was 1.65 metres tall. It was even possible to tell which village he had lived in by the\ntype of pollen and dust grains found on his body.\n\nHis diet from several months before he died was determined by hair analysis and shown\nto be a mixture of different meats, wheat bread, root vegetables, fruits, and other\ngrains.\n\nÖtzi's death most likely happened in the spring because of the presence of very fresh\npollen that is only seen at this time of year.\n\nHigh levels of copper and arsenic were also found in his hair suggesting that he might\nhave been involved in making bronze (a mixture of copper, arsenic and/or tin). The\ncopper axe found by his side was probably made by him.\n\nLines on one of the two fingernails found indicate that he had been ill three times in the\nlast six months.\nÖtzi had several tattoos on his body including a cross behind his right knee and various\nmarks around both ankles. These might have been for decoration but it is thought that\nthey are connected to pain relief treatments similar to acupuncture and acupressure.\n\nHe wore a cloak made of woven grass and a coat, a belt, a pair of leggings, a loincloth,\nand shoes, all made of leather of different skins. This was seen as very sophisticated for\nthe time and suggests that Ötzi was a chief of his tribe. The shoes were waterproof and\ndesigned for walking across the snow. They were constructed using bearskin for the\nsoles, deer hide for the top panels, and a netting made of tree bark.\n\nRead the text below and answer Questions 8 -14.\n\nCharles Macintosh\n\nIt is difficult to imagine in today's world of high technology but in the 19th century it\nwas impossible to find a waterproof coat. Whenever it rained you were sure to get wet\nfrom head to toe. This was all to change with a little help from Charles Macintosh a\nScottish chemist and inventor.\n\nBorn in 1766, he was expected to spend his life working for his father in the family\nbusiness dyeing wool and silk. Charles had other ideas, after leaving school, he studied\nchemistry at a university in Glasgow and after graduating was employed as a clerk with\na merchant.\n\nThis was only a stepping-stone as Charles never gave up his love of science, particularly\nchemistry, and spent all of his free time studying. By the time he was twenty Charles\nhad given up his job and had opened up his own company manufacturing various\nchemicals including ammonium chloride and Prussian blue dye.\n\nThis became a successful business for Charles but he was not the kind of man just to\nfocus on one thing. He was constantly looking for better ways, and easier ways to do\nthings and with the help of James Beaumont Nelson he developed a process to make\nhigh quality cast iron. This was an essential part of the industrial revolution that was\nhappening in Britain at the time and was used to make machines, tools, bridges and\nships.\n\nAfter the death of his father, Charles inherited the family business and began to look for\nways to invest his money. Around the same time, in 1817, the Glasgow Gas Light\nCompany was established and Charles became interested in finding a use for the waste\nproducts from the coal gas industry. One of these was the waste product known as coal\ntar naptha. With a touch of genius that perhaps no one else at the time could have\nthought of Charles combined his knowledge of dyeing material with his love of\nchemistry.\n\nThe result was a liquid rubber that when combined with other textiles made them\nwaterproof. The rainproof cloth was quickly adopted by the British army and navy. It\nwas sold to the public as the world's first raincoat - the Mackintosh. Note the added 'k'\nto Charles's name.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1-7 on your answer sheet.",
+          "body": "Originally thought to be a climber that had [[1]] not long ago, 'tzi was then found to be an ancient mummy that had lived over [[5]],000 years ago. Scientists determined the location he had lived in because his body had a certain type of [[2]] on it. Through [[3]] we now know that he regularly ate a mixture of different foods including wheat bread and root vegetables. The season he died in was also worked out by the presence of [[4]] . 'tzi was not in the best of health and had in fact been ill 5 not so long ago as shown by marks on his nails. Different tattoos on his body might have been used for [[6]] . He was a well dressed man with the type of clothes that suggested he was a tribal [[7]]",
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 8-14 on your answer sheet.",
+          "body": "[[8]] was impossible to buy more than 200 years ago. Macintosh went to university instead of working for the [[9]] By the time he was [[10]] he had started his own company. Macintosh played a big part in the [[11]] that was happening at the time. Coal tar naptha was a [[12]] from the coal gas industry. After some research Macintosh was able to make [[13]] waterproof. The raincoat was finally ready when he added a [[14]]",
+          "range": [
+            8,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "recently deceased",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pollen",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "hair analysis",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pollen",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "3 / three times",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pain relief",
+          "trap": null
+        },
         {
           "number": 7,
           "type": "sentence-completion",
-          "prompt": "Complete the sentences below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 8-14 on your answer sheet.",
-          "instruction": "Read the text below and answer Questions 1–7 Read the text below and answer Questions 8 -14. Charles Macintosh Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 1-7 on your answer sheet.",
-          "answer": "chief"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "chief",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "was impossible to buy more than 200 years ago.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "A waterproof coat",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "family business",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "20 / twenty",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "industrial revolution",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "waste product",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "textiles",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "k",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "The Treehouse",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        20
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nThe Treehouse",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "The Treehouse"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15- 20."
+          },
+          {
+            "label": null,
+            "text": "About the Treehouse"
+          },
+          {
+            "label": null,
+            "text": "The Treehouse is built from Canadian cedar, Scandinavian redwood and English and\nScots pine. It sits high in the treetops among a group of mature lime trees and looks as\nif it's been there forever."
+          },
+          {
+            "label": null,
+            "text": "There are walkways in the sky and wobbly rope bridges, all accessible by wheelchair\nand buggy. At the heart of the Treehouse is one of the most beautiful and unique\nrestaurants to be found anywhere in the world. There's a roaring log fire in the center of\nthe room, trees growing through the floor, and handcrafted furniture."
+          },
+          {
+            "label": null,
+            "text": "About the Treehouse Restaurant"
+          },
+          {
+            "label": null,
+            "text": "Always featuring local fish and seafood, meats from Northumberland's farmlands and\nother regional specialities, the Treehouse Restaurant menu highlights local quality,\ntaste and changes throughout the seasons. There's a great wine list, a good range of\nbeers and regular live music."
+          },
+          {
+            "label": null,
+            "text": "For a family dining experience that you'll all enjoy, a great night out with friends or a\nromantic dinner for two, there's nowhere quite like it. We always recommend booking\nahead for lunch or dinner."
+          },
+          {
+            "label": null,
+            "text": "About the Potting Shed"
+          },
+          {
+            "label": null,
+            "text": "If you fancy a satisfying lunch, but don't want a full restaurant meal, the Potting Shed is\nperfect for you. During the day you can grab a drink with some friends, a range of hot\nand cold delicious light lunch choices, and relax - and all as you take in the unique\natmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or\nperhaps some irresistible sweet potato fries."
+          },
+          {
+            "label": null,
+            "text": "For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order\ninside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while\nkids can dash across rope bridges, run around and enjoy the enchanting walkways."
+          },
+          {
+            "label": null,
+            "text": "In the evening the Potting Shed really comes to life, and is open exclusively for our\ndinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their\nmeal, or a leisurely nightcap to end the evening."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 21- 27."
+          },
+          {
+            "label": null,
+            "text": "English Gardens"
+          },
+          {
+            "label": null,
+            "text": "The English landscape garden is a style of landscape garden which emerged in England\nin the early 18th century, and spread across Europe as the principal gardening style of\nEurope. The English garden was seen as a way to present an idealized view of nature\nand was influenced by gardens from the East and West."
+          },
+          {
+            "label": null,
+            "text": "The National Arboretum"
+          },
+          {
+            "label": null,
+            "text": "Westonbirt really comes into its own when the trees show off their autumn colour. There\nare over 16,000 trees and 17 miles of paths at Westonbirt, which also looks its best in\nspring with displays of rhododendrons, azaleas and magnolias."
+          },
+          {
+            "label": null,
+            "text": "Hidcote Manor"
+          },
+          {
+            "label": null,
+            "text": "This is an Arts & Crafts masterpiece hidden down a series of twisting country lanes in\nthe Cotswolds. It was designed and developed by current owner Maj. Lawrence\nJohnston, a wealthy, well educated and eccentric American who fought with the British\nArmy in the Boer and First World Wars. Johnston sponsored and participated in plant\nhunting expeditions around the world to secure rare and exotic species for this\nextremely pretty garden."
+          },
+          {
+            "label": null,
+            "text": "Stourhead"
+          },
+          {
+            "label": null,
+            "text": "Found in Wiltshire, this is an outstanding example of an 18th century English\nlandscaped garden - not so much rows of flower beds and herbaceous borders, as\nsweeping lawns, a picturesque lake and temples and a grotto. One of the temples was\nthe location of a rain-soaked (and unsuccessful!) marriage proposal scene in the 2005\nfilm Pride and Prejudice."
+          },
+          {
+            "label": null,
+            "text": "Hampton Court Palace"
+          },
+          {
+            "label": null,
+            "text": "Visitors can get lost in the gardens surrounding Henry VIII's famous palace - literally.\nThere is a maze dating back to about 1700, commissioned by William III. Originally\nplanted using hornbeam trees and later replanted using yew trees, the Hampton Court\nmaze covers a third of an acre, is trapezoid in shape and is the UK's oldest surviving\nhedge maze."
+          },
+          {
+            "label": null,
+            "text": "Sissinghurst Castle Gardens"
+          },
+          {
+            "label": null,
+            "text": "Visited by Queen Elizabeth in the 16th century, this is one of the most celebrated\ngardens in the world. Set in the ruins of an Elizabethan house, it offers spectacular\nviews on all sides across the fields and meadows of the Kentish landscape. Close by is\nthe aromatic garden built around a slender brick-built castle tower."
+          }
+        ],
+        "text": "The Treehouse\n\nRead the text below and answer Questions 15- 20.\n\nAbout the Treehouse\n\nThe Treehouse is built from Canadian cedar, Scandinavian redwood and English and\nScots pine. It sits high in the treetops among a group of mature lime trees and looks as\nif it's been there forever.\n\nThere are walkways in the sky and wobbly rope bridges, all accessible by wheelchair\nand buggy. At the heart of the Treehouse is one of the most beautiful and unique\nrestaurants to be found anywhere in the world. There's a roaring log fire in the center of\nthe room, trees growing through the floor, and handcrafted furniture.\n\nAbout the Treehouse Restaurant\n\nAlways featuring local fish and seafood, meats from Northumberland's farmlands and\nother regional specialities, the Treehouse Restaurant menu highlights local quality,\ntaste and changes throughout the seasons. There's a great wine list, a good range of\nbeers and regular live music.\n\nFor a family dining experience that you'll all enjoy, a great night out with friends or a\nromantic dinner for two, there's nowhere quite like it. We always recommend booking\nahead for lunch or dinner.\n\nAbout the Potting Shed\n\nIf you fancy a satisfying lunch, but don't want a full restaurant meal, the Potting Shed is\nperfect for you. During the day you can grab a drink with some friends, a range of hot\nand cold delicious light lunch choices, and relax - and all as you take in the unique\natmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or\nperhaps some irresistible sweet potato fries.\n\nFor a fantastic family lunch, why not eat outside on our Treehouse decking? Just order\ninside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while\nkids can dash across rope bridges, run around and enjoy the enchanting walkways.\n\nIn the evening the Potting Shed really comes to life, and is open exclusively for our\ndinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their\nmeal, or a leisurely nightcap to end the evening.\n\nRead the text below and answer Questions 21- 27.\n\nEnglish Gardens\n\nThe English landscape garden is a style of landscape garden which emerged in England\nin the early 18th century, and spread across Europe as the principal gardening style of\nEurope. The English garden was seen as a way to present an idealized view of nature\nand was influenced by gardens from the East and West.\n\nThe National Arboretum\n\nWestonbirt really comes into its own when the trees show off their autumn colour. There\nare over 16,000 trees and 17 miles of paths at Westonbirt, which also looks its best in\nspring with displays of rhododendrons, azaleas and magnolias.\n\nHidcote Manor\n\nThis is an Arts & Crafts masterpiece hidden down a series of twisting country lanes in\nthe Cotswolds. It was designed and developed by current owner Maj. Lawrence\nJohnston, a wealthy, well educated and eccentric American who fought with the British\nArmy in the Boer and First World Wars. Johnston sponsored and participated in plant\nhunting expeditions around the world to secure rare and exotic species for this\nextremely pretty garden.\n\nStourhead\n\nFound in Wiltshire, this is an outstanding example of an 18th century English\nlandscaped garden - not so much rows of flower beds and herbaceous borders, as\nsweeping lawns, a picturesque lake and temples and a grotto. One of the temples was\nthe location of a rain-soaked (and unsuccessful!) marriage proposal scene in the 2005\nfilm Pride and Prejudice.\n\nHampton Court Palace\n\nVisitors can get lost in the gardens surrounding Henry VIII's famous palace - literally.\nThere is a maze dating back to about 1700, commissioned by William III. Originally\nplanted using hornbeam trees and later replanted using yew trees, the Hampton Court\nmaze covers a third of an acre, is trapezoid in shape and is the UK's oldest surviving\nhedge maze.\n\nSissinghurst Castle Gardens\n\nVisited by Queen Elizabeth in the 16th century, this is one of the most celebrated\ngardens in the world. Set in the ruins of an Elizabethan house, it offers spectacular\nviews on all sides across the fields and meadows of the Kentish landscape. Close by is\nthe aromatic garden built around a slender brick-built castle tower.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-features",
+          "instruction": "Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
+          "body": null,
+          "range": [
+            15,
+            20
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "About the Treehouse",
+              "About the Restaurant",
+              "About the Potting Shed"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the reading passage? In boxes 21-27 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            21,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "matching-features",
+          "groupId": "p2g1",
           "prompt": "Highlights the lunch time menu",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 16,
           "type": "matching-features",
-          "prompt": "It’s much better to make a reservation before you go",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "B"
+          "groupId": "p2g1",
+          "prompt": "It's much better to make a reservation before you go",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 17,
           "type": "matching-features",
-          "prompt": "Discusses certain environmentally aspects of the building",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "A"
+          "groupId": "p2g1",
+          "prompt": "Discusses certain environmentally aspects of the\nbuilding",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 18,
           "type": "matching-features",
+          "groupId": "p2g1",
           "prompt": "Their menu focuses on local food",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 19,
           "type": "matching-features",
+          "groupId": "p2g1",
           "prompt": "Disabled people have easy access",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 20,
           "type": "matching-features",
-          "prompt": "This is a great place for children to play Do the following statements agree with the information given in the reading passage? In boxes 21-27 on your answer sheet, write",
-          "instruction": "Read the text below and answer Questions 15– 20. atmosphere. Choose from classics such as a bacon sandwich, chef's soup of the day, or perhaps some irresistible sweet potato fries. For a fantastic family lunch, why not eat outside on our Treehouse decking? Just order inside, eat outside - simple as that! Adults can relax to sunshine and birdsong, while kids can dash across rope bridges, run around and enjoy the enchanting walkways. In the evening the Potting Shed really comes to life, and is open exclusively for our dinner guests to enjoy a pre-dinner drink before moving on to the Restaurant for their meal, or a leisurely nightcap to end the evening. Read the text below and answer Questions 21– 27. English Gardens Look at the following statements and the different sections of the Treehouse below. Match each statement with the correct section, A-C. Write the correct letter, A-C, in boxes 15-20 on your answer sheet.",
-          "answer": "C"
+          "groupId": "p2g1",
+          "prompt": "This is a great place for children to play",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "The English landscaped garden started in England in\nthe 1800s.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "Westonbirt is really worth seeing in at least two\ndifferent seasons.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "It might be difficult to find Hidcote Manor.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "The owner of Hidcote manor is quite young.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "The gardens in Stourhead were first established to\nfilm Pride and Prejudice.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "Henry VIII used to spend a lot of time at Hampton\nCourt Palace.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "The Elizabethan house in Sissinghurst Castle Gardens\nhas now been rebuilt.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28 - 40."
+          },
+          {
+            "label": null,
+            "text": "Coffee"
+          },
+          {
+            "label": null,
+            "text": "It is not really known when the very first cup of coffee was drunk but there are\nwritten records from the 10th century that mention two Arabian philosophers\nwho drank a dark, bitter beverage. At the time it was called bunchum."
+          },
+          {
+            "label": null,
+            "text": "Before that it seems that the effects of coffee were well known to warriors in\nEthiopia as far back as the 6th century. They would grind the coffee beans into\na powder and then mix it with ghee, a kind of clarified butter, and eat it before\ngoing into battle. It is generally thought that coffee originates from the\nforested highlands of Ethiopia and then spread to North Africa, Arabia, and\nTurkey."
+          },
+          {
+            "label": null,
+            "text": "The favorite bedtime story about the origin of coffee goes like this: Once upon\na time in the land of Arabia there lived a goat herder named Kaldi. One night,\nKaldi's goats failed to come home, and in the morning he found them dancing\nwith abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi\nsoon determined that it was the red berries that caused the goats' eccentric\nbehavior, and soon he was dancing too."
+          },
+          {
+            "label": null,
+            "text": "Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny,\ndark-leafed shrub with the red berries. The learned imam subjected the red\nberries to various experiments, one of which involved boiling them in water.\nSoon, neither the imam nor his fellows fell asleep at prayers, and the use of\ncoffee spread from monastery to monastery, throughout Arabia and from there\nto the rest of the world."
+          },
+          {
+            "label": null,
+            "text": "The coffeehouse culture really took off in these areas in the 16th century and"
+          },
+          {
+            "label": null,
+            "text": "became so important that in Turkey not giving your wife enough coffee to drink\nwas seen as a good reason for divorce. Around this time coffee began to\nspread around the world but to maintain a monopoly all exported coffee beans\nhad to be boiled or partially roasted to prevent other counties from growing\nthem."
+          },
+          {
+            "label": null,
+            "text": "However, in the 17th century an Indian pilgrim - a Sufi - called Baba Budan\nmanaged to smuggle a few coffee beans out of Arabia and into India. He then\nestablished a coffee plantation in the Mysore region of India that still exists\ntoday. As of 2009, India produced only 4.5% of the world's coffee but this\ntranslates into 8,200 tons of coffee beans per year and an industry that\nsupports more than 250,000 coffee growers."
+          },
+          {
+            "label": null,
+            "text": "Although the first coffee house opened in Venice in 1683, coffee had been\navailable since 1608 but was seen as a luxury by all but the very rich.\nCoffeehouses quickly established a reputation as the place to be seen and a\npopular meeting place for political debate. The French revolutionists discussed\nthe fate of the bourgeoisie in coffeehouses and if it were not for coffee the\nfounding fathers of the United States of America may never have formed their\nnational policies as they too met in coffeehouses."
+          },
+          {
+            "label": null,
+            "text": "In seventeenth-century England, coffeehouses were often called penny\nuniversities where, for the price of three pennies (entry and a cup of coffee),\nyou could mix with famous scholars and participate in lively discussions. Later,\nin the eighteenth and nineteenth centuries, European and American\nintellectuals spent more time in coffeehouses than they did at home."
+          },
+          {
+            "label": null,
+            "text": "When you compare a typical 16th century breakfast in England of beer and\nherring with coffee, eggs and bread in the 19th century one might be forgiven\nfor thinking that it must have been coffee that fuelled the start of the industrial\nrevolution."
+          },
+          {
+            "label": null,
+            "text": "The coffee bean is in fact a seed and comes from a small red (sometimes\nyellow) fruit that grows on plants halfway in size between a shrub and a tree.\nThe fruit most commonly contains two stones with their flat sides together. A\nsmall percentage, about 10% -15% contain a single seed, and this is called a\npeaberry. Many people believe that they have more flavor than the more\ncommon two stone variety."
+          },
+          {
+            "label": null,
+            "text": "The two most economically important varieties of coffee plant in the world are\nthe Arabica and the Robusta; 75-80% of the coffee produced worldwide is\nArabica and 20% is Robusta. Arabica seeds consist of 0.8-1.4% caffeine and\nRobusta seeds consist of 1.7-4% caffeine. As coffee is one of the world's most\nwidely consumed beverages, coffee seeds are a major cash crop, and an"
+          },
+          {
+            "label": null,
+            "text": "important export product, counting for over 50% of some developing nations'\nforeign exchange earnings. The United States imports more coffee than any\nother nation. The average per capita consumption of coffee in the United\nStates in 2011 was 4.24 kg and the value of coffee imported exceeded $8\nbillion."
+          },
+          {
+            "label": null,
+            "text": "The process that turns these seeds into a beverage is a long and complex\nprocess, perhaps the most complex process associated with any major\nbeverage. It starts with the coffee grower, moves to the picker, then to the mill\nworkers who remove the fruit and dry the seeds, then to those who clean and\ngrade the beans, to those who roast them, to the consumers and baristas who\nfinally grind the beans and prepare the beverage."
+          },
+          {
+            "label": null,
+            "text": "Every act along the way affects the final taste. Each part of the process can be\nperformed either with passion or with carelessness. The final cup of coffee can,\ntherefore, end up tasting like ditch water or be like nectar that raises your\nsenses to an almost spiritual level of awareness."
+          }
+        ],
+        "text": "Read the text below and answer Questions 28 - 40.\n\nCoffee\n\nIt is not really known when the very first cup of coffee was drunk but there are\nwritten records from the 10th century that mention two Arabian philosophers\nwho drank a dark, bitter beverage. At the time it was called bunchum.\n\nBefore that it seems that the effects of coffee were well known to warriors in\nEthiopia as far back as the 6th century. They would grind the coffee beans into\na powder and then mix it with ghee, a kind of clarified butter, and eat it before\ngoing into battle. It is generally thought that coffee originates from the\nforested highlands of Ethiopia and then spread to North Africa, Arabia, and\nTurkey.\n\nThe favorite bedtime story about the origin of coffee goes like this: Once upon\na time in the land of Arabia there lived a goat herder named Kaldi. One night,\nKaldi's goats failed to come home, and in the morning he found them dancing\nwith abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi\nsoon determined that it was the red berries that caused the goats' eccentric\nbehavior, and soon he was dancing too.\n\nFinally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny,\ndark-leafed shrub with the red berries. The learned imam subjected the red\nberries to various experiments, one of which involved boiling them in water.\nSoon, neither the imam nor his fellows fell asleep at prayers, and the use of\ncoffee spread from monastery to monastery, throughout Arabia and from there\nto the rest of the world.\n\nThe coffeehouse culture really took off in these areas in the 16th century and\n\nbecame so important that in Turkey not giving your wife enough coffee to drink\nwas seen as a good reason for divorce. Around this time coffee began to\nspread around the world but to maintain a monopoly all exported coffee beans\nhad to be boiled or partially roasted to prevent other counties from growing\nthem.\n\nHowever, in the 17th century an Indian pilgrim - a Sufi - called Baba Budan\nmanaged to smuggle a few coffee beans out of Arabia and into India. He then\nestablished a coffee plantation in the Mysore region of India that still exists\ntoday. As of 2009, India produced only 4.5% of the world's coffee but this\ntranslates into 8,200 tons of coffee beans per year and an industry that\nsupports more than 250,000 coffee growers.\n\nAlthough the first coffee house opened in Venice in 1683, coffee had been\navailable since 1608 but was seen as a luxury by all but the very rich.\nCoffeehouses quickly established a reputation as the place to be seen and a\npopular meeting place for political debate. The French revolutionists discussed\nthe fate of the bourgeoisie in coffeehouses and if it were not for coffee the\nfounding fathers of the United States of America may never have formed their\nnational policies as they too met in coffeehouses.\n\nIn seventeenth-century England, coffeehouses were often called penny\nuniversities where, for the price of three pennies (entry and a cup of coffee),\nyou could mix with famous scholars and participate in lively discussions. Later,\nin the eighteenth and nineteenth centuries, European and American\nintellectuals spent more time in coffeehouses than they did at home.\n\nWhen you compare a typical 16th century breakfast in England of beer and\nherring with coffee, eggs and bread in the 19th century one might be forgiven\nfor thinking that it must have been coffee that fuelled the start of the industrial\nrevolution.\n\nThe coffee bean is in fact a seed and comes from a small red (sometimes\nyellow) fruit that grows on plants halfway in size between a shrub and a tree.\nThe fruit most commonly contains two stones with their flat sides together. A\nsmall percentage, about 10% -15% contain a single seed, and this is called a\npeaberry. Many people believe that they have more flavor than the more\ncommon two stone variety.\n\nThe two most economically important varieties of coffee plant in the world are\nthe Arabica and the Robusta; 75-80% of the coffee produced worldwide is\nArabica and 20% is Robusta. Arabica seeds consist of 0.8-1.4% caffeine and\nRobusta seeds consist of 1.7-4% caffeine. As coffee is one of the world's most\nwidely consumed beverages, coffee seeds are a major cash crop, and an\n\nimportant export product, counting for over 50% of some developing nations'\nforeign exchange earnings. The United States imports more coffee than any\nother nation. The average per capita consumption of coffee in the United\nStates in 2011 was 4.24 kg and the value of coffee imported exceeded $8\nbillion.\n\nThe process that turns these seeds into a beverage is a long and complex\nprocess, perhaps the most complex process associated with any major\nbeverage. It starts with the coffee grower, moves to the picker, then to the mill\nworkers who remove the fruit and dry the seeds, then to those who clean and\ngrade the beans, to those who roast them, to the consumers and baristas who\nfinally grind the beans and prepare the beverage.\n\nEvery act along the way affects the final taste. Each part of the process can be\nperformed either with passion or with carelessness. The final cup of coffee can,\ntherefore, end up tasting like ditch water or be like nectar that raises your\nsenses to an almost spiritual level of awareness.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet.",
+          "body": "Of the two main varieties of coffee plant, more [[32]] coffee is produced around the world than [[33]] but the latter has more [[34]] at [[35]]",
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet. What did Ethiopian warriors mix coffee powder with before going into battle?",
+          "body": "[[36]] According to a famous story, who realised coffee can keep you awake when praying? [[37]] How many coffee beans did Baba Budan smuggle into India? [[38]] What type of coffee bean is said to be the most flavourful? [[39]] If you don't treat coffee properly what can it end up tasting like? [[40]]",
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "How did Arabia maintain their monopoly of coffee?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "They never exported the beans",
+            "They boiled the beans",
+            "They only sold coffee powder",
+            "They roasted the beans"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Why was coffee slow to spread through Europe when first introduced?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "It was seen as an expensive luxury",
+            "Political reasons",
+            "There were no coffeehouses",
+            "It had a bad reputation"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What were coffeehouses in England also known as?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "home",
+            "places for intellectuals",
+            "cheap places to go",
+            "penny universities"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 31,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What was a typical breakfast in England in the 16th century?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "herrings, beer, and coffee",
+            "beer, bread, and eggs",
+            "herrings and beer",
+            "eggs, beer, and herrings"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Arabica",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Robusta",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "caffeine",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "1.7-4%",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "ghee / clarified butter",
+          "trap": null
         },
         {
           "number": 37,
-          "type": "multiple-choice",
-          "prompt": "How many coffee beans did Baba Budan smuggle into India?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet. Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet. Of the two main varieties of coffee plant, more 32 coffee is produced around the world than 33 but the latter has more 34 at 35 Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet. What did Ethiopian warriors mix coffee powder with before going into battle? 36 According to a famous story, who realised coffee can keep you awake when praying?",
-          "answer": "learned imam"
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "learned imam",
+          "trap": null
         },
         {
           "number": 38,
-          "type": "multiple-choice",
-          "prompt": "What type of coffee bean is said to be the most flavourful?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet. Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet. Of the two main varieties of coffee plant, more 32 coffee is produced around the world than 33 but the latter has more 34 at 35 Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet. What did Ethiopian warriors mix coffee powder with before going into battle? 36 According to a famous story, who realised coffee can keep you awake when praying?",
-          "answer": "a few"
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "a few",
+          "trap": null
         },
         {
           "number": 39,
-          "type": "multiple-choice",
-          "prompt": "If you don’t treat coffee properly what can it end up tasting like?",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet. Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet. Of the two main varieties of coffee plant, more 32 coffee is produced around the world than 33 but the latter has more 34 at 35 Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet. What did Ethiopian warriors mix coffee powder with before going into battle? 36 According to a famous story, who realised coffee can keep you awake when praying?",
-          "answer": "peaberry"
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "peaberry",
+          "trap": null
         },
         {
           "number": 40,
-          "type": "multiple-choice",
+          "type": "sentence-completion",
+          "groupId": "p3g3",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 28 – 40. Coffee It is not really known when the very first cup of coffee was drunk but there are written records from the 10th century that mention two Arabian philosophers who drank a dark, bitter beverage. At the time it was called bunchum. Before that it seems that the effects of coffee were well known to warriors in Ethiopia as far back as the 6th century. They would grind the coffee beans into a powder and then mix it with ghee, a kind of clarified butter, and eat it before going into battle. It is generally thought that coffee originates from the forested highlands of Ethiopia and then spread to North Africa, Arabia, and Turkey. The favorite bedtime story about the origin of coffee goes like this: Once upon a time in the land of Arabia there lived a goat herder named Kaldi. One night, Kaldi's goats failed to come home, and in the morning he found them dancing with abandoned glee near a shiny, dark-leafed shrub with red berries. Kaldi soon determined that it was the red berries that caused the goats' eccentric behavior, and soon he was dancing too. Finally, a learned imam saw the goats dancing, Kaldi dancing, and the shiny, dark-leafed shrub with the red berries. The learned imam subjected the red berries to various experiments, one of which involved boiling them in water. Soon, neither the imam nor his fellows fell asleep at prayers, and the use of coffee spread from monastery to monastery, throughout Arabia and from there to the rest of the world. The coffeehouse culture really took off in these areas in the 16th century and Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet. Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet. Of the two main varieties of coffee plant, more 32 coffee is produced around the world than 33 but the latter has more 34 at 35 Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet. What did Ethiopian warriors mix coffee powder with before going into battle? 36 According to a famous story, who realised coffee can keep you awake when praying?",
-          "answer": "ditch water"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "ditch water",
+          "trap": null
         }
       ]
     }

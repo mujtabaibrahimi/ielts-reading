@@ -1,0 +1,88 @@
+{
+  "p1g2": {
+    "instruction": "Complete the labels on Diagram A below. Write the correct letter A-J in boxes 6-9 on your answer sheet. Diagram A: Magnified side-view of a mirror.",
+    "optionBank": {
+      "title": "Labels",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "labels": [
+        "rouge",
+        "cast iron",
+        "felt",
+        "steam",
+        "shellac",
+        "glass",
+        "metal",
+        "silver nitrate paint",
+        "reducing solution"
+      ]
+    },
+    "questions": {
+      "6": {
+        "prompt": "Label 6: the first layer behind the front face",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "7": {
+        "prompt": "Label 7: the second layer behind the front face",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "8": {
+        "prompt": "Label 8: the outermost layer at the back",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "9": {
+        "prompt": "Label 9: the front face of the mirror",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    }
+  }
+}

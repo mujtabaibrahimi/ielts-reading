@@ -1,238 +1,1211 @@
 {
   "id": "master-ielts-general-training-volume-1_reading-practice-test-1-v9-1826800",
   "type": "general",
-  "source": "master-ielts-general-training-volume-1 reading-practice-test-1-v9-1826800",
+  "title": "Master IELTS General Training Volume 1 - Reading Test 1",
+  "collection": "Master IELTS General Training Volume 1",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-1_reading-practice-test-1-v9-1826800.pdf",
-  "total_questions": 13,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        5
+        13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [],
+        "heading": "WHERE TO STAY, ACCOMMODATION",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the four advertisements below and answer Questions 1-5."
+          },
+          {
+            "label": null,
+            "text": "A. COUNTRY COMFORT INN, HUNTER VALLEY"
+          },
+          {
+            "label": null,
+            "text": "The Country Comfort Inn, Hunter Valley, is a beautifully restored 125-year-old building\njust 20 minutes from the vineyards."
+          },
+          {
+            "label": null,
+            "text": "Formerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with\npool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar,\nand two restaurants, Special packages available."
+          },
+          {
+            "label": null,
+            "text": "New England Highway, Maitland."
+          },
+          {
+            "label": null,
+            "text": "Call toll free 1800 065 064 or (02) 4932 5288"
+          },
+          {
+            "label": null,
+            "text": "B. SIESTA MOTEL"
+          },
+          {
+            "label": null,
+            "text": "'Spend a night - not a fortune'"
+          },
+          {
+            "label": null,
+            "text": "That's the Budget Motel chain motto. The Siesta Motel, rated 3-star, is conveniently\nplaced at the gateway to the winery district and nearby to the historic towns of Morpeth\nand Wollombi."
+          },
+          {
+            "label": null,
+            "text": "The family-owned and operated Siesta offers airconditioned comfort and a friendly\natmosphere. A free light breakfast is delivered to your suite, and excellent meals are\navailable at the Maitland City Bowling Club next door."
+          },
+          {
+            "label": null,
+            "text": "Quality of accommodation is assured, yet our room rates are the lowest in the district."
+          },
+          {
+            "label": null,
+            "text": "258 New England Highway, Maitland."
+          },
+          {
+            "label": null,
+            "text": "Phone (049) 32 83 22"
+          },
+          {
+            "label": null,
+            "text": "C. ENDEAVOUR EAST MAITLAND MOTEL"
+          },
+          {
+            "label": null,
+            "text": "28 modern, comfortable 3-star units which open onto the swimming pool and barbeque\narea. All units feature flatscreen TVs and DVDs, airconditioning, 2 with spas."
+          },
+          {
+            "label": null,
+            "text": "Fully licensed restaurant with cocktail bar and lounge is open 7 nights. Close to all\namenities."
+          },
+          {
+            "label": null,
+            "text": "New England Highway, East Maitland."
+          },
+          {
+            "label": null,
+            "text": "Phone (02) 4933 5488"
+          },
+          {
+            "label": null,
+            "text": "D. ESKDALE COUNTRY COTTAGES"
+          },
+          {
+            "label": null,
+            "text": "Rustic cottages secluded amongst gum trees on 200 acres provide peace and quiet,\nand privacy. The cottages are located on the historic beef cattle property, 'Eskdale',\nnestled in the Williams Valley."
+          },
+          {
+            "label": null,
+            "text": "Each cottage is completely self-contained having 2 bedrooms, full kitchen facilities, and\nsitting rooms with TV and DVD, and offers comfortable rural accommodation to those\nwho enjoy the delights of the country yet still wish to have access to the city. Situated\ndose to the towns of Morpeth, Maitland, Port Stephens and rainforests around Dungog."
+          },
+          {
+            "label": null,
+            "text": "Nelson Plains Road, Seaham NSW 2324."
+          },
+          {
+            "label": null,
+            "text": "Phone (02) 4988 6207 Fax (02) 4988 6209"
+          },
+          {
+            "label": null,
+            "text": "Read the passage below and answer Question 6-8"
+          },
+          {
+            "label": null,
+            "text": "Morpeth is today a small town about two hours' drive north of Sydney. The town of\nMorpeth grew from an original 2000 acres of land given to an English army officer,\nLieutenant Edward Close (1790-1866), in 1821."
+          },
+          {
+            "label": null,
+            "text": "During the 1830s and 1840s, Morpeth became a major river port due to its favourable\nlocation. Produce, leather goods and timber were brought to Morpeth from inland New\nSouth Wales and shipped down the Hunter River to the coast and then to Sydney.\nHowever, in 1870 a railway line reached the town, and the importance of river shipping\nbegan to decline. Today, Morpeth, with its beautiful old buildings, is a popular tourist\ndestination."
+          },
+          {
+            "label": null,
+            "text": "The best way to sec Morpeth is to take the Morpeth Heritage Walk. This covers about\nthree kilometres, and takes visitors past many beautiful historic buildings. Starting at\nFig Tree Hill, which has picnic facilities, stroll past the Surgeon's Cottage, built in 1845,\nformerly home of the local doctor, now shops. From there you will come to Morpeth\nBridge, erected in 1870, which replaced a ferry boat. Opposite it on the right is the\nCourthouse, still in use today. Continue your walk past the historic railway station, then\nturn into George Street. Stroll past gracious houses until you come to the Church of the\nImmaculate Conception on your right, built of bricks made in Gosford. Continuing up\nGeorge Street, you come to the shopping district where you can browse through the\nshops or stop for refreshment. Your tour of Morpeth finishes at magnificent Closebourne\nHouse, built in 1826 by Lieutenant Edward Close."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Question 9-13"
+          },
+          {
+            "label": null,
+            "text": "CLASSIFIEDS"
+          },
+          {
+            "label": null,
+            "text": "BUSY PHARMACY in Eastern Suburbs urgently needs energetic, friendly assistant.\nExperience required, driver's licence helpful. Ability to deal with the public essential.\nGreat job for the right person. Apply in writing to P.O. Box 236, Elmdale South 2987."
+          },
+          {
+            "label": null,
+            "text": "CHILDMINDING Responsible teenager wanted to mind two school-age children Mon. to\nFri. 3pm to 6pm. References necessary and experience with young children preferred.\nPhone 9776 5489."
+          },
+          {
+            "label": null,
+            "text": "SALES Tired of selling all day with little to show for it? Looking to improve your sales\nskills? We can brush up your selling performance so that every potential customer is a\nsure sale. Contact Eric on 0412 425 789 during business hours for any queries."
+          },
+          {
+            "label": null,
+            "text": "ADMINISTRATIVE ASSISTANT required for busy publishing company. Word\nprocessing skills an advantage. Must be willing to work flexible hours and in different\nsections of the company. Apply in writing, naming two referees, to Recruitment Division,\nWall and Fixture Press, P.O. Box 375, Dunsmore 2777."
+          },
+          {
+            "label": null,
+            "text": "EXPERIENCED WAITER required for exclusive city restaurant. Lunches and dinners.\nGood appearance essential, plus knowledge of Japanese an advantage. Phone 0408 233\n188 after 5pm for interview."
+          },
+          {
+            "label": null,
+            "text": "ARE YOU a bright, cheerful person? Do you enjoy creative work? Are you willing to\nwork hard in a very pleasant environment? If so, Beecroft Hearts and Flowers, a busy\nflorist and gift shop in a major shopping centre needs you. Experience isn't necessary\nbut a driver's licence is. Contact Ellen, 0422 123 766 after 7am."
+          },
+          {
+            "label": null,
+            "text": "..."
+          },
+          {
+            "label": null,
+            "text": "For all your Classified Advertising phone 97976666"
+          },
+          {
+            "label": null,
+            "text": "Classifieds get results!"
+          }
+        ],
+        "text": "Read the four advertisements below and answer Questions 1-5.\n\nA. COUNTRY COMFORT INN, HUNTER VALLEY\n\nThe Country Comfort Inn, Hunter Valley, is a beautifully restored 125-year-old building\njust 20 minutes from the vineyards.\n\nFormerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with\npool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar,\nand two restaurants, Special packages available.\n\nNew England Highway, Maitland.\n\nCall toll free 1800 065 064 or (02) 4932 5288\n\nB. SIESTA MOTEL\n\n'Spend a night - not a fortune'\n\nThat's the Budget Motel chain motto. The Siesta Motel, rated 3-star, is conveniently\nplaced at the gateway to the winery district and nearby to the historic towns of Morpeth\nand Wollombi.\n\nThe family-owned and operated Siesta offers airconditioned comfort and a friendly\natmosphere. A free light breakfast is delivered to your suite, and excellent meals are\navailable at the Maitland City Bowling Club next door.\n\nQuality of accommodation is assured, yet our room rates are the lowest in the district.\n\n258 New England Highway, Maitland.\n\nPhone (049) 32 83 22\n\nC. ENDEAVOUR EAST MAITLAND MOTEL\n\n28 modern, comfortable 3-star units which open onto the swimming pool and barbeque\narea. All units feature flatscreen TVs and DVDs, airconditioning, 2 with spas.\n\nFully licensed restaurant with cocktail bar and lounge is open 7 nights. Close to all\namenities.\n\nNew England Highway, East Maitland.\n\nPhone (02) 4933 5488\n\nD. ESKDALE COUNTRY COTTAGES\n\nRustic cottages secluded amongst gum trees on 200 acres provide peace and quiet,\nand privacy. The cottages are located on the historic beef cattle property, 'Eskdale',\nnestled in the Williams Valley.\n\nEach cottage is completely self-contained having 2 bedrooms, full kitchen facilities, and\nsitting rooms with TV and DVD, and offers comfortable rural accommodation to those\nwho enjoy the delights of the country yet still wish to have access to the city. Situated\ndose to the towns of Morpeth, Maitland, Port Stephens and rainforests around Dungog.\n\nNelson Plains Road, Seaham NSW 2324.\n\nPhone (02) 4988 6207 Fax (02) 4988 6209\n\nRead the passage below and answer Question 6-8\n\nMorpeth is today a small town about two hours' drive north of Sydney. The town of\nMorpeth grew from an original 2000 acres of land given to an English army officer,\nLieutenant Edward Close (1790-1866), in 1821.\n\nDuring the 1830s and 1840s, Morpeth became a major river port due to its favourable\nlocation. Produce, leather goods and timber were brought to Morpeth from inland New\nSouth Wales and shipped down the Hunter River to the coast and then to Sydney.\nHowever, in 1870 a railway line reached the town, and the importance of river shipping\nbegan to decline. Today, Morpeth, with its beautiful old buildings, is a popular tourist\ndestination.\n\nThe best way to sec Morpeth is to take the Morpeth Heritage Walk. This covers about\nthree kilometres, and takes visitors past many beautiful historic buildings. Starting at\nFig Tree Hill, which has picnic facilities, stroll past the Surgeon's Cottage, built in 1845,\nformerly home of the local doctor, now shops. From there you will come to Morpeth\nBridge, erected in 1870, which replaced a ferry boat. Opposite it on the right is the\nCourthouse, still in use today. Continue your walk past the historic railway station, then\nturn into George Street. Stroll past gracious houses until you come to the Church of the\nImmaculate Conception on your right, built of bricks made in Gosford. Continuing up\nGeorge Street, you come to the shopping district where you can browse through the\nshops or stop for refreshment. Your tour of Morpeth finishes at magnificent Closebourne\nHouse, built in 1826 by Lieutenant Edward Close.\n\nRead the text below and answer Question 9-13\n\nCLASSIFIEDS\n\nBUSY PHARMACY in Eastern Suburbs urgently needs energetic, friendly assistant.\nExperience required, driver's licence helpful. Ability to deal with the public essential.\nGreat job for the right person. Apply in writing to P.O. Box 236, Elmdale South 2987.\n\nCHILDMINDING Responsible teenager wanted to mind two school-age children Mon. to\nFri. 3pm to 6pm. References necessary and experience with young children preferred.\nPhone 9776 5489.\n\nSALES Tired of selling all day with little to show for it? Looking to improve your sales\nskills? We can brush up your selling performance so that every potential customer is a\nsure sale. Contact Eric on 0412 425 789 during business hours for any queries.\n\nADMINISTRATIVE ASSISTANT required for busy publishing company. Word\nprocessing skills an advantage. Must be willing to work flexible hours and in different\nsections of the company. Apply in writing, naming two referees, to Recruitment Division,\nWall and Fixture Press, P.O. Box 375, Dunsmore 2777.\n\nEXPERIENCED WAITER required for exclusive city restaurant. Lunches and dinners.\nGood appearance essential, plus knowledge of Japanese an advantage. Phone 0408 233\n188 after 5pm for interview.\n\nARE YOU a bright, cheerful person? Do you enjoy creative work? Are you willing to\nwork hard in a very pleasant environment? If so, Beecroft Hearts and Flowers, a busy\nflorist and gift shop in a major shopping centre needs you. Experience isn't necessary\nbut a driver's licence is. Contact Ellen, 0422 123 766 after 7am.\n\n...\n\nFor all your Classified Advertising phone 97976666\n\nClassifieds get results!",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "For which advertisement are the following statements True? Write the appropriate letter, A-D, in boxes 1-5 on your answer TWO places to stay have restaurants.",
+          "body": "[[1]] The place claims to offer the cheapest rate. [[2]] You can ring the place without charge for more information. [[3]] Guests can cook their own food. [[4]] The place was not originally used by holiday makers. [[5]]",
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letter, A, B or C. Write the appropriate letter in boxes 6-8 on your answer sheet.",
+          "body": null,
+          "range": [
+            6,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 9-13 on your answer sheets. When should you call to ask about selling techniques?",
+          "body": "[[9]] How should you apply for the position in the chemist shop? [[10]] What number should you ring for the job being offered after school? [[11]] What qualification is essential for the position with Beecroft Hearts and Flowers? [[12]] What names do you need to provide for the job in publishing? [[13]]",
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
           "number": 4,
-          "type": "matching-features",
-          "prompt": "The place was not originally used by holiday makers.",
-          "instruction": "Read the four advertisements below and answer Questions 1-5. WHERE TO STAY, ACCOMMODATION A. COUNTRY COMFORT INN, HUNTER VALLEY The Country Comfort Inn, Hunter Valley, is a beautifully restored 125-year-old building just 20 minutes from the vineyards. Formerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with pool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar, and two restaurants, Special packages available. New England Highway, Maitland. Call toll free 1800 065 064 or (02) 4932 5288 B. SIESTA MOTEL Each cottage is completely self-contained having 2 bedrooms, full kitchen facilities, and sitting rooms with TV and DVD, and offers comfortable rural accommodation to those who enjoy the delights of the country yet still wish to have access to the city. Situated dose to the towns of Morpeth, Maitland, Port Stephens and rainforests around Dungog. Nelson Plains Road, Seaham NSW 2324. Phone (02) 4988 6207 Fax (02) 4988 6209 Read the passage below and answer Question 6-8 Read the text below and answer Question 9-13 CLASSIFIEDS Write the appropriate letter, A-D, in boxes 1-5 on your answer TWO places to stay have restaurants. 1 The place claims to offer the cheapest rate. 2 You can ring the place without charge for more information. 3 Guests can cook their own food.",
-          "answer": "D"
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
-          "prompt": "Choose the appropriate letter, A, B or C. Write the appropriate letter in boxes 6-8 on your answer sheet.",
-          "instruction": "Read the four advertisements below and answer Questions 1-5. WHERE TO STAY, ACCOMMODATION A. COUNTRY COMFORT INN, HUNTER VALLEY The Country Comfort Inn, Hunter Valley, is a beautifully restored 125-year-old building just 20 minutes from the vineyards. Formerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with pool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar, and two restaurants, Special packages available. New England Highway, Maitland. Call toll free 1800 065 064 or (02) 4932 5288 B. SIESTA MOTEL Each cottage is completely self-contained having 2 bedrooms, full kitchen facilities, and sitting rooms with TV and DVD, and offers comfortable rural accommodation to those who enjoy the delights of the country yet still wish to have access to the city. Situated dose to the towns of Morpeth, Maitland, Port Stephens and rainforests around Dungog. Nelson Plains Road, Seaham NSW 2324. Phone (02) 4988 6207 Fax (02) 4988 6209 Read the passage below and answer Question 6-8 Read the text below and answer Question 9-13 CLASSIFIEDS Write the appropriate letter, A-D, in boxes 1-5 on your answer TWO places to stay have restaurants. 1 The place claims to offer the cheapest rate. 2 You can ring the place without charge for more information. 3 Guests can cook their own food.",
-          "answer": "A"
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Morpeth developed into a town because",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "it was serviced by a railroad line.",
+            "of Lieutenant Close's planning.",
+            "it was conveniently situated on a waterway."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The town of Morpeth was known for",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "the goods and services it provided.",
+            "transporting goods to Sydney.",
+            "bringing goods inland."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Morpeth is popular with visitors today because of",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "the historic railway line of 1870.",
+            "the many historic shops.",
+            "the many attractive historic buildings."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "during business hours",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "in writing",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "97765489",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "driver's licence",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "two referees",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
-        22
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 2",
-        "tables": [
+        "heading": "NUMERACY CENTRE",
+        "paragraphs": [
           {
-            "page": 10,
-            "rows": [
-              [
-                "",
-                ""
-              ],
-              [
-                "GUIDELINES\nA resume is a summary of your skills and abilities, education and employment history,\nincluding your experience. It needs to be concise, informative and presented effectively\nso as to create a good first impression. A good resume can help to open the door for an\ninterview.\nFor an effective resume, six information sections should be delineated. PERSONAL\nINFORMATION\nHead your resume with personal details, including your name, address, telephone\nnumber(s) and email address. This information is generally centred on the page.\nCAREER OBJECTIVE\nWrite a career goal statement to define what you want to achieve in your chosen career\nand the direction you are taking to achieve it. This statement should be placed directly\nunder your personal details. Stating your goal not only articulates to the potential\nemployer that you have given some thought to your future career but how your\nemployment may work to the advantage of both parties. For example, if you have\nexcelled in computer-based technologies, you might state that you are seeking an\nopportunity to both use your IT skills and further develop them for the advancement of\nthe business or company, ie the potential employer.\nSKILLS, EXPERIENCE AND ACCOMPLISHMENTS\nIn this section, highlight specific skills and abilities acquired through work experience\nand which are relevant to the position you are applying for. Demonstrate how you\ndeveloped them and in what capacity, and how others have benefited from your\nexpertise. Ability to get the job done is what a potential employer wants to see. Include\nany special accomplishments as well. For example, completing a major project ahead of\nschedule and to budget is a significant achievement.\nEMPLOYMENT HISTORY\nProvide a listing of your work experience, starting from your most recent job, showing\neach of the following: employment dates, your job title or role, employer's name and\nlocation of the company or organisation.\nJust below this, using bullets, list your main responsibilities or duties, such as the\nnumber of people you have managed or supervised, budgetary responsibilities and\nmaintenance of databases.\nEDUCATION\nStart by listing your highest level of school or university education and then any\ntraining or workplace certificates that are relevant to the job you are applying for. The\nlatter may include leadership training programs or certification in technologies.\nREFERENCES\nReferences are provided so that your credentials can be verified.",
-                ""
-              ]
-            ],
-            "header": [
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "Read the passage below and answer Questions 14-22."
           },
           {
-            "page": 11,
-            "rows": [
-              [
-                "COURSE",
-                "Course\nDuration",
-                "Previous Courses\nRequired",
-                "Teaching Method"
-              ],
-              [
-                "A",
-                "3 hours",
-                "14",
-                "lecture"
-              ],
-              [
-                "B",
-                "3 hours",
-                "none",
-                "15\nlecture and"
-              ],
-              [
-                "C",
-                "2 days",
-                "16",
-                "workshops and small group\ndiscussions"
-              ],
-              [
-                "D",
-                "17",
-                "none",
-                "workshops"
-              ]
-            ],
-            "header": [
-              "COURSE",
-              "Course\nDuration",
-              "Previous Courses\nRequired",
-              "Teaching Method"
-            ]
+            "label": null,
+            "text": "Many business and marketing courses require a knowledge of introductory statistics,\ncomputing or mathematics. If you feel inadequately prepared for your course, you can\nget help from the Numeracy Centre, which offers FREE help in mathematics and\nstatistics. Grab a timetable from the Centre and drop in when it suits you."
+          },
+          {
+            "label": null,
+            "text": "COURSE A"
+          },
+          {
+            "label": null,
+            "text": "The first course available to students is a Revision Course in Basic Maths. This three-\nhour lecture will review mathematical concepts such as ratios, averages and\npercentages that will be necessary for any courses requiring elementary statistics.\nKnowledge of Year 10 Maths is a must. Booking is not necessary."
+          },
+          {
+            "label": null,
+            "text": "COURSE B"
+          },
+          {
+            "label": null,
+            "text": "For those students doing marketing courses and other courses requiring statistical\nanalysis, there is the Bridging Course in Statistics for Marketing. This course introduces\nideas in elementary statistics to provide a starting point for further developments in\nstatistical skills later on in other courses. The course is run in sessions of three hours, in\nthe form of a one-hour lecture followed by a two-hour tutorial. Examples will be drawn\nfrom reference books. The tutorials will be interactive where possible (e.g. drawing\nrandom samples from the population of numbered cards in class) with hands-on\nexperience of data manipulation using MINITAB on a bank of PCs."
+          },
+          {
+            "label": null,
+            "text": "COURSE C"
+          },
+          {
+            "label": null,
+            "text": "Statistics for the Practitioner is slightly different to the previous course, which must be\ncompleted before this course. This course is largely non-mathematical. It will instead\nconcentrate on the interpretation and application of statistics rather than on\ncomputation. The statistical package MINITAB will be used as a teaching tool. This\ncourse will be conducted over two days in the form of workshops and small group\ndiscussions, with a strong emphasis on hands-on experience of data manipulation using\ncomputers."
+          },
+          {
+            "label": null,
+            "text": "COURSE D"
+          },
+          {
+            "label": null,
+            "text": "Another course of interest to many students is this refresher Course in Basic Computing\nSkills designed specifically for business and marketing. Students who need more\npractise using and creating graphs, managing table data, setting up spreadsheets or\nembedding Excel data are encouraged to enrol in this 8-hour course. Students will learn\nthrough workshops giving hands-on experience. Course notes and practice files\nprovided."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 23-27."
+          },
+          {
+            "label": null,
+            "text": "WRITING A RESUME"
+          },
+          {
+            "label": null,
+            "text": "GUIDELINES"
+          },
+          {
+            "label": null,
+            "text": "A resume is a summary of your skills and abilities, education and employment history,\nincluding your experience. It needs to be concise, informative and presented effectively\nso as to create a good first impression. A good resume can help to open the door for an\ninterview."
+          },
+          {
+            "label": null,
+            "text": "For an effective resume, six information sections should be delineated. PERSONAL\nINFORMATION"
+          },
+          {
+            "label": null,
+            "text": "Head your resume with personal details, including your name, address, telephone\nnumber(s) and email address. This information is generally centred on the page."
+          },
+          {
+            "label": null,
+            "text": "CAREER OBJECTIVE"
+          },
+          {
+            "label": null,
+            "text": "Write a career goal statement to define what you want to achieve in your chosen career\nand the direction you are taking to achieve it. This statement should be placed directly\nunder your personal details. Stating your goal not only articulates to the potential\nemployer that you have given some thought to your future career but how your\nemployment may work to the advantage of both parties. For example, if you have\nexcelled in computer-based technologies, you might state that you are seeking an\nopportunity to both use your IT skills and further develop them for the advancement of\nthe business or company, ie the potential employer."
+          },
+          {
+            "label": null,
+            "text": "SKILLS, EXPERIENCE AND ACCOMPLISHMENTS"
+          },
+          {
+            "label": null,
+            "text": "In this section, highlight specific skills and abilities acquired through work experience\nand which are relevant to the position you are applying for. Demonstrate how you\ndeveloped them and in what capacity, and how others have benefited from your\nexpertise. Ability to get the job done is what a potential employer wants to see. Include\nany special accomplishments as well. For example, completing a major project ahead of\nschedule and to budget is a significant achievement."
+          },
+          {
+            "label": null,
+            "text": "EMPLOYMENT HISTORY"
+          },
+          {
+            "label": null,
+            "text": "Provide a listing of your work experience, starting from your most recent job, showing\neach of the following: employment dates, your job title or role, employer's name and\nlocation of the company or organisation."
+          },
+          {
+            "label": null,
+            "text": "Just below this, using bullets, list your main responsibilities or duties, such as the\nnumber of people you have managed or supervised, budgetary responsibilities and\nmaintenance of databases."
+          },
+          {
+            "label": null,
+            "text": "EDUCATION"
+          },
+          {
+            "label": null,
+            "text": "Start by listing your highest level of school or university education and then any\ntraining or workplace certificates that are relevant to the job you are applying for. The\nlatter may include leadership training programs or certification in technologies."
+          },
+          {
+            "label": null,
+            "text": "REFERENCES"
+          },
+          {
+            "label": null,
+            "text": "References are provided so that your credentials can be verified."
+          },
+          {
+            "label": null,
+            "text": "It is important to get permission beforehand from the referee(s) to be certain they are\navailable and willing to provide a positive reference on your behalf. List each referee's\nname, job title, name of the company/organisation and contact telephone numbers."
           }
         ],
+        "text": "Read the passage below and answer Questions 14-22.\n\nMany business and marketing courses require a knowledge of introductory statistics,\ncomputing or mathematics. If you feel inadequately prepared for your course, you can\nget help from the Numeracy Centre, which offers FREE help in mathematics and\nstatistics. Grab a timetable from the Centre and drop in when it suits you.\n\nCOURSE A\n\nThe first course available to students is a Revision Course in Basic Maths. This three-\nhour lecture will review mathematical concepts such as ratios, averages and\npercentages that will be necessary for any courses requiring elementary statistics.\nKnowledge of Year 10 Maths is a must. Booking is not necessary.\n\nCOURSE B\n\nFor those students doing marketing courses and other courses requiring statistical\nanalysis, there is the Bridging Course in Statistics for Marketing. This course introduces\nideas in elementary statistics to provide a starting point for further developments in\nstatistical skills later on in other courses. The course is run in sessions of three hours, in\nthe form of a one-hour lecture followed by a two-hour tutorial. Examples will be drawn\nfrom reference books. The tutorials will be interactive where possible (e.g. drawing\nrandom samples from the population of numbered cards in class) with hands-on\nexperience of data manipulation using MINITAB on a bank of PCs.\n\nCOURSE C\n\nStatistics for the Practitioner is slightly different to the previous course, which must be\ncompleted before this course. This course is largely non-mathematical. It will instead\nconcentrate on the interpretation and application of statistics rather than on\ncomputation. The statistical package MINITAB will be used as a teaching tool. This\ncourse will be conducted over two days in the form of workshops and small group\ndiscussions, with a strong emphasis on hands-on experience of data manipulation using\ncomputers.\n\nCOURSE D\n\nAnother course of interest to many students is this refresher Course in Basic Computing\nSkills designed specifically for business and marketing. Students who need more\npractise using and creating graphs, managing table data, setting up spreadsheets or\nembedding Excel data are encouraged to enrol in this 8-hour course. Students will learn\nthrough workshops giving hands-on experience. Course notes and practice files\nprovided.\n\nRead the text below and answer Questions 23-27.\n\nWRITING A RESUME\n\nGUIDELINES\n\nA resume is a summary of your skills and abilities, education and employment history,\nincluding your experience. It needs to be concise, informative and presented effectively\nso as to create a good first impression. A good resume can help to open the door for an\ninterview.\n\nFor an effective resume, six information sections should be delineated. PERSONAL\nINFORMATION\n\nHead your resume with personal details, including your name, address, telephone\nnumber(s) and email address. This information is generally centred on the page.\n\nCAREER OBJECTIVE\n\nWrite a career goal statement to define what you want to achieve in your chosen career\nand the direction you are taking to achieve it. This statement should be placed directly\nunder your personal details. Stating your goal not only articulates to the potential\nemployer that you have given some thought to your future career but how your\nemployment may work to the advantage of both parties. For example, if you have\nexcelled in computer-based technologies, you might state that you are seeking an\nopportunity to both use your IT skills and further develop them for the advancement of\nthe business or company, ie the potential employer.\n\nSKILLS, EXPERIENCE AND ACCOMPLISHMENTS\n\nIn this section, highlight specific skills and abilities acquired through work experience\nand which are relevant to the position you are applying for. Demonstrate how you\ndeveloped them and in what capacity, and how others have benefited from your\nexpertise. Ability to get the job done is what a potential employer wants to see. Include\nany special accomplishments as well. For example, completing a major project ahead of\nschedule and to budget is a significant achievement.\n\nEMPLOYMENT HISTORY\n\nProvide a listing of your work experience, starting from your most recent job, showing\neach of the following: employment dates, your job title or role, employer's name and\nlocation of the company or organisation.\n\nJust below this, using bullets, list your main responsibilities or duties, such as the\nnumber of people you have managed or supervised, budgetary responsibilities and\nmaintenance of databases.\n\nEDUCATION\n\nStart by listing your highest level of school or university education and then any\ntraining or workplace certificates that are relevant to the job you are applying for. The\nlatter may include leadership training programs or certification in technologies.\n\nREFERENCES\n\nReferences are provided so that your credentials can be verified.\n\nIt is important to get permission beforehand from the referee(s) to be certain they are\navailable and willing to provide a positive reference on your behalf. List each referee's\nname, job title, name of the company/organisation and contact telephone numbers.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer.",
+          "body": "Course, Course Duration, Previous Courses Required, and Teaching Method table. Course A: Duration '3 hours', Previous Courses Required '[[14]]', Teaching Method 'lecture'. Course B: Duration '3 hours', Previous Courses Required 'none', Teaching Method 'lecture and [[15]]'. Course C: Duration '2 days', Previous Courses Required '[[16]]', Teaching Method 'workshops and small group discussions'. Course D: Duration '[[17]]', Previous Courses Required 'none', Teaching Method 'workshops'.",
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements containing the different needs of students. Match each student need with the appropriate course A, B, C or D. Write the appropriate letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": {
+            "title": "Courses",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 23-27 on your answer sheet.",
+          "body": "Creating an interesting resume can secure an [[23]] for a candidate. Having a career goal also [[24]] to a possible employer that you have carefully considered your future career prospects. Providing an example of an important [[25]] demonstrates you are capable of doing a job well. Make sure that your work [[26]] shows what types of task you were responsible for. Be sure to have [[27]] prior to listing your nominated referee(s).",
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
           "type": "table-completion",
-          "prompt": "lecture B",
-          "instruction": "Read the passage below and answer Questions 14-22. NUMERACY CENTRE completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers. COURSE D Another course of interest to many students is this refresher Course in Basic Computing Skills designed specifically for business and marketing. Students who need more practise using and creating graphs, managing table data, setting up spreadsheets or embedding Excel data are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. Course notes and practice files provided. Read the text below and answer Questions 23-27. WRITING A RESUME Write a career goal statement to define what you want to achieve in your chosen career and the direction you are taking to achieve it. This statement should be placed directly under your personal details. Stating your goal not only articulates to the potential employer that you have given some thought to your future career but how your employment may work to the advantage of both parties. For example, if you have excelled in computer-based technologies, you might state that you are seeking an opportunity to both use your IT skills and further develop them for the advancement of the business or company, ie the potential employer. SKILLS, EXPERIENCE AND ACCOMPLISHMENTS In this section, highlight specific skills and abilities acquired through work experience and which are relevant to the position you are applying for. Demonstrate how you developed them and in what capacity, and how others have benefited from your expertise. Ability to get the job done is what a potential employer wants to see. Include any special accomplishments as well. For example, completing a major project ahead of schedule and to budget is a significant achievement. EMPLOYMENT HISTORY Provide a listing of your work experience, starting from your most recent job, showing each of the following: employment dates, your job title or role, employer's name and location of the company or organisation. Just below this, using bullets, list your main responsibilities or duties, such as the number of people you have managed or supervised, budgetary responsibilities and maintenance of databases. EDUCATION Start by listing your highest level of school or university education and then any training or workplace certificates that are relevant to the job you are applying for. The latter may include leadership training programs or certification in technologies. REFERENCES References are provided so that your credentials can be verified. Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. COURSE Course Duration Previous Courses Required Teaching Method A",
-          "answer": "year 10 Maths"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "year 10 Maths",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "tutorial",
+          "trap": null
         },
         {
           "number": 16,
           "type": "table-completion",
-          "prompt": "workshops and small group discussions D",
-          "instruction": "Read the passage below and answer Questions 14-22. NUMERACY CENTRE completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers. COURSE D Another course of interest to many students is this refresher Course in Basic Computing Skills designed specifically for business and marketing. Students who need more practise using and creating graphs, managing table data, setting up spreadsheets or embedding Excel data are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. Course notes and practice files provided. Read the text below and answer Questions 23-27. WRITING A RESUME Write a career goal statement to define what you want to achieve in your chosen career and the direction you are taking to achieve it. This statement should be placed directly under your personal details. Stating your goal not only articulates to the potential employer that you have given some thought to your future career but how your employment may work to the advantage of both parties. For example, if you have excelled in computer-based technologies, you might state that you are seeking an opportunity to both use your IT skills and further develop them for the advancement of the business or company, ie the potential employer. SKILLS, EXPERIENCE AND ACCOMPLISHMENTS In this section, highlight specific skills and abilities acquired through work experience and which are relevant to the position you are applying for. Demonstrate how you developed them and in what capacity, and how others have benefited from your expertise. Ability to get the job done is what a potential employer wants to see. Include any special accomplishments as well. For example, completing a major project ahead of schedule and to budget is a significant achievement. EMPLOYMENT HISTORY Provide a listing of your work experience, starting from your most recent job, showing each of the following: employment dates, your job title or role, employer's name and location of the company or organisation. Just below this, using bullets, list your main responsibilities or duties, such as the number of people you have managed or supervised, budgetary responsibilities and maintenance of databases. EDUCATION Start by listing your highest level of school or university education and then any training or workplace certificates that are relevant to the job you are applying for. The latter may include leadership training programs or certification in technologies. REFERENCES References are provided so that your credentials can be verified. Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. COURSE Course Duration Previous Courses Required Teaching Method A",
-          "answer": "Course B"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Course B",
+          "trap": null
         },
         {
           "number": 17,
           "type": "table-completion",
-          "prompt": "none workshops Look at the following statements containing the different needs of students.",
-          "instruction": "Read the passage below and answer Questions 14-22. NUMERACY CENTRE completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers. COURSE D Another course of interest to many students is this refresher Course in Basic Computing Skills designed specifically for business and marketing. Students who need more practise using and creating graphs, managing table data, setting up spreadsheets or embedding Excel data are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. Course notes and practice files provided. Read the text below and answer Questions 23-27. WRITING A RESUME Write a career goal statement to define what you want to achieve in your chosen career and the direction you are taking to achieve it. This statement should be placed directly under your personal details. Stating your goal not only articulates to the potential employer that you have given some thought to your future career but how your employment may work to the advantage of both parties. For example, if you have excelled in computer-based technologies, you might state that you are seeking an opportunity to both use your IT skills and further develop them for the advancement of the business or company, ie the potential employer. SKILLS, EXPERIENCE AND ACCOMPLISHMENTS In this section, highlight specific skills and abilities acquired through work experience and which are relevant to the position you are applying for. Demonstrate how you developed them and in what capacity, and how others have benefited from your expertise. Ability to get the job done is what a potential employer wants to see. Include any special accomplishments as well. For example, completing a major project ahead of schedule and to budget is a significant achievement. EMPLOYMENT HISTORY Provide a listing of your work experience, starting from your most recent job, showing each of the following: employment dates, your job title or role, employer's name and location of the company or organisation. Just below this, using bullets, list your main responsibilities or duties, such as the number of people you have managed or supervised, budgetary responsibilities and maintenance of databases. EDUCATION Start by listing your highest level of school or university education and then any training or workplace certificates that are relevant to the job you are applying for. The latter may include leadership training programs or certification in technologies. REFERENCES References are provided so that your credentials can be verified. Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. COURSE Course Duration Previous Courses Required Teaching Method A",
-          "answer": "8 hours"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "8 hours",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Catherine, who has difficulty presenting data, needs some help with importing and inserting graphs in her assignments for marketing.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Joe, who completed high school 10 years ago, wants to brush up on his mathematics skills before he starts his studies in business.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "Pamela needs to know how to analyse the statistical significance of data in marketing surveys.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 21,
           "type": "matching-features",
+          "groupId": "p2g2",
           "prompt": "Geoff, who has to read many articles containing statistics, needs to know how to interpret and apply the facts and figures.",
-          "instruction": "Read the passage below and answer Questions 14-22. NUMERACY CENTRE completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers. COURSE D Another course of interest to many students is this refresher Course in Basic Computing Skills designed specifically for business and marketing. Students who need more practise using and creating graphs, managing table data, setting up spreadsheets or embedding Excel data are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. Course notes and practice files provided. Read the text below and answer Questions 23-27. WRITING A RESUME Write a career goal statement to define what you want to achieve in your chosen career and the direction you are taking to achieve it. This statement should be placed directly under your personal details. Stating your goal not only articulates to the potential employer that you have given some thought to your future career but how your employment may work to the advantage of both parties. For example, if you have excelled in computer-based technologies, you might state that you are seeking an opportunity to both use your IT skills and further develop them for the advancement of the business or company, ie the potential employer. SKILLS, EXPERIENCE AND ACCOMPLISHMENTS In this section, highlight specific skills and abilities acquired through work experience and which are relevant to the position you are applying for. Demonstrate how you developed them and in what capacity, and how others have benefited from your expertise. Ability to get the job done is what a potential employer wants to see. Include any special accomplishments as well. For example, completing a major project ahead of schedule and to budget is a significant achievement. EMPLOYMENT HISTORY Provide a listing of your work experience, starting from your most recent job, showing each of the following: employment dates, your job title or role, employer's name and location of the company or organisation. Just below this, using bullets, list your main responsibilities or duties, such as the number of people you have managed or supervised, budgetary responsibilities and maintenance of databases. EDUCATION Start by listing your highest level of school or university education and then any training or workplace certificates that are relevant to the job you are applying for. The latter may include leadership training programs or certification in technologies. REFERENCES References are provided so that your credentials can be verified. Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. COURSE Course Duration Previous Courses Required Teaching Method A Look at the following statements containing the different needs of students. Match each student need with the appropriate course A, B, C or D. Write the appropriate letter, A, B, C or D in boxes 18-22 on your answer sheet. 18 Catherine, who has difficulty presenting data, needs some help with importing and inserting graphs in her assignments for marketing. 19 Joe, who completed high school 10 years ago, wants to brush upon his mathematics skills before ho starts his studies in business. 20 Pamela needs to know how to analyse the statistical significance of data in marketing surveys.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 22,
           "type": "matching-features",
-          "prompt": "Bob needs to know how to perform some of the basic statistic equations for the assignments in his business course. Complete the following sentences. Choose NO MORE THAN TWO WORDS from the text for each answer.",
-          "instruction": "Read the passage below and answer Questions 14-22. NUMERACY CENTRE completed before this course. This course is largely non-mathematical. It will instead concentrate on the interpretation and application of statistics rather than on computation. The statistical package MINITAB will be used as a teaching tool. This course will be conducted over two days in the form of workshops and small group discussions, with a strong emphasis on hands-on experience of data manipulation using computers. COURSE D Another course of interest to many students is this refresher Course in Basic Computing Skills designed specifically for business and marketing. Students who need more practise using and creating graphs, managing table data, setting up spreadsheets or embedding Excel data are encouraged to enrol in this 8-hour course. Students will learn through workshops giving hands-on experience. Course notes and practice files provided. Read the text below and answer Questions 23-27. WRITING A RESUME Write a career goal statement to define what you want to achieve in your chosen career and the direction you are taking to achieve it. This statement should be placed directly under your personal details. Stating your goal not only articulates to the potential employer that you have given some thought to your future career but how your employment may work to the advantage of both parties. For example, if you have excelled in computer-based technologies, you might state that you are seeking an opportunity to both use your IT skills and further develop them for the advancement of the business or company, ie the potential employer. SKILLS, EXPERIENCE AND ACCOMPLISHMENTS In this section, highlight specific skills and abilities acquired through work experience and which are relevant to the position you are applying for. Demonstrate how you developed them and in what capacity, and how others have benefited from your expertise. Ability to get the job done is what a potential employer wants to see. Include any special accomplishments as well. For example, completing a major project ahead of schedule and to budget is a significant achievement. EMPLOYMENT HISTORY Provide a listing of your work experience, starting from your most recent job, showing each of the following: employment dates, your job title or role, employer's name and location of the company or organisation. Just below this, using bullets, list your main responsibilities or duties, such as the number of people you have managed or supervised, budgetary responsibilities and maintenance of databases. EDUCATION Start by listing your highest level of school or university education and then any training or workplace certificates that are relevant to the job you are applying for. The latter may include leadership training programs or certification in technologies. REFERENCES References are provided so that your credentials can be verified. Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. COURSE Course Duration Previous Courses Required Teaching Method A Look at the following statements containing the different needs of students. Match each student need with the appropriate course A, B, C or D. Write the appropriate letter, A, B, C or D in boxes 18-22 on your answer sheet. 18 Catherine, who has difficulty presenting data, needs some help with importing and inserting graphs in her assignments for marketing. 19 Joe, who completed high school 10 years ago, wants to brush upon his mathematics skills before ho starts his studies in business. 20 Pamela needs to know how to analyse the statistical significance of data in marketing surveys.",
-          "answer": "B"
+          "groupId": "p2g2",
+          "prompt": "Bob needs to know how to perform some of the basic statistic equations for the assignments in his business course.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "interview",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "articulates",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "achievement",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "experience",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "permission",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
-        34
+        40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 3",
-        "tables": [],
+        "heading": "BUSINESS PLANNING",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28-34."
+          },
+          {
+            "label": null,
+            "text": "What is a Business Plan?"
+          },
+          {
+            "label": null,
+            "text": "A business plan is probably best described as a written summary and evaluation of your\nbusiness idea."
+          },
+          {
+            "label": null,
+            "text": "Preparing a business plan is the first and most important task for any new business\nowner. The plan should include details about your industry, product or service,\nmarketing, production, personnel, and financial strategies."
+          },
+          {
+            "label": null,
+            "text": "What purpose does it serve?"
+          },
+          {
+            "label": null,
+            "text": "A business plan helps you consider all aspects of your business and identify potential\nproblems. It identifies strengths and weaknesses and helps you assess whether your\nbusiness can succeed. It acts as a blueprint for starting, maintaining, or expanding a\nbusiness. It is a working plan to use in comparing your achievements to the goals you\nset. It should provide information required by financial institutions when finance is\nsought."
+          },
+          {
+            "label": null,
+            "text": "How to produce a Business Plan"
+          },
+          {
+            "label": null,
+            "text": "Step 1: Gathering Information"
+          },
+          {
+            "label": null,
+            "text": "Collect as much relevant information as possible about the industry you plan to enter -\nsuch as the number, size, and location of existing businesses. Use books, industry\nassociations, and current business owners as sources."
+          },
+          {
+            "label": null,
+            "text": "Gather information about your target market - who your customers are, why they buy,\nand what features they value most."
+          },
+          {
+            "label": null,
+            "text": "Learn as much as you can about the products or services you plan to provide."
+          },
+          {
+            "label": null,
+            "text": "Step 2: Analysis"
+          },
+          {
+            "label": null,
+            "text": "Review the information you have collected and decide what is most relevant to your\nbusiness idea. You may have to modify your idea depending on what your research\nshows. The key question is: Can your business earn enough to cover costs and provide a\nfair wage and reasonable profit?"
+          },
+          {
+            "label": null,
+            "text": "When Steps 1 and 2 are completed, you should have decided if there is a market for\nyour product or service which is large enough and sufficiently accessible to make your\nnew business financially worthwhile. Now you are ready to commit your plan to paper."
+          },
+          {
+            "label": null,
+            "text": "Step 3: Strategy Formulation"
+          },
+          {
+            "label": null,
+            "text": "Decide how the business will operate. Describe its management, staffing, and\norganisational structure. Diagrams may be useful to show how these areas will work.\nInclude the responsibilities of each team member. This is especially important if some\nstaff are family members."
+          },
+          {
+            "label": null,
+            "text": "A complete business plan also includes three additional sections:"
+          },
+          {
+            "label": null,
+            "text": "- A Marketing Plan, which includes location, method of selling, packaging and pricing. In\nall these areas, stay aware of consumer trends to ensure your business remains up to\ndate and competitive."
+          },
+          {
+            "label": null,
+            "text": "- An Operational Plan, which describes the day-to-day running of the business. You\nshould include supply sources, cost and quantities of materials, processes, equipment\nand methods of extending the services or products offered."
+          },
+          {
+            "label": null,
+            "text": "- A Financial Plan, which is a master budget for the operation and includes:"
+          },
+          {
+            "label": null,
+            "text": "cash flow forecast\nbalance sheet\nprofit and loss statement\nsources of finance\nsales forecast and target.\nThe financial section is especially important. Develop or seek financial expertise to\nensure your figures are accurate and realistic. Don't forget to include set-up costs and\nfunds to cover the initial period of low cash flow when preparing your first-year budget."
+          },
+          {
+            "label": null,
+            "text": "Update your Business Plan"
+          },
+          {
+            "label": null,
+            "text": "Nothing in business remains constant: circumstances, markets, fashions, and methods\nall change."
+          },
+          {
+            "label": null,
+            "text": "You should regularly review your sources of information and reassess your business\nplan. What is relevant at the start may not be appropriate five years later. You may also\nneed to revise targets and budgets if external factors, such as interest rates, change."
+          },
+          {
+            "label": null,
+            "text": "Keep your information up-to-date and be prepared to change as circumstances demand.\nA business plan should be thought of as flexible, not fixed. By following these steps and\nadapting your plan when necessary, you will be on the path to a successful business."
+          }
+        ],
+        "text": "Read the text below and answer Questions 28-34.\n\nWhat is a Business Plan?\n\nA business plan is probably best described as a written summary and evaluation of your\nbusiness idea.\n\nPreparing a business plan is the first and most important task for any new business\nowner. The plan should include details about your industry, product or service,\nmarketing, production, personnel, and financial strategies.\n\nWhat purpose does it serve?\n\nA business plan helps you consider all aspects of your business and identify potential\nproblems. It identifies strengths and weaknesses and helps you assess whether your\nbusiness can succeed. It acts as a blueprint for starting, maintaining, or expanding a\nbusiness. It is a working plan to use in comparing your achievements to the goals you\nset. It should provide information required by financial institutions when finance is\nsought.\n\nHow to produce a Business Plan\n\nStep 1: Gathering Information\n\nCollect as much relevant information as possible about the industry you plan to enter -\nsuch as the number, size, and location of existing businesses. Use books, industry\nassociations, and current business owners as sources.\n\nGather information about your target market - who your customers are, why they buy,\nand what features they value most.\n\nLearn as much as you can about the products or services you plan to provide.\n\nStep 2: Analysis\n\nReview the information you have collected and decide what is most relevant to your\nbusiness idea. You may have to modify your idea depending on what your research\nshows. The key question is: Can your business earn enough to cover costs and provide a\nfair wage and reasonable profit?\n\nWhen Steps 1 and 2 are completed, you should have decided if there is a market for\nyour product or service which is large enough and sufficiently accessible to make your\nnew business financially worthwhile. Now you are ready to commit your plan to paper.\n\nStep 3: Strategy Formulation\n\nDecide how the business will operate. Describe its management, staffing, and\norganisational structure. Diagrams may be useful to show how these areas will work.\nInclude the responsibilities of each team member. This is especially important if some\nstaff are family members.\n\nA complete business plan also includes three additional sections:\n\n- A Marketing Plan, which includes location, method of selling, packaging and pricing. In\nall these areas, stay aware of consumer trends to ensure your business remains up to\ndate and competitive.\n\n- An Operational Plan, which describes the day-to-day running of the business. You\nshould include supply sources, cost and quantities of materials, processes, equipment\nand methods of extending the services or products offered.\n\n- A Financial Plan, which is a master budget for the operation and includes:\n\ncash flow forecast\nbalance sheet\nprofit and loss statement\nsources of finance\nsales forecast and target.\nThe financial section is especially important. Develop or seek financial expertise to\nensure your figures are accurate and realistic. Don't forget to include set-up costs and\nfunds to cover the initial period of low cash flow when preparing your first-year budget.\n\nUpdate your Business Plan\n\nNothing in business remains constant: circumstances, markets, fashions, and methods\nall change.\n\nYou should regularly review your sources of information and reassess your business\nplan. What is relevant at the start may not be appropriate five years later. You may also\nneed to revise targets and budgets if external factors, such as interest rates, change.\n\nKeep your information up-to-date and be prepared to change as circumstances demand.\nA business plan should be thought of as flexible, not fixed. By following these steps and\nadapting your plan when necessary, you will be on the path to a successful business.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "true-false-not-given",
+          "instruction": "For questions 28-33, choose: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            28,
+            33
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+          "body": "Developing and Updating a Business Plan. Stage/Step, Main Focus, and Key Details/Information table. Step 1, Gathering Information: 'Collect details about the [[34]] you want to enter, including competitors and their locations; Find out who your [[35]] are and what they value most; Decide which information is [[36]] to your business idea'. Step 2, Analysis: 'Assess whether your product's market is both large and [[37]] enough to make the business financially practical'. Step 3, Strategy Formulation: 'Explain how the business will be run, including management, personnel and [[38]]; A full plan also includes marketing, operational and [[39]] plans'. Updating the Plan, Ongoing review: 'Revise targets and budgets if [[40]] change'.",
+          "range": [
+            34,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "true-false-not-given",
-          "prompt": "Every new business owner is advised to create a business plan before doing anything else.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "Every new business owner is advised to create a\nbusiness plan before doing anything else.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 29,
           "type": "true-false-not-given",
-          "prompt": "A business plan is mainly written to emphasise success and ignore potential problems.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g1",
+          "prompt": "A business plan is mainly written to emphasise\nsuccess and ignore potential problems.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 30,
           "type": "true-false-not-given",
-          "prompt": "Financial institutions often require a business plan before providing funding.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "Financial institutions often require a business plan\nbefore providing funding.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 31,
           "type": "true-false-not-given",
-          "prompt": "It is necessary to include every piece of information collected during research in the plan.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g1",
+          "prompt": "It is necessary to include every piece of information\ncollected during research in the plan.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 32,
           "type": "true-false-not-given",
-          "prompt": "Step 2 of the process involves checking whether the business can generate enough income to be worthwhile.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "Step 2 of the process involves checking whether the\nbusiness can generate enough income to be worthwhile.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 33,
           "type": "true-false-not-given",
-          "prompt": "Diagrams are mandatory when showing the organisation of the business. Complete the table below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
-          "instruction": "Read the text below and answer Questions 28-34. BUSINESS PLANNING What is a Business Plan? A business plan is probably best described as a written summary and evaluation of your business idea. Preparing a business plan is the first and most important task for any new business owner. The plan should include details about your industry, product or service, marketing, production, personnel, and financial strategies. What purpose does it serve? A business plan helps you consider all aspects of your business and identify potential problems. It identifies strengths and weaknesses and helps you assess whether your business can succeed. It acts as a blueprint for starting, maintaining, or expanding a business. It is a working plan to use in comparing your achievements to the goals you set. It should provide information required by financial institutions when finance is sought. How to produce a Business Plan Step 1: Gathering Information Collect as much relevant information as possible about the industry you plan to enter – such as the number, size, and location of existing businesses. Use books, industry associations, and current business owners as sources. Gather information about your target market – who your customers are, why they buy, and what features they value most. Learn as much as you can about the products or services you plan to provide. When Steps 1 and 2 are completed, you should have decided if there is a market for your product or service which is large enough and sufficiently accessible to make your new business financially worthwhile. Now you are ready to commit your plan to paper. Step 3: Strategy Formulation Decide how the business will operate. Describe its management, staffing, and organisational structure. Diagrams may be useful to show how these areas will work. Include the responsibilities of each team member. This is especially important if some staff are family members. A complete business plan also includes three additional sections: - A Marketing Plan, which includes location, method of selling, packaging and pricing. In all these areas, stay aware of consumer trends to ensure your business remains up to date and competitive. - An Operational Plan, which describes the day-to-day running of the business. You should include supply sources, cost and quantities of materials, processes, equipment and methods of extending the services or products offered. - A Financial Plan, which is a master budget for the operation and includes: cash flow forecast balance sheet profit and loss statement sources of finance sales forecast and target. The financial section is especially important. Develop or seek financial expertise to ensure your figures are accurate and realistic. Don’t forget to include set-up costs and funds to cover the initial period of low cash flow when preparing your first-year budget. Update your Business Plan Nothing in business remains constant: circumstances, markets, fashions, and methods all change. You should regularly review your sources of information and reassess your business plan. What is relevant at the start may not be appropriate five years later. You may also need to revise targets and budgets if external factors, such as interest rates, change. Keep your information up-to-date and be prepared to change as circumstances demand. A business plan should be thought of as flexible, not fixed. By following these steps and adapting your plan when necessary, you will be on the path to a successful business. For questions 28-33, choose: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g1",
+          "prompt": "Diagrams are mandatory when showing the\norganisation of the business.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "industry",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "customers",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "relevant",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "accessible",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "organisational structure",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "financial",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "external factors",
+          "trap": null
         }
       ]
     }
@@ -248,6 +1221,7 @@
     "8": "C",
     "9": "during business hours",
     "10": "in writing",
+    "11": "97765489",
     "12": "driver's licence",
     "13": "two referees",
     "14": "year 10 Maths",

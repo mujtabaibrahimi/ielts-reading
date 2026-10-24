@@ -1,167 +1,929 @@
 {
   "id": "ielts-mock-test-2024-october_reading-practice-test-4-v9-19000099",
   "type": "academic",
-  "source": "ielts-mock-test-2024-october reading-practice-test-4-v9-19000099",
+  "title": "IELTS Academic 2024 October - Reading Test 4",
+  "collection": "IELTS Academic Mock Tests 2024",
+  "testNumber": 4,
+  "year": 2024,
+  "month": 10,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2024-october_reading-practice-test-4-v9-19000099.pdf",
-  "total_questions": 4,
+  "totalQuestions": 40,
+  "answeredCount": 35,
+  "status": "partial",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "THE HISTORY OF GLASS",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nTHE HISTORY OF GLASS\nThroughout human history, glass has played a significant role in daily life. One\nof the earliest types of glass used by humans was obsidian, a naturally\noccurring volcanic glass that was formed by the intense heat of an eruption\nmelting sand. Early civilizations, including prehistoric societies, shaped\nobsidian into sharp-edged tools and weapons. Archaeological findings suggest\nthat by around 4000 BC, humans had begun to produce artificial glass, initially\nin the form of glazes used to coat stone ornaments. However, the first hollow\nglass container did not appear until approximately 1500 BC, when early\nglassmakers discovered a technique of shaping molten glass around a sand\ncore. This innovation laid the foundation for the glassmaking industry that\nwould continue to evolve over time.\nThe technique of glass blowing, which became a revolutionary advancement,\nwas developed around 30 BC in a region along the Syrian coastline. This\nmethod involved using a hollow metal tube to inflate hot glass, allowing it to be\nshaped into a variety of forms. Glassblowing enabled artisans to craft\nnumerous types of glass objects quickly and efficiently. The practice spread\nthroughout the Roman Empire, where it became increasingly common.\nHowever, after the collapse of the empire in AD 476, the production of glass\ndeclined significantly for many centuries. It was not until the 14th century that\nglassmaking regained importance, particularly in Venice, Italy, where artisans\nperfected techniques for producing high-quality, beautifully coloured glass.\nBy the late 16th century, glass manufacturing had reached England, where\nVenetian glassmakers introduced their knowledge and skills. The initial\nproducts were often thick and lacked clarity, but by the end of the century,\nBritish craftsmen had developed improved methods, resulting in clearer glass.\nHowever, the industry faced difficulties in the following century due to high\ntaxation. In 1746, an English craftsman named William Cookson found a way to\ncircumvent these taxes by working with lead crystal glass, which was not\nsubject to the same duties. His approach was quickly adopted by others,\nleading to the widespread use of lead crystal for luxury glassware across\nEurope.\nThe 19th century witnessed two major advancements in glassmaking. First, the",
-        "tables": [],
+        "heading": "THE HISTORY OF GLASS",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Throughout human history, glass has played a significant role in daily life. One\nof the earliest types of glass used by humans was obsidian, a naturally\noccurring volcanic glass that was formed by the intense heat of an eruption\nmelting sand. Early civilizations, including prehistoric societies, shaped\nobsidian into sharp-edged tools and weapons. Archaeological findings suggest\nthat by around 4000 BC, humans had begun to produce artificial glass, initially\nin the form of glazes used to coat stone ornaments. However, the first hollow\nglass container did not appear until approximately 1500 BC, when early\nglassmakers discovered a technique of shaping molten glass around a sand\ncore. This innovation laid the foundation for the glassmaking industry that\nwould continue to evolve over time."
+          },
+          {
+            "label": null,
+            "text": "The technique of glass blowing, which became a revolutionary advancement,\nwas developed around 30 BC in a region along the Syrian coastline. This\nmethod involved using a hollow metal tube to inflate hot glass, allowing it to be\nshaped into a variety of forms. Glassblowing enabled artisans to craft\nnumerous types of glass objects quickly and efficiently. The practice spread\nthroughout the Roman Empire, where it became increasingly common.\nHowever, after the collapse of the empire in AD 476, the production of glass\ndeclined significantly for many centuries. It was not until the 14th century that\nglassmaking regained importance, particularly in Venice, Italy, where artisans\nperfected techniques for producing high-quality, beautifully coloured glass."
+          },
+          {
+            "label": null,
+            "text": "By the late 16th century, glass manufacturing had reached England, where\nVenetian glassmakers introduced their knowledge and skills. The initial\nproducts were often thick and lacked clarity, but by the end of the century,\nBritish craftsmen had developed improved methods, resulting in clearer glass.\nHowever, the industry faced difficulties in the following century due to high\ntaxation. In 1746, an English craftsman named William Cookson found a way to\ncircumvent these taxes by working with lead crystal glass, which was not\nsubject to the same duties. His approach was quickly adopted by others,\nleading to the widespread use of lead crystal for luxury glassware across\nEurope."
+          },
+          {
+            "label": null,
+            "text": "The 19th century witnessed two major advancements in glassmaking. First, the"
+          },
+          {
+            "label": null,
+            "text": "introduction of mechanical pressing allowed glass to be mass-produced at a\nlower cost, making it affordable for a wider population. This innovation\nparticularly benefited the production of everyday glass items, such as bottles.\nSecondly, American inventor Michael Owens pioneered a method for\nautomating the production of glass bottles, significantly reducing their cost.\nConsequently, glass was increasingly used in construction, with larger windows\nbecoming commonplace in buildings. During this period, glass also found new\napplications in furniture and decorative art. By the 1960s, a special type of\nheat-reflective glass was developed to reduce energy consumption in\nbuildings, further extending the versatility of this material."
+          },
+          {
+            "label": null,
+            "text": "Modern glass is valued not only for being a green material but also for its\nsustainability. It is composed of abundant raw materials, including sand and\nsoda, and is infinitely recyclable without degrading in quality. In 2003,\nEuropean countries collected 2.6 million tonnes of glass for recycling, with an\nimpressive 62% being successfully processed for reuse. Some nations, such as\nFinland and Switzerland, achieved even higher recycling rates, exceeding 90%.\nRecycling glass requires less energy than producing new glass from raw\nmaterials, contributing to significant energy savings."
+          },
+          {
+            "label": null,
+            "text": "Beyond recycling, glass also supports environmental protection in other ways.\nFor example, some modern air-conditioning systems use glass-reinforced\nplastic tanks to store chilled water, allowing for more energy-efficient cooling.\nAdditionally, large glass containers filled with water have been submerged in\noceans to create artificial reefs, providing a habitat for marine life in areas\nwhere natural reefs have been destroyed. These innovative uses of glass\ndemonstrate its continuing role in both technological advancements and\nenvironmental protection."
+          }
+        ],
+        "text": "Throughout human history, glass has played a significant role in daily life. One\nof the earliest types of glass used by humans was obsidian, a naturally\noccurring volcanic glass that was formed by the intense heat of an eruption\nmelting sand. Early civilizations, including prehistoric societies, shaped\nobsidian into sharp-edged tools and weapons. Archaeological findings suggest\nthat by around 4000 BC, humans had begun to produce artificial glass, initially\nin the form of glazes used to coat stone ornaments. However, the first hollow\nglass container did not appear until approximately 1500 BC, when early\nglassmakers discovered a technique of shaping molten glass around a sand\ncore. This innovation laid the foundation for the glassmaking industry that\nwould continue to evolve over time.\n\nThe technique of glass blowing, which became a revolutionary advancement,\nwas developed around 30 BC in a region along the Syrian coastline. This\nmethod involved using a hollow metal tube to inflate hot glass, allowing it to be\nshaped into a variety of forms. Glassblowing enabled artisans to craft\nnumerous types of glass objects quickly and efficiently. The practice spread\nthroughout the Roman Empire, where it became increasingly common.\nHowever, after the collapse of the empire in AD 476, the production of glass\ndeclined significantly for many centuries. It was not until the 14th century that\nglassmaking regained importance, particularly in Venice, Italy, where artisans\nperfected techniques for producing high-quality, beautifully coloured glass.\n\nBy the late 16th century, glass manufacturing had reached England, where\nVenetian glassmakers introduced their knowledge and skills. The initial\nproducts were often thick and lacked clarity, but by the end of the century,\nBritish craftsmen had developed improved methods, resulting in clearer glass.\nHowever, the industry faced difficulties in the following century due to high\ntaxation. In 1746, an English craftsman named William Cookson found a way to\ncircumvent these taxes by working with lead crystal glass, which was not\nsubject to the same duties. His approach was quickly adopted by others,\nleading to the widespread use of lead crystal for luxury glassware across\nEurope.\n\nThe 19th century witnessed two major advancements in glassmaking. First, the\n\nintroduction of mechanical pressing allowed glass to be mass-produced at a\nlower cost, making it affordable for a wider population. This innovation\nparticularly benefited the production of everyday glass items, such as bottles.\nSecondly, American inventor Michael Owens pioneered a method for\nautomating the production of glass bottles, significantly reducing their cost.\nConsequently, glass was increasingly used in construction, with larger windows\nbecoming commonplace in buildings. During this period, glass also found new\napplications in furniture and decorative art. By the 1960s, a special type of\nheat-reflective glass was developed to reduce energy consumption in\nbuildings, further extending the versatility of this material.\n\nModern glass is valued not only for being a green material but also for its\nsustainability. It is composed of abundant raw materials, including sand and\nsoda, and is infinitely recyclable without degrading in quality. In 2003,\nEuropean countries collected 2.6 million tonnes of glass for recycling, with an\nimpressive 62% being successfully processed for reuse. Some nations, such as\nFinland and Switzerland, achieved even higher recycling rates, exceeding 90%.\nRecycling glass requires less energy than producing new glass from raw\nmaterials, contributing to significant energy savings.\n\nBeyond recycling, glass also supports environmental protection in other ways.\nFor example, some modern air-conditioning systems use glass-reinforced\nplastic tanks to store chilled water, allowing for more energy-efficient cooling.\nAdditionally, large glass containers filled with water have been submerged in\noceans to create artificial reefs, providing a habitat for marine life in areas\nwhere natural reefs have been destroyed. These innovative uses of glass\ndemonstrate its continuing role in both technological advancements and\nenvironmental protection.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "introduction of mechanical pressing allowed glass to be mass-produced at a",
-      "questionRange": [
-        1,
-        8
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1-8 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 9-13 on your answer sheet. RECYCLING GLASS Glass is made from materials that are plentiful.",
+          "body": "Recycling glass provides energy [[9]] Glass is a [[10]] product, which means it is good for the environment. The UK aims to [[11]] the amount of recycled glass it uses. New technology can be used to help the [[12]] of the environment. Glass is used in the manufacture of products including [[13]] and air tanks.",
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "introduction of mechanical pressing allowed glass to be mass-produced at a\nlower cost, making it affordable for a wider population. This innovation\nparticularly benefited the production of everyday glass items, such as bottles.\nSecondly, American inventor Michael Owens pioneered a method for\nautomating the production of glass bottles, significantly reducing their cost.\nConsequently, glass was increasingly used in construction, with larger windows\nbecoming commonplace in buildings. During this period, glass also found new\napplications in furniture and decorative art. By the 1960s, a special type of\nheat-reflective glass was developed to reduce energy consumption in\nbuildings, further extending the versatility of this material.\nModern glass is valued not only for being a green material but also for its\nsustainability. It is composed of abundant raw materials, including sand and\nsoda, and is infinitely recyclable without degrading in quality. In 2003,\nEuropean countries collected 2.6 million tonnes of glass for recycling, with an\nimpressive 62% being successfully processed for reuse. Some nations, such as\nFinland and Switzerland, achieved even higher recycling rates, exceeding 90%.\nRecycling glass requires less energy than producing new glass from raw\nmaterials, contributing to significant energy savings.\nBeyond recycling, glass also supports environmental protection in other ways.\nFor example, some modern air-conditioning systems use glass-reinforced\nplastic tanks to store chilled water, allowing for more energy-efficient cooling.\nAdditionally, large glass containers filled with water have been submerged in\noceans to create artificial reefs, providing a habitat for marine life in areas\nwhere natural reefs have been destroyed. These innovative uses of glass\ndemonstrate its continuing role in both technological advancements and\nenvironmental protection.\nQuestions 1-8\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 1-8 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n1\n . Ancient Egyptians used glass in their buildings.\n2\n . The first man-made glass objects were Egyptian\n\nQuestions 9-13\nbeads.\n3\n . The Romans were the first to use glass for making\nwindows.\n4\n . Glass blowing developed in Egypt after spreading\nfrom Syria.\n5\n . The Venetians used a variety of techniques to colour\nglass.\n6\n . Only rich people could afford mirrors in 17th century\nBritain.\n7\n . According to the writer, the 19th century saw the\nappearance of a new form of glass.\n8\n . Glassmaking techniques were taken to France from\nBritain in the 17th century.\nComplete the notes below. \nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 9-13 on your answer sheet.\nRECYCLING GLASS\nGlass is made from materials that are plentiful.\nRecycling glass provides energy 9\n \nGlass is a 10\n product, which means it is good for the\nenvironment.\nThe UK aims to 11\n the amount of recycled glass it uses.\nNew technology can be used to help the 12\n of the environment.\nGlass is used in the manufacture of products including 13\n and air\ntanks.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". Ancient Egyptians used glass in their buildings.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". The first man-made glass objects were Egyptian",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". The Romans were the first to use glass for making",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". Glass blowing developed in Egypt after spreading",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". The Venetians used a variety of techniques to colour",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". Only rich people could afford mirrors in 17th century",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". According to the writer, the 19th century saw the",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": ". Glassmaking techniques were taken to France from",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "savings",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "green",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "increase",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "protection",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "furniture",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "THE JAPANESE ROCK GARDEN",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 1 below.\nTHE JAPANESE ROCK GARDEN\nThe karesansui, or Japanese rock garden, is a unique and beautiful form of\nlandscape art. Often called ‘Zen gardens’, they are found in the temples of Zen\nBuddhism in Japan. The gardens are not large, and they are enclosed by walls.\nThe main components are rocks and gravel, with a few plants. The rocks are\nplaced in carefully selected positions in the garden, and the gravel is raked to\ncreate patterns that often suggest rippling water. The design of the garden is\nbased on various principles, and the aim is to create a peaceful place for\nmeditation and contemplation. The gardens are regarded as great works of art,\nand they have influenced garden design in the West, as well as the art of\ngarden landscaping in Japan. However, the karesansui is not a modern\nphenomenon. The history of this art form goes back a long way.\nThe first rock gardens in Japan were probably inspired by the Chinese gardens\ncreated during the Han dynasty (206 BC-220 AD). These gardens were\ndesigned to look like Chinese paintings of natural landscapes. They were\nintended to be viewed from a building, and they consisted of a pond and an\nisland, with a bridge connecting the two. The gardens were built by the nobility\nin the capital, Kyoto, and they were a sign of a family’s status. The first truly\nJapanese gardens were built in the early 11th century, but they still had some\nof the features of the Chinese gardens. The pond and the island were still there,\nbut the bridge was replaced by stepping stones, and there were more rocks.\nThese gardens were also intended to be viewed from a building, not from\nwithin the garden itself. \nBy the 13th century, the influence of Chinese landscape painting was beginning\nto have an effect on the design of Japanese gardens. This was the time when\nZen Buddhism was introduced to Japan, and the first Zen temples were built.\nThe first rock gardens were built in these temples, and they were used by Zen\nmonks as an aid to meditation. The garden was intended to be viewed from a\nsingle point, usually from a platform on the veranda of the temple. The gardens\nwere not intended to look like real landscapes, but to represent the essence of\nnature's principles. The garden's aesthetic differs from that of conventional art\nforms like painting or sculpture. The beauty of the garden was in its simple,\nunadorned naturalness. \n\nThis shift in the garden's purpose, from representing natural landscapes to\naiding in meditation, prompted a change in design. The design of the garden\nwas based on a number of principles. One of these was the idea of yohaku-no-\nbi, or the beauty of extra white. This refers to the use of empty space in the\ngarden, which is as important as the rocks. Another principle was the idea of\nomomi, or the abstract quality of the garden. The garden is not supposed to\nlook like a real landscape, but to suggest the spirit of nature. The most famous\nof all the Japanese gardens, and the best example of a rock garden, is at the\nZen temple of Ryoanji in Kyoto. It was built in the late 15th century, and it\nconsists of a rectangle of white gravel, surrounded by a low wall, with 15 rocks\nof different sizes placed on the gravel. The rocks are placed in five groups, and\nthe gravel is raked every day by the monks. The garden is viewed from a\nplatform on the veranda of the temple, and it is often said that only 14 of the\nrocks can be seen at any one time, no matter where the person viewing the\ngarden is sitting. \nThe karesansui continued to evolve over the next few centuries. By the 18th\ncentury, the gardens were beginning to lose their spiritual significance, and\nthey were being built in the gardens of the nobility. By the 19th century, the\ngardens were being built in the grounds of hotels and inns, and they were\nbecoming a tourist attraction. This was the time when Japan was opening up to\nthe West, and the gardens were being built to cater for the increasing number\nof foreign tourists. The gardens were no longer being built according to the\nprinciples of Zen Buddhism, and they were no longer being used as an aid to\nmeditation. \nThe influence of karesansui extends far beyond its original temple setting. It is\nnow featured in homes, parks, and public buildings worldwide. This art form, a\npowerful representation of Japanese aesthetic principles, has achieved\ninternational significance through its impact on Western garden design.",
-        "tables": [],
+        "heading": "THE JAPANESE ROCK GARDEN",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "The karesansui, or Japanese rock garden, is a unique and beautiful form of\nlandscape art. Often called 'Zen gardens', they are found in the temples of Zen\nBuddhism in Japan. The gardens are not large, and they are enclosed by walls.\nThe main components are rocks and gravel, with a few plants. The rocks are\nplaced in carefully selected positions in the garden, and the gravel is raked to\ncreate patterns that often suggest rippling water. The design of the garden is\nbased on various principles, and the aim is to create a peaceful place for\nmeditation and contemplation. The gardens are regarded as great works of art,\nand they have influenced garden design in the West, as well as the art of\ngarden landscaping in Japan. However, the karesansui is not a modern\nphenomenon. The history of this art form goes back a long way."
+          },
+          {
+            "label": null,
+            "text": "The first rock gardens in Japan were probably inspired by the Chinese gardens\ncreated during the Han dynasty (206 BC-220 AD). These gardens were\ndesigned to look like Chinese paintings of natural landscapes. They were\nintended to be viewed from a building, and they consisted of a pond and an\nisland, with a bridge connecting the two. The gardens were built by the nobility\nin the capital, Kyoto, and they were a sign of a family's status. The first truly\nJapanese gardens were built in the early 11th century, but they still had some\nof the features of the Chinese gardens. The pond and the island were still there,\nbut the bridge was replaced by stepping stones, and there were more rocks.\nThese gardens were also intended to be viewed from a building, not from\nwithin the garden itself."
+          },
+          {
+            "label": null,
+            "text": "By the 13th century, the influence of Chinese landscape painting was beginning\nto have an effect on the design of Japanese gardens. This was the time when\nZen Buddhism was introduced to Japan, and the first Zen temples were built.\nThe first rock gardens were built in these temples, and they were used by Zen\nmonks as an aid to meditation. The garden was intended to be viewed from a\nsingle point, usually from a platform on the veranda of the temple. The gardens\nwere not intended to look like real landscapes, but to represent the essence of\nnature's principles. The garden's aesthetic differs from that of conventional art\nforms like painting or sculpture. The beauty of the garden was in its simple,\nunadorned naturalness."
+          },
+          {
+            "label": null,
+            "text": "This shift in the garden's purpose, from representing natural landscapes to\naiding in meditation, prompted a change in design. The design of the garden\nwas based on a number of principles. One of these was the idea of yohaku-no-\nbi, or the beauty of extra white. This refers to the use of empty space in the\ngarden, which is as important as the rocks. Another principle was the idea of\nomomi, or the abstract quality of the garden. The garden is not supposed to\nlook like a real landscape, but to suggest the spirit of nature. The most famous\nof all the Japanese gardens, and the best example of a rock garden, is at the\nZen temple of Ryoanji in Kyoto. It was built in the late 15th century, and it\nconsists of a rectangle of white gravel, surrounded by a low wall, with 15 rocks\nof different sizes placed on the gravel. The rocks are placed in five groups, and\nthe gravel is raked every day by the monks. The garden is viewed from a\nplatform on the veranda of the temple, and it is often said that only 14 of the\nrocks can be seen at any one time, no matter where the person viewing the\ngarden is sitting."
+          },
+          {
+            "label": null,
+            "text": "The karesansui continued to evolve over the next few centuries. By the 18th\ncentury, the gardens were beginning to lose their spiritual significance, and\nthey were being built in the gardens of the nobility. By the 19th century, the\ngardens were being built in the grounds of hotels and inns, and they were\nbecoming a tourist attraction. This was the time when Japan was opening up to\nthe West, and the gardens were being built to cater for the increasing number\nof foreign tourists. The gardens were no longer being built according to the\nprinciples of Zen Buddhism, and they were no longer being used as an aid to\nmeditation."
+          },
+          {
+            "label": null,
+            "text": "The influence of karesansui extends far beyond its original temple setting. It is\nnow featured in homes, parks, and public buildings worldwide. This art form, a\npowerful representation of Japanese aesthetic principles, has achieved\ninternational significance through its impact on Western garden design."
+          }
+        ],
+        "text": "The karesansui, or Japanese rock garden, is a unique and beautiful form of\nlandscape art. Often called 'Zen gardens', they are found in the temples of Zen\nBuddhism in Japan. The gardens are not large, and they are enclosed by walls.\nThe main components are rocks and gravel, with a few plants. The rocks are\nplaced in carefully selected positions in the garden, and the gravel is raked to\ncreate patterns that often suggest rippling water. The design of the garden is\nbased on various principles, and the aim is to create a peaceful place for\nmeditation and contemplation. The gardens are regarded as great works of art,\nand they have influenced garden design in the West, as well as the art of\ngarden landscaping in Japan. However, the karesansui is not a modern\nphenomenon. The history of this art form goes back a long way.\n\nThe first rock gardens in Japan were probably inspired by the Chinese gardens\ncreated during the Han dynasty (206 BC-220 AD). These gardens were\ndesigned to look like Chinese paintings of natural landscapes. They were\nintended to be viewed from a building, and they consisted of a pond and an\nisland, with a bridge connecting the two. The gardens were built by the nobility\nin the capital, Kyoto, and they were a sign of a family's status. The first truly\nJapanese gardens were built in the early 11th century, but they still had some\nof the features of the Chinese gardens. The pond and the island were still there,\nbut the bridge was replaced by stepping stones, and there were more rocks.\nThese gardens were also intended to be viewed from a building, not from\nwithin the garden itself.\n\nBy the 13th century, the influence of Chinese landscape painting was beginning\nto have an effect on the design of Japanese gardens. This was the time when\nZen Buddhism was introduced to Japan, and the first Zen temples were built.\nThe first rock gardens were built in these temples, and they were used by Zen\nmonks as an aid to meditation. The garden was intended to be viewed from a\nsingle point, usually from a platform on the veranda of the temple. The gardens\nwere not intended to look like real landscapes, but to represent the essence of\nnature's principles. The garden's aesthetic differs from that of conventional art\nforms like painting or sculpture. The beauty of the garden was in its simple,\nunadorned naturalness.\n\nThis shift in the garden's purpose, from representing natural landscapes to\naiding in meditation, prompted a change in design. The design of the garden\nwas based on a number of principles. One of these was the idea of yohaku-no-\nbi, or the beauty of extra white. This refers to the use of empty space in the\ngarden, which is as important as the rocks. Another principle was the idea of\nomomi, or the abstract quality of the garden. The garden is not supposed to\nlook like a real landscape, but to suggest the spirit of nature. The most famous\nof all the Japanese gardens, and the best example of a rock garden, is at the\nZen temple of Ryoanji in Kyoto. It was built in the late 15th century, and it\nconsists of a rectangle of white gravel, surrounded by a low wall, with 15 rocks\nof different sizes placed on the gravel. The rocks are placed in five groups, and\nthe gravel is raked every day by the monks. The garden is viewed from a\nplatform on the veranda of the temple, and it is often said that only 14 of the\nrocks can be seen at any one time, no matter where the person viewing the\ngarden is sitting.\n\nThe karesansui continued to evolve over the next few centuries. By the 18th\ncentury, the gardens were beginning to lose their spiritual significance, and\nthey were being built in the gardens of the nobility. By the 19th century, the\ngardens were being built in the grounds of hotels and inns, and they were\nbecoming a tourist attraction. This was the time when Japan was opening up to\nthe West, and the gardens were being built to cater for the increasing number\nof foreign tourists. The gardens were no longer being built according to the\nprinciples of Zen Buddhism, and they were no longer being used as an aid to\nmeditation.\n\nThe influence of karesansui extends far beyond its original temple setting. It is\nnow featured in homes, parks, and public buildings worldwide. This art form, a\npowerful representation of Japanese aesthetic principles, has achieved\ninternational significance through its impact on Western garden design.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet. THE GARDEN AT RYOANJI The garden at the Zen temple of Ryoanji is a rectangular area of white",
+          "body": "gravel surrounded by a [[18]] . There are 15 rocks of different sizes in the garden, and the gravel is raked every day by the [[19]] . The garden is viewed from a [[20]] on the veranda of the temple, and it is said that only [[21]] of the rocks can be seen at any one time, no matter where the person viewing the garden is sitting. The garden was built in the [[22]] century.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-17 on your answer sheet.",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 23-26 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
           "type": "multiple-choice",
-          "prompt": "What does the writer say about the main purpose of a Japanese rock",
-          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet. THE GARDEN AT RYOANJI The garden at the Zen temple of Ryoanji is a rectangular area of white gravel surrounded by a 18 . There are 15 rocks of different sizes in the garden, and the gravel is raked every day by the 19 . The Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-17 on your answer sheet.",
-          "answer": "B",
+          "groupId": "p2g2",
+          "prompt": "What does the writer say about the main purpose of a Japanese rock garden?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "to increase the status of a temple",
+            "to provide a calm environment",
+            "to show the artistic skills of the designer",
+            "to encourage visitors to the temple"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 15,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "The writer says that the first Japanese gardens",
-          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet. THE GARDEN AT RYOANJI The garden at the Zen temple of Ryoanji is a rectangular area of white gravel surrounded by a 18 . There are 15 rocks of different sizes in the garden, and the gravel is raked every day by the 19 . The Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-17 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "were built by monks.",
+            "were inspired by Japanese paintings.",
+            "were designed to be seen from a distance.",
+            "were open to the public."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 16,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "What was the purpose of the first rock gardens?",
-          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet. THE GARDEN AT RYOANJI The garden at the Zen temple of Ryoanji is a rectangular area of white gravel surrounded by a 18 . There are 15 rocks of different sizes in the garden, and the gravel is raked every day by the 19 . The Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-17 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "to represent the principles of nature",
+            "to show the beauty of the rocks",
+            "to provide a place for people to sit",
+            "to represent a natural landscape"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 17,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "The writer says that the garden at Ryoanji",
-          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet. THE GARDEN AT RYOANJI The garden at the Zen temple of Ryoanji is a rectangular area of white gravel surrounded by a 18 . There are 15 rocks of different sizes in the garden, and the gravel is raked every day by the 19 . The Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-17 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "contains different types of rocks.",
+            "is larger than most rock gardens.",
+            "is viewed from a path in the garden.",
+            "was built by a famous gardener."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": ". By the 18th century, Japanese rock gardens were\nbeing built in places other than temples.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": ". Foreign tourists were responsible for the loss of\nspiritual significance of rock gardens.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": ". Today, Japanese rock gardens are built in many\ncountries.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": ". The principles of Japanese rock gardens are different\nfrom those of Western gardens.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
-      "partNumber": 2,
-      "title": "Questions 23-26",
-      "questionRange": [
-        23,
-        26
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 23-26\nB\n \nC\n \nD\n \nis larger than most rock gardens.\nis viewed from a path in the garden.\nwas built by a famous gardener.\nDo the following statements agree with the information given in Reading\nPassage 2? \nIn boxes 23-26 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n23\n . By the 18th century, Japanese rock gardens were\nbeing built in places other than temples.\n24\n . Foreign tourists were responsible for the loss of\nspiritual significance of rock gardens.\n25\n . Today, Japanese rock gardens are built in many\ncountries.\n26\n . The principles of Japanese rock gardens are different\nfrom those of Western gardens.\nDo the following statements agree with the information given in Reading\nPassage 2? \nIn boxes 23-26 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n23\n . By the 18th century, Japanese rock gardens were\nbeing built in places other than temples.\n24\n . Foreign tourists were responsible for the loss of\nspiritual significance of rock gardens.\n\n25\n . Today, Japanese rock gardens are built in many\ncountries.\n26\n . The principles of Japanese rock gardens are different\nfrom those of Western gardens.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "B",
-            "content": "C"
-          },
-          {
-            "label": "D",
-            "content": "is larger than most rock gardens."
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
       "partNumber": 3,
-      "title": "THE BENEFITS OF NATURE’S FIRES",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nTHE BENEFITS OF NATURE’S FIRES\nFire has long been perceived as a destructive force, capable of reducing entire\nforests to ash and threatening human settlements. However, in the natural\nworld, fire plays a far more complex role. It is not merely a hazard but also a\ncrucial ecological process that maintains balance in various ecosystems. From\nancient times to modern conservation practices, fire has shaped landscapes,\ninfluenced biodiversity, and contributed to the survival of certain species.\nFire is a natural phenomenon that occurs when three essential components—\nheat, fuel, and oxygen—come together. In many ecosystems, such as\ngrasslands, savannas, and coniferous forests, fire plays a critical role in\nmaintaining ecological health. It helps in nutrient recycling, controls invasive\nspecies, and encourages the growth of fire-adapted plants.\nOne of the key benefits of fire is its ability to clear out dead and decaying\nvegetation. This reduces competition for nutrients and sunlight, allowing new\nplants to flourish. Additionally, fire can prevent the spread of disease by\neliminating infected plants and trees. In certain ecosystems, periodic fires\ncreate a mosaic of different habitats, promoting biodiversity by providing\nvaried environments for different species.\nSome plant species have evolved specific adaptations to survive and even\nthrive in fire-prone environments. For example, the giant sequoia tree\n(Sequoiadendron giganteum) of North America relies on fire to reproduce. Its\nthick bark protects it from the flames, while the heat triggers the release of\nseeds from its cones. Similarly, some species of pine trees, such as the\nlodgepole pine, have serotinous cones that only open after being exposed to\nhigh temperatures.\nAnimals, too, have developed strategies to cope with fire. Some species, like\nkangaroos and deer, have the ability to flee from fire zones quickly, while\nothers, such as certain insects and small mammals, seek refuge underground.\nBirds of prey, such as the black kite in Australia, have even been observed\nspreading fire intentionally by picking up burning sticks and dropping them\ninto dry grass to flush out prey.\nFires can be classified into two main categories: natural and human-induced.\nNatural fires are typically caused by lightning strikes or volcanic activity. In\nmany cases, these fires occur during dry seasons when vegetation has\naccumulated and conditions are ideal for combustion. Such fires, though\n\ndestructive in the short term, play a crucial role in maintaining ecosystem\nhealth.\nHuman-induced fires, on the other hand, can be both beneficial and harmful.\nIndigenous communities have long practiced controlled burning, also known as\nprescribed fires, to manage land and encourage new plant growth. These\npractices, which have been used for thousands of years, help prevent large-\nscale wildfires by reducing fuel loads. However, accidental or intentional fires\ncaused by human activities—such as discarded cigarettes, unattended\ncampfires, and land-clearing for agriculture—can lead to devastating\nconsequences.\nIn recent years, climate change has significantly altered fire patterns\nworldwide. Rising temperatures, prolonged droughts, and changing weather\nconditions have increased the frequency and intensity of wildfires. Regions\nsuch as California, Australia, and the Mediterranean have witnessed\nunprecedented fire seasons, with fires burning larger areas and lasting longer\nthan ever before.\nOne of the major consequences of increased fire activity is its impact on carbon\nstorage. Forests act as carbon sinks, absorbing large amounts of carbon\ndioxide from the atmosphere. When they burn, this stored carbon is released,\ncontributing to further climate change. Moreover, frequent and intense fires\ncan lead to soil degradation, loss of biodiversity, and the displacement of both\nhuman and animal populations.\nGiven the importance of fire in natural ecosystems, scientists and\nconservationists have developed strategies to manage it effectively. Controlled\nburns, which mimic natural fire cycles, are widely used to maintain ecological\nbalance and prevent catastrophic wildfires. These controlled burns are carefully\nplanned and monitored to ensure they achieve ecological benefits without\nthreatening nearby communities.\nFirebreaks, which are cleared areas of land that act as barriers, help slow or\nstop the spread of wildfires. Additionally, advancements in fire detection\ntechnology, such as satellite monitoring and artificial intelligence-driven\nprediction models, have improved early warning systems and response times.\nIn some cases, fire suppression efforts have led to unintended consequences.\nDecades of fire suppression policies, particularly in North America and Europe,\nhave resulted in dense forests with excessive fuel loads. This has made these\nareas more susceptible to severe wildfires when fires do occur. As a result,\nmany governments and environmental agencies are shifting towards fire-\nadaptive management strategies that recognize fire as an essential ecological\nprocess rather than merely a threat.\nFire in nature is a powerful force that shapes landscapes and influences",
-        "tables": [],
+        "heading": "THE BENEFITS OF NATURE'S FIRES",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Fire has long been perceived as a destructive force, capable of reducing entire\nforests to ash and threatening human settlements. However, in the natural\nworld, fire plays a far more complex role. It is not merely a hazard but also a\ncrucial ecological process that maintains balance in various ecosystems. From\nancient times to modern conservation practices, fire has shaped landscapes,\ninfluenced biodiversity, and contributed to the survival of certain species.\nFire is a natural phenomenon that occurs when three essential components-\nheat, fuel, and oxygen-come together. In many ecosystems, such as\ngrasslands, savannas, and coniferous forests, fire plays a critical role in\nmaintaining ecological health. It helps in nutrient recycling, controls invasive\nspecies, and encourages the growth of fire-adapted plants.\nOne of the key benefits of fire is its ability to clear out dead and decaying\nvegetation. This reduces competition for nutrients and sunlight, allowing new\nplants to flourish. Additionally, fire can prevent the spread of disease by\neliminating infected plants and trees. In certain ecosystems, periodic fires\ncreate a mosaic of different habitats, promoting biodiversity by providing\nvaried environments for different species.\nSome plant species have evolved specific adaptations to survive and even\nthrive in fire-prone environments. For example, the giant sequoia tree\n(Sequoiadendron giganteum) of North America relies on fire to reproduce. Its\nthick bark protects it from the flames, while the heat triggers the release of\nseeds from its cones. Similarly, some species of pine trees, such as the\nlodgepole pine, have serotinous cones that only open after being exposed to\nhigh temperatures.\nAnimals, too, have developed strategies to cope with fire. Some species, like\nkangaroos and deer, have the ability to flee from fire zones quickly, while\nothers, such as certain insects and small mammals, seek refuge underground.\nBirds of prey, such as the black kite in Australia, have even been observed\nspreading fire intentionally by picking up burning sticks and dropping them\ninto dry grass to flush out prey.\nFires can be classified into two main categories: natural and human-induced.\nNatural fires are typically caused by lightning strikes or volcanic activity. In\nmany cases, these fires occur during dry seasons when vegetation has\naccumulated and conditions are ideal for combustion. Such fires, though"
+          },
+          {
+            "label": null,
+            "text": "destructive in the short term, play a crucial role in maintaining ecosystem\nhealth.\nHuman-induced fires, on the other hand, can be both beneficial and harmful.\nIndigenous communities have long practiced controlled burning, also known as\nprescribed fires, to manage land and encourage new plant growth. These\npractices, which have been used for thousands of years, help prevent large-\nscale wildfires by reducing fuel loads. However, accidental or intentional fires\ncaused by human activities-such as discarded cigarettes, unattended\ncampfires, and land-clearing for agriculture-can lead to devastating\nconsequences.\nIn recent years, climate change has significantly altered fire patterns\nworldwide. Rising temperatures, prolonged droughts, and changing weather\nconditions have increased the frequency and intensity of wildfires. Regions\nsuch as California, Australia, and the Mediterranean have witnessed\nunprecedented fire seasons, with fires burning larger areas and lasting longer\nthan ever before.\nOne of the major consequences of increased fire activity is its impact on carbon\nstorage. Forests act as carbon sinks, absorbing large amounts of carbon\ndioxide from the atmosphere. When they burn, this stored carbon is released,\ncontributing to further climate change. Moreover, frequent and intense fires\ncan lead to soil degradation, loss of biodiversity, and the displacement of both\nhuman and animal populations.\nGiven the importance of fire in natural ecosystems, scientists and\nconservationists have developed strategies to manage it effectively. Controlled\nburns, which mimic natural fire cycles, are widely used to maintain ecological\nbalance and prevent catastrophic wildfires. These controlled burns are carefully\nplanned and monitored to ensure they achieve ecological benefits without\nthreatening nearby communities.\nFirebreaks, which are cleared areas of land that act as barriers, help slow or\nstop the spread of wildfires. Additionally, advancements in fire detection\ntechnology, such as satellite monitoring and artificial intelligence-driven\nprediction models, have improved early warning systems and response times.\nIn some cases, fire suppression efforts have led to unintended consequences.\nDecades of fire suppression policies, particularly in North America and Europe,\nhave resulted in dense forests with excessive fuel loads. This has made these\nareas more susceptible to severe wildfires when fires do occur. As a result,\nmany governments and environmental agencies are shifting towards fire-\nadaptive management strategies that recognize fire as an essential ecological\nprocess rather than merely a threat.\nFire in nature is a powerful force that shapes landscapes and influences"
+          },
+          {
+            "label": null,
+            "text": "biodiversity. While it can be destructive, it also plays a vital role in maintaining\necological balance. Understanding the dynamics of fire, recognizing its\nbenefits, and implementing effective fire management strategies are crucial for\nboth environmental conservation and human safety. As climate change\ncontinues to alter fire patterns, a balanced approach that integrates scientific\nresearch, traditional knowledge, and modern technology will be essential in\nensuring that fire remains a beneficial force rather than a catastrophic one."
+          }
+        ],
+        "text": "Fire has long been perceived as a destructive force, capable of reducing entire\nforests to ash and threatening human settlements. However, in the natural\nworld, fire plays a far more complex role. It is not merely a hazard but also a\ncrucial ecological process that maintains balance in various ecosystems. From\nancient times to modern conservation practices, fire has shaped landscapes,\ninfluenced biodiversity, and contributed to the survival of certain species.\nFire is a natural phenomenon that occurs when three essential components-\nheat, fuel, and oxygen-come together. In many ecosystems, such as\ngrasslands, savannas, and coniferous forests, fire plays a critical role in\nmaintaining ecological health. It helps in nutrient recycling, controls invasive\nspecies, and encourages the growth of fire-adapted plants.\nOne of the key benefits of fire is its ability to clear out dead and decaying\nvegetation. This reduces competition for nutrients and sunlight, allowing new\nplants to flourish. Additionally, fire can prevent the spread of disease by\neliminating infected plants and trees. In certain ecosystems, periodic fires\ncreate a mosaic of different habitats, promoting biodiversity by providing\nvaried environments for different species.\nSome plant species have evolved specific adaptations to survive and even\nthrive in fire-prone environments. For example, the giant sequoia tree\n(Sequoiadendron giganteum) of North America relies on fire to reproduce. Its\nthick bark protects it from the flames, while the heat triggers the release of\nseeds from its cones. Similarly, some species of pine trees, such as the\nlodgepole pine, have serotinous cones that only open after being exposed to\nhigh temperatures.\nAnimals, too, have developed strategies to cope with fire. Some species, like\nkangaroos and deer, have the ability to flee from fire zones quickly, while\nothers, such as certain insects and small mammals, seek refuge underground.\nBirds of prey, such as the black kite in Australia, have even been observed\nspreading fire intentionally by picking up burning sticks and dropping them\ninto dry grass to flush out prey.\nFires can be classified into two main categories: natural and human-induced.\nNatural fires are typically caused by lightning strikes or volcanic activity. In\nmany cases, these fires occur during dry seasons when vegetation has\naccumulated and conditions are ideal for combustion. Such fires, though\n\ndestructive in the short term, play a crucial role in maintaining ecosystem\nhealth.\nHuman-induced fires, on the other hand, can be both beneficial and harmful.\nIndigenous communities have long practiced controlled burning, also known as\nprescribed fires, to manage land and encourage new plant growth. These\npractices, which have been used for thousands of years, help prevent large-\nscale wildfires by reducing fuel loads. However, accidental or intentional fires\ncaused by human activities-such as discarded cigarettes, unattended\ncampfires, and land-clearing for agriculture-can lead to devastating\nconsequences.\nIn recent years, climate change has significantly altered fire patterns\nworldwide. Rising temperatures, prolonged droughts, and changing weather\nconditions have increased the frequency and intensity of wildfires. Regions\nsuch as California, Australia, and the Mediterranean have witnessed\nunprecedented fire seasons, with fires burning larger areas and lasting longer\nthan ever before.\nOne of the major consequences of increased fire activity is its impact on carbon\nstorage. Forests act as carbon sinks, absorbing large amounts of carbon\ndioxide from the atmosphere. When they burn, this stored carbon is released,\ncontributing to further climate change. Moreover, frequent and intense fires\ncan lead to soil degradation, loss of biodiversity, and the displacement of both\nhuman and animal populations.\nGiven the importance of fire in natural ecosystems, scientists and\nconservationists have developed strategies to manage it effectively. Controlled\nburns, which mimic natural fire cycles, are widely used to maintain ecological\nbalance and prevent catastrophic wildfires. These controlled burns are carefully\nplanned and monitored to ensure they achieve ecological benefits without\nthreatening nearby communities.\nFirebreaks, which are cleared areas of land that act as barriers, help slow or\nstop the spread of wildfires. Additionally, advancements in fire detection\ntechnology, such as satellite monitoring and artificial intelligence-driven\nprediction models, have improved early warning systems and response times.\nIn some cases, fire suppression efforts have led to unintended consequences.\nDecades of fire suppression policies, particularly in North America and Europe,\nhave resulted in dense forests with excessive fuel loads. This has made these\nareas more susceptible to severe wildfires when fires do occur. As a result,\nmany governments and environmental agencies are shifting towards fire-\nadaptive management strategies that recognize fire as an essential ecological\nprocess rather than merely a threat.\nFire in nature is a powerful force that shapes landscapes and influences\n\nbiodiversity. While it can be destructive, it also plays a vital role in maintaining\necological balance. Understanding the dynamics of fire, recognizing its\nbenefits, and implementing effective fire management strategies are crucial for\nboth environmental conservation and human safety. As climate change\ncontinues to alter fire patterns, a balanced approach that integrates scientific\nresearch, traditional knowledge, and modern technology will be essential in\nensuring that fire remains a beneficial force rather than a catastrophic one.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "biodiversity. While it can be destructive, it also plays a vital role in maintaining",
-      "questionRange": [
-        27,
-        32
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 27-32 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORD from the passage for each answer. Write your answers in boxes 33-36 on your answer sheet. Wildfires have become more frequent and intense due to climate change,",
+          "body": "affecting [[33]] worldwide. Some areas now face [[34]] fire seasons, burning larger areas for longer periods. This leads to the destruction of [[35]] , which normally absorb carbon dioxide. As a result, fires contribute to climate change and cause [[36]] , harming ecosystems and displacing populations.",
+          "range": [
+            33,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 37-40 on your answer sheet.",
+          "body": "[[37]] burns are planned fires that help maintain ecological balance and reduce the risk of extreme wildfires. [[38]] , which are cleared strips of land, act as barriers to slow or stop the spread of wildfires. Advances in fire detection, including satellite monitoring and [[39]] - driven prediction models, have improved early warning systems. Many environmental agencies are adopting fire- [[40]] management strategies that acknowledge fire as a natural and necessary ecological process.",
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "biodiversity. While it can be destructive, it also plays a vital role in maintaining\necological balance. Understanding the dynamics of fire, recognizing its\nbenefits, and implementing effective fire management strategies are crucial for\nboth environmental conservation and human safety. As climate change\ncontinues to alter fire patterns, a balanced approach that integrates scientific\nresearch, traditional knowledge, and modern technology will be essential in\nensuring that fire remains a beneficial force rather than a catastrophic one.\nQuestions 27-32\nQuestions 33-36\nDo the following statements agree with the information given in Reading\nPassage 3? \nIn boxes 27-32 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n27\n . Fire only causes destruction, harming forests and\nhuman communities.\n28\n . Fire plays a role in replenishing nutrients and\nmanaging invasive plant species in some ecosystems.\n29\n . The giant sequoia tree is highly vulnerable to fire\nbecause its bark easily catches fire.\n30\n . Certain birds of prey intentionally spread fire to drive\nout animals they hunt.\n31\n . Volcanic eruptions are the main reason natural fires\noccur, while lightning strikes are less significant.\n32\n . Fires started by humans always have negative\neffects on the environment.\nComplete the summary below.\nChoose NO MORE THAN TWO WORD from the passage for each answer.\nWrite your answers in boxes 33-36 on your answer sheet.\nWildfires have become more frequent and intense due to climate change,\n\nQuestions 37-40\naffecting 33\n worldwide. Some areas now face 34\n fire\nseasons, burning larger areas for longer periods. This leads to the\ndestruction of 35\n , which normally absorb carbon dioxide. As a\nresult, fires contribute to climate change and cause 36\n , harming\necosystems and displacing populations.\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 37-40 on your answer sheet.\n37\n burns are planned fires that help maintain ecological balance\nand reduce the risk of extreme wildfires.\n38\n , which are cleared strips of land, act as barriers to slow or\nstop the spread of wildfires.\nAdvances in fire detection, including satellite monitoring and 39\n -\ndriven prediction models, have improved early warning systems.\nMany environmental agencies are adopting fire- 40\n management\nstrategies that acknowledge fire as a natural and necessary ecological\nprocess.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 27,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". Fire only causes destruction, harming forests and\nhuman communities.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". Fire plays a role in replenishing nutrients and\nmanaging invasive plant species in some ecosystems.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". The giant sequoia tree is highly vulnerable to fire\nbecause its bark easily catches fire.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". Certain birds of prey intentionally spread fire to drive\nout animals they hunt.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". Volcanic eruptions are the main reason natural fires\noccur, while lightning strikes are less significant.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "true-false-not-given",
+          "groupId": "p3g1",
+          "prompt": ". Fires started by humans always have negative\neffects on the environment.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "fire patterns",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Unprecedented",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Carbon sinks",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Soil degradation",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "burns are planned fires that help maintain ecological balance\nand reduce the risk of extreme wildfires.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "controlled",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": ", which are cleared strips of land, act as barriers to slow or\nstop the spread of wildfires.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "firebreaks",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "Intelligence",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "Adaptive",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

@@ -1,0 +1,35 @@
+{
+  "p3g5": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "From the list below choose the most suitable title for the whole of Reading Passage 3. Write the appropriate letter, A-D, in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "The most suitable title for the whole of Reading Passage 3",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Geniuses in their time",
+          "Education for the gifted",
+          "Revising the definition of intelligence",
+          "Nurturing talent within the family"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "30": "B,C,E",
+    "31": "B,C,E",
+    "32": "B,C,E"
+  }
+}

@@ -1,362 +1,1268 @@
 {
   "id": "master-ielts-general-training-volume-5_reading-practice-test-2-v9-2249011",
   "type": "general",
-  "source": "master-ielts-general-training-volume-5 reading-practice-test-2-v9-2249011",
+  "title": "Master IELTS General Training Volume 5 - Reading Test 2",
+  "collection": "Master IELTS General Training Volume 5",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 5,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-5_reading-practice-test-2-v9-2249011.pdf",
-  "total_questions": 20,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "How to Book a Course",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        6
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nHow to Book a Course",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "Glen Cottage",
-                null
-              ],
-              [
-                "Accommodation",
-                "up to 2 people"
-              ]
-            ],
-            "header": [
-              "Glen Cottage",
-              null
-            ]
+            "label": null,
+            "text": "How to Book a Course"
           },
           {
-            "page": 4,
-            "rows": [
-              [
-                "Family",
-                "no children"
-              ],
-              [
-                "Parking",
-                "2 cars"
-              ],
-              [
-                "Distance to the sea",
-                "3 miles"
-              ],
-              [
-                "Reviews: Lots of amazing walks. Fantastic scenery and lovely garden. The property\nwas perfect. There is nothing I would have changed. There is ample parking in the\ndriveway. The owners, who live in the thatched cottage nearby, are very friendly and\npermit the use of their beautiful landscaped garden. This has some fabulous ponds,\nshrubs and plants, and guests have the use of a private summerhouse.",
-                null
-              ],
-              [
-                "Tregonning",
-                null
-              ],
-              [
-                "Accommodation",
-                "up to 3 people"
-              ],
-              [
-                "Family",
-                "no under 2’s"
-              ],
-              [
-                "Parking",
-                "1 car"
-              ],
-              [
-                "Distance to the sea",
-                "Less than 1 mile"
-              ],
-              [
-                "Reviews: Thank you for the welcome tray and the flowers. The best priced\naccommodation we have ever stayed in. One week is too short! It really is a home from\nhome with everything we could possibly need provided. By far the best equipped,\ncentral, yet quiet. There are three coves that are easy to walk to from the property.\nMullion harbour is a delightful example of a Cornish fishing community.",
-                null
-              ],
-              [
-                "Trevarrow",
-                null
-              ],
-              [
-                "Accommodation",
-                "up to 6 people"
-              ],
-              [
-                "Family",
-                "children/babies OK"
-              ],
-              [
-                "Parking",
-                "no"
-              ],
-              [
-                "Distance to the sea",
-                "Less than 100 yards"
-              ],
-              [
-                "Reviews: This is a great property with a lot of original features, fantastic view, plus all\nmod cons. Trevarrow has stood above the beach looking out across the sheltered bay\nsince the 1700's. Roadside parking can be found nearby or in the headland car park.",
-                null
-              ]
-            ],
-            "header": [
-              "Family",
-              "no children"
-            ]
+            "label": null,
+            "text": "Read the text below and answer Questions 1- 6."
+          },
+          {
+            "label": null,
+            "text": "If you are interested in joining any of our adult evening classes you can now book in a\nnumber of different ways."
+          },
+          {
+            "label": null,
+            "text": "Online"
+          },
+          {
+            "label": null,
+            "text": "Search for course information online and enrol using our online form. Please upload a\npassport size photo and pay using any major credit card or PayPal."
+          },
+          {
+            "label": null,
+            "text": "In person"
+          },
+          {
+            "label": null,
+            "text": "By phone"
+          },
+          {
+            "label": null,
+            "text": "Call into the Adult Education"
+          },
+          {
+            "label": null,
+            "text": "Ring our enquiry line number: 0898 -\n275395"
+          },
+          {
+            "label": null,
+            "text": "Centre bringing with you:"
+          },
+          {
+            "label": null,
+            "text": "● your enrolment form"
+          },
+          {
+            "label": null,
+            "text": "Please have your credit or debit card\ndetails ready:"
+          },
+          {
+            "label": null,
+            "text": "● the correct fee (you can make payment by\ncredit/debit card, cheque or cash)"
+          },
+          {
+            "label": null,
+            "text": "● name of card holder"
+          },
+          {
+            "label": null,
+            "text": "● passport size photo"
+          },
+          {
+            "label": null,
+            "text": "● card number (inc. last 3 digits on\nsignature strip)"
+          },
+          {
+            "label": null,
+            "text": "By post"
+          },
+          {
+            "label": null,
+            "text": "● expiry date"
+          },
+          {
+            "label": null,
+            "text": "Print out the enrolment form provided online.\nMake cheques payable to Cornwall Council."
+          },
+          {
+            "label": null,
+            "text": "If the phone is engaged please keep\ntrying or leave a message for us to call\nyou back."
+          },
+          {
+            "label": null,
+            "text": "Please enclose:"
+          },
+          {
+            "label": null,
+            "text": "● your enrolment form"
+          },
+          {
+            "label": null,
+            "text": "Remember to book your course at\nleast one week before the start\ndate."
+          },
+          {
+            "label": null,
+            "text": "● the correct tuition fee"
+          },
+          {
+            "label": null,
+            "text": "● passport size photo and send to: Cornwall\nCouncil, Adult Education Centre, Room 308,\nSedgemoor\nCentre, Priory Road, St Austell, PL25 5AB"
+          },
+          {
+            "label": null,
+            "text": "Course fees"
+          },
+          {
+            "label": null,
+            "text": "The course fees are printed with the\ncourse\ndetails and are exempt from VAT."
+          },
+          {
+            "label": null,
+            "text": "Forms are also available at your local\nlibrary"
+          },
+          {
+            "label": null,
+            "text": "Refunds"
+          },
+          {
+            "label": null,
+            "text": "A full refund of course fees will only be made if a class does not start or closes due to\ninsufficient enrolments. Refunds for other reasons are not generally given, but if a\nrefund is granted there will be an administration charge of £5.00."
+          },
+          {
+            "label": null,
+            "text": "Flexible Learning Centres"
+          },
+          {
+            "label": null,
+            "text": "Adult Education Centres can be found in six towns in Cornwall. Call in to your local\nCentre or phone for details of opening times and courses available."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 7-14."
+          },
+          {
+            "label": null,
+            "text": "Holiday Cottages"
+          },
+          {
+            "label": null,
+            "text": "Glen Cottage"
+          },
+          {
+            "label": null,
+            "text": "Accommodation\nup to 2 people"
+          },
+          {
+            "label": null,
+            "text": "Family\nno children"
+          },
+          {
+            "label": null,
+            "text": "Parking\n2 cars"
+          },
+          {
+            "label": null,
+            "text": "Distance to the sea\n3 miles"
+          },
+          {
+            "label": null,
+            "text": "Reviews: Lots of amazing walks. Fantastic scenery and lovely garden. The property\nwas perfect. There is nothing I would have changed. There is ample parking in the\ndriveway. The owners, who live in the thatched cottage nearby, are very friendly and\npermit the use of their beautiful landscaped garden. This has some fabulous ponds,\nshrubs and plants, and guests have the use of a private summerhouse."
+          },
+          {
+            "label": null,
+            "text": "Tregonning"
+          },
+          {
+            "label": null,
+            "text": "Accommodation\nup to 3 people"
+          },
+          {
+            "label": null,
+            "text": "Family\nno under 2's"
+          },
+          {
+            "label": null,
+            "text": "Parking\n1 car"
+          },
+          {
+            "label": null,
+            "text": "Distance to the sea\nLess than 1 mile"
+          },
+          {
+            "label": null,
+            "text": "Reviews: Thank you for the welcome tray and the flowers. The best priced\naccommodation we have ever stayed in. One week is too short! It really is a home from\nhome with everything we could possibly need provided. By far the best equipped,\ncentral, yet quiet. There are three coves that are easy to walk to from the property.\nMullion harbour is a delightful example of a Cornish fishing community."
+          },
+          {
+            "label": null,
+            "text": "Trevarrow"
+          },
+          {
+            "label": null,
+            "text": "Accommodation\nup to 6 people"
+          },
+          {
+            "label": null,
+            "text": "Family\nchildren/babies OK"
+          },
+          {
+            "label": null,
+            "text": "Parking\nno"
+          },
+          {
+            "label": null,
+            "text": "Distance to the sea\nLess than 100 yards"
+          },
+          {
+            "label": null,
+            "text": "Reviews: This is a great property with a lot of original features, fantastic view, plus all\nmod cons. Trevarrow has stood above the beach looking out across the sheltered bay\nsince the 1700's. Roadside parking can be found nearby or in the headland car park."
           }
         ],
+        "text": "How to Book a Course\n\nRead the text below and answer Questions 1- 6.\n\nIf you are interested in joining any of our adult evening classes you can now book in a\nnumber of different ways.\n\nOnline\n\nSearch for course information online and enrol using our online form. Please upload a\npassport size photo and pay using any major credit card or PayPal.\n\nIn person\n\nBy phone\n\nCall into the Adult Education\n\nRing our enquiry line number: 0898 -\n275395\n\nCentre bringing with you:\n\n● your enrolment form\n\nPlease have your credit or debit card\ndetails ready:\n\n● the correct fee (you can make payment by\ncredit/debit card, cheque or cash)\n\n● name of card holder\n\n● passport size photo\n\n● card number (inc. last 3 digits on\nsignature strip)\n\nBy post\n\n● expiry date\n\nPrint out the enrolment form provided online.\nMake cheques payable to Cornwall Council.\n\nIf the phone is engaged please keep\ntrying or leave a message for us to call\nyou back.\n\nPlease enclose:\n\n● your enrolment form\n\nRemember to book your course at\nleast one week before the start\ndate.\n\n● the correct tuition fee\n\n● passport size photo and send to: Cornwall\nCouncil, Adult Education Centre, Room 308,\nSedgemoor\nCentre, Priory Road, St Austell, PL25 5AB\n\nCourse fees\n\nThe course fees are printed with the\ncourse\ndetails and are exempt from VAT.\n\nForms are also available at your local\nlibrary\n\nRefunds\n\nA full refund of course fees will only be made if a class does not start or closes due to\ninsufficient enrolments. Refunds for other reasons are not generally given, but if a\nrefund is granted there will be an administration charge of £5.00.\n\nFlexible Learning Centres\n\nAdult Education Centres can be found in six towns in Cornwall. Call in to your local\nCentre or phone for details of opening times and courses available.\n\nRead the text below and answer Questions 7-14.\n\nHoliday Cottages\n\nGlen Cottage\n\nAccommodation\nup to 2 people\n\nFamily\nno children\n\nParking\n2 cars\n\nDistance to the sea\n3 miles\n\nReviews: Lots of amazing walks. Fantastic scenery and lovely garden. The property\nwas perfect. There is nothing I would have changed. There is ample parking in the\ndriveway. The owners, who live in the thatched cottage nearby, are very friendly and\npermit the use of their beautiful landscaped garden. This has some fabulous ponds,\nshrubs and plants, and guests have the use of a private summerhouse.\n\nTregonning\n\nAccommodation\nup to 3 people\n\nFamily\nno under 2's\n\nParking\n1 car\n\nDistance to the sea\nLess than 1 mile\n\nReviews: Thank you for the welcome tray and the flowers. The best priced\naccommodation we have ever stayed in. One week is too short! It really is a home from\nhome with everything we could possibly need provided. By far the best equipped,\ncentral, yet quiet. There are three coves that are easy to walk to from the property.\nMullion harbour is a delightful example of a Cornish fishing community.\n\nTrevarrow\n\nAccommodation\nup to 6 people\n\nFamily\nchildren/babies OK\n\nParking\nno\n\nDistance to the sea\nLess than 100 yards\n\nReviews: This is a great property with a lot of original features, fantastic view, plus all\nmod cons. Trevarrow has stood above the beach looking out across the sheltered bay\nsince the 1700's. Roadside parking can be found nearby or in the headland car park.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1-6 on your answer sheet. If you decide to book in person don't forget to bring your photo, form, and",
+          "body": "[[1]] If you decide to pay by post you can find the [[2]] online. If you are having problems booking over the phone we can [[3]] Regardless of how you book do it a minimum of [[4]] before. All of the courses are free from [[5]] [[6]] is the only reason we would provide a full refund.",
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 7-14 on your answer sheet. Glen Cottage",
+          "body": "Despite only accommodating [[7]] you also have use of a [[8]] where you can sit in a private summerhouse and enjoy looking at the ponds, shrubs, and plants. Tregonning You really need to go for more than [[9]] as there is so much to do here. You don't really need to take anything with you as everything is [[10]] . If you like [[11]] then this is the best place to be. Trevarrow Of the three cottages it is the closest to [[12]] and is the only place where . you can take [[13]] but there is no [[14]]",
+          "range": [
+            7,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
-        {
-          "number": 2,
-          "type": "fill-in-blank",
-          "prompt": "cars",
-          "instruction": "Read the text below and answer Questions 1– 6. If you are interested in joining any of our adult evening classes you can now book in a number of different ways. Online Search for course information online and enrol using our online form. Please upload a passport size photo and pay using any major credit card or PayPal. Read the text below and answer Questions 7-14. Holiday Cottages Glen Cottage Accommodation up to 2 people",
-          "answer": "enrolment form"
-        },
-        {
-          "number": 3,
-          "type": "fill-in-blank",
-          "prompt": "miles",
-          "instruction": "Read the text below and answer Questions 1– 6. If you are interested in joining any of our adult evening classes you can now book in a number of different ways. Online Search for course information online and enrol using our online form. Please upload a passport size photo and pay using any major credit card or PayPal. Read the text below and answer Questions 7-14. Holiday Cottages Glen Cottage Accommodation up to 2 people",
-          "answer": "call you back"
-        },
-        {
-          "number": 1,
-          "type": "fill-in-blank",
-          "prompt": "car",
-          "instruction": "Read the text below and answer Questions 1– 6. If you are interested in joining any of our adult evening classes you can now book in a number of different ways. Online Search for course information online and enrol using our online form. Please upload a passport size photo and pay using any major credit card or PayPal. Read the text below and answer Questions 7-14. Holiday Cottages Glen Cottage Accommodation up to 2 people",
-          "answer": "correct fee"
-        },
         {
           "number": 1,
           "type": "sentence-completion",
-          "prompt": "If you decide to pay by post you can find the 2 online. If you are having problems booking over the phone we can 3 Regardless of how you book do it a minimum of 4",
-          "instruction": "Read the text below and answer Questions 1– 6. If you are interested in joining any of our adult evening classes you can now book in a number of different ways. Online Search for course information online and enrol using our online form. Please upload a passport size photo and pay using any major credit card or PayPal. Read the text below and answer Questions 7-14. Holiday Cottages Glen Cottage Accommodation up to 2 people Complete the sentences below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 1-6 on your answer sheet. If you decide to book in person don't forget to bring your photo, form, and",
-          "answer": "correct fee"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "correct fee",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "enrolment form",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "call you back",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "one week",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "VAT",
+          "trap": null
         },
         {
           "number": 6,
           "type": "sentence-completion",
-          "prompt": "is the only reason we would provide a full refund. Complete the summary below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the passage for each answer.",
-          "instruction": "Read the text below and answer Questions 1– 6. If you are interested in joining any of our adult evening classes you can now book in a number of different ways. Online Search for course information online and enrol using our online form. Please upload a passport size photo and pay using any major credit card or PayPal. Read the text below and answer Questions 7-14. Holiday Cottages Glen Cottage Accommodation up to 2 people Complete the sentences below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 1-6 on your answer sheet. If you decide to book in person don't forget to bring your photo, form, and",
-          "answer": "insufficient enrolments"
+          "groupId": "p1g1",
+          "prompt": "is the only reason we would provide a full refund.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "insufficient enrolments",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "2/two",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "beautiful landscaped garden",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "one week",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "provided",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fishing",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "the sea",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "babies",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "parking",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "The London to Brighton Veteran Car Run",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        20
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nThe London to Brighton Veteran Car Run",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 10,
-            "rows": [
-              [
-                "reading passage?\nIn boxes 15-20 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN If there is no information on this\n15\nThe first cars arrive when it is still dark.\n16\nIf you arrive by car to watch the race you can park in\nHyde Park.\n17\nThe postcode will take you to the exact place in Hyde\nPark.\n18\nIf travelling by tube then the Central Line gets you\nclosest to the VCR start line.\n19\nTea and light refreshments will be provided on the\nopen top bus.\n20\nTravelling on the open top bus means you will get wet\nif it rains.\nQuestions 21-27\nLook at the following statements and the list of animals below.\nMatch each statement with the correct animal, A-F.\nWrite the correct letter, A-F, in boxes 21-27 on your answer sheet.\nAnimals\nA Peacock Spiders\nB Bowerbirds\nC Northern Cardinals\nD Chameleons\nE Frigates\nF Hooded Seals",
-                null
-              ],
-              [
-                "F",
-                "Hooded Seals"
-              ]
-            ],
-            "header": [
-              "reading passage?\nIn boxes 15-20 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN If there is no information on this\n15\nThe first cars arrive when it is still dark.\n16\nIf you arrive by car to watch the race you can park in\nHyde Park.\n17\nThe postcode will take you to the exact place in Hyde\nPark.\n18\nIf travelling by tube then the Central Line gets you\nclosest to the VCR start line.\n19\nTea and light refreshments will be provided on the\nopen top bus.\n20\nTravelling on the open top bus means you will get wet\nif it rains.\nQuestions 21-27\nLook at the following statements and the list of animals below.\nMatch each statement with the correct animal, A-F.\nWrite the correct letter, A-F, in boxes 21-27 on your answer sheet.\nAnimals\nA Peacock Spiders\nB Bowerbirds\nC Northern Cardinals\nD Chameleons\nE Frigates\nF Hooded Seals",
-              null
-            ]
+            "label": null,
+            "text": "The London to Brighton Veteran Car Run"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15-20."
+          },
+          {
+            "label": null,
+            "text": "The Bonhams London to Brighton Veteran Car Run starts in Hyde Park, London on the\nfirst Sunday in November every year. The cars congregate from 6.00am with the first\ncar departing at sunrise (6.56am) and the last car leaving from between 8.00am -\n8.30am."
+          },
+          {
+            "label": null,
+            "text": "Hyde Park is located in central London and is easily accessible. Cars not associated with\nthe Run and without valid identification will NOT be allowed access to the Park from\n5.00am - 12.00pm. Should you wish to show your support at Hyde Park, please enter\nthe park on foot."
+          },
+          {
+            "label": null,
+            "text": "How to get to Hyde Park"
+          },
+          {
+            "label": null,
+            "text": "If you are using a mobile device, the postcode for the park is W2 2UH. This is for\nguidance only as the park covers a large area."
+          },
+          {
+            "label": null,
+            "text": "By Tube"
+          },
+          {
+            "label": null,
+            "text": "The tube stations that surround Hyde Park are:"
+          },
+          {
+            "label": null,
+            "text": "- Lancaster Gate (Central Line)"
+          },
+          {
+            "label": null,
+            "text": "- Marble Arch (Central Line)"
+          },
+          {
+            "label": null,
+            "text": "- Hyde Park Corner (Piccadilly Line)"
+          },
+          {
+            "label": null,
+            "text": "- Knightsbridge (Piccadilly Line)"
+          },
+          {
+            "label": null,
+            "text": "The closest tube station to the VCR start line is Hyde Park Corner."
+          },
+          {
+            "label": null,
+            "text": "By Bus"
+          },
+          {
+            "label": null,
+            "text": "The buses that stop at Hyde Park are:"
+          },
+          {
+            "label": null,
+            "text": "· North London: 6, 7, 10, 16, 52, 73, 82, 390, 414"
+          },
+          {
+            "label": null,
+            "text": "· South London: 2, 36, 137, 436"
+          },
+          {
+            "label": null,
+            "text": "· West London: 9, 10, 14, 19, 22, 52, 74, 148, 414"
+          },
+          {
+            "label": null,
+            "text": "● East London: 8, 15, 30, 38, 274"
+          },
+          {
+            "label": null,
+            "text": "By Car"
+          },
+          {
+            "label": null,
+            "text": "Should you wish to travel by car, there are many car parks located nearby to Hyde Park.\nThe closest car park is situated to the south of Hyde Park and is managed by Q Park.\nPlease contact them directly for prices and location."
+          },
+          {
+            "label": null,
+            "text": "The open top bus tours give spectators the opportunity to be involved and experience\nthe 60 mile route taken by the veteran cars. You will be able to soak up the atmosphere\nat the start line with exclusive access to the paddock area and then follow the cars\ndown the whole route."
+          },
+          {
+            "label": null,
+            "text": "Due to the unpredictable British weather the buses will only be filled to 50 per cent\ncapacity giving everyone the opportunity to shelter on the lower deck in the case of\ninclement weather."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 21-27."
+          },
+          {
+            "label": null,
+            "text": "Animal Courtship"
+          },
+          {
+            "label": null,
+            "text": "Peacock Spiders"
+          },
+          {
+            "label": null,
+            "text": "Rather like a 6-pack for men, the male peacock spider tries to impress with decorative,\ncolorful abdominal flaps. The spider begins his courtship by vibrating his peacock-like\nflaps that reveal a pair of black and white third legs. For female peacock spiders\nnothing could be sexier but males beware because if their courtship goes too far the\nfemale, rather like the black widow spider, might eat its mate."
+          },
+          {
+            "label": null,
+            "text": "Bowerbirds"
+          },
+          {
+            "label": null,
+            "text": "Male bowerbirds have to be the ultimate home designers of the animal kingdom. To\nstart their courtship they build an elaborate home called a 'bower'. To make their nest\nas attractive as possible, bowers have been known to use flowers, berries, seashells,\nplastic beads, coins, broken glass and even rifle shells. The potential mate can be quite\nfussy and if not impressed the male will keep adding to his elaborate home to make it\nmore and more colourful."
+          },
+          {
+            "label": null,
+            "text": "Northern Cardinals"
+          },
+          {
+            "label": null,
+            "text": "The male Northern Cardinal will bring bits of food, usually fish, to the bird they are\ncourting and with a tilt of his head, place a tasty snack into her beak. As if this wasn't\nenough, Cardinals will also take part in what is known as counter singing. Each bird, still\nwithin its own territory, will sing to each other by matching and repeating phrases\ntogether."
+          },
+          {
+            "label": null,
+            "text": "Chameleons"
+          },
+          {
+            "label": null,
+            "text": "A male chameleon will try to attract a mate by bobbing his head up and down and from\nside to side to try and get the attention of a potential mate. For males not so sensitive\nto their progress, the female will show dull colours if she likes him but if not other\ncolours will be shown and he had better run!"
+          },
+          {
+            "label": null,
+            "text": "Frigates"
+          },
+          {
+            "label": null,
+            "text": "In addition to waving their heads, flapping their wings and calling to the females, the\nmales congregate in large numbers and display their vibrant red throat sacs. For about\n20 minutes they force air into these throat sacs, which then resemble a large red\nballoon. If a male has wooed a female, she will simply fly in and land alongside her new\nmate."
+          },
+          {
+            "label": null,
+            "text": "Hooded seals"
+          },
+          {
+            "label": null,
+            "text": "Female hooded seals are attracted by males that have the most attractive nasal\nballoons. Male hooded seals have evolved specialized pinkish-red nasal cavities that\nthey can blow up like bubblegum. To get a female's attention, the male blows up his\nballoon and starts bouncing it around. The cavities can expand to roughly the size of the\nseal's head."
           }
         ],
+        "text": "The London to Brighton Veteran Car Run\n\nRead the text below and answer Questions 15-20.\n\nThe Bonhams London to Brighton Veteran Car Run starts in Hyde Park, London on the\nfirst Sunday in November every year. The cars congregate from 6.00am with the first\ncar departing at sunrise (6.56am) and the last car leaving from between 8.00am -\n8.30am.\n\nHyde Park is located in central London and is easily accessible. Cars not associated with\nthe Run and without valid identification will NOT be allowed access to the Park from\n5.00am - 12.00pm. Should you wish to show your support at Hyde Park, please enter\nthe park on foot.\n\nHow to get to Hyde Park\n\nIf you are using a mobile device, the postcode for the park is W2 2UH. This is for\nguidance only as the park covers a large area.\n\nBy Tube\n\nThe tube stations that surround Hyde Park are:\n\n- Lancaster Gate (Central Line)\n\n- Marble Arch (Central Line)\n\n- Hyde Park Corner (Piccadilly Line)\n\n- Knightsbridge (Piccadilly Line)\n\nThe closest tube station to the VCR start line is Hyde Park Corner.\n\nBy Bus\n\nThe buses that stop at Hyde Park are:\n\n· North London: 6, 7, 10, 16, 52, 73, 82, 390, 414\n\n· South London: 2, 36, 137, 436\n\n· West London: 9, 10, 14, 19, 22, 52, 74, 148, 414\n\n● East London: 8, 15, 30, 38, 274\n\nBy Car\n\nShould you wish to travel by car, there are many car parks located nearby to Hyde Park.\nThe closest car park is situated to the south of Hyde Park and is managed by Q Park.\nPlease contact them directly for prices and location.\n\nThe open top bus tours give spectators the opportunity to be involved and experience\nthe 60 mile route taken by the veteran cars. You will be able to soak up the atmosphere\nat the start line with exclusive access to the paddock area and then follow the cars\ndown the whole route.\n\nDue to the unpredictable British weather the buses will only be filled to 50 per cent\ncapacity giving everyone the opportunity to shelter on the lower deck in the case of\ninclement weather.\n\nRead the text below and answer Questions 21-27.\n\nAnimal Courtship\n\nPeacock Spiders\n\nRather like a 6-pack for men, the male peacock spider tries to impress with decorative,\ncolorful abdominal flaps. The spider begins his courtship by vibrating his peacock-like\nflaps that reveal a pair of black and white third legs. For female peacock spiders\nnothing could be sexier but males beware because if their courtship goes too far the\nfemale, rather like the black widow spider, might eat its mate.\n\nBowerbirds\n\nMale bowerbirds have to be the ultimate home designers of the animal kingdom. To\nstart their courtship they build an elaborate home called a 'bower'. To make their nest\nas attractive as possible, bowers have been known to use flowers, berries, seashells,\nplastic beads, coins, broken glass and even rifle shells. The potential mate can be quite\nfussy and if not impressed the male will keep adding to his elaborate home to make it\nmore and more colourful.\n\nNorthern Cardinals\n\nThe male Northern Cardinal will bring bits of food, usually fish, to the bird they are\ncourting and with a tilt of his head, place a tasty snack into her beak. As if this wasn't\nenough, Cardinals will also take part in what is known as counter singing. Each bird, still\nwithin its own territory, will sing to each other by matching and repeating phrases\ntogether.\n\nChameleons\n\nA male chameleon will try to attract a mate by bobbing his head up and down and from\nside to side to try and get the attention of a potential mate. For males not so sensitive\nto their progress, the female will show dull colours if she likes him but if not other\ncolours will be shown and he had better run!\n\nFrigates\n\nIn addition to waving their heads, flapping their wings and calling to the females, the\nmales congregate in large numbers and display their vibrant red throat sacs. For about\n20 minutes they force air into these throat sacs, which then resemble a large red\nballoon. If a male has wooed a female, she will simply fly in and land alongside her new\nmate.\n\nHooded seals\n\nFemale hooded seals are attracted by males that have the most attractive nasal\nballoons. Male hooded seals have evolved specialized pinkish-red nasal cavities that\nthey can blow up like bubblegum. To get a female's attention, the male blows up his\nballoon and starts bouncing it around. The cavities can expand to roughly the size of the\nseal's head.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": [
+      "questionGroups": [
         {
-          "number": 20,
-          "type": "matching-features",
-          "prompt": "minutes they force air into these throat sacs, which then resemble a large red",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about",
-          "answer": "FALSE"
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the",
+          "body": null,
+          "range": [
+            15,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
         },
+        {
+          "id": "p2g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements and the list of animals below. Match each statement with the correct animal, A-F. Write the correct letter, A-F, in boxes 21-27 on your answer sheet. Animals",
+          "body": null,
+          "range": [
+            21,
+            27
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Peacock Spiders",
+              "Bowerbirds",
+              "Northern Cardinals",
+              "Chameleons",
+              "Frigates",
+              "Hooded Seals"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
         {
           "number": 15,
           "type": "true-false-not-given",
+          "groupId": "p2g1",
           "prompt": "The first cars arrive when it is still dark.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
-          "prompt": "If you arrive by car to watch the race you can park in Hyde Park.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "If you arrive by car to watch the race you can park in\nHyde Park.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "The postcode will take you to the exact place in Hyde Park.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "The postcode will take you to the exact place in Hyde\nPark.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 18,
           "type": "true-false-not-given",
-          "prompt": "If travelling by tube then the Central Line gets you closest to the VCR start line.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "If travelling by tube then the Central Line gets you\nclosest to the VCR start line.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 19,
           "type": "true-false-not-given",
-          "prompt": "Tea and light refreshments will be provided on the open top bus.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "Tea and light refreshments will be provided on the\nopen top bus.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 20,
           "type": "true-false-not-given",
-          "prompt": "Travelling on the open top bus means you will get wet if it rains. Look at the following statements and the list of animals below. Match each statement with the correct animal, A-F.",
-          "instruction": "Read the text below and answer Questions 15–20. Due to the unpredictable British weather the buses will only be filled to 50 per cent capacity giving everyone the opportunity to shelter on the lower deck in the case of inclement weather. Read the text below and answer Questions 21-27. Animal Courtship within its own territory, will sing to each other by matching and repeating phrases together. Chameleons A male chameleon will try to attract a mate by bobbing his head up and down and from side to side to try and get the attention of a potential mate. For males not so sensitive to their progress, the female will show dull colours if she likes him but if not other colours will be shown and he had better run! Frigates In addition to waving their heads, flapping their wings and calling to the females, the males congregate in large numbers and display their vibrant red throat sacs. For about Do the following statements agree with the information given in the In boxes 15-20 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "Travelling on the open top bus means you will get wet\nif it rains.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male tries to attract a partner by giving her food.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male likes to look for a partner at the same time as\nmany others.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male might end up being eaten if he's not careful.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male knows if he has been successful or not by the\ncolour of the female.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male likes to do party tricks with his nose.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male likes to think he is a macho man.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p2g2",
+          "prompt": "This male would be a great painter and decorator if he\nwere a man.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "The Life of an Amah"
+          },
+          {
+            "label": null,
+            "text": "Life in China at the beginning of the 20th Century was a very different world\nthan today, especially for women. It was often a very hard life with most\nwomen working in the rural areas of China for nothing more than a hand-to-\nmouth living. For many women in Guangdong province by the Pearl River\nDelta, however, life was to change forever."
+          },
+          {
+            "label": null,
+            "text": "The villages they lived in by the Delta that had once been surrounded by\nfishponds were now replaced by mulberry trees. This meant large quantities of\nwhite mulberry leaves to feed silkworms. This was a chance for many women\nin the area to grab their independence and they did this by working in China's\nnow booming silk industry."
+          },
+          {
+            "label": null,
+            "text": "It is estimated that over two million women were involved in the silk industry.\nThey took great pride in their independence and refused a conventional\nlifestyle. They formed sisterhoods and refused to get married, swore oaths of\nchastity and moved out of their family homes into spinster houses or\nvegetarian halls as they were called. Some women even held funeral services\nfor a 'sister' who had decided to marry."
+          },
+          {
+            "label": null,
+            "text": "By the 1930s, however, it was all over. The silk industry had been badly\naffected by the world depression and many of the once thriving factories were\nforced to close leaving many women jobless. Some managed to maintain their\nindependence by becoming domestic servants. These were the amahs. By\nmoving to Hong Kong, Singapore and other Southeast Asian countries they\ncould earn enough money (5$ a month) to live a reasonable life and continue"
+          },
+          {
+            "label": null,
+            "text": "their independent lifestyle."
+          },
+          {
+            "label": null,
+            "text": "An amahs social life took place in a 'coolie fong'. This was a 2-3 story building\nrented by a sisterhood. It was here where she would spend time after her\nworking day was over or on days off. It was a place to relax, share stories with\nother 'sisters', hear about new job opportunities, and collect any letters that\nhad been sent to her from her family in China."
+          },
+          {
+            "label": null,
+            "text": "Sisterhoods usually ranged in size from six to ten women but could have up to\nthirty members. The sisterhood networks helped women migrate from the silk\nareas of China into cities overseas. Once the 'sisters' had arrived in one of\nthese cities, the sisterhoods trained the women in various skills to be a cook,\nlady's maid or baby amah, and assisted them in finding jobs and in relocating\nthem if their work situation was unsatisfactory. The training provided by the\nsisterhood usually helped the 'sister' become a valued servant and, therefore,\nto receive the wages she asked for."
+          },
+          {
+            "label": null,
+            "text": "In many ways the sisterhood was similar to a primitive labor union in that\nmembers established job definitions and minimum wages for each job. If a\nmember was treated badly by an employer, other 'sisters' refused to work for\nthe employer. Sometimes one sisterhood dominated the domestic staff of a\nwhole apartment building. In such cases the sisterhood controlled who was\nhired, and if an employer fired a 'sister' without just cause, the sisterhood\nmade it very difficult for the employer to hire another servant."
+          },
+          {
+            "label": null,
+            "text": "Sisterhoods also established loan associations for their members, which were\nespecially important for immigrants separated from possible family assistance.\nThe loan associations also acted as investment clubs where the women pooled\ntheir savings to buy property where they could retire together."
+          },
+          {
+            "label": null,
+            "text": "Every amah had a different routine as this partly depended on the size of the\nfamily they were working for and whether they were European or local.\nEuropeans tended to be more demanding. Some households would hire more\nthan one amah but others would only hire one. For many amahs this was a\ngood thing. Although they had to work harder they felt they were more\nindependent and free of typical domestic servant\narguments. These amahs were usually known as \"one-leg kick\" (or \"yat keok\ntek\" in Cantonese) since they did all the work in the household."
+          },
+          {
+            "label": null,
+            "text": "A typical workday began when she woke up early in the morning around 5 a.m.\nand, after getting herself ready, she would start cooking breakfast. After doing\nthe dishes, she swept and tidied up the house. When that was done, she\nwashed the clothes and prepared lunch. After cleaning up, she did the ironing.\nWhen that was done, she took a bath. It would then be time to cook again. By"
+          },
+          {
+            "label": null,
+            "text": "the time dinner was over, and she had cleaned up and finished the dishes, it\nwould be about 9p.m. A 16-hour day that was repeated seven days a week\nwith only an occasional half-day off."
+          },
+          {
+            "label": null,
+            "text": "Sometimes known as 'black and whites' because they often wore white shirts\nand black pants with their hair in a bun or a long braid falling down their backs,\nthey were seen as an elite group of servants that were hardworking,\ntrustworthy, and completely loyal to the families they worked for."
+          },
+          {
+            "label": null,
+            "text": "Stories of their complete loyalty are common with one amah jumping into the\nsea to rescue her English charge who had accidentally fallen from the ship.\nOthers even worked for free if their employees lost their job and couldn't pay\nthem. In return the amahs were not exploited but treated like members of the\nfamily. Indeed, it was their loyalty that led to them being called amah as the\nCantonese word for mother is amah."
+          }
+        ],
+        "text": "Read the text below and answer questions 28-40.\n\nThe Life of an Amah\n\nLife in China at the beginning of the 20th Century was a very different world\nthan today, especially for women. It was often a very hard life with most\nwomen working in the rural areas of China for nothing more than a hand-to-\nmouth living. For many women in Guangdong province by the Pearl River\nDelta, however, life was to change forever.\n\nThe villages they lived in by the Delta that had once been surrounded by\nfishponds were now replaced by mulberry trees. This meant large quantities of\nwhite mulberry leaves to feed silkworms. This was a chance for many women\nin the area to grab their independence and they did this by working in China's\nnow booming silk industry.\n\nIt is estimated that over two million women were involved in the silk industry.\nThey took great pride in their independence and refused a conventional\nlifestyle. They formed sisterhoods and refused to get married, swore oaths of\nchastity and moved out of their family homes into spinster houses or\nvegetarian halls as they were called. Some women even held funeral services\nfor a 'sister' who had decided to marry.\n\nBy the 1930s, however, it was all over. The silk industry had been badly\naffected by the world depression and many of the once thriving factories were\nforced to close leaving many women jobless. Some managed to maintain their\nindependence by becoming domestic servants. These were the amahs. By\nmoving to Hong Kong, Singapore and other Southeast Asian countries they\ncould earn enough money (5$ a month) to live a reasonable life and continue\n\ntheir independent lifestyle.\n\nAn amahs social life took place in a 'coolie fong'. This was a 2-3 story building\nrented by a sisterhood. It was here where she would spend time after her\nworking day was over or on days off. It was a place to relax, share stories with\nother 'sisters', hear about new job opportunities, and collect any letters that\nhad been sent to her from her family in China.\n\nSisterhoods usually ranged in size from six to ten women but could have up to\nthirty members. The sisterhood networks helped women migrate from the silk\nareas of China into cities overseas. Once the 'sisters' had arrived in one of\nthese cities, the sisterhoods trained the women in various skills to be a cook,\nlady's maid or baby amah, and assisted them in finding jobs and in relocating\nthem if their work situation was unsatisfactory. The training provided by the\nsisterhood usually helped the 'sister' become a valued servant and, therefore,\nto receive the wages she asked for.\n\nIn many ways the sisterhood was similar to a primitive labor union in that\nmembers established job definitions and minimum wages for each job. If a\nmember was treated badly by an employer, other 'sisters' refused to work for\nthe employer. Sometimes one sisterhood dominated the domestic staff of a\nwhole apartment building. In such cases the sisterhood controlled who was\nhired, and if an employer fired a 'sister' without just cause, the sisterhood\nmade it very difficult for the employer to hire another servant.\n\nSisterhoods also established loan associations for their members, which were\nespecially important for immigrants separated from possible family assistance.\nThe loan associations also acted as investment clubs where the women pooled\ntheir savings to buy property where they could retire together.\n\nEvery amah had a different routine as this partly depended on the size of the\nfamily they were working for and whether they were European or local.\nEuropeans tended to be more demanding. Some households would hire more\nthan one amah but others would only hire one. For many amahs this was a\ngood thing. Although they had to work harder they felt they were more\nindependent and free of typical domestic servant\narguments. These amahs were usually known as \"one-leg kick\" (or \"yat keok\ntek\" in Cantonese) since they did all the work in the household.\n\nA typical workday began when she woke up early in the morning around 5 a.m.\nand, after getting herself ready, she would start cooking breakfast. After doing\nthe dishes, she swept and tidied up the house. When that was done, she\nwashed the clothes and prepared lunch. After cleaning up, she did the ironing.\nWhen that was done, she took a bath. It would then be time to cook again. By\n\nthe time dinner was over, and she had cleaned up and finished the dishes, it\nwould be about 9p.m. A 16-hour day that was repeated seven days a week\nwith only an occasional half-day off.\n\nSometimes known as 'black and whites' because they often wore white shirts\nand black pants with their hair in a bun or a long braid falling down their backs,\nthey were seen as an elite group of servants that were hardworking,\ntrustworthy, and completely loyal to the families they worked for.\n\nStories of their complete loyalty are common with one amah jumping into the\nsea to rescue her English charge who had accidentally fallen from the ship.\nOthers even worked for free if their employees lost their job and couldn't pay\nthem. In return the amahs were not exploited but treated like members of the\nfamily. Indeed, it was their loyalty that led to them being called amah as the\nCantonese word for mother is amah.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "diagram-label",
+          "instruction": "Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Write your answers in boxes 28-32 on your answer sheet.",
+          "body": "Sisterhoods. Stage 1: Sisterhoods usually had up to [[28]] members. Stage 2: Their networks stretched all the way to [[29]]. Stage 3: Sisterhoods offered training in [[30]] and help in finding jobs. Stage 4: A trained amah was able to get the [[31]] she wanted. Stage 5: Sisterhoods acted rather like a [[32]] controlling salaries.",
+          "range": [
+            28,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat?",
+          "body": "[[33]] Why did many silk factories close? [[34]] How would sisterhoods help women buy property? [[35]]",
+          "range": [
+            33,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "30/thirty",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cities overseas",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "various skills",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "wages",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(primitive) labor union",
+          "trap": null
+        },
         {
           "number": 33,
           "type": "sentence-completion",
-          "prompt": "Why did many silk factories close?",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat?",
-          "answer": "(white) mulberry leaves"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(white) mulberry leaves",
+          "trap": null
         },
         {
           "number": 34,
           "type": "sentence-completion",
-          "prompt": "How would sisterhoods help women buy property?",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat?",
-          "answer": "world depression"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "world depression",
+          "trap": null
         },
         {
           "number": 35,
           "type": "sentence-completion",
-          "prompt": "Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat?",
-          "answer": "investment clubs"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "investment clubs",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Most Amahs never wanted to marry.",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat? Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Amahs would often get letters from China.",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat? Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "Some Amahs were called “one-leg kick” because they were kicked by their owners.",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat? Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "Some Amahs were called \"one-leg kick\" because they\nwere kicked by their owners.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Amahs were given a regular day off.",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat? Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Amahs were considered the best of the best.",
-          "instruction": "Read the text below and answer questions 28-40. The Life of an Amah Life in China at the beginning of the 20th Century was a very different world than today, especially for women. It was often a very hard life with most women working in the rural areas of China for nothing more than a hand-to- mouth living. For many women in Guangdong province by the Pearl River Delta, however, life was to change forever. The villages they lived in by the Delta that had once been surrounded by fishponds were now replaced by mulberry trees. This meant large quantities of white mulberry leaves to feed silkworms. This was a chance for many women in the area to grab their independence and they did this by working in China’s now booming silk industry. It is estimated that over two million women were involved in the silk industry. They took great pride in their independence and refused a conventional lifestyle. They formed sisterhoods and refused to get married, swore oaths of chastity and moved out of their family homes into spinster houses or vegetarian halls as they were called. Some women even held funeral services for a ‘sister’ who had decided to marry. By the 1930s, however, it was all over. The silk industry had been badly affected by the world depression and many of the once thriving factories were forced to close leaving many women jobless. Some managed to maintain their independence by becoming domestic servants. These were the amahs. By moving to Hong Kong, Singapore and other Southeast Asian countries they could earn enough money (5$ a month) to live a reasonable life and continue trustworthy, and completely loyal to the families they worked for. Stories of their complete loyalty are common with one amah jumping into the sea to rescue her English charge who had accidentally fallen from the ship. Others even worked for free if their employees lost their job and couldn’t pay them. In return the amahs were not exploited but treated like members of the family. Indeed, it was their loyalty that led to them being called amah as the Cantonese word for mother is amah. Questions 28-32 Questions 33-35 Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  for each answer. Write your answers in boxes 28-32 on your answer sheet. Sisterhoods Sisterhoods usually had up to 28 members Their networks stretched all the way to 29 Sisterhoods offered training in 30 and help in finding jobs A trained amah was able to get the 31 she wanted Sisterhoods acted rather like a 32 controlling salaries Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet. What were silkworms given to eat? Do the following statements agree with the information given in the reading passage? In boxes 36-40 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     }

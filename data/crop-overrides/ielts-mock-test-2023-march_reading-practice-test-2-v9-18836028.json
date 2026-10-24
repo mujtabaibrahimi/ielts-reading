@@ -1,0 +1,106 @@
+{
+  "p2g1": {
+    "clearImages": true,
+    "instruction": "Reading passage 1 has 5 chapters. Which chapter contains the following information?",
+    "optionBank": {
+      "title": "Chapters",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "14": {
+        "prompt": "the part of cacao trees used to produce chocolate",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "15": {
+        "prompt": "average chocolate consumption by people in the US per person per year",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "16": {
+        "prompt": "risks faced by farmers in the cacao business",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "17": {
+        "prompt": "where the first sweetened chocolate drink appeared",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "18": {
+        "prompt": "how ancient American civilizations obtained cacao",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "ECME process diagram is missing from the source crop (only the instruction and blank answer lines 1-7 are present); cannot transcribe without inventing."
+  },
+  "p2g3": {
+    "clearImages": true,
+    "instruction": "The flow chart below shows the steps in chocolate making. Complete the flow chart. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 24-27 on your answer sheet.",
+    "body": "Chocolate making. Stage 1: Cacao seeds. Stage 2: sorting, cleaning and cooking ridding seeds of their [[24]]. Stage 3: Nibs. Stage 4: crushing [[25]]. Stage 5: Add sugar, milk and [[26]]. Stage 6: Crumb mixture. Stage 7: Crush finely then come into a shape in a [[27]]."
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "Which statement is true according to the Stuart team's finding?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Neanderthals rather than modern humans caused the extinction in Europe",
+          "Paleolithic humans in Europe along kill the big animals such as Giant deer",
+          "climatic change was not solely responsible for the megafauna extinction in Europe",
+          "moderate and staggered extinction was mainly the result of fundamental climatic change"
+        ]
+      }
+    }
+  }
+}

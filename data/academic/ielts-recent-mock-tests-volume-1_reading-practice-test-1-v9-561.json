@@ -1,227 +1,1115 @@
 {
   "id": "ielts-recent-mock-tests-volume-1_reading-practice-test-1-v9-561",
   "type": "academic",
-  "source": "ielts-recent-mock-tests-volume-1 reading-practice-test-1-v9-561",
+  "title": "IELTS Recent Mock Tests Volume 1 - Reading Test 1",
+  "collection": "IELTS Recent Mock Tests Volume 1",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-recent-mock-tests-volume-1_reading-practice-test-1-v9-561.pdf",
-  "total_questions": 3,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "William Gilbert and Magnetism",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nWilliam Gilbert and Magnetism\nA\nThe 16th and 17th centuries saw two great pioneers of modern science: Galileo\nand Gilbert. The impact of their ﬁndings is eminent. Gilbert was the ﬁrst\nmodern scientist, also the accredited father of the science of electricity and\nmagnetism, an Englishman of learning and a physician at the court of\nElizabeth. Prior to him, all that was known of electricity and magnetism was\nwhat the ancients knew, nothing more than that the lodestone possessed\nmagnetic properties and that amber and jet, when rubbed, would attract bits of\npaper or other substances of small speciﬁc gravity. However, he is less well\nknown than he deserves.\nB\nGilbert’s birth pre-dated Galileo. Born in an eminent local family in Colchester\nCounty in the UK, on May 24, 1544, he went to grammar school, and then\nstudied medicine at St John’s College, Cambridge, graduating in 1573. Later he\ntravelled in the continent and eventually settled down in London.\nC\nHe was a very successful and eminent doctor. All this culminated in his election\nto the president of the Royal Science Society. He was also appointed personal\nphysician to the Queen (Elizabeth I), and later knighted by the Queen. He\nfaithfully served her until her death. However, he didn’t outlive the Queen for\nlong and died on November 30, 1603, only a few months after his appointment\nas personal physician to King James.\n\nD\nGilbert was ﬁrst interested in chemistry but later changed his focus due to the\nlarge portion of mysticism of alchemy involved (such as the transmutation of\nmetal). He gradually developed his interest in physics after the great minds of\nthe ancient, particularly about the knowledge the ancient Greeks had about\nlodestones, strange minerals with the power to attract iron. In the meantime,\nBritain became a major seafaring nation in 1588 when the Spanish Armada was\ndefeated, opening the way to British settlement of America. British ships\ndepended on the magnetic compass, yet no one understood why it worked. Did\nthe Pole Star attract it, as Columbus once speculated; or was there a magnetic\nmountain at the pole, as described in Odyssey, which ships would never\napproach, because the sailors thought its pull would yank out all their iron nails\nand ﬁttings? For nearly 20 years, William Gilbert conducted ingenious\nexperiments to understand magnetism. His works include On the Magnet,\nMagnetic Bodies, and the Great Magnet of the Earth.\nE\nGilbert’s discovery was so important to modern physics. He investigated the\nnature of magnetism and electricity. He even coined the word “electric”.\nThough the early beliefs of magnetism were also largely entangled with\nsuperstitions such as that rubbing garlic on lodestone can neutralise its\nmagnetism, one example being that sailors even believed the smell of garlic\nwould even interfere with the action of compass, which is why helmsmen were\nforbidden to eat it near a ship’s compass. Gilbert also found that metals can be\nmagnetised by rubbing materials such as fur, plastic or the like on them. He\nnamed the ends of a magnet “north pole” and “south pole”. The magnetic\npoles can attract or repel, depending on polarity. In addition, however, ordinary\niron is always attracted to a magnet. Though he started to study the\nrelationship between magnetism and electricity, sadly he didn’t complete it. His\nresearch of static electricity using amber and jet only demonstrated that\nobjects with electrical charges can work like magnets attracting small pieces of\npaper and stuﬀ. It is a French guy named du Fay that discovered that there are\nactually two electrical charges, positive and negative.\nF\nHe also questioned the traditional astronomical beliefs. Though a Copernican,\nhe didn’t express in his quintessential beliefs whether the earth is at the centre\nof the universe or in orbit around the sun. However, he believed that stars are\nnot equidistant from the earth but have their own earth-like planets orbiting\naround them. The earth itself is like a giant magnet, which is also why",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "William Gilbert and Magnetism"
+          },
           {
             "label": "A",
-            "content": "The 16th and 17th centuries saw two great pioneers of modern science: Galileo"
+            "text": "The 16th and 17th centuries saw two great pioneers of modern science: Galileo\nand Gilbert. The impact of their ﬁndings is eminent. Gilbert was the ﬁrst\nmodern scientist, also the accredited father of the science of electricity and\nmagnetism, an Englishman of learning and a physician at the court of\nElizabeth. Prior to him, all that was known of electricity and magnetism was\nwhat the ancients knew, nothing more than that the lodestone possessed\nmagnetic properties and that amber and jet, when rubbed, would attract bits of\npaper or other substances of small speciﬁc gravity. However, he is less well\nknown than he deserves."
           },
           {
             "label": "B",
-            "content": "Gilbert’s birth pre-dated Galileo. Born in an eminent local family in Colchester"
+            "text": "Gilbert's birth pre-dated Galileo. Born in an eminent local family in Colchester\nCounty in the UK, on May 24, 1544, he went to grammar school, and then\nstudied medicine at St John's College, Cambridge, graduating in 1573. Later he\ntravelled in the continent and eventually settled down in London."
           },
           {
             "label": "C",
-            "content": "He was a very successful and eminent doctor. All this culminated in his election"
+            "text": "He was a very successful and eminent doctor. All this culminated in his election\nto the president of the Royal Science Society. He was also appointed personal\nphysician to the Queen (Elizabeth I), and later knighted by the Queen. He\nfaithfully served her until her death. However, he didn't outlive the Queen for\nlong and died on November 30, 1603, only a few months after his appointment\nas personal physician to King James."
           },
           {
             "label": "D",
-            "content": "Gilbert was ﬁrst interested in chemistry but later changed his focus due to the"
+            "text": "Gilbert was ﬁrst interested in chemistry but later changed his focus due to the\nlarge portion of mysticism of alchemy involved (such as the transmutation of\nmetal). He gradually developed his interest in physics after the great minds of\nthe ancient, particularly about the knowledge the ancient Greeks had about\nlodestones, strange minerals with the power to attract iron. In the meantime,\nBritain became a major seafaring nation in 1588 when the Spanish Armada was\ndefeated, opening the way to British settlement of America. British ships\ndepended on the magnetic compass, yet no one understood why it worked. Did\nthe Pole Star attract it, as Columbus once speculated; or was there a magnetic\nmountain at the pole, as described in Odyssey, which ships would never\napproach, because the sailors thought its pull would yank out all their iron nails\nand ﬁttings? For nearly 20 years, William Gilbert conducted ingenious\nexperiments to understand magnetism. His works include On the Magnet,\nMagnetic Bodies, and the Great Magnet of the Earth."
           },
           {
             "label": "E",
-            "content": "Gilbert’s discovery was so important to modern physics. He investigated the"
+            "text": "Gilbert's discovery was so important to modern physics. He investigated the\nnature of magnetism and electricity. He even coined the word \"electric\".\nThough the early beliefs of magnetism were also largely entangled with\nsuperstitions such as that rubbing garlic on lodestone can neutralise its\nmagnetism, one example being that sailors even believed the smell of garlic\nwould even interfere with the action of compass, which is why helmsmen were\nforbidden to eat it near a ship's compass. Gilbert also found that metals can be\nmagnetised by rubbing materials such as fur, plastic or the like on them. He\nnamed the ends of a magnet \"north pole\" and \"south pole\". The magnetic\npoles can attract or repel, depending on polarity. In addition, however, ordinary\niron is always attracted to a magnet. Though he started to study the\nrelationship between magnetism and electricity, sadly he didn't complete it. His\nresearch of static electricity using amber and jet only demonstrated that\nobjects with electrical charges can work like magnets attracting small pieces of\npaper and stuﬀ. It is a French guy named du Fay that discovered that there are\nactually two electrical charges, positive and negative."
           },
           {
             "label": "F",
-            "content": "He also questioned the traditional astronomical beliefs. Though a Copernican,"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "compasses always point north. They spin on an axis that is aligned with the",
-      "questionRange": [
-        1,
-        7
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "compasses always point north. They spin on an axis that is aligned with the\nearth’s polarity. He even likened the polarity of the magnet to the polarity of\nthe earth and built an entire magnetic philosophy on this analogy. In his\nexplanation, magnetism is the soul of the earth. Thus a perfectly spherical\nlodestone, when aligned with the earth’s poles, would wobble all by itself in 24\nhours. Further, he also believed that the sun and other stars wobble just like\nthe earth does around a crystal core, and speculated that the moon might also\nbe a magnet caused to orbit by its magnetic attraction to the earth. This was\nperhaps the first proposal that a force might cause a heavenly orbit.\nG\nHis research method was revolutionary in that he used experiments rather\nthan pure logic and reasoning like the ancient Greek philosophers did. It was a\nnew attitude towards scientiﬁc investigation. Until then, scientiﬁc experiments\nwere not in fashion. It was because of this scientiﬁc attitude, together with his\ncontribution to our knowledge of magnetism, that a unit of magneto motive\nforce, also known as magnetic potential, was named Gilbert in his honour. His\napproach of careful observation and experimentation rather than the\nauthoritative opinion or deductive philosophy of others had laid the very\nfoundation for modern science.\nQuestions 1-7\nReading Passage 1 has seven paragraphs A-G.\nChoose the correct heading for each paragraph from the list of headings\nbelow.\nWrite the correct number i-x in boxes 1-7 on your answer sheet.",
-        "tables": [],
-        "images": [],
-        "sections": [
+            "text": "He also questioned the traditional astronomical beliefs. Though a Copernican,\nhe didn't express in his quintessential beliefs whether the earth is at the centre\nof the universe or in orbit around the sun. However, he believed that stars are\nnot equidistant from the earth but have their own earth-like planets orbiting\naround them. The earth itself is like a giant magnet, which is also why"
+          },
+          {
+            "label": null,
+            "text": "compasses always point north. They spin on an axis that is aligned with the\nearth's polarity. He even likened the polarity of the magnet to the polarity of\nthe earth and built an entire magnetic philosophy on this analogy. In his\nexplanation, magnetism is the soul of the earth. Thus a perfectly spherical\nlodestone, when aligned with the earth's poles, would wobble all by itself in 24\nhours. Further, he also believed that the sun and other stars wobble just like\nthe earth does around a crystal core, and speculated that the moon might also\nbe a magnet caused to orbit by its magnetic attraction to the earth. This was\nperhaps the first proposal that a force might cause a heavenly orbit."
+          },
           {
             "label": "G",
-            "content": "His research method was revolutionary in that he used experiments rather"
+            "text": "His research method was revolutionary in that he used experiments rather\nthan pure logic and reasoning like the ancient Greek philosophers did. It was a\nnew attitude towards scientiﬁc investigation. Until then, scientiﬁc experiments\nwere not in fashion. It was because of this scientiﬁc attitude, together with his\ncontribution to our knowledge of magnetism, that a unit of magneto motive\nforce, also known as magnetic potential, was named Gilbert in his honour. His\napproach of careful observation and experimentation rather than the\nauthoritative opinion or deductive philosophy of others had laid the very\nfoundation for modern science."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 8-10",
-      "questionRange": [
-        8,
-        10
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 8-10\nList of headings\ni\nEarly years of Gilbert\nii\nWhat was new about his scientific research method\niii\nThe development of chemistry\niv\nQuestioning traditional astronomy\nv\nPioneers of the early science\nvi\nProfessional and social recognition\nvii\nBecoming the president of the Royal Science Society\nviii\nThe great works of Gilbert\nix\nHis discovery about magnetism\nx\nHis change of focus\n1\n       Paragraph A\n2\n       Paragraph B\n3\n       Paragraph C\n4\n       Paragraph D\n5\n       Paragraph E\n6\n       Paragraph F\n7\n       Paragraph G\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 8-10 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n8\n He is less famous than he should be.\n9\n He was famous as a doctor before he was employed by\n\nQuestions 11-13\nthe Queen.\n10\n He lost faith in the medical theories of his time.\nChoose THREE letters A-F.\nWrite your answers in boxes 11-13 on your answer sheet.\nWhich THREE of the following are parts of Gilbert’s discovery?\nA\n \nB\n \nC\n \nD\n \nE\n \nF\n \nMetal can be transformed into another.\nGarlic can remove magnetism,\nMetals can be magnetised.\nStars are at different distances from the earth.\nThe earth wobbles on its axis.\nThere are two charges of electricity.",
-        "tables": [],
+        ],
+        "text": "William Gilbert and Magnetism\n\nThe 16th and 17th centuries saw two great pioneers of modern science: Galileo\nand Gilbert. The impact of their ﬁndings is eminent. Gilbert was the ﬁrst\nmodern scientist, also the accredited father of the science of electricity and\nmagnetism, an Englishman of learning and a physician at the court of\nElizabeth. Prior to him, all that was known of electricity and magnetism was\nwhat the ancients knew, nothing more than that the lodestone possessed\nmagnetic properties and that amber and jet, when rubbed, would attract bits of\npaper or other substances of small speciﬁc gravity. However, he is less well\nknown than he deserves.\n\nGilbert's birth pre-dated Galileo. Born in an eminent local family in Colchester\nCounty in the UK, on May 24, 1544, he went to grammar school, and then\nstudied medicine at St John's College, Cambridge, graduating in 1573. Later he\ntravelled in the continent and eventually settled down in London.\n\nHe was a very successful and eminent doctor. All this culminated in his election\nto the president of the Royal Science Society. He was also appointed personal\nphysician to the Queen (Elizabeth I), and later knighted by the Queen. He\nfaithfully served her until her death. However, he didn't outlive the Queen for\nlong and died on November 30, 1603, only a few months after his appointment\nas personal physician to King James.\n\nGilbert was ﬁrst interested in chemistry but later changed his focus due to the\nlarge portion of mysticism of alchemy involved (such as the transmutation of\nmetal). He gradually developed his interest in physics after the great minds of\nthe ancient, particularly about the knowledge the ancient Greeks had about\nlodestones, strange minerals with the power to attract iron. In the meantime,\nBritain became a major seafaring nation in 1588 when the Spanish Armada was\ndefeated, opening the way to British settlement of America. British ships\ndepended on the magnetic compass, yet no one understood why it worked. Did\nthe Pole Star attract it, as Columbus once speculated; or was there a magnetic\nmountain at the pole, as described in Odyssey, which ships would never\napproach, because the sailors thought its pull would yank out all their iron nails\nand ﬁttings? For nearly 20 years, William Gilbert conducted ingenious\nexperiments to understand magnetism. His works include On the Magnet,\nMagnetic Bodies, and the Great Magnet of the Earth.\n\nGilbert's discovery was so important to modern physics. He investigated the\nnature of magnetism and electricity. He even coined the word \"electric\".\nThough the early beliefs of magnetism were also largely entangled with\nsuperstitions such as that rubbing garlic on lodestone can neutralise its\nmagnetism, one example being that sailors even believed the smell of garlic\nwould even interfere with the action of compass, which is why helmsmen were\nforbidden to eat it near a ship's compass. Gilbert also found that metals can be\nmagnetised by rubbing materials such as fur, plastic or the like on them. He\nnamed the ends of a magnet \"north pole\" and \"south pole\". The magnetic\npoles can attract or repel, depending on polarity. In addition, however, ordinary\niron is always attracted to a magnet. Though he started to study the\nrelationship between magnetism and electricity, sadly he didn't complete it. His\nresearch of static electricity using amber and jet only demonstrated that\nobjects with electrical charges can work like magnets attracting small pieces of\npaper and stuﬀ. It is a French guy named du Fay that discovered that there are\nactually two electrical charges, positive and negative.\n\nHe also questioned the traditional astronomical beliefs. Though a Copernican,\nhe didn't express in his quintessential beliefs whether the earth is at the centre\nof the universe or in orbit around the sun. However, he believed that stars are\nnot equidistant from the earth but have their own earth-like planets orbiting\naround them. The earth itself is like a giant magnet, which is also why\n\ncompasses always point north. They spin on an axis that is aligned with the\nearth's polarity. He even likened the polarity of the magnet to the polarity of\nthe earth and built an entire magnetic philosophy on this analogy. In his\nexplanation, magnetism is the soul of the earth. Thus a perfectly spherical\nlodestone, when aligned with the earth's poles, would wobble all by itself in 24\nhours. Further, he also believed that the sun and other stars wobble just like\nthe earth does around a crystal core, and speculated that the moon might also\nbe a magnet caused to orbit by its magnetic attraction to the earth. This was\nperhaps the first proposal that a force might cause a heavenly orbit.\n\nHis research method was revolutionary in that he used experiments rather\nthan pure logic and reasoning like the ancient Greek philosophers did. It was a\nnew attitude towards scientiﬁc investigation. Until then, scientiﬁc experiments\nwere not in fashion. It was because of this scientiﬁc attitude, together with his\ncontribution to our knowledge of magnetism, that a unit of magneto motive\nforce, also known as magnetic potential, was named Gilbert in his honour. His\napproach of careful observation and experimentation rather than the\nauthoritative opinion or deductive philosophy of others had laid the very\nfoundation for modern science.",
         "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "E",
-            "content": "F"
-          }
-        ]
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 1 has seven paragraphs A-G.",
+          "body": null,
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Early years of Gilbert",
+              "What was new about his scientific research method",
+              "The development of chemistry",
+              "Questioning traditional astronomy",
+              "Pioneers of the early science",
+              "Professional and social recognition",
+              "Becoming the president of the Royal Science Society",
+              "The great works of Gilbert",
+              "His discovery about magnetism"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 8-10 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            8,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Choose THREE letters A-F. Write your answers in boxes 11-13 on your answer sheet. Which THREE of the following are parts of Gilbert's discovery? A Metal can be transformed into another. B Garlic can remove magnetism, C Metals can be magnetised. D Stars are at different distances from the earth. E The earth wobbles on its axis. F There are two charges of electricity. READING PASSAGE 2 You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below. The 2003 Heatwave It was the summer, scientists now realise, when global warming at last made itself unmistakably felt. We knew that summer 2003 was remarkable: Britain experienced its record high temperature and continental Europe saw forest fires raging out of control, great rivers drying to a trickle and thousands of heat-related deaths. But just how remarkable is only now becoming clear. The three months of June, July and August were the warmest ever recorded in western and central Europe, with record national highs in Portugal, Germany and Switzerland as well as in Britain. And they were the warmest by a very long way. Over a great rectangular block of the earth stretching from west of Paris to northern Italy, taking in Switzerland and southern Germany, the average temperature for the summer months was 3.78'C above the long-term norm, said the Climatic Research Unit (CRU) of the University of East Anglia in Norwich, which is one of the world's leading institutions for the monitoring and analysis of temperature records. That excess might not seem a lot until you are aware of the context - but then you realise it is enormous. There is nothing like this in previous data, anywhere. It is considered so exceptional that Professor Phil Jones, the CRU's director, is prepared to say openly - in a way few scientists have done before - that the 2003 extreme may be directly attributed, not to natural climate variability, but to global warming caused by human actions. Meteorologists have hitherto contented themselves with the formula that recent high temperatures are \"consistent with predictions\" of climate change. For the great block of the map - that stretching between 35-50N and 0-20E - the CRU has reliable temperature records dating back to 1781. Using as a baseline the average summer temperature recorded between 1961 and 1990, departures from the temperature norm, or \"anomalies\", over the area as a whole can easily be plotted. As the graph shows, such is the variability of our climate that over the past 200 years, there have been at least half a dozen anomalies, in terms of excess temperature - the peaks on the graph denoting very hot years - approaching, or even exceeding, 2'C. But there has been nothing remotely like 2003, when the anomaly is nearly four degrees. \"This is quite remarkable,' Professor Jones told The Independent. \"It's very unusual in a statistical sense. If this series had a normal statistical distribution, you wouldn't get this number. The return period [how often it could be expected to recur] would be something like one in a thousand years. If we look at an excess above the average of nearly four degrees, then perhaps nearly three degrees of that is natural variability, because we've seen that in past summers. But the final degree of it is likely to be due to global warming, caused by human actions.\" The summer of 2003 has, in a sense, been one that climate scientists have long been expecting. Until now, the warming has been manifesting itself mainly in winters that have been less cold than in summers that have been much hotter. Last week, the United Nations predicted that winters were warming so quickly that winter sports would die out in Europe's lower-level ski resorts. But sooner or later, the unprecedented hot summer was bound to come, and this year it did. One of the most dramatic features of the summer was the hot nights, especially in the first half of August. In Paris, the temperature never dropped below 23'C (73.4'F) at all between 7 and 14 August, and the city recorded its warmest-ever night on 11-12 August, when the mercury did not drop below 25.5'C (77.9'F). Germany recorded its warmest-ever night at Weinbiet in the",
+          "body": "Rhine Valley with a lowest figure of 27.6'C (80.6'F) on [[13]] August, and similar record-breaking nighttime temperatures were recorded in Switzerland and Italy. The 15,000 excess deaths in France during August, compared with previous years, have been related to the high night-time temperatures. The number gradually increased during the first [[12]] days of the month, peaking at about 2,000 per day on the night of 12-13 August, then fell off dramatically after 14 August when the minimum temperatures fell by about 5'C. The elderly were most affected, with a 70 per cent increase in mortality rate in those aged 75- 94. For Britain, the year as a whole is likely to be the warmest ever recorded, but despite the high temperature record on 10 August, the summer itself - defined as the June, July and August period - still comes behind 1976 and 1995, when there were longer periods of intense heat. \"At the moment, the year is on course to be the third hottest ever in the global temperature record, which goes back to 1856, behind 1998 and 2002, but when all the records for October, November and December are collated, it might move into second place/' Professor Jones said. The ten hottest years in the record have all now occurred since 1990. Professor Jones is in no doubt about the astonishing nature of European summer of 2003. \"The temperatures recorded were out of all proportion to the previous record,\" he said. \"It was the warmest summer in the past 500 years and probably way beyond that. It was enormously exceptional.\" His colleagues at the University of East Anglia's Tyndall Centre for Climate Change Research are now planning a special study of it. \"It was a summer that has not been experienced before, either in terms of the temperature extremes that were reached, or the range and diversity of the impacts of the extreme heat,\" said the centre's executive director, Professor Mike Hulme. \"It will certainly have left its mark on a number of countries, as to how they think and plan for climate change in the future, much as the 2000 floods have revolutionised the way the Government is thinking about flooding in the UK. The 2003 heatwave will have similar repercussions across Europe.\"",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "He is less famous than he should be.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "He was famous as a doctor before he was employed by",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "He lost faith in the medical theories of his time.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,D,E",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,D,E",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,D,E",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "The 2003 Heatwave",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nThe 2003 Heatwave\nIt was the summer, scientists now realise, when global warming at last made\nitself unmistakably felt. We knew that summer 2003 was remarkable: Britain\nexperienced its record high temperature and continental Europe saw forest\nﬁres raging out of control, great rivers drying to a trickle and thousands of\nheat-related deaths. But just how remarkable is only now becoming clear.\nThe three months of June, July and August were the warmest ever recorded in\nwestern and central Europe, with record national highs in Portugal, Germany\nand Switzerland as well as in Britain. And they were the warmest by a very long\nway. Over a great rectangular block of the earth stretching from west of Paris\nto northern Italy, taking in Switzerland and southern Germany, the average\ntemperature for the summer months was 3.78°C above the long-term norm,\nsaid the Climatic Research Unit (CRU) of the University of East Anglia in\nNorwich, which is one of the world's leading institutions for the monitoring and\nanalysis of temperature records.\nThat excess might not seem a lot until you are aware of the context - but then\nyou realise it is enormous. There is nothing like this in previous data,\nanywhere. It is considered so exceptional that Professor Phil Jones, the CRU's\ndirector, is prepared to say openly - in a way few scientists have done before -\nthat the 2003 extreme may be directly attributed, not to natural climate\nvariability, but to global warming caused by human actions.\nMeteorologists have hitherto contented themselves with the formula that\nrecent high temperatures are “consistent with predictions” of climate change.\nFor the great block of the map - that stretching between 35-50N and 0-20E -\nthe CRU has reliable temperature records dating back to 1781. Using as a\nbaseline the average summer temperature recorded between 1961 and 1990,\n\ndepartures from the temperature norm, or “anomalies”, over the area as a\nwhole can easily be plotted. As the graph shows, such is the variability of our\nclimate that over the past 200 years, there have been at least half a dozen\nanomalies, in terms of excess temperature - the peaks on the graph denoting\nvery hot years - approaching, or even exceeding, 2°C. But there has been\nnothing remotely like 2003, when the anomaly is nearly four degrees.\n“This is quite remarkable,’ Professor Jones told The Independent. “It’s very\nunusual in a statistical sense. If this series had a normal statistical distribution,\nyou wouldn’t get this number. The return period [how often it could be\nexpected to recur] would be something like one in a thousand years. If we look\nat an excess above the average of nearly four degrees, then perhaps nearly\nthree degrees of that is natural variability, because we’ve seen that in past\nsummers. But the ﬁnal degree of it is likely to be due to global warming,\ncaused by human actions.”\nThe summer of 2003 has, in a sense, been one that climate scientists have\nlong been expecting. Until now, the warming has been manifesting itself mainly\nin winters that have been less cold than in summers that have been much\nhotter. Last week, the United Nations predicted that winters were warming so\nquickly that winter sports would die out in Europe’s lower-level ski resorts. But\nsooner or later, the unprecedented hot summer was bound to come, and this\nyear it did.\nOne of the most dramatic features of the summer was the hot nights,\nespecially in the ﬁrst half of August. In Paris, the temperature never dropped\nbelow 23°C (73.4°F) at all between 7 and 14 August, and the city recorded its\nwarmest-ever night on 11-12 August, when the mercury did not drop below\n25.5°C (77.9°F). Germany recorded its warmest-ever night at Weinbiet in the\nRhine Valley with a lowest ﬁgure of 27.6°C (80.6°F) on 13 August, and similar\nrecord-breaking nighttime temperatures were recorded in Switzerland and\nItaly.\nThe 15,000 excess deaths in France during August, compared with previous\nyears, have been related to the high night-time temperatures. The number\ngradually increased during the ﬁrst 12 days of the month, peaking at about\n2,000 per day on the night of 12-13 August, then fell oﬀ dramatically after 14\nAugust when the minimum temperatures fell by about 5°C. The elderly were\nmost aﬀected, with a 70 per cent increase in mortality rate in those aged 75-\n94.\nFor Britain, the year as a whole is likely to be the warmest ever recorded, but\ndespite the high temperature record on 10 August, the summer itself - deﬁned\nas the June, July and August period - still comes behind 1976 and 1995, when\nthere were longer periods of intense heat. “At the moment, the year is on",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "course to be the third hottest ever in the global temperature record, which",
-      "questionRange": [
-        14,
-        19
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "course to be the third hottest ever in the global temperature record, which\ngoes back to 1856, behind 1998 and 2002, but when all the records for\nOctober, November and December are collated, it might move into second\nplace/' Professor Jones said. The ten hottest years in the record have all now\noccurred since 1990. Professor Jones is in no doubt about the astonishing\nnature of European summer of 2003. “The temperatures recorded were out of\nall proportion to the previous record,\" he said.\n“It was the warmest summer in the past 500 years and probably way beyond\nthat. It was enormously exceptional.\"\nHis colleagues at the University of East Anglia's Tyndall Centre for Climate\nChange Research are now planning a special study of it. “It was a summer that\nhas not been experienced before, either in terms of the temperature extremes\nthat were reached, or the range and diversity of the impacts of the extreme\nheat,\" said the centre's executive director, Professor Mike Hulme.\n“It will certainly have left its mark on a number of countries, as to how they\nthink and plan for climate change in the future, much as the 2000 ﬂoods have\nrevolutionised the way the Government is thinking about ﬂooding in the UK.\nThe 2003 heatwave will have similar repercussions across Europe.\"\nQuestions 14-19\nDo the following statements agree with the information given in Reading\nPassage 2? In boxes 14-19 on your answer sheet write\n \nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n14\n The average summer temperature in 2003 is almost 4\ndegrees higher than the average temperature of the past.\n15\n Global warming is caused by human activities.\n16\n Jones believes the temperature variation is within the\nnormal range.\n17\n The temperature is measured twice a day in major\ncities.\n18\n There were milder winters rather than hotter\nsummers.\n\nQuestions 20-21\nQuestions 22-25\nQuestion 26\n19\n Governments are building new high-altitude ski\nresorts.\nAnswer the questions below using NO MORE THAN TWO WORDS\nAND/OR NUMBERS from the passage for each answer.\nWrite your answers in boxes 20-21 on your answer sheet.\nWhat are the other two hottest years in Britain besides 2003?\n20\nWhat has also influenced government policies like the hot summer in\n2003?\n21\nComplete the summary below using NO MORE THAN THREE WORDS\nfrom the passage for each answer.\nWrite your answers in boxes 22-25 on your answer sheet.\nThe other two hottest years around the globe were 22\nThe ten hottest years on record all come after the year 23\nThis temperature data has been gathered since 24\nThousands of people died in the country of 25\nChoose the correct letter A, B, C or D.\nWrite your answer in box 26 on your answer sheet.\n26 Which one of the following can be best used as the title of this\npassage?\n \nA\n \nGlobal Warming\n\nB\n \nC\n \nD\n \nWhat Caused Global Warming\nThe Effects of Global Warming\nThat Hot Year in Europe",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Global Warming"
+            "label": null,
+            "text": "The 2003 Heatwave"
           },
           {
-            "label": "B",
-            "content": "C"
+            "label": null,
+            "text": "It was the summer, scientists now realise, when global warming at last made\nitself unmistakably felt. We knew that summer 2003 was remarkable: Britain\nexperienced its record high temperature and continental Europe saw forest\nﬁres raging out of control, great rivers drying to a trickle and thousands of\nheat-related deaths. But just how remarkable is only now becoming clear.\nThe three months of June, July and August were the warmest ever recorded in\nwestern and central Europe, with record national highs in Portugal, Germany\nand Switzerland as well as in Britain. And they were the warmest by a very long\nway. Over a great rectangular block of the earth stretching from west of Paris\nto northern Italy, taking in Switzerland and southern Germany, the average\ntemperature for the summer months was 3.78°C above the long-term norm,\nsaid the Climatic Research Unit (CRU) of the University of East Anglia in\nNorwich, which is one of the world's leading institutions for the monitoring and\nanalysis of temperature records.\nThat excess might not seem a lot until you are aware of the context - but then\nyou realise it is enormous. There is nothing like this in previous data,\nanywhere. It is considered so exceptional that Professor Phil Jones, the CRU's\ndirector, is prepared to say openly - in a way few scientists have done before -\nthat the 2003 extreme may be directly attributed, not to natural climate\nvariability, but to global warming caused by human actions.\nMeteorologists have hitherto contented themselves with the formula that\nrecent high temperatures are \"consistent with predictions\" of climate change.\nFor the great block of the map - that stretching between 35-50N and 0-20E -\nthe CRU has reliable temperature records dating back to 1781. Using as a\nbaseline the average summer temperature recorded between 1961 and 1990,"
           },
           {
-            "label": "D",
-            "content": "What Caused Global Warming"
+            "label": null,
+            "text": "departures from the temperature norm, or \"anomalies\", over the area as a\nwhole can easily be plotted. As the graph shows, such is the variability of our\nclimate that over the past 200 years, there have been at least half a dozen\nanomalies, in terms of excess temperature - the peaks on the graph denoting\nvery hot years - approaching, or even exceeding, 2°C. But there has been\nnothing remotely like 2003, when the anomaly is nearly four degrees.\n\"This is quite remarkable,' Professor Jones told The Independent. \"It's very\nunusual in a statistical sense. If this series had a normal statistical distribution,\nyou wouldn't get this number. The return period [how often it could be\nexpected to recur] would be something like one in a thousand years. If we look\nat an excess above the average of nearly four degrees, then perhaps nearly\nthree degrees of that is natural variability, because we've seen that in past\nsummers. But the ﬁnal degree of it is likely to be due to global warming,\ncaused by human actions.\"\nThe summer of 2003 has, in a sense, been one that climate scientists have\nlong been expecting. Until now, the warming has been manifesting itself mainly\nin winters that have been less cold than in summers that have been much\nhotter. Last week, the United Nations predicted that winters were warming so\nquickly that winter sports would die out in Europe's lower-level ski resorts. But\nsooner or later, the unprecedented hot summer was bound to come, and this\nyear it did.\nOne of the most dramatic features of the summer was the hot nights,\nespecially in the ﬁrst half of August. In Paris, the temperature never dropped\nbelow 23°C (73.4°F) at all between 7 and 14 August, and the city recorded its\nwarmest-ever night on 11-12 August, when the mercury did not drop below\n25.5°C (77.9°F). Germany recorded its warmest-ever night at Weinbiet in the\nRhine Valley with a lowest ﬁgure of 27.6°C (80.6°F) on 13 August, and similar\nrecord-breaking nighttime temperatures were recorded in Switzerland and\nItaly.\nThe 15,000 excess deaths in France during August, compared with previous\nyears, have been related to the high night-time temperatures. The number\ngradually increased during the ﬁrst 12 days of the month, peaking at about\n2,000 per day on the night of 12-13 August, then fell oﬀ dramatically after 14\nAugust when the minimum temperatures fell by about 5°C. The elderly were\nmost aﬀected, with a 70 per cent increase in mortality rate in those aged 75-\n94.\nFor Britain, the year as a whole is likely to be the warmest ever recorded, but\ndespite the high temperature record on 10 August, the summer itself - deﬁned\nas the June, July and August period - still comes behind 1976 and 1995, when\nthere were longer periods of intense heat. \"At the moment, the year is on"
+          },
+          {
+            "label": null,
+            "text": "course to be the third hottest ever in the global temperature record, which\ngoes back to 1856, behind 1998 and 2002, but when all the records for\nOctober, November and December are collated, it might move into second\nplace/' Professor Jones said. The ten hottest years in the record have all now\noccurred since 1990. Professor Jones is in no doubt about the astonishing\nnature of European summer of 2003. \"The temperatures recorded were out of\nall proportion to the previous record,\" he said.\n\"It was the warmest summer in the past 500 years and probably way beyond\nthat. It was enormously exceptional.\"\nHis colleagues at the University of East Anglia's Tyndall Centre for Climate\nChange Research are now planning a special study of it. \"It was a summer that\nhas not been experienced before, either in terms of the temperature extremes\nthat were reached, or the range and diversity of the impacts of the extreme\nheat,\" said the centre's executive director, Professor Mike Hulme.\n\"It will certainly have left its mark on a number of countries, as to how they\nthink and plan for climate change in the future, much as the 2000 ﬂoods have\nrevolutionised the way the Government is thinking about ﬂooding in the UK.\nThe 2003 heatwave will have similar repercussions across Europe.\""
           }
-        ]
+        ],
+        "text": "The 2003 Heatwave\n\nIt was the summer, scientists now realise, when global warming at last made\nitself unmistakably felt. We knew that summer 2003 was remarkable: Britain\nexperienced its record high temperature and continental Europe saw forest\nﬁres raging out of control, great rivers drying to a trickle and thousands of\nheat-related deaths. But just how remarkable is only now becoming clear.\nThe three months of June, July and August were the warmest ever recorded in\nwestern and central Europe, with record national highs in Portugal, Germany\nand Switzerland as well as in Britain. And they were the warmest by a very long\nway. Over a great rectangular block of the earth stretching from west of Paris\nto northern Italy, taking in Switzerland and southern Germany, the average\ntemperature for the summer months was 3.78°C above the long-term norm,\nsaid the Climatic Research Unit (CRU) of the University of East Anglia in\nNorwich, which is one of the world's leading institutions for the monitoring and\nanalysis of temperature records.\nThat excess might not seem a lot until you are aware of the context - but then\nyou realise it is enormous. There is nothing like this in previous data,\nanywhere. It is considered so exceptional that Professor Phil Jones, the CRU's\ndirector, is prepared to say openly - in a way few scientists have done before -\nthat the 2003 extreme may be directly attributed, not to natural climate\nvariability, but to global warming caused by human actions.\nMeteorologists have hitherto contented themselves with the formula that\nrecent high temperatures are \"consistent with predictions\" of climate change.\nFor the great block of the map - that stretching between 35-50N and 0-20E -\nthe CRU has reliable temperature records dating back to 1781. Using as a\nbaseline the average summer temperature recorded between 1961 and 1990,\n\ndepartures from the temperature norm, or \"anomalies\", over the area as a\nwhole can easily be plotted. As the graph shows, such is the variability of our\nclimate that over the past 200 years, there have been at least half a dozen\nanomalies, in terms of excess temperature - the peaks on the graph denoting\nvery hot years - approaching, or even exceeding, 2°C. But there has been\nnothing remotely like 2003, when the anomaly is nearly four degrees.\n\"This is quite remarkable,' Professor Jones told The Independent. \"It's very\nunusual in a statistical sense. If this series had a normal statistical distribution,\nyou wouldn't get this number. The return period [how often it could be\nexpected to recur] would be something like one in a thousand years. If we look\nat an excess above the average of nearly four degrees, then perhaps nearly\nthree degrees of that is natural variability, because we've seen that in past\nsummers. But the ﬁnal degree of it is likely to be due to global warming,\ncaused by human actions.\"\nThe summer of 2003 has, in a sense, been one that climate scientists have\nlong been expecting. Until now, the warming has been manifesting itself mainly\nin winters that have been less cold than in summers that have been much\nhotter. Last week, the United Nations predicted that winters were warming so\nquickly that winter sports would die out in Europe's lower-level ski resorts. But\nsooner or later, the unprecedented hot summer was bound to come, and this\nyear it did.\nOne of the most dramatic features of the summer was the hot nights,\nespecially in the ﬁrst half of August. In Paris, the temperature never dropped\nbelow 23°C (73.4°F) at all between 7 and 14 August, and the city recorded its\nwarmest-ever night on 11-12 August, when the mercury did not drop below\n25.5°C (77.9°F). Germany recorded its warmest-ever night at Weinbiet in the\nRhine Valley with a lowest ﬁgure of 27.6°C (80.6°F) on 13 August, and similar\nrecord-breaking nighttime temperatures were recorded in Switzerland and\nItaly.\nThe 15,000 excess deaths in France during August, compared with previous\nyears, have been related to the high night-time temperatures. The number\ngradually increased during the ﬁrst 12 days of the month, peaking at about\n2,000 per day on the night of 12-13 August, then fell oﬀ dramatically after 14\nAugust when the minimum temperatures fell by about 5°C. The elderly were\nmost aﬀected, with a 70 per cent increase in mortality rate in those aged 75-\n94.\nFor Britain, the year as a whole is likely to be the warmest ever recorded, but\ndespite the high temperature record on 10 August, the summer itself - deﬁned\nas the June, July and August period - still comes behind 1976 and 1995, when\nthere were longer periods of intense heat. \"At the moment, the year is on\n\ncourse to be the third hottest ever in the global temperature record, which\ngoes back to 1856, behind 1998 and 2002, but when all the records for\nOctober, November and December are collated, it might move into second\nplace/' Professor Jones said. The ten hottest years in the record have all now\noccurred since 1990. Professor Jones is in no doubt about the astonishing\nnature of European summer of 2003. \"The temperatures recorded were out of\nall proportion to the previous record,\" he said.\n\"It was the warmest summer in the past 500 years and probably way beyond\nthat. It was enormously exceptional.\"\nHis colleagues at the University of East Anglia's Tyndall Centre for Climate\nChange Research are now planning a special study of it. \"It was a summer that\nhas not been experienced before, either in terms of the temperature extremes\nthat were reached, or the range and diversity of the impacts of the extreme\nheat,\" said the centre's executive director, Professor Mike Hulme.\n\"It will certainly have left its mark on a number of countries, as to how they\nthink and plan for climate change in the future, much as the 2000 ﬂoods have\nrevolutionised the way the Government is thinking about ﬂooding in the UK.\nThe 2003 heatwave will have similar repercussions across Europe.\"",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 14-19 on your answer sheet write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below using NO MORE THAN TWO WORDS AND/OR NUMBERS from the passage for each answer. Write your answers in boxes 20-21 on your answer sheet. What are the other two hottest years in Britain besides 2003?",
+          "body": "[[20]] What has also influenced government policies like the hot summer in 2003? [[21]]",
+          "range": [
+            20,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below using NO MORE THAN THREE WORDS from the passage for each answer.",
+          "body": "The other two hottest years around the globe were [[22]]. The ten hottest years on record all come after the year [[23]]. This temperature data has been gathered since [[24]]. Thousands of people died in the country of [[25]].",
+          "range": [
+            22,
+            25
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 26 on your answer sheet.",
+          "body": null,
+          "range": [
+            26,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "The average summer temperature in 2003 is almost 4\ndegrees higher than the average temperature of the past.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Global warming is caused by human activities.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Jones believes the temperature variation is within the\nnormal range.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "The temperature is measured twice a day in major\ncities.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "There were milder winters rather than hotter\nsummers.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Governments are building new high-altitude ski\nresorts.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "1976, 1995",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "2000 floods/flooding",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "1998 and 2002/1998, 2002",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "1990",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "1781",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "France",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g4",
+          "prompt": "Which one of the following can be best used as the title of this passage?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Global Warming",
+            "What Caused Global Warming",
+            "The Effects of Global Warming",
+            "That Hot Year in Europe"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Amateur Naturalists",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nAmateur Naturalists\nFrom the results of an annual Alaskan betting contest to sightings of\nmigra​tory birds, ecologists are using a wealth of unusual data to\npredict the impact of climate change.\nA Tim Sparks slides a small leather-bound notebook out of an envelope. The\nbook's yellowing pages contain bee-keeping notes made between 1941 and\n1969 by the late Walter Coates of Kilworth, Leicestershire. He adds it to his\ngrowing pile of local journals, birdwatchers' lists and gardening diaries. \"We're\nuncovering about one major new record each month,\" he says, \"I still get\nsurprised.\" Around two centuries before Coates, Robert Marsham, a landowner\nfrom Norfolk in the east of England, began recording the life cycles of plants\nand animals on his estate - when the ﬁrst wood anemones ﬂowered, the dates\non which the oaks burst into leaf and the rooks began nesting. Successive\nMarshams continued compiling these notes for 211 years.\nB Today, such records are being put to uses that their authors could not pos‐\nsibly have expected. These data sets, and others like them, are proving in‐\nvaluable to ecologists interested in the timing of biological events, or phen‐\nology. By combining the records with climate data, researchers can reveal how,\nfor example, changes in temperature aﬀect the arrival of spring, allowing\necologists to make improved predictions about the impact of climate change. A\nsmall band of researchers is combing through hundreds of years of records\ntaken by thousands of amateur naturalists. And more systematic projects have\nalso started up, producing an overwhelming response. \"The amount of interest\nis almost frightening,\" says Sparks, a climate researcher at the Centre for\nEcology and Hydrology in Monks Wood, Cambridgeshire.\n\nC Sparks ﬁrst became aware of the army of \"closet phenologists”, as he de‐\nscribes them, when a retiring colleague gave him the Marsham records. He now\nspends much of his time following leads from one historical data set to\nanother. As news of his quest spreads, people tip him oﬀ to other historical\nrecords, and more amateur phenologists come out of their closets. The British\ndevotion to recording and collecting makes his job easier - one man from Kent\nsent him 30 years' worth of kitchen calendars, on which he had noted the date\nthat his neighbour's magnolia tree flowered.\nD Other researchers have unearthed data from equally odd sources. Rafe Sa‐\ngarin, an ecologist at Stanford University in California, recently studied records\nof a betting contest in which participants attempt to guess the exact time at\nwhich a specially erected wooden tripod will fall through the surface of a\nthawing river. The competition has taken place annually on the Tenana River in\nAlaska since 1917, and analysis of the results showed that the thaw now\narrives five days earlier than it did when the contest began.\nE Overall, such records have helped to show that, compared with 20 years ago,\na raft of natural events now occur earlier across much of the northern hemi‐\nsphere, from the opening of leaves to the return of birds from migration and\nthe emergence of butterﬂies from hibernation. The data can also hint at how\nnature will change in the future. Together with models of climate change,\namateurs' records could help guide conservation. Terry Root, an ecologist at\nthe University of Michigan in Ann Arbor, has collected birdwatchers' counts of\nwildfowl taken between 1955 and 1996 on seasonal ponds in the American\nMidwest and combined them with climate data and models of future warming.\nHer analysis shows that the increased droughts that the models predict could\nhalve the breeding populations at the ponds. \"The number of waterfowl in\nNorth America will most probably drop signiﬁcantly with global warming,\" she\nsays.\nF But not all professionals are happy to use amateur data. \"A lot of scientists\nwon't touch them, they say they're too full of problems,\" says Root. Because\ndiﬀerent observers can have diﬀerent ideas of what constitutes, for example,\nan open snowdrop. \"The biggest concern with ad hoc observations is how\ncarefully and systematically they were taken,\" says Mark Schwartz of the\nUniversity of Wisconsin, Milwaukee, who studies the interactions between\nplants and climate. \"We need to know pretty precisely what a person's been\nobserving - if they just say 'I noted when the leaves came out', it might not be\nthat useful.\" Measuring the onset of autumn can be particularly problematic\nbecause deciding when leaves change colour is a more subjective process than\nnoting when they appear.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Tim Sparks slides a small leather-bound notebook out of an envelope. The"
+            "label": null,
+            "text": "Amateur Naturalists"
           },
           {
-            "label": "B",
-            "content": "Today, such records are being put to uses that their authors could not pos‐"
+            "label": null,
+            "text": "From the results of an annual Alaskan betting contest to sightings of"
           },
           {
-            "label": "C",
-            "content": "Sparks ﬁrst became aware of the army of \"closet phenologists”, as he de‐"
+            "label": null,
+            "text": "migratory birds, ecologists are using a wealth of unusual data to"
           },
           {
-            "label": "D",
-            "content": "Other researchers have unearthed data from equally odd sources. Rafe Sa‐"
+            "label": null,
+            "text": "predict the impact of climate change."
           },
           {
-            "label": "E",
-            "content": "Overall, such records have helped to show that, compared with 20 years ago,"
+            "label": null,
+            "text": "A Tim Sparks slides a small leather-bound notebook out of an envelope. The\nbook's yellowing pages contain bee-keeping notes made between 1941 and\n1969 by the late Walter Coates of Kilworth, Leicestershire. He adds it to his\ngrowing pile of local journals, birdwatchers' lists and gardening diaries. \"We're\nuncovering about one major new record each month,\" he says, \"I still get\nsurprised.\" Around two centuries before Coates, Robert Marsham, a landowner\nfrom Norfolk in the east of England, began recording the life cycles of plants\nand animals on his estate - when the ﬁrst wood anemones ﬂowered, the dates\non which the oaks burst into leaf and the rooks began nesting. Successive\nMarshams continued compiling these notes for 211 years."
           },
           {
-            "label": "F",
-            "content": "But not all professionals are happy to use amateur data. \"A lot of scientists"
+            "label": null,
+            "text": "B Today, such records are being put to uses that their authors could not pos‐\nsibly have expected. These data sets, and others like them, are proving in‐\nvaluable to ecologists interested in the timing of biological events, or phen‐\nology. By combining the records with climate data, researchers can reveal how,\nfor example, changes in temperature aﬀect the arrival of spring, allowing\necologists to make improved predictions about the impact of climate change. A\nsmall band of researchers is combing through hundreds of years of records\ntaken by thousands of amateur naturalists. And more systematic projects have\nalso started up, producing an overwhelming response. \"The amount of interest\nis almost frightening,\" says Sparks, a climate researcher at the Centre for\nEcology and Hydrology in Monks Wood, Cambridgeshire."
+          },
+          {
+            "label": null,
+            "text": "C Sparks ﬁrst became aware of the army of \"closet phenologists\", as he de‐\nscribes them, when a retiring colleague gave him the Marsham records. He now\nspends much of his time following leads from one historical data set to\nanother. As news of his quest spreads, people tip him oﬀ to other historical\nrecords, and more amateur phenologists come out of their closets. The British\ndevotion to recording and collecting makes his job easier - one man from Kent\nsent him 30 years' worth of kitchen calendars, on which he had noted the date\nthat his neighbour's magnolia tree flowered."
+          },
+          {
+            "label": null,
+            "text": "D Other researchers have unearthed data from equally odd sources. Rafe Sa‐\ngarin, an ecologist at Stanford University in California, recently studied records\nof a betting contest in which participants attempt to guess the exact time at\nwhich a specially erected wooden tripod will fall through the surface of a\nthawing river. The competition has taken place annually on the Tenana River in\nAlaska since 1917, and analysis of the results showed that the thaw now\narrives five days earlier than it did when the contest began."
+          },
+          {
+            "label": null,
+            "text": "E Overall, such records have helped to show that, compared with 20 years ago,\na raft of natural events now occur earlier across much of the northern hemi‐\nsphere, from the opening of leaves to the return of birds from migration and\nthe emergence of butterﬂies from hibernation. The data can also hint at how\nnature will change in the future. Together with models of climate change,\namateurs' records could help guide conservation. Terry Root, an ecologist at\nthe University of Michigan in Ann Arbor, has collected birdwatchers' counts of\nwildfowl taken between 1955 and 1996 on seasonal ponds in the American\nMidwest and combined them with climate data and models of future warming.\nHer analysis shows that the increased droughts that the models predict could\nhalve the breeding populations at the ponds. \"The number of waterfowl in\nNorth America will most probably drop signiﬁcantly with global warming,\" she\nsays."
+          },
+          {
+            "label": null,
+            "text": "F But not all professionals are happy to use amateur data. \"A lot of scientists\nwon't touch them, they say they're too full of problems,\" says Root. Because\ndiﬀerent observers can have diﬀerent ideas of what constitutes, for example,\nan open snowdrop. \"The biggest concern with ad hoc observations is how\ncarefully and systematically they were taken,\" says Mark Schwartz of the\nUniversity of Wisconsin, Milwaukee, who studies the interactions between\nplants and climate. \"We need to know pretty precisely what a person's been\nobserving - if they just say 'I noted when the leaves came out', it might not be\nthat useful.\" Measuring the onset of autumn can be particularly problematic\nbecause deciding when leaves change colour is a more subjective process than\nnoting when they appear."
+          },
+          {
+            "label": null,
+            "text": "G Overall, most phenologists are positive about the contribution that amateurs\ncan make. \"They get at the raw power of science: careful observation of the\nnatural world,\" says Sagarin. But the professionals also acknowledge the need\nfor careful quality control. Root, for example, tries to gauge the quality of an\namateur archive by interviewing its collector. \"You always have to worry -\nthings as trivial as vacations can aﬀect measurement. I disregard a lot of\nrecords because they're not rigorous enough,\" she says. Others suggest that\nthe right statistics can iron out some of the problems with amateur data.\nTogether with colleagues at Wageningen University in the Netherlands,\nenvironmental scientist Arnold van Vliet is developing statistical techniques to\naccount for the uncertainty in amateur phenological data. With the enthusiasm\nof amateur phenologists evident from past records, professional researchers\nare now trying to create standardised recording schemes for future eﬀorts.\nThey hope that well-designed studies will generate a volume of observations\nlarge enough to drown out the idiosyncrasies of individual recorders. The data\nare cheap to collect, and can provide breadth in space, time and range of\nspecies. \"It's very diﬃcult to collect data on a large geographical scale without\nenlisting an army of observers,\" says Root."
+          },
+          {
+            "label": null,
+            "text": "H Phenology also helps to drive home messages about climate change. \"Be‐\ncause the public understand these records, they accept them,\" says Sparks.\nIt can also illustrate potentially unpleasant consequences, he adds, such as the\nﬁnding that more rat infestations are reported to local councils in warmer\nyears. And getting people involved is great for public relations. \"People are\nthrilled to think that the data they've been collecting as a hobby can be used\nfor something scientific - it empowers them,\" says Root."
           }
-        ]
+        ],
+        "text": "Amateur Naturalists\n\nFrom the results of an annual Alaskan betting contest to sightings of\n\nmigratory birds, ecologists are using a wealth of unusual data to\n\npredict the impact of climate change.\n\nA Tim Sparks slides a small leather-bound notebook out of an envelope. The\nbook's yellowing pages contain bee-keeping notes made between 1941 and\n1969 by the late Walter Coates of Kilworth, Leicestershire. He adds it to his\ngrowing pile of local journals, birdwatchers' lists and gardening diaries. \"We're\nuncovering about one major new record each month,\" he says, \"I still get\nsurprised.\" Around two centuries before Coates, Robert Marsham, a landowner\nfrom Norfolk in the east of England, began recording the life cycles of plants\nand animals on his estate - when the ﬁrst wood anemones ﬂowered, the dates\non which the oaks burst into leaf and the rooks began nesting. Successive\nMarshams continued compiling these notes for 211 years.\n\nB Today, such records are being put to uses that their authors could not pos‐\nsibly have expected. These data sets, and others like them, are proving in‐\nvaluable to ecologists interested in the timing of biological events, or phen‐\nology. By combining the records with climate data, researchers can reveal how,\nfor example, changes in temperature aﬀect the arrival of spring, allowing\necologists to make improved predictions about the impact of climate change. A\nsmall band of researchers is combing through hundreds of years of records\ntaken by thousands of amateur naturalists. And more systematic projects have\nalso started up, producing an overwhelming response. \"The amount of interest\nis almost frightening,\" says Sparks, a climate researcher at the Centre for\nEcology and Hydrology in Monks Wood, Cambridgeshire.\n\nC Sparks ﬁrst became aware of the army of \"closet phenologists\", as he de‐\nscribes them, when a retiring colleague gave him the Marsham records. He now\nspends much of his time following leads from one historical data set to\nanother. As news of his quest spreads, people tip him oﬀ to other historical\nrecords, and more amateur phenologists come out of their closets. The British\ndevotion to recording and collecting makes his job easier - one man from Kent\nsent him 30 years' worth of kitchen calendars, on which he had noted the date\nthat his neighbour's magnolia tree flowered.\n\nD Other researchers have unearthed data from equally odd sources. Rafe Sa‐\ngarin, an ecologist at Stanford University in California, recently studied records\nof a betting contest in which participants attempt to guess the exact time at\nwhich a specially erected wooden tripod will fall through the surface of a\nthawing river. The competition has taken place annually on the Tenana River in\nAlaska since 1917, and analysis of the results showed that the thaw now\narrives five days earlier than it did when the contest began.\n\nE Overall, such records have helped to show that, compared with 20 years ago,\na raft of natural events now occur earlier across much of the northern hemi‐\nsphere, from the opening of leaves to the return of birds from migration and\nthe emergence of butterﬂies from hibernation. The data can also hint at how\nnature will change in the future. Together with models of climate change,\namateurs' records could help guide conservation. Terry Root, an ecologist at\nthe University of Michigan in Ann Arbor, has collected birdwatchers' counts of\nwildfowl taken between 1955 and 1996 on seasonal ponds in the American\nMidwest and combined them with climate data and models of future warming.\nHer analysis shows that the increased droughts that the models predict could\nhalve the breeding populations at the ponds. \"The number of waterfowl in\nNorth America will most probably drop signiﬁcantly with global warming,\" she\nsays.\n\nF But not all professionals are happy to use amateur data. \"A lot of scientists\nwon't touch them, they say they're too full of problems,\" says Root. Because\ndiﬀerent observers can have diﬀerent ideas of what constitutes, for example,\nan open snowdrop. \"The biggest concern with ad hoc observations is how\ncarefully and systematically they were taken,\" says Mark Schwartz of the\nUniversity of Wisconsin, Milwaukee, who studies the interactions between\nplants and climate. \"We need to know pretty precisely what a person's been\nobserving - if they just say 'I noted when the leaves came out', it might not be\nthat useful.\" Measuring the onset of autumn can be particularly problematic\nbecause deciding when leaves change colour is a more subjective process than\nnoting when they appear.\n\nG Overall, most phenologists are positive about the contribution that amateurs\ncan make. \"They get at the raw power of science: careful observation of the\nnatural world,\" says Sagarin. But the professionals also acknowledge the need\nfor careful quality control. Root, for example, tries to gauge the quality of an\namateur archive by interviewing its collector. \"You always have to worry -\nthings as trivial as vacations can aﬀect measurement. I disregard a lot of\nrecords because they're not rigorous enough,\" she says. Others suggest that\nthe right statistics can iron out some of the problems with amateur data.\nTogether with colleagues at Wageningen University in the Netherlands,\nenvironmental scientist Arnold van Vliet is developing statistical techniques to\naccount for the uncertainty in amateur phenological data. With the enthusiasm\nof amateur phenologists evident from past records, professional researchers\nare now trying to create standardised recording schemes for future eﬀorts.\nThey hope that well-designed studies will generate a volume of observations\nlarge enough to drown out the idiosyncrasies of individual recorders. The data\nare cheap to collect, and can provide breadth in space, time and range of\nspecies. \"It's very diﬃcult to collect data on a large geographical scale without\nenlisting an army of observers,\" says Root.\n\nH Phenology also helps to drive home messages about climate change. \"Be‐\ncause the public understand these records, they accept them,\" says Sparks.\nIt can also illustrate potentially unpleasant consequences, he adds, such as the\nﬁnding that more rat infestations are reported to local councils in warmer\nyears. And getting people involved is great for public relations. \"People are\nthrilled to think that the data they've been collecting as a hobby can be used\nfor something scientific - it empowers them,\" says Root.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "G Overall, most phenologists are positive about the contribution that amateurs",
-      "questionRange": [
-        27,
-        33
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 3 has eight paragraphs A-H. Which paragraph contains the following information? Write the correct letter A-H in boxes 27-33 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            33
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below with NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 34-36 on your answer sheet.",
+          "body": "Walter Coates's records largely contain the information of [[34]] Robert Marsham is famous for recording the [[35]] of animals and plants on his land. According to some phenologists, global warming may cause the number of waterfowl in North America to drop significantly due to increased [[36]]",
+          "range": [
+            34,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 37-40 on your answer sheet.",
+          "body": null,
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "G Overall, most phenologists are positive about the contribution that amateurs\ncan make. \"They get at the raw power of science: careful observation of the\nnatural world,\" says Sagarin. But the professionals also acknowledge the need\nfor careful quality control. Root, for example, tries to gauge the quality of an\namateur archive by interviewing its collector. \"You always have to worry -\nthings as trivial as vacations can aﬀect measurement. I disregard a lot of\nrecords because they're not rigorous enough,\" she says. Others suggest that\nthe right statistics can iron out some of the problems with amateur data.\nTogether with colleagues at Wageningen University in the Netherlands,\nenvironmental scientist Arnold van Vliet is developing statistical techniques to\naccount for the uncertainty in amateur phenological data. With the enthusiasm\nof amateur phenologists evident from past records, professional researchers\nare now trying to create standardised recording schemes for future eﬀorts.\nThey hope that well-designed studies will generate a volume of observations\nlarge enough to drown out the idiosyncrasies of individual recorders. The data\nare cheap to collect, and can provide breadth in space, time and range of\nspecies. \"It's very diﬃcult to collect data on a large geographical scale without\nenlisting an army of observers,\" says Root.\nH Phenology also helps to drive home messages about climate change. \"Be‐\ncause the public understand these records, they accept them,\" says Sparks.\nIt can also illustrate potentially unpleasant consequences, he adds, such as the\nﬁnding that more rat infestations are reported to local councils in warmer\nyears. And getting people involved is great for public relations. \"People are\nthrilled to think that the data they've been collecting as a hobby can be used\nfor something scientific - it empowers them,\" says Root.\nQuestions 27-33\nReading Passage 3 has eight paragraphs A-H.\nWhich paragraph contains the following information?\nWrite the correct letter A-H in boxes 27-33 on your answer sheet.\n27\n     The definition of phenology\n28\n     How Sparks first became aware of amateur records\n29\n      How people reacted to their involvement in data\ncollection\n30\n      The necessity to encourage amateur data collection",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "G",
-            "content": "Overall, most phenologists are positive about the contribution that amateurs"
-          }
-        ]
-      },
       "questions": [
         {
-          "number": 31,
-          "type": "matching-features",
-          "prompt": "A description of using amateur records to make predictions",
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The definition of phenology",
           "instruction": "",
-          "answer": "E"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "How Sparks first became aware of amateur records",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "How people reacted to their involvement in data\ncollection",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The necessity to encourage amateur data collection",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "A description of using amateur records to make\npredictions",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 32,
-          "type": "matching-features",
-          "prompt": "Records of a competition providing clues to climate change",
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Records of a competition providing clues to climate\nchange",
           "instruction": "",
-          "answer": "D"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 33,
-          "type": "matching-features",
-          "prompt": "A description of a very old record compiled by generations of amateur naturalists Complete the sentences below with NO MORE THAN TWO WORDS from the passage for each answer.",
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "A description of a very old record compiled by\ngenerations of amateur naturalists",
           "instruction": "",
-          "answer": "A"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "bee-keeping",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "life cycles",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "drought(s)",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "Why do a lot of scientists discredit the data collected by amateurs?",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "Mark Schwartz used the example of leaves to illustrate that",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "amateur records can't be used.",
+            "amateur records are always unsystematic.",
+            "the colour change of leaves is hard to observe.",
+            "valuable information is often precise."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "How do the scientists suggest amateur data should be used?",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "What's the implication of phenology for ordinary people?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "It empowers the public.",
+            "It promotes public relations.",
+            "It warns people of animal infestation.",
+            "It raises awareness about climate change in the public. Solution:                2i Part 1: Question 1 - 13      4x 6 iv 1v                          8 TRUE 10 NOT GIVEN 3 vi 5 ix 7 ii 9 TRUE 11  C,D,E 13 Part 2: Question 14 - 26     15 YES 14 YES 16 NO                        17 NOT GIVEN 18 YES                       19 NOT GIVEN 20 1976, 1995                21 2000 floods/flooding 22 1998 and 2002/1998, 2002  23 1990 24 1781                      25 France 26 D                     28 C 30 G Part 3: Question 27 - 40  32 D 27 B                     34 bee-keeping 29 H                     36 drought(s) 31 E                     38 A 33 A                     40 D 35 life cycles"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     }
@@ -237,7 +1125,7 @@
     "8": "TRUE",
     "9": "TRUE",
     "10": "NOT GIVEN",
-    "13": "C,D,E",
+    "11": "C,D,E",
     "14": "YES",
     "15": "YES",
     "16": "NO",
@@ -247,6 +1135,8 @@
     "20": "1976, 1995",
     "21": "2000 floods/flooding",
     "22": "1998 and 2002/1998, 2002",
+    "23": "1990",
+    "24": "1781",
     "25": "France",
     "26": "D",
     "27": "B",
@@ -262,6 +1152,8 @@
     "37": "C",
     "38": "A",
     "39": "D",
-    "40": "D"
+    "40": "D",
+    "12": "C,D,E",
+    "13": "C,D,E"
   }
 }

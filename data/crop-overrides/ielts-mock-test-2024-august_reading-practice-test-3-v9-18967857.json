@@ -1,0 +1,263 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose TEN answers from the box and write the correct letter, A-L, next to questions 1-10.",
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "labels": [
+        "the finished object appeals on an emotional and spiritual level",
+        "the final product has no pretensions to being anything more than it appears",
+        "only a functional use is considered for the finished object",
+        "no practical purpose as such is envisaged for the created object",
+        "the process of creation is merely a means to an end",
+        "whether or not there is an end product, the product itself is secondary to the process of creation",
+        "not having to adhere to a set of rules, the process is a matter of experimentation",
+        "there is no margin of error for experimentation, all of the process following a set of guidelines",
+        "its goal is defined from the outset",
+        "the process is fluid and undefined",
+        "it is useful but not commercially viable",
+        "the production process is a mixture of following rules and experimentation"
+      ]
+    },
+    "questions": {
+      "1": {
+        "prompt": "Row 'End Product', column 'Art'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "2": {
+        "prompt": "Row 'End Product', column 'Craft'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "3": {
+        "prompt": "Row 'End Product', column 'Art'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "4": {
+        "prompt": "Row 'End Product', column 'Craft'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "5": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Art'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "6": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Craft'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "7": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Art'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "8": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Craft'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "9": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Art'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "10": {
+        "prompt": "Row 'Act of Creation/ Production', column 'Craft'",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      }
+    }
+  },
+  "p2g1": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Complete each sentence with the correct ending, A-E, below. Write the correct letter, A-E, next to questions 11-13.",
+    "optionBank": {
+      "title": "Endings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "of certain limitations in his artistic skills that became evident in his later works.",
+        "Introduced Dali to the psychoanalytic movement for the first time",
+        "his artistic studies needed to be supplemented by going to Paris to meet the Surrealist artists.",
+        "dome art critics are less impressed with his work than the general public.",
+        "inspired Dali to focus on the psychoanalytic content of his artwork."
+      ]
+    },
+    "questions": {
+      "11": {
+        "prompt": "Dali displayed a precocious talent from an early age; however, he was aware",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "12": {
+        "prompt": "Encountering the French Surrealist painters in Paris",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "13": {
+        "prompt": "Dali's artistic legacy is secure although",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  }
+}

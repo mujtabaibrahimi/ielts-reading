@@ -1,0 +1,116 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "type": "fill-in-blank-from-list",
+    "instruction": "Complete the notes using the list of words, A-J, below. Choose the correct letter, A-J.",
+    "optionBank": {
+      "title": "List of Words",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+      ],
+      "labels": [
+        "analysis",
+        "decline",
+        "peace",
+        "change",
+        "identity",
+        "pleasure",
+        "communication",
+        "liberty",
+        "tolerance",
+        "conflict"
+      ]
+    },
+    "questions": {
+      "5": {
+        "prompt": "Hegel and Spengler: history is a process of",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "6": {
+        "prompt": "Hegel: historical process ends in an increase in",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "7": {
+        "prompt": "Spengler: historical process ends in",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "8": {
+        "prompt": "Southgate: history helps to create a nation's",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      },
+      "9": {
+        "prompt": "Furay and Salevouris: study of history encourages (this) of other cultures",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "24": "moisture",
+    "25": "A,D",
+    "26": "A,D"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+    "body": "Year and Events in British Study Centres table. 1930s: 'First established by current owner's grandfather [[28]]'. 1970s: 'Three [[29]] were opened as the new face of the Company'. 1990s: 'The first English language school was opened in Oxford'. [[30]]: 'Six years after the first school another was opened in Brighton'. [[31]]: 'The third school was then opened in [[32]]'. 2008: 'The University of Brighton is now one of [[33]] where vacation courses are held for youngsters'. 2010: 'Another school was opened'. 2012: '[[34]] made it possible to have lessons online'."
+  },
+  "p1g3": {
+    "instruction": "The diagram below shows the worker bee. Label the diagram. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 11-14 on your answer sheet.",
+    "questions": {
+      "11": {
+        "prompt": "Worker bee, label 11: arrow from the left pointing to the upper wing"
+      },
+      "12": {
+        "prompt": "Worker bee, label 12: two arrows from the top pointing to the front of the head"
+      },
+      "13": {
+        "prompt": "Worker bee, label 13: arrow from the right pointing to the lower wing"
+      },
+      "14": {
+        "prompt": "Worker bee, label 14: arrow from the lower left pointing to the back leg area"
+      }
+    }
+  }
+}

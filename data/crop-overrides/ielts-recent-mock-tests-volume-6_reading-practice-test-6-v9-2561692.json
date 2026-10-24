@@ -1,0 +1,65 @@
+{
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Complete each sentence with the correct ending, A-E, below. Write the correct letter, A-E.",
+    "optionBank": {
+      "title": "Sentence endings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "new developments, such as the application of Hydrofluorocarbons.",
+        "consumers' demand for fresh food, especially for vegetables.",
+        "the discovery of chlorofluorocarbons (Freon).",
+        "regional transportation system for refrigeration for a long distance.",
+        "extensive spread of the refrigeration method."
+      ]
+    },
+    "questions": {
+      "11": {
+        "prompt": "A healthy dietary change between 1830 and the American Civil War was greatly associated with",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "12": {
+        "prompt": "The development of urbanisation was likely to cause",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "13": {
+        "prompt": "Problems due to water treatment contributed to",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "14": {
+        "prompt": "The risk of the environmental devastation from the refrigeration led to",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  }
+}

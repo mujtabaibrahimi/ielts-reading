@@ -1,0 +1,15 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Look at the five advertisements, A-E. Which venue offers the following? Write the correct letter, A-E. You may use any letter more than once.",
+    "optionBank": {"title": "Advertisements", "options": ["A", "B", "C", "D", "E"], "labels": []},
+    "questions": {
+      "9": {"prompt": "Only non-alcoholic drinks", "options": ["A", "B", "C", "D", "E"]},
+      "10": {"prompt": "Custom-made orders", "options": ["A", "B", "C", "D", "E"]},
+      "11": {"prompt": "An outside seating area", "options": ["A", "B", "C", "D", "E"]},
+      "12": {"prompt": "A room especially designated for small parties", "options": ["A", "B", "C", "D", "E"]},
+      "13": {"prompt": "A constantly changing menu", "options": ["A", "B", "C", "D", "E"]},
+      "14": {"prompt": "Simply cooked food", "options": ["A", "B", "C", "D", "E"]}
+    }
+  }
+}

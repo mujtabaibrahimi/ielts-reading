@@ -1,82 +1,1259 @@
 {
   "id": "prepare-for-ielts-general-training-volume-1_reading-practice-test-1-v9-5898212",
   "type": "general",
-  "source": "prepare-for-ielts-general-training-volume-1 reading-practice-test-1-v9-5898212",
+  "title": "Prepare for IELTS General Training Volume 1 - Reading Test 1",
+  "collection": "Prepare for IELTS General Training Volume 1",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "prepare-for-ielts-general-training-volume-1_reading-practice-test-1-v9-5898212.pdf",
-  "total_questions": 2,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        8
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-8."
+          },
+          {
+            "label": null,
+            "text": "How to become a successful crime writer"
+          },
+          {
+            "label": null,
+            "text": "British authors have always excelled in one genre in particular: that of crime\nfiction. Sir Arthur Conan Doyle and Agatha Christie for some are synonymous\nwith the genre, attaining the same celebrity status as their fictional creations,\nthe eponymous Sherlock Holmes and Hercule Poirot, respectively. In the\ncreation of such memorable characters, these two authors raised the bar for\nfuture crime fiction writers. So how can you, too, write gripping fiction that also\nwill stand the test of time? Here are some simple tips that will help you on your\nway and improve your chances of getting into print."
+          },
+          {
+            "label": null,
+            "text": "Tip 1 The fiction world is awash with different types of crime novels. Before\nyou put pen to paper, devour as many fiction novels as possible with varying\nstorylines. In this way you will learn how to create credible fictional characters\nand plots. Of course the make-or-break in any crime novel is the ending.\nSurprise revelations or an unexpected turn of events will delight readers. After\nall, even the experienced armchair detective likes to be kept guessing until the\nend."
+          },
+          {
+            "label": null,
+            "text": "Tip 2 We have established that a great cliffhanger of a novel is the key\ningredient to all crime novels. But how do we build up the suspense and throw\nthe reader off the scent of the real culprit? Well, the answer is to use as many\nred herrings and subplots as possible without becoming too involved. The\nsubplots and false clues should never obscure the main plot entirely;\notherwise, the reader will become lost in all the intricacies and minutiae of the\nsubplots."
+          },
+          {
+            "label": null,
+            "text": "Tip 3 It is important to establish your facts. If the setting of your novel is in the\npast, beware of including modern-day devices or inventions that did not exist\nat the time you are writing. Many Hollywood blockbusters have been spoiled by"
+          },
+          {
+            "label": null,
+            "text": "anachronisms; the wearing of a watch in 'Gladiator' set in the Roman era is one\nsuch example. The same holds true for the written word."
+          },
+          {
+            "label": null,
+            "text": "If, on the other hand, you are using a contemporary setting then ensure you\nare fully knowledgeable of modern hi-tech detection methods and forensic\ntechniques. Internet search engines such as Google will help you get your head\naround the most up-to-date procedures. Your research should include:"
+          },
+          {
+            "label": null,
+            "text": "- DNA analysis"
+          },
+          {
+            "label": null,
+            "text": "- Forensic anthropology and pathology"
+          },
+          {
+            "label": null,
+            "text": "- Forensic criminology, psychiatry and psychology"
+          },
+          {
+            "label": null,
+            "text": "- Fingerprinting"
+          },
+          {
+            "label": null,
+            "text": "- Interviewing techniques"
+          },
+          {
+            "label": null,
+            "text": "- Computer forensics"
+          },
+          {
+            "label": null,
+            "text": "Tip 4 Don't lose the plot! Keep a track of not just your leading but also minor\ncharacters and their actions. It is important to have good continuity\nthroughout. Whilst people may not be so rational or consistent in real life, your\nfictional creations need to have a certain level of consistency in their thoughts\nand actions, otherwise they may cease to maintain credibility with the reader.\nSketching out a general overview of the plot before writing will also help to\nmaintain structure to your novel."
+          },
+          {
+            "label": null,
+            "text": "Tip 5 Lacking Inspiration? They say truth is stranger than fiction so why not\nlook to real-life events to inspire you? A rummage through a few local and\nnational papers may uncover a potential storyline. After all, it worked for\ncelebrated crime author Jeffrey Archer, so why not you? It goes without saying\nthat a degree of fictional embellishment of real-life people is necessary to avoid\nbeing accused of libel and a sudden curtailing of an otherwise budding career."
+          },
+          {
+            "label": null,
+            "text": "Tip 6 Now you have written your best-selling novel all you need to do is find a\npublisher! Again, research on the internet will reveal a list of publishers most\nlikely to publish your literary genre. Should you fail to find a publisher, keep\ntrying. After all, some of the most celebrated authors were initially turned down\non their first attempt!"
+          },
+          {
+            "label": null,
+            "text": "Read the texts below and answer Questions 9-14."
+          },
+          {
+            "label": null,
+            "text": "A. Buttercup Cafe"
+          },
+          {
+            "label": null,
+            "text": "Enjoy the cosy atmosphere of this cafe and sample the good, 'no-frills' honest\nhome-cooked food. If, however, you are looking for a light snack, then sample\none of our delicious sandwiches filled with locally sourced, fresh ingredients."
+          },
+          {
+            "label": null,
+            "text": "The cafe is not licensed but there is a large selection of teas and soft drinks\navailable."
+          },
+          {
+            "label": null,
+            "text": "Cafe open: Mon-Fri 10am-5pm"
+          },
+          {
+            "label": null,
+            "text": "Weekends: Sat 11am-6pm Sundays closed"
+          },
+          {
+            "label": null,
+            "text": "B. Dolce Vita Restaurant"
+          },
+          {
+            "label": null,
+            "text": "Antonio and Lucia are the proud owners of this small, authentic Italian pizzeria\nwhich has been recently awarded Trip Advisor's 'Certificate of Excellence'.\nWhilst Antonio is essentially responsible for front-of-house duties, he has been\nknown to give a hand in the kitchen, turning out his own speciality pizza."
+          },
+          {
+            "label": null,
+            "text": "His wife usually stays behind the scenes turning out simply delicious dishes, the\nrecipes for which were handed down from her grandmother. For that Special\noccasion, tailor-made private parties and large dinner groups can be\naccommodated. A striking function room, ideal for an intimate gathering, is\nalso available."
+          },
+          {
+            "label": null,
+            "text": "Restricted weekday opening (please check our website for details). Open every\nweekend from 12am midnight. Website: www.dolceyita.com"
+          },
+          {
+            "label": null,
+            "text": "C. Chiquito Restaurant"
+          },
+          {
+            "label": null,
+            "text": "Presented with an extensive menu, you really are spoilt for choice at Chiquito's,\nif Mexican is your thing. The kitchen team offers a first-rate experience for all\ndiners, no matter what the occasion is. With a variety of meat dishes ranging\nfrom succulent chicken served over fajita vegetables to beef chilli burgers or a\nfull rack of lip-smacking ribs, whatever you choose, you can't go far wrong."
+          },
+          {
+            "label": null,
+            "text": "Opening hours:"
+          },
+          {
+            "label": null,
+            "text": "Weekdays 12pm-10pm"
+          },
+          {
+            "label": null,
+            "text": "Weekends 11am-1pm"
+          },
+          {
+            "label": null,
+            "text": "D. Gelato Gusto"
+          },
+          {
+            "label": null,
+            "text": "Extending over two storeys this cafe is bright, stylish and down-to-earth. The\nsheer variety of ice cream flavours available is impressive. Bespoke\nconcoctions also on offer. You can also buy takeaway tubs of ice cream to\nenjoy at your leisure."
+          },
+          {
+            "label": null,
+            "text": "E. Frankie and Benny's"
+          },
+          {
+            "label": null,
+            "text": "A great little restaurant with plenty of atmosphere. This is a family-run\nrestaurant where everyone in the family helps with the cooking in equal\nmeasure. All the delicious dishes have been created by the two head chefs,"
+          },
+          {
+            "label": null,
+            "text": "Dario and Alessandro and their highly trained team. Together they have\ncreated a menu of contemporary dishes which is quite regularly updated.\nDiners are encouraged to make use of the covered terrace for a spot of alfresco\ndining and people-watching."
+          }
+        ],
+        "text": "Read the text below and answer Questions 1-8.\n\nHow to become a successful crime writer\n\nBritish authors have always excelled in one genre in particular: that of crime\nfiction. Sir Arthur Conan Doyle and Agatha Christie for some are synonymous\nwith the genre, attaining the same celebrity status as their fictional creations,\nthe eponymous Sherlock Holmes and Hercule Poirot, respectively. In the\ncreation of such memorable characters, these two authors raised the bar for\nfuture crime fiction writers. So how can you, too, write gripping fiction that also\nwill stand the test of time? Here are some simple tips that will help you on your\nway and improve your chances of getting into print.\n\nTip 1 The fiction world is awash with different types of crime novels. Before\nyou put pen to paper, devour as many fiction novels as possible with varying\nstorylines. In this way you will learn how to create credible fictional characters\nand plots. Of course the make-or-break in any crime novel is the ending.\nSurprise revelations or an unexpected turn of events will delight readers. After\nall, even the experienced armchair detective likes to be kept guessing until the\nend.\n\nTip 2 We have established that a great cliffhanger of a novel is the key\ningredient to all crime novels. But how do we build up the suspense and throw\nthe reader off the scent of the real culprit? Well, the answer is to use as many\nred herrings and subplots as possible without becoming too involved. The\nsubplots and false clues should never obscure the main plot entirely;\notherwise, the reader will become lost in all the intricacies and minutiae of the\nsubplots.\n\nTip 3 It is important to establish your facts. If the setting of your novel is in the\npast, beware of including modern-day devices or inventions that did not exist\nat the time you are writing. Many Hollywood blockbusters have been spoiled by\n\nanachronisms; the wearing of a watch in 'Gladiator' set in the Roman era is one\nsuch example. The same holds true for the written word.\n\nIf, on the other hand, you are using a contemporary setting then ensure you\nare fully knowledgeable of modern hi-tech detection methods and forensic\ntechniques. Internet search engines such as Google will help you get your head\naround the most up-to-date procedures. Your research should include:\n\n- DNA analysis\n\n- Forensic anthropology and pathology\n\n- Forensic criminology, psychiatry and psychology\n\n- Fingerprinting\n\n- Interviewing techniques\n\n- Computer forensics\n\nTip 4 Don't lose the plot! Keep a track of not just your leading but also minor\ncharacters and their actions. It is important to have good continuity\nthroughout. Whilst people may not be so rational or consistent in real life, your\nfictional creations need to have a certain level of consistency in their thoughts\nand actions, otherwise they may cease to maintain credibility with the reader.\nSketching out a general overview of the plot before writing will also help to\nmaintain structure to your novel.\n\nTip 5 Lacking Inspiration? They say truth is stranger than fiction so why not\nlook to real-life events to inspire you? A rummage through a few local and\nnational papers may uncover a potential storyline. After all, it worked for\ncelebrated crime author Jeffrey Archer, so why not you? It goes without saying\nthat a degree of fictional embellishment of real-life people is necessary to avoid\nbeing accused of libel and a sudden curtailing of an otherwise budding career.\n\nTip 6 Now you have written your best-selling novel all you need to do is find a\npublisher! Again, research on the internet will reveal a list of publishers most\nlikely to publish your literary genre. Should you fail to find a publisher, keep\ntrying. After all, some of the most celebrated authors were initially turned down\non their first attempt!\n\nRead the texts below and answer Questions 9-14.\n\nA. Buttercup Cafe\n\nEnjoy the cosy atmosphere of this cafe and sample the good, 'no-frills' honest\nhome-cooked food. If, however, you are looking for a light snack, then sample\none of our delicious sandwiches filled with locally sourced, fresh ingredients.\n\nThe cafe is not licensed but there is a large selection of teas and soft drinks\navailable.\n\nCafe open: Mon-Fri 10am-5pm\n\nWeekends: Sat 11am-6pm Sundays closed\n\nB. Dolce Vita Restaurant\n\nAntonio and Lucia are the proud owners of this small, authentic Italian pizzeria\nwhich has been recently awarded Trip Advisor's 'Certificate of Excellence'.\nWhilst Antonio is essentially responsible for front-of-house duties, he has been\nknown to give a hand in the kitchen, turning out his own speciality pizza.\n\nHis wife usually stays behind the scenes turning out simply delicious dishes, the\nrecipes for which were handed down from her grandmother. For that Special\noccasion, tailor-made private parties and large dinner groups can be\naccommodated. A striking function room, ideal for an intimate gathering, is\nalso available.\n\nRestricted weekday opening (please check our website for details). Open every\nweekend from 12am midnight. Website: www.dolceyita.com\n\nC. Chiquito Restaurant\n\nPresented with an extensive menu, you really are spoilt for choice at Chiquito's,\nif Mexican is your thing. The kitchen team offers a first-rate experience for all\ndiners, no matter what the occasion is. With a variety of meat dishes ranging\nfrom succulent chicken served over fajita vegetables to beef chilli burgers or a\nfull rack of lip-smacking ribs, whatever you choose, you can't go far wrong.\n\nOpening hours:\n\nWeekdays 12pm-10pm\n\nWeekends 11am-1pm\n\nD. Gelato Gusto\n\nExtending over two storeys this cafe is bright, stylish and down-to-earth. The\nsheer variety of ice cream flavours available is impressive. Bespoke\nconcoctions also on offer. You can also buy takeaway tubs of ice cream to\nenjoy at your leisure.\n\nE. Frankie and Benny's\n\nA great little restaurant with plenty of atmosphere. This is a family-run\nrestaurant where everyone in the family helps with the cooking in equal\nmeasure. All the delicious dishes have been created by the two head chefs,\n\nDario and Alessandro and their highly trained team. Together they have\ncreated a menu of contemporary dishes which is quite regularly updated.\nDiners are encouraged to make use of the covered terrace for a spot of alfresco\ndining and people-watching.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? In boxes 1-8 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "Look at the five advertisements, A-E. Which venue offers the following? Write the correct letter, A-E. You may use any letter more than once.",
+          "body": null,
+          "range": [
+            9,
+            14
+          ],
+          "optionBank": {
+            "title": "Advertisements",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "So famous were the fictional characters of Conan Doyle and Christie’s crime novels that they eclipsed the fame of their authors.",
-          "instruction": "Read the text below and answer Questions 1-8. How to become a successful crime writer British authors have always excelled in one genre in particular: that of crime fiction. Sir Arthur Conan Doyle and Agatha Christie for some are synonymous with the genre, attaining the same celebrity status as their fictional creations, the eponymous Sherlock Holmes and Hercule Poirot, respectively. In the creation of such memorable characters, these two authors raised the bar for future crime fiction writers. So how can you, too, write gripping fiction that also will stand the test of time? Here are some simple tips that will help you on your way and improve your chances of getting into print. Tip 1 The fiction world is awash with different types of crime novels. Before you put pen to paper, devour as many fiction novels as possible with varying storylines. In this way you will learn how to create credible fictional characters and plots. Of course the make-or-break in any crime novel is the ending. Surprise revelations or an unexpected turn of events will delight readers. After all, even the experienced armchair detective likes to be kept guessing until the end. Tip 2 We have established that a great cliffhanger of a novel is the key ingredient to all crime novels. But how do we build up the suspense and throw the reader off the scent of the real culprit? Well, the answer is to use as many red herrings and subplots as possible without becoming too involved. The subplots and false clues should never obscure the main plot entirely; otherwise, the reader will become lost in all the intricacies and minutiae of the subplots. Tip 3 It is important to establish your facts. If the setting of your novel is in the past, beware of including modern-day devices or inventions that did not exist at the time you are writing. Many Hollywood blockbusters have been spoiled by Read the texts below and answer Questions 9-14. A. Buttercup Cafe Enjoy the cosy atmosphere of this cafe and sample the good, ‘no-frills’ honest home-cooked food. If, however, you are looking for a light snack, then sample one of our delicious sandwiches filled with locally sourced, fresh ingredients. full rack of lip-smacking ribs, whatever you choose, you can't go far wrong. Opening hours: Weekdays 12pm-10pm Weekends 11am-1pm D. Gelato Gusto Extending over two storeys this cafe is bright, stylish and down-to-earth. The sheer variety of ice cream flavours available is impressive. Bespoke concoctions also on offer. You can also buy takeaway tubs of ice cream to enjoy at your leisure. E. Frankie and Benny's A great little restaurant with plenty of atmosphere. This is a family-run restaurant where everyone in the family helps with the cooking in equal measure. All the delicious dishes have been created by the two head chefs, Do the following statements agree with the information given in the text? In boxes 1-8 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "So famous were the fictional characters of Conan Doyle",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
-          "prompt": "The novels of Conan Doyle and Christie are less accomplished than those of modern crime writers.",
-          "instruction": "Read the text below and answer Questions 1-8. How to become a successful crime writer British authors have always excelled in one genre in particular: that of crime fiction. Sir Arthur Conan Doyle and Agatha Christie for some are synonymous with the genre, attaining the same celebrity status as their fictional creations, the eponymous Sherlock Holmes and Hercule Poirot, respectively. In the creation of such memorable characters, these two authors raised the bar for future crime fiction writers. So how can you, too, write gripping fiction that also will stand the test of time? Here are some simple tips that will help you on your way and improve your chances of getting into print. Tip 1 The fiction world is awash with different types of crime novels. Before you put pen to paper, devour as many fiction novels as possible with varying storylines. In this way you will learn how to create credible fictional characters and plots. Of course the make-or-break in any crime novel is the ending. Surprise revelations or an unexpected turn of events will delight readers. After all, even the experienced armchair detective likes to be kept guessing until the end. Tip 2 We have established that a great cliffhanger of a novel is the key ingredient to all crime novels. But how do we build up the suspense and throw the reader off the scent of the real culprit? Well, the answer is to use as many red herrings and subplots as possible without becoming too involved. The subplots and false clues should never obscure the main plot entirely; otherwise, the reader will become lost in all the intricacies and minutiae of the subplots. Tip 3 It is important to establish your facts. If the setting of your novel is in the past, beware of including modern-day devices or inventions that did not exist at the time you are writing. Many Hollywood blockbusters have been spoiled by Read the texts below and answer Questions 9-14. A. Buttercup Cafe Enjoy the cosy atmosphere of this cafe and sample the good, ‘no-frills’ honest home-cooked food. If, however, you are looking for a light snack, then sample one of our delicious sandwiches filled with locally sourced, fresh ingredients. full rack of lip-smacking ribs, whatever you choose, you can't go far wrong. Opening hours: Weekdays 12pm-10pm Weekends 11am-1pm D. Gelato Gusto Extending over two storeys this cafe is bright, stylish and down-to-earth. The sheer variety of ice cream flavours available is impressive. Bespoke concoctions also on offer. You can also buy takeaway tubs of ice cream to enjoy at your leisure. E. Frankie and Benny's A great little restaurant with plenty of atmosphere. This is a family-run restaurant where everyone in the family helps with the cooking in equal measure. All the delicious dishes have been created by the two head chefs, Do the following statements agree with the information given in the text? In boxes 1-8 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "The novels of Conan Doyle and Christie are less",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "It is more challenging to portray fictional than real-life",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "To write about modern crime detection techniques,",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "Would-be crime authors should always write about their",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "Creating characters based on real-life people is a",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "First-time crime authors may be turned down by",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g1",
+          "prompt": "Seasoned crime novel readers like being able to guess",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "Only non-alcoholic drinks",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "Custom-made orders",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "An outside seating area",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "A room especially designated for small parties",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "A constantly changing menu",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "Simply cooked food",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
-        25,
-        21
+        15,
+        28
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 25-21."
+          },
+          {
+            "label": null,
+            "text": "The Art of Gift-Giving"
+          },
+          {
+            "label": null,
+            "text": "A. Anticipation builds, the wrapping paper is ripped off in happy expectation...\nAnd then, our enthusiasm takes a downturn as we extricate a jokey Christmas\npullover, a pair of woollen socks or a knitted tea cosy. Yes, we have all been\nthere. However, recent scientific research on how to give the ideal gift could be\nset to change all that."
+          },
+          {
+            "label": null,
+            "text": "B. Yale researcher Novemsky claims to have singled out the factor that deter\nmines if a gift will be well received or not. Perceived ease of use is apparently\nparamount in the eyes of the recipient. A non-user-friendly gift will therefore\nlead to disappointment, however expensive the actual gift might have been."
+          },
+          {
+            "label": null,
+            "text": "C. Another tip for successful gift-giving is to avoid giving unsolicited presents.\nWe often try to second-guess the would-be recipient's taste, believing our\npersonal effort will be appreciated. But this invariably results in disappointment\nfor the recipient of the gift. Far better is a gift that has actually been explicitly\nrequested by the recipient than one chosen by the giver, according to a study\nconducted by researchers Francis Flynn and Francesca Gina (Journal of\nExperimental and Social Psychology 2011). So, best to save fruitless hours\nspent trawling the internet for gifts or pounding the high streets in vain and\njust be direct: ask the recipient what they want, then give it to them; simple as\nthat!"
+          },
+          {
+            "label": null,
+            "text": "D. A further tip which flies in the face of conventional thinking with regard to\npresent giving is to err on the side of frugality. In accordance with a 2014 study\nby Flynn and Gabriella Adams, the receiver's happiness was not found to be\ndirectly proportional to the money spent on a gift. In the study, recipients were\ngiven cheaper and more expensive versions of a variety of items, ranging from\nan iPad to jewellery, wine and books. In all cases, the costlier gift was not"
+          },
+          {
+            "label": null,
+            "text": "valued more than the cheaper option. The thought, therefore, really does\ncount."
+          },
+          {
+            "label": null,
+            "text": "E. An interesting extension to this study is that this finding holds true for one of\nthe most expensive and status-conscious gifts: that of the engagement ring.\nWhilst diamonds may be a girl's best friend, as the saying goes, they do not\nnecessarily have to be top-of-the-range to win a girl's heart. Cheaper\nalternatives are just as valued as their costlier counterparts."
+          },
+          {
+            "label": null,
+            "text": "F. If you have successfully negotiated the minefield of present buying, then you\nstill aren't home and dry yet. Another hurdle has yet to be overcome: present-\nwrapping. Failure to appropriately wrap a present can undo all the effort you\nhave put into buying the gift so far. A perfectly wrapped present is always\nmore welcome than a hastily wrapped one, unless the gift is markedly less\nattractive than its outward wrapping, as found by Novemsky and Yale\ncolleague, Ravi Dhar, since this creates a dissonance between the anticipated\nand real worth of a gift."
+          },
+          {
+            "label": null,
+            "text": "G. Should all the above advice seem bewildering, then never fear. According to\nthe 2011 study by Flynn and Francesca Gina, gift recipients are more than\nhappy to receive cash in place of an actual gift."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-28."
+          },
+          {
+            "label": null,
+            "text": "A. Those who have not entertained the idea that research into family ancestry\nmight reveal a blue-blooded relative or historical celebrity must be few and far\nbetween. Most of us are intrigued with our origins and if genealogical research\nturns up a famous family member on the way, then so much the better."
+          },
+          {
+            "label": null,
+            "text": "B. Accordingly, there is a plethora of genealogy websites ready to be accessed\non the internet to satiate the curiosity of those so inclined. Just type in the\nname of one of your ancestors into a search engine and you will be\nimmediately inundated with genealogy sites. Whilst some sites may be free,\nothers will be on a pay-as-you-go or subscription basis. Often the sheer number\nof websites can initially overwhelm the would-be genealogist."
+          },
+          {
+            "label": null,
+            "text": "C. So by what criteria do you select a website to aid your research into your\nfamily tree? Whilst free websites may seem the most attractive option, they\nmay not adequately meet your needs. A feepaying website, however, might\nprovide access to a wider range of resources, such as birth and death\ncertificates, or at least indexes to the certificates, as well as census returns.\nSuch resources and access to them are fundamental to your research."
+          },
+          {
+            "label": null,
+            "text": "D. When you access certificates, try to ensure that they are a digitised form of\nthe original copy, since transcripts are usually poor substitutes for the original."
+          },
+          {
+            "label": null,
+            "text": "Whenever possible, opt for the copies of the original thereby obviating the\npossibility of human error in copied or miscopied transcripts."
+          },
+          {
+            "label": null,
+            "text": "E. Having obtained or accessed, at least, essential documents, you can then\nproceed to more specialised websites providing military or employment\ninformation. Before paying for access to such sites, first establish if the site\ncontains the records you are seeking. You shouldn't have to pay access to the\nsite to do so."
+          },
+          {
+            "label": null,
+            "text": "F. Ideally, find out if there is a contact name or address for whoever is\nresponsible for the site. A specialist on hand to answer more detailed queries is\nalways a bonus."
+          },
+          {
+            "label": null,
+            "text": "G. Finally, if websites fail to uncover the information you are seeking, you can\nalways try good old-fashioned archives. Not all information is available on\nwebsites, so, sooner or later you will probably find yourself doing research in an\narchive anyway. Hopefully, a combination of websites and archives will deliver\nthe information you require and uncover a fascinating heritage to boot."
+          }
+        ],
+        "text": "Read the text below and answer Questions 25-21.\n\nThe Art of Gift-Giving\n\nA. Anticipation builds, the wrapping paper is ripped off in happy expectation...\nAnd then, our enthusiasm takes a downturn as we extricate a jokey Christmas\npullover, a pair of woollen socks or a knitted tea cosy. Yes, we have all been\nthere. However, recent scientific research on how to give the ideal gift could be\nset to change all that.\n\nB. Yale researcher Novemsky claims to have singled out the factor that deter\nmines if a gift will be well received or not. Perceived ease of use is apparently\nparamount in the eyes of the recipient. A non-user-friendly gift will therefore\nlead to disappointment, however expensive the actual gift might have been.\n\nC. Another tip for successful gift-giving is to avoid giving unsolicited presents.\nWe often try to second-guess the would-be recipient's taste, believing our\npersonal effort will be appreciated. But this invariably results in disappointment\nfor the recipient of the gift. Far better is a gift that has actually been explicitly\nrequested by the recipient than one chosen by the giver, according to a study\nconducted by researchers Francis Flynn and Francesca Gina (Journal of\nExperimental and Social Psychology 2011). So, best to save fruitless hours\nspent trawling the internet for gifts or pounding the high streets in vain and\njust be direct: ask the recipient what they want, then give it to them; simple as\nthat!\n\nD. A further tip which flies in the face of conventional thinking with regard to\npresent giving is to err on the side of frugality. In accordance with a 2014 study\nby Flynn and Gabriella Adams, the receiver's happiness was not found to be\ndirectly proportional to the money spent on a gift. In the study, recipients were\ngiven cheaper and more expensive versions of a variety of items, ranging from\nan iPad to jewellery, wine and books. In all cases, the costlier gift was not\n\nvalued more than the cheaper option. The thought, therefore, really does\ncount.\n\nE. An interesting extension to this study is that this finding holds true for one of\nthe most expensive and status-conscious gifts: that of the engagement ring.\nWhilst diamonds may be a girl's best friend, as the saying goes, they do not\nnecessarily have to be top-of-the-range to win a girl's heart. Cheaper\nalternatives are just as valued as their costlier counterparts.\n\nF. If you have successfully negotiated the minefield of present buying, then you\nstill aren't home and dry yet. Another hurdle has yet to be overcome: present-\nwrapping. Failure to appropriately wrap a present can undo all the effort you\nhave put into buying the gift so far. A perfectly wrapped present is always\nmore welcome than a hastily wrapped one, unless the gift is markedly less\nattractive than its outward wrapping, as found by Novemsky and Yale\ncolleague, Ravi Dhar, since this creates a dissonance between the anticipated\nand real worth of a gift.\n\nG. Should all the above advice seem bewildering, then never fear. According to\nthe 2011 study by Flynn and Francesca Gina, gift recipients are more than\nhappy to receive cash in place of an actual gift.\n\nRead the text below and answer Questions 22-28.\n\nA. Those who have not entertained the idea that research into family ancestry\nmight reveal a blue-blooded relative or historical celebrity must be few and far\nbetween. Most of us are intrigued with our origins and if genealogical research\nturns up a famous family member on the way, then so much the better.\n\nB. Accordingly, there is a plethora of genealogy websites ready to be accessed\non the internet to satiate the curiosity of those so inclined. Just type in the\nname of one of your ancestors into a search engine and you will be\nimmediately inundated with genealogy sites. Whilst some sites may be free,\nothers will be on a pay-as-you-go or subscription basis. Often the sheer number\nof websites can initially overwhelm the would-be genealogist.\n\nC. So by what criteria do you select a website to aid your research into your\nfamily tree? Whilst free websites may seem the most attractive option, they\nmay not adequately meet your needs. A feepaying website, however, might\nprovide access to a wider range of resources, such as birth and death\ncertificates, or at least indexes to the certificates, as well as census returns.\nSuch resources and access to them are fundamental to your research.\n\nD. When you access certificates, try to ensure that they are a digitised form of\nthe original copy, since transcripts are usually poor substitutes for the original.\n\nWhenever possible, opt for the copies of the original thereby obviating the\npossibility of human error in copied or miscopied transcripts.\n\nE. Having obtained or accessed, at least, essential documents, you can then\nproceed to more specialised websites providing military or employment\ninformation. Before paying for access to such sites, first establish if the site\ncontains the records you are seeking. You shouldn't have to pay access to the\nsite to do so.\n\nF. Ideally, find out if there is a contact name or address for whoever is\nresponsible for the site. A specialist on hand to answer more detailed queries is\nalways a bonus.\n\nG. Finally, if websites fail to uncover the information you are seeking, you can\nalways try good old-fashioned archives. Not all information is available on\nwebsites, so, sooner or later you will probably find yourself doing research in an\narchive anyway. Hopefully, a combination of websites and archives will deliver\nthe information you require and uncover a fascinating heritage to boot.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "The text on the next page has seven sections, A-G.",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Money can buy happiness",
+              "It's what is inside that counts more",
+              "Recipients of gifts are rarely grateful",
+              "A familiar feeling",
+              "Practicality is the key",
+              "It is better to give than to receive",
+              "Romance need not come at a price",
+              "Recipients value inexpensive gifts and pricey gadgets alike",
+              "Don't waste time and energy"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 22-23 on your answer sheet. There is such a wealth of genealogy sites available online that at times",
+          "body": "you may feel [[22]] with information. It is preferable to [[23]] in their original form rather than transcribed one.",
+          "range": [
+            22,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 24-28 on your answer sheet. Many people are curious to find out about their family tree. Follow these steps to ensure you access the information you require.",
+          "body": "First, enter the name of a family ancestor into [[24]] . Next, choose a website that will [[25]] by providing sufficient information on your family tree. When accessing a document from your chosen website, avoid [[26]] whenever possible, favouring instead the original version. Once you have done the essential groundwork to obtain necessary documents to continue your search, you require access to more [[27]] . This may require a financial outlay. Finally, if your research still fails to turn up the information you require, then it is best to resort to [[28]] as a back-up.",
+          "range": [
+            24,
+            28
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "inundated",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "access certificates",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "a search engine",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "meet your needs",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "transcripts",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": ". This may require a financial outlay.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "specialised websites",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(good old-fashioned) archives",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         29,
-        35
+        40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 29-35."
+          },
+          {
+            "label": null,
+            "text": "How a Humble Vegetable Changed the\nWorld"
+          },
+          {
+            "label": null,
+            "text": "A. A fashionable adornment, aphrodisiac or cause of fever, leprosy and\nwidespread famine? The perceived attributes of a humble tuber, otherwise\nknown as the potato, have certainly varied over historical eras and with shifts\nin belief systems. Accordingly, attitudes towards the potato have ranged from\ncuriosity and acceptance to fear and suspicion and even downright hostility, as\nthe British population took to the streets in the 18th century to denounce the\ntuber in public protests, rallying under the cry 'No Potatoes, No Popery!'"
+          },
+          {
+            "label": null,
+            "text": "B. So, why did a humble tuber excite so much suspicion and mistrust? One has\nbut to look to the roots - if you will pardon the pun - of the controversial crop to\nunderstand how the potato managed to initially incite such distrust in many,\ndespite saving millions from starvation in later centuries."
+          },
+          {
+            "label": null,
+            "text": "C. The potato, together with the eggplant (aubergine) and tomato, originates\nfrom the same family as the deadly belladonna (also known as deadly\nnightshade) and equally toxic, henbane. Common to all these plants is the\npresence of the lethal toxin solanine, a neurological poison. Ingestion of the\ntoxin may lead to paralysis and death. In addition, the presence of another\ntoxin, tomatine, in potatoes is similarly potentially deadly. One might be\nforgiven in thinking, therefore, that the potato is not an attractive item to have\non the menu. Add to this the belief that the tuber was thought to be a source of\nleprosy too, then it is little wonder that the potato took time to win acceptance\nin European circles after its introduction in the 16th century."
+          },
+          {
+            "label": null,
+            "text": "D. Obviously, the potatoes we eat today bear little resemblance to the toxin-\nladen wild potatoes of Peru from where they originate. There, the potatoes in"
+          },
+          {
+            "label": null,
+            "text": "their natural form are so toxic that they can only be ingested if accompanied\nby clay particles. As far back as the 16th century, Peruvian Indians were\nutilising such knowledge, dipping the bitter potatoes in a gravy mix of water\nand clay particles. The latter served to absorb excess solanine thereby\nrendering the potato edible. Nowadays, centuries of crossbreeding between\nspecies have greatly diluted the toxin and its lethal potential."
+          },
+          {
+            "label": null,
+            "text": "E. Today, the potato is hailed as a saviour. A French pharmacist named\nParmentier is to be largely credited with the about-face in attitude towards the\npotato as a food source in the 17th century. Prior to this period, public\nrepugnance towards the vegetable as much as reluctance to use it other than\nas cattle fodder prevented its appearance on the dining table. A prior ill-fated\nintroduction of the tuber by Sir Walter Raleigh to the court of Elizabeth I had\ndone the tuber no favours: the decision of the queen's cook to serve up the\nplant's indigestible leaves as opposed to the edible tubers had resulted in\nuniversal indigestion amongst court members on this occasion. Parmentier,\nhowever, turned public opinion regarding the tuber by encouraging its addition\nto the menus of Louis XVI's court. So successful was his personal campaign for\nthe potato's introduction that the queen, Marie Antoinette, enthusiastically\nadorned her hair with potato flowers, sparking off a fashionable trend amongst\ncourt circles."
+          },
+          {
+            "label": null,
+            "text": "F. Parmentier's intervention on behalf of the humble potato was timely and\nwithout doubt ultimately saved millions from starvation. Public acceptance of\nthe potato, however, initially lagged significantly behind that of court circles. In\nfact, it took an edict from the Paris Faculty of Medicine in 1772, verifying that\npotatoes were edible, in addition to the famine of 1785 to bring the public\naround. Thereafter, the potato became a staple in the diet of the rich and the\npoor alike."
+          },
+          {
+            "label": null,
+            "text": "G. So significant a role is the potato thought to have played in world history,\nwith regard to staving off famine and aiding population increase, that historian\nW.H. McNeill has attributed the building of empires to the humble tuber. The\npotato, he argues, fuelled the rise of the West between 1750 and 1950 as\nEuropean nations became no longer beholden to famine and were able to take\ndominion over other countries."
+          },
+          {
+            "label": null,
+            "text": "H. The rise of the potato from maligned tuber to worldwide food source,\nbecoming the fifth most important crop globally after wheat, corn, rice and\nsugar cane, also had its downside. The over-dependence of European countries\non the potato, arising in a virtual monoculture, led to the Irish Famine and\nmass emigration when crops failed in 1845. Subsequently, increased\nknowledge of pesticides and more stringent controls over crop production have"
+          },
+          {
+            "label": null,
+            "text": "largely warded off the significant crop failures that were so devastating in the\npast."
+          }
+        ],
+        "text": "Read the text below and answer Questions 29-35.\n\nHow a Humble Vegetable Changed the\nWorld\n\nA. A fashionable adornment, aphrodisiac or cause of fever, leprosy and\nwidespread famine? The perceived attributes of a humble tuber, otherwise\nknown as the potato, have certainly varied over historical eras and with shifts\nin belief systems. Accordingly, attitudes towards the potato have ranged from\ncuriosity and acceptance to fear and suspicion and even downright hostility, as\nthe British population took to the streets in the 18th century to denounce the\ntuber in public protests, rallying under the cry 'No Potatoes, No Popery!'\n\nB. So, why did a humble tuber excite so much suspicion and mistrust? One has\nbut to look to the roots - if you will pardon the pun - of the controversial crop to\nunderstand how the potato managed to initially incite such distrust in many,\ndespite saving millions from starvation in later centuries.\n\nC. The potato, together with the eggplant (aubergine) and tomato, originates\nfrom the same family as the deadly belladonna (also known as deadly\nnightshade) and equally toxic, henbane. Common to all these plants is the\npresence of the lethal toxin solanine, a neurological poison. Ingestion of the\ntoxin may lead to paralysis and death. In addition, the presence of another\ntoxin, tomatine, in potatoes is similarly potentially deadly. One might be\nforgiven in thinking, therefore, that the potato is not an attractive item to have\non the menu. Add to this the belief that the tuber was thought to be a source of\nleprosy too, then it is little wonder that the potato took time to win acceptance\nin European circles after its introduction in the 16th century.\n\nD. Obviously, the potatoes we eat today bear little resemblance to the toxin-\nladen wild potatoes of Peru from where they originate. There, the potatoes in\n\ntheir natural form are so toxic that they can only be ingested if accompanied\nby clay particles. As far back as the 16th century, Peruvian Indians were\nutilising such knowledge, dipping the bitter potatoes in a gravy mix of water\nand clay particles. The latter served to absorb excess solanine thereby\nrendering the potato edible. Nowadays, centuries of crossbreeding between\nspecies have greatly diluted the toxin and its lethal potential.\n\nE. Today, the potato is hailed as a saviour. A French pharmacist named\nParmentier is to be largely credited with the about-face in attitude towards the\npotato as a food source in the 17th century. Prior to this period, public\nrepugnance towards the vegetable as much as reluctance to use it other than\nas cattle fodder prevented its appearance on the dining table. A prior ill-fated\nintroduction of the tuber by Sir Walter Raleigh to the court of Elizabeth I had\ndone the tuber no favours: the decision of the queen's cook to serve up the\nplant's indigestible leaves as opposed to the edible tubers had resulted in\nuniversal indigestion amongst court members on this occasion. Parmentier,\nhowever, turned public opinion regarding the tuber by encouraging its addition\nto the menus of Louis XVI's court. So successful was his personal campaign for\nthe potato's introduction that the queen, Marie Antoinette, enthusiastically\nadorned her hair with potato flowers, sparking off a fashionable trend amongst\ncourt circles.\n\nF. Parmentier's intervention on behalf of the humble potato was timely and\nwithout doubt ultimately saved millions from starvation. Public acceptance of\nthe potato, however, initially lagged significantly behind that of court circles. In\nfact, it took an edict from the Paris Faculty of Medicine in 1772, verifying that\npotatoes were edible, in addition to the famine of 1785 to bring the public\naround. Thereafter, the potato became a staple in the diet of the rich and the\npoor alike.\n\nG. So significant a role is the potato thought to have played in world history,\nwith regard to staving off famine and aiding population increase, that historian\nW.H. McNeill has attributed the building of empires to the humble tuber. The\npotato, he argues, fuelled the rise of the West between 1750 and 1950 as\nEuropean nations became no longer beholden to famine and were able to take\ndominion over other countries.\n\nH. The rise of the potato from maligned tuber to worldwide food source,\nbecoming the fifth most important crop globally after wheat, corn, rice and\nsugar cane, also had its downside. The over-dependence of European countries\non the potato, arising in a virtual monoculture, led to the Irish Famine and\nmass emigration when crops failed in 1845. Subsequently, increased\nknowledge of pesticides and more stringent controls over crop production have\n\nlargely warded off the significant crop failures that were so devastating in the\npast.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 29-35 on your answer sheet",
+          "body": null,
+          "range": [
+            29,
+            35
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 36-40 on your answer sheet. The potato polarised public opinion from the outset. Whilst the potato won",
+          "body": "[[36]] with some, others reacted with extreme actions of prejudice. Unwillingness to accept the potato was perfectly understandable. Coming from the same family as its deadlier counterparts, belladonna and henbane, the potato was believed to be poisonous and certainly not [[37]] .Those who did eat potatoes in the wild state had to neutralise the main [[38]] resent in the tuber by the addition of clay particles. Various attempts over the centuries were made by historical figures and authorities alike to try and encourage the public to eat potatoes. Only later did the potato become a [[39]] European foodstuff. So important was the potato as a source of calories and nutrients to the Europeans that it is said to have sustained European populations to such an extent that they were able to build global empires. Unfortunately, [[40]] on just one crop proved Ireland's undoing. Many died after the Irish Famine whilst others were forced to migrate en masse in order to survive.",
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "deadly relations",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "the potato as a catalyst for\nchange",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "the authorities intervene",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "pioneers meet with varied\nsuccess",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "prejudices incite public action",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "unsound agricultural practice\nbrings about a demographic shift",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "historical and modern solutions\nto a common problem",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "with some, others reacted with extreme actions of prejudice.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "acceptance",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "edible",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "toxin",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "staple",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "over-dependence",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

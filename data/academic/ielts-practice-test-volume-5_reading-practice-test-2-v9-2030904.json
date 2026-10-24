@@ -1,215 +1,1116 @@
 {
   "id": "ielts-practice-test-volume-5_reading-practice-test-2-v9-2030904",
   "type": "academic",
-  "source": "ielts-practice-test-volume-5 reading-practice-test-2-v9-2030904",
+  "title": "IELTS Practice Test Volume 5 - Reading Test 2",
+  "collection": "IELTS Practice Test Volume 5",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 5,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-test-volume-5_reading-practice-test-2-v9-2030904.pdf",
-  "total_questions": 7,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Climate Change: Instant Expert",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1.\nClimate Change: Instant Expert\nA. Climate change is with us. A decade ago, it was conjecture. Now the future\nis unfolding before our eyes. Canada's Inuit see it in disappearing Arctic ice\nand permafrost. The shantytown dwellers of Latin America and Southern Asia\nsee it in lethal storms and ﬂoods. Europeans see it in disappearing glaciers,\nforest ﬁres and fatal heat waves. Scientists see it in tree rings, ancient coral\nand bubbles trapped in ice cores. These reveal that the world has not been as\nwarm as it is now for a millennium or more. The three warmest years on record\nhave all occurred since 1998; 19 of the warmest 20 since 1980. And Earth has\nprobably never warmed as fast as in the past 30 years--a period when natural\ninﬂuences on global temperatures, such as solar cycles and volcanoes should\nhave cooled us down.\nB. Climatologists reporting for the UN Intergovernmental Panel on Climate\nChange (IPCC) say we are seeing global warming caused by human activities.\nPeople are causing the change by burning nature's vast stores of coal, oil and\nnatural gas. This releases billions of tonnes of carbon dioxide (CO ) every year,\nalthough the changes may actually have started with the dawn of agriculture,\nsay some scientists. The physics of the \"greenhouse eﬀect\" has been a matter\nof scientiﬁc fact for a century. CO  is a greenhouse gas that traps the Sun's\nradiation within the troposphere, the lower atmosphere. It has accumulated\nalong with other manmade greenhouse gases, such as methane and\nchloroﬂuorocarbons (CFCs). Some studies suggest that cosmic rays may also\nbe involved in warming.\n2\n2\n\nC. If current trends continue, we will raise atmospheric CO concentrations to\ndouble pre-industrial levels during this century. That will probably be enough to\nraise global temperatures by around 2℃ to 5℃. Some warming is certain, but\nthe degree will be determined by cycles involving melting ice, the oceans,\nwater vapour, clouds and changes to vegetation. Warming is bringing other\nunpredictable changes. Melting glaciers and precipitation are causing some\nrivers to overﬂow, while evaporation is emptying others. Diseases are\nspreading. Some crops grow faster while others see yields slashed by disease\nand drought. Clashes over dwindling water resources may cause conﬂicts in\nmany regions.\nD. As natural ecosystems - such as coral reefs - are disrupted, biodiversity is\nreduced. Most species cannot migrate fast enough to keep up, though others\nare already evolving in response to warming. Thermal expansion of the oceans,\ncombined with melting ice on land, is also raising sea levels. In this century,\nhuman activity could trigger an irreversible melting of the Greenland ice sheet.\nThis would condemn the world to a rise in sea level of six metres - enough to\nflood land occupied by billions of people.\nE. The global warming would be more pronounced if it were not for sulphur\nparticles and other pollutants that shade us, and because forests and oceans\nabsorb around half of the CO  we produce. But the accumulation rate of\natmospheric CO  has doubled since 2001, suggesting that nature's ability to\nabsorb the gas could now be stretched to the limit. Recent research suggests\nthat natural CO  \"sinks\", like peat bogs and forests, are actually starting to\nrelease CO .\nF. At the Earth Summit in 1992, the world agreed to prevent \"dangerous\"\nclimate change. The ﬁrst step was the 1997 Kyoto Protocol, which came into\nforce during 2005. It will bring modest emission reductions from industrialised\ncountries. Many observers say deeper cuts are needed and developing nations,\nwhich have large and growing populations, will one day have to join in. Some,\nincluding the US Bush administration, say the scientiﬁc uncertainty over the\npace of climate change is grounds for delaying action. The US and Australia\nhave reneged on Kyoto. Most scientists believe we are under-estimating the\ndangers.\nG. In any case, according to the IPCC, the world needs to quickly improve the\neﬃciency of its energy usage and develop renewable non-carbon fuels like:\nwind, solar, tidal, wave and perhaps nuclear power. It also means developing\nnew methods of converting this clean energy into motive power, like hydrogen\nfuel cells for cars. Other less conventional solutions include ideas to stave oﬀ\n2\n2\n2\n2\n2",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Climate change is with us. A decade ago, it was conjecture. Now the future"
+            "label": null,
+            "text": "Climate Change: Instant Expert"
           },
           {
-            "label": "B",
-            "content": "Climatologists reporting for the UN Intergovernmental Panel on Climate"
+            "label": null,
+            "text": "A. Climate change is with us. A decade ago, it was conjecture. Now the future\nis unfolding before our eyes. Canada's Inuit see it in disappearing Arctic ice\nand permafrost. The shantytown dwellers of Latin America and Southern Asia\nsee it in lethal storms and ﬂoods. Europeans see it in disappearing glaciers,\nforest ﬁres and fatal heat waves. Scientists see it in tree rings, ancient coral\nand bubbles trapped in ice cores. These reveal that the world has not been as\nwarm as it is now for a millennium or more. The three warmest years on record\nhave all occurred since 1998; 19 of the warmest 20 since 1980. And Earth has\nprobably never warmed as fast as in the past 30 years--a period when natural\ninﬂuences on global temperatures, such as solar cycles and volcanoes should\nhave cooled us down."
           },
           {
-            "label": "C",
-            "content": "If current trends continue, we will raise atmospheric CO concentrations to"
+            "label": null,
+            "text": "B. Climatologists reporting for the UN Intergovernmental Panel on Climate\nChange (IPCC) say we are seeing global warming caused by human activities.\nPeople are causing the change by burning nature's vast stores of coal, oil and\nnatural gas. This releases billions of tonnes of carbon dioxide (CO ) every year,\nalthough the changes may actually have started with the dawn of agriculture,\nsay some scientists. The physics of the \"greenhouse eﬀect\" has been a matter\nof scientiﬁc fact for a century. CO  is a greenhouse gas that traps the Sun's\nradiation within the troposphere, the lower atmosphere. It has accumulated\nalong with other manmade greenhouse gases, such as methane and\nchloroﬂuorocarbons (CFCs). Some studies suggest that cosmic rays may also\nbe involved in warming."
           },
           {
-            "label": "D",
-            "content": "As natural ecosystems - such as coral reefs - are disrupted, biodiversity is"
+            "label": null,
+            "text": "2"
           },
           {
-            "label": "E",
-            "content": "The global warming would be more pronounced if it were not for sulphur"
+            "label": null,
+            "text": "2"
           },
           {
-            "label": "F",
-            "content": "At the Earth Summit in 1992, the world agreed to prevent \"dangerous\""
+            "label": null,
+            "text": "C. If current trends continue, we will raise atmospheric CO concentrations to\ndouble pre-industrial levels during this century. That will probably be enough to\nraise global temperatures by around 2℃ to 5℃. Some warming is certain, but\nthe degree will be determined by cycles involving melting ice, the oceans,\nwater vapour, clouds and changes to vegetation. Warming is bringing other\nunpredictable changes. Melting glaciers and precipitation are causing some\nrivers to overﬂow, while evaporation is emptying others. Diseases are\nspreading. Some crops grow faster while others see yields slashed by disease\nand drought. Clashes over dwindling water resources may cause conﬂicts in\nmany regions."
           },
           {
-            "label": "G",
-            "content": "In any case, according to the IPCC, the world needs to quickly improve the"
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "D. As natural ecosystems - such as coral reefs - are disrupted, biodiversity is\nreduced. Most species cannot migrate fast enough to keep up, though others\nare already evolving in response to warming. Thermal expansion of the oceans,\ncombined with melting ice on land, is also raising sea levels. In this century,\nhuman activity could trigger an irreversible melting of the Greenland ice sheet.\nThis would condemn the world to a rise in sea level of six metres - enough to\nflood land occupied by billions of people."
+          },
+          {
+            "label": null,
+            "text": "E. The global warming would be more pronounced if it were not for sulphur\nparticles and other pollutants that shade us, and because forests and oceans\nabsorb around half of the CO  we produce. But the accumulation rate of\natmospheric CO  has doubled since 2001, suggesting that nature's ability to\nabsorb the gas could now be stretched to the limit. Recent research suggests\nthat natural CO  \"sinks\", like peat bogs and forests, are actually starting to\nrelease CO ."
+          },
+          {
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "2"
+          },
+          {
+            "label": null,
+            "text": "F. At the Earth Summit in 1992, the world agreed to prevent \"dangerous\"\nclimate change. The ﬁrst step was the 1997 Kyoto Protocol, which came into\nforce during 2005. It will bring modest emission reductions from industrialised\ncountries. Many observers say deeper cuts are needed and developing nations,\nwhich have large and growing populations, will one day have to join in. Some,\nincluding the US Bush administration, say the scientiﬁc uncertainty over the\npace of climate change is grounds for delaying action. The US and Australia\nhave reneged on Kyoto. Most scientists believe we are under-estimating the\ndangers."
+          },
+          {
+            "label": null,
+            "text": "G. In any case, according to the IPCC, the world needs to quickly improve the\neﬃciency of its energy usage and develop renewable non-carbon fuels like:\nwind, solar, tidal, wave and perhaps nuclear power. It also means developing\nnew methods of converting this clean energy into motive power, like hydrogen\nfuel cells for cars. Other less conventional solutions include ideas to stave oﬀ"
+          },
+          {
+            "label": null,
+            "text": "warming by \"mega-engineering\" the planet with giant mirrors to deﬂect the\nSun's rays, seeding the oceans with iron to generate algal blooms, or burying\ngreenhouse gases below the sea. The bottom line is that we will need to cut\nCO  emissions by 70% to 80% simply to stabilise atmospheric CO\nconcentrations--and thus temperatures. The quicker we do that, the less\nunbearably hot our future world will be."
+          },
+          {
+            "label": null,
+            "text": "2\n2"
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "warming by \"mega-engineering\" the planet with giant mirrors to deﬂect the",
-      "questionRange": [
-        1,
-        4
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "warming by \"mega-engineering\" the planet with giant mirrors to deﬂect the\nSun's rays, seeding the oceans with iron to generate algal blooms, or burying\ngreenhouse gases below the sea. The bottom line is that we will need to cut\nCO  emissions by 70% to 80% simply to stabilise atmospheric CO\nconcentrations--and thus temperatures. The quicker we do that, the less\nunbearably hot our future world will be.\n2\n2\nQuestions 1-4\nQuestions 5-8\nQuestions 9-13\nThe text has 7 paragraphs (A-G).\nWhich paragraph contains each of the following pieces of information?\n1\n  The effects of global warming on animals.\n2\n  The ways in which ordinary people can see the global\nclimate is changing.\n3\n  The science behind global warming.\n4\n  Possible solutions to global warming.\nComplete the following sentences using NO MORE THAN THREE\nWORDS from the text.\nWars could be fought over reduced 5\n  .\nCertain pollutants actually protect us from 6\n .\n7\n countries were not required to make cuts in emissions under\nthe Kyoto Protocol.\nAlgal blooms feed on 8\n .\nDo the following statements agree with the information given in Reading\nPassage 1?\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n\n9\n  Volcanoes can influence the global climate.\n10\n  Billions of people live near the sea.\n11\n  Peat bogs never release CO .\n12\n  Improving energy efficiency can be done quickly.\n13\n  Burying greenhouse gases under the sea is not\npossible.\n2",
-        "tables": [],
+        ],
+        "text": "Climate Change: Instant Expert\n\nA. Climate change is with us. A decade ago, it was conjecture. Now the future\nis unfolding before our eyes. Canada's Inuit see it in disappearing Arctic ice\nand permafrost. The shantytown dwellers of Latin America and Southern Asia\nsee it in lethal storms and ﬂoods. Europeans see it in disappearing glaciers,\nforest ﬁres and fatal heat waves. Scientists see it in tree rings, ancient coral\nand bubbles trapped in ice cores. These reveal that the world has not been as\nwarm as it is now for a millennium or more. The three warmest years on record\nhave all occurred since 1998; 19 of the warmest 20 since 1980. And Earth has\nprobably never warmed as fast as in the past 30 years--a period when natural\ninﬂuences on global temperatures, such as solar cycles and volcanoes should\nhave cooled us down.\n\nB. Climatologists reporting for the UN Intergovernmental Panel on Climate\nChange (IPCC) say we are seeing global warming caused by human activities.\nPeople are causing the change by burning nature's vast stores of coal, oil and\nnatural gas. This releases billions of tonnes of carbon dioxide (CO ) every year,\nalthough the changes may actually have started with the dawn of agriculture,\nsay some scientists. The physics of the \"greenhouse eﬀect\" has been a matter\nof scientiﬁc fact for a century. CO  is a greenhouse gas that traps the Sun's\nradiation within the troposphere, the lower atmosphere. It has accumulated\nalong with other manmade greenhouse gases, such as methane and\nchloroﬂuorocarbons (CFCs). Some studies suggest that cosmic rays may also\nbe involved in warming.\n\n2\n\n2\n\nC. If current trends continue, we will raise atmospheric CO concentrations to\ndouble pre-industrial levels during this century. That will probably be enough to\nraise global temperatures by around 2℃ to 5℃. Some warming is certain, but\nthe degree will be determined by cycles involving melting ice, the oceans,\nwater vapour, clouds and changes to vegetation. Warming is bringing other\nunpredictable changes. Melting glaciers and precipitation are causing some\nrivers to overﬂow, while evaporation is emptying others. Diseases are\nspreading. Some crops grow faster while others see yields slashed by disease\nand drought. Clashes over dwindling water resources may cause conﬂicts in\nmany regions.\n\n2\n\nD. As natural ecosystems - such as coral reefs - are disrupted, biodiversity is\nreduced. Most species cannot migrate fast enough to keep up, though others\nare already evolving in response to warming. Thermal expansion of the oceans,\ncombined with melting ice on land, is also raising sea levels. In this century,\nhuman activity could trigger an irreversible melting of the Greenland ice sheet.\nThis would condemn the world to a rise in sea level of six metres - enough to\nflood land occupied by billions of people.\n\nE. The global warming would be more pronounced if it were not for sulphur\nparticles and other pollutants that shade us, and because forests and oceans\nabsorb around half of the CO  we produce. But the accumulation rate of\natmospheric CO  has doubled since 2001, suggesting that nature's ability to\nabsorb the gas could now be stretched to the limit. Recent research suggests\nthat natural CO  \"sinks\", like peat bogs and forests, are actually starting to\nrelease CO .\n\n2\n\n2\n\n2\n\n2\n\nF. At the Earth Summit in 1992, the world agreed to prevent \"dangerous\"\nclimate change. The ﬁrst step was the 1997 Kyoto Protocol, which came into\nforce during 2005. It will bring modest emission reductions from industrialised\ncountries. Many observers say deeper cuts are needed and developing nations,\nwhich have large and growing populations, will one day have to join in. Some,\nincluding the US Bush administration, say the scientiﬁc uncertainty over the\npace of climate change is grounds for delaying action. The US and Australia\nhave reneged on Kyoto. Most scientists believe we are under-estimating the\ndangers.\n\nG. In any case, according to the IPCC, the world needs to quickly improve the\neﬃciency of its energy usage and develop renewable non-carbon fuels like:\nwind, solar, tidal, wave and perhaps nuclear power. It also means developing\nnew methods of converting this clean energy into motive power, like hydrogen\nfuel cells for cars. Other less conventional solutions include ideas to stave oﬀ\n\nwarming by \"mega-engineering\" the planet with giant mirrors to deﬂect the\nSun's rays, seeding the oceans with iron to generate algal blooms, or burying\ngreenhouse gases below the sea. The bottom line is that we will need to cut\nCO  emissions by 70% to 80% simply to stabilise atmospheric CO\nconcentrations--and thus temperatures. The quicker we do that, the less\nunbearably hot our future world will be.\n\n2\n2",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 7 paragraphs (A-G). Which paragraph contains each of the following pieces of information?",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text.",
+          "body": "Wars could be fought over reduced [[5]] . Certain pollutants actually protect us from [[6]] . [[7]] countries were not required to make cuts in emissions under the Kyoto Protocol. Algal blooms feed on [[8]] .",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The effects of global warming on animals.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The ways in which ordinary people can see the global",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The science behind global warming.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Possible solutions to global warming.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "water resources",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "global warming",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "countries were not required to make cuts in emissions under",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "developing",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "iron",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Volcanoes can influence the global climate.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Billions of people live near the sea.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Peat bogs never release CO .",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Improving energy efficiency can be done quickly.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Burying greenhouse gases under the sea is not\npossible.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Britain's canals - the solution to",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2.\nBritain's canals - the solution to\novercrowded roads?\nA. It's hard to imagine that only a decade or so ago many of the nation's canals\nwere little more than the last resting place for abandoned shopping trolleys.\nThere's still work to be done, but their transformation has been remarkable.\nProjects such as Castleﬁeld in Manchester and Brindley Place in Birmingham\nhave transformed city-centre canals from stagnant reminders of a fading\nindustrial past to the epitome of urban cool. However, 21st-century priorities\ndictate that the rehabilitation of this 18th-century motorway system cannot\nstop there. Canals and navigable rivers form a major transport network, in\nneed of only piecemeal investment, and with the spare capacity to take away\nthe need for hundreds of thousands of lorry journeys. In the second half of the\n18th century, canals drove the industrial revolution. Today, authorities want\nthem to drive congestion oﬀ the roads. Last month, for example, the European\nCommission proposed a seven-year plan to shift large amounts of freight from\nroads to inland waterways.\nB . Europe's enthusiasm comes as no surprise. Freight traﬃc is expected to\ngrow by a third in the next decade. The cost of pollution and congestion is set\nto swallow one per cent of Europe's entire GDP by 2010. \"With a ﬂeet of 11000\nvessels and a capacity equalling 10000 trains or 440000 trucks, inland\nwaterways can make transport in Europe more eﬃcient, reliable and\nenvironmental friendly,\" says Jacques Barrot, vice-president of the European\nCommission in charge of transport. \"Europe cannot aﬀord to leave that\n\npotential untapped.\"\nC . Mainland Europe has never, in fairness, left it completely untapped. The\ncanals of the low countries and the rivers of central and eastern Europe buzzed\nwith the sound of freight barges long after British industry had thrown in its lot\nwith railways and roads. Attempts to revive freight on British canals have been\nhampered by the fact that their heyday lasted barely 60 years, and they were\nﬁrst considered obsolete 150 years ago. For much of the intervening period,\nmany have simply been left to rot. \"Our network was in decline for a long time\ncompared to much of Europe,\" says Eugene Baston of British Waterways.\n\"Whereas other countries developed road and rail transport but carried on\nusing their waterways as well, our canals were neglected. In fact many\nEuropean countries actually enlarged their canals 100 years ago.\"\nD. That decline in Britain has been reversed, ﬁrst by leisure seekers and more\nrecently by industry. Boaters, anglers, walkers and cyclists now beneﬁt from\naround 4000 miles of navigable waterways and the paths and trails that run\nalongside them. Waterside living is fashionable, and city-centre canals have\nbeen a focus for urban renewal, And, despite our obsession with road transport,\nenvironmental considerations are forcing government and business to mm the\nclock back 200 years and--at least in a minor way--get our waterways working\nagain.\nE. In fact, industrial goods such as coal, steel, aggregates and petroleum have\nnever completely disappeared from large rivers and designated commercial\nwaterways. Barges on the river Severn have recently started carrying the\nequivalent of 34000 lorry loads of aggregates each year, the ﬁrst freight traﬃc\non the river for a decade. British Waterways, which owns about half of the\ncountry's navigable inland waterways, carded the equivalent of 64000 25-ton\nlorry loads of freight in 2004. The organisation says these ﬁgures are certain to\nincrease as new schemes start, and environmentalists hope they will. Carrying\nfreight by water uses about a quarter of the energy of an equivalent road\njourney. In comparison to lorries, barges produce low emissions, low noise and\nare visually unobtrusive. \"We think that anything that can take freight oﬀ the\nroads needs to be fully explored,\" says Tony Bosworth, transport campaigner\nfor Friends of the Earth. \"Canals can do that. They can help cut the pollution\nthat causes climate change.\"\nF. There is a limit to what canals can carry. The slow pace of water travel does\nnot ﬁt well with the limited shelf-life of fresh produce. If supermarkets won't\ntrust their cherry tomatoes to water, they might trust the waste paper and\nplastic that protects them. Many of the proposals to utilise Britain's waterways\n\nare based around waste management and recycling schemes. For example, a\npilot scheme in Hackney, east London, has seen municipal waste collected by\ntruck and transferred to barge for transportation to a reprocessing plant. In the\nfuture, the scheme could remove 300000 dustcart miles from the borough's\nstreets every year. Current arrangements could be just the tip of the iceberg.\nG . Planning permission has been given for a Powerday recycling plant at\nWillesden Junction, a site that sits on the intersection of road, rail and canal\nnetworks. \"The plant will have the capacity to handle a million and a half tons\nof waste every year, but the amount carried by road will be capped at 500000\ntons,\" says Ed Fox of British Waterways London. \"If they want to grow the\nbusiness, they will have to work with us.\" Fox says getting freight back on the\ncanals has been \"a nice idea\" for 50 years, but until recently little more than an\nidea. \"The Powerday project, on the other hand, is proof of what really can be\ndone.\"\nH. Though details have yet to be decided, British Waterways believes the most\nappropriate way to transport some of the building materials destined for\nLondon's giant Olympic construction project is by the network of waterways\nthat links the Thames and east London. The Olympic Delivery Authority says:\n\"It's being looked at and the ﬁnal solution could well involve some\ntransportation by water. What exactly we do will be based on a range of\nfactors, but one of those will be sustainability.\" Their gentle pace will always\nmake canals a niche player in a busy world, but after 200 years of neglect, the\ntide is starting to turn.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "It's hard to imagine that only a decade or so ago many of the nation's canals"
+            "label": null,
+            "text": "Britain's canals - the solution to\novercrowded roads?"
           },
           {
-            "label": "B",
-            "content": ". Europe's enthusiasm comes as no surprise. Freight traﬃc is expected to"
+            "label": null,
+            "text": "A. It's hard to imagine that only a decade or so ago many of the nation's canals\nwere little more than the last resting place for abandoned shopping trolleys.\nThere's still work to be done, but their transformation has been remarkable.\nProjects such as Castleﬁeld in Manchester and Brindley Place in Birmingham\nhave transformed city-centre canals from stagnant reminders of a fading\nindustrial past to the epitome of urban cool. However, 21st-century priorities\ndictate that the rehabilitation of this 18th-century motorway system cannot\nstop there. Canals and navigable rivers form a major transport network, in\nneed of only piecemeal investment, and with the spare capacity to take away\nthe need for hundreds of thousands of lorry journeys. In the second half of the\n18th century, canals drove the industrial revolution. Today, authorities want\nthem to drive congestion oﬀ the roads. Last month, for example, the European\nCommission proposed a seven-year plan to shift large amounts of freight from\nroads to inland waterways."
           },
           {
-            "label": "C",
-            "content": ". Mainland Europe has never, in fairness, left it completely untapped. The"
+            "label": null,
+            "text": "B . Europe's enthusiasm comes as no surprise. Freight traﬃc is expected to\ngrow by a third in the next decade. The cost of pollution and congestion is set\nto swallow one per cent of Europe's entire GDP by 2010. \"With a ﬂeet of 11000\nvessels and a capacity equalling 10000 trains or 440000 trucks, inland\nwaterways can make transport in Europe more eﬃcient, reliable and\nenvironmental friendly,\" says Jacques Barrot, vice-president of the European\nCommission in charge of transport. \"Europe cannot aﬀord to leave that"
           },
           {
-            "label": "D",
-            "content": "That decline in Britain has been reversed, ﬁrst by leisure seekers and more"
+            "label": null,
+            "text": "potential untapped.\""
           },
           {
-            "label": "E",
-            "content": "In fact, industrial goods such as coal, steel, aggregates and petroleum have"
+            "label": null,
+            "text": "C . Mainland Europe has never, in fairness, left it completely untapped. The\ncanals of the low countries and the rivers of central and eastern Europe buzzed\nwith the sound of freight barges long after British industry had thrown in its lot\nwith railways and roads. Attempts to revive freight on British canals have been\nhampered by the fact that their heyday lasted barely 60 years, and they were\nﬁrst considered obsolete 150 years ago. For much of the intervening period,\nmany have simply been left to rot. \"Our network was in decline for a long time\ncompared to much of Europe,\" says Eugene Baston of British Waterways.\n\"Whereas other countries developed road and rail transport but carried on\nusing their waterways as well, our canals were neglected. In fact many\nEuropean countries actually enlarged their canals 100 years ago.\""
           },
           {
-            "label": "F",
-            "content": "There is a limit to what canals can carry. The slow pace of water travel does"
+            "label": null,
+            "text": "D. That decline in Britain has been reversed, ﬁrst by leisure seekers and more\nrecently by industry. Boaters, anglers, walkers and cyclists now beneﬁt from\naround 4000 miles of navigable waterways and the paths and trails that run\nalongside them. Waterside living is fashionable, and city-centre canals have\nbeen a focus for urban renewal, And, despite our obsession with road transport,\nenvironmental considerations are forcing government and business to mm the\nclock back 200 years and--at least in a minor way--get our waterways working\nagain."
           },
           {
-            "label": "G",
-            "content": ". Planning permission has been given for a Powerday recycling plant at"
+            "label": null,
+            "text": "E. In fact, industrial goods such as coal, steel, aggregates and petroleum have\nnever completely disappeared from large rivers and designated commercial\nwaterways. Barges on the river Severn have recently started carrying the\nequivalent of 34000 lorry loads of aggregates each year, the ﬁrst freight traﬃc\non the river for a decade. British Waterways, which owns about half of the\ncountry's navigable inland waterways, carded the equivalent of 64000 25-ton\nlorry loads of freight in 2004. The organisation says these ﬁgures are certain to\nincrease as new schemes start, and environmentalists hope they will. Carrying\nfreight by water uses about a quarter of the energy of an equivalent road\njourney. In comparison to lorries, barges produce low emissions, low noise and\nare visually unobtrusive. \"We think that anything that can take freight oﬀ the\nroads needs to be fully explored,\" says Tony Bosworth, transport campaigner\nfor Friends of the Earth. \"Canals can do that. They can help cut the pollution\nthat causes climate change.\""
+          },
+          {
+            "label": null,
+            "text": "F. There is a limit to what canals can carry. The slow pace of water travel does\nnot ﬁt well with the limited shelf-life of fresh produce. If supermarkets won't\ntrust their cherry tomatoes to water, they might trust the waste paper and\nplastic that protects them. Many of the proposals to utilise Britain's waterways"
+          },
+          {
+            "label": null,
+            "text": "are based around waste management and recycling schemes. For example, a\npilot scheme in Hackney, east London, has seen municipal waste collected by\ntruck and transferred to barge for transportation to a reprocessing plant. In the\nfuture, the scheme could remove 300000 dustcart miles from the borough's\nstreets every year. Current arrangements could be just the tip of the iceberg."
+          },
+          {
+            "label": null,
+            "text": "G . Planning permission has been given for a Powerday recycling plant at\nWillesden Junction, a site that sits on the intersection of road, rail and canal\nnetworks. \"The plant will have the capacity to handle a million and a half tons\nof waste every year, but the amount carried by road will be capped at 500000\ntons,\" says Ed Fox of British Waterways London. \"If they want to grow the\nbusiness, they will have to work with us.\" Fox says getting freight back on the\ncanals has been \"a nice idea\" for 50 years, but until recently little more than an\nidea. \"The Powerday project, on the other hand, is proof of what really can be\ndone.\""
+          },
+          {
+            "label": null,
+            "text": "H. Though details have yet to be decided, British Waterways believes the most\nappropriate way to transport some of the building materials destined for\nLondon's giant Olympic construction project is by the network of waterways\nthat links the Thames and east London. The Olympic Delivery Authority says:\n\"It's being looked at and the ﬁnal solution could well involve some\ntransportation by water. What exactly we do will be based on a range of\nfactors, but one of those will be sustainability.\" Their gentle pace will always\nmake canals a niche player in a busy world, but after 200 years of neglect, the\ntide is starting to turn."
           }
-        ]
+        ],
+        "text": "Britain's canals - the solution to\novercrowded roads?\n\nA. It's hard to imagine that only a decade or so ago many of the nation's canals\nwere little more than the last resting place for abandoned shopping trolleys.\nThere's still work to be done, but their transformation has been remarkable.\nProjects such as Castleﬁeld in Manchester and Brindley Place in Birmingham\nhave transformed city-centre canals from stagnant reminders of a fading\nindustrial past to the epitome of urban cool. However, 21st-century priorities\ndictate that the rehabilitation of this 18th-century motorway system cannot\nstop there. Canals and navigable rivers form a major transport network, in\nneed of only piecemeal investment, and with the spare capacity to take away\nthe need for hundreds of thousands of lorry journeys. In the second half of the\n18th century, canals drove the industrial revolution. Today, authorities want\nthem to drive congestion oﬀ the roads. Last month, for example, the European\nCommission proposed a seven-year plan to shift large amounts of freight from\nroads to inland waterways.\n\nB . Europe's enthusiasm comes as no surprise. Freight traﬃc is expected to\ngrow by a third in the next decade. The cost of pollution and congestion is set\nto swallow one per cent of Europe's entire GDP by 2010. \"With a ﬂeet of 11000\nvessels and a capacity equalling 10000 trains or 440000 trucks, inland\nwaterways can make transport in Europe more eﬃcient, reliable and\nenvironmental friendly,\" says Jacques Barrot, vice-president of the European\nCommission in charge of transport. \"Europe cannot aﬀord to leave that\n\npotential untapped.\"\n\nC . Mainland Europe has never, in fairness, left it completely untapped. The\ncanals of the low countries and the rivers of central and eastern Europe buzzed\nwith the sound of freight barges long after British industry had thrown in its lot\nwith railways and roads. Attempts to revive freight on British canals have been\nhampered by the fact that their heyday lasted barely 60 years, and they were\nﬁrst considered obsolete 150 years ago. For much of the intervening period,\nmany have simply been left to rot. \"Our network was in decline for a long time\ncompared to much of Europe,\" says Eugene Baston of British Waterways.\n\"Whereas other countries developed road and rail transport but carried on\nusing their waterways as well, our canals were neglected. In fact many\nEuropean countries actually enlarged their canals 100 years ago.\"\n\nD. That decline in Britain has been reversed, ﬁrst by leisure seekers and more\nrecently by industry. Boaters, anglers, walkers and cyclists now beneﬁt from\naround 4000 miles of navigable waterways and the paths and trails that run\nalongside them. Waterside living is fashionable, and city-centre canals have\nbeen a focus for urban renewal, And, despite our obsession with road transport,\nenvironmental considerations are forcing government and business to mm the\nclock back 200 years and--at least in a minor way--get our waterways working\nagain.\n\nE. In fact, industrial goods such as coal, steel, aggregates and petroleum have\nnever completely disappeared from large rivers and designated commercial\nwaterways. Barges on the river Severn have recently started carrying the\nequivalent of 34000 lorry loads of aggregates each year, the ﬁrst freight traﬃc\non the river for a decade. British Waterways, which owns about half of the\ncountry's navigable inland waterways, carded the equivalent of 64000 25-ton\nlorry loads of freight in 2004. The organisation says these ﬁgures are certain to\nincrease as new schemes start, and environmentalists hope they will. Carrying\nfreight by water uses about a quarter of the energy of an equivalent road\njourney. In comparison to lorries, barges produce low emissions, low noise and\nare visually unobtrusive. \"We think that anything that can take freight oﬀ the\nroads needs to be fully explored,\" says Tony Bosworth, transport campaigner\nfor Friends of the Earth. \"Canals can do that. They can help cut the pollution\nthat causes climate change.\"\n\nF. There is a limit to what canals can carry. The slow pace of water travel does\nnot ﬁt well with the limited shelf-life of fresh produce. If supermarkets won't\ntrust their cherry tomatoes to water, they might trust the waste paper and\nplastic that protects them. Many of the proposals to utilise Britain's waterways\n\nare based around waste management and recycling schemes. For example, a\npilot scheme in Hackney, east London, has seen municipal waste collected by\ntruck and transferred to barge for transportation to a reprocessing plant. In the\nfuture, the scheme could remove 300000 dustcart miles from the borough's\nstreets every year. Current arrangements could be just the tip of the iceberg.\n\nG . Planning permission has been given for a Powerday recycling plant at\nWillesden Junction, a site that sits on the intersection of road, rail and canal\nnetworks. \"The plant will have the capacity to handle a million and a half tons\nof waste every year, but the amount carried by road will be capped at 500000\ntons,\" says Ed Fox of British Waterways London. \"If they want to grow the\nbusiness, they will have to work with us.\" Fox says getting freight back on the\ncanals has been \"a nice idea\" for 50 years, but until recently little more than an\nidea. \"The Powerday project, on the other hand, is proof of what really can be\ndone.\"\n\nH. Though details have yet to be decided, British Waterways believes the most\nappropriate way to transport some of the building materials destined for\nLondon's giant Olympic construction project is by the network of waterways\nthat links the Thames and east London. The Olympic Delivery Authority says:\n\"It's being looked at and the ﬁnal solution could well involve some\ntransportation by water. What exactly we do will be based on a range of\nfactors, but one of those will be sustainability.\" Their gentle pace will always\nmake canals a niche player in a busy world, but after 200 years of neglect, the\ntide is starting to turn.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 8 paragraphs (A-H). Which paragraph does each of the following headings best fit?",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "fill-in-blank",
+          "instruction": "According to the text, FIVE of the following statements are true.",
+          "body": null,
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "matching-features",
+          "instruction": "A relatively little investment. B considerable investment. C investment equal to 1% of Europe's transport budget. A transported most of Europe's goods for 60 years. B was built mostly about 150 years ago. has actually been expanded in some countries over the last hundred years. C A fresh fruit and vegetables. B fuel C cereal A 1.5 million tons B 500 tons C 15 million tons",
+          "body": null,
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "relatively little investment.",
+              "considerable investment.",
+              "investment equal to 1% of Europe's transport budget."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Olympic transport",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "The decline of British canals",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Modern leisure uses",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Energy efficient",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D,E,G,H",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D,E,G,H",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D,E,G,H",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D,E,G,H",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,D,E,G,H",
+          "trap": null
+        },
         {
           "number": 23,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "Canals will require",
-          "instruction": "Which paragraph does each of the following headings best fit? 14 Olympic transport 15 The decline of British canals 16 Modern leisure uses 17 Energy efficient According to the text, FIVE of the following statements are true. Choose the corresponding letters in answer boxes 18-22. A",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 24,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "The European canal network",
-          "instruction": "Which paragraph does each of the following headings best fit? 14 Olympic transport 15 The decline of British canals 16 Modern leisure uses 17 Energy efficient According to the text, FIVE of the following statements are true. Choose the corresponding letters in answer boxes 18-22. A",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 25,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "Suitable products for transportation by canal include",
-          "instruction": "Which paragraph does each of the following headings best fit? 14 Olympic transport 15 The decline of British canals 16 Modern leisure uses 17 Energy efficient According to the text, FIVE of the following statements are true. Choose the corresponding letters in answer boxes 18-22. A",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 26,
           "type": "matching-features",
+          "groupId": "p2g3",
           "prompt": "How much waste can Powerday recycling plant treat in one year?",
-          "instruction": "Which paragraph does each of the following headings best fit? 14 Olympic transport 15 The decline of British canals 16 Modern leisure uses 17 Energy efficient According to the text, FIVE of the following statements are true. Choose the corresponding letters in answer boxes 18-22. A",
-          "answer": "A"
-        },
-        {
-          "number": 15,
-          "type": "matching-features",
-          "prompt": "million tons",
-          "instruction": "Which paragraph does each of the following headings best fit? 14 Olympic transport 15 The decline of British canals 16 Modern leisure uses 17 Energy efficient According to the text, FIVE of the following statements are true. Choose the corresponding letters in answer boxes 18-22. A",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Are You Being Served?",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3.\nAre You Being Served?\nThe world's factory, it turns out, has a sizeable canteen attached, not to\nmention an oﬃce block and shopping mall. Last month's oﬃcial revision of\nChina's gross domestic product revealed an economy worth 16 trillion yuan\n(\u00001.9 trillion) in 2004, 17% more than previously thought. Some \u0000265 billion of\nthe increase - 93% of it - was ascribed to the services sector. As a result,\nservices' share of the economy has jumped by nine percentage points, to 41%,\ncompared with 46% for manufacturing and 13% for primary industries (mainly\nagriculture and mining).\nWhere has all this extra activity come from? The bulk of it is obvious to any\ntraveller in China. As people grow wealthier, they want more restaurants and\nbars, clothes stores, car dealerships, bookshops, private hospitals, English\nlanguage classes and beauty salons. In many of these businesses, however,\nturnover and proﬁts have not previously been captured by a statistical system\ngeared to measuring factory production. The small, often private, companies\nthat dominate these areas have also often been at pains to escape notice - and\ntherefore taxes.\nLi Deshui, commissioner of China's National Bureau of Statistics, conﬁrms that\nmost of the newly unearthed GDP comes from three categories. The ﬁrst is\nwholesale, retail and catering; the second, transport, storage, post and\ntelecommunications. While postal and telecoms services are still state-\ncontrolled and thus readily measured, more than a million small tracking and\n\nremoval companies are not. The third activity is real estate, booming\nparticularly in the coastal cities and increasingly inland too, leading to an inﬂux\nof private money - not least from overseas speculators. Property development\nhas, in turn, boosted demand for architects, decorators, do-it-yourself stores\nand other building services.\nThere is more to China's services boom than dishing up stir-fries, shipping\nboxes and fitting out apartments. Recent years have seen a surge in media and\ntechnology services, including the internet; in ﬁnancial services such as\nleasing; and in education and leisure. In a small way, for example, China is\nstarting to rival India as an outsourcing hub: less for call-centres that require\nexcellent English than for such tasks as preparing reports and patent ﬁlings. In\nOctober Microsoft took a stake in a Chinese software ﬁrm in Dalian, a city in\nnorth-east China with a thriving outsourcing industry preparing tax returns and\nsoftware for companies from Japan and South Korea.\nChina's rapid economic growth is fuelling demand for accountants, lawyers,\nbankers and all manner of consultants, as Chinese companies expand and\nrestructure. Specialists in marketing, advertising and public relations advise on\nthe relatively new area of marketing products and developing brands. The new\nwealth has other consequences, too. China now has nearly a million security\nguards. It can oﬀer its new rich everything from cosmetic surgeons to pet\nsalons.\nMeanwhile, a huge new market is opening up for private education--fuelled by\nthe combination of a poor public system, the preoccupation of middle-class\nparents with giving their (often) only child the best chances, and demand from\nbusiness. Chinese families spend more on education than on anything except\nhousing - the market for courses, books and materials more than doubled from\n2002 levels, to \u000090 billion in 2005. Richer households have also caused a\ntourism boom, which is still chieﬂy domestic, though more mainlanders are\nventuring overseas as visa restrictions are lifted. The World Travel & Tourism\nCouncil predicts that China's annual tourism market will more than triple to\n\u0000300 billion within a decade.\nChina's services sector, on this basis, is well-developed and roughly as large as\nthose of Japan and South Korea were at a similar stage of development, notes\nthe HSBC bank. In reality, it is bigger still, since the GDP revision cannot\ncapture activities such as kerbside lending and tax-dodging cash transactions\nin property or entertainment--all of which Dong Tao, chief Asia economist at\nCSFB, another bank, reckons add another \u0000220 billion to the economy. Even\nso, the 41% of GDP claimed by services in China remains below the 60-75%\ntypical in developed countries. It is smaller even than India's 52%.\n\nOne reason for this is a bias towards manufacturing--\"China's 'real-men-make-\nstuﬀ' attitude,\" as Gordon Orr of McKinsey's Shanghai oﬃce puts it. This has\nled to a plethora of ill-thought-through regulations for services, made worse by\nChina's continuing suspicion of private business, which is mostly concentrated\nin the services sector. The lack of a national trucking licence, for example,\nmeans hauliers must get approval from each province to move goods across\nthe country and unload them on to diﬀerent trucks at each border--delaying\ndelivery and increasing spoilage and pilfering. In retailing, local governments\noften maintain ineﬃcient supply chains, in part to protect local jobs. David Wei,\nhead of B&Q in China, says his 48 do-it-yourself stores on the mainland are\nserved by 1800 suppliers, compared with 600 suppliers in Britain for more than\n300 stores.\nWorse, though China took an early decision to invite foreign direct investment\ninto manufacturing, it has been reluctant to open up services. Diana Farrell,\ndirector of the McKinsey Global Institute, the consultancy's think-tank, argues\nthat allowing more foreign investment in services could bring not just capital\nand technology but a competitive dynamic. The presence of Carrefour and Wal-\nMart has led to domestic copycats, creating innovation and productivity\ngrowth.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Are You Being Served?"
+          },
+          {
+            "label": null,
+            "text": "The world's factory, it turns out, has a sizeable canteen attached, not to\nmention an oﬃce block and shopping mall. Last month's oﬃcial revision of\nChina's gross domestic product revealed an economy worth 16 trillion yuan\n(\u00001.9 trillion) in 2004, 17% more than previously thought. Some \u0000265 billion of\nthe increase - 93% of it - was ascribed to the services sector. As a result,\nservices' share of the economy has jumped by nine percentage points, to 41%,\ncompared with 46% for manufacturing and 13% for primary industries (mainly\nagriculture and mining)."
+          },
+          {
+            "label": null,
+            "text": "Where has all this extra activity come from? The bulk of it is obvious to any\ntraveller in China. As people grow wealthier, they want more restaurants and\nbars, clothes stores, car dealerships, bookshops, private hospitals, English\nlanguage classes and beauty salons. In many of these businesses, however,\nturnover and proﬁts have not previously been captured by a statistical system\ngeared to measuring factory production. The small, often private, companies\nthat dominate these areas have also often been at pains to escape notice - and\ntherefore taxes."
+          },
+          {
+            "label": null,
+            "text": "Li Deshui, commissioner of China's National Bureau of Statistics, conﬁrms that\nmost of the newly unearthed GDP comes from three categories. The ﬁrst is\nwholesale, retail and catering; the second, transport, storage, post and\ntelecommunications. While postal and telecoms services are still state-\ncontrolled and thus readily measured, more than a million small tracking and"
+          },
+          {
+            "label": null,
+            "text": "removal companies are not. The third activity is real estate, booming\nparticularly in the coastal cities and increasingly inland too, leading to an inﬂux\nof private money - not least from overseas speculators. Property development\nhas, in turn, boosted demand for architects, decorators, do-it-yourself stores\nand other building services."
+          },
+          {
+            "label": null,
+            "text": "There is more to China's services boom than dishing up stir-fries, shipping\nboxes and fitting out apartments. Recent years have seen a surge in media and\ntechnology services, including the internet; in ﬁnancial services such as\nleasing; and in education and leisure. In a small way, for example, China is\nstarting to rival India as an outsourcing hub: less for call-centres that require\nexcellent English than for such tasks as preparing reports and patent ﬁlings. In\nOctober Microsoft took a stake in a Chinese software ﬁrm in Dalian, a city in\nnorth-east China with a thriving outsourcing industry preparing tax returns and\nsoftware for companies from Japan and South Korea."
+          },
+          {
+            "label": null,
+            "text": "China's rapid economic growth is fuelling demand for accountants, lawyers,\nbankers and all manner of consultants, as Chinese companies expand and\nrestructure. Specialists in marketing, advertising and public relations advise on\nthe relatively new area of marketing products and developing brands. The new\nwealth has other consequences, too. China now has nearly a million security\nguards. It can oﬀer its new rich everything from cosmetic surgeons to pet\nsalons."
+          },
+          {
+            "label": null,
+            "text": "Meanwhile, a huge new market is opening up for private education--fuelled by\nthe combination of a poor public system, the preoccupation of middle-class\nparents with giving their (often) only child the best chances, and demand from\nbusiness. Chinese families spend more on education than on anything except\nhousing - the market for courses, books and materials more than doubled from\n2002 levels, to \u000090 billion in 2005. Richer households have also caused a\ntourism boom, which is still chieﬂy domestic, though more mainlanders are\nventuring overseas as visa restrictions are lifted. The World Travel & Tourism\nCouncil predicts that China's annual tourism market will more than triple to\n\u0000300 billion within a decade."
+          },
+          {
+            "label": null,
+            "text": "China's services sector, on this basis, is well-developed and roughly as large as\nthose of Japan and South Korea were at a similar stage of development, notes\nthe HSBC bank. In reality, it is bigger still, since the GDP revision cannot\ncapture activities such as kerbside lending and tax-dodging cash transactions\nin property or entertainment--all of which Dong Tao, chief Asia economist at\nCSFB, another bank, reckons add another \u0000220 billion to the economy. Even\nso, the 41% of GDP claimed by services in China remains below the 60-75%\ntypical in developed countries. It is smaller even than India's 52%."
+          },
+          {
+            "label": null,
+            "text": "One reason for this is a bias towards manufacturing--\"China's 'real-men-make-\nstuﬀ' attitude,\" as Gordon Orr of McKinsey's Shanghai oﬃce puts it. This has\nled to a plethora of ill-thought-through regulations for services, made worse by\nChina's continuing suspicion of private business, which is mostly concentrated\nin the services sector. The lack of a national trucking licence, for example,\nmeans hauliers must get approval from each province to move goods across\nthe country and unload them on to diﬀerent trucks at each border--delaying\ndelivery and increasing spoilage and pilfering. In retailing, local governments\noften maintain ineﬃcient supply chains, in part to protect local jobs. David Wei,\nhead of B&Q in China, says his 48 do-it-yourself stores on the mainland are\nserved by 1800 suppliers, compared with 600 suppliers in Britain for more than\n300 stores."
+          },
+          {
+            "label": null,
+            "text": "Worse, though China took an early decision to invite foreign direct investment\ninto manufacturing, it has been reluctant to open up services. Diana Farrell,\ndirector of the McKinsey Global Institute, the consultancy's think-tank, argues\nthat allowing more foreign investment in services could bring not just capital\nand technology but a competitive dynamic. The presence of Carrefour and Wal-\nMart has led to domestic copycats, creating innovation and productivity\ngrowth."
+          }
+        ],
+        "text": "Are You Being Served?\n\nThe world's factory, it turns out, has a sizeable canteen attached, not to\nmention an oﬃce block and shopping mall. Last month's oﬃcial revision of\nChina's gross domestic product revealed an economy worth 16 trillion yuan\n(\u00001.9 trillion) in 2004, 17% more than previously thought. Some \u0000265 billion of\nthe increase - 93% of it - was ascribed to the services sector. As a result,\nservices' share of the economy has jumped by nine percentage points, to 41%,\ncompared with 46% for manufacturing and 13% for primary industries (mainly\nagriculture and mining).\n\nWhere has all this extra activity come from? The bulk of it is obvious to any\ntraveller in China. As people grow wealthier, they want more restaurants and\nbars, clothes stores, car dealerships, bookshops, private hospitals, English\nlanguage classes and beauty salons. In many of these businesses, however,\nturnover and proﬁts have not previously been captured by a statistical system\ngeared to measuring factory production. The small, often private, companies\nthat dominate these areas have also often been at pains to escape notice - and\ntherefore taxes.\n\nLi Deshui, commissioner of China's National Bureau of Statistics, conﬁrms that\nmost of the newly unearthed GDP comes from three categories. The ﬁrst is\nwholesale, retail and catering; the second, transport, storage, post and\ntelecommunications. While postal and telecoms services are still state-\ncontrolled and thus readily measured, more than a million small tracking and\n\nremoval companies are not. The third activity is real estate, booming\nparticularly in the coastal cities and increasingly inland too, leading to an inﬂux\nof private money - not least from overseas speculators. Property development\nhas, in turn, boosted demand for architects, decorators, do-it-yourself stores\nand other building services.\n\nThere is more to China's services boom than dishing up stir-fries, shipping\nboxes and fitting out apartments. Recent years have seen a surge in media and\ntechnology services, including the internet; in ﬁnancial services such as\nleasing; and in education and leisure. In a small way, for example, China is\nstarting to rival India as an outsourcing hub: less for call-centres that require\nexcellent English than for such tasks as preparing reports and patent ﬁlings. In\nOctober Microsoft took a stake in a Chinese software ﬁrm in Dalian, a city in\nnorth-east China with a thriving outsourcing industry preparing tax returns and\nsoftware for companies from Japan and South Korea.\n\nChina's rapid economic growth is fuelling demand for accountants, lawyers,\nbankers and all manner of consultants, as Chinese companies expand and\nrestructure. Specialists in marketing, advertising and public relations advise on\nthe relatively new area of marketing products and developing brands. The new\nwealth has other consequences, too. China now has nearly a million security\nguards. It can oﬀer its new rich everything from cosmetic surgeons to pet\nsalons.\n\nMeanwhile, a huge new market is opening up for private education--fuelled by\nthe combination of a poor public system, the preoccupation of middle-class\nparents with giving their (often) only child the best chances, and demand from\nbusiness. Chinese families spend more on education than on anything except\nhousing - the market for courses, books and materials more than doubled from\n2002 levels, to \u000090 billion in 2005. Richer households have also caused a\ntourism boom, which is still chieﬂy domestic, though more mainlanders are\nventuring overseas as visa restrictions are lifted. The World Travel & Tourism\nCouncil predicts that China's annual tourism market will more than triple to\n\u0000300 billion within a decade.\n\nChina's services sector, on this basis, is well-developed and roughly as large as\nthose of Japan and South Korea were at a similar stage of development, notes\nthe HSBC bank. In reality, it is bigger still, since the GDP revision cannot\ncapture activities such as kerbside lending and tax-dodging cash transactions\nin property or entertainment--all of which Dong Tao, chief Asia economist at\nCSFB, another bank, reckons add another \u0000220 billion to the economy. Even\nso, the 41% of GDP claimed by services in China remains below the 60-75%\ntypical in developed countries. It is smaller even than India's 52%.\n\nOne reason for this is a bias towards manufacturing--\"China's 'real-men-make-\nstuﬀ' attitude,\" as Gordon Orr of McKinsey's Shanghai oﬃce puts it. This has\nled to a plethora of ill-thought-through regulations for services, made worse by\nChina's continuing suspicion of private business, which is mostly concentrated\nin the services sector. The lack of a national trucking licence, for example,\nmeans hauliers must get approval from each province to move goods across\nthe country and unload them on to diﬀerent trucks at each border--delaying\ndelivery and increasing spoilage and pilfering. In retailing, local governments\noften maintain ineﬃcient supply chains, in part to protect local jobs. David Wei,\nhead of B&Q in China, says his 48 do-it-yourself stores on the mainland are\nserved by 1800 suppliers, compared with 600 suppliers in Britain for more than\n300 stores.\n\nWorse, though China took an early decision to invite foreign direct investment\ninto manufacturing, it has been reluctant to open up services. Diana Farrell,\ndirector of the McKinsey Global Institute, the consultancy's think-tank, argues\nthat allowing more foreign investment in services could bring not just capital\nand technology but a competitive dynamic. The presence of Carrefour and Wal-\nMart has led to domestic copycats, creating innovation and productivity\ngrowth.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "For each question, only ONE of the choices is correct. Choose the corresponding letter in the appropriate box 27-30",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text.",
+          "body": "China is not really a rival to India in the role of an [[31]] . Most tourism in China is [[32]] . Many transactions in the real estate and leisure industries are in cash and that leads to [[33]] . Most private business in China is [[34]] in the service sector. China has brought far less [[35]] into services, slowing development of that sector.",
+          "range": [
+            31,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36-40 choose",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "\"The world's factory\" refers to",
-          "instruction": "Choose the corresponding letter in the appropriate box 27-30",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "the total mount of goods produced in the world.",
+            "China.",
+            "the United States."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 28,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "It is not easy to measure the finances of",
-          "instruction": "Choose the corresponding letter in the appropriate box 27-30",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "large state-owned companies.",
+            "foreign companies.",
+            "numerous small companies."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Real estate has helped increase the size of the service economy because",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "real estate is a service industry.",
+            "it involves a lot of investment from abroad.",
+            "developing real estate requires services."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "The largest portion of household spending in China goes towards",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "education.",
+            "accommodation.",
+            "travel."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "outsourcing hub",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "domestic",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "tax-dodging",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "concentrated",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "foreign direct investment",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Officially, the largest sector in China is the service\nsector.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Some of the newly-discovered GDP comes from the\neducation sector.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Dalian is a successful outsourcing center for Japan\nand Korea.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "As visa restrictions are lowered, Chinese people are\nexpected to spend more than\u0000300 billion on tourism.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "China's services sector is about the same size as\nJapan's and South Korea's.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 31-35",
-      "questionRange": [
-        31,
-        35
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 31-35\nQuestions 36-40\n29 Real estate has helped increase the size of the service economy\nbecause\nA\n \nB\n \nC\n \n30 The largest portion of household spending in China goes towards\nA\n \nB\n \nC\n \nreal estate is a service industry.\nit involves a lot of investment from abroad.\ndeveloping real estate requires services.\neducation.\naccommodation.\ntravel.\nComplete the following sentences using NO MORE THAN THREE\nWORDS from the text.\nChina is not really a rival to India in the role of an 31\n .\nMost tourism in China is 32\n .\nMany transactions in the real estate and leisure industries are in cash and\nthat leads to 33\n .\nMost private business in China is 34\n in the service sector.\nChina has brought far less 35\n into services, slowing development\nof that sector.\nDo the following statements agree with the information given in Reading\nPassage 3?\nIn boxes 36-40 choose\n\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n36\n Officially, the largest sector in China is the service\nsector.\n37\n  Some of the newly-discovered GDP comes from the\neducation sector.\n38\n  Dalian is a successful outsourcing center for Japan\nand Korea.\n39\n  As visa restrictions are lowered, Chinese people are\nexpected to spend more than\u0000300 billion on tourism.\n40\n  China's services sector is about the same size as\nJapan's and South Korea's.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "30 The largest portion of household spending in China goes towards"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "real estate is a service industry."
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -230,7 +1131,7 @@
     "15": "C",
     "16": "D",
     "17": "E",
-    "22": "A,D,E,G,H",
+    "18": "A,D,E,G,H",
     "23": "A",
     "24": "C",
     "25": "B",
@@ -248,6 +1149,10 @@
     "37": "NOT GIVEN",
     "38": "TRUE",
     "39": "TRUE",
-    "40": "FALSE"
+    "40": "FALSE",
+    "19": "A,D,E,G,H",
+    "20": "A,D,E,G,H",
+    "21": "A,D,E,G,H",
+    "22": "A,D,E,G,H"
   }
 }

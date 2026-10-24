@@ -1,0 +1,59 @@
+{
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "What is the main purpose of this passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Demonstrate how coral reef growth in the ocean",
+          "To tell that coral reef is widely used as a scientific project",
+          "Present the general benefits and an alarming situation of coral reef",
+          "To show the vital efforts made to protect the coral reef in Australia"
+        ]
+      }
+    },
+    "_note": "Answer key for Q27 is empty in the source; question shown but cannot be marked."
+  },
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Answer question 40 and choose the correct letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "Implied in the passage, what is the author's attitude toward Telework?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "surprised by its fast growth",
+          "unconcerned about the future pattern",
+          "believe it is generally positive and encouraging",
+          "worried in the economical problems arise"
+        ]
+      }
+    }
+  }
+}

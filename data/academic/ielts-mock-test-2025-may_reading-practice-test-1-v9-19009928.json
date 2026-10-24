@@ -1,212 +1,1125 @@
 {
   "id": "ielts-mock-test-2025-may_reading-practice-test-1-v9-19009928",
   "type": "academic",
-  "source": "ielts-mock-test-2025-may reading-practice-test-1-v9-19009928",
+  "title": "IELTS Academic 2025 May - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2025",
+  "testNumber": 1,
+  "year": 2025,
+  "month": 5,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2025-may_reading-practice-test-1-v9-19009928.pdf",
-  "total_questions": 12,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text on the next page and answer Questions 1-13."
+          },
+          {
+            "label": null,
+            "text": "3D Printers"
+          },
+          {
+            "label": null,
+            "text": "Ever wished you could find a pair of shoes to match your outfit? Fancy a pizza\nbut don't want to go out or wait for your delivery service to arrive? Simple. All\nyou need is a 3D home printer. Whilst admittedly not yet mainstream\ntechnology, it is only a matter of time until the 3D printer becomes as much a\npart of the domestic furniture as the statutory TV or the washing machine.\nCurrently, however, the technology remains firmly in the province of geeks and\ngadget lovers."
+          },
+          {
+            "label": null,
+            "text": "The design of the 3D home printer is nevertheless refreshingly simple. Its\ncomponents are relatively few, and could theoretically be assembled by\nanyone with a rudimentary knowledge of mechanics and technological know-\nhow. The 3 main elements of the printer are a metal framework which contains\nthe mechanical part of the printer, a printer control board and a PC. The PC is\nconnected via USB to the printer control board, which in turn is connected to\nthe framework of the printer and attached to the side of the latter. A plastic\nfilament of around 3m m in diameter feeds into the printer from an external\nsource, connecting to the extruder motor inside the printer. During printing, the\ncontrolled movement of the extruder motor ensures the correct volume of\nplastic is used. The extruder motor in turn is connected to a heated extruder or\n'hot end' that heats the plastic filament during printing. As the heated plastic\nemerges or is 'extruded' to use the correct terminology, it cools and is\narranged in layers to create a solid 3D model."
+          },
+          {
+            "label": null,
+            "text": "In order to move the extruder about in 3D space, there are 3 axes, each\ncontrolled by motors. The X-axis motor, located in a midway position on the\nmetal framework of the printer, moves the extruder left and right, using a\npulley. The two Z-axis motors, which are located on either side of the heated"
+          },
+          {
+            "label": null,
+            "text": "printing bed, move the entire X-axis up and down via two threaded rods. The\nheated bed of the printer, which lies directly underneath the hot end of the\nextruder, is moved back and forth beneath the extruder by the Y-axis motor\nlocated underneath the heated bed. The bed is heated to around 70 degrees\nCelsius to ensure the newly laid plastic does not warp as it cools. Overall\ncontrol of the printer is effected by the printer control board and the PC which\ncontains the programme of the model that is being printed."
+          },
+          {
+            "label": null,
+            "text": "Once assembled, in theory it should be possible to print a 3D version of\nvirtually anything. However, comparatively easy as it is to assemble, would-be\nDIY gadget enthusiasts should be warned that the printer has major technical\nlimitations. The finished product will always have banding and surface detail\nremaining as evidence of how the model was laid down. In addition, operators\nof the printer have to be extremely careful not to knock it whilst the machine is\nin the process of printing, since this will end up in model distortion. Extreme\ncare also has to be taken in the choice of plastic filament which will ultimately\ncreate the structure of the model. Some types of plastic may warp if the\ntemperature is not controlled properly when the melted plastic leaves the\nnozzle, and later, when it is cooling on the bed. Obviously the 3D model will be\nthe same colour as the plastic filament forming it, but colour limitations can\neasily be overcome by painting afterwards for a multicolour finish. Another\nproblem is that the plastic structures have to be supported as they are laid\ndown on the heated bed or they will distort or fall away as the plastic cools."
+          },
+          {
+            "label": null,
+            "text": "It is virtually certain, however, that such issues will be overcome in the future.\nThe innumerable advantages of 3D printers far outweigh any disadvantages\nand justify time and resources spent on such technology. Firstly, the product\ncan be produced on the spot within a very short time frame, thereby reducing\ntime and cost of manufacturing by traditional means. Secondly, printing objects\non a 3D printer removes the need for storage space of items since whatever is\nrequired is printed as and when necessary. Finally, despite expensive set-up\ncosts, in the long run, 3D printing works out far cheaper than normal\nmanufacturing processes since there is no longer a need for labour costs."
+          },
+          {
+            "label": null,
+            "text": "However, the 3D printer is still very much in its early stages and can be likened\nto early home computers which in technological hindsight now seem so\ncumbersome and slow. So far, early experimentations with the new technology\nhave been impressive but not earth-shattering. Nevertheless, in the future that\nis all set to change. In fact, the potential of 3D printers is jaw-dropping. The\nmost ambitious plan yet for 3D printing has to be in the military field. If all goes\nto plan, fighter planes will at some, probably very distant, point in the future\ncarry printers on board that during flight will be capable of printing out other"
+          },
+          {
+            "label": null,
+            "text": "fighter planes to replenish the flying squad. Admittedly, it takes a quantum\nleap of the imagination to accept that a machine that prints out clothing and\npizzas will also be able to print out planes. Sceptics, however, should\nremember that one of the forerunners to the modern computer, designed in\nthe mid-twentieth century, filled an entire room, So, in theory, if we have come\nso far in a matter of years then who knows what the future may hold for 3D\nprinters?"
+          }
+        ],
+        "text": "Read the text on the next page and answer Questions 1-13.\n\n3D Printers\n\nEver wished you could find a pair of shoes to match your outfit? Fancy a pizza\nbut don't want to go out or wait for your delivery service to arrive? Simple. All\nyou need is a 3D home printer. Whilst admittedly not yet mainstream\ntechnology, it is only a matter of time until the 3D printer becomes as much a\npart of the domestic furniture as the statutory TV or the washing machine.\nCurrently, however, the technology remains firmly in the province of geeks and\ngadget lovers.\n\nThe design of the 3D home printer is nevertheless refreshingly simple. Its\ncomponents are relatively few, and could theoretically be assembled by\nanyone with a rudimentary knowledge of mechanics and technological know-\nhow. The 3 main elements of the printer are a metal framework which contains\nthe mechanical part of the printer, a printer control board and a PC. The PC is\nconnected via USB to the printer control board, which in turn is connected to\nthe framework of the printer and attached to the side of the latter. A plastic\nfilament of around 3m m in diameter feeds into the printer from an external\nsource, connecting to the extruder motor inside the printer. During printing, the\ncontrolled movement of the extruder motor ensures the correct volume of\nplastic is used. The extruder motor in turn is connected to a heated extruder or\n'hot end' that heats the plastic filament during printing. As the heated plastic\nemerges or is 'extruded' to use the correct terminology, it cools and is\narranged in layers to create a solid 3D model.\n\nIn order to move the extruder about in 3D space, there are 3 axes, each\ncontrolled by motors. The X-axis motor, located in a midway position on the\nmetal framework of the printer, moves the extruder left and right, using a\npulley. The two Z-axis motors, which are located on either side of the heated\n\nprinting bed, move the entire X-axis up and down via two threaded rods. The\nheated bed of the printer, which lies directly underneath the hot end of the\nextruder, is moved back and forth beneath the extruder by the Y-axis motor\nlocated underneath the heated bed. The bed is heated to around 70 degrees\nCelsius to ensure the newly laid plastic does not warp as it cools. Overall\ncontrol of the printer is effected by the printer control board and the PC which\ncontains the programme of the model that is being printed.\n\nOnce assembled, in theory it should be possible to print a 3D version of\nvirtually anything. However, comparatively easy as it is to assemble, would-be\nDIY gadget enthusiasts should be warned that the printer has major technical\nlimitations. The finished product will always have banding and surface detail\nremaining as evidence of how the model was laid down. In addition, operators\nof the printer have to be extremely careful not to knock it whilst the machine is\nin the process of printing, since this will end up in model distortion. Extreme\ncare also has to be taken in the choice of plastic filament which will ultimately\ncreate the structure of the model. Some types of plastic may warp if the\ntemperature is not controlled properly when the melted plastic leaves the\nnozzle, and later, when it is cooling on the bed. Obviously the 3D model will be\nthe same colour as the plastic filament forming it, but colour limitations can\neasily be overcome by painting afterwards for a multicolour finish. Another\nproblem is that the plastic structures have to be supported as they are laid\ndown on the heated bed or they will distort or fall away as the plastic cools.\n\nIt is virtually certain, however, that such issues will be overcome in the future.\nThe innumerable advantages of 3D printers far outweigh any disadvantages\nand justify time and resources spent on such technology. Firstly, the product\ncan be produced on the spot within a very short time frame, thereby reducing\ntime and cost of manufacturing by traditional means. Secondly, printing objects\non a 3D printer removes the need for storage space of items since whatever is\nrequired is printed as and when necessary. Finally, despite expensive set-up\ncosts, in the long run, 3D printing works out far cheaper than normal\nmanufacturing processes since there is no longer a need for labour costs.\n\nHowever, the 3D printer is still very much in its early stages and can be likened\nto early home computers which in technological hindsight now seem so\ncumbersome and slow. So far, early experimentations with the new technology\nhave been impressive but not earth-shattering. Nevertheless, in the future that\nis all set to change. In fact, the potential of 3D printers is jaw-dropping. The\nmost ambitious plan yet for 3D printing has to be in the military field. If all goes\nto plan, fighter planes will at some, probably very distant, point in the future\ncarry printers on board that during flight will be capable of printing out other\n\nfighter planes to replenish the flying squad. Admittedly, it takes a quantum\nleap of the imagination to accept that a machine that prints out clothing and\npizzas will also be able to print out planes. Sceptics, however, should\nremember that one of the forerunners to the modern computer, designed in\nthe mid-twentieth century, filled an entire room, So, in theory, if we have come\nso far in a matter of years then who knows what the future may hold for 3D\nprinters?",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "diagram-label",
+          "instruction": "Label the diagram below. Choose FIVE answers and write the correct letter, A-G, from the diagram next to questions 1-5.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-mock-test-2025-may_reading-practice-test-1-v9-19009928/p1g1.png",
+              "w": 982,
+              "h": 957
+            }
+          ],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below using NO MORE THAN THREE WORDS from the passage for each answer. The Pros and Cons of 3D Printers Cons",
+          "body": "The finished product is far From perfect, exhibiting [[6]] in addition to banding. In order to [[7]] desired, extreme care has to be taken in selecting the plastic filaments to be used. It is also necessary for plastic structures [[8]] during the printing process to avoid distorting the printed model. Pros Only a very [[9]] is required to produce 3D models. 3D products are also much cheaper to make than using normal manufacturing processes and need no storage space. In theory [[10]] of 3D printers to create virtually anything from pizza to fighter planes is astounding.",
+          "range": [
+            6,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Use NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": "Whilst 3D printing is far from becoming [[11]] , so far experiments with the new technology have been promising. Although 3D models have yet to produce anything as [[12]] as fighter planes, the foundation for such a technology is in place. For the moment, however, the realisation of such projects remains in the [[13]] future.",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "Z-axis motor",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "hot end of extruder",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "extruder motor",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "plastic filament",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "X-axis motor",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "surface detail",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "create the structure",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "during the printing process to avoid distorting the printed model.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "to be supported",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "short time frame",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "the potential",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "mainstream technology",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "ambitious",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "future.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "very distant",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 14-26."
+          },
+          {
+            "label": null,
+            "text": "Nanotechnology: its development and uses"
+          },
+          {
+            "label": null,
+            "text": "A Nanotechnology has been hailed by many as being a twentieth-century\nmiracle of science. Essentially, nanotechnology, a term derived from Greek,\ntranslating literally as 'dwarf technology' is, as the origin of its name suggests,\nengineering at the atomic level. Scientists work with particles of substances\nknown as 'nanoparticles' which may measure no more than 1 nanometre or a\nbillionth of a metre. That's around 40,000 times smaller than the width of the\naverage human hair. Whilst some of these substances derived from carbon\ncompounds are manufactured, others, such as metals, are naturally-occurring\nor arise as a by-product of another process e.g. volcanic ash or smoke from\nwood burning. What makes these substances of such scientific interest is that\ntheir minute size facilitates medical and technological processes that would\notherwise be impossible."
+          },
+          {
+            "label": null,
+            "text": "B It may be something of a revelation for many of us to learn that\nnanotechnology - or its concept - is far from cutting-edge science. In fact,\nnanotechnology as an idea was first referred to in an influential lecture by\nAmerican physicist, Richard Feynman, as far back as 1959. During the lecture,\nentitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic\nconcept of nanotechnology. Individual atoms and molecules, he claimed, could\nin the future be created by a physical process. Such a process, he envisaged,\nwould involve the building of a set of precise tools to build and operate another\nproportionally smaller set. The building of increasingly minute tools at the\nmicroscopic level would in turn produce ultra-microscopic materials, later to\nbecome known as 'nanoparticles'."
+          },
+          {
+            "label": null,
+            "text": "C Strangely, what should have sparked a scientific revolution was then virtually\nforgotten about for the next 15 years. In 1974, a Japanese scientist, Norio"
+          },
+          {
+            "label": null,
+            "text": "Taniguchi, of the Tokyo University of Science reintroduced Feynman's theory\nand put a new name to an old concept, referring to the science as\n'nanotechnology'. However, it wasn't until nearly a decade later, in the 1980s,\nthat the way was paved for nanotechnology to leave the realm of theoretical\nscience and become reality. Two major scientific developments within a\nrelatively short period were to enable practical application of nanotechnology.\nThe invention of the Scanning Tunnelling Microscope (STM), combined with the\ndiscovery of nano-sized particles termed 'fullerenes', were to prove a turning\npoint in nanotechnology."
+          },
+          {
+            "label": null,
+            "text": "D Fullerenes are derived from carbon molecules and, in common with other\nnanoparticles, possess chemical and physical properties that are of huge\nscientific interest. The potential value of fullerenes for medical science was first\nraised in 2003 and in 2005 when the scientific magazine 'Chemistry and\nBiology' ran an article describing the use of fullerenes as light-activated\nantimicrobial agents. Since then, fullerenes have been used for several\nbiomedical applications ranging from X-ray imaging to treating cancer by\ntargeting cancer cells. In addition, these nanoparticles have been used in the\nmanufacture of commercial products, from sunscreen to cosmetics and some\nfood products. Furthermore, nanoparticles of metals, like gold and silver, have\nbeen used in environmental clean-ups of oil slicks and other forms of pollution.\nThe remarkable properties of nanoparticles are down to two main factors: their\ngreater surface-to-weight ratio, compared to larger particles which promotes\nthe attachment of substances to their surface, and their minute size which\nallows them to penetrate cell membranes. These properties are of great\nbenefit, for example in medicine, as drugs to fight cancer or AIDS can be\nattached to nanoparticles to reach their target cell in the human body."
+          },
+          {
+            "label": null,
+            "text": "E However, despite the amazing properties attributed to nanoparticles such as\nfullerenes, nanotechnology has yet to win wider universal acceptance in\nscientific circles. For the very properties that make nanoparticles so valuable to\ntechnology and medical science are also the ones that make them potentially\nso toxic. Such pro perties are potentially lethal if toxic substances attach\nthemselves to the same nanoparticles, thereby delivering a fatal toxin through\nthe cell membranes into the cells themselves. The toxic effect of these\ncompounds is further increased, since their size permits them to enter the\nbloodstream and hence the body's major organs. Furthermore, the\nnanoparticles in themselves are essentially a foreign element being introduced\nto the body. Unlike foreign elements, such as bacteria, the body has no natural\nimmune system to deaI with these ultramicroscopic particles. Scientists have\nyet to convince the nanotechnology sceptics that the potential side effects of"
+          },
+          {
+            "label": null,
+            "text": "nanoparticles are more than compensated for by the advantages that they\nconfer. It may be, however, that opposition to this technology is no more than\na general distrust of scientific innovation. In fact, Urban Wiesing from the\nUniversity of Tubingen has been quoted as saying 'Many of the risks associated\nwith nanotechnology have at least been encountered in part in other\ntechnologies as well.' He also believes that regulations can be put in place to\nminimise such risks. This is a view echoed by the Fed eral Environment Agency\nthat proposes that such risks are vastly outweighed by the potential benefits of\nnanotechnology, in particular for the environment."
+          }
+        ],
+        "text": "Read the text below and answer Questions 14-26.\n\nNanotechnology: its development and uses\n\nA Nanotechnology has been hailed by many as being a twentieth-century\nmiracle of science. Essentially, nanotechnology, a term derived from Greek,\ntranslating literally as 'dwarf technology' is, as the origin of its name suggests,\nengineering at the atomic level. Scientists work with particles of substances\nknown as 'nanoparticles' which may measure no more than 1 nanometre or a\nbillionth of a metre. That's around 40,000 times smaller than the width of the\naverage human hair. Whilst some of these substances derived from carbon\ncompounds are manufactured, others, such as metals, are naturally-occurring\nor arise as a by-product of another process e.g. volcanic ash or smoke from\nwood burning. What makes these substances of such scientific interest is that\ntheir minute size facilitates medical and technological processes that would\notherwise be impossible.\n\nB It may be something of a revelation for many of us to learn that\nnanotechnology - or its concept - is far from cutting-edge science. In fact,\nnanotechnology as an idea was first referred to in an influential lecture by\nAmerican physicist, Richard Feynman, as far back as 1959. During the lecture,\nentitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic\nconcept of nanotechnology. Individual atoms and molecules, he claimed, could\nin the future be created by a physical process. Such a process, he envisaged,\nwould involve the building of a set of precise tools to build and operate another\nproportionally smaller set. The building of increasingly minute tools at the\nmicroscopic level would in turn produce ultra-microscopic materials, later to\nbecome known as 'nanoparticles'.\n\nC Strangely, what should have sparked a scientific revolution was then virtually\nforgotten about for the next 15 years. In 1974, a Japanese scientist, Norio\n\nTaniguchi, of the Tokyo University of Science reintroduced Feynman's theory\nand put a new name to an old concept, referring to the science as\n'nanotechnology'. However, it wasn't until nearly a decade later, in the 1980s,\nthat the way was paved for nanotechnology to leave the realm of theoretical\nscience and become reality. Two major scientific developments within a\nrelatively short period were to enable practical application of nanotechnology.\nThe invention of the Scanning Tunnelling Microscope (STM), combined with the\ndiscovery of nano-sized particles termed 'fullerenes', were to prove a turning\npoint in nanotechnology.\n\nD Fullerenes are derived from carbon molecules and, in common with other\nnanoparticles, possess chemical and physical properties that are of huge\nscientific interest. The potential value of fullerenes for medical science was first\nraised in 2003 and in 2005 when the scientific magazine 'Chemistry and\nBiology' ran an article describing the use of fullerenes as light-activated\nantimicrobial agents. Since then, fullerenes have been used for several\nbiomedical applications ranging from X-ray imaging to treating cancer by\ntargeting cancer cells. In addition, these nanoparticles have been used in the\nmanufacture of commercial products, from sunscreen to cosmetics and some\nfood products. Furthermore, nanoparticles of metals, like gold and silver, have\nbeen used in environmental clean-ups of oil slicks and other forms of pollution.\nThe remarkable properties of nanoparticles are down to two main factors: their\ngreater surface-to-weight ratio, compared to larger particles which promotes\nthe attachment of substances to their surface, and their minute size which\nallows them to penetrate cell membranes. These properties are of great\nbenefit, for example in medicine, as drugs to fight cancer or AIDS can be\nattached to nanoparticles to reach their target cell in the human body.\n\nE However, despite the amazing properties attributed to nanoparticles such as\nfullerenes, nanotechnology has yet to win wider universal acceptance in\nscientific circles. For the very properties that make nanoparticles so valuable to\ntechnology and medical science are also the ones that make them potentially\nso toxic. Such pro perties are potentially lethal if toxic substances attach\nthemselves to the same nanoparticles, thereby delivering a fatal toxin through\nthe cell membranes into the cells themselves. The toxic effect of these\ncompounds is further increased, since their size permits them to enter the\nbloodstream and hence the body's major organs. Furthermore, the\nnanoparticles in themselves are essentially a foreign element being introduced\nto the body. Unlike foreign elements, such as bacteria, the body has no natural\nimmune system to deaI with these ultramicroscopic particles. Scientists have\nyet to convince the nanotechnology sceptics that the potential side effects of\n\nnanoparticles are more than compensated for by the advantages that they\nconfer. It may be, however, that opposition to this technology is no more than\na general distrust of scientific innovation. In fact, Urban Wiesing from the\nUniversity of Tubingen has been quoted as saying 'Many of the risks associated\nwith nanotechnology have at least been encountered in part in other\ntechnologies as well.' He also believes that regulations can be put in place to\nminimise such risks. This is a view echoed by the Fed eral Environment Agency\nthat proposes that such risks are vastly outweighed by the potential benefits of\nnanotechnology, in particular for the environment.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18.",
+          "body": null,
+          "range": [
+            14,
+            18
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            19,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "body": "A major [[24]] in the field of nanotechnology came with the discovery of fullerenes and the invention of the Scanning Tunnelling Microscope. Amongst scientists, nanotechnology has not met with [[25]] The ability of nanoparticles to penetrate [[26]] is somewhat of a mixed blessing,",
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "promising beginnings",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "definition of a revolutionary technology",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "repackaging an old idea",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "dubious attributes",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "the foundation of a new technology",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
         {
           "number": 19,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "Nanotechnology",
-          "instruction": "Read the text below and answer Questions 14-26. Nanotechnology: its development and uses A Nanotechnology has been hailed by many as being a twentieth-century miracle of science. Essentially, nanotechnology, a term derived from Greek, translating literally as 'dwarf technology' is, as the origin of its name suggests, engineering at the atomic level. Scientists work with particles of substances known as 'nanoparticles' which may measure no more than 1 nanometre or a billionth of a metre. That's around 40,000 times smaller than the width of the average human hair. Whilst some of these substances derived from carbon compounds are manufactured, others, such as metals, are naturally-occurring or arise as a by-product of another process e.g. volcanic ash or smoke from wood burning. What makes these substances of such scientific interest is that their minute size facilitates medical and technological processes that would otherwise be impossible. B It may be something of a revelation for many of us to learn that nanotechnology - or its concept - is far from cutting-edge science. In fact, nanotechnology as an idea was first referred to in an influential lecture by American physicist, Richard Feynman, as far back as 1959. During the lecture, entitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic concept of nanotechnology. Individual atoms and molecules, he claimed, could in the future be created by a physical process. Such a process, he envisaged, would involve the building of a set of precise tools to build and operate another proportionally smaller set. The building of increasingly minute tools at the microscopic level would in turn produce ultra-microscopic materials, later to become known as 'nanoparticles'. C Strangely, what should have sparked a scientific revolution was then virtually forgotten about for the next 15 years. In 1974, a Japanese scientist, Norio confer. It may be, however, that opposition to this technology is no more than a general distrust of scientific innovation. In fact, Urban Wiesing from the University of Tubingen has been quoted as saying 'Many of the risks associated with nanotechnology have at least been encountered in part in other technologies as well.' He also believes that regulations can be put in place to minimise such risks. This is a view echoed by the Fed eral Environment Agency that proposes that such risks are vastly outweighed by the potential benefits of nanotechnology, in particular for the environment. Questions 14-18 Questions 19-23 The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18. 14 promising beginnings 15 definition of a revolutionary technology 16 repackaging an old idea 17 dubious attributes 18 the foundation of a new technology Choose the correct letter, A, B, C or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "has limited value.",
+            "is not related to science.",
+            "incites controversy.",
+            "poses insurmountable safety issues."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 20,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "In the beginning, nanotechnology was",
-          "instruction": "Read the text below and answer Questions 14-26. Nanotechnology: its development and uses A Nanotechnology has been hailed by many as being a twentieth-century miracle of science. Essentially, nanotechnology, a term derived from Greek, translating literally as 'dwarf technology' is, as the origin of its name suggests, engineering at the atomic level. Scientists work with particles of substances known as 'nanoparticles' which may measure no more than 1 nanometre or a billionth of a metre. That's around 40,000 times smaller than the width of the average human hair. Whilst some of these substances derived from carbon compounds are manufactured, others, such as metals, are naturally-occurring or arise as a by-product of another process e.g. volcanic ash or smoke from wood burning. What makes these substances of such scientific interest is that their minute size facilitates medical and technological processes that would otherwise be impossible. B It may be something of a revelation for many of us to learn that nanotechnology - or its concept - is far from cutting-edge science. In fact, nanotechnology as an idea was first referred to in an influential lecture by American physicist, Richard Feynman, as far back as 1959. During the lecture, entitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic concept of nanotechnology. Individual atoms and molecules, he claimed, could in the future be created by a physical process. Such a process, he envisaged, would involve the building of a set of precise tools to build and operate another proportionally smaller set. The building of increasingly minute tools at the microscopic level would in turn produce ultra-microscopic materials, later to become known as 'nanoparticles'. C Strangely, what should have sparked a scientific revolution was then virtually forgotten about for the next 15 years. In 1974, a Japanese scientist, Norio confer. It may be, however, that opposition to this technology is no more than a general distrust of scientific innovation. In fact, Urban Wiesing from the University of Tubingen has been quoted as saying 'Many of the risks associated with nanotechnology have at least been encountered in part in other technologies as well.' He also believes that regulations can be put in place to minimise such risks. This is a view echoed by the Fed eral Environment Agency that proposes that such risks are vastly outweighed by the potential benefits of nanotechnology, in particular for the environment. Questions 14-18 Questions 19-23 The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18. 14 promising beginnings 15 definition of a revolutionary technology 16 repackaging an old idea 17 dubious attributes 18 the foundation of a new technology Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "overlooked as a science.",
+            "considered to be irrelevant.",
+            "highly unpopular.",
+            "regarded as being revolutionary."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 21,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "Nanoparticles are a product of",
-          "instruction": "Read the text below and answer Questions 14-26. Nanotechnology: its development and uses A Nanotechnology has been hailed by many as being a twentieth-century miracle of science. Essentially, nanotechnology, a term derived from Greek, translating literally as 'dwarf technology' is, as the origin of its name suggests, engineering at the atomic level. Scientists work with particles of substances known as 'nanoparticles' which may measure no more than 1 nanometre or a billionth of a metre. That's around 40,000 times smaller than the width of the average human hair. Whilst some of these substances derived from carbon compounds are manufactured, others, such as metals, are naturally-occurring or arise as a by-product of another process e.g. volcanic ash or smoke from wood burning. What makes these substances of such scientific interest is that their minute size facilitates medical and technological processes that would otherwise be impossible. B It may be something of a revelation for many of us to learn that nanotechnology - or its concept - is far from cutting-edge science. In fact, nanotechnology as an idea was first referred to in an influential lecture by American physicist, Richard Feynman, as far back as 1959. During the lecture, entitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic concept of nanotechnology. Individual atoms and molecules, he claimed, could in the future be created by a physical process. Such a process, he envisaged, would involve the building of a set of precise tools to build and operate another proportionally smaller set. The building of increasingly minute tools at the microscopic level would in turn produce ultra-microscopic materials, later to become known as 'nanoparticles'. C Strangely, what should have sparked a scientific revolution was then virtually forgotten about for the next 15 years. In 1974, a Japanese scientist, Norio confer. It may be, however, that opposition to this technology is no more than a general distrust of scientific innovation. In fact, Urban Wiesing from the University of Tubingen has been quoted as saying 'Many of the risks associated with nanotechnology have at least been encountered in part in other technologies as well.' He also believes that regulations can be put in place to minimise such risks. This is a view echoed by the Fed eral Environment Agency that proposes that such risks are vastly outweighed by the potential benefits of nanotechnology, in particular for the environment. Questions 14-18 Questions 19-23 The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18. 14 promising beginnings 15 definition of a revolutionary technology 16 repackaging an old idea 17 dubious attributes 18 the foundation of a new technology Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "manufacturing processes alone.",
+            "natural and manufactured processes.",
+            "purely biological processes.",
+            "environmental factors alone."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 22,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "Nanotechnology remained a purely theoretical science until",
-          "instruction": "Read the text below and answer Questions 14-26. Nanotechnology: its development and uses A Nanotechnology has been hailed by many as being a twentieth-century miracle of science. Essentially, nanotechnology, a term derived from Greek, translating literally as 'dwarf technology' is, as the origin of its name suggests, engineering at the atomic level. Scientists work with particles of substances known as 'nanoparticles' which may measure no more than 1 nanometre or a billionth of a metre. That's around 40,000 times smaller than the width of the average human hair. Whilst some of these substances derived from carbon compounds are manufactured, others, such as metals, are naturally-occurring or arise as a by-product of another process e.g. volcanic ash or smoke from wood burning. What makes these substances of such scientific interest is that their minute size facilitates medical and technological processes that would otherwise be impossible. B It may be something of a revelation for many of us to learn that nanotechnology - or its concept - is far from cutting-edge science. In fact, nanotechnology as an idea was first referred to in an influential lecture by American physicist, Richard Feynman, as far back as 1959. During the lecture, entitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic concept of nanotechnology. Individual atoms and molecules, he claimed, could in the future be created by a physical process. Such a process, he envisaged, would involve the building of a set of precise tools to build and operate another proportionally smaller set. The building of increasingly minute tools at the microscopic level would in turn produce ultra-microscopic materials, later to become known as 'nanoparticles'. C Strangely, what should have sparked a scientific revolution was then virtually forgotten about for the next 15 years. In 1974, a Japanese scientist, Norio confer. It may be, however, that opposition to this technology is no more than a general distrust of scientific innovation. In fact, Urban Wiesing from the University of Tubingen has been quoted as saying 'Many of the risks associated with nanotechnology have at least been encountered in part in other technologies as well.' He also believes that regulations can be put in place to minimise such risks. This is a view echoed by the Fed eral Environment Agency that proposes that such risks are vastly outweighed by the potential benefits of nanotechnology, in particular for the environment. Questions 14-18 Questions 19-23 The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18. 14 promising beginnings 15 definition of a revolutionary technology 16 repackaging an old idea 17 dubious attributes 18 the foundation of a new technology Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "other technologies caught up with it.",
+            "scientists were better able to understand its practical applications.",
+            "Taniguchi convinced other scientists of its practical value.",
+            "a scientist invented a new technology."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 23,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "Safety concerns about nanotechnology are",
-          "instruction": "Read the text below and answer Questions 14-26. Nanotechnology: its development and uses A Nanotechnology has been hailed by many as being a twentieth-century miracle of science. Essentially, nanotechnology, a term derived from Greek, translating literally as 'dwarf technology' is, as the origin of its name suggests, engineering at the atomic level. Scientists work with particles of substances known as 'nanoparticles' which may measure no more than 1 nanometre or a billionth of a metre. That's around 40,000 times smaller than the width of the average human hair. Whilst some of these substances derived from carbon compounds are manufactured, others, such as metals, are naturally-occurring or arise as a by-product of another process e.g. volcanic ash or smoke from wood burning. What makes these substances of such scientific interest is that their minute size facilitates medical and technological processes that would otherwise be impossible. B It may be something of a revelation for many of us to learn that nanotechnology - or its concept - is far from cutting-edge science. In fact, nanotechnology as an idea was first referred to in an influential lecture by American physicist, Richard Feynman, as far back as 1959. During the lecture, entitled 'There's Plenty of Room at the Bottom', Feynman outlined the basic concept of nanotechnology. Individual atoms and molecules, he claimed, could in the future be created by a physical process. Such a process, he envisaged, would involve the building of a set of precise tools to build and operate another proportionally smaller set. The building of increasingly minute tools at the microscopic level would in turn produce ultra-microscopic materials, later to become known as 'nanoparticles'. C Strangely, what should have sparked a scientific revolution was then virtually forgotten about for the next 15 years. In 1974, a Japanese scientist, Norio confer. It may be, however, that opposition to this technology is no more than a general distrust of scientific innovation. In fact, Urban Wiesing from the University of Tubingen has been quoted as saying 'Many of the risks associated with nanotechnology have at least been encountered in part in other technologies as well.' He also believes that regulations can be put in place to minimise such risks. This is a view echoed by the Fed eral Environment Agency that proposes that such risks are vastly outweighed by the potential benefits of nanotechnology, in particular for the environment. Questions 14-18 Questions 19-23 The text has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, next to questions 14-18. 14 promising beginnings 15 definition of a revolutionary technology 16 repackaging an old idea 17 dubious attributes 18 the foundation of a new technology Choose the correct letter, A, B, C or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "completely unfounded.",
+            "exaggerated by its detractors.",
+            "real but manageable.",
+            "misunderstood."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "turning point",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "universal acceptance",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cell membranes",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 27-40"
+          },
+          {
+            "label": null,
+            "text": "Driverless cars"
+          },
+          {
+            "label": null,
+            "text": "Driverless cars may be set to become reality. At least that is, if the executives\nbehind the taxi app, Uber, are to be believed. Currently, Uber is taking its\nbiggest steps yet towards a driver-free world, launching the Uber Advanced\nTechnologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do\nresearch and development, primarily in the areas of mapping and vehicle\nsafety and autonomy technology'."
+          },
+          {
+            "label": null,
+            "text": "To date, Uber has provided a chauffeur-driven taxi service for American clients.\nVenturing into the realms of driverless cars is therefore a new direction which\nwill require massive investment. It is indeed a huge leap of faith on Uber's part,\nsince technology has yet to catch up with the idea of a fully autonomous\nvehicle. On the as well as stay in lane, and maintain a steady cruising seed. In\na patchwork fashion such cars could eventually build up to almost full\nautomation and Uber believes that car owners will readily embrace the idea of\ndriverless taxis. In Uber's eyes, current car owners only stand to gain by the\nintroduction of such technology. Hiring a driverless cab means that the client\ndoes not have to pay for the cost of the driver in the cab fee. The only cost\nincurred by clients is for fuel, plus wear and tear. It is certainly an attractive\nproposition. Uber stands to benefit, too, since employees currently working as\ntaxi drivers will be removed from the company's payroll. Apparently for car\ndrivers and Uber, it is a win-win situation."
+          },
+          {
+            "label": null,
+            "text": "Not everyone will benefit however from this technology, the car industry being\nan obvious example. Not surprisingly, the industry views the concept of selt-\ndriving cars with a sense of growing alarm. Such technology could well prove\nthe death knell for private car ownership. As a result, the industry is dragging\nits feet over the manufacture and introduction of fully automated vehicles onto"
+          },
+          {
+            "label": null,
+            "text": "the market, due to commercial issues."
+          },
+          {
+            "label": null,
+            "text": "The commercial aspect apart, there is also the safety issue. Whilst a fully\nautomated car could respond to most eventualities in the course of a trip,\nwould it be capable of responding to unforeseen events, such as changes in\nroute or unexpected diversions? Evidently legislative authorities are also of this\nopinion. Currently, no matter how much automation a car has, it still requires a\ndriver with a full licence behind the wheel to drive on public roads. Whilst robot\ndrivers, on the whole, have the upper hand on their human counterparts safety-\nwise, that still does not guarantee that they will become legal. As a consortium\nof researchers put it, 'I self-driving cars cut the roughly 40,000 annual US\ntraffic fatalities in half, the car makers might get not 20,000 thank-you notes,\nbut 20,000 lawsuits.'"
+          },
+          {
+            "label": null,
+            "text": "Interestingly, Uber are now undertaking an aggressive hiring campaign for taxi\ndrivers to meet the demand for their taxi app. It seems that even Uber is less\nthan confident that driverless taxis will soon become a reality. Whether Uber is\nbacking a doomed campaign or instead is about to bring in a technology that\nwill be universally greeted with positivity and acceptance depends entirely on\nyour viewpoint."
+          },
+          {
+            "label": null,
+            "text": "John Reynolds, a Pittsburgh taxi driver, is angry at Uber's attitude on fully\nautomated technology. 'They are completely disregarding individual\nlivelihoods, such as mine, as well as those of big car manufacturers in the\npursuit of money. Admittedly things change and we have to roll with the times,\nbut there should be some safeguards in place to protect those potentially\naffected by the introduction of new technologies. I guess I'm biased, being a\ntaxi driver myself, but it's difficult to see it objectively.'"
+          },
+          {
+            "label": null,
+            "text": "Susie Greenacre, a redident of Pittsburgh, has no such reservations about\ndriverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate\nthe stress of rush-hour traffic| I think if I could just hop in a driverless car which\nwould take me anywhere I wanted I would never want to drive again!'"
+          },
+          {
+            "label": null,
+            "text": "Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to\nagree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful\ndaily commute by car to a driverless one if I had the chance! It just takes the\npressure off driving. I would be slightly wary though, of completely dependent\non a robot-driven car when it comes to having to react to unexpected obstacles\nin the road.'"
+          }
+        ],
+        "text": "Read the text below and answer Questions 27-40\n\nDriverless cars\n\nDriverless cars may be set to become reality. At least that is, if the executives\nbehind the taxi app, Uber, are to be believed. Currently, Uber is taking its\nbiggest steps yet towards a driver-free world, launching the Uber Advanced\nTechnologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do\nresearch and development, primarily in the areas of mapping and vehicle\nsafety and autonomy technology'.\n\nTo date, Uber has provided a chauffeur-driven taxi service for American clients.\nVenturing into the realms of driverless cars is therefore a new direction which\nwill require massive investment. It is indeed a huge leap of faith on Uber's part,\nsince technology has yet to catch up with the idea of a fully autonomous\nvehicle. On the as well as stay in lane, and maintain a steady cruising seed. In\na patchwork fashion such cars could eventually build up to almost full\nautomation and Uber believes that car owners will readily embrace the idea of\ndriverless taxis. In Uber's eyes, current car owners only stand to gain by the\nintroduction of such technology. Hiring a driverless cab means that the client\ndoes not have to pay for the cost of the driver in the cab fee. The only cost\nincurred by clients is for fuel, plus wear and tear. It is certainly an attractive\nproposition. Uber stands to benefit, too, since employees currently working as\ntaxi drivers will be removed from the company's payroll. Apparently for car\ndrivers and Uber, it is a win-win situation.\n\nNot everyone will benefit however from this technology, the car industry being\nan obvious example. Not surprisingly, the industry views the concept of selt-\ndriving cars with a sense of growing alarm. Such technology could well prove\nthe death knell for private car ownership. As a result, the industry is dragging\nits feet over the manufacture and introduction of fully automated vehicles onto\n\nthe market, due to commercial issues.\n\nThe commercial aspect apart, there is also the safety issue. Whilst a fully\nautomated car could respond to most eventualities in the course of a trip,\nwould it be capable of responding to unforeseen events, such as changes in\nroute or unexpected diversions? Evidently legislative authorities are also of this\nopinion. Currently, no matter how much automation a car has, it still requires a\ndriver with a full licence behind the wheel to drive on public roads. Whilst robot\ndrivers, on the whole, have the upper hand on their human counterparts safety-\nwise, that still does not guarantee that they will become legal. As a consortium\nof researchers put it, 'I self-driving cars cut the roughly 40,000 annual US\ntraffic fatalities in half, the car makers might get not 20,000 thank-you notes,\nbut 20,000 lawsuits.'\n\nInterestingly, Uber are now undertaking an aggressive hiring campaign for taxi\ndrivers to meet the demand for their taxi app. It seems that even Uber is less\nthan confident that driverless taxis will soon become a reality. Whether Uber is\nbacking a doomed campaign or instead is about to bring in a technology that\nwill be universally greeted with positivity and acceptance depends entirely on\nyour viewpoint.\n\nJohn Reynolds, a Pittsburgh taxi driver, is angry at Uber's attitude on fully\nautomated technology. 'They are completely disregarding individual\nlivelihoods, such as mine, as well as those of big car manufacturers in the\npursuit of money. Admittedly things change and we have to roll with the times,\nbut there should be some safeguards in place to protect those potentially\naffected by the introduction of new technologies. I guess I'm biased, being a\ntaxi driver myself, but it's difficult to see it objectively.'\n\nSusie Greenacre, a redident of Pittsburgh, has no such reservations about\ndriverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate\nthe stress of rush-hour traffic| I think if I could just hop in a driverless car which\nwould take me anywhere I wanted I would never want to drive again!'\n\nJason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to\nagree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful\ndaily commute by car to a driverless one if I had the chance! It just takes the\npressure off driving. I would be slightly wary though, of completely dependent\non a robot-driven car when it comes to having to react to unexpected obstacles\nin the road.'",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements, 33-37, and the list of people. Match each statement to the correct person, A-C. You may use any letter more than once.",
+          "body": null,
+          "range": [
+            33,
+            37
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "John Reynolds",
+              "Susie Greenacre",
+              "Jason Steiner"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 38-40, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Which of the following statements is accurate?",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Driverless cars conform to safety regulations.",
+            "There is an obvious market for fully automated cars.",
+            "Human drivers are no competition for driverless cars.",
+            "Potentially, fully automated taxis are more cost-effective than normal taxis."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 28,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Uber is investing in a technology that",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "will prove controversial.",
+            "has been tried and tested.",
+            "is unlikely to prove cost-effective.",
+            "will be universally welcomed."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What is NOT true about driverless cars?",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "They have become a reality in many countries.",
+            "They may improve road safety.",
+            "They will reduce the cost of travelling.",
+            "They will endanger jobs."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What can be said about current legislation?",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "It is in favour of driverless cars.",
+            "It currently doesn't favour fully automated cars.",
+            "It is keeping up with technology.",
+            "It already accommodates driverless cars."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 31,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What is the general view held by car manufacturers?",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Driverless cars are more dangerous than non-automated cars.",
+            "Fully automated cars are too expensive to manufacture.",
+            "The introduction of driverless cars will threaten their livelihoods.",
+            "Technology is still too underdeveloped to manufacture driverless cars."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 32,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What can be said about the writer's opinion of driverless cars?",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "He is not really interested, but sceptical, that such a technology will be developed.",
+            "He reserves judgement as to whether fully automated cars will become a reality.",
+            "He believes that such a technology will never become a reality.",
+            "He is critical of Uber's plans to introduce fully automated cars."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "I his person is willing to give up control of their vehicle\nbecause they appreciate the benefits of fully automated cars.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "This person would have no regrets about giving up\ndriving entirely in favour of being driven by a fully automated car.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "This person is aware that the new technology of\ndriverless cars may not provide an adequate substitute for a human\ndriver.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "This person believes that those affected adversely by\nnew technology should be protected from its effects.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "This person enjoys driving but only under favourable\nconditions.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "Driverless technology will have to overcome legal and safety obstacles to become completely viable.",
-          "instruction": "Read the text below and answer Questions 27-40 Driverless cars Driverless cars may be set to become reality. At least that is, if the executives behind the taxi app, Uber, are to be believed. Currently, Uber is taking its biggest steps yet towards a driver-free world, launching the Uber Advanced Technologies Centre in Pittsburgh. The ultimate goal of this institution is to 'do research and development, primarily in the areas of mapping and vehicle safety and autonomy technology'. To date, Uber has provided a chauffeur-driven taxi service for American clients. Venturing into the realms of driverless cars is therefore a new direction which will require massive investment. It is indeed a huge leap of faith on Uber's part, since technology has yet to catch up with the idea of a fully autonomous vehicle. On the as well as stay in lane, and maintain a steady cruising seed. In a patchwork fashion such cars could eventually build up to almost full automation and Uber believes that car owners will readily embrace the idea of driverless taxis. In Uber's eyes, current car owners only stand to gain by the introduction of such technology. Hiring a driverless cab means that the client does not have to pay for the cost of the driver in the cab fee. The only cost incurred by clients is for fuel, plus wear and tear. It is certainly an attractive proposition. Uber stands to benefit, too, since employees currently working as taxi drivers will be removed from the company's payroll. Apparently for car drivers and Uber, it is a win-win situation. Not everyone will benefit however from this technology, the car industry being an obvious example. Not surprisingly, the industry views the concept of selt- driving cars with a sense of growing alarm. Such technology could well prove the death knell for private car ownership. As a result, the industry is dragging its feet over the manufacture and introduction of fully automated vehicles onto automated technology. 'They are completely disregarding individual livelihoods, such as mine, as well as those of big car manufacturers in the pursuit of money. Admittedly things change and we have to roll with the times, but there should be some safeguards in place to protect those potentially affected by the introduction of new technologies. I guess I'm biased, being a taxi driver myself, but it's difficult to see it objectively.' Susie Greenacre, a redident of Pittsburgh, has no such reservations about driverless cars. 'I'm all for it. Driverless cars have my backing, any day! I hate the stress of rush-hour traffic| I think if I could just hop in a driverless car which would take me anywhere I wanted I would never want to drive again!' Jason Steiner, a school teacher in a Pittsburgh secondary school, is inclined to agree with Susie. 'Whilst I'm not averse to driving, I would swap the stressful daily commute by car to a driverless one if I had the chance! It just takes the pressure off driving. I would be slightly wary though, of completely dependent on a robot-driven car when it comes to having to react to unexpected obstacles in the road.' Questions 27-32 Choose the correct letter, A, B, C or D. Look at the following statements, 33-37, and the list of people. Match each statement to the correct person, A-C. You may use any letter more than once. A John Reynolds B Susie Greenacre C Jason Steiner 33 I his person is willing to give up control of their vehicle because they appreciate the benefits of fully automated cars. 34 This person would have no regrets about giving up driving entirely in favour of being driven by a fully automated car. 35 This person is aware that the new technology of driverless cars may not provide an adequate substitute for a human driver. 36 This person believes that those affected adversely by new technology should be protected from its effects. 37 This person enjoys driving but only under favourable conditions. Do the following statements agree with the information given in the text? For questions 38-40, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "Driverless technology will have to overcome legal and\nsafety obstacles to become completely viable.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Uber has shown nothing but complete self-conviction\nin its investment in driverless cars,",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "The safety issues with driverless technology are likely\nto be resolved fairly quickly.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     }

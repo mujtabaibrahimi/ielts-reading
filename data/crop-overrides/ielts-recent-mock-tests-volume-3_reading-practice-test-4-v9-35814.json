@@ -1,0 +1,18 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-9. NB You may use any letter more than once.",
+    "optionBank": {"title": "Paragraphs", "options": ["A", "B", "C", "D", "E", "F", "G"], "labels": []},
+    "questions": {
+      "1": {"prompt": "A description of how otters regulate vision underwater", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "2": {"prompt": "The fit-for-purpose characteristics of otter's body shape", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "3": {"prompt": "A reference to an underdeveloped sense", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "4": {"prompt": "An explanation of why agriculture failed in otter conservation efforts", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "5": {"prompt": "A description of some of the otter's social characteristics", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "6": {"prompt": "A description of how baby otters grow", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "7": {"prompt": "The conflicted opinions on how to preserve", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "8": {"prompt": "A reference to a legislative act", "options": ["A", "B", "C", "D", "E", "F", "G"]},
+      "9": {"prompt": "An explanation of how otters compensate for heat loss", "options": ["A", "B", "C", "D", "E", "F", "G"]}
+    }
+  }
+}

@@ -1,235 +1,1174 @@
 {
   "id": "master-ielts-general-training-volume-1_reading-practice-test-2-v9-1838193",
   "type": "general",
-  "source": "master-ielts-general-training-volume-1 reading-practice-test-2-v9-1838193",
+  "title": "Master IELTS General Training Volume 1 - Reading Test 2",
+  "collection": "Master IELTS General Training Volume 1",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-1_reading-practice-test-2-v9-1838193.pdf",
-  "total_questions": 9,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Telephone numbers of resident support",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nTelephone numbers of resident support\nservices",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "Need help with ...",
-                "Number to\ndial"
-              ],
-              [
-                "Your work\nProblems with your work\ne.g. pay, tax, hours, contracts",
-                "156"
-              ]
-            ],
-            "header": [
-              "Need help with ...",
-              "Number to\ndial"
-            ]
+            "label": null,
+            "text": "Telephone numbers of resident support\nservices"
           },
           {
-            "page": 4,
-            "rows": [
-              [
-                "Money worries\nopening a bank account, overdraft, borrowing money, debts, overdue\nbills",
-                "143",
-                ""
-              ],
-              [
-                "Communication\naccess to email and other computer platforms, cheap phone cards and\nphone lines, using the post office",
-                "102",
-                null
-              ],
-              [
-                "Health\naccidents and emergencies, check-ups, dentist, depression and mental\nhealth",
-                "146",
-                null
-              ],
-              [
-                "Everyday living\nwashing your clothes, where to eat, shopping, opening hours, keeping\nyour room clean",
-                "133",
-                null
-              ],
-              [
-                "Free time, hobbies and interests\nclubs, social activities, volunteering, meeting spots",
-                "158",
-                null
-              ],
-              [
-                "Sports\ngym, football, cycling, mountaineering, racquet sports, swimming, keep-\nfit",
-                "144",
-                null
-              ],
-              [
-                "Papers, papers, papers\nproblems with bureaucracy e.g. paying bills, booking accommodation,\nlegal advice",
-                "103",
-                null
-              ],
-              [
-                "Language support\ntranslation services and facilities, extra English classes, on-line support",
-                "105",
-                null
-              ],
-              [
-                "Adapting\ndealing with new people, new places, culture shock, loneliness—a\nfriendly voice to help you with your problems",
-                "104",
-                null
-              ],
-              [
-                "Religion\ninformation on services available, venues",
-                "157",
-                null
-              ],
-              [
-                "Personal tutor\nall hostel residents are given a personal tutor who they can talk to about\nanything concerning them",
-                "116",
-                null
-              ]
-            ],
-            "header": [
-              "Money worries\nopening a bank account, overdraft, borrowing money, debts, overdue\nbills",
-              "143",
-              ""
-            ]
+            "label": null,
+            "text": "Read the advertisements below and answer Questions 1-4."
           },
           {
-            "page": 5,
-            "rows": [
-              [
-                "",
-                ""
-              ],
-              [
-                "Read the text below and answer Questions 11-14.\nGiving personal information in job interviews\nWhen attending a job interview, you are often asked to provide personal details,\nparticularly about your work experience. Before the interview, it’s a good idea to:\nPrepare answers to questions that you think the interviewer might ask.\nThink of examples that demonstrate your achievements at work or school, and how\nyou have dealt with challenging situations.\nReflect on your personal strengths and weaknesses, and how you would describe your\npersonality.\nMake sure you are familiar with the correct English expressions to describe your past\nexperience.\nConsider the type of person the interviewer is seeking. Put yourself in their position\nand ask why they should select you over other candidates.\nThe interviewer will also want to learn about your personal qualities. These are some\nexamples of the kind of person they may be looking for:\nA team player\nFriendly and approachable\nReliable and long-term oriented\nHard-working\nGood communication skills\nHonest\nBusiness-minded\nFlexible\nQuestions 1-4\nLook at the six classified job advertisements, A-F.\nWrite the correct letter, A-F, in boxes 1-4 below.\nNB You may use any letter more than once.\nWhich person wants a teaching job?\n1\nWhich two people mention their foreign language skills? (Example: A, B)",
-                null
-              ]
-            ],
-            "header": [
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "Job Wanted"
+          },
+          {
+            "label": null,
+            "text": "A. I am a 25-year-old nanny with 6 years experience in childcare with babies, toddlers\nand older children. I also worked with newborn babies in a hospital. I have checkable\nreferences, a childcare certificate, police check and a First Aid Certificate. I am a driver\nand non-smoker. I have lived in Berlin for more than 7 years; my English and Spanish\nare very good.\nI am looking for a live-in nanny job in Madrid from November. If you need a loving,\ncaring, responsible person to look after your children and teach them English, please\ncontact me by email or by phone."
+          },
+          {
+            "label": null,
+            "text": "B. Australian woman 32yrs, experienced PA, seeks job in Malaysia. Available end May.\nBilingual in English and French. Partner: French. Work as a couple possible. Email: ..."
+          },
+          {
+            "label": null,
+            "text": "C. Indian web publisher seeks work: Website design, desktop publishing, book layout,\ngraphic design. Part time or contract. Experienced, skilled, reliable. Contact: ..."
+          },
+          {
+            "label": null,
+            "text": "D. I have experience within banking, hotels, local government and manufacturing - all\nmostly working in administration type roles with vast experience of Microsoft packages,\nSage and a range of other bespoke systems.\nI look forward to any replies or guidance. Contact: ..."
+          },
+          {
+            "label": null,
+            "text": "E. Driving job needed"
+          },
+          {
+            "label": null,
+            "text": "- Highly skilled driver, over 25\n- Have held full clean Class C1 licence for 10 years\n- Know London extremely well\n- Willing to do physical work such as loading trucks\n- Want full time work\n- Contact: ..."
+          },
+          {
+            "label": null,
+            "text": "F. Science and Maths lessons given. Experienced tutor, specialising in helping\nsecondary school students with their state exams.\nDegree in Physics.\nEmail: ..."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 5-10."
+          },
+          {
+            "label": null,
+            "text": "Telephone numbers of resident support services"
+          },
+          {
+            "label": null,
+            "text": "Need help with ...\nNumber to\ndial"
+          },
+          {
+            "label": null,
+            "text": "Your work"
+          },
+          {
+            "label": null,
+            "text": "Problems with your work"
+          },
+          {
+            "label": null,
+            "text": "156"
+          },
+          {
+            "label": null,
+            "text": "e.g. pay, tax, hours, contracts"
+          },
+          {
+            "label": null,
+            "text": "Money worries"
+          },
+          {
+            "label": null,
+            "text": "opening a bank account, overdraft, borrowing money, debts, overdue\nbills"
+          },
+          {
+            "label": null,
+            "text": "143"
+          },
+          {
+            "label": null,
+            "text": "Communication"
+          },
+          {
+            "label": null,
+            "text": "access to email and other computer platforms, cheap phone cards and\nphone lines, using the post office"
+          },
+          {
+            "label": null,
+            "text": "102"
+          },
+          {
+            "label": null,
+            "text": "Health"
+          },
+          {
+            "label": null,
+            "text": "accidents and emergencies, check-ups, dentist, depression and mental\nhealth"
+          },
+          {
+            "label": null,
+            "text": "146"
+          },
+          {
+            "label": null,
+            "text": "Everyday living"
+          },
+          {
+            "label": null,
+            "text": "washing your clothes, where to eat, shopping, opening hours, keeping\nyour room clean"
+          },
+          {
+            "label": null,
+            "text": "133"
+          },
+          {
+            "label": null,
+            "text": "Free time, hobbies and interests"
+          },
+          {
+            "label": null,
+            "text": "clubs, social activities, volunteering, meeting spots\n158"
+          },
+          {
+            "label": null,
+            "text": "Sports"
+          },
+          {
+            "label": null,
+            "text": "gym, football, cycling, mountaineering, racquet sports, swimming, keep-\nfit"
+          },
+          {
+            "label": null,
+            "text": "144"
+          },
+          {
+            "label": null,
+            "text": "Papers, papers, papers"
+          },
+          {
+            "label": null,
+            "text": "problems with bureaucracy e.g. paying bills, booking accommodation,\nlegal advice"
+          },
+          {
+            "label": null,
+            "text": "103"
+          },
+          {
+            "label": null,
+            "text": "Language support"
+          },
+          {
+            "label": null,
+            "text": "translation services and facilities, extra English classes, on-line support\n105"
+          },
+          {
+            "label": null,
+            "text": "Adapting"
+          },
+          {
+            "label": null,
+            "text": "dealing with new people, new places, culture shock, loneliness-a\nfriendly voice to help you with your problems"
+          },
+          {
+            "label": null,
+            "text": "104"
+          },
+          {
+            "label": null,
+            "text": "Religion"
+          },
+          {
+            "label": null,
+            "text": "information on services available, venues\n157"
+          },
+          {
+            "label": null,
+            "text": "Personal tutor"
+          },
+          {
+            "label": null,
+            "text": "all hostel residents are given a personal tutor who they can talk to about\nanything concerning them"
+          },
+          {
+            "label": null,
+            "text": "116"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 11-14."
+          },
+          {
+            "label": null,
+            "text": "Giving personal information in job interviews"
+          },
+          {
+            "label": null,
+            "text": "When attending a job interview, you are often asked to provide personal details,\nparticularly about your work experience. Before the interview, it's a good idea to:"
+          },
+          {
+            "label": null,
+            "text": "Prepare answers to questions that you think the interviewer might ask.\nThink of examples that demonstrate your achievements at work or school, and how\nyou have dealt with challenging situations.\nReflect on your personal strengths and weaknesses, and how you would describe your\npersonality.\nMake sure you are familiar with the correct English expressions to describe your past\nexperience.\nConsider the type of person the interviewer is seeking. Put yourself in their position\nand ask why they should select you over other candidates."
+          },
+          {
+            "label": null,
+            "text": "The interviewer will also want to learn about your personal qualities. These are some\nexamples of the kind of person they may be looking for:"
+          },
+          {
+            "label": null,
+            "text": "A team player\nFriendly and approachable\nReliable and long-term oriented\nHard-working\nGood communication skills\nHonest\nBusiness-minded\nFlexible"
           }
         ],
+        "text": "Telephone numbers of resident support\nservices\n\nRead the advertisements below and answer Questions 1-4.\n\nJob Wanted\n\nA. I am a 25-year-old nanny with 6 years experience in childcare with babies, toddlers\nand older children. I also worked with newborn babies in a hospital. I have checkable\nreferences, a childcare certificate, police check and a First Aid Certificate. I am a driver\nand non-smoker. I have lived in Berlin for more than 7 years; my English and Spanish\nare very good.\nI am looking for a live-in nanny job in Madrid from November. If you need a loving,\ncaring, responsible person to look after your children and teach them English, please\ncontact me by email or by phone.\n\nB. Australian woman 32yrs, experienced PA, seeks job in Malaysia. Available end May.\nBilingual in English and French. Partner: French. Work as a couple possible. Email: ...\n\nC. Indian web publisher seeks work: Website design, desktop publishing, book layout,\ngraphic design. Part time or contract. Experienced, skilled, reliable. Contact: ...\n\nD. I have experience within banking, hotels, local government and manufacturing - all\nmostly working in administration type roles with vast experience of Microsoft packages,\nSage and a range of other bespoke systems.\nI look forward to any replies or guidance. Contact: ...\n\nE. Driving job needed\n\n- Highly skilled driver, over 25\n- Have held full clean Class C1 licence for 10 years\n- Know London extremely well\n- Willing to do physical work such as loading trucks\n- Want full time work\n- Contact: ...\n\nF. Science and Maths lessons given. Experienced tutor, specialising in helping\nsecondary school students with their state exams.\nDegree in Physics.\nEmail: ...\n\nRead the text below and answer Questions 5-10.\n\nTelephone numbers of resident support services\n\nNeed help with ...\nNumber to\ndial\n\nYour work\n\nProblems with your work\n\n156\n\ne.g. pay, tax, hours, contracts\n\nMoney worries\n\nopening a bank account, overdraft, borrowing money, debts, overdue\nbills\n\n143\n\nCommunication\n\naccess to email and other computer platforms, cheap phone cards and\nphone lines, using the post office\n\n102\n\nHealth\n\naccidents and emergencies, check-ups, dentist, depression and mental\nhealth\n\n146\n\nEveryday living\n\nwashing your clothes, where to eat, shopping, opening hours, keeping\nyour room clean\n\n133\n\nFree time, hobbies and interests\n\nclubs, social activities, volunteering, meeting spots\n158\n\nSports\n\ngym, football, cycling, mountaineering, racquet sports, swimming, keep-\nfit\n\n144\n\nPapers, papers, papers\n\nproblems with bureaucracy e.g. paying bills, booking accommodation,\nlegal advice\n\n103\n\nLanguage support\n\ntranslation services and facilities, extra English classes, on-line support\n105\n\nAdapting\n\ndealing with new people, new places, culture shock, loneliness-a\nfriendly voice to help you with your problems\n\n104\n\nReligion\n\ninformation on services available, venues\n157\n\nPersonal tutor\n\nall hostel residents are given a personal tutor who they can talk to about\nanything concerning them\n\n116\n\nRead the text below and answer Questions 11-14.\n\nGiving personal information in job interviews\n\nWhen attending a job interview, you are often asked to provide personal details,\nparticularly about your work experience. Before the interview, it's a good idea to:\n\nPrepare answers to questions that you think the interviewer might ask.\nThink of examples that demonstrate your achievements at work or school, and how\nyou have dealt with challenging situations.\nReflect on your personal strengths and weaknesses, and how you would describe your\npersonality.\nMake sure you are familiar with the correct English expressions to describe your past\nexperience.\nConsider the type of person the interviewer is seeking. Put yourself in their position\nand ask why they should select you over other candidates.\n\nThe interviewer will also want to learn about your personal qualities. These are some\nexamples of the kind of person they may be looking for:\n\nA team player\nFriendly and approachable\nReliable and long-term oriented\nHard-working\nGood communication skills\nHonest\nBusiness-minded\nFlexible",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Look at the six classified job advertisements, A-F. Write the correct letter, A-F, in boxes 1-4 below. NB You may use any letter more than once. Which person wants a teaching job? 1 Which two people mention their foreign language skills? (Example: A, B)",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-1_reading-practice-test-2-v9-1838193/p1g1-1.png",
+              "w": 982,
+              "h": 334
+            },
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-1_reading-practice-test-2-v9-1838193/p1g1-2.png",
+              "w": 982,
+              "h": 244
+            }
+          ],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Write the correct telephone numbers in boxes 5-10. NB You may use any number more than once. What number should you dial if ... you don't know where to buy something you need?",
+          "body": "[[5]] you suddenly feel very ill? [[6]] you are having problems getting used to being in another country? [[7]] you don't understand the procedure for finding a place to stay? [[8]] you want to do some exercise? [[9]] you don't know if your salary is right? [[10]]",
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 11-14. What personal information are employers particularly interested in?",
+          "body": "[[11]] What should you reflect on before describing your personality? [[12]] What may the interviewer want to learn about a candidate besides work experience? [[13]] Which quality do the interviewers look for that helps you share information clearly with others? [[14]]",
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
           "number": 2,
-          "type": "fill-in-blank",
-          "prompt": "Who would be willing to do part-time work?",
-          "instruction": "Read the advertisements below and answer Questions 1-4. Job Wanted Read the text below and answer Questions 5-10. Telephone numbers of resident support services Need help with ... Number to dial Your work Problems with your work e.g. pay, tax, hours, contracts 156 Read the text below and answer Questions 11-14. Giving personal information in job interviews When attending a job interview, you are often asked to provide personal details, particularly about your work experience. Before the interview, it’s a good idea to: Prepare answers to questions that you think the interviewer might ask. Think of examples that demonstrate your achievements at work or school, and how you have dealt with challenging situations. Reflect on your personal strengths and weaknesses, and how you would describe your personality. Make sure you are familiar with the correct English expressions to describe your past experience. Consider the type of person the interviewer is seeking. Put yourself in their position and ask why they should select you over other candidates. The interviewer will also want to learn about your personal qualities. These are some examples of the kind of person they may be looking for: A team player Friendly and approachable Reliable and long-term oriented Hard-working Good communication skills Honest Business-minded Flexible Questions 1-4 Look at the six classified job advertisements, A-F. Write the correct letter, A-F, in boxes 1-4 below. NB You may use any letter more than once. Which person wants a teaching job? 1 Which two people mention their foreign language skills? (Example: A, B)",
-          "answer": "A,B"
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B",
+          "trap": null
         },
         {
           "number": 3,
           "type": "matching-features",
-          "prompt": "Which two people describe their personal qualities?",
-          "instruction": "Read the advertisements below and answer Questions 1-4. Job Wanted Read the text below and answer Questions 5-10. Telephone numbers of resident support services Need help with ... Number to dial Your work Problems with your work e.g. pay, tax, hours, contracts 156 Read the text below and answer Questions 11-14. Giving personal information in job interviews When attending a job interview, you are often asked to provide personal details, particularly about your work experience. Before the interview, it’s a good idea to: Prepare answers to questions that you think the interviewer might ask. Think of examples that demonstrate your achievements at work or school, and how you have dealt with challenging situations. Reflect on your personal strengths and weaknesses, and how you would describe your personality. Make sure you are familiar with the correct English expressions to describe your past experience. Consider the type of person the interviewer is seeking. Put yourself in their position and ask why they should select you over other candidates. The interviewer will also want to learn about your personal qualities. These are some examples of the kind of person they may be looking for: A team player Friendly and approachable Reliable and long-term oriented Hard-working Good communication skills Honest Business-minded Flexible Questions 1-4 Look at the six classified job advertisements, A-F. Write the correct letter, A-F, in boxes 1-4 below. NB You may use any letter more than once. Which person wants a teaching job? 1 Which two people mention their foreign language skills? (Example: A, B)",
-          "answer": "C"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 4,
-          "type": "fill-in-blank",
-          "prompt": "Answer the questions below. Write the correct telephone numbers in boxes 5-10. NB You may use any number more than once. What number should you dial if ...",
-          "instruction": "Read the advertisements below and answer Questions 1-4. Job Wanted Read the text below and answer Questions 5-10. Telephone numbers of resident support services Need help with ... Number to dial Your work Problems with your work e.g. pay, tax, hours, contracts 156 Read the text below and answer Questions 11-14. Giving personal information in job interviews When attending a job interview, you are often asked to provide personal details, particularly about your work experience. Before the interview, it’s a good idea to: Prepare answers to questions that you think the interviewer might ask. Think of examples that demonstrate your achievements at work or school, and how you have dealt with challenging situations. Reflect on your personal strengths and weaknesses, and how you would describe your personality. Make sure you are familiar with the correct English expressions to describe your past experience. Consider the type of person the interviewer is seeking. Put yourself in their position and ask why they should select you over other candidates. The interviewer will also want to learn about your personal qualities. These are some examples of the kind of person they may be looking for: A team player Friendly and approachable Reliable and long-term oriented Hard-working Good communication skills Honest Business-minded Flexible Questions 1-4 Look at the six classified job advertisements, A-F. Write the correct letter, A-F, in boxes 1-4 below. NB You may use any letter more than once. Which person wants a teaching job? 1 Which two people mention their foreign language skills? (Example: A, B)",
-          "answer": "A,C"
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "133",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "146",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "104",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "103",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "144",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "156",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(your) work experience",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "strengths and weaknesses",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(your) personal qualities",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(good) communication skills",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Accommodation for temporary summer",
+      "title": "Reading Passage 2",
       "questionRange": [
-        1,
-        6
+        15,
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nAccommodation for temporary summer\nstaff",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Accommodation for temporary summer\nstaff"
+          },
+          {
+            "label": null,
+            "text": "Read offer our summer staff below and answer Questions 1-6"
+          },
+          {
+            "label": null,
+            "text": "We offer our summer staff two kinds of accommodation."
+          },
+          {
+            "label": null,
+            "text": "Staying with a family"
+          },
+          {
+            "label": null,
+            "text": "You can stay in the home of a local family. All our families are carefully chosen and will\nprovide you with a single bedroom. If you have any special dietary requirements we,\ntogether with the family, will make sure your needs are met. This year, staying with a\nfamily costs £ 150 per week for half board i.e. breakfast and evening meal. There are\nmany advantages of staying with a family: the first is experiencing the culture, seeing\nfrom the inside how people live in another country. The others, of course, are making\nlocal friends and having opportunities for language practice."
+          },
+          {
+            "label": null,
+            "text": "Residential accommodation"
+          },
+          {
+            "label": null,
+            "text": "If you prefer, you could stay in residential accommodation. This is on the site of the local\nTourist Training Institute. It provides individual study bedrooms with en-suite shower\nfacilities and a fully equipped kitchen which you share with other summer workers who\nwill be living in the eight rooms in your block. This option costs £90 per week, including\nthe room, bed linen and towels, and weekly cleaning. It does not include\nfood. In the vicinity of the Institute there are many good, cheap cafes and restaurants,\nor you could buy food and cook for yourself. On the site, you have access to TV lounges,\ntennis courts and a swimming pool.\nIf your job application is accepted you will be sent a form for you to complete telling us\nwhich accommodation you require, and giving your bank details etc."
+          },
+          {
+            "label": null,
+            "text": "Read the text and answer Questions 7-13."
+          },
+          {
+            "label": null,
+            "text": "McDonald Industrial Training Centre"
+          },
+          {
+            "label": null,
+            "text": "A. Lincoln"
+          },
+          {
+            "label": null,
+            "text": "Our training centre is based in the city of Lincoln, close to Hull, Sheffield, Nottingham\nand the east coast. Over the centuries, Lincoln's geographic position helped it grow into\na well-known market town in the Middle Ages and later into an important industrial\ncentre. Nowadays, with a population of approximately 120,000, Lincoln is a bustling,\nenergetic city, thriving on its recent developments such as IT and the new university as\nwell as its many tourist attractions such as the cathedral, the castle, the Roman remains\nand its medieval houses. And we must not forget its strong cultural life. Lincoln offers,\namong other things, theatre, film and archaeology, a famous Christmas market and\nmany events and activities geared towards teenagers and those in their twenties."
+          },
+          {
+            "label": null,
+            "text": "B. Around Lincoln"
+          },
+          {
+            "label": null,
+            "text": "Apart from all the many attractions of the town itself, Lincoln is surrounded by beautiful\ncountryside, and the sea is within easy reach. Nearby too are famous country houses ,\nimportant nature reserves and historical seaside resorts. You can go seal-spotting, bird\nwatching and swimming in the sea in just one day. All this helps to put Lincoln and\nLincolnshire among the most attractive tourist destinations in the UK."
+          },
+          {
+            "label": null,
+            "text": "C. McDonald Training Centre"
+          },
+          {
+            "label": null,
+            "text": "Our newly built training centre is about 3 miles outside Lincoln with which it has\nexcellent transport links. It comprises lecture and seminar rooms, laboratories,\nworkshops, accommodation and leisure facilities such as a cinema and a bowling alley,\nwhich are open to the public. It has already won prizes for its outstanding architecture\nand is surrounded by beautiful woodland."
+          },
+          {
+            "label": null,
+            "text": "D. Accommodation"
+          },
+          {
+            "label": null,
+            "text": "All trainees have single accommodation in residences. This consists of a study bedroom\nwith a private en-suite bathroom. The bedrooms are fully furnished, centrally heated\nand air-conditioned. Please note that towels and bed-linen are not provided. There are\nalso shared kitchens, which are equipped with fridge, freezer and oven or microwave;\ntrainees need to provide their own cooking \" utensils, crockery and cutlery.\nThe residential accommodation is 2 minutes walk from the training facilities and 5\nminutes from bus stops."
+          }
+        ],
+        "text": "Accommodation for temporary summer\nstaff\n\nRead offer our summer staff below and answer Questions 1-6\n\nWe offer our summer staff two kinds of accommodation.\n\nStaying with a family\n\nYou can stay in the home of a local family. All our families are carefully chosen and will\nprovide you with a single bedroom. If you have any special dietary requirements we,\ntogether with the family, will make sure your needs are met. This year, staying with a\nfamily costs £ 150 per week for half board i.e. breakfast and evening meal. There are\nmany advantages of staying with a family: the first is experiencing the culture, seeing\nfrom the inside how people live in another country. The others, of course, are making\nlocal friends and having opportunities for language practice.\n\nResidential accommodation\n\nIf you prefer, you could stay in residential accommodation. This is on the site of the local\nTourist Training Institute. It provides individual study bedrooms with en-suite shower\nfacilities and a fully equipped kitchen which you share with other summer workers who\nwill be living in the eight rooms in your block. This option costs £90 per week, including\nthe room, bed linen and towels, and weekly cleaning. It does not include\nfood. In the vicinity of the Institute there are many good, cheap cafes and restaurants,\nor you could buy food and cook for yourself. On the site, you have access to TV lounges,\ntennis courts and a swimming pool.\nIf your job application is accepted you will be sent a form for you to complete telling us\nwhich accommodation you require, and giving your bank details etc.\n\nRead the text and answer Questions 7-13.\n\nMcDonald Industrial Training Centre\n\nA. Lincoln\n\nOur training centre is based in the city of Lincoln, close to Hull, Sheffield, Nottingham\nand the east coast. Over the centuries, Lincoln's geographic position helped it grow into\na well-known market town in the Middle Ages and later into an important industrial\ncentre. Nowadays, with a population of approximately 120,000, Lincoln is a bustling,\nenergetic city, thriving on its recent developments such as IT and the new university as\nwell as its many tourist attractions such as the cathedral, the castle, the Roman remains\nand its medieval houses. And we must not forget its strong cultural life. Lincoln offers,\namong other things, theatre, film and archaeology, a famous Christmas market and\nmany events and activities geared towards teenagers and those in their twenties.\n\nB. Around Lincoln\n\nApart from all the many attractions of the town itself, Lincoln is surrounded by beautiful\ncountryside, and the sea is within easy reach. Nearby too are famous country houses ,\nimportant nature reserves and historical seaside resorts. You can go seal-spotting, bird\nwatching and swimming in the sea in just one day. All this helps to put Lincoln and\nLincolnshire among the most attractive tourist destinations in the UK.\n\nC. McDonald Training Centre\n\nOur newly built training centre is about 3 miles outside Lincoln with which it has\nexcellent transport links. It comprises lecture and seminar rooms, laboratories,\nworkshops, accommodation and leisure facilities such as a cinema and a bowling alley,\nwhich are open to the public. It has already won prizes for its outstanding architecture\nand is surrounded by beautiful woodland.\n\nD. Accommodation\n\nAll trainees have single accommodation in residences. This consists of a study bedroom\nwith a private en-suite bathroom. The bedrooms are fully furnished, centrally heated\nand air-conditioned. Please note that towels and bed-linen are not provided. There are\nalso shared kitchens, which are equipped with fridge, freezer and oven or microwave;\ntrainees need to provide their own cooking \" utensils, crockery and cutlery.\nThe residential accommodation is 2 minutes walk from the training facilities and 5\nminutes from bus stops.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions below. Choose NO MORE THAN FOUR WORDS AND/OR NUMBERS from the text for each answer Write your answers In boxes 15-20 on your answer sheet. . What kind of room do you get when staying with families?",
+          "body": "[[15]] What meals are included in the price? [[16]] Name one advantage of staying with a family. [[17]] What private facility does a residential bedroom offer? [[18]] Who do you share the residential accommodation with? [[19]] Name a room you can use with other occupants. [[20]]",
+          "range": [
+            15,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has four sections, A-D. Which section mentions the following? Write the correct letter A-D in the boxes 21-27 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            21,
+            27
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "(a) (single) bedroom",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "breakfast (and) evening meal",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "experiencing the culture/making local friends/opportunities for language practice",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "(en-suite) shower facilities",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "(other) workers",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "(a) (fully-equipped) kitchen",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "very old buildings",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "somewhere to cook",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "the history of a place",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "things for young people to do",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "an outdoor leisure activity",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "interesting looking buildings",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "what trainees need to bring with them",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 28-40"
+          },
+          {
+            "label": null,
+            "text": "You and your CV"
+          },
+          {
+            "label": null,
+            "text": "Your CV is possibly your most important tool in your\nsearch to find the right job."
+          },
+          {
+            "label": null,
+            "text": "It is the first thing a future employer sees about you, and if it's not right, may\nbe the last. An employer will do no more than glance at your CV - it's estimated\nthat most employers spend more than twenty seconds looking at each CV, so\nyou have very little time to make the impression. Here's some advice to help\nyou make the most of those twenty seconds."
+          },
+          {
+            "label": null,
+            "text": "What it should look like"
+          },
+          {
+            "label": null,
+            "text": "The first rule of all CVs is keep them clear and simple - anything complicated or\nlong tends to get rejected instantly. Achieving that is a matter of making good\nuse of lists, bullet points and note form, and of keeping your CV to the right\nlength. There are no fixed rules on how long it should be, and it will vary, of\ncourse, according to your age, experience, etc., but keep it to one page if you\ncan - this length is convenient for your reader to work with."
+          },
+          {
+            "label": null,
+            "text": "As for style, there are different kinds of layouts you can follow - look at the\nexamples on this site to see which one you prefer - but the basic rule is to use\nheadings well to signal clearly where all the relevant information is. Make sure\nyou include these sections: qualifications, skills, education, work experience,\nreferences, personal interests/hobbies, personal qualities, then label them"
+          },
+          {
+            "label": null,
+            "text": "clearly so that your prospective employer can find the information they want\nquickly and easily."
+          },
+          {
+            "label": null,
+            "text": "Content"
+          },
+          {
+            "label": null,
+            "text": "CVs tend to follow a fixed order. They start with your personal details such as\nname, address and contact details, then go on to personal qualities such as\nthose things in your personality that might attract an employer e.g.\nconscientious, adventurous, punctual, etc., and your career goals."
+          },
+          {
+            "label": null,
+            "text": "After this comes the main part of your CV starting with education, then work\nexperience. Use reverse chronological order to list these, starting with what\nyou're doing now. It's most common to go back no more than 10 years. Give\nyour job details such as job titles, the names of the organisations you worked\nfor, an outline of your job duties and then note your particular achievements."
+          },
+          {
+            "label": null,
+            "text": "Then go on to your personal interests and finish up with the details of some\ngood, reliable referees. Your future employer may not follow up on these, but\nthey do make an impression."
+          },
+          {
+            "label": null,
+            "text": "Do's and don'ts"
+          },
+          {
+            "label": null,
+            "text": "A glance at your CV should create a good impression. Don't make spelling\nmistakes, and don't send in anything crumpled or with coffee stains on it.\nAnything like that leads to instant rejection. Use good quality A4 paper and\ndon't send in anything other than a cover letter. Diplomas, testimonials, etc.,\nwill be requested later ~ they're interested in you."
+          },
+          {
+            "label": null,
+            "text": "When you think you've finished writing your CV, read it over very carefully.\nCheck your full stops, use of bullets, indentation, use of capital letters, etc. And\nnever include in your CV anything that's not true. It's very easy for an\nemployer to check, and if your CV doesn't match what they find out, then your\nchances of getting that job are probably gone."
+          },
+          {
+            "label": null,
+            "text": "Finally, carry out the instructions in the job ad very carefully. If they require\nthree copies, then send them three copies, not two or four. Make sure you\nmeet the deadline too, and put the right stamp on your envelope. You'll need\nto accompany your CV with a cover letter. This should be tailored to each job\nyou apply for. Follow the link below for advice on how to write a cover letter."
+          },
+          {
+            "label": null,
+            "text": "And last of all \"Good luck\"!"
+          },
+          {
+            "label": null,
+            "text": "Remember to include:\n- Career history\n- Skills and strengths"
+          },
+          {
+            "label": null,
+            "text": "- Awards and achievements\n- Contact details"
+          }
+        ],
+        "text": "Read the text below and answer questions 28-40\n\nYou and your CV\n\nYour CV is possibly your most important tool in your\nsearch to find the right job.\n\nIt is the first thing a future employer sees about you, and if it's not right, may\nbe the last. An employer will do no more than glance at your CV - it's estimated\nthat most employers spend more than twenty seconds looking at each CV, so\nyou have very little time to make the impression. Here's some advice to help\nyou make the most of those twenty seconds.\n\nWhat it should look like\n\nThe first rule of all CVs is keep them clear and simple - anything complicated or\nlong tends to get rejected instantly. Achieving that is a matter of making good\nuse of lists, bullet points and note form, and of keeping your CV to the right\nlength. There are no fixed rules on how long it should be, and it will vary, of\ncourse, according to your age, experience, etc., but keep it to one page if you\ncan - this length is convenient for your reader to work with.\n\nAs for style, there are different kinds of layouts you can follow - look at the\nexamples on this site to see which one you prefer - but the basic rule is to use\nheadings well to signal clearly where all the relevant information is. Make sure\nyou include these sections: qualifications, skills, education, work experience,\nreferences, personal interests/hobbies, personal qualities, then label them\n\nclearly so that your prospective employer can find the information they want\nquickly and easily.\n\nContent\n\nCVs tend to follow a fixed order. They start with your personal details such as\nname, address and contact details, then go on to personal qualities such as\nthose things in your personality that might attract an employer e.g.\nconscientious, adventurous, punctual, etc., and your career goals.\n\nAfter this comes the main part of your CV starting with education, then work\nexperience. Use reverse chronological order to list these, starting with what\nyou're doing now. It's most common to go back no more than 10 years. Give\nyour job details such as job titles, the names of the organisations you worked\nfor, an outline of your job duties and then note your particular achievements.\n\nThen go on to your personal interests and finish up with the details of some\ngood, reliable referees. Your future employer may not follow up on these, but\nthey do make an impression.\n\nDo's and don'ts\n\nA glance at your CV should create a good impression. Don't make spelling\nmistakes, and don't send in anything crumpled or with coffee stains on it.\nAnything like that leads to instant rejection. Use good quality A4 paper and\ndon't send in anything other than a cover letter. Diplomas, testimonials, etc.,\nwill be requested later ~ they're interested in you.\n\nWhen you think you've finished writing your CV, read it over very carefully.\nCheck your full stops, use of bullets, indentation, use of capital letters, etc. And\nnever include in your CV anything that's not true. It's very easy for an\nemployer to check, and if your CV doesn't match what they find out, then your\nchances of getting that job are probably gone.\n\nFinally, carry out the instructions in the job ad very carefully. If they require\nthree copies, then send them three copies, not two or four. Make sure you\nmeet the deadline too, and put the right stamp on your envelope. You'll need\nto accompany your CV with a cover letter. This should be tailored to each job\nyou apply for. Follow the link below for advice on how to write a cover letter.\n\nAnd last of all \"Good luck\"!\n\nRemember to include:\n- Career history\n- Skills and strengths\n\n- Awards and achievements\n- Contact details",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            28,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 31-34 on your answer sheet.",
+          "body": "How to write your CV. Your CV should follow this progression: Stage 1: Name, address, contact details. Stage 2: Personal [[31]]: including relevant personality strengths, and immediate career goals. Stage 3: Education. Stage 4: Work experience (now to [[32]] years ago; including job details and [[33]]). Stage 5: [[34]]. Stage 6: References.",
+          "range": [
+            31,
+            34
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary in the box with words (A-K) below. Write the correct letters for your answers in boxes 35-40 on your answer sheet. A deliver B ensure C customise D look E let F listen to G fit H check for I accompany J attach K follow Advice on writing CVs The article advises people to:",
+          "body": "' make sure their CVs [[35]] good ' [[36]] spelling mistakes ' not to [[37]] any other documents ' [[38]] them on time ' [[39]] a covering letter for each job ' [[40]] the instructions of the job advert",
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "true-false-not-given",
+          "groupId": "p3g1",
           "prompt": "CVs are essential when applying for jobs.",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 29,
           "type": "true-false-not-given",
+          "groupId": "p3g1",
           "prompt": "Employers spend a long time reading applicants' CVs.",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 30,
           "type": "true-false-not-given",
-          "prompt": "The style of CVs varies from country to country. Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer.",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g1",
+          "prompt": "The style of CVs varies from country to country.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "qualities",
+          "trap": null
         },
         {
           "number": 32,
-          "type": "matching-features",
-          "prompt": "years ago; including job details and",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. How to write your CV Your CV should follow this progression: Name, address, contact details Personal 31 : including relevant personality strengths, and immediate career goals Education",
-          "answer": "10/ten"
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "10/ten",
+          "trap": null
         },
         {
           "number": 33,
-          "type": "matching-features",
-          "prompt": ")",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. How to write your CV Your CV should follow this progression: Name, address, contact details Personal 31 : including relevant personality strengths, and immediate career goals Education",
-          "answer": "(particular) achievements"
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(particular) achievements",
+          "trap": null
         },
         {
           "number": 34,
-          "type": "matching-features",
-          "prompt": "References Complete the summary in the box with words (A-K) below. Write the correct letters for your answers in boxes 35-40 on your answer sheet.",
-          "instruction": "Read the text below and answer questions 28-40 You and your CV Your CV is possibly your most important tool in your search to find the right job. It is the first thing a future employer sees about you, and if it's not right, may be the last. An employer will do no more than glance at your CV - it's estimated that most employers spend more than twenty seconds looking at each CV, so you have very little time to make the impression. Here's some advice to help you make the most of those twenty seconds. What it should look like The first rule of all CVs is keep them clear and simple - anything complicated or long tends to get rejected instantly. Achieving that is a matter of making good use of lists, bullet points and note form, and of keeping your CV to the right length. There are no fixed rules on how long it should be, and it will vary, of course, according to your age, experience, etc., but keep it to one page if you can - this length is convenient for your reader to work with. As for style, there are different kinds of layouts you can follow - look at the examples on this site to see which one you prefer - but the basic rule is to use headings well to signal clearly where all the relevant information is. Make sure you include these sections: qualifications, skills, education, work experience, references, personal interests/hobbies, personal qualities, then label them you're doing now. It's most common to go back no more than 10 years. Give your job details such as job titles, the names of the organisations you worked for, an outline of your job duties and then note your particular achievements. Then go on to your personal interests and finish up with the details of some good, reliable referees. Your future employer may not follow up on these, but they do make an impression. Do's and don'ts A glance at your CV should create a good impression. Don't make spelling mistakes, and don't send in anything crumpled or with coffee stains on it. Anything like that leads to instant rejection. Use good quality A4 paper and don't send in anything other than a cover letter. Diplomas, testimonials, etc., will be requested later ~ they're interested in you. When you think you've finished writing your CV, read it over very carefully. Check your full stops, use of bullets, indentation, use of capital letters, etc. And never include in your CV anything that's not true. It's very easy for an employer to check, and if your CV doesn't match what they find out, then your chances of getting that job are probably gone. Finally, carry out the instructions in the job ad very carefully. If they require three copies, then send them three copies, not two or four. Make sure you meet the deadline too, and put the right stamp on your envelope. You'll need to accompany your CV with a cover letter. This should be tailored to each job you apply for. Follow the link below for advice on how to write a cover letter. And last of all \"Good luck\"! Remember to include: - Career history - Skills and strengths Do the following statements agree with the information in the text? In boxes 28-30 on your answer sheet write TRUE Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. How to write your CV Your CV should follow this progression: Name, address, contact details Personal 31 : including relevant personality strengths, and immediate career goals Education",
-          "answer": "personal interests"
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "personal interests",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "J",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "K",
+          "trap": null
         }
       ]
     }
@@ -239,13 +1178,19 @@
     "2": "A,B",
     "3": "C",
     "4": "A,C",
+    "5": "133",
+    "6": "146",
+    "7": "104",
+    "8": "103",
+    "9": "144",
+    "10": "156",
     "11": "(your) work experience",
     "12": "strengths and weaknesses",
     "13": "(your) personal qualities",
     "14": "(good) communication skills",
     "15": "(a) (single) bedroom",
     "16": "breakfast (and) evening meal",
-    "17": "experiencing the",
+    "17": "experiencing the culture/making local friends/opportunities for language practice",
     "18": "(en-suite) shower facilities",
     "19": "(other) workers",
     "20": "(a) (fully-equipped) kitchen",

@@ -1,0 +1,8 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+    "body": "The fact that there are so many private schools in England, in comparison to other countries, makes the English educational system [[21]]. Most students in these schools are from [[22]] families. These students seem to do better at exams although statistics can be [[23]]. One of the advantages of private schools is that they seem to provide students with a better, more positive environment that encourages them to [[24]] themselves to their school work with more enthusiasm. A lot of not very well-off parents make huge sacrifices for their children's [[25]] to help them go to respectable universities. Unfortunately, many state school buildings sometimes have the appearance of an industrial [[26]]."
+  }
+}

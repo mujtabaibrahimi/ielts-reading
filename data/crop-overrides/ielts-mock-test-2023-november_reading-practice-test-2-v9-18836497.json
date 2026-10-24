@@ -1,0 +1,35 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+    "body": "Type of Impact to Children, Range of Reference to Siblings, and Rate of Influence table. Impact '[[28]] background from parents and family': Range is 'Including to all of siblings', Rate of Influence is 40%-50%. Impact 'Shared Environment': Range is 'to [[29]]', Rate of Influence is 'less than [[30]]'. Impact '[[31]]': Range is 'to part of siblings', Rate of Influence is '[[32]]-50%'."
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "According to this passage, which comment is TURE about the current Study of non-shared environment influence to children?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "a little biased in nature",
+          "not sufficiently proved",
+          "very systematic",
+          "can be workable"
+        ]
+      }
+    }
+  }
+}

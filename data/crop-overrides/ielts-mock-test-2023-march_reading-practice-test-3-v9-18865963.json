@@ -1,0 +1,30 @@
+{
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "In this passage, the Nagymaros dam's main purpose was",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "related to Russian Water Management.",
+          "to develop a source of electronic power, farming and sail.",
+          "to connect the Black Sea and the Danube.",
+          "to develop a beauty spot on the river Danube."
+        ]
+      }
+    }
+  }
+}

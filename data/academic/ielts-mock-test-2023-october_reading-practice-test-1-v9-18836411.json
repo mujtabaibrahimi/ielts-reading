@@ -1,213 +1,1158 @@
 {
   "id": "ielts-mock-test-2023-october_reading-practice-test-1-v9-18836411",
   "type": "academic",
-  "source": "ielts-mock-test-2023-october reading-practice-test-1-v9-18836411",
+  "title": "IELTS Academic 2023 October - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 1,
+  "year": 2023,
+  "month": 10,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-october_reading-practice-test-1-v9-18836411.pdf",
-  "total_questions": 14,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Facial Expression 1",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1 -13, which are based on\nReading Passage 1 below.\nFacial Expression 1\nA\nA facial expression is one or more motions or positions of the muscles in the\nskin. These movements convey the emotional state of the individual to\nobservers. Facial expressions are a form of nonverbal communication. They are\na primary means of conveying social information among aliens, but also occur\nin most other mammals and some other animal species. Facial expressions\nand their significance in the perceiver can, to some extent, vary between\ncultures with evidence from descriptions in the works of Charles Darwin.\nB\nHumans can adopt a facial expression to read as a voluntary action. However,\nbecause expressions are closely tied to emotion, they are more often\ninvoluntary. It can be nearly impossible to avoid expressions for certain\nemotions, even when it would be strongly desirable to do so; a person who is\ntrying to avoid insulting an individual he or she finds highly unattractive might,\nnevertheless, show a brief expression of disgust before being able to reassume\na neutral expression. Microexpressions are one example of this\nphenomenon. The close link between emotion and expression can also work in\nthe order direction; it has been observed that voluntarily assuming an\nexpression can actually cause the associated emotion.\nC\nSome expressions can be accurately interpreted even between members of\ndifferent species – anger and extreme contentment being the primary\nexamples. Others, however, are difficult to interpret even in familiar\n\nindividuals. For instance, disgust and fear can be tough to tell apart. Because\nfaces have only a limited range of movement, expressions rely upon fairly\nminuscule differences in the proportion and relative position of facial features,\nand reading them requires considerable sensitivity to the same. Some faces\nare often falsely read as expressing some emotion, even when they are neutral\nbecause their proportions naturally resemble those another face would\ntemporarily assume when emoting.\nD\nAlso, a person’s eyes reveal much about hos they are feeling, or what they are\nthinking. Blink rate can reveal how nervous or at ease a person maybe.\nResearch by Boston College professor Joe Tecce suggests that stress levels are\nrevealed by blink rates. He supports his data with statistics on the relation\nbetween the blink rates of presidential candidates and their success in their\nraces. Tecce claims that the faster blinker in the presidential debates has lost\nevery election since 1980. Though Tecce’s data is interesting, it is important to\nrecognize that non-verbal communication is multi-channelled, and focusing\non only one aspect is reckless. Nervousness can also be measured by\nexamining each candidates’ perspiration, eye contact and stiffness.\nE\nAs Charles Darwin noted in his book The Expression of the Emotions in Man and\nAnimals: the young and the old of widely different races, both with man and\nanimals, express the same state of mind by the same movements. Still, up to\nthe mid-20th century, most anthropologists believed that facial expressions\nwere entirely learned and could, therefore, differ among cultures. Studies\nconducted in the 1960s by Paul Ekman eventually supported Darwin’s belief to\na large degree.\nF\nEkman’s work on facial expressions had its starting point in the work of\npsychologist Silvan Tomkins. Ekman showed that contrary to the belief of some\nanthropologists including Margaret Mead, facial expressions of emotion are not\nculturally determined, but universal across human cultures. The South Fore\npeople of New Guinea were chosen as subjects for one such survey. The study\nconsisted of 189 adults and 130 children from among a very isolated\npopulation, as well as twenty-three members of the culture who lived a less\nisolated lifestyle as a control group. Participants were told a story that\ndescribed one particular emotion; they were then shown three pictures (two for\nchildren) of facial expressions and asked to match the picture which expressed\nthe story’s emotion.\n\nG\nWhile the isolated South Fore people could identify emotions with the same\naccuracy as the non-isolated control group, problems associated with the study\ninclude the fact that both fear and surprise were constantly misidentified. The\nstudy concluded that certain facial expressions correspond to particular\nemotions and can not be covered, regardless of cultural background, and\nregardless of whether or not the culture has been isolated or exposed to the\nmainstream.\nH\nExpressions Ekman found to be universally included those indicating anger,\ndisgust, fear, joy, sadness, and surprise (not that none of these emotions has a\ndefinitive social component, such as shame, pride, or schadenfreude). Findings\non contempt (which is social) are less clear, though there is at least some\npreliminary evidence that this emotion and its expression are universally\nrecognized. This may suggest that the facial expressions are largely related to\nthe mind and each part on the face can express specific emotion.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Facial Expression 1"
+          },
           {
             "label": "A",
-            "content": "A facial expression is one or more motions or positions of the muscles in the"
+            "text": "A facial expression is one or more motions or positions of the muscles in the\nskin. These movements convey the emotional state of the individual to\nobservers. Facial expressions are a form of nonverbal communication. They are\na primary means of conveying social information among aliens, but also occur\nin most other mammals and some other animal species. Facial expressions\nand their significance in the perceiver can, to some extent, vary between\ncultures with evidence from descriptions in the works of Charles Darwin."
           },
           {
             "label": "B",
-            "content": "Humans can adopt a facial expression to read as a voluntary action. However,"
+            "text": "Humans can adopt a facial expression to read as a voluntary action. However,\nbecause expressions are closely tied to emotion, they are more often\ninvoluntary. It can be nearly impossible to avoid expressions for certain\nemotions, even when it would be strongly desirable to do so; a person who is\ntrying to avoid insulting an individual he or she finds highly unattractive might,\nnevertheless, show a brief expression of disgust before being able to reassume\na neutral expression. Microexpressions are one example of this\nphenomenon. The close link between emotion and expression can also work in\nthe order direction; it has been observed that voluntarily assuming an\nexpression can actually cause the associated emotion."
           },
           {
             "label": "C",
-            "content": "Some expressions can be accurately interpreted even between members of"
+            "text": "Some expressions can be accurately interpreted even between members of\ndifferent species - anger and extreme contentment being the primary\nexamples. Others, however, are difficult to interpret even in familiar"
+          },
+          {
+            "label": null,
+            "text": "individuals. For instance, disgust and fear can be tough to tell apart. Because\nfaces have only a limited range of movement, expressions rely upon fairly\nminuscule differences in the proportion and relative position of facial features,\nand reading them requires considerable sensitivity to the same. Some faces\nare often falsely read as expressing some emotion, even when they are neutral\nbecause their proportions naturally resemble those another face would\ntemporarily assume when emoting."
           },
           {
             "label": "D",
-            "content": "Also, a person’s eyes reveal much about hos they are feeling, or what they are"
+            "text": "Also, a person's eyes reveal much about hos they are feeling, or what they are\nthinking. Blink rate can reveal how nervous or at ease a person maybe.\nResearch by Boston College professor Joe Tecce suggests that stress levels are\nrevealed by blink rates. He supports his data with statistics on the relation\nbetween the blink rates of presidential candidates and their success in their\nraces. Tecce claims that the faster blinker in the presidential debates has lost\nevery election since 1980. Though Tecce's data is interesting, it is important to\nrecognize that non-verbal communication is multi-channelled, and focusing\non only one aspect is reckless. Nervousness can also be measured by\nexamining each candidates' perspiration, eye contact and stiffness."
           },
           {
             "label": "E",
-            "content": "As Charles Darwin noted in his book The Expression of the Emotions in Man and"
+            "text": "As Charles Darwin noted in his book The Expression of the Emotions in Man and\nAnimals: the young and the old of widely different races, both with man and\nanimals, express the same state of mind by the same movements. Still, up to\nthe mid-20th century, most anthropologists believed that facial expressions\nwere entirely learned and could, therefore, differ among cultures. Studies\nconducted in the 1960s by Paul Ekman eventually supported Darwin's belief to\na large degree."
           },
           {
             "label": "F",
-            "content": "Ekman’s work on facial expressions had its starting point in the work of"
+            "text": "Ekman's work on facial expressions had its starting point in the work of\npsychologist Silvan Tomkins. Ekman showed that contrary to the belief of some\nanthropologists including Margaret Mead, facial expressions of emotion are not\nculturally determined, but universal across human cultures. The South Fore\npeople of New Guinea were chosen as subjects for one such survey. The study\nconsisted of 189 adults and 130 children from among a very isolated\npopulation, as well as twenty-three members of the culture who lived a less\nisolated lifestyle as a control group. Participants were told a story that\ndescribed one particular emotion; they were then shown three pictures (two for\nchildren) of facial expressions and asked to match the picture which expressed\nthe story's emotion."
           },
           {
             "label": "G",
-            "content": "While the isolated South Fore people could identify emotions with the same"
+            "text": "While the isolated South Fore people could identify emotions with the same\naccuracy as the non-isolated control group, problems associated with the study\ninclude the fact that both fear and surprise were constantly misidentified. The\nstudy concluded that certain facial expressions correspond to particular\nemotions and can not be covered, regardless of cultural background, and\nregardless of whether or not the culture has been isolated or exposed to the\nmainstream."
+          },
+          {
+            "label": "H",
+            "text": "Expressions Ekman found to be universally included those indicating anger,\ndisgust, fear, joy, sadness, and surprise (not that none of these emotions has a\ndefinitive social component, such as shame, pride, or schadenfreude). Findings\non contempt (which is social) are less clear, though there is at least some\npreliminary evidence that this emotion and its expression are universally\nrecognized. This may suggest that the facial expressions are largely related to\nthe mind and each part on the face can express specific emotion."
           }
-        ]
+        ],
+        "text": "Facial Expression 1\n\nA facial expression is one or more motions or positions of the muscles in the\nskin. These movements convey the emotional state of the individual to\nobservers. Facial expressions are a form of nonverbal communication. They are\na primary means of conveying social information among aliens, but also occur\nin most other mammals and some other animal species. Facial expressions\nand their significance in the perceiver can, to some extent, vary between\ncultures with evidence from descriptions in the works of Charles Darwin.\n\nHumans can adopt a facial expression to read as a voluntary action. However,\nbecause expressions are closely tied to emotion, they are more often\ninvoluntary. It can be nearly impossible to avoid expressions for certain\nemotions, even when it would be strongly desirable to do so; a person who is\ntrying to avoid insulting an individual he or she finds highly unattractive might,\nnevertheless, show a brief expression of disgust before being able to reassume\na neutral expression. Microexpressions are one example of this\nphenomenon. The close link between emotion and expression can also work in\nthe order direction; it has been observed that voluntarily assuming an\nexpression can actually cause the associated emotion.\n\nSome expressions can be accurately interpreted even between members of\ndifferent species - anger and extreme contentment being the primary\nexamples. Others, however, are difficult to interpret even in familiar\n\nindividuals. For instance, disgust and fear can be tough to tell apart. Because\nfaces have only a limited range of movement, expressions rely upon fairly\nminuscule differences in the proportion and relative position of facial features,\nand reading them requires considerable sensitivity to the same. Some faces\nare often falsely read as expressing some emotion, even when they are neutral\nbecause their proportions naturally resemble those another face would\ntemporarily assume when emoting.\n\nAlso, a person's eyes reveal much about hos they are feeling, or what they are\nthinking. Blink rate can reveal how nervous or at ease a person maybe.\nResearch by Boston College professor Joe Tecce suggests that stress levels are\nrevealed by blink rates. He supports his data with statistics on the relation\nbetween the blink rates of presidential candidates and their success in their\nraces. Tecce claims that the faster blinker in the presidential debates has lost\nevery election since 1980. Though Tecce's data is interesting, it is important to\nrecognize that non-verbal communication is multi-channelled, and focusing\non only one aspect is reckless. Nervousness can also be measured by\nexamining each candidates' perspiration, eye contact and stiffness.\n\nAs Charles Darwin noted in his book The Expression of the Emotions in Man and\nAnimals: the young and the old of widely different races, both with man and\nanimals, express the same state of mind by the same movements. Still, up to\nthe mid-20th century, most anthropologists believed that facial expressions\nwere entirely learned and could, therefore, differ among cultures. Studies\nconducted in the 1960s by Paul Ekman eventually supported Darwin's belief to\na large degree.\n\nEkman's work on facial expressions had its starting point in the work of\npsychologist Silvan Tomkins. Ekman showed that contrary to the belief of some\nanthropologists including Margaret Mead, facial expressions of emotion are not\nculturally determined, but universal across human cultures. The South Fore\npeople of New Guinea were chosen as subjects for one such survey. The study\nconsisted of 189 adults and 130 children from among a very isolated\npopulation, as well as twenty-three members of the culture who lived a less\nisolated lifestyle as a control group. Participants were told a story that\ndescribed one particular emotion; they were then shown three pictures (two for\nchildren) of facial expressions and asked to match the picture which expressed\nthe story's emotion.\n\nWhile the isolated South Fore people could identify emotions with the same\naccuracy as the non-isolated control group, problems associated with the study\ninclude the fact that both fear and surprise were constantly misidentified. The\nstudy concluded that certain facial expressions correspond to particular\nemotions and can not be covered, regardless of cultural background, and\nregardless of whether or not the culture has been isolated or exposed to the\nmainstream.\n\nExpressions Ekman found to be universally included those indicating anger,\ndisgust, fear, joy, sadness, and surprise (not that none of these emotions has a\ndefinitive social component, such as shame, pride, or schadenfreude). Findings\non contempt (which is social) are less clear, though there is at least some\npreliminary evidence that this emotion and its expression are universally\nrecognized. This may suggest that the facial expressions are largely related to\nthe mind and each part on the face can express specific emotion.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Summary Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman's study demonstrates that fear and surprise are",
+          "body": "persistently [[1]] and made a conclusion that some facial expressions have something to do with certain [[2]] . Which is impossible covered, despite of [[3]] and whether the culture has been [[4]] or [[5]] to the mainstream.",
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-paragraph-information",
+          "instruction": "The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            6,
+            11
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose two letters from the A-E Write your answers in boxes 12-13 on your answer sheet Which Two of the following statements are true according to Ekman's theory?",
+          "body": null,
+          "range": [
+            12,
+            13
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "No evidence shows animals have their own facial expressions.",
+              "The potential relationship between facial expression and state of",
+              "Facial expressions are concerning different cultures.",
+              "Different areas on face convey a certain state of mind.",
+              "Mind controls men's facial expressions more obvious than"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "misidentified",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "emotions",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "cultural background",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "isolated",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "exposed",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g2",
+          "prompt": "the difficulty identifying the actual meaning of facial",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
           "number": 7,
-          "type": "matching-features",
-          "prompt": "the importance of culture on facial expressions is initially described",
-          "instruction": "Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman’s study demonstrates that fear and surprise are persistently 1 and made a conclusion that some facial expressions have something to do with certain 2 . Which is impossible covered, despite of 3 and whether the culture has been 4 or 5 to the mainstream. The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once. 6 the difficulty identifying the actual meaning of facial expressions",
-          "answer": "A"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g2",
+          "prompt": "the importance of culture on facial expressions is initially",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 8,
-          "type": "matching-features",
-          "prompt": "collected data for the research on the relation between blink and the success in elections",
-          "instruction": "Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman’s study demonstrates that fear and surprise are persistently 1 and made a conclusion that some facial expressions have something to do with certain 2 . Which is impossible covered, despite of 3 and whether the culture has been 4 or 5 to the mainstream. The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once. 6 the difficulty identifying the actual meaning of facial expressions",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g2",
+          "prompt": "collected data for the research on the relation between",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 9,
           "type": "matching-paragraph-information",
+          "groupId": "p1g2",
           "prompt": "the features on the sociality of several facial expressions",
-          "instruction": "Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman’s study demonstrates that fear and surprise are persistently 1 and made a conclusion that some facial expressions have something to do with certain 2 . Which is impossible covered, despite of 3 and whether the culture has been 4 or 5 to the mainstream. The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once. 6 the difficulty identifying the actual meaning of facial expressions",
-          "answer": "H"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
         },
         {
           "number": 10,
-          "type": "matching-features",
-          "prompt": "an indicator to reflect one’s extent of nervousness",
-          "instruction": "Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman’s study demonstrates that fear and surprise are persistently 1 and made a conclusion that some facial expressions have something to do with certain 2 . Which is impossible covered, despite of 3 and whether the culture has been 4 or 5 to the mainstream. The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once. 6 the difficulty identifying the actual meaning of facial expressions",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g2",
+          "prompt": "an indicator to reflect one's extent of nervousness",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 11,
-          "type": "matching-features",
-          "prompt": "the relation between emotion and facial expressions Choose two letters from the A-E Write your answers in boxes 12-13 on your answer sheet Which Two of the following statements are true according to",
-          "instruction": "Complete the Summary paragraph below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN TWO WORDS The result of Ekman’s study demonstrates that fear and surprise are persistently 1 and made a conclusion that some facial expressions have something to do with certain 2 . Which is impossible covered, despite of 3 and whether the culture has been 4 or 5 to the mainstream. The reading Passage has seven paragraphs A-H Which paragraph contains the following information? Write the correct letter A-H, in boxes 6-11 on your answer sheet. NB You may use any letter more than once. 6 the difficulty identifying the actual meaning of facial expressions",
-          "answer": "B"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g2",
+          "prompt": "the relation between emotion and facial expressions",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,D",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice-multi",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\non Reading Passage 2 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Aqua Product: New zealand 's Algae\nBiodiesel"
+          },
+          {
+            "label": "A",
+            "text": "The world's first wild algae biodiesel, produced in New Zealand by Aquaflow\nBionomic Corporation, was successfully test-driven in Wellington by the\nMinister for Energy and Climate Change Issues, David Parker. In front of a\ncrowd of invited guests, media and members of the public, the Minister filled up\na diesel-powered Land Rover with Aquaflow B5 blend bio-diesel and then drove\nthe car around the forecourt of Parliament Buildings in Central Wellington.\nGreen Party co-leader, Jeanette Fitzsimons was also on board. Marlborough-\nbased Aquaflow announced on May 2006 that it had produced the world's first\nbio-diesel derived from wild microalgae sourced from local sewage ponds."
+          },
+          {
+            "label": "B",
+            "text": "\"We believe we are the first company in the world to test drive a car powered\nby wild algae-based biodiesel. This will come as a surprise to some\ninternational bio-diesel industry people who believe that this break-through is\nstill years away,\" explains Aquaflow spokesperson Barrie Leay. \"A bunch of\ninventive Kiwis and an Aussie have developed this fuel in just over a year\", he\ncomments. \"This is a huge opportunity for New Zealand and a great credit to\nthe team of people who saw the potential in this technology from day one.\""
+          },
+          {
+            "label": "C",
+            "text": "Bio-diesel based on algae could eventually become a sustainable, low cost,\ncleaner-burning fuel alternative for New Zealand, powering family cars, trucks,"
+          },
+          {
+            "label": null,
+            "text": "buses and boats. It can also be used for other purposes such as heating or\ndistributed electricity generation. There is now a global demand for billions of\nlitres of biodiesel per year. Algae are also readily available and produced in\nhuge volumes in nutrient-rich waste streams such as at the settling ponds of\nEffluent Management Systems (EMS). It is a renewable indigenous resource\nideally suited to the production of fuel and other useful by-products. The\nbreakthrough comes after technology start-up, Aquaflow, agreed to undertake\na pilot with Marlborough District Council late last year to extract algae from the\nsettling ponds of its EMS based in Blenheim. By removing the main\ncontaminant to use as a fuel feedstock, Aquaflow is also helping clean up the\ncouncil's water discharge - a process known as bio-remediation. Dairy farmers,\nand many food processors too, can benefit in similar ways by applying the\nharvesting technology to their nutrient-rich waste streams."
+          },
+          {
+            "label": "D",
+            "text": "Blended with conventional mineral diesel, bio-diesel can run vehicles without\nthe need for vehicle modifications. Fuel derived from algae can also help meet\nthe Government B5 (5% blended) target, with the prospect of this increase\nover time as bio-fuel production increases. \"Our next step is to increase\ncapacity to produce one million litres of bio-diesel from the Marlborough\nsewerage ponds over the next year,\" says Leay. Aquaflow will launch a\nprospectus pre-Christmas as the company has already attracted considerable\ninterest from potential investors. The test drive bio-diesel was used\nsuccessfully in a static engine test at Massey University's Wellington campus\non Monday, December 11."
+          },
+          {
+            "label": "E",
+            "text": "Today Algae are used by humans in many ways; for example, as fertilizers, soil\nconditioners and livestock feed. Aquatic and microscopic species are cultured\nin clear tanks or ponds and are either harvested or used to treat effluents\npumped through the ponds. Algaculture on a large scale is an important type of\naquaculture in some places. Naturally growing seaweeds are an important\nsource of food, especially in Asia. They provide many vitamins including A, B,\nB2, B6, niacin and C, and are rich in iodine, potassium, iron, magnesium and\ncalcium. In addition, commercially cultivated microalgae, including both Algae\nand Cyan-bacteria, are marketed as nutritional supplements, such as Spirulina,\nChlorella and the Vitamin-C supplement, Dunaliella, high in beta-carotene.\nAlgae are national foods of many nations: China consumes more than 70\nspecies, including fat choy, a cyanobacterium considered a vegetable; Japan,\nover 20 species. The natural pigments produced by algae can be used as an\nalternative to chemical dyes and coloring agents."
+          },
+          {
+            "label": "F",
+            "text": "Algae are the simplest plant organisms that convert sunlight and carbon\ndioxide in the air around us into stored energy through the well-understood\nprocess of photosynthesis. Algae are rich in lipids and other combustible\nelements and Aquaflow is developing technology that will allow these elements\nto be extracted in a cost-effective way. The proposed process is the subject of\na provisional patent. Although algae are good at taking most of the nutrients\nout of sewage, too many algae can taint the water and make it smell. So,\ncouncils have to find a way of cleaning up the excess algae in their sewerage\noutflows and then either dispose of it or find alternative uses for it. And that's\nwhere Aquaflow comes in."
+          },
+          {
+            "label": "G",
+            "text": "Unlike some bio-fuels which require crops to be specially grown and thereby\ncompete for land use with food production, and use other scarce resources of\nfuel, chemicals and fertiliser, the source for algae-based biodiesel already\nexists extensively and the process produces a sustainable net energy gain by\ncapturing free solar energy from the sun."
+          }
+        ],
+        "text": "Aqua Product: New zealand 's Algae\nBiodiesel\n\nThe world's first wild algae biodiesel, produced in New Zealand by Aquaflow\nBionomic Corporation, was successfully test-driven in Wellington by the\nMinister for Energy and Climate Change Issues, David Parker. In front of a\ncrowd of invited guests, media and members of the public, the Minister filled up\na diesel-powered Land Rover with Aquaflow B5 blend bio-diesel and then drove\nthe car around the forecourt of Parliament Buildings in Central Wellington.\nGreen Party co-leader, Jeanette Fitzsimons was also on board. Marlborough-\nbased Aquaflow announced on May 2006 that it had produced the world's first\nbio-diesel derived from wild microalgae sourced from local sewage ponds.\n\n\"We believe we are the first company in the world to test drive a car powered\nby wild algae-based biodiesel. This will come as a surprise to some\ninternational bio-diesel industry people who believe that this break-through is\nstill years away,\" explains Aquaflow spokesperson Barrie Leay. \"A bunch of\ninventive Kiwis and an Aussie have developed this fuel in just over a year\", he\ncomments. \"This is a huge opportunity for New Zealand and a great credit to\nthe team of people who saw the potential in this technology from day one.\"\n\nBio-diesel based on algae could eventually become a sustainable, low cost,\ncleaner-burning fuel alternative for New Zealand, powering family cars, trucks,\n\nbuses and boats. It can also be used for other purposes such as heating or\ndistributed electricity generation. There is now a global demand for billions of\nlitres of biodiesel per year. Algae are also readily available and produced in\nhuge volumes in nutrient-rich waste streams such as at the settling ponds of\nEffluent Management Systems (EMS). It is a renewable indigenous resource\nideally suited to the production of fuel and other useful by-products. The\nbreakthrough comes after technology start-up, Aquaflow, agreed to undertake\na pilot with Marlborough District Council late last year to extract algae from the\nsettling ponds of its EMS based in Blenheim. By removing the main\ncontaminant to use as a fuel feedstock, Aquaflow is also helping clean up the\ncouncil's water discharge - a process known as bio-remediation. Dairy farmers,\nand many food processors too, can benefit in similar ways by applying the\nharvesting technology to their nutrient-rich waste streams.\n\nBlended with conventional mineral diesel, bio-diesel can run vehicles without\nthe need for vehicle modifications. Fuel derived from algae can also help meet\nthe Government B5 (5% blended) target, with the prospect of this increase\nover time as bio-fuel production increases. \"Our next step is to increase\ncapacity to produce one million litres of bio-diesel from the Marlborough\nsewerage ponds over the next year,\" says Leay. Aquaflow will launch a\nprospectus pre-Christmas as the company has already attracted considerable\ninterest from potential investors. The test drive bio-diesel was used\nsuccessfully in a static engine test at Massey University's Wellington campus\non Monday, December 11.\n\nToday Algae are used by humans in many ways; for example, as fertilizers, soil\nconditioners and livestock feed. Aquatic and microscopic species are cultured\nin clear tanks or ponds and are either harvested or used to treat effluents\npumped through the ponds. Algaculture on a large scale is an important type of\naquaculture in some places. Naturally growing seaweeds are an important\nsource of food, especially in Asia. They provide many vitamins including A, B,\nB2, B6, niacin and C, and are rich in iodine, potassium, iron, magnesium and\ncalcium. In addition, commercially cultivated microalgae, including both Algae\nand Cyan-bacteria, are marketed as nutritional supplements, such as Spirulina,\nChlorella and the Vitamin-C supplement, Dunaliella, high in beta-carotene.\nAlgae are national foods of many nations: China consumes more than 70\nspecies, including fat choy, a cyanobacterium considered a vegetable; Japan,\nover 20 species. The natural pigments produced by algae can be used as an\nalternative to chemical dyes and coloring agents.\n\nAlgae are the simplest plant organisms that convert sunlight and carbon\ndioxide in the air around us into stored energy through the well-understood\nprocess of photosynthesis. Algae are rich in lipids and other combustible\nelements and Aquaflow is developing technology that will allow these elements\nto be extracted in a cost-effective way. The proposed process is the subject of\na provisional patent. Although algae are good at taking most of the nutrients\nout of sewage, too many algae can taint the water and make it smell. So,\ncouncils have to find a way of cleaning up the excess algae in their sewerage\noutflows and then either dispose of it or find alternative uses for it. And that's\nwhere Aquaflow comes in.\n\nUnlike some bio-fuels which require crops to be specially grown and thereby\ncompete for land use with food production, and use other scarce resources of\nfuel, chemicals and fertiliser, the source for algae-based biodiesel already\nexists extensively and the process produces a sustainable net energy gain by\ncapturing free solar energy from the sun.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage contains seven paragraphs A-G. Which paragraph stales the following information? Write the appropriate letter A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            14,
+            18
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN TWO WORDS from the Reading Passage for each answer. Write your answers in boxes 19-23 on your answer sheet.",
+          "body": "Bio-diesel based on algae could become a substitute for [[19]] in New Zealand. It could be used to [[20]] vehicles such as cars and boats. As a result, billions of litres of bio-diesel are required worldwide each year. Algae can be obtained from [[21]] with nutrient materials. With the technology breakthrough, algae are extracted and the [[22]] is removed from the settling ponds. Dairy farmers and many food processors can adopt such [[23]] technology.",
+          "range": [
+            19,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Choose words from the passage to answer the questions 24-26. Write NO MORE THAN THREE WORDS for each answer. What environmental standard would bio-diesel vehicles are to meet?",
+          "body": "[[24]] What is to do like the immediate plan for coming years for Aquaflow? [[25]] Through what kind of process do algae obtain and store energy? [[26]]",
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "It is unnecessary to modify vehicles driven by bio-diesel.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Some algae are considered edible plants.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Algae could be part of a sustainable and recycled source.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Algae biodiesel is superior to other bio-fuels in a lot of\nways.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "overgrown algae also can be a potential threat to the\nenvironment",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "fuel",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "power",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "water streams",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "is removed from the settling ponds. Dairy farmers and many",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "contaminate",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "harvesting",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "photosynthesis",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Government B5",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "capacity",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Book review on Musicophilia"
+          },
+          {
+            "label": null,
+            "text": "Norman M. Weinberger reviews the latest work of Oliver Sacks on music."
+          },
+          {
+            "label": "A",
+            "text": "Music and the brain are both endlessly fascinating subjects, and as a\nneuroscientist specialising in auditory learning and memory, I find them\nespecially intriguing. So I had high expectations of Musicophilia, the latest\noffering from neurologist and prolific author Oliver Sacks. And I confess to\nfeeling a little guilty reporting that my reactions to the book are mixed."
+          },
+          {
+            "label": "B",
+            "text": "Sacks himself is the best part of Musicophilia. He richly documents his own life\nin the book and reveals highly personal experiences. The photograph of him on\nthe cover of the book-which shows him wearing headphones, eyes closed,\nclearly enchanted as he listens to Alfred Brendel perform Beethoven's\nPathetique Sonata-makes a positive impression that is borne out by the\ncontents of the book. Sacks' voice throughout is steady and erudite but never\npontifical. He is neither self-conscious nor self-promoting."
+          },
+          {
+            "label": "C",
+            "text": "The preface gives a good idea of what the book will deliver. In it, Sacks explains\nthat he wants to convey the insights gleaned from the \"enormous and rapidly\ngrowing body of work on the neural underpinnings of musical perception and\nimagery, and the complex and often bizarre disorders to which these are\nprone.\" He also stresses the importance of \"the simple art of observation\" and\n\"the richness of the human context.\" He wants to combine \"observation and"
+          },
+          {
+            "label": null,
+            "text": "description with the latest in technology,\" he says, and to imaginatively enter\ninto the experience of his patients and subjects. The reader can see that Sacks,\nwho has been practicing neurology for 40 years, is torn between the \"old-\nfashioned\" path of observation and the new-fangled, high-tech approach: He\nknows that he needs to take heed of the latter, but his heart lies with the\nformer."
+          },
+          {
+            "label": "D",
+            "text": "The book consists mainly of detailed descriptions of cases, most of them\ninvolving patients whom Sacks has seen in his practice. Brief discussions of\ncontemporary neuroscientific reports are sprinkled liberally throughout the\ntext. Part, \"Haunted by Music,\" begins with the strange case of Tony Cicoria, a\nnonmusical, middle-aged surgeon who was consumed by a love of music after\nbeing hit by lightning. He suddenly began to crave listening to piano music,\nwhich he had never cared for in the past. He started to play the piano and then\nto compose music, which arose spontaneously in his mind in a \"torrent\" of\nnotes. How could this happen? Was the cause psychological? (He had had a\nnear-death experience when the lightning struck him.) Or was it the direct\nresult of a change in the auditory regions of his cerebral cortex?\nElectroencephalography (EEG) showed his brain waves to be normal in the mid-\n1990s, just after his trauma and subsequent \"conversion\" to music. There are\nnow more sensitive tests, but Cicoria, has declined to undergo them; he does\nnot want to delve into the causes of his musicality. What a shame!"
+          },
+          {
+            "label": "E",
+            "text": "Part II, \"A Range of Musicality,\" covers a wider variety of topics, but\nunfortunately, some of the chapters offer little or nothing that is new. For\nexample, chapter 13, which is five pages long, merely notes that the blind\noften has better hearing than the sighted. The most interesting chapters are\nthose that present the strangest cases. Chapter 8 is about \"amusia,\" an\ninability to hear sounds like music, and \"dysharmonia,\" a highly specific\nimpairment of the ability to hear harmony, with the ability to understand\nmelody left intact. Such specific \"dissociations\" are found throughout the cases\nSacks recounts."
+          },
+          {
+            "label": "F",
+            "text": "To Sacks's credit, part III, \"Memory, Movement and Music,\" brings us into the\nunderappreciated realm of music therapy. Chapter 16 explains how \"melodic\nintonation therapy\" is being used to help expressive aphasic patients (those\nunable to express their thoughts verbally following a stroke or other cerebral\nincident) once again become capable of fluent speech. In chapter 20, Sacks"
+          },
+          {
+            "label": null,
+            "text": "demonstrates the near-miraculous power of music to animate Parkinson's\npatients and other people with severe movement disorders, even those who\nare frozen into odd postures. Scientists cannot yet explain how music achieves\nthis effect"
+          },
+          {
+            "label": "G",
+            "text": "To readers who are unfamiliar with neuroscience and music behavior,\nMusicophilia may be something of a revelation. But the book will not satisfy\nthose seeking the causes and implications of the phenomena Sacks describes.\nFor one thing, Sacks appears to be more at ease discussing patients than\ndiscussing experiments. And he tends to be rather uncritical in accepting\nscientific findings and theories."
+          },
+          {
+            "label": "H",
+            "text": "It's true that the causes of music-brain oddities remain poorly understood.\nHowever, Sacks could have done more to draw out some of the implications of\nthe careful observations that he and other neurologists have made and of the\ntreatments that have been successful. For example, he might have noted that\nthe many specific dissociations among components of music comprehension,\nsuch as loss of the ability to perceive harmony but not melody, indicate that\nthere is no music center in the brain. Because many people who read the book\nare likely to believe in the brain localisation of all mental functions, this was a\nmissed educational opportunity."
+          },
+          {
+            "label": "I",
+            "text": "Another conclusion one could draw is that there seem to be no \"cures\" for\nneurological problems involving music. A drug can alleviate a symptom in one\npatient and aggravate it in another or can have both positive and negative\neffects in the same patient. Treatments mentioned seem to be almost\nexclusively antiepileptic medications, which \"damp down\" the excitability of\nthe brain in general; their effectiveness varies widely."
+          },
+          {
+            "label": "J",
+            "text": "Finally, in many of the cases described here the patient with music-brain\nsymptoms is reported to have \"normal\" EEG results. Although Sacks recognises\nthe existence of new technologies, among them far more sensitive ways to\nanalyze brain waves than the standard neurological EEG test, he does not call\nfor their use. In fact, although he exhibits the greatest compassion for patients,\nhe conveys no sense of urgency about the pursuit of new avenues in the\ndiagnosis and treatment of music-brain disorders. This absence echoes the\nbook's preface, in which Sacks expresses fear that \"the simple art of"
+          },
+          {
+            "label": null,
+            "text": "observation may be lost\" if we rely too much on new technologies. He does call\nfor both approaches, though, and we can only hope that the neurological\ncommunity will respond."
+          }
+        ],
+        "text": "Book review on Musicophilia\n\nNorman M. Weinberger reviews the latest work of Oliver Sacks on music.\n\nMusic and the brain are both endlessly fascinating subjects, and as a\nneuroscientist specialising in auditory learning and memory, I find them\nespecially intriguing. So I had high expectations of Musicophilia, the latest\noffering from neurologist and prolific author Oliver Sacks. And I confess to\nfeeling a little guilty reporting that my reactions to the book are mixed.\n\nSacks himself is the best part of Musicophilia. He richly documents his own life\nin the book and reveals highly personal experiences. The photograph of him on\nthe cover of the book-which shows him wearing headphones, eyes closed,\nclearly enchanted as he listens to Alfred Brendel perform Beethoven's\nPathetique Sonata-makes a positive impression that is borne out by the\ncontents of the book. Sacks' voice throughout is steady and erudite but never\npontifical. He is neither self-conscious nor self-promoting.\n\nThe preface gives a good idea of what the book will deliver. In it, Sacks explains\nthat he wants to convey the insights gleaned from the \"enormous and rapidly\ngrowing body of work on the neural underpinnings of musical perception and\nimagery, and the complex and often bizarre disorders to which these are\nprone.\" He also stresses the importance of \"the simple art of observation\" and\n\"the richness of the human context.\" He wants to combine \"observation and\n\ndescription with the latest in technology,\" he says, and to imaginatively enter\ninto the experience of his patients and subjects. The reader can see that Sacks,\nwho has been practicing neurology for 40 years, is torn between the \"old-\nfashioned\" path of observation and the new-fangled, high-tech approach: He\nknows that he needs to take heed of the latter, but his heart lies with the\nformer.\n\nThe book consists mainly of detailed descriptions of cases, most of them\ninvolving patients whom Sacks has seen in his practice. Brief discussions of\ncontemporary neuroscientific reports are sprinkled liberally throughout the\ntext. Part, \"Haunted by Music,\" begins with the strange case of Tony Cicoria, a\nnonmusical, middle-aged surgeon who was consumed by a love of music after\nbeing hit by lightning. He suddenly began to crave listening to piano music,\nwhich he had never cared for in the past. He started to play the piano and then\nto compose music, which arose spontaneously in his mind in a \"torrent\" of\nnotes. How could this happen? Was the cause psychological? (He had had a\nnear-death experience when the lightning struck him.) Or was it the direct\nresult of a change in the auditory regions of his cerebral cortex?\nElectroencephalography (EEG) showed his brain waves to be normal in the mid-\n1990s, just after his trauma and subsequent \"conversion\" to music. There are\nnow more sensitive tests, but Cicoria, has declined to undergo them; he does\nnot want to delve into the causes of his musicality. What a shame!\n\nPart II, \"A Range of Musicality,\" covers a wider variety of topics, but\nunfortunately, some of the chapters offer little or nothing that is new. For\nexample, chapter 13, which is five pages long, merely notes that the blind\noften has better hearing than the sighted. The most interesting chapters are\nthose that present the strangest cases. Chapter 8 is about \"amusia,\" an\ninability to hear sounds like music, and \"dysharmonia,\" a highly specific\nimpairment of the ability to hear harmony, with the ability to understand\nmelody left intact. Such specific \"dissociations\" are found throughout the cases\nSacks recounts.\n\nTo Sacks's credit, part III, \"Memory, Movement and Music,\" brings us into the\nunderappreciated realm of music therapy. Chapter 16 explains how \"melodic\nintonation therapy\" is being used to help expressive aphasic patients (those\nunable to express their thoughts verbally following a stroke or other cerebral\nincident) once again become capable of fluent speech. In chapter 20, Sacks\n\ndemonstrates the near-miraculous power of music to animate Parkinson's\npatients and other people with severe movement disorders, even those who\nare frozen into odd postures. Scientists cannot yet explain how music achieves\nthis effect\n\nTo readers who are unfamiliar with neuroscience and music behavior,\nMusicophilia may be something of a revelation. But the book will not satisfy\nthose seeking the causes and implications of the phenomena Sacks describes.\nFor one thing, Sacks appears to be more at ease discussing patients than\ndiscussing experiments. And he tends to be rather uncritical in accepting\nscientific findings and theories.\n\nIt's true that the causes of music-brain oddities remain poorly understood.\nHowever, Sacks could have done more to draw out some of the implications of\nthe careful observations that he and other neurologists have made and of the\ntreatments that have been successful. For example, he might have noted that\nthe many specific dissociations among components of music comprehension,\nsuch as loss of the ability to perceive harmony but not melody, indicate that\nthere is no music center in the brain. Because many people who read the book\nare likely to believe in the brain localisation of all mental functions, this was a\nmissed educational opportunity.\n\nAnother conclusion one could draw is that there seem to be no \"cures\" for\nneurological problems involving music. A drug can alleviate a symptom in one\npatient and aggravate it in another or can have both positive and negative\neffects in the same patient. Treatments mentioned seem to be almost\nexclusively antiepileptic medications, which \"damp down\" the excitability of\nthe brain in general; their effectiveness varies widely.\n\nFinally, in many of the cases described here the patient with music-brain\nsymptoms is reported to have \"normal\" EEG results. Although Sacks recognises\nthe existence of new technologies, among them far more sensitive ways to\nanalyze brain waves than the standard neurological EEG test, he does not call\nfor their use. In fact, although he exhibits the greatest compassion for patients,\nhe conveys no sense of urgency about the pursuit of new avenues in the\ndiagnosis and treatment of music-brain disorders. This absence echoes the\nbook's preface, in which Sacks expresses fear that \"the simple art of\n\nobservation may be lost\" if we rely too much on new technologies. He does call\nfor both approaches, though, and we can only hope that the neurological\ncommunity will respond.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            31,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "matching-features",
+          "instruction": "Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 37-40 on your answer sheet.",
+          "body": null,
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "show no music-brain disorders.",
+              "indicates that medication can have varied results.",
+              "is key for the neurological community to unravel the mysteries.",
+              "should not be used in isolation.",
+              "indicate that not everyone can receive a good education.",
+              "show a misconception that there is a function centre localized in the brain"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Why does the writer have a mixed feeling about the book?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "The guilty feeling made him so.",
+            "The writer expected it to be better than it was.",
+            "Sacks failed to include his personal stories in the book.",
+            "This is the only book written by Sacks."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 28,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What is the best part of the book?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the photo of Sacks listening to music",
+            "the tone of voice of the book",
+            "the autobiographical description in the book",
+            "the description of Sacks' wealth"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "In the preface, what did Sacks try to achieve?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "make a herald introduction of the research work and technique applied",
+            "give a detailed description of various musical disorders",
+            "explain why he needs to do away with the simple observation",
+            "explain why he needs to do away with the simple observation"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
-          "prompt": "What is disappointing about Tony Cicoria’s case?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet.",
-          "answer": "A",
+          "groupId": "p3g1",
+          "prompt": "What is disappointing about Tony Cicoria's case?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "He refuses to have further tests.",
+            "He can't determine the cause of his sudden musicality.",
+            "He nearly died because of the lightening.",
+            "His brain waves were too normal to show anything."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 31,
-          "type": "yes-no-not-given",
-          "prompt": "It is difficult to give a well-reputable writer a less than totally favorable review.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet. The writer expected it to be better than it was. Sacks failed to include his personal stories in the book. This is the only book written by Sacks. the photo of Sacks listening to music the tone of voice of the book the autobiographical description in the book the description of Sacks’ wealth make a herald introduction of the research work and technique applied give a detailed description of various musical disorders explain why he needs to do away with the simple observation explain why he needs to do away with the simple observation He refuses to have further tests. He can’t determine the cause of his sudden musicality. He nearly died because of the lightening. Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE",
-          "answer": "YES",
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "It is difficult to give a well-reputable writer a less than\ntotally favorable review.",
+          "instruction": "",
           "options": [
-            "YES",
-            "NO",
+            "TRUE",
+            "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "Beethoven's Pathetique Sonata is a good treatment\nfor musical disorders.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "Sacks believes technological methods is of little\nimportance compared with traditional observation when studying his\npatients.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "It is difficult to understand why music therapy is\nundervalued",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "Sacks held little skepticism when borrowing other\ntheories and findings in describing reasons and notion for phenomena he\ndepicts in the book.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g2",
+          "prompt": "Sacks is in a rush to use new testing methods to do\ntreatment for patients.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
         },
         {
           "number": 37,
           "type": "matching-features",
-          "prompt": "The content covered dissociations in understanding between harmony and melody",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet. The writer expected it to be better than it was. Sacks failed to include his personal stories in the book. This is the only book written by Sacks. the photo of Sacks listening to music the tone of voice of the book the autobiographical description in the book the description of Sacks’ wealth make a herald introduction of the research work and technique applied give a detailed description of various musical disorders explain why he needs to do away with the simple observation explain why he needs to do away with the simple observation He refuses to have further tests. He can’t determine the cause of his sudden musicality. He nearly died because of the lightening. Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE It is difficult to give a well-reputable writer a less than totally favorable review. 32 Beethoven’s Pathetique Sonata is a good treatment for musical disorders. 33 Sacks believes technological methods is of little importance compared with traditional observation when studying his patients. 34 It is difficult to understand why music therapy is undervalued 35 Sacks held little skepticism when borrowing other theories and findings in describing reasons and notion for phenomena he depicts in the book. 36 Sacks is in a rush to use new testing methods to do treatment for patients. Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 37-40 on your answer sheet.",
-          "answer": "F"
+          "groupId": "p3g3",
+          "prompt": "The content covered dissociations in understanding\nbetween harmony and melody",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 38,
           "type": "matching-features",
+          "groupId": "p3g3",
           "prompt": "The study of treating musical disorders",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet. The writer expected it to be better than it was. Sacks failed to include his personal stories in the book. This is the only book written by Sacks. the photo of Sacks listening to music the tone of voice of the book the autobiographical description in the book the description of Sacks’ wealth make a herald introduction of the research work and technique applied give a detailed description of various musical disorders explain why he needs to do away with the simple observation explain why he needs to do away with the simple observation He refuses to have further tests. He can’t determine the cause of his sudden musicality. He nearly died because of the lightening. Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE It is difficult to give a well-reputable writer a less than totally favorable review. 32 Beethoven’s Pathetique Sonata is a good treatment for musical disorders. 33 Sacks believes technological methods is of little importance compared with traditional observation when studying his patients. 34 It is difficult to understand why music therapy is undervalued 35 Sacks held little skepticism when borrowing other theories and findings in describing reasons and notion for phenomena he depicts in the book. 36 Sacks is in a rush to use new testing methods to do treatment for patients. Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 37-40 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 39,
           "type": "matching-features",
-          "prompt": "The EEG scans of Sacks’ patients",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet. The writer expected it to be better than it was. Sacks failed to include his personal stories in the book. This is the only book written by Sacks. the photo of Sacks listening to music the tone of voice of the book the autobiographical description in the book the description of Sacks’ wealth make a herald introduction of the research work and technique applied give a detailed description of various musical disorders explain why he needs to do away with the simple observation explain why he needs to do away with the simple observation He refuses to have further tests. He can’t determine the cause of his sudden musicality. He nearly died because of the lightening. Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE It is difficult to give a well-reputable writer a less than totally favorable review. 32 Beethoven’s Pathetique Sonata is a good treatment for musical disorders. 33 Sacks believes technological methods is of little importance compared with traditional observation when studying his patients. 34 It is difficult to understand why music therapy is undervalued 35 Sacks held little skepticism when borrowing other theories and findings in describing reasons and notion for phenomena he depicts in the book. 36 Sacks is in a rush to use new testing methods to do treatment for patients. Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 37-40 on your answer sheet.",
-          "answer": "A"
+          "groupId": "p3g3",
+          "prompt": "The EEG scans of Sacks' patients",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 40,
           "type": "matching-features",
+          "groupId": "p3g3",
           "prompt": "Sacks believes testing based on new technologies",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-30 on your answer sheet. The writer expected it to be better than it was. Sacks failed to include his personal stories in the book. This is the only book written by Sacks. the photo of Sacks listening to music the tone of voice of the book the autobiographical description in the book the description of Sacks’ wealth make a herald introduction of the research work and technique applied give a detailed description of various musical disorders explain why he needs to do away with the simple observation explain why he needs to do away with the simple observation He refuses to have further tests. He can’t determine the cause of his sudden musicality. He nearly died because of the lightening. Do the following statements agree with the views of the writer in Reading Passage? In boxes 31-36 on your answer sheet, write TRUE It is difficult to give a well-reputable writer a less than totally favorable review. 32 Beethoven’s Pathetique Sonata is a good treatment for musical disorders. 33 Sacks believes technological methods is of little importance compared with traditional observation when studying his patients. 34 It is difficult to understand why music therapy is undervalued 35 Sacks held little skepticism when borrowing other theories and findings in describing reasons and notion for phenomena he depicts in the book. 36 Sacks is in a rush to use new testing methods to do treatment for patients. Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 37-40 on your answer sheet.",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     }
@@ -223,7 +1168,7 @@
     "8": "D",
     "9": "H",
     "10": "D",
-    "11": "B",
+    "12": "B,D",
     "13": "B,D",
     "14": "D",
     "15": "E",
@@ -251,6 +1196,7 @@
     "37": "F",
     "38": "B",
     "39": "A",
-    "40": "D"
+    "40": "D",
+    "11": "B"
   }
 }

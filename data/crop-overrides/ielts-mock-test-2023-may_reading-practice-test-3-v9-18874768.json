@@ -1,0 +1,11 @@
+{
+  "p2g3": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the following summary of the paragraphs of the Reading Passage. Use NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+    "body": "The Great Eastern was specially designed with a [[23]] for carrying more fuels and was to take a long voyage to [[24]]. However, due to physical condition, Brunel could not go with the maiden voyage. Actually, the Great Eastern was unprofitable and the great ship never crossed [[25]]. But soon after there was an ironic opportunity for the Great Eastern, which was used to carry and to lay huge [[26]] on the Atlantic Ocean floor."
+  },
+  "_answers": {
+    "8": ""
+  }
+}

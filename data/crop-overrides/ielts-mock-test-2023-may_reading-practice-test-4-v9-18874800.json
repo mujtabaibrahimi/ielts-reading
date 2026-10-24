@@ -1,0 +1,50 @@
+{
+  "p2g2": {
+    "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from Reading Passage 2 for each answer. Write your answers in boxes 18-22 on your answer sheet.",
+    "questions": {
+      "18": {
+        "prompt": "Top picture (fire burning in a bowl), label 18: the arrow from the bowl"
+      },
+      "19": {
+        "prompt": "Top picture (fire burning in a bowl), label 19"
+      },
+      "20": {
+        "prompt": "Top picture (fire burning in a bowl), label 20"
+      },
+      "21": {
+        "prompt": "Bottom picture (tools), label 21: the arrow from the long handle"
+      },
+      "22": {
+        "prompt": "Bottom picture (tools), label 22: the arrow pointing to the head of the tool"
+      }
+    }
+  },
+  "p1g3": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        13
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 13 on your answer sheet.",
+    "questions": {
+      "13": {
+        "prompt": "According to Daniel Nettle in the last two paragraphs, what is true as the scientists can tell us about happiness",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Brain systems always mix liking and wanting together.",
+          "Negative emotions can be easily rid of if we think positively.",
+          "Happiness is like nicotine we are craving for but get little pleasure.",
+          "The inner mechanism of human brains does not assist us to achieve durable happiness"
+        ]
+      }
+    }
+  }
+}

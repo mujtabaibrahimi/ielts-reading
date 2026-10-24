@@ -1,0 +1,98 @@
+{
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Crop is reading material (Text 2 food poisoning table i-vi and the start of Text 3 'The facts about plastic'), not question text; questions 5-10 are rendered by another group.",
+    "questionNumbers": []
+  },
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Read the information on food poisoning in the table and answer questions 5-10. Match the statements with the appropriate type of poisoning. Choose the correct number, i-vi, and write your answer in boxes 5-10 on your answer sheet.",
+    "optionBank": {
+      "title": "Types of food poisoning",
+      "options": [
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi"
+      ],
+      "labels": [
+        "Salmonella",
+        "Staphylococcus aureus (Toxin)",
+        "Clostridium perfringens",
+        "Vibrio parahaemolyticus",
+        "Listeria monocytogenes",
+        "Campylobacter"
+      ]
+    },
+    "questions": {
+      "5": {
+        "prompt": "Found in seafood.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      },
+      "6": {
+        "prompt": "Dangerous for pregnant women.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      },
+      "7": {
+        "prompt": "You can be sick for up to three weeks.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      },
+      "8": {
+        "prompt": "You can catch this from some common household pets.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      },
+      "9": {
+        "prompt": "Not usually found in animals.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      },
+      "10": {
+        "prompt": "You can pick this disease up from the garden and it starts within a few hours.",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi"
+        ]
+      }
+    }
+  }
+}

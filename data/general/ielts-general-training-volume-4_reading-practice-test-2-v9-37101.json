@@ -1,255 +1,1157 @@
 {
   "id": "ielts-general-training-volume-4_reading-practice-test-2-v9-37101",
   "type": "general",
-  "source": "ielts-general-training-volume-4 reading-practice-test-2-v9-37101",
+  "title": "IELTS General Training Volume 4 - Reading Test 2",
+  "collection": "IELTS General Training Volume 4",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 4,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-4_reading-practice-test-2-v9-37101.pdf",
-  "total_questions": 22,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1",
-        "tables": [],
+        "heading": "HOLIDAY APARTMENTS TO LET",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-14"
+          },
+          {
+            "label": null,
+            "text": "Is Your Child at School Today?"
+          },
+          {
+            "label": null,
+            "text": "School Attendance Information for Parents/Carers Introduction"
+          },
+          {
+            "label": null,
+            "text": "Receiving a good full-time education will give your child the best possible start\nin life. Attending school regularly and punctually is essential if children are to\nmake the most of the opportunities available to them. The law says that\nparents must ensure that their child regularly attends the school where he/she\nis registered.\nWhat you can do to help"
+          },
+          {
+            "label": null,
+            "text": "Make sure your child arrives at school on time. This encourages habits of good\ntimekeeping and lessens any possible classroom disruption. If your child arrives\nafter the register has closed without a good reason, this will be recorded as an\n'unauthorised' absence for that session.\nIf your child has to miss school it is vital that you let the school know why,\npreferably on the first morning of absence. (Your child's school will have an\nattendance policy explaining how this should be done.)\nIf you know or think that your child is having difficulties attending school you\nshould contact the school. It is better to do this sooner rather than later, as\nmost problems can be dealt with very quickly.\nAuthorised and Unauthorised Absence"
+          },
+          {
+            "label": null,
+            "text": "If your child is absent and the school either does not receive an explanation\nfrom you, or considers the explanation unsatisfactory, it will record your child's"
+          },
+          {
+            "label": null,
+            "text": "absence as 'unauthorised', that is, as truancy.\nMost absences for acceptable reasons will be authorised by your\nchild's school:"
+          },
+          {
+            "label": null,
+            "text": "Sickness\nUnavoidable medical or dental appointments (if possible, arrange these for\nafter school or during school holidays)\nAn interview with a prospective employer or college\nExceptional family circumstances, such as bereavement\nDays of religious observance.\nYour child's school will not authorise absence for the following\nreasons:"
+          },
+          {
+            "label": null,
+            "text": "Shopping during school hours\nDay trips\nHolidays which have not been agreed\nBirthdays\nLooking after brothers or sisters or ill relatives."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 6-14."
+          },
+          {
+            "label": null,
+            "text": "A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a\nsmall first floor apartment in a well-established apartment complex containing\na range of leisure facilities and a supermarket for residents. On the edge of the\ntown but close to cafes and restaurants. On-street parking is generally\navailable."
+          },
+          {
+            "label": null,
+            "text": "B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only\njust opened, five minutes' walk from the sea. Private parking in front of\nbuilding. It is located in a quiet, unspoilt village with a local market, banks,\ncafes and restaurants. There are some fabulous championship golf courses\nwithin easy walking distance."
+          },
+          {
+            "label": null,
+            "text": "C. Sleeps 2+child. One-bedroom cottage (child's bed can also be provided),\nlarge terrace with uninterrupted views of the river and mountains. A truly\npeaceful location in a picturesque village, but less than ten minutes' drive from\nthe coast and all the amenities of a town. Owners live nearby and are happy to\nhelp in any way they can."
+          },
+          {
+            "label": null,
+            "text": "D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and\nbeautiful views of the national park. A peaceful location just 3 km from the\ntown centre, where there are plenty of shops and excellent sports facilities."
+          },
+          {
+            "label": null,
+            "text": "Superb local golf courses within easy reach."
+          },
+          {
+            "label": null,
+            "text": "E. Sleeps 2-4. Modern one-bedroom first floor apartment in house, owners\nresident on ground floor. This great location offers easy access to all that this\nfantastic town has to offer, a few minutes' drive from its supermarket, bank,\ncafes, restaurants.The ferry to the island beach leaves from 100 m away. Ten\nminutes walk from the new shopping centre, which has many shops, food hall,\ncinema and multi-storey car park."
+          },
+          {
+            "label": null,
+            "text": "F. Sleeps 2. One-bedroom first floor apartment. Beautifully furnished, offering a\nhigh standard of comfort. Situated in a peaceful location on the edge of an\ninland village, with attractive views of the golf course. Many restaurants, bars,\nshops etc. are within easy walking distance. Garage available by arrangement\nwith the owners."
+          },
+          {
+            "label": null,
+            "text": "G. Sleeps 2-4. Two-bedroom apartment in central location in busy street with\nshops, restaurants etc. not far from the beach. The town has ideal facilities for\nholidays all year round, including swimming pool, tennis courts and golf course."
+          }
+        ],
+        "text": "Read the text below and answer Questions 1-14\n\nIs Your Child at School Today?\n\nSchool Attendance Information for Parents/Carers Introduction\n\nReceiving a good full-time education will give your child the best possible start\nin life. Attending school regularly and punctually is essential if children are to\nmake the most of the opportunities available to them. The law says that\nparents must ensure that their child regularly attends the school where he/she\nis registered.\nWhat you can do to help\n\nMake sure your child arrives at school on time. This encourages habits of good\ntimekeeping and lessens any possible classroom disruption. If your child arrives\nafter the register has closed without a good reason, this will be recorded as an\n'unauthorised' absence for that session.\nIf your child has to miss school it is vital that you let the school know why,\npreferably on the first morning of absence. (Your child's school will have an\nattendance policy explaining how this should be done.)\nIf you know or think that your child is having difficulties attending school you\nshould contact the school. It is better to do this sooner rather than later, as\nmost problems can be dealt with very quickly.\nAuthorised and Unauthorised Absence\n\nIf your child is absent and the school either does not receive an explanation\nfrom you, or considers the explanation unsatisfactory, it will record your child's\n\nabsence as 'unauthorised', that is, as truancy.\nMost absences for acceptable reasons will be authorised by your\nchild's school:\n\nSickness\nUnavoidable medical or dental appointments (if possible, arrange these for\nafter school or during school holidays)\nAn interview with a prospective employer or college\nExceptional family circumstances, such as bereavement\nDays of religious observance.\nYour child's school will not authorise absence for the following\nreasons:\n\nShopping during school hours\nDay trips\nHolidays which have not been agreed\nBirthdays\nLooking after brothers or sisters or ill relatives.\n\nRead the text below and answer Questions 6-14.\n\nA. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a\nsmall first floor apartment in a well-established apartment complex containing\na range of leisure facilities and a supermarket for residents. On the edge of the\ntown but close to cafes and restaurants. On-street parking is generally\navailable.\n\nB. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only\njust opened, five minutes' walk from the sea. Private parking in front of\nbuilding. It is located in a quiet, unspoilt village with a local market, banks,\ncafes and restaurants. There are some fabulous championship golf courses\nwithin easy walking distance.\n\nC. Sleeps 2+child. One-bedroom cottage (child's bed can also be provided),\nlarge terrace with uninterrupted views of the river and mountains. A truly\npeaceful location in a picturesque village, but less than ten minutes' drive from\nthe coast and all the amenities of a town. Owners live nearby and are happy to\nhelp in any way they can.\n\nD. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and\nbeautiful views of the national park. A peaceful location just 3 km from the\ntown centre, where there are plenty of shops and excellent sports facilities.\n\nSuperb local golf courses within easy reach.\n\nE. Sleeps 2-4. Modern one-bedroom first floor apartment in house, owners\nresident on ground floor. This great location offers easy access to all that this\nfantastic town has to offer, a few minutes' drive from its supermarket, bank,\ncafes, restaurants.The ferry to the island beach leaves from 100 m away. Ten\nminutes walk from the new shopping centre, which has many shops, food hall,\ncinema and multi-storey car park.\n\nF. Sleeps 2. One-bedroom first floor apartment. Beautifully furnished, offering a\nhigh standard of comfort. Situated in a peaceful location on the edge of an\ninland village, with attractive views of the golf course. Many restaurants, bars,\nshops etc. are within easy walking distance. Garage available by arrangement\nwith the owners.\n\nG. Sleeps 2-4. Two-bedroom apartment in central location in busy street with\nshops, restaurants etc. not far from the beach. The town has ideal facilities for\nholidays all year round, including swimming pool, tennis courts and golf course.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text above? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "The text has seven sections, A-G. For which apartment are the following statements true? Write the correct letter A-G. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            6,
+            14
+          ],
+          "optionBank": {
+            "title": "Apartments",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "Children must go to the school where they are registered.",
-          "instruction": "Read the text below and answer Questions 1-14 Is Your Child at School Today? School Attendance Information for Parents/Carers Introduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an ‘unauthorised’ absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child’s school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child’s Read the text below and answer Questions 6-14. HOLIDAY APARTMENTS TO LET A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes’ walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C. Sleeps 2+child. One-bedroom cottage (child’s bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes’ drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Do the following statements agree with the information given in the text above? TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Children must go to the school where they are",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
-          "prompt": "All arrivals after the register has closed are recorded as ‘unauthorised’ absences.",
-          "instruction": "Read the text below and answer Questions 1-14 Is Your Child at School Today? School Attendance Information for Parents/Carers Introduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an ‘unauthorised’ absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child’s school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child’s Read the text below and answer Questions 6-14. HOLIDAY APARTMENTS TO LET A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes’ walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C. Sleeps 2+child. One-bedroom cottage (child’s bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes’ drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Do the following statements agree with the information given in the text above? TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "All arrivals after the register has closed are recorded as",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
-          "prompt": "If your child is absent from school, you must send the school a letter to explain why.",
-          "instruction": "Read the text below and answer Questions 1-14 Is Your Child at School Today? School Attendance Information for Parents/Carers Introduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an ‘unauthorised’ absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child’s school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child’s Read the text below and answer Questions 6-14. HOLIDAY APARTMENTS TO LET A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes’ walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C. Sleeps 2+child. One-bedroom cottage (child’s bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes’ drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Do the following statements agree with the information given in the text above? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g1",
+          "prompt": "If your child is absent from school, you must send the",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "Staff who think a child is having difficulties at school will contact the parents.",
-          "instruction": "Read the text below and answer Questions 1-14 Is Your Child at School Today? School Attendance Information for Parents/Carers Introduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an ‘unauthorised’ absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child’s school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child’s Read the text below and answer Questions 6-14. HOLIDAY APARTMENTS TO LET A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes’ walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C. Sleeps 2+child. One-bedroom cottage (child’s bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes’ drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Do the following statements agree with the information given in the text above? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g1",
+          "prompt": "Staff who think a child is having difficulties at school",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 5,
           "type": "true-false-not-given",
-          "prompt": "Schools will contact other authorities about children who take frequent unauthorised absences.",
-          "instruction": "Read the text below and answer Questions 1-14 Is Your Child at School Today? School Attendance Information for Parents/Carers Introduction Receiving a good full-time education will give your child the best possible start in life. Attending school regularly and punctually is essential if children are to make the most of the opportunities available to them. The law says that parents must ensure that their child regularly attends the school where he/she is registered. What you can do to help Make sure your child arrives at school on time. This encourages habits of good timekeeping and lessens any possible classroom disruption. If your child arrives after the register has closed without a good reason, this will be recorded as an ‘unauthorised’ absence for that session. If your child has to miss school it is vital that you let the school know why, preferably on the first morning of absence. (Your child’s school will have an attendance policy explaining how this should be done.) If you know or think that your child is having difficulties attending school you should contact the school. It is better to do this sooner rather than later, as most problems can be dealt with very quickly. Authorised and Unauthorised Absence If your child is absent and the school either does not receive an explanation from you, or considers the explanation unsatisfactory, it will record your child’s Read the text below and answer Questions 6-14. HOLIDAY APARTMENTS TO LET A. Sleeps 2-3. One-bedroom apartment with uninterrupted sea views. This is a small first floor apartment in a well-established apartment complex containing a range of leisure facilities and a supermarket for residents. On the edge of the town but close to cafes and restaurants. On-street parking is generally available. B. Sleeps 2-4. Spacious one-bedroom apartment in a complex that has only just opened, five minutes’ walk from the sea. Private parking in front of building. It is located in a quiet, unspoilt village with a local market, banks, cafes and restaurants. There are some fabulous championship golf courses within easy walking distance. C. Sleeps 2+child. One-bedroom cottage (child’s bed can also be provided), large terrace with uninterrupted views of the river and mountains. A truly peaceful location in a picturesque village, but less than ten minutes’ drive from the coast and all the amenities of a town. Owners live nearby and are happy to help in any way they can. D. Sleeps 2-5. Two-bedroom apartment in a complex with its own pool and beautiful views of the national park. A peaceful location just 3 km from the town centre, where there are plenty of shops and excellent sports facilities. Do the following statements agree with the information given in the text above? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g1",
+          "prompt": "Schools will contact other authorities about children",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It overlooks a golf course.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It has its own parking space.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It is in the centre of a town.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "The sea can be seen from it.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "There is a swimming pool for residents of the apartment complex.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It is in a new apartment complex.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It is part of an apartment complex with its own supermarket.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "It has a private outdoor area where you can sit.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "The owners will organise parking on request.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        21
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15-21"
+          },
+          {
+            "label": null,
+            "text": "GZJ TRAVEL - Recruitment Info"
+          },
+          {
+            "label": null,
+            "text": "We're looking for keen and effective people who are passionate about travel to\nwork as Travel Sales Consultants in our rapidly-growing team. Our recruitment\nprocess has five stages. Here's how it works:\nThe first stage is to use our online application form to apply for a current\nvacancy."
+          },
+          {
+            "label": null,
+            "text": "This is your chance to tell us about yourself, and the qualities and experience\nyou have that make you the ideal person for the job. For the Travel Sales\nConsultant role, you'll need to provide us with evidence that you have\nextensive experience in a marketing environment, as well as a solid academic\nbackground. If you're interested in a career as a Corporate Travel Consultant,\nyou'll need at least one year's experience as a Travel Consultant."
+          },
+          {
+            "label": null,
+            "text": "If you reach Stage Two, we'll arrange a telephone discussion, where you can\nfind out more about us, including the rewards on offer. For instance, once a\nyear we like to acknowledge outstanding efforts and celebrate successes with\nour co-workers, and we have prize-giving ceremonies designed to do just this.\nIn Stage Three we'll be able to give you more information about GZJ Travel, and\nfind out more about you, at an interview which you'll attend with a small group\nof other applicants. We'll be asking you about your ambitions and of course\nyour sales ability, the most vital quality for our business. You'll also be required\nto complete a psychometric test so we can find out more about your working"
+          },
+          {
+            "label": null,
+            "text": "style and characteristics. We'll also tell you about some of the perks - for\nexample, as a Flight Center employee you can take advantage of the free\nconsultations conducted by our in-house health and wellbeing team,\nHealthwise."
+          },
+          {
+            "label": null,
+            "text": "Next, in Stage Four, you'll be introduced to the Area Leader and you'll also visit\none of our shops, where you'll meet the team and find out more about the sort\nof work that's involved. If you successfully pass Stage Four, you've reached the\nfinal stage of the process and we'll be in touch with a job offer! And if you\naccept, we'll book you into our Learning Center to get your training under way\nas soon as possible. Careerwise, the department responsible for the training,\nwill then organise individual coaching to assist in setting goals for your career\npath."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "Hilton Laboratory"
+          },
+          {
+            "label": null,
+            "text": "Health and safety in the workplace"
+          },
+          {
+            "label": null,
+            "text": "Personal safety"
+          },
+          {
+            "label": null,
+            "text": "You must be familiar with the emergency procedures in your building so that\nyou know what to do in the event of fire, spillages or other accidents. Do not\nenter restricted areas without authorisation, and at all times observe the\nwarnings given. Do not wedge open fire doors or tamper with door closures,\nand do not block doorways, corridors or stairs, as obstructions may affect\naccess in the event of a fire. Avoid leaving drawers and doors open\nunnecessarily and do not trail cables or flexes across the floor."
+          },
+          {
+            "label": null,
+            "text": "How to dispose of rubbish safely"
+          },
+          {
+            "label": null,
+            "text": "We aim to protect the environment by saving and recycling glass, waste paper,\nand an increasing range of other materials. It is important to check materials\ncarefully for contamination before placing them in recycling containers. Never\nput sharp objects such as razor blades or broken glass into waste bins without\nhaving wrapped the items carefully to protect those emptying the bins. Other\nwaste procedures may vary - contact your Building Manager or Divisional\nSafety Officer for advice with regard to your particular department."
+          },
+          {
+            "label": null,
+            "text": "How to handle heavy objects"
+          },
+          {
+            "label": null,
+            "text": "Make sure that shelves are not overloaded and that glass and heavy objects\nare stored at working height where they will be easier to reach. Use steps or"
+          },
+          {
+            "label": null,
+            "text": "ladders to reach items at height; never ciimb on benches, tables or chairs.\nNever move anything that is beyond your capability. Wherever possible you\nshould use the trolleys provided in the workplace to do the job for you. If\nrepetitive manual operations are routine in your work, your department will\nensure you receive appropriate instruction on safe working practices and\nposture."
+          },
+          {
+            "label": null,
+            "text": "Staying alert"
+          },
+          {
+            "label": null,
+            "text": "If you become mentally or physically tired during the working day, and find that\nyou're feeling drowsy or not concentrating properly, you could be at risk of\ncausing an accident or making a mistake that could harm you or your\ncolleagues. To prevent this, make sure that you take regular breaks when\nnecessary."
+          }
+        ],
+        "text": "Read the text below and answer Questions 15-21\n\nGZJ TRAVEL - Recruitment Info\n\nWe're looking for keen and effective people who are passionate about travel to\nwork as Travel Sales Consultants in our rapidly-growing team. Our recruitment\nprocess has five stages. Here's how it works:\nThe first stage is to use our online application form to apply for a current\nvacancy.\n\nThis is your chance to tell us about yourself, and the qualities and experience\nyou have that make you the ideal person for the job. For the Travel Sales\nConsultant role, you'll need to provide us with evidence that you have\nextensive experience in a marketing environment, as well as a solid academic\nbackground. If you're interested in a career as a Corporate Travel Consultant,\nyou'll need at least one year's experience as a Travel Consultant.\n\nIf you reach Stage Two, we'll arrange a telephone discussion, where you can\nfind out more about us, including the rewards on offer. For instance, once a\nyear we like to acknowledge outstanding efforts and celebrate successes with\nour co-workers, and we have prize-giving ceremonies designed to do just this.\nIn Stage Three we'll be able to give you more information about GZJ Travel, and\nfind out more about you, at an interview which you'll attend with a small group\nof other applicants. We'll be asking you about your ambitions and of course\nyour sales ability, the most vital quality for our business. You'll also be required\nto complete a psychometric test so we can find out more about your working\n\nstyle and characteristics. We'll also tell you about some of the perks - for\nexample, as a Flight Center employee you can take advantage of the free\nconsultations conducted by our in-house health and wellbeing team,\nHealthwise.\n\nNext, in Stage Four, you'll be introduced to the Area Leader and you'll also visit\none of our shops, where you'll meet the team and find out more about the sort\nof work that's involved. If you successfully pass Stage Four, you've reached the\nfinal stage of the process and we'll be in touch with a job offer! And if you\naccept, we'll book you into our Learning Center to get your training under way\nas soon as possible. Careerwise, the department responsible for the training,\nwill then organise individual coaching to assist in setting goals for your career\npath.\n\nRead the text below and answer Questions 22-27.\n\nHilton Laboratory\n\nHealth and safety in the workplace\n\nPersonal safety\n\nYou must be familiar with the emergency procedures in your building so that\nyou know what to do in the event of fire, spillages or other accidents. Do not\nenter restricted areas without authorisation, and at all times observe the\nwarnings given. Do not wedge open fire doors or tamper with door closures,\nand do not block doorways, corridors or stairs, as obstructions may affect\naccess in the event of a fire. Avoid leaving drawers and doors open\nunnecessarily and do not trail cables or flexes across the floor.\n\nHow to dispose of rubbish safely\n\nWe aim to protect the environment by saving and recycling glass, waste paper,\nand an increasing range of other materials. It is important to check materials\ncarefully for contamination before placing them in recycling containers. Never\nput sharp objects such as razor blades or broken glass into waste bins without\nhaving wrapped the items carefully to protect those emptying the bins. Other\nwaste procedures may vary - contact your Building Manager or Divisional\nSafety Officer for advice with regard to your particular department.\n\nHow to handle heavy objects\n\nMake sure that shelves are not overloaded and that glass and heavy objects\nare stored at working height where they will be easier to reach. Use steps or\n\nladders to reach items at height; never ciimb on benches, tables or chairs.\nNever move anything that is beyond your capability. Wherever possible you\nshould use the trolleys provided in the workplace to do the job for you. If\nrepetitive manual operations are routine in your work, your department will\nensure you receive appropriate instruction on safe working practices and\nposture.\n\nStaying alert\n\nIf you become mentally or physically tired during the working day, and find that\nyou're feeling drowsy or not concentrating properly, you could be at risk of\ncausing an accident or making a mistake that could harm you or your\ncolleagues. To prevent this, make sure that you take regular breaks when\nnecessary.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "diagram-label",
+          "instruction": "Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-general-training-volume-4_reading-practice-test-2-v9-37101/p2g1-1.png",
+              "w": 982,
+              "h": 178
+            },
+            {
+              "src": "assets/crops/ielts-general-training-volume-4_reading-practice-test-2-v9-37101/p2g1-2.png",
+              "w": 982,
+              "h": 409
+            }
+          ],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 22-27 on your answer sheet. There are certain places in the building that staff should avoid unless they",
+          "body": "have [[22]] To ensure people can get out easily, it is important that there are no [[23]] to exits. Items which could cause injury must be [[24]] before they are disposed of. Not all departments have the same system for dealing with [[25]] so you need to check before throwing things away. [[26]] are available to make tasks, which require moving objects easier. You should have [[27]] while you are working.",
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "marketing environment"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "marketing environment",
+          "trap": null
         },
         {
           "number": 16,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "Corporate Travel Consultant"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Corporate Travel Consultant",
+          "trap": null
         },
         {
           "number": 17,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "rewards"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "rewards",
+          "trap": null
         },
         {
           "number": 18,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "outstanding efforts"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "outstanding efforts",
+          "trap": null
         },
         {
           "number": 19,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "ambitions"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "ambitions",
+          "trap": null
         },
         {
           "number": 20,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "psychometric test"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "psychometric test",
+          "trap": null
         },
         {
           "number": 21,
           "type": "diagram-label",
+          "groupId": "p2g1",
           "prompt": "",
-          "instruction": "Read the text below and answer Questions 15-21 GZJ TRAVEL – Recruitment Info We’re looking for keen and effective people who are passionate about travel to work as Travel Sales Consultants in our rapidly-growing team. Our recruitment process has five stages. Here’s how it works: The first stage is to use our online application form to apply for a current vacancy. This is your chance to tell us about yourself, and the qualities and experience you have that make you the ideal person for the job. For the Travel Sales Consultant role, you’ll need to provide us with evidence that you have extensive experience in a marketing environment, as well as a solid academic background. If you’re interested in a career as a Corporate Travel Consultant, you’ll need at least one year’s experience as a Travel Consultant. If you reach Stage Two, we’ll arrange a telephone discussion, where you can find out more about us, including the rewards on offer. For instance, once a year we like to acknowledge outstanding efforts and celebrate successes with our co-workers, and we have prize-giving ceremonies designed to do just this. In Stage Three we’ll be able to give you more information about GZJ Travel, and find out more about you, at an interview which you’ll attend with a small group of other applicants. We’ll be asking you about your ambitions and of course your sales ability, the most vital quality for our business. You’ll also be required to complete a psychometric test so we can find out more about your working Read the text below and answer Questions 22-27. Hilton Laboratory Health and safety in the workplace Personal safety You must be familiar with the emergency procedures in your building so that you know what to do in the event of fire, spillages or other accidents. Do not enter restricted areas without authorisation, and at all times observe the warnings given. Do not wedge open fire doors or tamper with door closures, and do not block doorways, corridors or stairs, as ob​structions may affect access in the event of a fire. Avoid leaving drawers and doors open unnecessarily and do not trail cables or flexes across the floor. How to dispose of rubbish safely We aim to protect the environment by saving and recycling glass, waste paper, and an increasing range of other materials. It is important to check materials carefully for con​tamination before placing them in recycling containers. Never put sharp objects such as razor blades or broken glass into waste bins without having wrapped the items carefully to protect those emptying the bins. Other waste procedures may vary – contact your Building Manager or Divisional Safety Officer for advice with regard to your particular department. How to handle heavy objects Make sure that shelves are not overloaded and that glass and heavy objects are stored at working height where they will be easier to reach. Use steps or Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 15-21 on your answer sheet.",
-          "answer": "team"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "team",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "authorization/authorisation",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "to exits.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "obstructions",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "wrapped (carefully)",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "waste/rubbish",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "are available to make tasks, which require moving objects\neasier.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Trolleys",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(regular) breaks",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28-40"
+          },
+          {
+            "label": null,
+            "text": "The Zebras' long walk across Africa"
+          },
+          {
+            "label": null,
+            "text": "James Gifford investigates some interesting new research into migration\npatterns of zebras living in Botswana in southern Africa"
+          },
+          {
+            "label": "A",
+            "text": "For any animal to travel over 270 km in Botswana partly across the sand and\nlow bush terrain of the Kalahari Desert is a remarkable achievement. But to do\nso in 11 days and without any obvious motivation, as this zebra population\ndoes, is quite extraordinary. On average their journey involves an exhausting\nround-trip of 588 km - between the Makgadikgadi salt pan area and the\nOkavango river - making it second only to the great trek undertaken by the\nzebra herds in the Serengeti National Park. However, what is even more\nincredible still in my view is that until recently it was completely unheard of."
+          },
+          {
+            "label": "B",
+            "text": "Hattie Bartlam, a researcher, discovered this migration while she was tracking\nzebra groups, officially known as harems, by the Okavango river for her PhD,\nEach harem consists of a stallion and his seven or eight mares with juvenile\nfoals. There is no loyalty between zebras beyond this social group, though\nharems often gather together into so- called herds. For her study, Hattie had\nplanned to compare the small-scale movement patterns of 11 different zebra\nherds in the area."
+          },
+          {
+            "label": "C",
+            "text": "in December, when the annual rains had transformed the roads into rivers,\nHattie was, therefore, more than a little surprised when she checked the data\nsent by the radio collars she fits to the zebras she is tracking to find that six of\nthe harems were 270 km away on the edge of the Makgadikgadi, a huge\nmineral-rich area where salt has collected over the years as water evaporates\nin the heat. Then, when the last of the moisture from the rains had disappeared\nin May the following year, five of those harems came wearily back to the\nOkavango. This raised the question: why, despite a plentiful supply of food and\nwater, were the zebras being drawn eastwards to the salt pans? Even more\ndifficult to understand was what made six of the groups travel so far, while the\nother five remained by the Okavango."
+          },
+          {
+            "label": "D",
+            "text": "This discovery created quite a buzz in the research community. I decided to\nvisit Hattie and she explained that a century ago the large number of\nBotswana's zebra and wildebeest herds and the resulting competition for grass\nmade migration essential. One of the migration tracks went from the Okavango\nto Makgadikgadi. But in the late 1960s, giant fences were put up to stop foot\nand mouth and other diseases spreading between wildlife and domestic cattle.\nOne of these went across the migration track. Though the animals could get\nround the obstacle, each leg of their journey would now be 200 km longer - an\nimpossible distance given the lack of permanent water on the extended route.\nEven today, with the fence gone (it was taken down in 2004), there is\ndangerously little drinking water to support the zebras on the return journey to\nthe Okavango."
+          },
+          {
+            "label": "E",
+            "text": "As a zebra can live up to 20 years, the migration must have skipped at least\none generation during the 40 or so years that the fences were up. This prompts\nanother question: it has always been assumed that the young of social\nherbivores like zebras learn migratory behaviour from their parents, so how did\nthe latest generation learn when and where to go? Not from their parents, who\nwere prevented from migrating. Did they follow another species, such as\nelephants? We may never know."
+          },
+          {
+            "label": "F",
+            "text": "Hattie's data points to the conclusion that there are several zebra populations\nadopting different behaviour. The first, like the vast majority of the Okavango\nzebras, take it easy, spending the entire year by the river. The second group,\n15,000-20,000 strong, work a bit harder. They divide their time between the"
+          },
+          {
+            "label": null,
+            "text": "Makgadikgadi salt pans and the Boteti River, which is reasonably near by. They\nsometimes struggle to find water in the Boteti area during the dry season,\noften moving 30 km in search of fresh grazing. Their reward: the juicy grass\naround the Makgadikgadi after the rains. The final group of zebras, whose\nnumbers are more modest (though as yet unknown), must surely be\nconsidered as among the animal kingdom's most remarkable athletes. By\nmoving between the Okavango and the salt pans, they enjoy the best of both\nworlds. But the price they pay is an extraordinary journey across Botswana."
+          },
+          {
+            "label": "G",
+            "text": "Endangered species naturally tend to grab the headlines, so it's refreshing for a\nrelatively abundant animal like the zebra to be the centre of attention for once.\nZebras are a vital part of the food chain: understanding their migration in turn\nhelps us to interpret the movements of their predators, and Hattie's research\nhas shed light on the impact of fences on migratory animals. So what triggered\nher interest in zebras? She explains that it is easier to get funding to study\nexciting animals like lions. Crucial as that undoubtedly is, she believes that\nherbivores like zebras are key to understanding any ecosystem. The scientific\ncommunity is fortunate that people like Hattie are willing to take the hard\noption."
+          }
+        ],
+        "text": "Read the text below and answer Questions 28-40\n\nThe Zebras' long walk across Africa\n\nJames Gifford investigates some interesting new research into migration\npatterns of zebras living in Botswana in southern Africa\n\nFor any animal to travel over 270 km in Botswana partly across the sand and\nlow bush terrain of the Kalahari Desert is a remarkable achievement. But to do\nso in 11 days and without any obvious motivation, as this zebra population\ndoes, is quite extraordinary. On average their journey involves an exhausting\nround-trip of 588 km - between the Makgadikgadi salt pan area and the\nOkavango river - making it second only to the great trek undertaken by the\nzebra herds in the Serengeti National Park. However, what is even more\nincredible still in my view is that until recently it was completely unheard of.\n\nHattie Bartlam, a researcher, discovered this migration while she was tracking\nzebra groups, officially known as harems, by the Okavango river for her PhD,\nEach harem consists of a stallion and his seven or eight mares with juvenile\nfoals. There is no loyalty between zebras beyond this social group, though\nharems often gather together into so- called herds. For her study, Hattie had\nplanned to compare the small-scale movement patterns of 11 different zebra\nherds in the area.\n\nin December, when the annual rains had transformed the roads into rivers,\nHattie was, therefore, more than a little surprised when she checked the data\nsent by the radio collars she fits to the zebras she is tracking to find that six of\nthe harems were 270 km away on the edge of the Makgadikgadi, a huge\nmineral-rich area where salt has collected over the years as water evaporates\nin the heat. Then, when the last of the moisture from the rains had disappeared\nin May the following year, five of those harems came wearily back to the\nOkavango. This raised the question: why, despite a plentiful supply of food and\nwater, were the zebras being drawn eastwards to the salt pans? Even more\ndifficult to understand was what made six of the groups travel so far, while the\nother five remained by the Okavango.\n\nThis discovery created quite a buzz in the research community. I decided to\nvisit Hattie and she explained that a century ago the large number of\nBotswana's zebra and wildebeest herds and the resulting competition for grass\nmade migration essential. One of the migration tracks went from the Okavango\nto Makgadikgadi. But in the late 1960s, giant fences were put up to stop foot\nand mouth and other diseases spreading between wildlife and domestic cattle.\nOne of these went across the migration track. Though the animals could get\nround the obstacle, each leg of their journey would now be 200 km longer - an\nimpossible distance given the lack of permanent water on the extended route.\nEven today, with the fence gone (it was taken down in 2004), there is\ndangerously little drinking water to support the zebras on the return journey to\nthe Okavango.\n\nAs a zebra can live up to 20 years, the migration must have skipped at least\none generation during the 40 or so years that the fences were up. This prompts\nanother question: it has always been assumed that the young of social\nherbivores like zebras learn migratory behaviour from their parents, so how did\nthe latest generation learn when and where to go? Not from their parents, who\nwere prevented from migrating. Did they follow another species, such as\nelephants? We may never know.\n\nHattie's data points to the conclusion that there are several zebra populations\nadopting different behaviour. The first, like the vast majority of the Okavango\nzebras, take it easy, spending the entire year by the river. The second group,\n15,000-20,000 strong, work a bit harder. They divide their time between the\n\nMakgadikgadi salt pans and the Boteti River, which is reasonably near by. They\nsometimes struggle to find water in the Boteti area during the dry season,\noften moving 30 km in search of fresh grazing. Their reward: the juicy grass\naround the Makgadikgadi after the rains. The final group of zebras, whose\nnumbers are more modest (though as yet unknown), must surely be\nconsidered as among the animal kingdom's most remarkable athletes. By\nmoving between the Okavango and the salt pans, they enjoy the best of both\nworlds. But the price they pay is an extraordinary journey across Botswana.\n\nEndangered species naturally tend to grab the headlines, so it's refreshing for a\nrelatively abundant animal like the zebra to be the centre of attention for once.\nZebras are a vital part of the food chain: understanding their migration in turn\nhelps us to interpret the movements of their predators, and Hattie's research\nhas shed light on the impact of fences on migratory animals. So what triggered\nher interest in zebras? She explains that it is easier to get funding to study\nexciting animals like lions. Crucial as that undoubtedly is, she believes that\nherbivores like zebras are key to understanding any ecosystem. The scientific\ncommunity is fortunate that people like Hattie are willing to take the hard\noption.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "The text has seven sections, A-G.",
+          "body": null,
+          "range": [
+            28,
+            34
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "A decrease in the zebra population",
+              "An obstruction on the traditional route",
+              "An unknown species",
+              "Some confusing information",
+              "Staying permanently in the Makgadikgadi",
+              "Nearly a record in the zebra world",
+              "Three different ways of living",
+              "The original aim of the work",
+              "How was the information passed on?",
+              "Why it is important to study zebras"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 35-37 on your answer sheet. Social behaviour in zebras",
+          "body": "Zebras tend to live together in small units, which experts call [[35]] Here, a male zebra has charge of a number of adult [[36]] and their young. These units sometimes assemble in bigger groupings or [[37]] , but it is still clear that the zebras' loyalty only extends to the small unit they live in.",
+          "range": [
+            35,
+            37
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 38-40 on your answer sheet.",
+          "body": null,
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section A",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "vi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 29,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section B",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "viii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 30,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section C",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "iv"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
         },
         {
           "number": 31,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section D",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "ii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 32,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section E",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "ix"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
         },
         {
           "number": 33,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section F",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "vii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
         },
         {
           "number": 34,
           "type": "heading-matching",
-          "prompt": "Section G Complete the summary below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 35-37 on your answer sheet.",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras",
-          "answer": "x"
+          "groupId": "p3g1",
+          "prompt": "Section G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "harems",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "mares",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "herds",
+          "trap": null
         },
         {
           "number": 38,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "How did Hattie feel when she heard some of the zebras had travelled",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras Complete the summary below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 35-37 on your answer sheet. Social behaviour in zebras Zebras tend to live together in small units, which experts call 35 Here, a male zebra has charge of a number of adult 36 and their young. These units sometimes assemble in bigger groupings or 37 , but it is still clear that the zebras’ loyalty only extends to the small unit they live in. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 38-40 on your answer sheet.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "D",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ]
+          "trap": null
         },
         {
           "number": 39,
           "type": "multiple-choice",
-          "prompt": "When describing the different Botswana zebra populations, the writer",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras Complete the summary below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 35-37 on your answer sheet. Social behaviour in zebras Zebras tend to live together in small units, which experts call 35 Here, a male zebra has charge of a number of adult 36 and their young. These units sometimes assemble in bigger groupings or 37 , but it is still clear that the zebras’ loyalty only extends to the small unit they live in. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 38-40 on your answer sheet.",
-          "answer": "A",
+          "groupId": "p3g3",
+          "prompt": "When describing the different Botswana zebra populations, the writer indicates",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "his admiration for the ones who migrate the furthest distance.",
+            "his sympathy for the ones who stay by the Okavango River.",
+            "his disbelief that those by the Boteti have difficulty finding food.",
+            "his anxiety that their migration patterns may not be able to continue."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 40,
           "type": "multiple-choice",
+          "groupId": "p3g3",
           "prompt": "What does the writer suggest in the final paragraph?",
-          "instruction": "Read the text below and answer Questions 28-40 The Zebras’ long walk across Africa James Gifford investigates some interesting new research into migration patterns of zebras living in Botswana in southern Africa A For any animal to travel over 270 km in Botswana partly across the sand and low bush terrain of the Kalahari Desert is a remarkable achievement. But to do so in 11 days and without any obvious motivation, as this zebra population does, is quite extraordinary. On average their journey involves an exhausting round-trip of 588 km – between the Makgadikgadi salt pan area and the Okavango river – making it second only to the great trek undertaken by the zebra herds in the Serengeti National Park. However, what is even more incredible still in my view is that until recently it was completely unheard of. B Hattie Bartlam, a researcher, discovered this migration while she was tracking zebra groups, officially known as harems, by the Okavango river for her PhD, Each harem consists of a stallion and his seven or eight mares with juvenile foals. There is no loyalty between zebras beyond this social group, though harems often gather together into so- called herds. For her study, Hattie had planned to compare the small-scale movement patterns of 11 different zebra herds in the area. C Choose the correct heading for each section from the list of headings below. Write the correct number i-x, in boxes 28-34 on your answer sheet. i A decrease in the zebra population ii An obstruction on the traditional route iii An unknown species iv Some confusing information v Staying permanently in the Makgadikgadi vi Nearly a record in the zebra world vii Three different ways of living viii The original aim of the work ix How was the information passed on? x Why it is important to study zebras Complete the summary below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 35-37 on your answer sheet. Social behaviour in zebras Zebras tend to live together in small units, which experts call 35 Here, a male zebra has charge of a number of adult 36 and their young. These units sometimes assemble in bigger groupings or 37 , but it is still clear that the zebras’ loyalty only extends to the small unit they live in. Choose the correct letter, A, B, C or D. Write the correct letter in boxes 38-40 on your answer sheet.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "B",
-          "options": [
-            "A",
-            "B",
-            "C",
-            "D"
-          ]
+          "trap": null
         }
       ]
     }

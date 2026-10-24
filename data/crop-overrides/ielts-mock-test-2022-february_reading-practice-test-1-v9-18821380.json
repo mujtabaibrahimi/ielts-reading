@@ -1,0 +1,76 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "The text has 7 paragraphs (A-G). Which paragraph contains each of the following pieces of information?",
+    "optionBank": {
+      "title": "Paragraphs",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "Traffic accidents are sometimes caused by lack of sleep.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "2": {
+        "prompt": "The number of children included in the study",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "3": {
+        "prompt": "How two schools are trying to deal with the problem",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "4": {
+        "prompt": "How the effect of having less sleep was measured",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "18": "A,C,D,E,H",
+    "19": "A,C,D,E,H",
+    "20": "A,C,D,E,H",
+    "21": "A,C,D,E,H",
+    "22": "A,C,D,E,H"
+  }
+}

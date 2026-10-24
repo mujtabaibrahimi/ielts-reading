@@ -1,414 +1,1121 @@
 {
   "id": "ielts-mock-test-2024-july_reading-practice-test-3-v9-18967550",
   "type": "academic",
-  "source": "ielts-mock-test-2024-july reading-practice-test-3-v9-18967550",
+  "title": "IELTS Academic 2024 July - Reading Test 3",
+  "collection": "IELTS Academic Mock Tests 2024",
+  "testNumber": 3,
+  "year": 2024,
+  "month": 7,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2024-july_reading-practice-test-3-v9-18967550.pdf",
-  "total_questions": 31,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-13."
+          },
+          {
+            "label": null,
+            "text": "Daydreaming"
+          },
+          {
+            "label": null,
+            "text": "Daydreaming is a universal human experience. It occurs when we sit or lie\ndown, close our eyes, and use our imagination to think about events that might\nhappen in the future or could have occurred in the past. Most daydreams are\nenjoyable because they involve scenarios we hope to see come true, such as\nbeing in someone else's shoes, achieving long-held dreams, or receiving more\nadmiration and approval from others."
+          },
+          {
+            "label": null,
+            "text": "Unlike dreams, which occur during sleep, daydreams happen while we are\nawake and allow us to direct their content. While many daydreams may involve\nunlikely events, some are rooted in realistic situations and can aid us in\ndetermining what we want to do or how to achieve the best outcomes. In this\nsense, daydreams can be quite useful, as they enable us to gain a deeper\nunderstanding of the world and the people around us."
+          },
+          {
+            "label": null,
+            "text": "Moreover, daydreaming can stimulate creativity. Individuals in creative\nprofessions, such as composers, writers, and filmmakers, often develop new\nideas through daydreaming. This creative process also benefits scientists and\nmathematicians. Albert Einstein famously stated that imagination is more\nimportant than knowledge, as knowledge is limited, but creativity is boundless."
+          },
+          {
+            "label": null,
+            "text": "Research from the 1980s found that more than 75% of workers engaged in\nmonotonous jobs, like truck drivers and security guards, frequently daydream\nto make their workday more engaging. Recent studies have also suggested\nthat daydreaming has positive effects on the brain; MRI scans reveal that areas\ninvolved in complex problem-solving are more active during daydreaming. This\nindicates that daydreaming helps consolidate learning similar to dreaming\nwhile we are asleep."
+          },
+          {
+            "label": null,
+            "text": "Despite its advantages, daydreaming is often viewed negatively in many\ncultures. One reason is the association of daydreaming with idleness. In the\n19th century, frequent daydreamers were usually seen as lazy, especially as\nfactory work and assembly line jobs became widespread. These roles required\nindividuals to perform repetitive tasks with little room for creativity, leading\nmany to see people who daydreamed as slacking off."
+          },
+          {
+            "label": null,
+            "text": "Critics also contend that daydreaming fosters 'escapism,' which is considered\nunhealthy. People who engage in escapism may retreat into a fantasy world"
+          },
+          {
+            "label": null,
+            "text": "where they are successful and popular, rather than addressing real-world\nchallenges. Such individuals often appear unhappy and less willing or able to\nimprove their daily lives. Recent studies indicate that people who frequently\ndaydream tend to have fewer close friends and may even lack close friendships\nentirely."
+          }
+        ],
+        "text": "Read the text below and answer Questions 1-13.\n\nDaydreaming\n\nDaydreaming is a universal human experience. It occurs when we sit or lie\ndown, close our eyes, and use our imagination to think about events that might\nhappen in the future or could have occurred in the past. Most daydreams are\nenjoyable because they involve scenarios we hope to see come true, such as\nbeing in someone else's shoes, achieving long-held dreams, or receiving more\nadmiration and approval from others.\n\nUnlike dreams, which occur during sleep, daydreams happen while we are\nawake and allow us to direct their content. While many daydreams may involve\nunlikely events, some are rooted in realistic situations and can aid us in\ndetermining what we want to do or how to achieve the best outcomes. In this\nsense, daydreams can be quite useful, as they enable us to gain a deeper\nunderstanding of the world and the people around us.\n\nMoreover, daydreaming can stimulate creativity. Individuals in creative\nprofessions, such as composers, writers, and filmmakers, often develop new\nideas through daydreaming. This creative process also benefits scientists and\nmathematicians. Albert Einstein famously stated that imagination is more\nimportant than knowledge, as knowledge is limited, but creativity is boundless.\n\nResearch from the 1980s found that more than 75% of workers engaged in\nmonotonous jobs, like truck drivers and security guards, frequently daydream\nto make their workday more engaging. Recent studies have also suggested\nthat daydreaming has positive effects on the brain; MRI scans reveal that areas\ninvolved in complex problem-solving are more active during daydreaming. This\nindicates that daydreaming helps consolidate learning similar to dreaming\nwhile we are asleep.\n\nDespite its advantages, daydreaming is often viewed negatively in many\ncultures. One reason is the association of daydreaming with idleness. In the\n19th century, frequent daydreamers were usually seen as lazy, especially as\nfactory work and assembly line jobs became widespread. These roles required\nindividuals to perform repetitive tasks with little room for creativity, leading\nmany to see people who daydreamed as slacking off.\n\nCritics also contend that daydreaming fosters 'escapism,' which is considered\nunhealthy. People who engage in escapism may retreat into a fantasy world\n\nwhere they are successful and popular, rather than addressing real-world\nchallenges. Such individuals often appear unhappy and less willing or able to\nimprove their daily lives. Recent studies indicate that people who frequently\ndaydream tend to have fewer close friends and may even lack close friendships\nentirely.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 1-8, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer.",
+          "body": "Writers, artists and other creative people use daydreaming to [[9]] The areas of the brain used in daydreaming are also used for complicated [[10]]",
+          "range": [
+            9,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "People usually daydream when they are walking around.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "People usually daydream when they are walking",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Some people can daydream when they are asleep.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
-          "prompt": "Some daydreams help us to be more successful in our lives.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Some daydreams help us to be more successful in our",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "Most lorry drivers daydream in their jobs to make them more interesting.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g1",
+          "prompt": "Most lorry drivers daydream in their jobs to make them",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 5,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Factory workers daydream more than lorry drivers.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 6,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Daydreaming helps people to be creative.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 7,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Old people daydream more than young people.",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 8,
           "type": "true-false-not-given",
-          "prompt": "Escapist people are generally very happy. Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Writers, artists and other creative people use daydreaming to 9",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g1",
+          "prompt": "Escapist people are generally very happy.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "develop new ideas",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "problem-solving",
+          "trap": null
         },
         {
           "number": 11,
           "type": "multiple-choice",
+          "groupId": "p1g3",
           "prompt": "Daydreams are",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Writers, artists and other creative people use daydreaming to 9 The areas of the brain used in daydreaming are also used for complicated 10 Choose the correct letter, A, B, C or D.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "dreams that we have when we fall asleep in daytime.",
+            "about things that happened that make us sad.",
+            "often about things that we would like to happen.",
+            "activities that only a few people are able to do."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 12,
           "type": "multiple-choice",
-          "prompt": "In the nineteenth century, many people believed that daydreaming",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Writers, artists and other creative people use daydreaming to 9 The areas of the brain used in daydreaming are also used for complicated 10 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "groupId": "p1g3",
+          "prompt": "In the nineteenth century, many people believed that daydreaming was",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "helpful in factory work.",
+            "a way of avoiding work.",
+            "something that few people did.",
+            "a healthy activity."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 13,
           "type": "multiple-choice",
+          "groupId": "p1g3",
           "prompt": "People who daydream a lot",
-          "instruction": "Read the text below and answer Questions 1-13. Daydreaming Daydreaming is a universal human experience. It occurs when we sit or lie down, close our eyes, and use our imagination to think about events that might happen in the future or could have occurred in the past. Most daydreams are enjoyable because they involve scenarios we hope to see come true, such as being in someone else's shoes, achieving long-held dreams, or receiving more admiration and approval from others. Unlike dreams, which occur during sleep, daydreams happen while we are awake and allow us to direct their content. While many daydreams may involve unlikely events, some are rooted in realistic situations and can aid us in determining what we want to do or how to achieve the best outcomes. In this sense, daydreams can be quite useful, as they enable us to gain a deeper understanding of the world and the people around us. Moreover, daydreaming can stimulate creativity. Individuals in creative professions, such as composers, writers, and filmmakers, often develop new ideas through daydreaming. This creative process also benefits scientists and mathematicians. Albert Einstein famously stated that imagination is more important than knowledge, as knowledge is limited, but creativity is boundless. Research from the 1980s found that more than 75% of workers engaged in monotonous jobs, like truck drivers and security guards, frequently daydream to make their workday more engaging. Recent studies have also suggested that daydreaming has positive effects on the brain; MRI scans reveal that areas involved in complex problem-solving are more active during daydreaming. This indicates that daydreaming helps consolidate learning similar to dreaming while we are asleep. Despite its advantages, daydreaming is often viewed negatively in many cultures. One reason is the association of daydreaming with idleness. In the 19th century, frequent daydreamers were usually seen as lazy, especially as factory work and assembly line jobs became widespread. These roles required individuals to perform repetitive tasks with little room for creativity, leading many to see people who daydreamed as slacking off. Critics also contend that daydreaming fosters 'escapism,' which is considered unhealthy. People who engage in escapism may retreat into a fantasy world Do the following statements agree with the information given in the text? For questions 1-8, write TRUE Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Writers, artists and other creative people use daydreaming to 9 The areas of the brain used in daydreaming are also used for complicated 10 Choose the correct letter, A, B, C or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "usually have creative jobs.",
+            "are much happier than other people.",
+            "are less intelligent than other people.",
+            "do not have as many friends as other people. READING PASSAGE 2 Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another reason for his refusal. G. The reason lies in the discomfort of being 'put on the spot,' which Osborne likely wanted to avoid. It is well documented that intense pressure complicates tasks people usually find easy. When placed under such scrutiny, stress can elevate heart rates and adrenaline levels, leading to mistakes--a phenomenon known as 'choking.' This effect is common in sports, such as when a footballer takes a critical penalty kick. Similarly, the boy's question subjected Osborne to considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         25
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "TRICKY SUMS AND PSYCHOLOGY",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 14-25."
+          },
+          {
+            "label": null,
+            "text": "A. In the early stages of mathematics education, children worldwide are\ntypically required to learn the times table, also known as the multiplication\ntable, which presents the results of multiplying numbers. Traditionally, children\nhave memorized this table by starting with '1 time 1 is 1' and progressing to\n'12 times 12 is 144'."
+          },
+          {
+            "label": null,
+            "text": "B. The history of times tables extends far back in time. The earliest known\ntables using base 10 numbers, which are now standard worldwide, were\ndiscovered on bamboo strips from 305 BC in China. In contrast, many European\ncultures refer to the multiplication table as the Table of Pythagoras, named\nafter the Ancient Greek mathematician and philosopher Pythagoras (570-495\nBC), and it retains this name in languages like French and Italian."
+          },
+          {
+            "label": null,
+            "text": "C. In 1820, mathematician John Leslie, in his book \"The Philosophy of\nArithmetic,\" suggested that students memorize the times table up to 25 x 25.\nToday, however, educators generally aim for children to memorize the table up\nto 9 x 9, 10 x 10, or 12 x 12."
+          },
+          {
+            "label": null,
+            "text": "D. In the UK, the current educational objective is for pupils to learn all times\ntables up to 12 x 12 by the age of nine. Nonetheless, many individuals,\nincluding adults, do not fully know them. Some politicians have faced such\nmultiplication queries; for instance, in 1998, schools minister Stephen Byers\nmistakenly answered 54 instead of 56 to the question of what 7 x 8 equals,\nresulting in public ridicule."
+          },
+          {
+            "label": null,
+            "text": "E. Similarly, in 2014, UK Chancellor George Osborne was asked the same\nmultiplication question by a young boy. Given his A-level mathematics\nqualifications and his role in overseeing the UK's economic policies, one would\nexpect him to know the answer. Yet, Osborne declined to respond, stating, 'I've\nmade it a rule in life not to answer such questions.'"
+          },
+          {
+            "label": null,
+            "text": "F. This begs the question of why a politician would refuse to answer. Some\nsums are indeed more challenging than others. Research shows that sums\ninvolving the numbers 6, 7, 8, and 9 are particularly difficult to learn and\nremember, especially when these numbers are multiplied together. Both 6 x 8\nand 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it\nis improbable that Osborne did not know the answer to 7 x 8, implying another"
+          },
+          {
+            "label": null,
+            "text": "reason for his refusal."
+          },
+          {
+            "label": null,
+            "text": "G. The reason lies in the discomfort of being 'put on the spot,' which Osborne\nlikely wanted to avoid. It is well documented that intense pressure complicates\ntasks people usually find easy. When placed under such scrutiny, stress can\nelevate heart rates and adrenaline levels, leading to mistakes-a phenomenon\nknown as 'choking.' This effect is common in sports, such as when a footballer\ntakes a critical penalty kick. Similarly, the boy's question subjected Osborne to\nconsiderable pressure, and he feared the potential consequences of answering\nincorrectly, leading him to avoid responding."
+          }
+        ],
+        "text": "Read the text below and answer Questions 14-25.\n\nA. In the early stages of mathematics education, children worldwide are\ntypically required to learn the times table, also known as the multiplication\ntable, which presents the results of multiplying numbers. Traditionally, children\nhave memorized this table by starting with '1 time 1 is 1' and progressing to\n'12 times 12 is 144'.\n\nB. The history of times tables extends far back in time. The earliest known\ntables using base 10 numbers, which are now standard worldwide, were\ndiscovered on bamboo strips from 305 BC in China. In contrast, many European\ncultures refer to the multiplication table as the Table of Pythagoras, named\nafter the Ancient Greek mathematician and philosopher Pythagoras (570-495\nBC), and it retains this name in languages like French and Italian.\n\nC. In 1820, mathematician John Leslie, in his book \"The Philosophy of\nArithmetic,\" suggested that students memorize the times table up to 25 x 25.\nToday, however, educators generally aim for children to memorize the table up\nto 9 x 9, 10 x 10, or 12 x 12.\n\nD. In the UK, the current educational objective is for pupils to learn all times\ntables up to 12 x 12 by the age of nine. Nonetheless, many individuals,\nincluding adults, do not fully know them. Some politicians have faced such\nmultiplication queries; for instance, in 1998, schools minister Stephen Byers\nmistakenly answered 54 instead of 56 to the question of what 7 x 8 equals,\nresulting in public ridicule.\n\nE. Similarly, in 2014, UK Chancellor George Osborne was asked the same\nmultiplication question by a young boy. Given his A-level mathematics\nqualifications and his role in overseeing the UK's economic policies, one would\nexpect him to know the answer. Yet, Osborne declined to respond, stating, 'I've\nmade it a rule in life not to answer such questions.'\n\nF. This begs the question of why a politician would refuse to answer. Some\nsums are indeed more challenging than others. Research shows that sums\ninvolving the numbers 6, 7, 8, and 9 are particularly difficult to learn and\nremember, especially when these numbers are multiplied together. Both 6 x 8\nand 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it\nis improbable that Osborne did not know the answer to 7 x 8, implying another\n\nreason for his refusal.\n\nG. The reason lies in the discomfort of being 'put on the spot,' which Osborne\nlikely wanted to avoid. It is well documented that intense pressure complicates\ntasks people usually find easy. When placed under such scrutiny, stress can\nelevate heart rates and adrenaline levels, leading to mistakes-a phenomenon\nknown as 'choking.' This effect is common in sports, such as when a footballer\ntakes a critical penalty kick. Similarly, the boy's question subjected Osborne to\nconsiderable pressure, and he feared the potential consequences of answering\nincorrectly, leading him to avoid responding.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19.",
+          "body": null,
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 20-25, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            20,
+            25
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "A 19th-century opinion of what children should learn",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "The most difficult sums",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "The effect of pressure on doing something",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "How children learn the times table",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "A politician who got a sum wrong",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "A history of the times table",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
         {
           "number": 20,
           "type": "true-false-not-given",
+          "groupId": "p2g2",
           "prompt": "Pythagoras invented the times table in China.",
-          "instruction": "Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding. Questions 14-19 Questions 20-25 The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19. 14 A 19th-century opinion of what children should learn 15 The most difficult sums 16 The effect of pressure on doing something 17 How children learn the times table 18 A politician who got a sum wrong 19 A history of the times table Do the following statements agree with the information given in the text? For questions 20-25, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 21,
           "type": "true-false-not-given",
+          "groupId": "p2g2",
           "prompt": "Stephen Byers and George Osborne were asked the",
-          "instruction": "Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding. Questions 14-19 Questions 20-25 The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19. 14 A 19th-century opinion of what children should learn 15 The most difficult sums 16 The effect of pressure on doing something 17 How children learn the times table 18 A politician who got a sum wrong 19 A history of the times table Do the following statements agree with the information given in the text? For questions 20-25, write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 22,
           "type": "true-false-not-given",
-          "prompt": "All children in the UK have to learn the multiplication table.",
-          "instruction": "Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding. Questions 14-19 Questions 20-25 The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19. 14 A 19th-century opinion of what children should learn 15 The most difficult sums 16 The effect of pressure on doing something 17 How children learn the times table 18 A politician who got a sum wrong 19 A history of the times table Do the following statements agree with the information given in the text? For questions 20-25, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g2",
+          "prompt": "All children in the UK have to learn the multiplication\ntable.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 23,
           "type": "true-false-not-given",
+          "groupId": "p2g2",
           "prompt": "George Osborne did not know the answer to 7 X 8.",
-          "instruction": "Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding. Questions 14-19 Questions 20-25 The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19. 14 A 19th-century opinion of what children should learn 15 The most difficult sums 16 The effect of pressure on doing something 17 How children learn the times table 18 A politician who got a sum wrong 19 A history of the times table Do the following statements agree with the information given in the text? For questions 20-25, write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "true-false-not-given",
+          "groupId": "p2g2",
+          "prompt": "7 X 8 is the hardest sum that children have to learn.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 25,
           "type": "true-false-not-given",
+          "groupId": "p2g2",
           "prompt": "Stephen Byers got the sum wrong because he choked.",
-          "instruction": "Read the text below and answer Questions 14-25. TRICKY SUMS AND PSYCHOLOGY A. In the early stages of mathematics education, children worldwide are typically required to learn the times table, also known as the multiplication table, which presents the results of multiplying numbers. Traditionally, children have memorized this table by starting with '1 time 1 is 1' and progressing to '12 times 12 is 144'. B. The history of times tables extends far back in time. The earliest known tables using base 10 numbers, which are now standard worldwide, were discovered on bamboo strips from 305 BC in China. In contrast, many European cultures refer to the multiplication table as the Table of Pythagoras, named after the Ancient Greek mathematician and philosopher Pythagoras (570-495 BC), and it retains this name in languages like French and Italian. C. In 1820, mathematician John Leslie, in his book \"The Philosophy of Arithmetic,\" suggested that students memorize the times table up to 25 x 25. Today, however, educators generally aim for children to memorize the table up to 9 x 9, 10 x 10, or 12 x 12. D. In the UK, the current educational objective is for pupils to learn all times tables up to 12 x 12 by the age of nine. Nonetheless, many individuals, including adults, do not fully know them. Some politicians have faced such multiplication queries; for instance, in 1998, schools minister Stephen Byers mistakenly answered 54 instead of 56 to the question of what 7 x 8 equals, resulting in public ridicule. E. Similarly, in 2014, UK Chancellor George Osborne was asked the same multiplication question by a young boy. Given his A-level mathematics qualifications and his role in overseeing the UK's economic policies, one would expect him to know the answer. Yet, Osborne declined to respond, stating, 'I've made it a rule in life not to answer such questions.' F. This begs the question of why a politician would refuse to answer. Some sums are indeed more challenging than others. Research shows that sums involving the numbers 6, 7, 8, and 9 are particularly difficult to learn and remember, especially when these numbers are multiplied together. Both 6 x 8 and 7 x 8 are considered difficult, with 7 x 8 being especially tricky. However, it is improbable that Osborne did not know the answer to 7 x 8, implying another considerable pressure, and he feared the potential consequences of answering incorrectly, leading him to avoid responding. Questions 14-19 Questions 20-25 The text has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, next to questions 14-19. 14 A 19th-century opinion of what children should learn 15 The most difficult sums 16 The effect of pressure on doing something 17 How children learn the times table 18 A politician who got a sum wrong 19 A history of the times table Do the following statements agree with the information given in the text? For questions 20-25, write TRUE George Osborne did not know the answer to 7 X 8. 24",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         26,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 26-40."
+          },
+          {
+            "label": null,
+            "text": "Care in the Community"
+          },
+          {
+            "label": null,
+            "text": "'Bedlam' is a word that has become synonymous in the English language with\nchaos and disorder. The term itself derives from the shortened name for a\nformer 16th-century London institution for the mentally ill, known as St. Mary of\nBethlehem. This institution was so notorious that its name became a byword\nfor mayhem. Patient 'treatment' amounted to little more than legitimized\nabuse. Inmates were beaten and forced to live in unsanitary conditions, while\nothers were placed on display to a curious public as a sideshow. There is little\nindication to suggest that other institutions founded at around the same time\nin other European countries were much better."
+          },
+          {
+            "label": null,
+            "text": "Even up until the mid-twentieth century, institutions for the mentally ill were\nregarded more as places of isolation and punishment than of healing and\nsolace. In popular literature of the Victorian era, which reflected true-life\nevents, individuals were frequently sent to the 'madhouse' as a legal means of\npermanently disposing of an unwanted heir or spouse. Later, in the mid-\ntwentieth century, institutions for the mentally ill regularly carried out invasive\nbrain surgery known as a 'lobotomy' on violent patients without their consent.\nThe aim was to 'calm' the patient, but it often resulted in a state that was little\nmore than a zombified condition. Such procedures are well-documented to\ndevastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder\nthen that the appalling catalogue of treatment of the mentally ill led to calls for\nchange from social activists and psychologists alike."
+          },
+          {
+            "label": null,
+            "text": "Improvements began to be seen in institutions from the mid-50s onwards,\nalong with the introduction of care in the community for less severely ill\npatients. Community care was seen as a more humane and purposeful\napproach to dealing with the mentally ill. Whereas institutionalized patients\nlived out their existence in confinement, forced to obey institutional\nregulations, patients in the community were free to live relatively independent\nlives. The patient was never left purely to their own devices, as a variety of\nservices could theoretically be accessed by the individual. In its early stages,\nhowever, community care relied primarily on help from the patient's extended\nfamily network. In more recent years, such care has extended to the provision\nof specialist community mental health teams (CMHTs) in the UK. These teams\ncover a wide range of services from rehabilitation to home treatment and\nassessment. Additionally, psychiatric nurses are on hand to administer"
+          },
+          {
+            "label": null,
+            "text": "prescription medication and give injections. The patient is therefore provided\nwith the necessary help to survive in the everyday world while maintaining a\ndegree of autonomy."
+          },
+          {
+            "label": null,
+            "text": "Often, though, when a policy is put into practice, its failings become apparent.\nThis is true for the policy of care in the community. While backup services may\nexist, an individual may not call upon them when needed due to reluctance or\ninability to assess their own condition. As a result, such an individual may be\nalone during a critical phase of their illness, which could lead them to self-harm\nor even become a threat to other members of their community. While this\nmight be an extreme-case scenario, there is also the issue of social alienation\nthat needs to be considered. Integration into the community may not be\nsufficient to allow the individual to find work, leading to poverty and isolation.\nSocial exclusion could then cause a relapse, as the individual is left to battle\nmental health problems alone. The solution, therefore, is to ensure that the\npatient is always in touch with professional helpers and not left alone to fend\nfor themselves. It should always be remembered that while you can take the\npatient out of the institution, you can't take the institution out of the patient."
+          },
+          {
+            "label": null,
+            "text": "When questioned about care in the community, there seems to be a division of\nopinion amongst members of the public and within the mental healthcare\nprofession itself. Dr. Mayalla, a practising clinical psychologist, is inclined to\nbelieve that while certain patients may benefit from care in the community, the\nscheme isn't for everyone. \"Those suffering moderate cases of mental illness\nstand to gain more from care in the community than those with more\npronounced mental illness. I don't think it's a one-size-fits-all policy. But I also\nthink that there is a far better infrastructure of helpers and social workers in\nplace now than previously, and the scheme stands a greater chance of success\nthan in the past.\""
+          },
+          {
+            "label": null,
+            "text": "Anita Brown, mother of three, takes a different view. \"As a mother, I'm very\nprotective towards my children. As a result, I would not put my support behind\nany scheme that I felt might put my children in danger... I guess there must be\nassessment methods in place to ensure that dangerous individuals are not let\nloose amongst the public, but I'm not for it at all. I like to feel secure where I\nlive, but more to the point, that my children are not under any threat.\""
+          },
+          {
+            "label": null,
+            "text": "Bob Ratchett, a former mental health nurse, takes a more positive view on\ncommunity care projects. \"Having worked in the field myself, I've seen how a\npatient can benefit from living an independent life, away from an institution.\nObviously, only individuals well on their way to recovery would be suitable for\nconsideration as participants in such a scheme. If you think about it, is it really\nfair to condemn an individual to a lifetime in an institution when they could be"
+          },
+          {
+            "label": null,
+            "text": "living a fairly fulfilled and independent life outside the institution?\""
+          }
+        ],
+        "text": "Read the text below and answer Questions 26-40.\n\nCare in the Community\n\n'Bedlam' is a word that has become synonymous in the English language with\nchaos and disorder. The term itself derives from the shortened name for a\nformer 16th-century London institution for the mentally ill, known as St. Mary of\nBethlehem. This institution was so notorious that its name became a byword\nfor mayhem. Patient 'treatment' amounted to little more than legitimized\nabuse. Inmates were beaten and forced to live in unsanitary conditions, while\nothers were placed on display to a curious public as a sideshow. There is little\nindication to suggest that other institutions founded at around the same time\nin other European countries were much better.\n\nEven up until the mid-twentieth century, institutions for the mentally ill were\nregarded more as places of isolation and punishment than of healing and\nsolace. In popular literature of the Victorian era, which reflected true-life\nevents, individuals were frequently sent to the 'madhouse' as a legal means of\npermanently disposing of an unwanted heir or spouse. Later, in the mid-\ntwentieth century, institutions for the mentally ill regularly carried out invasive\nbrain surgery known as a 'lobotomy' on violent patients without their consent.\nThe aim was to 'calm' the patient, but it often resulted in a state that was little\nmore than a zombified condition. Such procedures are well-documented to\ndevastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder\nthen that the appalling catalogue of treatment of the mentally ill led to calls for\nchange from social activists and psychologists alike.\n\nImprovements began to be seen in institutions from the mid-50s onwards,\nalong with the introduction of care in the community for less severely ill\npatients. Community care was seen as a more humane and purposeful\napproach to dealing with the mentally ill. Whereas institutionalized patients\nlived out their existence in confinement, forced to obey institutional\nregulations, patients in the community were free to live relatively independent\nlives. The patient was never left purely to their own devices, as a variety of\nservices could theoretically be accessed by the individual. In its early stages,\nhowever, community care relied primarily on help from the patient's extended\nfamily network. In more recent years, such care has extended to the provision\nof specialist community mental health teams (CMHTs) in the UK. These teams\ncover a wide range of services from rehabilitation to home treatment and\nassessment. Additionally, psychiatric nurses are on hand to administer\n\nprescription medication and give injections. The patient is therefore provided\nwith the necessary help to survive in the everyday world while maintaining a\ndegree of autonomy.\n\nOften, though, when a policy is put into practice, its failings become apparent.\nThis is true for the policy of care in the community. While backup services may\nexist, an individual may not call upon them when needed due to reluctance or\ninability to assess their own condition. As a result, such an individual may be\nalone during a critical phase of their illness, which could lead them to self-harm\nor even become a threat to other members of their community. While this\nmight be an extreme-case scenario, there is also the issue of social alienation\nthat needs to be considered. Integration into the community may not be\nsufficient to allow the individual to find work, leading to poverty and isolation.\nSocial exclusion could then cause a relapse, as the individual is left to battle\nmental health problems alone. The solution, therefore, is to ensure that the\npatient is always in touch with professional helpers and not left alone to fend\nfor themselves. It should always be remembered that while you can take the\npatient out of the institution, you can't take the institution out of the patient.\n\nWhen questioned about care in the community, there seems to be a division of\nopinion amongst members of the public and within the mental healthcare\nprofession itself. Dr. Mayalla, a practising clinical psychologist, is inclined to\nbelieve that while certain patients may benefit from care in the community, the\nscheme isn't for everyone. \"Those suffering moderate cases of mental illness\nstand to gain more from care in the community than those with more\npronounced mental illness. I don't think it's a one-size-fits-all policy. But I also\nthink that there is a far better infrastructure of helpers and social workers in\nplace now than previously, and the scheme stands a greater chance of success\nthan in the past.\"\n\nAnita Brown, mother of three, takes a different view. \"As a mother, I'm very\nprotective towards my children. As a result, I would not put my support behind\nany scheme that I felt might put my children in danger... I guess there must be\nassessment methods in place to ensure that dangerous individuals are not let\nloose amongst the public, but I'm not for it at all. I like to feel secure where I\nlive, but more to the point, that my children are not under any threat.\"\n\nBob Ratchett, a former mental health nurse, takes a more positive view on\ncommunity care projects. \"Having worked in the field myself, I've seen how a\npatient can benefit from living an independent life, away from an institution.\nObviously, only individuals well on their way to recovery would be suitable for\nconsideration as participants in such a scheme. If you think about it, is it really\nfair to condemn an individual to a lifetime in an institution when they could be\n\nliving a fairly fulfilled and independent life outside the institution?\"",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            26,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person.",
+          "body": null,
+          "range": [
+            32,
+            36
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "Dr. Mayalla",
+              "Anita Brown",
+              "Bob Ratchett"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 37-40, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 26,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Which of the following statements is accurate?",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "In the 20th century, illegal surgical procedures were carried out on the mentally ill.",
+            "The Victorian era saw an increase in mental illness amongst married couples.",
+            "Mental institutions of the past were better-equipped for dealing with the mentally ill.",
+            "In the past, others often benefitted when a patient was sent to a mental asylum."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 27,
           "type": "multiple-choice",
-          "prompt": "What does the writer mean by patient treatment being 'legitimised",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "groupId": "p3g1",
+          "prompt": "What does the writer mean by patient treatment being 'legitimised abuse'?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "There were proper guidelines for the punishment of mentally ill patients.",
+            "Maltreatment of mentally ill patients was not illegal and so was tolerated.",
+            "Only those who were legally entitled to do so could punish mentally ill patients.",
+            "Physical abuse of mentally ill patients was a legal requirement of mental institutions."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 28,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What brought about changes in the treatment of mentally ill patients?",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "A radio documentary exposed patient maltreatment.",
+            "People rebelled against the consistent abuse of mentally ill patients.",
+            "Previous treatments of mentally ill patients were proved to be ineffective.",
+            "The maltreatment of mentally ill patients could never be revealed."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What was a feature of early care in the community schemes?",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Patient support was the responsibility more of relatives than professionals.",
+            "Advanced professional help was available to patients.",
+            "All mentally ill patients could benefit from the scheme.",
+            "Patients were allowed to enjoy full independence."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "What is true of care in the community schemes today?",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "They permit greater patient autonomy.",
+            "More professional services are available to patients.",
+            "Family support networks have become unnecessary.",
+            "All patients can now become part of these schemes."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 31,
           "type": "multiple-choice",
-          "prompt": "What can be said of the writer's attitude towards care in the",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D.",
-          "answer": "B",
+          "groupId": "p3g1",
+          "prompt": "What can be said of the writer's attitude towards care in the community?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "He believes that the scheme has proved to be a failure.",
+            "He believes that it can only work under certain circumstances.",
+            "He believes that it will never work as mentally ill patients will always be disadvantaged.",
+            "He believes it has failed due to patient neglect by professional helpers."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 32,
           "type": "matching-features",
-          "prompt": "This person acknowledges certain inadequacies in the concept of care in the community, but recognises that attempts have been made to improve on existing schemes.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett",
-          "answer": "A"
+          "groupId": "p3g2",
+          "prompt": "This person acknowledges certain inadequacies in the\nconcept of care in the community, but recognises that attempts have\nbeen made to improve on existing schemes.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 33,
           "type": "matching-features",
-          "prompt": "This person whilst emphasising the benefits to the patient from care in the community schemes is critical of traditional care methods.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett",
-          "answer": "C"
+          "groupId": "p3g2",
+          "prompt": "This person whilst emphasising the benefits to the\npatient from care in the community schemes is critical of traditional care\nmethods.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 34,
           "type": "matching-features",
-          "prompt": "This person’s views have been moderated by their professional contact with the mentally ill.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett",
-          "answer": "C"
+          "groupId": "p3g2",
+          "prompt": "This person's views have been moderated by their\nprofessional contact with the mentally ill.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 35,
           "type": "matching-features",
-          "prompt": "This person places the welfare of others above that of the mentally ill.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett",
-          "answer": "B"
+          "groupId": "p3g2",
+          "prompt": "This person places the welfare of others above that of\nthe mentally ill.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 36,
           "type": "matching-features",
-          "prompt": "This person acknowledges that a mistrust of care in the community schemes may be unfounded. Do the following statements agree with the information given in the text? For questions 37-40, write",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett",
-          "answer": "B"
+          "groupId": "p3g2",
+          "prompt": "This person acknowledges that a mistrust of care in the\ncommunity schemes may be unfounded.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
-          "prompt": "There is a better understanding of the dynamics of mental illness today.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett Do the following statements agree with the information given in the text? For questions 37-40, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g3",
+          "prompt": "There is a better understanding of the dynamics of\nmental illness today.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "Community care schemes do not provide adequate psychological support for patients.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett Do the following statements agree with the information given in the text? For questions 37-40, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "Community care schemes do not provide adequate\npsychological support for patients.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "Dr. Mayalla believes that the scheme is less successful than in the past.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett Do the following statements agree with the information given in the text? For questions 37-40, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "Dr. Mayalla believes that the scheme is less\nsuccessful than in the past.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
-          "prompt": "The goal of community care schemes is to make patients less dependent on the system.",
-          "instruction": "Read the text below and answer Questions 26-40. Care in the Community 'Bedlam' is a word that has become synonymous in the English language with chaos and disorder. The term itself derives from the shortened name for a former 16th-century London institution for the mentally ill, known as St. Mary of Bethlehem. This institution was so notorious that its name became a byword for mayhem. Patient 'treatment' amounted to little more than legitimized abuse. Inmates were beaten and forced to live in unsanitary conditions, while others were placed on display to a curious public as a sideshow. There is little indication to suggest that other institutions founded at around the same time in other European countries were much better. Even up until the mid-twentieth century, institutions for the mentally ill were regarded more as places of isolation and punishment than of healing and solace. In popular literature of the Victorian era, which reflected true-life events, individuals were frequently sent to the 'madhouse' as a legal means of permanently disposing of an unwanted heir or spouse. Later, in the mid- twentieth century, institutions for the mentally ill regularly carried out invasive brain surgery known as a 'lobotomy' on violent patients without their consent. The aim was to 'calm' the patient, but it often resulted in a state that was little more than a zombified condition. Such procedures are well-documented to devastating effect in the film 'One Flew Over the Cuckoo's Nest.' Little wonder then that the appalling catalogue of treatment of the mentally ill led to calls for change from social activists and psychologists alike. Improvements began to be seen in institutions from the mid-50s onwards, along with the introduction of care in the community for less severely ill patients. Community care was seen as a more humane and purposeful approach to dealing with the mentally ill. Whereas institutionalized patients lived out their existence in confinement, forced to obey institutional regulations, patients in the community were free to live relatively independent lives. The patient was never left purely to their own devices, as a variety of services could theoretically be accessed by the individual. In its early stages, however, community care relied primarily on help from the patient's extended family network. In more recent years, such care has extended to the provision of specialist community mental health teams (CMHTs) in the UK. These teams cover a wide range of services from rehabilitation to home treatment and assessment. Additionally, psychiatric nurses are on hand to administer living a fairly fulfilled and independent life outside the institution?\" Questions 26-31 Choose the correct letter, A, B, C or D. Look at the following statements, 32-36, and the list of people, A-C. Match each statement to the correct person. A Dr. Mayalla B Anita Brown C Bob Ratchett Do the following statements agree with the information given in the text? For questions 37-40, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The goal of community care schemes is to make\npatients less dependent on the system.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     }

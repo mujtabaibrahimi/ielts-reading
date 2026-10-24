@@ -1,0 +1,24 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the following summary of the paragraphs of the Reading Passage. Use NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+    "body": "Campaigners experienced a council renting document full of strange [[7]] of housing in terms of an Act. They are anxious in some other field, for instance, when reading a label of medicine, there was an obvious [[8]] for patients. Another notable field was on [[9]] products; it not only additionally cost buyers but caused [[10]], thus the writer should regard himself as a [[11]]. However, there are oppositions against the Plain English Campaign under certain circumstances, e.g. [[12]] language had been embellished as an accurate language used in the [[13]]. The author suggested that nowadays a new compelling force is needed from [[14]]."
+  },
+  "p2g3": {
+    "_keepImage": true,
+    "_reason": "Choose THREE multi-select (A-F) spread over boxes 22-24; answer key is garbled ('24 A,E,F', then empty) and cannot map to single inputs."
+  },
+  "p2g4": {
+    "_keepImage": true,
+    "_reason": "Choose THREE multi-select spread over boxes 25-27; answer key is garbled ('27 A,B,D', then empty) and cannot map to single inputs."
+  },
+  "_answers": {
+    "22": "A,E,F",
+    "23": "A,E,F",
+    "24": "A,E,F",
+    "25": "A,B,D",
+    "26": "A,B,D",
+    "27": "A,B,D"
+  }
+}

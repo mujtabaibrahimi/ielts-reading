@@ -1,0 +1,41 @@
+{
+  "p2g3": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the summary below using NO MORE THAN THREE WORDS from the passage for each answer.",
+    "body": "The other two hottest years around the globe were [[22]]. The ten hottest years on record all come after the year [[23]]. This temperature data has been gathered since [[24]]. Thousands of people died in the country of [[25]]."
+  },
+  "p2g4": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        26
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 26 on your answer sheet.",
+    "questions": {
+      "26": {
+        "prompt": "Which one of the following can be best used as the title of this passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Global Warming",
+          "What Caused Global Warming",
+          "The Effects of Global Warming",
+          "That Hot Year in Europe"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "11": "C,D,E",
+    "12": "C,D,E",
+    "13": "C,D,E"
+  }
+}

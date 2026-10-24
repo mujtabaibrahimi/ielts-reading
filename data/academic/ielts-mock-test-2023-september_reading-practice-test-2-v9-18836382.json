@@ -1,257 +1,1007 @@
 {
   "id": "ielts-mock-test-2023-september_reading-practice-test-2-v9-18836382",
   "type": "academic",
-  "source": "ielts-mock-test-2023-september reading-practice-test-2-v9-18836382",
+  "title": "IELTS Academic 2023 September - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 2,
+  "year": 2023,
+  "month": 9,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-september_reading-practice-test-2-v9-18836382.pdf",
-  "total_questions": 19,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Consecutive and Simultaneous Translation",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nConsecutive and Simultaneous Translation\n{A} When people are faced with a foreign-language barrier, the usual way\naround it is to find someone to interpret or translate for them. The term\n‘translation’, is the neutral term used for all tasks where the meaning of\nexpressions in one language (the source language) is turned into the meaning\nof another (the ‘target’ language), whether the medium is spoken, written, or\nsigned. In specific professional contexts, however, a distinction is drawn\nbetween people who work with the spoken or signed language (interpreters),\nand those who work with the written language (translators). There are certain\ntasks that blur this distinction, as when source speeches turned into target\nwriting. But usually the two roles are seen as quite distinct, and it is unusual to\nfind one person who is equally happy with both occupations. Some writers on\ntranslation, indeed, consider the interpreting task to be more suitable for\nextrovert personalities, and the translating task for introverts.\n{B} Interpreting is today widely known from its use in international political\nlife. When senior ministers from different language backgrounds meet, the\ntelevision record invariably shows a pair of interpreters hovering in the\nbackground. At major conferences, such as the United Nations General\nAssembly, the presence of headphones is a clear indication that a major\nlinguistic exercise is taking place. In everyday circumstances, interpreters are\nfrequently needed, especially in cosmopolitan societies formed by new\nreiterations of immigrants and Gastarbeiter. Often, the business of law courts,\nhospitals, local health clinics, classrooms, or industrial tribunals cannot be\ncarried on without the presence of an interpreter. Given the importance and\nfrequency of this task, therefore, it is remarkable that so little study has been\n\nmade of what actually happens when interpreting takes place, and of how\nsuccessful an exercise it is.\n{C} There are two main kinds of oral translation – consecutive and\nsimultaneous In consecutive translation the translating starts after the original\nspeech or some part of it has been completed. Here the interpreter’s strategy\nand the final results depend, to a great extent on the length of the segment to\nbe translated. If the segment is just a sentence or two the interpreter closely\nfollows the original speech. As often as not, however, the interpreter is\nexpected to translate a long speech which has lasted for scores of minutes or\neven longer. In this case he has to remember a great number of messages, and\nkeep them in mind until he begins his translation. To make this possible the\ninterpreter has to take notes of the original messages, various systems of\nnotation having been suggested for the purpose. The study of, and practice in,\nsuch notation is the integral part of the interpreter’s training as are special\nexercises to develop his memory.\n{D} Doubtless the recency of developments in the field partly explains this\nneglect. One procedure, consecutive interpreting, is very old — and\npresumably dates from the Tower of Babel! Here, the interpreter translates\nafter the speaker has finished speaking. This approach is widely practiced in\ninformal situations, as well as in committees and small conferences. In larger\nand more formal settings, however, it has been generally replaced by\nsimultaneous interpreting — a recent development that arose from the\navailability of modern audiological equipment and the advent of increased\ninternational interaction following the Second World War.\n{E} Of the two procedures, it is the second that has attracted most interest,\nbecause of the complexity of the task and the remarkable skills required. In no\nother context of human communication is anyone routinely required to listen\nand speak at the same time, preserving an exact semantic correspondence\nbetween the two modes. Moreover, there is invariably a delay of a few words\nbetween the stimulus and the response, because of the time it takes to\nassimilate what is being said in the source language and to translate it into an\nacceptable form in the target language. This ‘ear-voice span’ is usually about 2\nor 3 seconds, but it may be as much as 10 seconds or so, if the text is complex.\nThe brain has to remember what has just been said, attend to what is currently\nbeing said, and anticipate the construction of what is about to be said. As you\nstart a sentence you are taking a leap in the dark, you are mortgaging your\ngrammatical future; the original sentence may suddenly be turned in such a\nway that your translation of its end cannot easily be reconciled ( with your\ntranslation of its start. Great nimbleness is called for\n\n{F} How it is all done is not at all clear. That it is done at all is a source of\nsome wonder, given the often lengthy periods of interpreting required, the\nconfined environment of an interpreting booth, the presence of background\nnoise, and the awareness that major decisions may depend upon the accuracy\nof the work. Other considerations such as cultural background also make it aim\nto pay full attention to the backgrounds of the authors and the recipients and\nto take into account differences between source and target language.\n{G} Research projects have now begun to look at these factors – to determine,\nfor example, how far successful interpreting is affected by poor listening\nconditions or the speed at which the source language is spoken. It seems that\nan input speed of between 100 and 120 words per minute is a comfortable rate\nfor interpreting, with an upper limit of around 200 w.p.m. But even small\nincreases in speed can dramatically affect the accuracy of output. In one\ncontrolled study, when speeds were gradually increased in a series of stages\nfrom 95 to 164 w.p.m., the ear-voice span also increased with each stage, and\nthe amount correctly interpreted showed a clear decline. Also, as the\ntranslating load increases, not only are there more errors of commission\n(mistranslations, cases of vagueness replacing precision), there are also more\nerrors of omission, as words and segments of meaning are filtered out. These\nare important findings, given the need for accuracy in international\ncommunication. What is needed is a more detailed identification of the\nproblem areas, and of the strategies speakers, listeners, and interpreters use\nto solve them. There is an urgent need to expand what has so far been one of\nthe most neglected fields of communication research.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Consecutive and Simultaneous Translation"
+          },
+          {
+            "label": null,
+            "text": "{A} When people are faced with a foreign-language barrier, the usual way\naround it is to find someone to interpret or translate for them. The term\n'translation', is the neutral term used for all tasks where the meaning of\nexpressions in one language (the source language) is turned into the meaning\nof another (the 'target' language), whether the medium is spoken, written, or\nsigned. In specific professional contexts, however, a distinction is drawn\nbetween people who work with the spoken or signed language (interpreters),\nand those who work with the written language (translators). There are certain\ntasks that blur this distinction, as when source speeches turned into target\nwriting. But usually the two roles are seen as quite distinct, and it is unusual to\nfind one person who is equally happy with both occupations. Some writers on\ntranslation, indeed, consider the interpreting task to be more suitable for\nextrovert personalities, and the translating task for introverts."
+          },
+          {
+            "label": null,
+            "text": "{B} Interpreting is today widely known from its use in international political\nlife. When senior ministers from different language backgrounds meet, the\ntelevision record invariably shows a pair of interpreters hovering in the\nbackground. At major conferences, such as the United Nations General\nAssembly, the presence of headphones is a clear indication that a major\nlinguistic exercise is taking place. In everyday circumstances, interpreters are\nfrequently needed, especially in cosmopolitan societies formed by new\nreiterations of immigrants and Gastarbeiter. Often, the business of law courts,\nhospitals, local health clinics, classrooms, or industrial tribunals cannot be\ncarried on without the presence of an interpreter. Given the importance and\nfrequency of this task, therefore, it is remarkable that so little study has been"
+          },
+          {
+            "label": null,
+            "text": "made of what actually happens when interpreting takes place, and of how\nsuccessful an exercise it is."
+          },
+          {
+            "label": null,
+            "text": "{C} There are two main kinds of oral translation - consecutive and\nsimultaneous In consecutive translation the translating starts after the original\nspeech or some part of it has been completed. Here the interpreter's strategy\nand the final results depend, to a great extent on the length of the segment to\nbe translated. If the segment is just a sentence or two the interpreter closely\nfollows the original speech. As often as not, however, the interpreter is\nexpected to translate a long speech which has lasted for scores of minutes or\neven longer. In this case he has to remember a great number of messages, and\nkeep them in mind until he begins his translation. To make this possible the\ninterpreter has to take notes of the original messages, various systems of\nnotation having been suggested for the purpose. The study of, and practice in,\nsuch notation is the integral part of the interpreter's training as are special\nexercises to develop his memory."
+          },
+          {
+            "label": null,
+            "text": "{D} Doubtless the recency of developments in the field partly explains this\nneglect. One procedure, consecutive interpreting, is very old - and\npresumably dates from the Tower of Babel! Here, the interpreter translates\nafter the speaker has finished speaking. This approach is widely practiced in\ninformal situations, as well as in committees and small conferences. In larger\nand more formal settings, however, it has been generally replaced by\nsimultaneous interpreting - a recent development that arose from the\navailability of modern audiological equipment and the advent of increased\ninternational interaction following the Second World War."
+          },
+          {
+            "label": null,
+            "text": "{E} Of the two procedures, it is the second that has attracted most interest,\nbecause of the complexity of the task and the remarkable skills required. In no\nother context of human communication is anyone routinely required to listen\nand speak at the same time, preserving an exact semantic correspondence\nbetween the two modes. Moreover, there is invariably a delay of a few words\nbetween the stimulus and the response, because of the time it takes to\nassimilate what is being said in the source language and to translate it into an\nacceptable form in the target language. This 'ear-voice span' is usually about 2\nor 3 seconds, but it may be as much as 10 seconds or so, if the text is complex.\nThe brain has to remember what has just been said, attend to what is currently\nbeing said, and anticipate the construction of what is about to be said. As you\nstart a sentence you are taking a leap in the dark, you are mortgaging your\ngrammatical future; the original sentence may suddenly be turned in such a\nway that your translation of its end cannot easily be reconciled ( with your\ntranslation of its start. Great nimbleness is called for"
+          },
+          {
+            "label": null,
+            "text": "{F} How it is all done is not at all clear. That it is done at all is a source of\nsome wonder, given the often lengthy periods of interpreting required, the\nconfined environment of an interpreting booth, the presence of background\nnoise, and the awareness that major decisions may depend upon the accuracy\nof the work. Other considerations such as cultural background also make it aim\nto pay full attention to the backgrounds of the authors and the recipients and\nto take into account differences between source and target language."
+          },
+          {
+            "label": null,
+            "text": "{G} Research projects have now begun to look at these factors - to determine,\nfor example, how far successful interpreting is affected by poor listening\nconditions or the speed at which the source language is spoken. It seems that\nan input speed of between 100 and 120 words per minute is a comfortable rate\nfor interpreting, with an upper limit of around 200 w.p.m. But even small\nincreases in speed can dramatically affect the accuracy of output. In one\ncontrolled study, when speeds were gradually increased in a series of stages\nfrom 95 to 164 w.p.m., the ear-voice span also increased with each stage, and\nthe amount correctly interpreted showed a clear decline. Also, as the\ntranslating load increases, not only are there more errors of commission\n(mistranslations, cases of vagueness replacing precision), there are also more\nerrors of omission, as words and segments of meaning are filtered out. These\nare important findings, given the need for accuracy in international\ncommunication. What is needed is a more detailed identification of the\nproblem areas, and of the strategies speakers, listeners, and interpreters use\nto solve them. There is an urgent need to expand what has so far been one of\nthe most neglected fields of communication research."
+          }
+        ],
+        "text": "Consecutive and Simultaneous Translation\n\n{A} When people are faced with a foreign-language barrier, the usual way\naround it is to find someone to interpret or translate for them. The term\n'translation', is the neutral term used for all tasks where the meaning of\nexpressions in one language (the source language) is turned into the meaning\nof another (the 'target' language), whether the medium is spoken, written, or\nsigned. In specific professional contexts, however, a distinction is drawn\nbetween people who work with the spoken or signed language (interpreters),\nand those who work with the written language (translators). There are certain\ntasks that blur this distinction, as when source speeches turned into target\nwriting. But usually the two roles are seen as quite distinct, and it is unusual to\nfind one person who is equally happy with both occupations. Some writers on\ntranslation, indeed, consider the interpreting task to be more suitable for\nextrovert personalities, and the translating task for introverts.\n\n{B} Interpreting is today widely known from its use in international political\nlife. When senior ministers from different language backgrounds meet, the\ntelevision record invariably shows a pair of interpreters hovering in the\nbackground. At major conferences, such as the United Nations General\nAssembly, the presence of headphones is a clear indication that a major\nlinguistic exercise is taking place. In everyday circumstances, interpreters are\nfrequently needed, especially in cosmopolitan societies formed by new\nreiterations of immigrants and Gastarbeiter. Often, the business of law courts,\nhospitals, local health clinics, classrooms, or industrial tribunals cannot be\ncarried on without the presence of an interpreter. Given the importance and\nfrequency of this task, therefore, it is remarkable that so little study has been\n\nmade of what actually happens when interpreting takes place, and of how\nsuccessful an exercise it is.\n\n{C} There are two main kinds of oral translation - consecutive and\nsimultaneous In consecutive translation the translating starts after the original\nspeech or some part of it has been completed. Here the interpreter's strategy\nand the final results depend, to a great extent on the length of the segment to\nbe translated. If the segment is just a sentence or two the interpreter closely\nfollows the original speech. As often as not, however, the interpreter is\nexpected to translate a long speech which has lasted for scores of minutes or\neven longer. In this case he has to remember a great number of messages, and\nkeep them in mind until he begins his translation. To make this possible the\ninterpreter has to take notes of the original messages, various systems of\nnotation having been suggested for the purpose. The study of, and practice in,\nsuch notation is the integral part of the interpreter's training as are special\nexercises to develop his memory.\n\n{D} Doubtless the recency of developments in the field partly explains this\nneglect. One procedure, consecutive interpreting, is very old - and\npresumably dates from the Tower of Babel! Here, the interpreter translates\nafter the speaker has finished speaking. This approach is widely practiced in\ninformal situations, as well as in committees and small conferences. In larger\nand more formal settings, however, it has been generally replaced by\nsimultaneous interpreting - a recent development that arose from the\navailability of modern audiological equipment and the advent of increased\ninternational interaction following the Second World War.\n\n{E} Of the two procedures, it is the second that has attracted most interest,\nbecause of the complexity of the task and the remarkable skills required. In no\nother context of human communication is anyone routinely required to listen\nand speak at the same time, preserving an exact semantic correspondence\nbetween the two modes. Moreover, there is invariably a delay of a few words\nbetween the stimulus and the response, because of the time it takes to\nassimilate what is being said in the source language and to translate it into an\nacceptable form in the target language. This 'ear-voice span' is usually about 2\nor 3 seconds, but it may be as much as 10 seconds or so, if the text is complex.\nThe brain has to remember what has just been said, attend to what is currently\nbeing said, and anticipate the construction of what is about to be said. As you\nstart a sentence you are taking a leap in the dark, you are mortgaging your\ngrammatical future; the original sentence may suddenly be turned in such a\nway that your translation of its end cannot easily be reconciled ( with your\ntranslation of its start. Great nimbleness is called for\n\n{F} How it is all done is not at all clear. That it is done at all is a source of\nsome wonder, given the often lengthy periods of interpreting required, the\nconfined environment of an interpreting booth, the presence of background\nnoise, and the awareness that major decisions may depend upon the accuracy\nof the work. Other considerations such as cultural background also make it aim\nto pay full attention to the backgrounds of the authors and the recipients and\nto take into account differences between source and target language.\n\n{G} Research projects have now begun to look at these factors - to determine,\nfor example, how far successful interpreting is affected by poor listening\nconditions or the speed at which the source language is spoken. It seems that\nan input speed of between 100 and 120 words per minute is a comfortable rate\nfor interpreting, with an upper limit of around 200 w.p.m. But even small\nincreases in speed can dramatically affect the accuracy of output. In one\ncontrolled study, when speeds were gradually increased in a series of stages\nfrom 95 to 164 w.p.m., the ear-voice span also increased with each stage, and\nthe amount correctly interpreted showed a clear decline. Also, as the\ntranslating load increases, not only are there more errors of commission\n(mistranslations, cases of vagueness replacing precision), there are also more\nerrors of omission, as words and segments of meaning are filtered out. These\nare important findings, given the need for accuracy in international\ncommunication. What is needed is a more detailed identification of the\nproblem areas, and of the strategies speakers, listeners, and interpreters use\nto solve them. There is an urgent need to expand what has so far been one of\nthe most neglected fields of communication research.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Summary Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN TWO WORDS OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 6-9 on your answer sheet.",
+          "body": "The cycle from ear to voice normally lasts about [[6]] , which depends on the sophistication of paper, for example, it could go up to [[7]] sometimes. When experts took close research on affecting elements, they found appropriate speaking speed is somehow among [[8]] w.p.m. In a specific experiment, the accuracy of interpretation dropped while the ear-voice span speed increased between 95 to 164 w.p.m. However, the maximum speed was about [[9]] W.p.m.",
+          "range": [
+            6,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Choose FOUR correct letters. Write your answers in boxes 10-13 on your answer sheet. Which FOUR of the following are the factors that affect interpreting?",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "In which way does author state translation at the beginning of the passage?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "abstract and concrete meaning",
+            "general and specific meaning",
+            "several examples of translation's meaning",
+            "different meaning in various profession"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
           "number": 2,
-          "type": "matching-features",
-          "prompt": "Application of headphone in a UN conference tells us that: abstract and concrete meaning general and specific meaning several examples of translation’s meaning",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "Application of headphone in a UN conference tells us that:",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "TV show is being conducted",
+            "radio program is on the air",
+            "two sides are debating",
+            "language practice is in the process"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 3,
-          "type": "matching-features",
-          "prompt": "In the passage, what is the author’s purpose in citing the Tower of Babel? A",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A",
-          "answer": "C"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "In the passage, what is the author's purpose in citing the Tower of Babel?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "interpreting secret is stored in the Tower",
+            "interpreter emerged exactly from time of Tower of Babel",
+            "consecutive interpreting has a long history",
+            "consecutive interpreting should be abandoned"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 4,
-          "type": "matching-features",
-          "prompt": "About simultaneous interpreting, which of the following is TRUE? A",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A",
-          "answer": "C"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "About simultaneous interpreting, which of the following is TRUE?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "it is an old and disposable interpretation method",
+            "it doesn't need outstanding professional ability",
+            "it relies on professional equipment",
+            "it takes less than two seconds ear-voice span"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
-          "prompt": "In consecutive translation, if the section is longer than expected, what would an interpreter most probably do? A",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A",
-          "answer": "A"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "In consecutive translation, if the section is longer than expected, what would an interpreter most probably do?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "he or she has to remember some parts ahead",
+            "he or she has to break them down first",
+            "he or she has to respond as quickly as possible",
+            "he or she has to remember all parts ahead"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "2-3 seconds",
+          "trap": null
         },
         {
           "number": 7,
-          "type": "multiple-choice",
-          "prompt": "sometimes. When experts took close research on affecting elements, they found appropriate speaking speed is somehow among",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN TWO WORDS OR A NUMBER  from the Reading Passage for each answer. Write your answers in boxes 6-9 on your answer sheet.",
-          "answer": "10 seconds"
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "sometimes. When experts took close research on affecting",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "10 seconds",
+          "trap": null
         },
         {
           "number": 8,
-          "type": "multiple-choice",
-          "prompt": "w.p.m. In a specific experiment, the accuracy of interpretation dropped while the ear-voice span speed increased between 95 to 164 w.p.m. However, the maximum speed was about 9 W.p.m.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-5 on your answer sheet. 1 In which way does author state translation at the beginning of the passage? A Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN TWO WORDS OR A NUMBER  from the Reading Passage for each answer. Write your answers in boxes 6-9 on your answer sheet.",
-          "answer": "100 to 120"
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "w.p.m. In a specific experiment, the accuracy of interpretation",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "100 to 120",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "200",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E,F",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E,F",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E,F",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E,F",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\non Reading Passage 2 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "British Architecture 2"
+          },
+          {
+            "label": null,
+            "text": "A. Architecture is about evolution, not revolution. It used to be thought that\nonce the Romans pulled out of Britain in the fifth century, their elegant villas,\ncarefully-planned towns and engineering marvels like Hadrian's Wall simply fell\ninto decay as British culture was plunged into the Dark Ages. It took the\nNorman Conquest of 1066 to bring back the light, and the ố othic cathedral-\nbuilders of the Middle Ages played an important part in the revival of British\nculture. However, the truth is not as simple as that Romano-British culture -\nand that included architecture along with language, religion, political\norganization and the arts - survived long after the Roman withdrawal. And\nalthough the Anglo- Saxons had a sophisticated building style of their own, little\nsurvives to bear witness to their achievements as the vast majority of Anglo-\nSaxon buildings were made of wood."
+          },
+          {
+            "label": null,
+            "text": "B. Even so, the period between the Norman landing at Pevensey in 1066 and\nthe day in 1485 when Richard III lost his horse and his head at Bosworth,\nushering in the Tudors and the /Early Modern period, marks a rare flowering of\nBritish building. And it is all the more remarkable because the underlying ethos\nof medieval architecture was 'fitness for purpose'. The great cathedrals and\nparish churches that lifted up their towers to heaven were not only acts of\ndevotion in stone; they were also fiercely functional buildings. Castles served\ntheir particular purpose and their battlements and turrets were for use rather\nthan ornament. In a sense, the buildings of the 16th century were also\ngoverned by fitness for purpose - only now, the purpose was very different. In\ndomestic architecture, in particular, buildings were used to display status and\nwealth."
+          },
+          {
+            "label": null,
+            "text": "C. This stately and curious workmanship showed itself in various ways. A\ngreater sense of security led to more outward-looking buildings, as opposed to\nthe medieval arrangement where the need for defense created houses that\nfaced inward onto a courtyard or series of courtyards. This allowed for much\nmore in the way of exterior ornament. The rooms themselves tended to be\nbigger and lighter - as an expensive commodity, the use of great expanses of\nglass was in itself a statement of wealth. There was also a general move\ntowards balanced and symmetrical exteriors with central entrances."
+          },
+          {
+            "label": null,
+            "text": "D. With the exception of Inigo Jones (1573-1652), whose confident handling of\nclassical detail and proportion set him apart from all other architects of the\nperiod, most early 17th century buildings tended to take the innocent\nexuberance of late Tudor work one step further. /But during the 1640s and 50s\nthe Civil War and its aftermath sent many gentlemen and nobles to the\nContinent either to escape the fighting or, when the war was lost, to follow\nCharles II into exile. There they came into contact with French, Dutch and\nItalian architecture and, with Charles's restoration in 1660, there was a flurry\nof building activity as royalists reclaimed their property and built themselves\nhouses reflecting the latest European trends. The British Baroque was a\nreassertion of authority, an expression of absolutist ideology by men who\nremembered a world turned upside down during the Civil War. The style is\nheavy and rich, sometimes overblown and melodramatic. The politics which\nunderpin it are questionable, but its products are breathtaking."
+          },
+          {
+            "label": null,
+            "text": "E. The huge glass-and-iron Crystal Palace, designed by Joseph Paxton to house\nthe Great Exhibition of 1851, shows another strand to 19th century\narchitecture - one which embraced new industrial processes. But it wasn't long\nbefore even this confidence in progress came to be regarded with suspicion.\nMass production resulted in buildings and furnishings that were too perfect, as\nthe individual craftsman no longer had a major role in their creation. Railing\nagainst the dehumanising effects of industrialisation, reformers like John Ruskin\nand William Morris made a concerted effort to return to hand-crafted, pre-\nindustrial manufacturing techniques. Morris's influence grew from the\nproduction of furniture and textiles, until by the 1880s a generation of\nprincipled young architects was following his call for good, honest construction."
+          },
+          {
+            "label": null,
+            "text": "F. The most important trends in early 20th century architecture simply passed\nBritain by. Whilst Gropius was working on cold, hard expanses of glass, and Le\nCorbusier was experimenting with the use of reinforced concrete frames, we"
+          },
+          {
+            "label": null,
+            "text": "had staid establishment architects like Edwin Lutyens producing Neo-Georgian\nand Renaissance country houses for an outmoded landed class. In addition\nthere were slightly batty architect-craftsmen, the heirs of William Morris, still\ntrying to turn the clock back to before the Industrial Revolution by making\nchairs and spurning new technology. Only a handful of Modern Movement\nbuildings of any real merit were produced here during the 1920s and 1930s,\nand most of these were the work of foreign architects such as Serge\nChermayeff, Berthold Lubetkin and Erno Goldf inger who had settled in this\ncountry."
+          },
+          {
+            "label": null,
+            "text": "G. After the Second World War the situation began to change. The Modern\nMovement's belief in progress and the future struck a chord with the mood of\npost-war Britain and, as reconstruction began under Attlee's Labour\ngovernment in 1945, there was a desperate need for cheap housing which\ncould be produced quickly. The use of prefabricated elements, metal frames,\nconcrete cladding and the absence of decoration - all of which had been\nembraced by Modernists abroad and viewed with suspicion by the British -were\nadopted to varying degrees for housing developments and schools. Local\nauthorities, charged with the task of rebuilding city center, became important\npatrons of architecture. This represented a shift away from the private\nindividuals who had dominated the architectural scene for centuries."
+          },
+          {
+            "label": null,
+            "text": "H. Since the War it has been corporate bodies like these local authorities,\ntogether with national and multinational companies, and large educational\ninstitutions, which have dominated British architecture. By the late 1980s the\nModern Movement, unfairly blamed for the social experiments implicit in high-\nrise housing, had lost out to irony and spectacle in the shape of post-\nmodernism, with its cheerful borrowings from anywhere and any period. But\nnow, in the new Millennium, even post-modernism is showing signs of age.\nWhat comes next? Post-post-modernism?"
+          }
+        ],
+        "text": "British Architecture 2\n\nA. Architecture is about evolution, not revolution. It used to be thought that\nonce the Romans pulled out of Britain in the fifth century, their elegant villas,\ncarefully-planned towns and engineering marvels like Hadrian's Wall simply fell\ninto decay as British culture was plunged into the Dark Ages. It took the\nNorman Conquest of 1066 to bring back the light, and the ố othic cathedral-\nbuilders of the Middle Ages played an important part in the revival of British\nculture. However, the truth is not as simple as that Romano-British culture -\nand that included architecture along with language, religion, political\norganization and the arts - survived long after the Roman withdrawal. And\nalthough the Anglo- Saxons had a sophisticated building style of their own, little\nsurvives to bear witness to their achievements as the vast majority of Anglo-\nSaxon buildings were made of wood.\n\nB. Even so, the period between the Norman landing at Pevensey in 1066 and\nthe day in 1485 when Richard III lost his horse and his head at Bosworth,\nushering in the Tudors and the /Early Modern period, marks a rare flowering of\nBritish building. And it is all the more remarkable because the underlying ethos\nof medieval architecture was 'fitness for purpose'. The great cathedrals and\nparish churches that lifted up their towers to heaven were not only acts of\ndevotion in stone; they were also fiercely functional buildings. Castles served\ntheir particular purpose and their battlements and turrets were for use rather\nthan ornament. In a sense, the buildings of the 16th century were also\ngoverned by fitness for purpose - only now, the purpose was very different. In\ndomestic architecture, in particular, buildings were used to display status and\nwealth.\n\nC. This stately and curious workmanship showed itself in various ways. A\ngreater sense of security led to more outward-looking buildings, as opposed to\nthe medieval arrangement where the need for defense created houses that\nfaced inward onto a courtyard or series of courtyards. This allowed for much\nmore in the way of exterior ornament. The rooms themselves tended to be\nbigger and lighter - as an expensive commodity, the use of great expanses of\nglass was in itself a statement of wealth. There was also a general move\ntowards balanced and symmetrical exteriors with central entrances.\n\nD. With the exception of Inigo Jones (1573-1652), whose confident handling of\nclassical detail and proportion set him apart from all other architects of the\nperiod, most early 17th century buildings tended to take the innocent\nexuberance of late Tudor work one step further. /But during the 1640s and 50s\nthe Civil War and its aftermath sent many gentlemen and nobles to the\nContinent either to escape the fighting or, when the war was lost, to follow\nCharles II into exile. There they came into contact with French, Dutch and\nItalian architecture and, with Charles's restoration in 1660, there was a flurry\nof building activity as royalists reclaimed their property and built themselves\nhouses reflecting the latest European trends. The British Baroque was a\nreassertion of authority, an expression of absolutist ideology by men who\nremembered a world turned upside down during the Civil War. The style is\nheavy and rich, sometimes overblown and melodramatic. The politics which\nunderpin it are questionable, but its products are breathtaking.\n\nE. The huge glass-and-iron Crystal Palace, designed by Joseph Paxton to house\nthe Great Exhibition of 1851, shows another strand to 19th century\narchitecture - one which embraced new industrial processes. But it wasn't long\nbefore even this confidence in progress came to be regarded with suspicion.\nMass production resulted in buildings and furnishings that were too perfect, as\nthe individual craftsman no longer had a major role in their creation. Railing\nagainst the dehumanising effects of industrialisation, reformers like John Ruskin\nand William Morris made a concerted effort to return to hand-crafted, pre-\nindustrial manufacturing techniques. Morris's influence grew from the\nproduction of furniture and textiles, until by the 1880s a generation of\nprincipled young architects was following his call for good, honest construction.\n\nF. The most important trends in early 20th century architecture simply passed\nBritain by. Whilst Gropius was working on cold, hard expanses of glass, and Le\nCorbusier was experimenting with the use of reinforced concrete frames, we\n\nhad staid establishment architects like Edwin Lutyens producing Neo-Georgian\nand Renaissance country houses for an outmoded landed class. In addition\nthere were slightly batty architect-craftsmen, the heirs of William Morris, still\ntrying to turn the clock back to before the Industrial Revolution by making\nchairs and spurning new technology. Only a handful of Modern Movement\nbuildings of any real merit were produced here during the 1920s and 1930s,\nand most of these were the work of foreign architects such as Serge\nChermayeff, Berthold Lubetkin and Erno Goldf inger who had settled in this\ncountry.\n\nG. After the Second World War the situation began to change. The Modern\nMovement's belief in progress and the future struck a chord with the mood of\npost-war Britain and, as reconstruction began under Attlee's Labour\ngovernment in 1945, there was a desperate need for cheap housing which\ncould be produced quickly. The use of prefabricated elements, metal frames,\nconcrete cladding and the absence of decoration - all of which had been\nembraced by Modernists abroad and viewed with suspicion by the British -were\nadopted to varying degrees for housing developments and schools. Local\nauthorities, charged with the task of rebuilding city center, became important\npatrons of architecture. This represented a shift away from the private\nindividuals who had dominated the architectural scene for centuries.\n\nH. Since the War it has been corporate bodies like these local authorities,\ntogether with national and multinational companies, and large educational\ninstitutions, which have dominated British architecture. By the late 1980s the\nModern Movement, unfairly blamed for the social experiments implicit in high-\nrise housing, had lost out to irony and spectacle in the shape of post-\nmodernism, with its cheerful borrowings from anywhere and any period. But\nnow, in the new Millennium, even post-modernism is showing signs of age.\nWhat comes next? Post-post-modernism?",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were",
+          "body": "constructed in [[14]] Different from the medieval architecture, the buildings of the 16th century represents [[15]] The costly glass was applied widely as an [[16]] in that years. Inigo Jones was skilled at handling [[17]] style. William Morris favored the production of [[18]] made in pre-industrial manufacturing techniques. The architects such as [[19]] provided the landlord with conservative houses. After World War Two, the architect commission shifted from individual to [[20]]",
+          "range": [
+            14,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
+          "body": null,
+          "range": [
+            21,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "wood",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "status and wealth",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "expensive commodity",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "classical",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "furniture and textiles",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Edwin Lutyens",
+          "trap": null
+        },
         {
           "number": 20,
           "type": "sentence-completion",
-          "prompt": "Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14",
-          "answer": "local authorities"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "local authorities",
+          "trap": null
         },
         {
           "number": 21,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "The feature of medieval architecture was",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "immense",
+            "useful",
+            "decorative",
+            "bizarre"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 22,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "What contributes to the outward-looking buildings in the 16th century?",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "safety",
+            "beauty",
+            "quality",
+            "technology"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 23,
           "type": "multiple-choice",
-          "prompt": "Why were the buildings in the 1660s influenced by the latest European",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "D",
+          "groupId": "p2g2",
+          "prompt": "Why were the buildings in the 1660s influenced by the latest European trends?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Because the war was lost.",
+            "Because the craftsman came from all over the Europe.",
+            "Because the property belongs to the gentlemen and nobles.",
+            "Because the monarch came back from the continent."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 24,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "What kind of sense did the British Baroque imply?",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "tough",
+            "steady",
+            "mild",
+            "conservative"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 25,
           "type": "multiple-choice",
-          "prompt": "The individual craftsman was no more the key to creation for the",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p2g2",
+          "prompt": "The individual craftsman was no more the key to creation for the appearance of",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Crystal Palace",
+            "preindustrial manufacturing return",
+            "industrial process in scale",
+            "ornament"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 26,
           "type": "multiple-choice",
+          "groupId": "p2g2",
           "prompt": "The building style changed after World War Two as a result of",
-          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet. The Anglo-Saxon architecture failed to last because the buildings were constructed in 14 Choose the correct letter, A, B, C or D Write the correct letter in boxes 21-26 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "abundant materials",
+            "local authority",
+            "shortage of cheap housing",
+            "conservative views READING PASSAGE 3 You should spend about 20 minutes on Questions 27 - 40, which are based on Reading Passage 3 below. Mystery in Easter Island A One of the world's most famous yet least visited archaeological sites, Easter Island is a small, hilly, now treeless island of volcanic origin. Located in the Pacific Ocean at 27 degrees south of the equator and some 2200 miles (3600 kilometers) off the coast of Chile, it is considered to be the world's most remote inhabited island. The island is, technically speaking, a single massive volcano rising over ten thousand feet from the Pacific Ocean floor. The island received its most well-known current name, Easter Island, from the Dutch sea captain Jacob Roggeveen who became the first European to visit Easter Sunday, April 5, 1722. B In the early 1950s, the Norwegian explorer Thor Heyerdahl popularized the idea that the island had been originally settled by advanced societies of Indians from the coast of South America. Extensive archaeological, ethnographic and linguistic research has conclusively shown this hypothesis to be inaccurate. It is now recognized that the original inhabitants of Easter Island are of Polynesian stock (DNA extracts from skeletons have confirmed this), that they most probably came from the Marquesas or Society islands, and that they arrived as early as 318 AD (carbon dating of reeds from a grave confirms this). At the time of their arrival, much of the island was forested, was teeming with land birds, and was perhaps the most productive breeding site for seabirds in the Polynesia region. Because of the plentiful bird, fish and plant food sources, the human population grew and gave rise to a rich religious and artistic culture. C That culture's most famous features are its enormous stone statues called moai, at least 288 of which once stood upon massive stone platforms called ahu. There are some 250 of these ahu platforms spaced approximately one- half mile apart and creating an almost unbroken line around the perimeter of the island. Another 600 moai statues, in various stages of completion, are scattered around the island, either in quarries or along ancient roads between the quarries and the coastal areas where the statues were most often erected. Nearly all the moai are carved from the tough stone of the Rano Raraku volcano. The average statue is 14 feet and 6 inches tall and weighs 14 tons. Some moai were as large as 33 feet and weighed more than 80 tons. Depending upon the size of the statues, it has been estimated that between 50 and 150 people were needed to drag them across the countryside on sledges and rollers made from the island's trees. D Scholars are unable to definitively explain the function and use of the moai statues. It is assumed that their carving and erection derived from an idea rooted in similar practices found elsewhere in Polynesia but which evolved in a unique way on Easter Island. Archaeological and iconographic analysis indicates that the statue cult was based on an ideology of male, lineage-based authority incorporating anthropomorphic symbolism. The statues were thus symbols of authority and power, both religious and political. But they were not only symbols. To the people who erected and used them, they were actual repositories of sacred spirit. Carved stone and wooden objects in ancient Polynesian religions, when properly fashioned and ritually prepared, were believed to be charged by a magical spiritual essence called mana. The ahu platforms of Easter Island were the sanctuaries of the people, and the moai statues were the ritually charged sacred objects of those sanctuaries. E Besides its more well-known name, Easter Island is also known as Te-Pito-O- Te-Henuab, meaning `The Navel of the World', and as Mata-Ki-Te-Rani, meaning `Eyes Looking at Heaven'. These ancient name and a host of mythological details ignored by mainstream archaeologists point to the possibility that the remote island may once have been a geodetic marker and the site of an astronomical observatory of a long-forgotten civilization. In his book, Heaven's Mirror, Graham Hancock suggests that Easter Island may once have been a significant scientific outpost of this antediluvian civilization and that its location had extreme importance in a planet-spanning, mathematically precise grid of sacred sites. Two other alternative scholars, Christopher Knight and Robert Lomas, have extensively studied the location and possible function of these geodetic markers. In their fascinating book, Uriel's Machine, they suggest that one purpose of the geodetic markers was as part of a global network of sophisticated astronomical observatories dedicated to predicting and preparing for future commentary impacts and crystal displacement cataclysms. F In the latter years of the 20th century and the first years of the 21st century, various writers and scientists have advanced theories regarding the rapid decline of Easter Island's magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island's initial colonization the resource needs of the growing population had begun to outpace the island's capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By 1700 the population dropped to between one-quarter and one-tenth of its former number, and many of the statues were toppled during supposed \"clan wars\" of the 1600 and 1700s. G The faulty notions presented in these theories began with the racist assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Mystery in Easter Island"
+          },
+          {
+            "label": "A",
+            "text": "One of the world's most famous yet least visited archaeological sites, Easter\nIsland is a small, hilly, now treeless island of volcanic origin. Located in the\nPacific Ocean at 27 degrees south of the equator and some 2200 miles (3600\nkilometers) off the coast of Chile, it is considered to be the world's most remote\ninhabited island. The island is, technically speaking, a single massive volcano\nrising over ten thousand feet from the Pacific Ocean floor. The island received\nits most well-known current name, Easter Island, from the Dutch sea captain\nJacob Roggeveen who became the first European to visit Easter Sunday, April 5,\n1722."
+          },
+          {
+            "label": "B",
+            "text": "In the early 1950s, the Norwegian explorer Thor Heyerdahl popularized the idea\nthat the island had been originally settled by advanced societies of Indians\nfrom the coast of South America. Extensive archaeological, ethnographic and\nlinguistic research has conclusively shown this hypothesis to be inaccurate. It is\nnow recognized that the original inhabitants of Easter Island are of Polynesian\nstock (DNA extracts from skeletons have confirmed this), that they most\nprobably came from the Marquesas or Society islands, and that they arrived as\nearly as 318 AD (carbon dating of reeds from a grave confirms this). At the\ntime of their arrival, much of the island was forested, was teeming with land\nbirds, and was perhaps the most productive breeding site for seabirds in the\nPolynesia region. Because of the plentiful bird, fish and plant food sources, the\nhuman population grew and gave rise to a rich religious and artistic culture."
+          },
+          {
+            "label": "C",
+            "text": "That culture's most famous features are its enormous stone statues called\nmoai, at least 288 of which once stood upon massive stone platforms called\nahu. There are some 250 of these ahu platforms spaced approximately one-\nhalf mile apart and creating an almost unbroken line around the perimeter of\nthe island. Another 600 moai statues, in various stages of completion, are\nscattered around the island, either in quarries or along ancient roads between\nthe quarries and the coastal areas where the statues were most often erected.\nNearly all the moai are carved from the tough stone of the Rano Raraku\nvolcano. The average statue is 14 feet and 6 inches tall and weighs 14 tons.\nSome moai were as large as 33 feet and weighed more than 80 tons.\nDepending upon the size of the statues, it has been estimated that between 50\nand 150 people were needed to drag them across the countryside on sledges\nand rollers made from the island's trees."
+          },
+          {
+            "label": "D",
+            "text": "Scholars are unable to definitively explain the function and use of the moai\nstatues. It is assumed that their carving and erection derived from an idea\nrooted in similar practices found elsewhere in Polynesia but which evolved in a\nunique way on Easter Island. Archaeological and iconographic analysis\nindicates that the statue cult was based on an ideology of male, lineage-based\nauthority incorporating anthropomorphic symbolism. The statues were thus\nsymbols of authority and power, both religious and political. But they were not\nonly symbols. To the people who erected and used them, they were actual\nrepositories of sacred spirit. Carved stone and wooden objects in ancient\nPolynesian religions, when properly fashioned and ritually prepared, were\nbelieved to be charged by a magical spiritual essence called mana. The ahu\nplatforms of Easter Island were the sanctuaries of the people, and the moai\nstatues were the ritually charged sacred objects of those sanctuaries."
+          },
+          {
+            "label": "E",
+            "text": "Besides its more well-known name, Easter Island is also known as Te-Pito-O-\nTe-Henuab, meaning 'The Navel of the World', and as Mata-Ki-Te-Rani,\nmeaning 'Eyes Looking at Heaven'. These ancient name and a host of\nmythological details ignored by mainstream archaeologists point to the\npossibility that the remote island may once have been a geodetic marker and\nthe site of an astronomical observatory of a long-forgotten civilization. In his\nbook, Heaven's Mirror, Graham Hancock suggests that Easter Island may once\nhave been a significant scientific outpost of this antediluvian civilization and\nthat its location had extreme importance in a planet-spanning, mathematically"
+          },
+          {
+            "label": null,
+            "text": "precise grid of sacred sites. Two other alternative scholars, Christopher Knight\nand Robert Lomas, have extensively studied the location and possible function\nof these geodetic markers. In their fascinating book, Uriel's Machine, they\nsuggest that one purpose of the geodetic markers was as part of a global\nnetwork of sophisticated astronomical observatories dedicated to predicting\nand preparing for future commentary impacts and crystal displacement\ncataclysms."
+          },
+          {
+            "label": "F",
+            "text": "In the latter years of the 20th century and the first years of the 21st century,\nvarious writers and scientists have advanced theories regarding the rapid\ndecline of Easter Island's magnificent civilization around the time of the first\nEuropean contact. Principal among these theories, and now shown to be\ninaccurate, is that postulated by Jared Diamond in his book Collapse: How\nSocieties Choose to Fail or Survive. Basically, these theories state that a\nfew centuries after Easter Island's initial colonization the resource needs of the\ngrowing population had begun to outpace the island's capacity to renew itself\necologically. By the 1400s the forests had been entirely cut, the rich ground\ncover had eroded away, the springs had dried up, and the vast flocks of birds\ncoming to roost on the island had disappeared. With no logs to build canoes for\noffshore fishing, with depleted bird and wildlife food sources, and with declining\ncrop yields because of the erosion of good soil, the nutritional intake of the\npeople plummeted. First famine, then cannibalism, set in. Because the island\ncould no longer feed the chiefs, bureaucrats and priests who kept the complex\nsociety running, the resulting chaos triggered a social and cultural collapse. By\n1700 the population dropped to between one-quarter and one-tenth of its\nformer number, and many of the statues were toppled during supposed \"clan\nwars\" of the 1600 and 1700s."
+          },
+          {
+            "label": "G",
+            "text": "The faulty notions presented in these theories began with the racist\nassumptions of Thor Heyerdahl and have been perpetuated by writers, such as\nJared Diamond, who do not have sufficient archaeological and historical\nunderstanding of the actual events which occurred on Easter Island. The real\ntruth regarding the tremendous social devastation which occurred on Easter\nIsland is that it was a direct consequence of the inhumane behavior of many of\nthe first European visitors, particularly the slavers who raped and murdered the\nislanders, introduced smallpox and other diseases, and brutally removed the\nnatives to mainland South America."
+          }
+        ],
+        "text": "Mystery in Easter Island\n\nOne of the world's most famous yet least visited archaeological sites, Easter\nIsland is a small, hilly, now treeless island of volcanic origin. Located in the\nPacific Ocean at 27 degrees south of the equator and some 2200 miles (3600\nkilometers) off the coast of Chile, it is considered to be the world's most remote\ninhabited island. The island is, technically speaking, a single massive volcano\nrising over ten thousand feet from the Pacific Ocean floor. The island received\nits most well-known current name, Easter Island, from the Dutch sea captain\nJacob Roggeveen who became the first European to visit Easter Sunday, April 5,\n1722.\n\nIn the early 1950s, the Norwegian explorer Thor Heyerdahl popularized the idea\nthat the island had been originally settled by advanced societies of Indians\nfrom the coast of South America. Extensive archaeological, ethnographic and\nlinguistic research has conclusively shown this hypothesis to be inaccurate. It is\nnow recognized that the original inhabitants of Easter Island are of Polynesian\nstock (DNA extracts from skeletons have confirmed this), that they most\nprobably came from the Marquesas or Society islands, and that they arrived as\nearly as 318 AD (carbon dating of reeds from a grave confirms this). At the\ntime of their arrival, much of the island was forested, was teeming with land\nbirds, and was perhaps the most productive breeding site for seabirds in the\nPolynesia region. Because of the plentiful bird, fish and plant food sources, the\nhuman population grew and gave rise to a rich religious and artistic culture.\n\nThat culture's most famous features are its enormous stone statues called\nmoai, at least 288 of which once stood upon massive stone platforms called\nahu. There are some 250 of these ahu platforms spaced approximately one-\nhalf mile apart and creating an almost unbroken line around the perimeter of\nthe island. Another 600 moai statues, in various stages of completion, are\nscattered around the island, either in quarries or along ancient roads between\nthe quarries and the coastal areas where the statues were most often erected.\nNearly all the moai are carved from the tough stone of the Rano Raraku\nvolcano. The average statue is 14 feet and 6 inches tall and weighs 14 tons.\nSome moai were as large as 33 feet and weighed more than 80 tons.\nDepending upon the size of the statues, it has been estimated that between 50\nand 150 people were needed to drag them across the countryside on sledges\nand rollers made from the island's trees.\n\nScholars are unable to definitively explain the function and use of the moai\nstatues. It is assumed that their carving and erection derived from an idea\nrooted in similar practices found elsewhere in Polynesia but which evolved in a\nunique way on Easter Island. Archaeological and iconographic analysis\nindicates that the statue cult was based on an ideology of male, lineage-based\nauthority incorporating anthropomorphic symbolism. The statues were thus\nsymbols of authority and power, both religious and political. But they were not\nonly symbols. To the people who erected and used them, they were actual\nrepositories of sacred spirit. Carved stone and wooden objects in ancient\nPolynesian religions, when properly fashioned and ritually prepared, were\nbelieved to be charged by a magical spiritual essence called mana. The ahu\nplatforms of Easter Island were the sanctuaries of the people, and the moai\nstatues were the ritually charged sacred objects of those sanctuaries.\n\nBesides its more well-known name, Easter Island is also known as Te-Pito-O-\nTe-Henuab, meaning 'The Navel of the World', and as Mata-Ki-Te-Rani,\nmeaning 'Eyes Looking at Heaven'. These ancient name and a host of\nmythological details ignored by mainstream archaeologists point to the\npossibility that the remote island may once have been a geodetic marker and\nthe site of an astronomical observatory of a long-forgotten civilization. In his\nbook, Heaven's Mirror, Graham Hancock suggests that Easter Island may once\nhave been a significant scientific outpost of this antediluvian civilization and\nthat its location had extreme importance in a planet-spanning, mathematically\n\nprecise grid of sacred sites. Two other alternative scholars, Christopher Knight\nand Robert Lomas, have extensively studied the location and possible function\nof these geodetic markers. In their fascinating book, Uriel's Machine, they\nsuggest that one purpose of the geodetic markers was as part of a global\nnetwork of sophisticated astronomical observatories dedicated to predicting\nand preparing for future commentary impacts and crystal displacement\ncataclysms.\n\nIn the latter years of the 20th century and the first years of the 21st century,\nvarious writers and scientists have advanced theories regarding the rapid\ndecline of Easter Island's magnificent civilization around the time of the first\nEuropean contact. Principal among these theories, and now shown to be\ninaccurate, is that postulated by Jared Diamond in his book Collapse: How\nSocieties Choose to Fail or Survive. Basically, these theories state that a\nfew centuries after Easter Island's initial colonization the resource needs of the\ngrowing population had begun to outpace the island's capacity to renew itself\necologically. By the 1400s the forests had been entirely cut, the rich ground\ncover had eroded away, the springs had dried up, and the vast flocks of birds\ncoming to roost on the island had disappeared. With no logs to build canoes for\noffshore fishing, with depleted bird and wildlife food sources, and with declining\ncrop yields because of the erosion of good soil, the nutritional intake of the\npeople plummeted. First famine, then cannibalism, set in. Because the island\ncould no longer feed the chiefs, bureaucrats and priests who kept the complex\nsociety running, the resulting chaos triggered a social and cultural collapse. By\n1700 the population dropped to between one-quarter and one-tenth of its\nformer number, and many of the statues were toppled during supposed \"clan\nwars\" of the 1600 and 1700s.\n\nThe faulty notions presented in these theories began with the racist\nassumptions of Thor Heyerdahl and have been perpetuated by writers, such as\nJared Diamond, who do not have sufficient archaeological and historical\nunderstanding of the actual events which occurred on Easter Island. The real\ntruth regarding the tremendous social devastation which occurred on Easter\nIsland is that it was a direct consequence of the inhumane behavior of many of\nthe first European visitors, particularly the slavers who raped and murdered the\nislanders, introduced smallpox and other diseases, and brutally removed the\nnatives to mainland South America.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "The reading passage has seven paragraphs, A-G Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl's discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders' legacy Example: Paragraph A iv Example: Paragraph C i",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "v",
+              "x"
+            ],
+            "labels": [
+              "The famous moai",
+              "The status represented symbols of combined purposes",
+              "Early immigrants, rise and prosperity",
+              "The Navel of the World"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": "[[31]] The first inhabitants of Easter Island are Polynesian, from the Marquesas or Society islands. [[32]] Construction of some moai statues on the island was not finished. [[33]] The Moai can be found not only on Easter Island but also elsewhere in Polynesia. [[34]] Most archaeologists recognised the religious and astronomical functions for an ancient society. [[35]] The structures of Easter Island work as an astronomical outpost for extraterrestrial visitors. [[36]] The theory that depleted natural resources leading to the fail of Easter Island actual have a distorted perspective",
+          "range": [
+            31,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN THREE WORDS from the Reading Passage for each answer. Write your answers in boxes 37-40 on your answer sheet. Many theories speculated that Easter Island's fall around the era of the initial European contact. Some say the resources are depleted by a",
+          "body": "[[37]] ; The erroneous theories began with a root of the [[38]] advanced by some scholars. Early writers did not have adequate [[39]] understandings to comprehend the true nature of events on the island. The social devastation was, in fact, a direct result of [[40]] of the first European settlers.",
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 31,
-          "type": "true-false-not-given",
-          "prompt": "The first inhabitants of Easter Island are Polynesian, from the Marquesas or Society islands.",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
-          "answer": "NOT GIVEN",
+          "number": 27,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+            "i",
+            "ii",
+            "v",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "The first inhabitants of Easter Island are Polynesian,\nfrom the Marquesas or Society islands.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 32,
-          "type": "true-false-not-given",
-          "prompt": "Construction of some moai statues on the island was not finished.",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "Construction of some moai statues on the island was\nnot finished.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 33,
-          "type": "true-false-not-given",
-          "prompt": "The Moai can be found not only on Easter Island but also elsewhere in Polynesia.",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "The Moai can be found not only on Easter Island but\nalso elsewhere in Polynesia.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 34,
-          "type": "true-false-not-given",
-          "prompt": "Most archaeologists recognised the religious and astronomical functions for an ancient society.",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "Most archaeologists recognised the religious and\nastronomical functions for an ancient society.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 35,
-          "type": "true-false-not-given",
-          "prompt": "The structures of Easter Island work as an astronomical outpost for extraterrestrial visitors.",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "The structures of Easter Island work as an\nastronomical outpost for extraterrestrial visitors.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "NOT GIVEN",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 36,
-          "type": "true-false-not-given",
-          "prompt": "The theory that depleted natural resources leading to the fail of Easter Island actual have a distorted perspective Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN THREE WORDS from the Reading Passage for",
-          "instruction": "various writers and scientists have advanced theories regarding the rapid decline of Easter Island’s magnificent civilization around the time of the first European contact. Principal among these theories, and now shown to be inaccurate, is that postulated by Jared Diamond in his book Collapse: How Societies Choose to Fail or Survive. Basically, these theories state that a few centuries after Easter Island’s initial colonization the resource needs of the growing population had begun to outpace the island’s capacity to renew itself ecologically. By the 1400s the forests had been entirely cut, the rich ground cover had eroded away, the springs had dried up, and the vast flocks of birds coming to roost on the island had disappeared. With no logs to build canoes for offshore fishing, with depleted bird and wildlife food sources, and with declining crop yields because of the erosion of good soil, the nutritional intake of the people plummeted. First famine, then cannibalism, set in. Because the island could no longer feed the chiefs, bureaucrats and priests who kept the complex society running, the resulting chaos triggered a social and cultural collapse. By assumptions of Thor Heyerdahl and have been perpetuated by writers, such as Jared Diamond, who do not have sufficient archaeological and historical understanding of the actual events which occurred on Easter Island. The real truth regarding the tremendous social devastation which occurred on Easter Island is that it was a direct consequence of the inhumane behavior of many of the first European visitors, particularly the slavers who raped and murdered the islanders, introduced smallpox and other diseases, and brutally removed the natives to mainland South America. Questions 27-30 Choose the correct heading for paragraphs A-G from the list below. NB There are more headings than paragraphs List of headings i The famous moai ii The status represented symbols of combined purposes iii The ancient spots which indicate the scientific application iv The story of the name v Early immigrants, rise and prosperity vi The geology of Easter Island vii The begin of Thor Heyerdahl’s discovery viii The countering explanation to the misconceptions politically manipulated ix Symbols of authority and power x The Navel of the World xi The Norwegian Invaders’ legacy Example: Paragraph A iv 27 Paragraph B Example: Paragraph C i 28 Paragraph D 29 Paragraph E 30 Paragraph G Do the following statements agree with the information given in Reading Passage? In boxes 31-36 on your answer sheet write",
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "The theory that depleted natural resources leading to\nthe fail of Easter Island actual have a distorted perspective",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "; The erroneous theories began with a root of the 38",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "growing population",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "racist assumption",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "understandings to comprehend the true nature of events on\nthe island. The social devastation was, in fact, a direct result of",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "archeological and historical",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "of the first European settlers.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "inhuman behavior",
+          "trap": null
         }
       ]
     }
@@ -265,7 +1015,7 @@
     "6": "2-3 seconds",
     "7": "10 seconds",
     "8": "100 to 120",
-    "13": "B,C,E,F",
+    "10": "B,C,E,F",
     "14": "wood",
     "15": "status and wealth",
     "16": "expensive commodity",
@@ -292,6 +1042,10 @@
     "37": "growing population",
     "38": "racist assumption",
     "39": "archeological and historical",
-    "40": "inhuman behavior"
+    "40": "inhuman behavior",
+    "9": "200",
+    "11": "B,C,E,F",
+    "12": "B,C,E,F",
+    "13": "B,C,E,F"
   }
 }

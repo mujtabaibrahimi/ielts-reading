@@ -1,149 +1,1332 @@
 {
   "id": "ielts-general-training-volume-3_reading-practice-test-4-v9-2449",
   "type": "general",
-  "source": "ielts-general-training-volume-3 reading-practice-test-4-v9-2449",
+  "title": "IELTS General Training Volume 3 - Reading Test 4",
+  "collection": "IELTS General Training Volume 3",
+  "testNumber": 4,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-3_reading-practice-test-4-v9-2449.pdf",
-  "total_questions": 13,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer the questions 1-13 that follow"
+          },
+          {
+            "label": null,
+            "text": "Youth Adventure Package"
+          },
+          {
+            "label": null,
+            "text": "Travel Insurance."
+          },
+          {
+            "label": null,
+            "text": "Don't let anything spoil your fun! Your vacation is all about exploring,\nadventure and fun. You want to see new places and try new things."
+          },
+          {
+            "label": null,
+            "text": "The Youth Adventure Package is an affordable just in case' backup plan, so you\naren't hit with unexpected medical costs while on the adventure of a lifetime.\nYou'll be a long way from home. If you have an unexpected illness or ,\naccidental injury, well be there to help and ensure you get the care you need."
+          },
+          {
+            "label": null,
+            "text": "Our emergency travel assistance services are available from anywhere in the\nworld at anytime of the day or night"
+          },
+          {
+            "label": "A",
+            "text": "Even for young healthy travellers, sickness or accidental injury can happen at\nany time. Charges for hospital stays can be thousands of dollars per day not\nincluding doctors' fees and diagnostic services. This easily adds up to a\ndevastating financial loss. You are on the adventure of a lifetime and don't\nwant to be burdened with a medical bill or to pay for lost or stolen luggage."
+          },
+          {
+            "label": "B",
+            "text": "Travel insurance is intended to cover sudden, unexpected and unforeseeable\ncircumstances. Your plan is comprised of 4 different coverages. For more"
+          },
+          {
+            "label": null,
+            "text": "information, please read the Benefits under each"
+          },
+          {
+            "label": "C",
+            "text": "The Youth Adventure Package does not cover everything. This insurance has\nsome exclusions. You . should read and understand them before you travel.\nPrior-existing medical conditions may be excluded. Any medical condition you\nare aware of prior to the effective date of coverage, whether diagnosed or not,\nmay not be covered. Sickness or accidental injury that occurs as a result of\nthe use of alcohol or illegal drugs is not covered."
+          },
+          {
+            "label": "D",
+            "text": "We are dedicated to protecting you privacy. Your medical history will be\ncollected when required and will only be used or disclosed for the purpose of\nadjudicating the claim."
+          },
+          {
+            "label": "E",
+            "text": "Yes you can. Just call your agent no sooner than 7 days prior to the expiry of\nyour policy. You can purchase an extension if you are in good health and have\nnot filed any claims on the policy."
+          },
+          {
+            "label": "F",
+            "text": "You are covered for any country outside of the USA. However, transit for 5 days\nonly is allowed through the USA"
+          }
+        ],
+        "text": "Read the passage below and answer the questions 1-13 that follow\n\nYouth Adventure Package\n\nTravel Insurance.\n\nDon't let anything spoil your fun! Your vacation is all about exploring,\nadventure and fun. You want to see new places and try new things.\n\nThe Youth Adventure Package is an affordable just in case' backup plan, so you\naren't hit with unexpected medical costs while on the adventure of a lifetime.\nYou'll be a long way from home. If you have an unexpected illness or ,\naccidental injury, well be there to help and ensure you get the care you need.\n\nOur emergency travel assistance services are available from anywhere in the\nworld at anytime of the day or night\n\nEven for young healthy travellers, sickness or accidental injury can happen at\nany time. Charges for hospital stays can be thousands of dollars per day not\nincluding doctors' fees and diagnostic services. This easily adds up to a\ndevastating financial loss. You are on the adventure of a lifetime and don't\nwant to be burdened with a medical bill or to pay for lost or stolen luggage.\n\nTravel insurance is intended to cover sudden, unexpected and unforeseeable\ncircumstances. Your plan is comprised of 4 different coverages. For more\n\ninformation, please read the Benefits under each\n\nThe Youth Adventure Package does not cover everything. This insurance has\nsome exclusions. You . should read and understand them before you travel.\nPrior-existing medical conditions may be excluded. Any medical condition you\nare aware of prior to the effective date of coverage, whether diagnosed or not,\nmay not be covered. Sickness or accidental injury that occurs as a result of\nthe use of alcohol or illegal drugs is not covered.\n\nWe are dedicated to protecting you privacy. Your medical history will be\ncollected when required and will only be used or disclosed for the purpose of\nadjudicating the claim.\n\nYes you can. Just call your agent no sooner than 7 days prior to the expiry of\nyour policy. You can purchase an extension if you are in good health and have\nnot filed any claims on the policy.\n\nYou are covered for any country outside of the USA. However, transit for 5 days\nonly is allowed through the USA",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Which accommodation would you choose for each of the requirements below? Choose the correct letter, A-E, from the list.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "Accommodation",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "fill-in-blank-from-list",
+          "instruction": "Look at the travel insurance notice. Choose the most suitable heading for each of the Frequently Asked Questions (Parts B-F) from the list (i-x) below.",
+          "body": null,
+          "range": [
+            6,
+            10
+          ],
+          "optionBank": {
+            "title": "List of Questions",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Do i have to reveal my medical history?",
+              "Does the plan cover lost luggage?",
+              "If i want to stay longer can i extend my policy?",
+              "Can i travel anywhere in the world?",
+              "what is not covered?",
+              "what if I have an emergency or claim?",
+              "How much will it cost?",
+              "Why do i need travel insurance",
+              "Can i buy insurance after i have begun my travels?",
+              "In what situations am i covered when travelling?"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "fill-in-blank",
+          "instruction": "Look at the travel insurance notice on the following page. Using NO MORE THAN THREE WORDS from the passage answer each of these questions. What item is covered in addition to health and medical expenses?",
+          "body": "[[11]] Accidental injury not covered if a person use _______ [[12]] What is special about the coverage for the United States? [[13]]",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "You want accommodation close to the ferry boat terminal",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 2,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "You are looking for the least expensive place to stay",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 3,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "You have heard that the best spots are on the south coast",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above.",
-          "answer": "E"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 4,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "You want to be sure to have a good view from your room",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above.",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
-          "prompt": "You like the idea of a big breakfast Look at the travel insurance notice on the following page. Choose the most suitable heading for each of the Frequently Asked Questions (B-F) from the list (i-x) below",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above.",
-          "answer": "C"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "You like the idea of a big breakfast",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p1g2",
+          "prompt": "Part B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p1g2",
+          "prompt": "Part C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p1g2",
+          "prompt": "Part D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p1g2",
+          "prompt": "Part E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p1g2",
+          "prompt": "Part F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "lost/stolen luggage",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "alcohol, illegal drugs",
+          "trap": null
         },
         {
           "number": 13,
-          "type": "multiple-choice",
+          "type": "fill-in-blank",
+          "groupId": "p1g3",
           "prompt": "",
-          "instruction": "Read the passage below and answer the questions 1-13 that follow Youth Adventure Package Travel Insurance. Don't let anything spoil your fun! Your vacation is all about exploring, adventure and fun. You want to see new places and try new things. The Youth Adventure Package is an affordable just in case' backup plan, so you aren't hit with unexpected medical costs while on the adventure of a lifetime. You'll be a long way from home. If you have an unexpected illness or , accidental injury, well be there to help and ensure you get the care you need. Our emergency travel assistance services are available from anywhere in the world at anytime of the day or night A Even for young healthy travellers, sickness or accidental injury can happen at any time. Charges for hospital stays can be thousands of dollars per day not including doctors' fees and diagnostic services. This easily adds up to a devastating financial loss. You are on the adventure of a lifetime and don't want to be burdened with a medical bill or to pay for lost or stolen luggage. B Travel insurance is intended to cover sudden, unexpected and unforeseeable circumstances. Your plan is comprised of 4 different coverages. For more Which accommodation would you choose for each of the requirements below? Choose the correct letter (A-E) from the list above. Look at the travel insurance notice on the following page. Choose the most suitable heading for each of the Frequently Asked Questions (B-F) from the list (i-x) below List Of Questions: i Do i have to reveal my medical history ? ii Does the plan cover lost luggage ? iii If i want to stay longer can i extend my policy ? iv Can i travel anywhere in the world ? v what is not covered? vi what if I have an emergency or claim? vii How much will it cost ? viii Why do i need travel insurance EXAMPLE ix Can i buy insurance after i have begun my travels? x In what situations am i covered when travelling ? EXAMPLE: Part A   viii 6 Part B 7 Part C 8 Part D 9 Part E 10 Part F Look at the travel insurance notice on the following page. Using NO MORE THAN THREE WORDS from the passage  answer each of these questions. What item is covered in addition to health and medical expenses? 11 Accidental injury not covered if a person use _______ 12",
-          "answer": "transit (onty)/5 days transit"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "transit (onty)/5 days transit",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2",
-        "tables": [],
+        "heading": "DIVING: TAKE THE PLUNGE",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer the questions 14-27 that follow"
+          },
+          {
+            "label": null,
+            "text": "Have you always wanted to learn to dive?"
+          },
+          {
+            "label": null,
+            "text": "Getting a Diving Certificate will be one of the most exciting experiences of your\nlife as you learn how to explore a new world underwater!"
+          },
+          {
+            "label": null,
+            "text": "Here's the 10-step path to becoming a certified diver:"
+          },
+          {
+            "label": null,
+            "text": "STEP 1: Decide you really want to do it."
+          },
+          {
+            "label": null,
+            "text": "STEP 2: Find a dive store and dive instructor you like."
+          },
+          {
+            "label": null,
+            "text": "STEP 3: Discuss how you will complete your open-water certification: meeting\nweekly for classroom and pool sessions, weekend classes, home study, class\ntrip for your open-water dives, and more."
+          },
+          {
+            "label": null,
+            "text": "STEP 4: With your instructor, decide on a plan that best fits your schedule."
+          },
+          {
+            "label": null,
+            "text": "STEP 5: Put on a mask, a snorkel and a pair of fins. These are the basic items\nof personal equipment that need to be fitted to you by a dive store\nprofessional."
+          },
+          {
+            "label": null,
+            "text": "For reasons of safety and comfort, we recommend that you buy dive\nequipment only at a dive store."
+          },
+          {
+            "label": null,
+            "text": "STEP 6: Be enthusiastic. An important part of your training involves going back\nto the classroom and learning about the dive environment, physics and safety\npractices."
+          },
+          {
+            "label": null,
+            "text": "STEP 7: Get wet! Your first dives will take place in a swimming pool. Be\nprepared for your first breath on a regulator (breathing apparatus) under\nwater!"
+          },
+          {
+            "label": null,
+            "text": "STEP 8: Go diving Your open-water training dives provide the opportunity to\npractise the skills you learned in your classroom and pool work!"
+          },
+          {
+            "label": null,
+            "text": "STEP 9: Use your 'C-card' now that you're a certified diver! Only card-carrying\ndivers can buy scuba life-support equipment. We also encourage you to begin\nright now selecting your personal equipment, especially a regulator, buoyancy\ncompensator and dive computer. Having your own equipment will make you\nsafer and more comfortable under water."
+          },
+          {
+            "label": null,
+            "text": "STEP 10: Go for more. Your certification is really just the beginning. You still\nneed to serve a diving internship with your instructor and other experienced\ndivers. Sign up for more training or dives under supervision as soon as you can"
+          },
+          {
+            "label": null,
+            "text": "FEAR NO MORE"
+          },
+          {
+            "label": "A",
+            "text": "It's natural to be scared at first, but statistics show scuba diving is not\nparticularly dangerous. It is estimated that there are 2.4 million divers and 17\nmillion dives made in the U.S. per year. Divers Alert Network, the leading safety\norganisation lor divers. reported only 85 fatalities in the past year. Most of us\nfind that as our ability increases, our fears decrease. The risks in scuba diving,\nwhile real, can all be reduced significantly by what you do for your own safely.\nHere are some of the most common fears of new scuba divers."
+          },
+          {
+            "label": "B",
+            "text": "It's understandable if you mistrust your scuba regulator. But mechanical failure\nof your breathing equipment is highly unlikely. A regulator is simple, strong\nand designed so that if it does fail, it delivers more air than you need, not less.\nYou will also have an extra breathing system, and so will your diving buddy.\nKeep an eye on your air gauges and time. If you are running out of air you will\nfind that you have to suck harder to breathe. You will still have time to ascend\nslowly, even if you have to hold your breath. If you stay above 60 feet and stay\nout of caves and wrecks - good advice for all new divers - there is no reason\nto be afraid of running out of air under water."
+          },
+          {
+            "label": "C",
+            "text": "\"The bends'* is the decompression sickness most people associate with diving,\nbut in fact it is almost preventable. Divers most often get the bends by going"
+          },
+          {
+            "label": null,
+            "text": "too deep and coming up too quickly. It is not a serious risk if you stay above 60\nfeet. A safety stop of three minutes at 15 feet is a wise precaution. Cases of\nthe bends do occur rarely, but the sickness is normally treatable."
+          },
+          {
+            "label": "D",
+            "text": "Most fish ignore you or swim away. They have very narrow diets and eat only\nwhat they are accustomed to; however, sometimes sharks have been known to\nmake attacks on humans. Even here, there is evidence that the shark mistakes\na human for his regular meal, a seal or sea-lion, and shark attacks are very\nrare. In the presence of sharks, remain calm. Don't annoy sharks by poking at\nthem. Almost all fish will leave you alone if you do the same to them."
+          },
+          {
+            "label": "E",
+            "text": "Fear can sometimes overwhelm the intellect and leaves some people\nparalysed. The best prevention is training. You will be taught the correct\nresponse to danger. When you practise the response, it will be there when you\nneed it. When you know just what to do, you're much less likely to lose self-\ncontrol. And experience - simply diving again and again - reduces the\ngeneral anxiety level that is natural when diving is still new. When you realise\nyou are not helpless, your fears are likely to disappear"
+          }
+        ],
+        "text": "Read the passage below and answer the questions 14-27 that follow\n\nHave you always wanted to learn to dive?\n\nGetting a Diving Certificate will be one of the most exciting experiences of your\nlife as you learn how to explore a new world underwater!\n\nHere's the 10-step path to becoming a certified diver:\n\nSTEP 1: Decide you really want to do it.\n\nSTEP 2: Find a dive store and dive instructor you like.\n\nSTEP 3: Discuss how you will complete your open-water certification: meeting\nweekly for classroom and pool sessions, weekend classes, home study, class\ntrip for your open-water dives, and more.\n\nSTEP 4: With your instructor, decide on a plan that best fits your schedule.\n\nSTEP 5: Put on a mask, a snorkel and a pair of fins. These are the basic items\nof personal equipment that need to be fitted to you by a dive store\nprofessional.\n\nFor reasons of safety and comfort, we recommend that you buy dive\nequipment only at a dive store.\n\nSTEP 6: Be enthusiastic. An important part of your training involves going back\nto the classroom and learning about the dive environment, physics and safety\npractices.\n\nSTEP 7: Get wet! Your first dives will take place in a swimming pool. Be\nprepared for your first breath on a regulator (breathing apparatus) under\nwater!\n\nSTEP 8: Go diving Your open-water training dives provide the opportunity to\npractise the skills you learned in your classroom and pool work!\n\nSTEP 9: Use your 'C-card' now that you're a certified diver! Only card-carrying\ndivers can buy scuba life-support equipment. We also encourage you to begin\nright now selecting your personal equipment, especially a regulator, buoyancy\ncompensator and dive computer. Having your own equipment will make you\nsafer and more comfortable under water.\n\nSTEP 10: Go for more. Your certification is really just the beginning. You still\nneed to serve a diving internship with your instructor and other experienced\ndivers. Sign up for more training or dives under supervision as soon as you can\n\nFEAR NO MORE\n\nIt's natural to be scared at first, but statistics show scuba diving is not\nparticularly dangerous. It is estimated that there are 2.4 million divers and 17\nmillion dives made in the U.S. per year. Divers Alert Network, the leading safety\norganisation lor divers. reported only 85 fatalities in the past year. Most of us\nfind that as our ability increases, our fears decrease. The risks in scuba diving,\nwhile real, can all be reduced significantly by what you do for your own safely.\nHere are some of the most common fears of new scuba divers.\n\nIt's understandable if you mistrust your scuba regulator. But mechanical failure\nof your breathing equipment is highly unlikely. A regulator is simple, strong\nand designed so that if it does fail, it delivers more air than you need, not less.\nYou will also have an extra breathing system, and so will your diving buddy.\nKeep an eye on your air gauges and time. If you are running out of air you will\nfind that you have to suck harder to breathe. You will still have time to ascend\nslowly, even if you have to hold your breath. If you stay above 60 feet and stay\nout of caves and wrecks - good advice for all new divers - there is no reason\nto be afraid of running out of air under water.\n\n\"The bends'* is the decompression sickness most people associate with diving,\nbut in fact it is almost preventable. Divers most often get the bends by going\n\ntoo deep and coming up too quickly. It is not a serious risk if you stay above 60\nfeet. A safety stop of three minutes at 15 feet is a wise precaution. Cases of\nthe bends do occur rarely, but the sickness is normally treatable.\n\nMost fish ignore you or swim away. They have very narrow diets and eat only\nwhat they are accustomed to; however, sometimes sharks have been known to\nmake attacks on humans. Even here, there is evidence that the shark mistakes\na human for his regular meal, a seal or sea-lion, and shark attacks are very\nrare. In the presence of sharks, remain calm. Don't annoy sharks by poking at\nthem. Almost all fish will leave you alone if you do the same to them.\n\nFear can sometimes overwhelm the intellect and leaves some people\nparalysed. The best prevention is training. You will be taught the correct\nresponse to danger. When you practise the response, it will be there when you\nneed it. When you know just what to do, you're much less likely to lose self-\ncontrol. And experience - simply diving again and again - reduces the\ngeneral anxiety level that is natural when diving is still new. When you realise\nyou are not helpless, your fears are likely to disappear",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "fill-in-blank",
+          "instruction": "Using NO MORE THAN THREE WORDS FROM THE PASSAGE answer the following questions. what THREE pieces of personal equipment do you need to buy before starting the course?",
+          "body": "[[14]] Why should you buy your equipment from a dive store? [[15]] Name ONE topic studied in the classroom. [[16]] What must you show before being allowed to buy scuba diving equipment? [[17]] What thing can make you feel more comfortable and safer by possessing it? [[18]] What thing do you need to do with instructor and other experienced divers after being certified? [[19]]",
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "fill-in-blank-from-list",
+          "instruction": "The passage 'Fear No More' has 5 paragraphs (A-E). Choose the most suitable headings for paragraphs B to E from the list (i-ix) below.",
+          "body": null,
+          "range": [
+            20,
+            23
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix"
+            ],
+            "labels": [
+              "do not panic",
+              "if you get lost",
+              "do not be trapped",
+              "I won't be able to swim",
+              "if I get the bends",
+              "I won't be able to see",
+              "don't get eaten",
+              "if you run out of air",
+              "Diving statistics"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below using NO MORE THAN THREE WORDS from the passage for each answer. Dive with a buddy. Check your gauges so you don't run out of air.",
+          "body": "Dive no deeper than [[24]] until you feel comfortable. Don't as mind [[25]] Make a 3-minute safety stop at 15 feet. If you see a shark [[26]] Avoid splashing, kicking or poking at fish. Visualise emergencies and [[27]] - your responses. Experience gives you confidence.",
+          "range": [
+            24,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 14,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "mask, snorkel, fins",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(for)safety /(and) comfort",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "safety practices/dive environment/physics",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "C-card",
+          "trap": null
+        },
+        {
           "number": 18,
-          "type": "table-completion",
-          "prompt": "What thing do you need to do with instructor and other experienced divers after being certified?",
-          "instruction": "Read the passage below and answer the questions 14-27 that follow DIVING: TAKE THE PLUNGE Have you always wanted to learn to dive? Getting a Diving Certificate will be one of the most exciting experiences of your life as you learn how to explore a new world underwater! Here's the 10-step path to becoming a certified diver: STEP 1: Decide you really want to do it. STEP 2: Find a dive store and dive instructor you like. STEP 3: Discuss how you will complete your open-water certification: meeting weekly for classroom and pool sessions, weekend classes, home study, class trip for your open-water dives, and more. STEP 4: With your instructor, decide on a plan that best fits your schedule. STEP 5: Put on a mask, a snorkel and a pair of fins. These are the basic items of personal equipment that need to be fitted to you by a dive store professional. For reasons of safety and comfort, we recommend that you buy dive equipment only at a dive store. STEP 6: Be enthusiastic. An important part of your training involves going back to the classroom and learning about the dive environment, physics and safety practices. Using NO MORE THAN THREE WORDS FROM THE PASSAGE  answer the following questions. what THREE pieces of personal equipment do you need to buy before starting the course? 14 Why should you buy your equipment from a dive store? 15 Name ONE topic studied in the classroom. 16 What must you show before being allowed to buy scuba diving equipment? 17 What thing can make you feel more comfortable and safer by possessing",
-          "answer": "your own equipment"
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "your own equipment",
+          "trap": null
         },
         {
           "number": 19,
-          "type": "table-completion",
-          "prompt": "The passage Fear No More’ on the next page has 5 paragraphs (A-E). Choose the most suitable headings for paragraphs B to E from the list (i- ix) below. List of Headings:",
-          "instruction": "Read the passage below and answer the questions 14-27 that follow DIVING: TAKE THE PLUNGE Have you always wanted to learn to dive? Getting a Diving Certificate will be one of the most exciting experiences of your life as you learn how to explore a new world underwater! Here's the 10-step path to becoming a certified diver: STEP 1: Decide you really want to do it. STEP 2: Find a dive store and dive instructor you like. STEP 3: Discuss how you will complete your open-water certification: meeting weekly for classroom and pool sessions, weekend classes, home study, class trip for your open-water dives, and more. STEP 4: With your instructor, decide on a plan that best fits your schedule. STEP 5: Put on a mask, a snorkel and a pair of fins. These are the basic items of personal equipment that need to be fitted to you by a dive store professional. For reasons of safety and comfort, we recommend that you buy dive equipment only at a dive store. STEP 6: Be enthusiastic. An important part of your training involves going back to the classroom and learning about the dive environment, physics and safety practices. Using NO MORE THAN THREE WORDS FROM THE PASSAGE  answer the following questions. what THREE pieces of personal equipment do you need to buy before starting the course? 14 Why should you buy your equipment from a dive store? 15 Name ONE topic studied in the classroom. 16 What must you show before being allowed to buy scuba diving equipment? 17 What thing can make you feel more comfortable and safer by possessing",
-          "answer": "(a) diving internship"
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(a) diving internship",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "60 feet",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "too quickly",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "remain calm",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "practise",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3",
-        "tables": [],
+        "heading": "SLOW FOOD",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer the Questions 28-40  that follow."
+          },
+          {
+            "label": "A",
+            "text": "Slow Pood is an international grass roots movement dedicated to preserving\nthe cultural heritage of good food. It started as a humorous protest against the\nspread of 7 fast food around the world and has developed into a major\nadvocate for the world's unique food products. The movement's logo is a snail.\nSince being founded in 1986 the"
+          },
+          {
+            "label": null,
+            "text": "Slow Food snail has crept from its home in Italy to 45 other countries around\nthe world and now boasts over 650,000 members. The movement challenges\nthe loss of flavour resulting from the industrialisation of food and agriculture. Its\napproach is 'eco-gastronomic'. Slow Food is committed to compiling and\ndistributing information about local foods, drink and culture. Its purpose is\nto preserve endangered foods, encourage bio-diversity, and support small-\nscale producers of ethnic and local products around the world."
+          },
+          {
+            "label": "B",
+            "text": "Modern agri-business has given the world cheap food with little taste, produced\nat a high cost to the environment. Slow Food has been instrumental in\ndeveloping initiatives to revive products that take time and craftsmanship to\ncreate and which are threatened by global corporate practices. Protecting\ntraditional local products also means safeguarding the people and ecosystems\ninvolved in their manufacture. It also provides incentives for the pursuit of\nproduction"
+          },
+          {
+            "label": null,
+            "text": "methods which are healthier for taste, the environment and the agricultural\neconomy."
+          },
+          {
+            "label": "C",
+            "text": "Statistics on the loss of biodiversity in our food chain are alarming. In less than"
+          },
+          {
+            "label": null,
+            "text": "a century"
+          },
+          {
+            "label": null,
+            "text": "over 300,000 plant species have disappeared - one plant species disappears\nevery six hours. Today less than 30 varieties of plant feed 95% of the world's\npopulation. In Europe, half the breeds of domestic livestock became extinct\nduring the course of the twentieth century. The crisis over mad cow disease\nand the ongoing debate over genetically modified food have given Slow Food,"
+          },
+          {
+            "label": null,
+            "text": "with its emphasis on organic methods, unexpected political influence."
+          },
+          {
+            "label": "D",
+            "text": "In the space of a few years, Slow Food has become a major lobbying force in\nthe European Union on agriculture and trade policy. Agri-business practices\nthat have become dominant worldwide are geared to production in quantity.\nThis is a carryover from agricultural policies set in the 1950s in Europe, when\nhunger from the war was still a vivid memory. At that time, when the goal was\nself sufficiency, farmers received subsidies according to the amounts they\nproduced. There was and still is no reward for quality. Two generations ago, the\naverage European family spent about one half of its income on food. Today it\nspends about 15 per cent. Surveys conducted by Slow Food show that a large\nmajority of Italians would be willing to pay up to 20 per cent more for food in\norder to"
+          },
+          {
+            "label": null,
+            "text": "guarantee its quality, especially given recent food scares and scandals."
+          },
+          {
+            "label": "E",
+            "text": "As national boundaries disappear in Europe and become more open around the\nworld, food has emerged as an important source of identity. Slow Food's\nposition on globalisation is that it has the potential to help as well as harm the\nsmall food producer. On the one hand, globalisation has allowed multinational\ncorporations to extend their reach to virtually every comer of the world.\nHowever, rather than being afraid of the fast food giants, Slow Food is\nattempting to offer an alternative choice of \"virtuous globalisation\" by choosing\nto focus on quality and helping the small, local producer to access the global\nmarket."
+          },
+          {
+            "label": "F",
+            "text": "The Slow Food organisation had to find ways to ensure its own economic\nviability."
+          },
+          {
+            "label": null,
+            "text": "An initial strategy to generate income through publishing led to a number of\nfood guides that were quickly successful Some of the most popular of these\nfeature restaurants serving authentic, local foods at local prices. Numerous and"
+          },
+          {
+            "label": null,
+            "text": "varied initiatives have sprung up since. The popular quarterly magazine,\n'SLOW', features articles about food culture around the world. Italy's largest\nfood show, the 'Salon de Gusto', sponsored by the Slow Food movement,\nprovides an international market to hundreds of small producers whose\ngoods, until recently, rarely left their village or region. Now there is even 'slow\ntravel'. A growing number of tour operators in Italy, France, Australia and India\nsubscribe to the movement, promoting \"cultural and educational journeys\nusing food and the people that produce it as the learning medium.\" 'Slow cities'\nare entire communities dedicated to improving the quality of life for\ntheir citizens through environmentally sound, culturally-aware, eco-\ngastronomic policies and activities."
+          },
+          {
+            "label": "G",
+            "text": "Another significant initiative of Slow Food is the Ark of Taste, a database of\nendangered species of edible plants and domestic animals worldwide.\nCommissions have been set up in many countries to seek out and catalogue\nnew products. So far, 800 products from 26 countries have been figuratively\nbrought onboard the Ark in an attempt to save them. The Ark of Taste has\nbecome an international project and a resource for agricultural biodiversity\naround the world."
+          },
+          {
+            "label": "H",
+            "text": "So, a movement that began as a humorous protest against fast food has, in its\nown organic way, evolved into a versatile and intelligent advocate for the\nprotection of the environment. The best response to global forces challenging\nthe ability to enjoy our food and our lives begins, according to the Slow Food\nmovement, 'at the table'. We are invited to slow down, appreciate the flavours\nof food and drink, and cultivate the art of living. Fast food isn't likely to\ndisappear, but Slow Food seems to be here to stay as well. Its message\nis getting through - encouraging a pleasure-loving environmentalism as an\nalternative to the highspeed pace of the fast-food world. From its humble\nbeginnings, Slow Food now includes a global network of people capable of\ngenerating ideas, and programs to defend the right to a responsible"
+          },
+          {
+            "label": null,
+            "text": "form of pleasure, respectful of cultural diversity and available to all."
+          }
+        ],
+        "text": "Read the passage below and answer the Questions 28-40  that follow.\n\nSlow Pood is an international grass roots movement dedicated to preserving\nthe cultural heritage of good food. It started as a humorous protest against the\nspread of 7 fast food around the world and has developed into a major\nadvocate for the world's unique food products. The movement's logo is a snail.\nSince being founded in 1986 the\n\nSlow Food snail has crept from its home in Italy to 45 other countries around\nthe world and now boasts over 650,000 members. The movement challenges\nthe loss of flavour resulting from the industrialisation of food and agriculture. Its\napproach is 'eco-gastronomic'. Slow Food is committed to compiling and\ndistributing information about local foods, drink and culture. Its purpose is\nto preserve endangered foods, encourage bio-diversity, and support small-\nscale producers of ethnic and local products around the world.\n\nModern agri-business has given the world cheap food with little taste, produced\nat a high cost to the environment. Slow Food has been instrumental in\ndeveloping initiatives to revive products that take time and craftsmanship to\ncreate and which are threatened by global corporate practices. Protecting\ntraditional local products also means safeguarding the people and ecosystems\ninvolved in their manufacture. It also provides incentives for the pursuit of\nproduction\n\nmethods which are healthier for taste, the environment and the agricultural\neconomy.\n\nStatistics on the loss of biodiversity in our food chain are alarming. In less than\n\na century\n\nover 300,000 plant species have disappeared - one plant species disappears\nevery six hours. Today less than 30 varieties of plant feed 95% of the world's\npopulation. In Europe, half the breeds of domestic livestock became extinct\nduring the course of the twentieth century. The crisis over mad cow disease\nand the ongoing debate over genetically modified food have given Slow Food,\n\nwith its emphasis on organic methods, unexpected political influence.\n\nIn the space of a few years, Slow Food has become a major lobbying force in\nthe European Union on agriculture and trade policy. Agri-business practices\nthat have become dominant worldwide are geared to production in quantity.\nThis is a carryover from agricultural policies set in the 1950s in Europe, when\nhunger from the war was still a vivid memory. At that time, when the goal was\nself sufficiency, farmers received subsidies according to the amounts they\nproduced. There was and still is no reward for quality. Two generations ago, the\naverage European family spent about one half of its income on food. Today it\nspends about 15 per cent. Surveys conducted by Slow Food show that a large\nmajority of Italians would be willing to pay up to 20 per cent more for food in\norder to\n\nguarantee its quality, especially given recent food scares and scandals.\n\nAs national boundaries disappear in Europe and become more open around the\nworld, food has emerged as an important source of identity. Slow Food's\nposition on globalisation is that it has the potential to help as well as harm the\nsmall food producer. On the one hand, globalisation has allowed multinational\ncorporations to extend their reach to virtually every comer of the world.\nHowever, rather than being afraid of the fast food giants, Slow Food is\nattempting to offer an alternative choice of \"virtuous globalisation\" by choosing\nto focus on quality and helping the small, local producer to access the global\nmarket.\n\nThe Slow Food organisation had to find ways to ensure its own economic\nviability.\n\nAn initial strategy to generate income through publishing led to a number of\nfood guides that were quickly successful Some of the most popular of these\nfeature restaurants serving authentic, local foods at local prices. Numerous and\n\nvaried initiatives have sprung up since. The popular quarterly magazine,\n'SLOW', features articles about food culture around the world. Italy's largest\nfood show, the 'Salon de Gusto', sponsored by the Slow Food movement,\nprovides an international market to hundreds of small producers whose\ngoods, until recently, rarely left their village or region. Now there is even 'slow\ntravel'. A growing number of tour operators in Italy, France, Australia and India\nsubscribe to the movement, promoting \"cultural and educational journeys\nusing food and the people that produce it as the learning medium.\" 'Slow cities'\nare entire communities dedicated to improving the quality of life for\ntheir citizens through environmentally sound, culturally-aware, eco-\ngastronomic policies and activities.\n\nAnother significant initiative of Slow Food is the Ark of Taste, a database of\nendangered species of edible plants and domestic animals worldwide.\nCommissions have been set up in many countries to seek out and catalogue\nnew products. So far, 800 products from 26 countries have been figuratively\nbrought onboard the Ark in an attempt to save them. The Ark of Taste has\nbecome an international project and a resource for agricultural biodiversity\naround the world.\n\nSo, a movement that began as a humorous protest against fast food has, in its\nown organic way, evolved into a versatile and intelligent advocate for the\nprotection of the environment. The best response to global forces challenging\nthe ability to enjoy our food and our lives begins, according to the Slow Food\nmovement, 'at the table'. We are invited to slow down, appreciate the flavours\nof food and drink, and cultivate the art of living. Fast food isn't likely to\ndisappear, but Slow Food seems to be here to stay as well. Its message\nis getting through - encouraging a pleasure-loving environmentalism as an\nalternative to the highspeed pace of the fast-food world. From its humble\nbeginnings, Slow Food now includes a global network of people capable of\ngenerating ideas, and programs to defend the right to a responsible\n\nform of pleasure, respectful of cultural diversity and available to all.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The passage \"Slew Food' has 8 paragraphs (A-H). In which paragraph can the information below be found?",
+          "body": null,
+          "range": [
+            28,
+            31
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g4",
+          "type": "multiple-choice-multi",
+          "instruction": "Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO.",
+          "body": null,
+          "range": [
+            32,
+            32
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": [
+              "old-fashioned cooking methods",
+              "genetically modified foods",
+              "endangered species of edible plants",
+              "junk food culture",
+              "the enjoyment of good food and drink",
+              "high yield industrial fanning",
+              "rare local domestic animals",
+              "organic methods of production"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "fill-in-blank-from-list",
+          "instruction": "Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example.",
+          "body": null,
+          "range": [
+            33,
+            38
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": [
+              "a resource for agricultural biodiversity",
+              "a showcase for Italian food products",
+              "a database of Slow Food members",
+              "helping local producers compete in the international market",
+              "published four times a year",
+              "operates in Europe, Asia and Australia",
+              "promotes protection of the environment and good eating",
+              "produces food using industrial methods"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "fill-in-blank",
+          "instruction": "Answer the following questions using NO MORE THAN THREE WORDS from the passage. Following which crisis did the Slow Food movement become a political force?",
+          "body": "[[39]] This movement was started as a reaction against what? [[40]]",
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a catalogue of domestic animal* at risk of disappearing",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "statistics on the loss of variety in agricultural species",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "initiatives to ensure the financial survival of the\norganisation",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "information on the food budget of an average family",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "multiple-choice-multi",
+          "groupId": "p3g4",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,F",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
+          "prompt": "slow travel",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
           "number": 34,
-          "type": "matching-features",
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
           "prompt": "Ark of Taste",
-          "instruction": "Read the passage below and answer the Questions 28-40  that follow. SLOW FOOD A Slow Pood is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small- scale producers of ethnic and local products around the world. B Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy. C Statistics on the loss of biodiversity in our food chain are alarming. In less than The passage “Slew Food’ has 8 paragraphs (A-H). In which paragraph can the information below be found? 28 a catalogue of domestic animal* at risk of disappearing 29 statistics on the loss of variety in agricultural species 30 initiatives to ensure the financial survival of the organisation 31 information on the food budget of an average family Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO. A Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example. 33 slow travel",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 35,
-          "type": "matching-features",
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
           "prompt": "virtuous globalisation",
-          "instruction": "Read the passage below and answer the Questions 28-40  that follow. SLOW FOOD A Slow Pood is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small- scale producers of ethnic and local products around the world. B Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy. C Statistics on the loss of biodiversity in our food chain are alarming. In less than The passage “Slew Food’ has 8 paragraphs (A-H). In which paragraph can the information below be found? 28 a catalogue of domestic animal* at risk of disappearing 29 statistics on the loss of variety in agricultural species 30 initiatives to ensure the financial survival of the organisation 31 information on the food budget of an average family Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO. A Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example. 33 slow travel",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 36,
-          "type": "matching-features",
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
           "prompt": "Salon de Gusto",
-          "instruction": "Read the passage below and answer the Questions 28-40  that follow. SLOW FOOD A Slow Pood is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small- scale producers of ethnic and local products around the world. B Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy. C Statistics on the loss of biodiversity in our food chain are alarming. In less than The passage “Slew Food’ has 8 paragraphs (A-H). In which paragraph can the information below be found? 28 a catalogue of domestic animal* at risk of disappearing 29 statistics on the loss of variety in agricultural species 30 initiatives to ensure the financial survival of the organisation 31 information on the food budget of an average family Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO. A Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example. 33 slow travel",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 37,
-          "type": "matching-features",
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
           "prompt": "agri-business",
-          "instruction": "Read the passage below and answer the Questions 28-40  that follow. SLOW FOOD A Slow Pood is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small- scale producers of ethnic and local products around the world. B Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy. C Statistics on the loss of biodiversity in our food chain are alarming. In less than The passage “Slew Food’ has 8 paragraphs (A-H). In which paragraph can the information below be found? 28 a catalogue of domestic animal* at risk of disappearing 29 statistics on the loss of variety in agricultural species 30 initiatives to ensure the financial survival of the organisation 31 information on the food budget of an average family Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO. A Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example. 33 slow travel",
-          "answer": "H"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
         },
         {
           "number": 38,
-          "type": "matching-features",
-          "prompt": "SLOW List of Phrases A a resource for agricultural biodiversity",
-          "instruction": "Read the passage below and answer the Questions 28-40  that follow. SLOW FOOD A Slow Pood is an international grass roots movement dedicated to preserving the cultural heritage of good food. It started as a humorous protest against the spread of 7 fast food around the world and has developed into a major advocate for the world's unique food products. The movement's logo is a snail. Since being founded in 1986 the Slow Food snail has crept from its home in Italy to 45 other countries around the world and now boasts over 650,000 members. The movement challenges the loss of flavour resulting from the industrialisation of food and agriculture. Its approach is 'eco-gastronomic'. Slow Food is committed to compiling and distributing information about local foods, drink and culture. Its purpose is to preserve endangered foods, encourage bio-diversity, and support small- scale producers of ethnic and local products around the world. B Modern agri-business has given the world cheap food with little taste, produced at a high cost to the environment. Slow Food has been instrumental in developing initiatives to revive products that take time and craftsmanship to create and which are threatened by global corporate practices. Protecting traditional local products also means safeguarding the people and ecosystems involved in their manufacture. It also provides incentives for the pursuit of production methods which are healthier for taste, the environment and the agricultural economy. C Statistics on the loss of biodiversity in our food chain are alarming. In less than The passage “Slew Food’ has 8 paragraphs (A-H). In which paragraph can the information below be found? 28 a catalogue of domestic animal* at risk of disappearing 29 statistics on the loss of variety in agricultural species 30 initiatives to ensure the financial survival of the organisation 31 information on the food budget of an average family Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO. A Choose ONE phrase from the list (A-H) that matches each of the expressions below. There are more phrases than expressions so you will not use all of them. The first one has been done for you as an example. 33 slow travel",
-          "answer": "E"
+          "type": "fill-in-blank-from-list",
+          "groupId": "p3g2",
+          "prompt": "SLOW",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "fill-in-blank",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "mad cow disease",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "fill-in-blank",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fast food (giants)",
+          "trap": null
         }
       ]
     }
@@ -164,7 +1347,7 @@
     "13": "transit (onty)/5 days transit",
     "14": "mask, snorkel, fins",
     "15": "(for)safety /(and) comfort",
-    "16": "safety practices/dive",
+    "16": "safety practices/dive environment/physics",
     "17": "C-card",
     "18": "your own equipment",
     "19": "(a) diving internship",

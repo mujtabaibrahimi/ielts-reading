@@ -1,92 +1,1356 @@
 {
   "id": "prepare-for-ielts-general-training-volume-1_reading-practice-test-2-v9-5913720",
   "type": "general",
-  "source": "prepare-for-ielts-general-training-volume-1 reading-practice-test-2-v9-5913720",
+  "title": "Prepare for IELTS General Training Volume 1 - Reading Test 2",
+  "collection": "Prepare for IELTS General Training Volume 1",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "prepare-for-ielts-general-training-volume-1_reading-practice-test-2-v9-5913720.pdf",
-  "total_questions": 5,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        8
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-8."
+          },
+          {
+            "label": null,
+            "text": "If you want to be healthy and save the environment at the same time, then the\nedible water bottle is probably right up your street! A creation of design\nstudent Rodrigo Garcia Gonzalez, this ingenious container could be the answer\nto plastic pollution. Whilst Gonzalez may have had trouble previously\nconvincing a sceptical public as to the merits of his remote-controlled 'Hop!'\nsuitcase in 2014, this time he may actually be onto a winner."
+          },
+          {
+            "label": null,
+            "text": "The need for such an invention is quite patent. Discarded plastic bottles make\nup an alarming statistic: there are 46,000 pieces of floating plastic originating\nfrom plastic bottles for every square mile of the ocean. Add to that the 1.5\nmillion tonnes of crude oil required annually to manufacture enough bottles to\nprovide the 50 billion plastic bottles supplied annually to the US, and it's clear\nthat something needs to be done."
+          },
+          {
+            "label": null,
+            "text": "Whilst environmentalists may be pinning their hopes on Gonzalez's invention to\nreduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is\nhowever very much in its early stages. For a start, the 'bottle' itself is more\nreminiscent of a beach-stranded jellyfish in appearance than a conventional\nwater bottle. Translucent and squishy in texture, it would probably take a very\ncommitted environmentalist to be able to actually consume the bottle when it's\nempty. Ooho's inventor does however claim in its favour that the taste is at\nleast palatable even if the flavour is somewhat nondescript."
+          },
+          {
+            "label": null,
+            "text": "Gastronomic failings apart, Ooho bottles also present challenges for storage\nand hygiene. With regard to the former problem, the bottles are somewhat\nflimsy in construction. Gonzalez, however, is currently working on a fortified\nbottle with a double membrane construction but has yet to produce a bottle\nthat is more resilient than the skin found in fruit. As for the latter problem of\nhygiene, well, would you like to consume a casing that has been manhandled"
+          },
+          {
+            "label": null,
+            "text": "throughout manufacture, transportation and again by countless consumers\nwhen placed on the shelves in supermarkets? A solution would be to encase\nthe bottles of course in a hermetically sealed outer covering; but to encase\nthem in a plastic casing defeats the whole point of the object of reducing\nplastic pollution. So it's back to the drawing board as regards the finer points of\nretailing the bottles."
+          },
+          {
+            "label": null,
+            "text": "Gonzalez, though, is not to be deterred by the finer points of construction\nweaknesses and hygiene issues. Currently he has secured a creative commons\nlicence for his project, which means that his Ooho bottle will soon be available\nfor sale online. Hopefully all teething problems to date will have resolved\nthemselves by the time online sales go ahead. In the meantime, those who are\ntruly conservation-minded would do best to just recycle and refill old water\nbottles with filtered water. This is surely a simpler and more effective solution\nto plastic pollution than any manufacturer or designer could come up with."
+          },
+          {
+            "label": null,
+            "text": "Read the texts below and answer Questions 9-14."
+          },
+          {
+            "label": null,
+            "text": "London Walking Tours"
+          },
+          {
+            "label": null,
+            "text": "A. London Architecture Walks"
+          },
+          {
+            "label": null,
+            "text": "A professional interest is not a prerequisite to enjoy this leisurely tour of London's most\nI prominent buildings. Taking in a range of architectural designs spanning several\ncenturies, this tour will delight young and old alike. Routes vary so please call in\nadvance for details of daily departure points."
+          },
+          {
+            "label": null,
+            "text": "Tel: 020 4578 8894"
+          },
+          {
+            "label": null,
+            "text": "Contact: londonarchitecturewalks.co.uk"
+          },
+          {
+            "label": null,
+            "text": "B. Jack the Ripper Walks"
+          },
+          {
+            "label": null,
+            "text": "Retrace the final steps of the Ripper's with renowned Ripper expert, David Thomson.\nPlaces are limited and tickets are sold on a first-come-first-served basis. Concessions\navailable for under 14s. Tours weather permitting."
+          },
+          {
+            "label": null,
+            "text": "Daily departures from Aldgate East underground station at 19.00"
+          },
+          {
+            "label": null,
+            "text": "Tickets: £8"
+          },
+          {
+            "label": null,
+            "text": "C. Original London Sightseeing Walks"
+          },
+          {
+            "label": null,
+            "text": "This well-established tour is always well-subscribed. Come rain or shine, we will take\nyou on what is the most comprehensive tour of London. Taking in the familiar sights as\nwell as the more tucked-away treasures of the capital, you will improve your knowledge\nof London as well as be entertained by our knowledgeable, fully qualified guides en\nroute. Combined tickets for city walk and bus tour available with special discount."
+          },
+          {
+            "label": null,
+            "text": "Cost for walking or bus tour only: £7 Combined Ticket: £10.50"
+          },
+          {
+            "label": null,
+            "text": "Under 13:"
+          },
+          {
+            "label": null,
+            "text": "£3.50 for walking or bus tour only"
+          },
+          {
+            "label": null,
+            "text": "£5.50 for combined ticket"
+          },
+          {
+            "label": null,
+            "text": "Departure point: Tower Hill Station Tours on the hour from 10am-6pm"
+          },
+          {
+            "label": null,
+            "text": "D. London Duck Tours"
+          },
+          {
+            "label": null,
+            "text": "See London from an entirely new perspective as you plunge into the River Thames on\nyour semi-submersible World War II DUKW vehicle. Cruise past major London landmarks\nbefore re-emerging upstream at Westminster Bridge for our land-based tour. Multiple\ndaily departures from 10.30am."
+          },
+          {
+            "label": null,
+            "text": "Tickets: £21, Child: £14"
+          },
+          {
+            "label": null,
+            "text": "Tel: 020 7926 3134"
+          },
+          {
+            "label": null,
+            "text": "Contact: londonducktours.co.uk"
+          },
+          {
+            "label": null,
+            "text": "Departure point: Waterloo railway station"
+          },
+          {
+            "label": null,
+            "text": "E. Big Bus Tours"
+          },
+          {
+            "label": null,
+            "text": "Non-stop multilingual tours from 9am-7pm around the city's very best sights. A hop-on\nhop-off ticket with 50 stops. Tickets valid for 24 hours, plus three free walking tours and\na River Thames Cruise pass included."
+          },
+          {
+            "label": null,
+            "text": "Tickets: £26, Child: £ 13"
+          },
+          {
+            "label": null,
+            "text": "Departure: Charing Cross underground and railway station"
+          },
+          {
+            "label": null,
+            "text": "Tel: 020 4635 8896"
+          }
+        ],
+        "text": "Read the text below and answer Questions 1-8.\n\nIf you want to be healthy and save the environment at the same time, then the\nedible water bottle is probably right up your street! A creation of design\nstudent Rodrigo Garcia Gonzalez, this ingenious container could be the answer\nto plastic pollution. Whilst Gonzalez may have had trouble previously\nconvincing a sceptical public as to the merits of his remote-controlled 'Hop!'\nsuitcase in 2014, this time he may actually be onto a winner.\n\nThe need for such an invention is quite patent. Discarded plastic bottles make\nup an alarming statistic: there are 46,000 pieces of floating plastic originating\nfrom plastic bottles for every square mile of the ocean. Add to that the 1.5\nmillion tonnes of crude oil required annually to manufacture enough bottles to\nprovide the 50 billion plastic bottles supplied annually to the US, and it's clear\nthat something needs to be done.\n\nWhilst environmentalists may be pinning their hopes on Gonzalez's invention to\nreduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is\nhowever very much in its early stages. For a start, the 'bottle' itself is more\nreminiscent of a beach-stranded jellyfish in appearance than a conventional\nwater bottle. Translucent and squishy in texture, it would probably take a very\ncommitted environmentalist to be able to actually consume the bottle when it's\nempty. Ooho's inventor does however claim in its favour that the taste is at\nleast palatable even if the flavour is somewhat nondescript.\n\nGastronomic failings apart, Ooho bottles also present challenges for storage\nand hygiene. With regard to the former problem, the bottles are somewhat\nflimsy in construction. Gonzalez, however, is currently working on a fortified\nbottle with a double membrane construction but has yet to produce a bottle\nthat is more resilient than the skin found in fruit. As for the latter problem of\nhygiene, well, would you like to consume a casing that has been manhandled\n\nthroughout manufacture, transportation and again by countless consumers\nwhen placed on the shelves in supermarkets? A solution would be to encase\nthe bottles of course in a hermetically sealed outer covering; but to encase\nthem in a plastic casing defeats the whole point of the object of reducing\nplastic pollution. So it's back to the drawing board as regards the finer points of\nretailing the bottles.\n\nGonzalez, though, is not to be deterred by the finer points of construction\nweaknesses and hygiene issues. Currently he has secured a creative commons\nlicence for his project, which means that his Ooho bottle will soon be available\nfor sale online. Hopefully all teething problems to date will have resolved\nthemselves by the time online sales go ahead. In the meantime, those who are\ntruly conservation-minded would do best to just recycle and refill old water\nbottles with filtered water. This is surely a simpler and more effective solution\nto plastic pollution than any manufacturer or designer could come up with.\n\nRead the texts below and answer Questions 9-14.\n\nLondon Walking Tours\n\nA. London Architecture Walks\n\nA professional interest is not a prerequisite to enjoy this leisurely tour of London's most\nI prominent buildings. Taking in a range of architectural designs spanning several\ncenturies, this tour will delight young and old alike. Routes vary so please call in\nadvance for details of daily departure points.\n\nTel: 020 4578 8894\n\nContact: londonarchitecturewalks.co.uk\n\nB. Jack the Ripper Walks\n\nRetrace the final steps of the Ripper's with renowned Ripper expert, David Thomson.\nPlaces are limited and tickets are sold on a first-come-first-served basis. Concessions\navailable for under 14s. Tours weather permitting.\n\nDaily departures from Aldgate East underground station at 19.00\n\nTickets: £8\n\nC. Original London Sightseeing Walks\n\nThis well-established tour is always well-subscribed. Come rain or shine, we will take\nyou on what is the most comprehensive tour of London. Taking in the familiar sights as\nwell as the more tucked-away treasures of the capital, you will improve your knowledge\nof London as well as be entertained by our knowledgeable, fully qualified guides en\nroute. Combined tickets for city walk and bus tour available with special discount.\n\nCost for walking or bus tour only: £7 Combined Ticket: £10.50\n\nUnder 13:\n\n£3.50 for walking or bus tour only\n\n£5.50 for combined ticket\n\nDeparture point: Tower Hill Station Tours on the hour from 10am-6pm\n\nD. London Duck Tours\n\nSee London from an entirely new perspective as you plunge into the River Thames on\nyour semi-submersible World War II DUKW vehicle. Cruise past major London landmarks\nbefore re-emerging upstream at Westminster Bridge for our land-based tour. Multiple\ndaily departures from 10.30am.\n\nTickets: £21, Child: £14\n\nTel: 020 7926 3134\n\nContact: londonducktours.co.uk\n\nDeparture point: Waterloo railway station\n\nE. Big Bus Tours\n\nNon-stop multilingual tours from 9am-7pm around the city's very best sights. A hop-on\nhop-off ticket with 50 stops. Tickets valid for 24 hours, plus three free walking tours and\na River Thames Cruise pass included.\n\nTickets: £26, Child: £ 13\n\nDeparture: Charing Cross underground and railway station\n\nTel: 020 4635 8896",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "has a proven track record in design.",
+              "is a winning designer.",
+              "has yet to produce a publicly approved design.",
+              "currently sells designs online."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "multiple-choice",
+          "instruction": "Write the correct letter, A, B, C or D, in box 6 on your answer sheet.",
+          "body": null,
+          "range": [
+            6,
+            6
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using words from the text. Choose NO MORE THAN THREE WORDS for each sentence.",
+          "body": "The very [[7]] of Gonzalez's water bottle makes it unappealing to consume. Gonzalez's bottles need to be [[8]] to withstand handling and transportation.",
+          "range": [
+            7,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "matching-features",
+          "instruction": "Match each question with the appropriate tour, A, B, C, D or E, as described in the texts. Which tour:",
+          "body": null,
+          "range": [
+            9,
+            14
+          ],
+          "optionBank": {
+            "title": "Tours",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "Gonzalez",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
         {
           "number": 2,
           "type": "matching-features",
-          "prompt": "Action on plastic pollution is necessary since A",
-          "instruction": "Read the text below and answer Questions 1-8. If you want to be healthy and save the environment at the same time, then the edible water bottle is probably right up your street! A creation of design student Rodrigo Garcia Gonzalez, this ingenious container could be the answer to plastic pollution. Whilst Gonzalez may have had trouble previously convincing a sceptical public as to the merits of his remote-controlled 'Hop!' suitcase in 2014, this time he may actually be onto a winner. The need for such an invention is quite patent. Discarded plastic bottles make up an alarming statistic: there are 46,000 pieces of floating plastic originating from plastic bottles for every square mile of the ocean. Add to that the 1.5 million tonnes of crude oil required annually to manufacture enough bottles to provide the 50 billion plastic bottles supplied annually to the US, and it's clear that something needs to be done. Whilst environmentalists may be pinning their hopes on Gonzalez's invention to reduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is however very much in its early stages. For a start, the 'bottle' itself is more reminiscent of a beach-stranded jellyfish in appearance than a conventional water bottle. Translucent and squishy in texture, it would probably take a very committed environmentalist to be able to actually consume the bottle when it's empty. Ooho's inventor does however claim in its favour that the taste is at least palatable even if the flavour is somewhat nondescript. Gastronomic failings apart, Ooho bottles also present challenges for storage and hygiene. With regard to the former problem, the bottles are somewhat flimsy in construction. Gonzalez, however, is currently working on a fortified bottle with a double membrane construction but has yet to produce a bottle that is more resilient than the skin found in fruit. As for the latter problem of hygiene, well, would you like to consume a casing that has been manhandled truly conservation-minded would do best to just recycle and refill old water bottles with filtered water. This is surely a simpler and more effective solution to plastic pollution than any manufacturer or designer could come up with. Read the texts below and answer Questions 9-14. London Walking Tours A. London Architecture Walks A professional interest is not a prerequisite to enjoy this leisurely tour of London’s most I prominent buildings. Taking in a range of architectural designs spanning several centuries, this tour will delight young and old alike. Routes vary so please call in advance for details of daily departure points. Tel: 020 4578 8894 Contact: londonarchitecturewalks.co.uk B. Jack the Ripper Walks Retrace the final steps of the Ripper's with renowned Ripper expert, David Thomson. Places are limited and tickets are sold on a first-come-first-served basis. Concessions available for under 14s. Tours weather permitting. Daily departures from Aldgate East underground station at 19.00 Tickets: £8 C. Original London Sightseeing Walks This well-established tour is always well-subscribed. Come rain or shine, we will take you on what is the most comprehensive tour of London. Taking in the familiar sights as well as the more tucked-away treasures of the capital, you will improve your knowledge of London as well as be entertained by our knowledgeable, fully qualified guides en route. Combined tickets for city walk and bus tour available with special discount. Cost for walking or bus tour only: £7 Combined Ticket: £10.50 Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. 1 Gonzalez A",
-          "answer": "C"
+          "groupId": "p1g1",
+          "prompt": "Action on plastic pollution is necessary since",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 3,
           "type": "matching-features",
-          "prompt": "People may hesitate to consume the Ooho bottle A",
-          "instruction": "Read the text below and answer Questions 1-8. If you want to be healthy and save the environment at the same time, then the edible water bottle is probably right up your street! A creation of design student Rodrigo Garcia Gonzalez, this ingenious container could be the answer to plastic pollution. Whilst Gonzalez may have had trouble previously convincing a sceptical public as to the merits of his remote-controlled 'Hop!' suitcase in 2014, this time he may actually be onto a winner. The need for such an invention is quite patent. Discarded plastic bottles make up an alarming statistic: there are 46,000 pieces of floating plastic originating from plastic bottles for every square mile of the ocean. Add to that the 1.5 million tonnes of crude oil required annually to manufacture enough bottles to provide the 50 billion plastic bottles supplied annually to the US, and it's clear that something needs to be done. Whilst environmentalists may be pinning their hopes on Gonzalez's invention to reduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is however very much in its early stages. For a start, the 'bottle' itself is more reminiscent of a beach-stranded jellyfish in appearance than a conventional water bottle. Translucent and squishy in texture, it would probably take a very committed environmentalist to be able to actually consume the bottle when it's empty. Ooho's inventor does however claim in its favour that the taste is at least palatable even if the flavour is somewhat nondescript. Gastronomic failings apart, Ooho bottles also present challenges for storage and hygiene. With regard to the former problem, the bottles are somewhat flimsy in construction. Gonzalez, however, is currently working on a fortified bottle with a double membrane construction but has yet to produce a bottle that is more resilient than the skin found in fruit. As for the latter problem of hygiene, well, would you like to consume a casing that has been manhandled truly conservation-minded would do best to just recycle and refill old water bottles with filtered water. This is surely a simpler and more effective solution to plastic pollution than any manufacturer or designer could come up with. Read the texts below and answer Questions 9-14. London Walking Tours A. London Architecture Walks A professional interest is not a prerequisite to enjoy this leisurely tour of London’s most I prominent buildings. Taking in a range of architectural designs spanning several centuries, this tour will delight young and old alike. Routes vary so please call in advance for details of daily departure points. Tel: 020 4578 8894 Contact: londonarchitecturewalks.co.uk B. Jack the Ripper Walks Retrace the final steps of the Ripper's with renowned Ripper expert, David Thomson. Places are limited and tickets are sold on a first-come-first-served basis. Concessions available for under 14s. Tours weather permitting. Daily departures from Aldgate East underground station at 19.00 Tickets: £8 C. Original London Sightseeing Walks This well-established tour is always well-subscribed. Come rain or shine, we will take you on what is the most comprehensive tour of London. Taking in the familiar sights as well as the more tucked-away treasures of the capital, you will improve your knowledge of London as well as be entertained by our knowledgeable, fully qualified guides en route. Combined tickets for city walk and bus tour available with special discount. Cost for walking or bus tour only: £7 Combined Ticket: £10.50 Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. 1 Gonzalez A",
-          "answer": "B"
+          "groupId": "p1g1",
+          "prompt": "People may hesitate to consume the Ooho bottle",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 4,
           "type": "matching-features",
-          "prompt": "Structurally, the Ooho bottle is A",
-          "instruction": "Read the text below and answer Questions 1-8. If you want to be healthy and save the environment at the same time, then the edible water bottle is probably right up your street! A creation of design student Rodrigo Garcia Gonzalez, this ingenious container could be the answer to plastic pollution. Whilst Gonzalez may have had trouble previously convincing a sceptical public as to the merits of his remote-controlled 'Hop!' suitcase in 2014, this time he may actually be onto a winner. The need for such an invention is quite patent. Discarded plastic bottles make up an alarming statistic: there are 46,000 pieces of floating plastic originating from plastic bottles for every square mile of the ocean. Add to that the 1.5 million tonnes of crude oil required annually to manufacture enough bottles to provide the 50 billion plastic bottles supplied annually to the US, and it's clear that something needs to be done. Whilst environmentalists may be pinning their hopes on Gonzalez's invention to reduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is however very much in its early stages. For a start, the 'bottle' itself is more reminiscent of a beach-stranded jellyfish in appearance than a conventional water bottle. Translucent and squishy in texture, it would probably take a very committed environmentalist to be able to actually consume the bottle when it's empty. Ooho's inventor does however claim in its favour that the taste is at least palatable even if the flavour is somewhat nondescript. Gastronomic failings apart, Ooho bottles also present challenges for storage and hygiene. With regard to the former problem, the bottles are somewhat flimsy in construction. Gonzalez, however, is currently working on a fortified bottle with a double membrane construction but has yet to produce a bottle that is more resilient than the skin found in fruit. As for the latter problem of hygiene, well, would you like to consume a casing that has been manhandled truly conservation-minded would do best to just recycle and refill old water bottles with filtered water. This is surely a simpler and more effective solution to plastic pollution than any manufacturer or designer could come up with. Read the texts below and answer Questions 9-14. London Walking Tours A. London Architecture Walks A professional interest is not a prerequisite to enjoy this leisurely tour of London’s most I prominent buildings. Taking in a range of architectural designs spanning several centuries, this tour will delight young and old alike. Routes vary so please call in advance for details of daily departure points. Tel: 020 4578 8894 Contact: londonarchitecturewalks.co.uk B. Jack the Ripper Walks Retrace the final steps of the Ripper's with renowned Ripper expert, David Thomson. Places are limited and tickets are sold on a first-come-first-served basis. Concessions available for under 14s. Tours weather permitting. Daily departures from Aldgate East underground station at 19.00 Tickets: £8 C. Original London Sightseeing Walks This well-established tour is always well-subscribed. Come rain or shine, we will take you on what is the most comprehensive tour of London. Taking in the familiar sights as well as the more tucked-away treasures of the capital, you will improve your knowledge of London as well as be entertained by our knowledgeable, fully qualified guides en route. Combined tickets for city walk and bus tour available with special discount. Cost for walking or bus tour only: £7 Combined Ticket: £10.50 Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. 1 Gonzalez A",
-          "answer": "B"
+          "groupId": "p1g1",
+          "prompt": "Structurally, the Ooho bottle is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 5,
           "type": "matching-features",
-          "prompt": "The manufacture of Ooho bottles is A",
-          "instruction": "Read the text below and answer Questions 1-8. If you want to be healthy and save the environment at the same time, then the edible water bottle is probably right up your street! A creation of design student Rodrigo Garcia Gonzalez, this ingenious container could be the answer to plastic pollution. Whilst Gonzalez may have had trouble previously convincing a sceptical public as to the merits of his remote-controlled 'Hop!' suitcase in 2014, this time he may actually be onto a winner. The need for such an invention is quite patent. Discarded plastic bottles make up an alarming statistic: there are 46,000 pieces of floating plastic originating from plastic bottles for every square mile of the ocean. Add to that the 1.5 million tonnes of crude oil required annually to manufacture enough bottles to provide the 50 billion plastic bottles supplied annually to the US, and it's clear that something needs to be done. Whilst environmentalists may be pinning their hopes on Gonzalez's invention to reduce plastic pollution, the prototype edible plastic bottle, christened 'Ooho/ is however very much in its early stages. For a start, the 'bottle' itself is more reminiscent of a beach-stranded jellyfish in appearance than a conventional water bottle. Translucent and squishy in texture, it would probably take a very committed environmentalist to be able to actually consume the bottle when it's empty. Ooho's inventor does however claim in its favour that the taste is at least palatable even if the flavour is somewhat nondescript. Gastronomic failings apart, Ooho bottles also present challenges for storage and hygiene. With regard to the former problem, the bottles are somewhat flimsy in construction. Gonzalez, however, is currently working on a fortified bottle with a double membrane construction but has yet to produce a bottle that is more resilient than the skin found in fruit. As for the latter problem of hygiene, well, would you like to consume a casing that has been manhandled truly conservation-minded would do best to just recycle and refill old water bottles with filtered water. This is surely a simpler and more effective solution to plastic pollution than any manufacturer or designer could come up with. Read the texts below and answer Questions 9-14. London Walking Tours A. London Architecture Walks A professional interest is not a prerequisite to enjoy this leisurely tour of London’s most I prominent buildings. Taking in a range of architectural designs spanning several centuries, this tour will delight young and old alike. Routes vary so please call in advance for details of daily departure points. Tel: 020 4578 8894 Contact: londonarchitecturewalks.co.uk B. Jack the Ripper Walks Retrace the final steps of the Ripper's with renowned Ripper expert, David Thomson. Places are limited and tickets are sold on a first-come-first-served basis. Concessions available for under 14s. Tours weather permitting. Daily departures from Aldgate East underground station at 19.00 Tickets: £8 C. Original London Sightseeing Walks This well-established tour is always well-subscribed. Come rain or shine, we will take you on what is the most comprehensive tour of London. Taking in the familiar sights as well as the more tucked-away treasures of the capital, you will improve your knowledge of London as well as be entertained by our knowledgeable, fully qualified guides en route. Combined tickets for city walk and bus tour available with special discount. Cost for walking or bus tour only: £7 Combined Ticket: £10.50 Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. 1 Gonzalez A",
-          "answer": "B"
+          "groupId": "p1g1",
+          "prompt": "The manufacture of Ooho bottles is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "multiple-choice",
+          "groupId": "p1g4",
+          "prompt": "Choose the most suitable title for the text from the list below.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Changes in public attitude towards plastic pollution",
+            "Problems in manufacturing recyclable plastic water bottles",
+            "Environmental pollution caused by plastic",
+            "The edible water bottle as a possible solution to plastic pollution"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "appearance/texture",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(more) resilient",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "has restricted places?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "caters for qualified experts as well as amateur enthusiasts?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "has the least restrictive itinerary?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "operates only in good weather?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "offers no price reduction for children?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "promises to be the most informative?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        21
+        28
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read, the text below and answer Questions 15-21"
+          },
+          {
+            "label": null,
+            "text": "A The British Museum is host to a wealth of historical artefacts, representing\nthe accomplishments of past civilisations. A Roman-era drinking cup would not,\non the face of it, seem to be a contender to rival the museum's more illustrious\nexhibits. After all, an ancient drinking chalice rarely excites the attention of all\nbut the most dedicated history buff or expert."
+          },
+          {
+            "label": null,
+            "text": "B However, the Lycurgus Cup, so-called due to the depiction of King Lycurgus\non its outside, is not what it seems. Lit from in front, the relief depicted on the\ncup glows green. Backlit, the cup glows red. This light-induced colour change is\nall the more remarkable given the cup's rather bland-looking exterior which\nholds no clue as to its concealed secret."
+          },
+          {
+            "label": null,
+            "text": "C The unusual qualities of the Lycurgus Cup has piqued scientific curiosity\nsince the 1950s when the cup's puzzling colour-changing ability was first\nuncovered. Only in the 1990s was the secret of the cup revealed: inclusion of\nminiscule particles of gold and silver into the cup's surface were found to effect\nthe colour"
+          },
+          {
+            "label": null,
+            "text": "transformation. The particles themselves had been deliberately ground down\ninto nanoparticles, each particle being 50 nanometres in diameter, or\nequivalent to one thousandth the size of a grain of salt! Moreover, the exact\nproportions of materials had been included in order to create the illusion of\nchanging colour."
+          },
+          {
+            "label": null,
+            "text": "D It would seem, therefore, that nanotechnology can no longer be considered\ncutting-edge science. It is humbling to realise that Roman artisans living in 400\nAD were putting nanotechnology to practical use when scientists today are still\nexploring this relatively 'new' field."
+          },
+          {
+            "label": null,
+            "text": "E The illusion of the Lycurgus Cup can be explained by the effect of electrons\nwithin the metallic components of the chalice vibrating in response to being hit\nby light and emitting different colours. The colour actually perceived depends\non where the viewer is stationed at the time."
+          },
+          {
+            "label": null,
+            "text": "F It was engineer Gang Logan Liu, of the University of Illinois, who correctly\nsuspected though, that in Roman times, the illusion was primarily effected not\nthrough change in lighting or observer position but by the addition of different"
+          },
+          {
+            "label": null,
+            "text": "liquids to the drinking cup. By adding a variety of liquids to a recreation of the\ncup interior, his original hunch was confirmed. As each liquid was added, a\ndifferent colour was emitted from the mock-up version of the chalice."
+          },
+          {
+            "label": null,
+            "text": "G Liu's experiment most importantly may have a huge impact in the diagnoses\nof disease. Addition of fluids such as saliva and urine to nano-sized receptacles\nbased on the original Lycurgus cup could reveal the presence of pathogens.\nMoreover, the same laboratory-manufactured receptacles could detect the\npresence of biohazards at security checkpoints and hence thwart terrorist\nattacks."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-28."
+          },
+          {
+            "label": null,
+            "text": "Leadership and its various forms"
+          },
+          {
+            "label": null,
+            "text": "Leadership styles vary vastly, with very observable differences being seen not\nonly between companies and institutes but also within such bodies. On a more\nglobal basis, these types of leadership styles are used to govern countries the\nworld over. Whether one particular leadership style is more effective than\nanother is dependent on whether the needs of a particular organisation or\ncountry are being met and those of the individuals who are subject to the\nauthority or governing bodies concerned. In addition, as needs change, certain\nleadership styles may no longer be appropriate, necessitating the adoption of a\nnew approach. Below the five main types of leadership styles are set out."
+          },
+          {
+            "label": null,
+            "text": "Laissez-faire"
+          },
+          {
+            "label": null,
+            "text": "A laissez-faire leader does not directly supervise employees and does not set\ngreat store by regular feedback to those under his supervision. Whilst highly\nexperienced and trained employees may thrive under this leadership style,\nthose employees requiring supervision will tend to flounder when placed in this\nsituation. The real downside to the laissez-faire approach is the lack of"
+          },
+          {
+            "label": null,
+            "text": "leadership and supervision that can result in an escalation of costs, poor\nproduction and lack of control."
+          },
+          {
+            "label": null,
+            "text": "Autocratic"
+          },
+          {
+            "label": null,
+            "text": "Epitomising this type of leadership style are the countries of Cuba and North\nKorea. Autocratic leadership denies the right of the individual to challenge the\nauthority of the leader who imposes their will on those around him. It is\ndeemed unacceptable to challenge the leader's decisions. In a working\nenvironment, those who respond best to this kind of leadership are individuals\nrequiring clear guidance and decisions made on their behalf. Those least suited\nto the autocratic leadership style are creative employees who require a\nconsiderable degree of autonomy."
+          },
+          {
+            "label": null,
+            "text": "Participative"
+          },
+          {
+            "label": null,
+            "text": "Participative leadership is synonymous with the democratic leadership style.\nUnlike autocratic leadership style, the contribution of team members and peers\nis welcomed. The participative leader will, however, have the final say in any\ndecision-making process. This style of leadership has the effect of boosting\nemployee morale since employees are free to make contributions to the\ndecision-making process, which in turn makes them feel valued by the\ncompany concerned. Since the leadership-employee role is more interactive\nthan in other forms of leadership, changes within a company are more readily\naccepted by employees since they play a role in the process."
+          },
+          {
+            "label": null,
+            "text": "Transactional"
+          },
+          {
+            "label": null,
+            "text": "This leadership style is highly result-oriented. Input from employees amounts\nto setting predetermined goals with team managers; employees then follow\nthe direction and leadership of the manager to accomplish those goals. A\nsystem of rewards and punishments is set up by team managers to ensure\ntasks are satisfactorily completed."
+          },
+          {
+            "label": null,
+            "text": "Transformational"
+          },
+          {
+            "label": null,
+            "text": "Whilst this type of leadership is goal-oriented as with transactional style of\nleadership, transformational leaders play a more prominent role in the\nworkplace, ensuring goals are attained by employees."
+          },
+          {
+            "label": null,
+            "text": "Managers who adopt this type of leadership role maintain a high visibility and\nopen communication with employees, acting as motivators and enhancing\nproductivity to meet goals. Such managers will tend to delegate smaller tasks\nto the team to accomplish goals."
+          }
+        ],
+        "text": "Read, the text below and answer Questions 15-21\n\nA The British Museum is host to a wealth of historical artefacts, representing\nthe accomplishments of past civilisations. A Roman-era drinking cup would not,\non the face of it, seem to be a contender to rival the museum's more illustrious\nexhibits. After all, an ancient drinking chalice rarely excites the attention of all\nbut the most dedicated history buff or expert.\n\nB However, the Lycurgus Cup, so-called due to the depiction of King Lycurgus\non its outside, is not what it seems. Lit from in front, the relief depicted on the\ncup glows green. Backlit, the cup glows red. This light-induced colour change is\nall the more remarkable given the cup's rather bland-looking exterior which\nholds no clue as to its concealed secret.\n\nC The unusual qualities of the Lycurgus Cup has piqued scientific curiosity\nsince the 1950s when the cup's puzzling colour-changing ability was first\nuncovered. Only in the 1990s was the secret of the cup revealed: inclusion of\nminiscule particles of gold and silver into the cup's surface were found to effect\nthe colour\n\ntransformation. The particles themselves had been deliberately ground down\ninto nanoparticles, each particle being 50 nanometres in diameter, or\nequivalent to one thousandth the size of a grain of salt! Moreover, the exact\nproportions of materials had been included in order to create the illusion of\nchanging colour.\n\nD It would seem, therefore, that nanotechnology can no longer be considered\ncutting-edge science. It is humbling to realise that Roman artisans living in 400\nAD were putting nanotechnology to practical use when scientists today are still\nexploring this relatively 'new' field.\n\nE The illusion of the Lycurgus Cup can be explained by the effect of electrons\nwithin the metallic components of the chalice vibrating in response to being hit\nby light and emitting different colours. The colour actually perceived depends\non where the viewer is stationed at the time.\n\nF It was engineer Gang Logan Liu, of the University of Illinois, who correctly\nsuspected though, that in Roman times, the illusion was primarily effected not\nthrough change in lighting or observer position but by the addition of different\n\nliquids to the drinking cup. By adding a variety of liquids to a recreation of the\ncup interior, his original hunch was confirmed. As each liquid was added, a\ndifferent colour was emitted from the mock-up version of the chalice.\n\nG Liu's experiment most importantly may have a huge impact in the diagnoses\nof disease. Addition of fluids such as saliva and urine to nano-sized receptacles\nbased on the original Lycurgus cup could reveal the presence of pathogens.\nMoreover, the same laboratory-manufactured receptacles could detect the\npresence of biohazards at security checkpoints and hence thwart terrorist\nattacks.\n\nRead the text below and answer Questions 22-28.\n\nLeadership and its various forms\n\nLeadership styles vary vastly, with very observable differences being seen not\nonly between companies and institutes but also within such bodies. On a more\nglobal basis, these types of leadership styles are used to govern countries the\nworld over. Whether one particular leadership style is more effective than\nanother is dependent on whether the needs of a particular organisation or\ncountry are being met and those of the individuals who are subject to the\nauthority or governing bodies concerned. In addition, as needs change, certain\nleadership styles may no longer be appropriate, necessitating the adoption of a\nnew approach. Below the five main types of leadership styles are set out.\n\nLaissez-faire\n\nA laissez-faire leader does not directly supervise employees and does not set\ngreat store by regular feedback to those under his supervision. Whilst highly\nexperienced and trained employees may thrive under this leadership style,\nthose employees requiring supervision will tend to flounder when placed in this\nsituation. The real downside to the laissez-faire approach is the lack of\n\nleadership and supervision that can result in an escalation of costs, poor\nproduction and lack of control.\n\nAutocratic\n\nEpitomising this type of leadership style are the countries of Cuba and North\nKorea. Autocratic leadership denies the right of the individual to challenge the\nauthority of the leader who imposes their will on those around him. It is\ndeemed unacceptable to challenge the leader's decisions. In a working\nenvironment, those who respond best to this kind of leadership are individuals\nrequiring clear guidance and decisions made on their behalf. Those least suited\nto the autocratic leadership style are creative employees who require a\nconsiderable degree of autonomy.\n\nParticipative\n\nParticipative leadership is synonymous with the democratic leadership style.\nUnlike autocratic leadership style, the contribution of team members and peers\nis welcomed. The participative leader will, however, have the final say in any\ndecision-making process. This style of leadership has the effect of boosting\nemployee morale since employees are free to make contributions to the\ndecision-making process, which in turn makes them feel valued by the\ncompany concerned. Since the leadership-employee role is more interactive\nthan in other forms of leadership, changes within a company are more readily\naccepted by employees since they play a role in the process.\n\nTransactional\n\nThis leadership style is highly result-oriented. Input from employees amounts\nto setting predetermined goals with team managers; employees then follow\nthe direction and leadership of the manager to accomplish those goals. A\nsystem of rewards and punishments is set up by team managers to ensure\ntasks are satisfactorily completed.\n\nTransformational\n\nWhilst this type of leadership is goal-oriented as with transactional style of\nleadership, transformational leaders play a more prominent role in the\nworkplace, ensuring goals are attained by employees.\n\nManagers who adopt this type of leadership role maintain a high visibility and\nopen communication with employees, acting as motivators and enhancing\nproductivity to meet goals. Such managers will tend to delegate smaller tasks\nto the team to accomplish goals.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "The text on the next page has seven sections, A-G. Choose the correct heading for each section from the list of headings below. Write the correct number, i-x, in boxes 15-21 on your answer sheet. List of Headings i Ahead of their time ii The role played by the observer iii Hidden potential iv An artefact with supposedly limited appeal v A scientific failing vi An amazing transformation vii The nano-science behind it all viii A rough science ix A hypothesis proven x An unforeseen consequence",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "Ahead of their time",
+              "The role played by the observer",
+              "Hidden potential",
+              "An artefact with supposedly limited appeal",
+              "A scientific failing",
+              "An amazing transformation",
+              "The nano-science behind it all",
+              "A rough science",
+              "A hypothesis proven"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 22-23 on your answer sheet. Sometimes it is debatable as to which leadership style is the most",
+          "body": "[[22]] since different styles meet different needs. When dynamics within a company change, then [[23]] to leadership may be called for.",
+          "range": [
+            22,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "matching-features",
+          "instruction": "Look at the following descriptions and the list of terms in the box below. Match each description with the correct term, A-E. Write the appropriate letter, A-E, in boxes 24-28 on your answer sheet. List of Descriptions",
+          "body": null,
+          "range": [
+            24,
+            28
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Laissez-faire",
+              "Autocratic",
+              "Participative",
+              "Transactional",
+              "Transformational"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section A",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section B",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section C",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section D",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section E",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section F",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section G",
+          "instruction": "",
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "since different styles meet different needs.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "effective/appropriate",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "a new approach",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "A reciprocal relationship between the leader and\nemployees is encouraged, to the benefit of all concerned.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "A two-way relationship between the leader and\nemployees is harshly discouraged.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "Employees are constantly monitored and encouraged to\nrealise goals in a positive way.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "Employees receive positive or negative reinforcement on\nthe basis of their performance.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "Leaders are notably absent in the workplace, relying on\nworker autonomy to get the job done.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         29,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading passage 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 29-40."
+          },
+          {
+            "label": null,
+            "text": "A. Cosmetics have been in use almost since time immemorial across diverse\ncultures. Not only do they serve to enhance natural beauty, but they also\nprovide a means of self-expression. From Cleopatra to the modern day,\ncosmetics have played an integral role in women's daily beauty regimes."
+          },
+          {
+            "label": null,
+            "text": "B. The fashion for cosmetics first started in Ancient Egypt and was later\nactively embraced by the Romans. In the latter era, cosmetics and their use\ntranscended all classes, as aristocracy and the poor alike availed themselves of\nall manner of beauty products. However, nail colour was exclusively the\npreserve of aristocrats, as it continued to be in China in later years. In China\nthis trend even became enshrined in law and transgressors crossing the social\ndivide separating the working class from aristocracy by daring to sport nail\ncolour were summarily executed in public. Quite literally, people died for\nfashion."
+          },
+          {
+            "label": null,
+            "text": "C. As cosmetics grew in popularity, women began to become more extravagant\nin their use of cosmetics. Imported beauty products from as far away as China,\nGermany and Gaul were lavishly used by women in their quest for beauty.\nExcessive use of these costly products ultimately incited public controversy,\nleading to the introduction of the Lex Oppia Law of 215 BC. The law curbed the\nuse of cosmetics and over-adornment of women generally in public places.\nPrior to the law's introduction, women had been becoming ever more\ncompetitive in keeping up appearances, even gambling away huge fortunes on\nthe costly cosmetics."
+          },
+          {
+            "label": null,
+            "text": "D. In the following interim period between the Roman era and the Middle Ages,\nuse of cosmetics all but disappeared. The Dark Ages, as this era was termed,\nsaw only very limited use of make-up amongst restricted sectors of the public.\nAn edict issued by the Church, denouncing all those wearing cosmetics as"
+          },
+          {
+            "label": null,
+            "text": "heathens and devil-worshippers, ensured that cosmetics suffered a rapid loss\nin popularity amongst the public. Overwhelmingly, the use of cosmetics during\nthis era was associated with women of ill repute and actors for whom society\nhad scant regard."
+          },
+          {
+            "label": null,
+            "text": "E. Only much later, in the Elizabethan era, did cosmetics become popular once\nagain. Lead preparations were particularly favoured as women sought to\nlighten their skin. Elizabeth I's famously pallid complexion was attributed to the\napplication of a poisonous lead compound. However, poisonous applications\nwere not limited to lead substances. Belladonna, obtained from the deadly\nnightshade plant, was used to enlarge pupils in the belief that this made\nwomen more attractive. In addition, mercury compounds, such as mercury\nsulphide, were applied to the lips for colour. It is no small wonder, therefore,\nthat Queen Elizabeth I lived long enough to be one of England's longest-\nreigning monarchs, with her reign lasting a total of 45 years."
+          },
+          {
+            "label": null,
+            "text": "F. After a brief resurgence in popularity, during the Elizabethan period,\ncosmetics only became popular again years later during the reign of another\nlong-reigning monarch, Queen Victoria (1837-1901). As in the Elizabethan era,\na pallid complexion was favoured over a tanned look. Mercifully, the pale look\nwas attained through applying concoctions of lemon juice and vinegar as\nopposed to the more lethal lead preparations of the past. Overt applications of\nmake-up were frowned upon, with lipstick and rouge being studiously avoided."
+          },
+          {
+            "label": null,
+            "text": "G. Since make-up was deliberately understated in the Victorian as well as the\nsubsequent Edwardian era (1901 -1910), purveyors of cosmetics were few and\nfar between. Purchase of cosmetics was even a somewhat furtive affair, with\nclients obtaining products from local chemists or from shops with concealed\nback door entrances."
+          },
+          {
+            "label": null,
+            "text": "H. Only with the advent of Selfridge's in Oxford Street, London (1909) and the\nestablishing of a cosmetics counter where women could publicly try out\ncosmetics before purchase did buying and wearing of cosmetics gain\nacceptability. Today the sheer diversity of cosmetics available and the freedom\nto apply them sparingly, liberally, or not at all are largely due to the\nburgeoning of the cosmetics industry, spearheaded in the UK by Gordon\nSelfridge and the influence of Hollywood in the 1920s."
+          }
+        ],
+        "text": "Read the text below and answer Questions 29-40.\n\nA. Cosmetics have been in use almost since time immemorial across diverse\ncultures. Not only do they serve to enhance natural beauty, but they also\nprovide a means of self-expression. From Cleopatra to the modern day,\ncosmetics have played an integral role in women's daily beauty regimes.\n\nB. The fashion for cosmetics first started in Ancient Egypt and was later\nactively embraced by the Romans. In the latter era, cosmetics and their use\ntranscended all classes, as aristocracy and the poor alike availed themselves of\nall manner of beauty products. However, nail colour was exclusively the\npreserve of aristocrats, as it continued to be in China in later years. In China\nthis trend even became enshrined in law and transgressors crossing the social\ndivide separating the working class from aristocracy by daring to sport nail\ncolour were summarily executed in public. Quite literally, people died for\nfashion.\n\nC. As cosmetics grew in popularity, women began to become more extravagant\nin their use of cosmetics. Imported beauty products from as far away as China,\nGermany and Gaul were lavishly used by women in their quest for beauty.\nExcessive use of these costly products ultimately incited public controversy,\nleading to the introduction of the Lex Oppia Law of 215 BC. The law curbed the\nuse of cosmetics and over-adornment of women generally in public places.\nPrior to the law's introduction, women had been becoming ever more\ncompetitive in keeping up appearances, even gambling away huge fortunes on\nthe costly cosmetics.\n\nD. In the following interim period between the Roman era and the Middle Ages,\nuse of cosmetics all but disappeared. The Dark Ages, as this era was termed,\nsaw only very limited use of make-up amongst restricted sectors of the public.\nAn edict issued by the Church, denouncing all those wearing cosmetics as\n\nheathens and devil-worshippers, ensured that cosmetics suffered a rapid loss\nin popularity amongst the public. Overwhelmingly, the use of cosmetics during\nthis era was associated with women of ill repute and actors for whom society\nhad scant regard.\n\nE. Only much later, in the Elizabethan era, did cosmetics become popular once\nagain. Lead preparations were particularly favoured as women sought to\nlighten their skin. Elizabeth I's famously pallid complexion was attributed to the\napplication of a poisonous lead compound. However, poisonous applications\nwere not limited to lead substances. Belladonna, obtained from the deadly\nnightshade plant, was used to enlarge pupils in the belief that this made\nwomen more attractive. In addition, mercury compounds, such as mercury\nsulphide, were applied to the lips for colour. It is no small wonder, therefore,\nthat Queen Elizabeth I lived long enough to be one of England's longest-\nreigning monarchs, with her reign lasting a total of 45 years.\n\nF. After a brief resurgence in popularity, during the Elizabethan period,\ncosmetics only became popular again years later during the reign of another\nlong-reigning monarch, Queen Victoria (1837-1901). As in the Elizabethan era,\na pallid complexion was favoured over a tanned look. Mercifully, the pale look\nwas attained through applying concoctions of lemon juice and vinegar as\nopposed to the more lethal lead preparations of the past. Overt applications of\nmake-up were frowned upon, with lipstick and rouge being studiously avoided.\n\nG. Since make-up was deliberately understated in the Victorian as well as the\nsubsequent Edwardian era (1901 -1910), purveyors of cosmetics were few and\nfar between. Purchase of cosmetics was even a somewhat furtive affair, with\nclients obtaining products from local chemists or from shops with concealed\nback door entrances.\n\nH. Only with the advent of Selfridge's in Oxford Street, London (1909) and the\nestablishing of a cosmetics counter where women could publicly try out\ncosmetics before purchase did buying and wearing of cosmetics gain\nacceptability. Today the sheer diversity of cosmetics available and the freedom\nto apply them sparingly, liberally, or not at all are largely due to the\nburgeoning of the cosmetics industry, spearheaded in the UK by Gordon\nSelfridge and the influence of Hollywood in the 1920s.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 29-35 on your answer sheet.",
+          "body": null,
+          "range": [
+            29,
+            35
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 36-40 on your answer sheet. Throughout the ages, cosmetics have rarely been out of fashion for long.",
+          "body": "Beauty products have been and continue to be [[36]] to the pursuit of physical perfection, although the popularity of cosmetics has waxed and waned in different eras. Cosmetics have often been used not only as a means of enhancing beauty, but also as a form of [[37]] in addition to maintaining the [[38]] between classes. Distinctions between the ruling class and the underclasses, with regard to the observation of fashions, were most stringently observed in China where transgressors were often punished by death. In certain eras, such as the Dark Ages and the Edwardian period, the obvious use of cosmetics was [[39]] and positively discouraged. Only in the post-Edwardian era, with the [[40]] cosmetics counters in major department stores and the fascination for Hollywood, did cosmetics enjoy a resurgence in public popularity.",
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 29,
-          "type": "matching-features",
-          "prompt": "class distinctions are upheld Drag your answer",
-          "instruction": "Read the text below and answer Questions 29-40. A. Cosmetics have been in use almost since time immemorial across diverse cultures. Not only do they serve to enhance natural beauty, but they also provide a means of self-expression. From Cleopatra to the modern day, cosmetics have played an integral role in women’s daily beauty regimes. B. The fashion for cosmetics first started in Ancient Egypt and was later actively embraced by the Romans. In the latter era, cosmetics and their use transcended all classes, as aristocracy and the poor alike availed themselves of all manner of beauty products. However, nail colour was exclusively the preserve of aristocrats, as it continued to be in China in later years. In China this trend even became enshrined in law and transgressors crossing the social divide separating the working class from aristocracy by daring to sport nail colour were summarily executed in public. Quite literally, people died for fashion. C. As cosmetics grew in popularity, women began to become more extravagant in their use of cosmetics. Imported beauty products from as far away as China, Germany and Gaul were lavishly used by women in their quest for beauty. Excessive use of these costly products ultimately incited public controversy, leading to the introduction of the Lex Oppia Law of 215 BC. The law curbed the use of cosmetics and over-adornment of women generally in public places. Prior to the law’s introduction, women had been becoming ever more competitive in keeping up appearances, even gambling away huge fortunes on the costly cosmetics. D. In the following interim period between the Roman era and the Middle Ages, use of cosmetics all but disappeared. The Dark Ages, as this era was termed, saw only very limited use of make-up amongst restricted sectors of the public. An edict issued by the Church, denouncing all those wearing cosmetics as Which paragraph contains the following information? Write the correct letter, A-H, in boxes 29-35 on your answer sheet.",
-          "answer": "B"
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "class distinctions are upheld",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a fashion only for a despised\nminority",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a legislative response to public\noutcry",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "the motivation to wear\ncosmetics",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "health comes a poor second to\nmaintaining appearances",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "a healthier approach to fashion",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "freedom of expression",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "integral",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "self-expression",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "between classes. Distinctions between the ruling class and the\nunderclasses, with regard to the observation of fashions, were most",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "social divide",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "frowned upon",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "advent of",
+          "trap": null
         }
       ]
     }

@@ -1,0 +1,57 @@
+{
+  "p3g1": {
+    "instruction": "Look at the following list of places (Questions 28-32) from paragraphs A-E of Reading Passage 3 and their locations on the map. Match each place with its location, A-E, on the map. Write your answers in boxes 28-32 on your answer sheet.",
+    "questions": {
+      "28": {
+        "prompt": "The Sperrin Mountains",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "29": {
+        "prompt": "Dunluce Castle",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "30": {
+        "prompt": "Inishowen",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "31": {
+        "prompt": "The Glens of Antrim",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "32": {
+        "prompt": "Limavady",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  }
+}

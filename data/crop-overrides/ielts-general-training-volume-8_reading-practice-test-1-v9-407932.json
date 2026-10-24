@@ -1,0 +1,68 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the following flow charts. Choose the appropriate consequence from the list in the box for each action. Write the appropriate letter, A, B, C or D, in boxes 18-22 on your answer sheet. You may use any consequence more than once.",
+    "optionBank": {
+      "title": "Consequences",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "labels": [
+        "expelled from the program",
+        "may lose student status with US Immigration and Naturalisation Service",
+        "receives advice and counselling",
+        "may be put on academic probation"
+      ]
+    },
+    "questions": {
+      "18": {
+        "prompt": "Action: 'Student frequently fails to complete homework', first consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "19": {
+        "prompt": "Action: 'Student frequently fails to complete homework', second consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "20": {
+        "prompt": "Action: 'Student does not respond to written notification of probation', first consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "21": {
+        "prompt": "Action: 'Student does not respond to written notification of probation', second consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "22": {
+        "prompt": "Action: 'Student is absent for 50 hours', consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    }
+  }
+}

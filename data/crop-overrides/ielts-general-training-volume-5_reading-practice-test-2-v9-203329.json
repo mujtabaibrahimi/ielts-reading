@@ -1,0 +1,12 @@
+{
+  "p2g1": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+    "body": "Practising your presentation on a [[15]] or a family member is helpful. Be prepared for a problem such as a [[16]]. One way to overcome pre-presentation nerves is [[17]] to make you less rapid. It is acceptable to do something called a [[18]] at the start of the presentation to reassure you. Your presentation should be like a [[19]] with the people who have come to hear you. Check constantly for [[20]] to the points you are making. Make sure you use plenty of [[21]] to communicate your message effectively. To keep the presentation short, use things like [[22]] to provide extra details."
+  },
+  "p2g2": {
+    "_keepImage": true,
+    "_reason": "Flow chart is missing from the source crop (only the instruction and blank answer lines 23-27 are present); cannot transcribe without inventing."
+  }
+}

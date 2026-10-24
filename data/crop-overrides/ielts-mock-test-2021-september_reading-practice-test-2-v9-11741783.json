@@ -1,0 +1,12 @@
+{
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 32-36 are present); cannot transcribe without inventing."
+  },
+  "_answers": {
+    "7": "B,D",
+    "8": "B,D",
+    "9": "C,D",
+    "10": "C,D"
+  }
+}

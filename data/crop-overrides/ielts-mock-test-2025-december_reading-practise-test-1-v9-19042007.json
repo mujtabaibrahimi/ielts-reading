@@ -1,0 +1,170 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "type": "matching-paragraph-information",
+    "instruction": "Reading Passage 1 has six sections, A-F. Which section contains the following information? Choose the correct letter, A-F. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Sections",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "an assessment of current levels of knowledge about bamboo",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "2": {
+        "prompt": "a comparison between bamboo and more fragile plants",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "3": {
+        "prompt": "details of the commercial significance of bamboo",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "4": {
+        "prompt": "a human development that is threatening the availability of bamboo",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "5": {
+        "prompt": "a description of the limited extent of existing research on bamboo",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "6": {
+        "prompt": "examples of the uses to which bamboo is put",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "7": {
+        "prompt": "an explanation of how bamboo may contribute to the survival of range of plants",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    }
+  },
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Reading Passage has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 27-32. NB You may use any letter more than once.",
+    "questions": {
+      "27": {
+        "prompt": "An explanation of why watching sport may be emotionally satisfying",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "28": {
+        "prompt": "An explanation of why beginners find sporting tasks difficult",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "29": {
+        "prompt": "A factor that needs to combine with mirroring to attain sporting excellence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "30": {
+        "prompt": "A comparison of human and animal mirror neurons",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "31": {
+        "prompt": "The first discovery of brain activity related to mirror neurons",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "32": {
+        "prompt": "A claim linking observation to improvement in performance",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    }
+  }
+}

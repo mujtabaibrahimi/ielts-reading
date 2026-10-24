@@ -1,0 +1,27 @@
+{
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Use NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 35-40 on your answer sheet.",
+    "body": "The Olive Oil Production Process. Stage 1: Olive trees should be planted in [[35]] earth with good drainage in a year round warm climate. Stage 2: Trees must be carefully irrigated and fertilized and [[36]] must be controlled if you want to get [[37]] that will make you profit. Stage 3: Olives are crushed to form a [[38]]. Stage 4: The paste is put on round mats inside a [[39]]. Water is blended in with the paste as it's pressed and a water/oil mixture escapes. Stage 5: Water is removed by a [[40]] process. The Oil is then bottled and distributed."
+  },
+  "_orphans": {
+    "23": "Source PDF is defective: under 'Questions 23-27' it reprints Part 1's TRUE/FALSE items numbered 9-13, and the answer key has no entries for 23-27. No valid wording or answer exists; the questions also sit in Part 3 while their group p2g1 is in Part 2.",
+    "24": "Source PDF is defective: under 'Questions 23-27' it reprints Part 1's TRUE/FALSE items numbered 9-13, and the answer key has no entries for 23-27. No valid wording or answer exists; the questions also sit in Part 3 while their group p2g1 is in Part 2.",
+    "25": "Source PDF is defective: under 'Questions 23-27' it reprints Part 1's TRUE/FALSE items numbered 9-13, and the answer key has no entries for 23-27. No valid wording or answer exists; the questions also sit in Part 3 while their group p2g1 is in Part 2.",
+    "26": "Source PDF is defective: under 'Questions 23-27' it reprints Part 1's TRUE/FALSE items numbered 9-13, and the answer key has no entries for 23-27. No valid wording or answer exists; the questions also sit in Part 3 while their group p2g1 is in Part 2.",
+    "27": "Source PDF is defective: under 'Questions 23-27' it reprints Part 1's TRUE/FALSE items numbered 9-13, and the answer key has no entries for 23-27. No valid wording or answer exists; the questions also sit in Part 3 while their group p2g1 is in Part 2."
+  },
+  "_answers": {
+    "14": "B"
+  },
+  "p2g1": {
+    "drop": true,
+    "ifNumbers": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Reading Passage has ten paragraphs, A-J. Which paragraph contains the following information? Choose the correct letter, A-J.",
+    "optionBank": {"title": "Paragraphs", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"], "labels": []},
+    "questions": {
+      "7": {"prompt": "Examples of sequestration already in use in several parts of the world", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]},
+      "8": {"prompt": "An example of putting carbon dioxide emissions to use in the food and beverage industry", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]},
+      "9": {"prompt": "Current examples of the environmental harm attributed to carbon dioxide in the air", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"]}
+    }
+  },
+  "p3g3": {
+    "clearImages": true,
+    "type": "matching-sentence-endings",
+    "instruction": "Complete each sentence with the correct ending, A-H, below. Choose the correct letter, A-H.",
+    "optionBank": {
+      "title": "Endings",
+      "options": ["A", "B", "C", "D", "E", "F", "G", "H"],
+      "labels": [
+        "an inability to hear when spoken language rises and falls.",
+        "considered to be desirable.",
+        "an inability to follow the beat of music.",
+        "not a problem.",
+        "not yet well understood.",
+        "a result of injury to the mother.",
+        "more marked than with other people.",
+        "associated with intelligence."
+      ]
+    },
+    "questions": {
+      "36": {"prompt": "The reason why some people are born with amusia is", "options": ["A", "B", "C", "D", "E", "F", "G", "H"]},
+      "37": {"prompt": "One of the difficulties amusia experience is", "options": ["A", "B", "C", "D", "E", "F", "G", "H"]},
+      "38": {"prompt": "For amusia, discrimination of meaning in speech is", "options": ["A", "B", "C", "D", "E", "F", "G", "H"]},
+      "39": {"prompt": "Certain reactions in the brain of an amusia are", "options": ["A", "B", "C", "D", "E", "F", "G", "H"]},
+      "40": {"prompt": "In most cultures, musical ability is", "options": ["A", "B", "C", "D", "E", "F", "G", "H"]}
+    }
+  }
+}

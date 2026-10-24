@@ -1,0 +1,11 @@
+{
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Mixed single and multi-letter answers (2 'A,B', 4 'A,C'); multi-letter answers cannot map to single inputs."
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 31-34 on your answer sheet.",
+    "body": "How to write your CV. Your CV should follow this progression: Stage 1: Name, address, contact details. Stage 2: Personal [[31]]: including relevant personality strengths, and immediate career goals. Stage 3: Education. Stage 4: Work experience (now to [[32]] years ago; including job details and [[33]]). Stage 5: [[34]]. Stage 6: References."
+  }
+}

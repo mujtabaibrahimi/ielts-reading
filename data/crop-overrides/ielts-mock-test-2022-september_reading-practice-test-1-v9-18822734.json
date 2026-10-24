@@ -1,0 +1,22 @@
+{
+  "p1g3": {
+    "_keepImage": true,
+    "_reason": "Choose THREE multi-select (A-F) spread over boxes 8-10; answer key is garbled ('10 A,E,F 7 1924', then empty) and cannot map to single inputs."
+  },
+  "p1g4": {
+    "_keepImage": true,
+    "_reason": "Choose THREE multi-select spread over boxes 11-13; answer key is garbled ('13 A,B,D', then empty) and cannot map to single inputs."
+  },
+  "_answers": {
+    "7": "1924",
+    "8": "A,E,F",
+    "9": "A,E,F",
+    "10": "A,E,F",
+    "11": "A,B,D",
+    "12": "A,B,D",
+    "13": "A,B,D",
+    "24": "B",
+    "25": "B,D",
+    "26": "B,D"
+  }
+}

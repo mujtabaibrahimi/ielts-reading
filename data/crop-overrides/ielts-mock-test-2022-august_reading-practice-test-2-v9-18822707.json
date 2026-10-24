@@ -1,0 +1,28 @@
+{
+  "p1g2": {
+    "instruction": "Label the diagram of the treadle pump below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 7-10 on your answer sheet.",
+    "questions": {
+      "7": {
+        "prompt": "Handles of pump's materials is ______"
+      },
+      "8": {
+        "prompt": "Two ______ are made of plastics."
+      },
+      "9": {
+        "prompt": "Footvalves and ______ which connects pump mechanism can generate water pulse."
+      },
+      "10": {
+        "prompt": "Treadle pump can extract water underneath up to ______ metre."
+      }
+    }
+  },
+  "_orphans": {
+    "40": "The source test has only 39 questions (Part 3 is 27-39 in the PDF and its answer key); Q40 is converter padding with no wording or answer."
+  },
+  "_answers": {
+    "30": "D",
+    "37": "A,C,E",
+    "38": "A,C,E",
+    "39": "A,C,E"
+  }
+}

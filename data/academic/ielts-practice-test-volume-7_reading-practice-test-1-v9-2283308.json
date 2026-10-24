@@ -1,223 +1,1096 @@
 {
   "id": "ielts-practice-test-volume-7_reading-practice-test-1-v9-2283308",
   "type": "academic",
-  "source": "ielts-practice-test-volume-7 reading-practice-test-1-v9-2283308",
+  "title": "IELTS Practice Test Volume 7 - Reading Test 1",
+  "collection": "IELTS Practice Test Volume 7",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 7,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-test-volume-7_reading-practice-test-1-v9-2283308.pdf",
-  "total_questions": 2,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "From Hand to Mouth",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1 -13, which are based on\nReading Passage 1 below.\nFrom Hand to Mouth\nA. Once again, southern Africa is facing a severe food crisis. It is a chronic\nproblem - and shouldn’t be. At the Trinity hospital in Malawi’s southern Nsanje\ndistrict, three-year-old Mboyi is lying listless, his face against the wall. His belly\nis badly bloated and skin is peeling off his legs. His mother explains that the\nfamily has not been able to harvest anything this year, due to poor rains.\nMothers in the area are already bringing malnourished children to hospitals in\nalarming numbers. Yet, it will be another six months before the next harvest.\nB. Aid agencies are sounding the alarm, hoping that help will come before\nemaciated children’s haunting images, such as those recently seen in Niger,\nappear on western television screens. The UN’s World Food Programme (WFP)\nsays that close to 12 million people across southern Africa will need food aid\nbefore the next harvest. The agency is short of more than $150 million to feed\nthem over the next six months. Malawi and Zimbabwe are by far the hungriest,\nbut Mozambique, Zambia, Lesotho, and Swaziland are also affected. The\ndrought may be southern Africa’s worst in a decade. The crucial rains of\nJanuary, when newly planted crops need water, did not come on time. Nor, in\nsome places, did seeds and fertiliser. Maize, the staple food, is scarce in some\nareas; prices in markets have shot up beyond the means of the hungriest.\nC. Though the problem is particularly severe this year, it recurs across\nsouthern Africa. Food is produced mainly by subsistence farmers on small plots\nwith no irrigation, their fate tied to rain falling in the right amount at the right\n\ntime. Bad roads and unreliable transport make it expensive to move food and\nseeds. Without proper marketing channels, small farmers cannot sell whatever\nsurplus they may have outside their neighbourhoods. This leaves southern\nMozambicans hungry, even when crops are plentiful up north. Maize is ill-suited\nto the climate, needing too much water. In Malawi, there are too many people\nfor the land. Partly due to bad farming, yields are low. And the region has the\nworld’s highest rate of AIDS.\nD. Many small farmers struggle to make ends meet even in good years, so one\nbad season can be disastrous. And in Swaziland and Mozambique, they are\nfacing their fourth dry year in a row. Unable to grow enough to feed\nthemselves or borrow their way out of hard times, farmers end up losing the\nfew assets they have. In Malawi, those without anything left often resort to\ncutting and selling firewood, further eroding the soil and making their plots still\nless productive, or else fishing already depleted waters. Others venture into\ncrocodile-infested rivers to dig out water-lily tubers for food.\nE. Bad government policy sometimes makes things worse. In Zimbabwe, once\nthe region’s breadbasket, land grabs have crippled commercial agriculture and\nirrigation systems. Hyperinflation and lack of foreign exchange make it hard to\nbuy seeds and fertiliser, while fuel shortages stymie crop transport. A recent\noperation to “clean up” cities by bulldozing supposedly illegal dwellings has left\nanother 700,000 people destitute, adding to the ranks of the hungry. The\ngovernment has so far refused to endorse the UN’s proposed emergency\nprogramme to help those affected. Other governments are less bloody-minded.\nMalawi, the worst-hit country, with 5 million people (nearly half its population)\nneeding food handouts, wants help. In July, President Bingu wa Mutharika\nasked his compatriots to give to a “feed the nation” fund: so far, $565,000 has\nbeen collected. In August, the UN appealed for $88 million. The World Bank will\ngive $30 million.\nF. Harnessing what the region already has would go a long way to offsetting its\nchronic hunger. In southern Malawi, rivers regularly flood - and are badly\nmanaged. By contrast, a big sugar plantation in Nchalo, its sprinklers spitting\nout arcs of water, is a green oasis. On a smaller but no less hopeful scale, the\nnearby Chitsukwa irrigation scheme cost only about $20,000 and provided\ncanals and enough low-tech pumps to water 18 hectares (45 acres), which\nsustain 176 farmers. Along the canal, women with babies on their backs labour\non what look like portable stairmasters, pumping water into their fields: the\nmaize is flourishing. Now armed with better knowledge, farmers are aiming at\nthree crops a year, instead of the precarious single one to which they were\naccustomed. A few kilometres down the road, the land is hopelessly dry and\n\nbarren.\nG. Uladi Mussa, Malawi s minister for agriculture and food security, insists that\nexpanding small-scale irrigation is a top priority. The potential is there, he\nexplains, but Malawi lacks the know-how and money to do it on its own.\nZambia and Mozambique have both welcomed exiled white Zimbabwean\nfarmers, whose skills are already boosting local agriculture. Meanwhile, chronic\nhunger is threatening southern Africa’s future generations. Close to half of\nMalawi’s under-five-year-olds are stunted. Schools unable to feed their pupils\nreport drops in attendance, as children are too weak to walk or are forced to\nhelp their parents find food. For them, the damage will remain long after the\nrains have come.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Once again, southern Africa is facing a severe food crisis. It is a chronic"
+            "label": null,
+            "text": "From Hand to Mouth"
           },
           {
-            "label": "B",
-            "content": "Aid agencies are sounding the alarm, hoping that help will come before"
+            "label": null,
+            "text": "A. Once again, southern Africa is facing a severe food crisis. It is a chronic\nproblem - and shouldn't be. At the Trinity hospital in Malawi's southern Nsanje\ndistrict, three-year-old Mboyi is lying listless, his face against the wall. His belly\nis badly bloated and skin is peeling off his legs. His mother explains that the\nfamily has not been able to harvest anything this year, due to poor rains.\nMothers in the area are already bringing malnourished children to hospitals in\nalarming numbers. Yet, it will be another six months before the next harvest."
           },
           {
-            "label": "C",
-            "content": "Though the problem is particularly severe this year, it recurs across"
+            "label": null,
+            "text": "B. Aid agencies are sounding the alarm, hoping that help will come before\nemaciated children's haunting images, such as those recently seen in Niger,\nappear on western television screens. The UN's World Food Programme (WFP)\nsays that close to 12 million people across southern Africa will need food aid\nbefore the next harvest. The agency is short of more than $150 million to feed\nthem over the next six months. Malawi and Zimbabwe are by far the hungriest,\nbut Mozambique, Zambia, Lesotho, and Swaziland are also affected. The\ndrought may be southern Africa's worst in a decade. The crucial rains of\nJanuary, when newly planted crops need water, did not come on time. Nor, in\nsome places, did seeds and fertiliser. Maize, the staple food, is scarce in some\nareas; prices in markets have shot up beyond the means of the hungriest."
           },
           {
-            "label": "D",
-            "content": "Many small farmers struggle to make ends meet even in good years, so one"
+            "label": null,
+            "text": "C. Though the problem is particularly severe this year, it recurs across\nsouthern Africa. Food is produced mainly by subsistence farmers on small plots\nwith no irrigation, their fate tied to rain falling in the right amount at the right"
           },
           {
-            "label": "E",
-            "content": "Bad government policy sometimes makes things worse. In Zimbabwe, once"
+            "label": null,
+            "text": "time. Bad roads and unreliable transport make it expensive to move food and\nseeds. Without proper marketing channels, small farmers cannot sell whatever\nsurplus they may have outside their neighbourhoods. This leaves southern\nMozambicans hungry, even when crops are plentiful up north. Maize is ill-suited\nto the climate, needing too much water. In Malawi, there are too many people\nfor the land. Partly due to bad farming, yields are low. And the region has the\nworld's highest rate of AIDS."
           },
           {
-            "label": "F",
-            "content": "Harnessing what the region already has would go a long way to offsetting its"
+            "label": null,
+            "text": "D. Many small farmers struggle to make ends meet even in good years, so one\nbad season can be disastrous. And in Swaziland and Mozambique, they are\nfacing their fourth dry year in a row. Unable to grow enough to feed\nthemselves or borrow their way out of hard times, farmers end up losing the\nfew assets they have. In Malawi, those without anything left often resort to\ncutting and selling firewood, further eroding the soil and making their plots still\nless productive, or else fishing already depleted waters. Others venture into\ncrocodile-infested rivers to dig out water-lily tubers for food."
           },
           {
-            "label": "G",
-            "content": "Uladi Mussa, Malawi s minister for agriculture and food security, insists that"
+            "label": null,
+            "text": "E. Bad government policy sometimes makes things worse. In Zimbabwe, once\nthe region's breadbasket, land grabs have crippled commercial agriculture and\nirrigation systems. Hyperinflation and lack of foreign exchange make it hard to\nbuy seeds and fertiliser, while fuel shortages stymie crop transport. A recent\noperation to \"clean up\" cities by bulldozing supposedly illegal dwellings has left\nanother 700,000 people destitute, adding to the ranks of the hungry. The\ngovernment has so far refused to endorse the UN's proposed emergency\nprogramme to help those affected. Other governments are less bloody-minded.\nMalawi, the worst-hit country, with 5 million people (nearly half its population)\nneeding food handouts, wants help. In July, President Bingu wa Mutharika\nasked his compatriots to give to a \"feed the nation\" fund: so far, $565,000 has\nbeen collected. In August, the UN appealed for $88 million. The World Bank will\ngive $30 million."
+          },
+          {
+            "label": null,
+            "text": "F. Harnessing what the region already has would go a long way to offsetting its\nchronic hunger. In southern Malawi, rivers regularly flood - and are badly\nmanaged. By contrast, a big sugar plantation in Nchalo, its sprinklers spitting\nout arcs of water, is a green oasis. On a smaller but no less hopeful scale, the\nnearby Chitsukwa irrigation scheme cost only about $20,000 and provided\ncanals and enough low-tech pumps to water 18 hectares (45 acres), which\nsustain 176 farmers. Along the canal, women with babies on their backs labour\non what look like portable stairmasters, pumping water into their fields: the\nmaize is flourishing. Now armed with better knowledge, farmers are aiming at\nthree crops a year, instead of the precarious single one to which they were\naccustomed. A few kilometres down the road, the land is hopelessly dry and"
+          },
+          {
+            "label": null,
+            "text": "barren."
+          },
+          {
+            "label": null,
+            "text": "G. Uladi Mussa, Malawi s minister for agriculture and food security, insists that\nexpanding small-scale irrigation is a top priority. The potential is there, he\nexplains, but Malawi lacks the know-how and money to do it on its own.\nZambia and Mozambique have both welcomed exiled white Zimbabwean\nfarmers, whose skills are already boosting local agriculture. Meanwhile, chronic\nhunger is threatening southern Africa's future generations. Close to half of\nMalawi's under-five-year-olds are stunted. Schools unable to feed their pupils\nreport drops in attendance, as children are too weak to walk or are forced to\nhelp their parents find food. For them, the damage will remain long after the\nrains have come."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 9-13",
-      "questionRange": [
-        9,
-        13
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 9-13\nDo the statements on the next page agree with the information given in\nReading Passage 1?\nIn boxes 9 -13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n9\n Some farmers didn’t get seeds to plant this season.\n10\n  Poor infrastructure means that parts of Mozambique\nare without food while other parts have plenty.\n11\n Southern Africa does not have many of the resources\nit needs to help solve its food problem.\n12\n  Zimbabwe’s government policies have actually\nhelped neighbouring countries in one way.\n13\n About half of Malawi’s children aged under 5 are\nmalnourished.",
-        "tables": [],
+        ],
+        "text": "From Hand to Mouth\n\nA. Once again, southern Africa is facing a severe food crisis. It is a chronic\nproblem - and shouldn't be. At the Trinity hospital in Malawi's southern Nsanje\ndistrict, three-year-old Mboyi is lying listless, his face against the wall. His belly\nis badly bloated and skin is peeling off his legs. His mother explains that the\nfamily has not been able to harvest anything this year, due to poor rains.\nMothers in the area are already bringing malnourished children to hospitals in\nalarming numbers. Yet, it will be another six months before the next harvest.\n\nB. Aid agencies are sounding the alarm, hoping that help will come before\nemaciated children's haunting images, such as those recently seen in Niger,\nappear on western television screens. The UN's World Food Programme (WFP)\nsays that close to 12 million people across southern Africa will need food aid\nbefore the next harvest. The agency is short of more than $150 million to feed\nthem over the next six months. Malawi and Zimbabwe are by far the hungriest,\nbut Mozambique, Zambia, Lesotho, and Swaziland are also affected. The\ndrought may be southern Africa's worst in a decade. The crucial rains of\nJanuary, when newly planted crops need water, did not come on time. Nor, in\nsome places, did seeds and fertiliser. Maize, the staple food, is scarce in some\nareas; prices in markets have shot up beyond the means of the hungriest.\n\nC. Though the problem is particularly severe this year, it recurs across\nsouthern Africa. Food is produced mainly by subsistence farmers on small plots\nwith no irrigation, their fate tied to rain falling in the right amount at the right\n\ntime. Bad roads and unreliable transport make it expensive to move food and\nseeds. Without proper marketing channels, small farmers cannot sell whatever\nsurplus they may have outside their neighbourhoods. This leaves southern\nMozambicans hungry, even when crops are plentiful up north. Maize is ill-suited\nto the climate, needing too much water. In Malawi, there are too many people\nfor the land. Partly due to bad farming, yields are low. And the region has the\nworld's highest rate of AIDS.\n\nD. Many small farmers struggle to make ends meet even in good years, so one\nbad season can be disastrous. And in Swaziland and Mozambique, they are\nfacing their fourth dry year in a row. Unable to grow enough to feed\nthemselves or borrow their way out of hard times, farmers end up losing the\nfew assets they have. In Malawi, those without anything left often resort to\ncutting and selling firewood, further eroding the soil and making their plots still\nless productive, or else fishing already depleted waters. Others venture into\ncrocodile-infested rivers to dig out water-lily tubers for food.\n\nE. Bad government policy sometimes makes things worse. In Zimbabwe, once\nthe region's breadbasket, land grabs have crippled commercial agriculture and\nirrigation systems. Hyperinflation and lack of foreign exchange make it hard to\nbuy seeds and fertiliser, while fuel shortages stymie crop transport. A recent\noperation to \"clean up\" cities by bulldozing supposedly illegal dwellings has left\nanother 700,000 people destitute, adding to the ranks of the hungry. The\ngovernment has so far refused to endorse the UN's proposed emergency\nprogramme to help those affected. Other governments are less bloody-minded.\nMalawi, the worst-hit country, with 5 million people (nearly half its population)\nneeding food handouts, wants help. In July, President Bingu wa Mutharika\nasked his compatriots to give to a \"feed the nation\" fund: so far, $565,000 has\nbeen collected. In August, the UN appealed for $88 million. The World Bank will\ngive $30 million.\n\nF. Harnessing what the region already has would go a long way to offsetting its\nchronic hunger. In southern Malawi, rivers regularly flood - and are badly\nmanaged. By contrast, a big sugar plantation in Nchalo, its sprinklers spitting\nout arcs of water, is a green oasis. On a smaller but no less hopeful scale, the\nnearby Chitsukwa irrigation scheme cost only about $20,000 and provided\ncanals and enough low-tech pumps to water 18 hectares (45 acres), which\nsustain 176 farmers. Along the canal, women with babies on their backs labour\non what look like portable stairmasters, pumping water into their fields: the\nmaize is flourishing. Now armed with better knowledge, farmers are aiming at\nthree crops a year, instead of the precarious single one to which they were\naccustomed. A few kilometres down the road, the land is hopelessly dry and\n\nbarren.\n\nG. Uladi Mussa, Malawi s minister for agriculture and food security, insists that\nexpanding small-scale irrigation is a top priority. The potential is there, he\nexplains, but Malawi lacks the know-how and money to do it on its own.\nZambia and Mozambique have both welcomed exiled white Zimbabwean\nfarmers, whose skills are already boosting local agriculture. Meanwhile, chronic\nhunger is threatening southern Africa's future generations. Close to half of\nMalawi's under-five-year-olds are stunted. Schools unable to feed their pupils\nreport drops in attendance, as children are too weak to walk or are forced to\nhelp their parents find food. For them, the damage will remain long after the\nrains have come.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 7 paragraphs (A - G). Which paragraph contains each of the following pieces of information?",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "table-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text for each gap.",
+          "body": "The January rains are described as 'crucial' because [[5]] need the water. Maize is an unsuitable crop in much of southern Africa because it requires [[6]]. In Zimbabwe, much agricultural produce cannot be moved because of [[7]]. [[8]] can be used instead of irrigation canals to water crops.",
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the statements on the next page agree with the information given in Reading Passage 1? In boxes 9 -13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The main reasons why there is a lack of food in",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "How small development schemes can help to solve",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The things that some desperate farmers do to feed",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The size and cost of the problem in southern Africa",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "newly planted crops",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "too much water",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fuel shortages",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Sprinklers",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Some farmers didn't get seeds to plant this season.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Poor infrastructure means that parts of Mozambique\nare without food while other parts have plenty.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Southern Africa does not have many of the resources\nit needs to help solve its food problem.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Zimbabwe's government policies have actually\nhelped neighbouring countries in one way.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "About half of Malawi's children aged under 5 are\nmalnourished.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\non Reading Passage 2 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Questions 23-26",
-      "questionRange": [
-        23,
-        26
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 23-26\nWrite the corresponding letters in answer boxes 18 to 22 in any order.\nA\n \nB\n \nC\n \nD\n \nE\n \nF\n \nG\n \nH  \nCraig Venter is an unconventional scientist.\nVenter has no scientific qualifications.\nCarbon is used to make shells for sea creatures.\nThe Sargasso Sea has long been thought of as not rich in life.\nThe genes Venter has discovered are interesting, but\nscientifically useless.\nVenter wants to make bacteria resistant to viruses.\nMicrobes may use sunlight as energy but without\nphotosynthesis.\nBacteria can protect microbes from too much sunlight.\n23\nAccording to the information given in Reading Passage 2, choose the\ncorrect answer or answers from the choices given.\nCraig Venter\nA\n \nB\n \nC\n \n24\nCraig Venter’s pilot project\nA\n \nB\n \nC\n \n25\nSynthetic Genomics, owned by Venter, hopes to\nA\n \nB\n \nis the only person to have read his own genetic code.\nowns a floating laboratory.\ndisagrees with Darwin’s Theory of Evolution.\ntook place in the Sargasso Sea.\nended at the Galapagos Islands.\ngave him the idea of writing his autobiography.\nmake fuel from carbon dioxide.\nproduce hydrogen.\n\nC\n \n26\nBefore Venter’s study, it was thought that\nA\n \nB\n \nC\n \ndiscover more species of microbe.\nnutrient levels depended on the number of organisms that eat\ncarbon.\ncertain viruses keep microbe levels under control.\nbacteria might be responsible for climate change.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Looking for Life on the Ocean Wave"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "A. Put one buccaneering entrepreneur-cum-bioscientist on a luxury yacht.\nUsing some mighty fine nets, let him trawl the world's oceans for the smallest\ncreatures. Catalogue the genetic diversity of this, the most abundant form of\nlife in the largest habitat on Earth. Then hijack the molecular machinery of\nthese microbes to make clean energy, new drugs or boost the ability of the\nEarth's lungs to \"breathe\" more carbon dioxide, and so limit global warming."
           },
           {
-            "label": "E",
-            "content": "F"
+            "label": null,
+            "text": "B. This may sound like the outline for a sci-fi potboiler, but it sums up the\nremarkable efforts of Craig Venter, the maverick American scientist. Seven\nwars ago. Venter announced at the White House that he had identified all the\ngenes - the genome - in the DNA of a human being. It was the culmination of a\nbitter race with an international consortium of government labs, and his bull-in-\na-china-shop approach earned him the epithet \"the boy of science\"."
           },
           {
-            "label": "G",
-            "content": "H"
+            "label": null,
+            "text": "C. It did not deter him, and while many of the critics in the scientific\nestablishment who vilified him disappeared from view. Venter went on to\nbecome the first person to read his own genome and is also undertaking an\nextraordinary effort to create a synthetic genome for an artificial organism.\nToday, however, he is bobbing in the middle of the Sea of Cortez, mixing\nbusiness with pleasure in a project to read marine DNA codes as he sails along\nthe west coast of the Americas. His 29-metre sloop, Sorcerer II, is a floating\nlaboratory. Rather than use the traditional method of studying microorganisms\nby growing them in the lab, which only works with one species in every 100,"
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Venter is obtaining the genetic codes of anything and everything present in sea\nwater. The result is a radical new view of life in the oceans, the modem answer\nto Charles Darwin's I 9th-century voyage on the HMS Beagle. \"We are starting\nto view the world in a gene-centred fashion,\" Venter says. \"Our goal is to try to\nsort out evolution, working back from the genes to what organisms are there.\"\nHe calls his approach \"metagenomics\"."
           },
           {
-            "label": "C",
-            "content": "24"
+            "label": null,
+            "text": "D. Microbes make up the vast majority of life on the planet and account for up\nto 90 per cent of the biological mass in the sea. They are the central processors\nof matter and energy in ecosystems. They are responsible for the creation and\nmaintenance of the air we breathe. They are also, perhaps, our biggest hope of\nslowing global warming. Our oceans are the biggest \"sink\" of carbon, thanks in\npart to organisms that absorb carbon from the atmosphere to build their\nskeletons and shells, like \"lungs\". Remarkably, the vast majority of these\norganisms are unknown. \"It is important to understand their role and function\nto ensure the survival of the planet and human life,\" says Venter, who is\nfounder and chairman of the J. Craig Venter Institute in Rockville, Maryland."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "E. The Sorcerer II expedition began with a pilot project in 2003 in the Sargasso\nSea near Bermuda in which more than a million new genes were discovered in\nwhat was thought to be the marine equivalent of a desert. For the next two\nyears, Venter flew back and forth to join the crew as it sampled the waters from\nHalifax, Nova Scotia, to the Eastern Tropical Pacific. 'I did all the major ocean\npassages.\" he said. One in particular, through the Panama Canal, up to Cocos\nIsland and down to the Galapagos, \"was a transforming event, phenomenal\" as\nhe combined genomics with writing an autobiography and diving with sharks,\nall under the gaze of a Discovery Channel TV crew."
           },
           {
-            "label": "C",
-            "content": "25"
+            "label": null,
+            "text": "F. Using phenomenal computing power to reconstruct and analyse microbial\nDNA, with a single stage of the calculations taking more than a million hours of\nsupercomputer time, a flood of discoveries has come from the latest phase of\nthe expedition. Venter announced in a trio of papers in PloS Biology a few days\nago that his team had returned to port with 400 newly discovered microbes\nand six million new genes. Each gene contains the instructions used to make\nthe proteins that build and operate living thing'-, and Waiter's bounty doubles\nthe number known to science. His company, Synthetic Genomics, wants to\nharness this genetic information to use the microbes to turn carbon dioxide\ninto propane and other fuels, short-circuiting the traditional geological process\nwhere ancient creatures are compressed into coal and oil over the aeons.\nAnother target is hydrogen production, the ultimate clean fuel."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "G. When it conn's to climate change, the expedition has thrown up another key\ninsight. Some parts of the ocean have more carbon-hungry organisms than"
           },
           {
-            "label": "C",
-            "content": "26"
+            "label": null,
+            "text": "others, and it used to he thought that populations reflected local nutrient\nlevels. Venter has found that t his may not be the case. The culprit could be\nbacterial viruses phages - which keep microbe levels low in some seas. \"If we\ncan understand this relationship more, and find out how to inhibit the viruses,\nor make the bacteria resistant, we would have a lot more organisms capturing\ncarbon dioxide,\" says Venter."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "H. The biggest impact of his project has been on basic science, overturning\nmany established ideas about the tree of life. It used to be thought that the\nprotein pigment in our own eyes that enables us to detect light was rare. But\nVenter's gene trawl reveals that all surface marine organisms make\nproteorhodopsins that detect coloured light. \"They turn out to be one of the\nmost abundant and important, gene families on the planet,\" he said. Blue and\ngreen variants are found in different environments - blue light preferred in the\nopen ocean such as the indigo Sargasso Sea and green light along coasts.\nVenter believes these proteins help microbes to use energy from the sun, as\nplants do, but without photosynthesis. Instead, they use this \"light-harvesting\"\nmachinery to pump charged atoms in the equivalent of solar batteries."
           },
           {
-            "label": "C",
-            "content": "discover more species of microbe."
+            "label": null,
+            "text": "I. The team discovered many new proteins that protect microbes from UV rays\nand some that are involved in repairing the damage caused by UV. They were\nalso surprised to discover that many kinds of protein that were thought to be\nspecific to one kingdom of life were more widespread. This is only the start.\n\"It's clear,\" says Venter, \"that we've only begun to scratch the surface of\nunderstanding the microbial world.\""
           }
-        ]
+        ],
+        "text": "Looking for Life on the Ocean Wave\n\nA. Put one buccaneering entrepreneur-cum-bioscientist on a luxury yacht.\nUsing some mighty fine nets, let him trawl the world's oceans for the smallest\ncreatures. Catalogue the genetic diversity of this, the most abundant form of\nlife in the largest habitat on Earth. Then hijack the molecular machinery of\nthese microbes to make clean energy, new drugs or boost the ability of the\nEarth's lungs to \"breathe\" more carbon dioxide, and so limit global warming.\n\nB. This may sound like the outline for a sci-fi potboiler, but it sums up the\nremarkable efforts of Craig Venter, the maverick American scientist. Seven\nwars ago. Venter announced at the White House that he had identified all the\ngenes - the genome - in the DNA of a human being. It was the culmination of a\nbitter race with an international consortium of government labs, and his bull-in-\na-china-shop approach earned him the epithet \"the boy of science\".\n\nC. It did not deter him, and while many of the critics in the scientific\nestablishment who vilified him disappeared from view. Venter went on to\nbecome the first person to read his own genome and is also undertaking an\nextraordinary effort to create a synthetic genome for an artificial organism.\nToday, however, he is bobbing in the middle of the Sea of Cortez, mixing\nbusiness with pleasure in a project to read marine DNA codes as he sails along\nthe west coast of the Americas. His 29-metre sloop, Sorcerer II, is a floating\nlaboratory. Rather than use the traditional method of studying microorganisms\nby growing them in the lab, which only works with one species in every 100,\n\nVenter is obtaining the genetic codes of anything and everything present in sea\nwater. The result is a radical new view of life in the oceans, the modem answer\nto Charles Darwin's I 9th-century voyage on the HMS Beagle. \"We are starting\nto view the world in a gene-centred fashion,\" Venter says. \"Our goal is to try to\nsort out evolution, working back from the genes to what organisms are there.\"\nHe calls his approach \"metagenomics\".\n\nD. Microbes make up the vast majority of life on the planet and account for up\nto 90 per cent of the biological mass in the sea. They are the central processors\nof matter and energy in ecosystems. They are responsible for the creation and\nmaintenance of the air we breathe. They are also, perhaps, our biggest hope of\nslowing global warming. Our oceans are the biggest \"sink\" of carbon, thanks in\npart to organisms that absorb carbon from the atmosphere to build their\nskeletons and shells, like \"lungs\". Remarkably, the vast majority of these\norganisms are unknown. \"It is important to understand their role and function\nto ensure the survival of the planet and human life,\" says Venter, who is\nfounder and chairman of the J. Craig Venter Institute in Rockville, Maryland.\n\nE. The Sorcerer II expedition began with a pilot project in 2003 in the Sargasso\nSea near Bermuda in which more than a million new genes were discovered in\nwhat was thought to be the marine equivalent of a desert. For the next two\nyears, Venter flew back and forth to join the crew as it sampled the waters from\nHalifax, Nova Scotia, to the Eastern Tropical Pacific. 'I did all the major ocean\npassages.\" he said. One in particular, through the Panama Canal, up to Cocos\nIsland and down to the Galapagos, \"was a transforming event, phenomenal\" as\nhe combined genomics with writing an autobiography and diving with sharks,\nall under the gaze of a Discovery Channel TV crew.\n\nF. Using phenomenal computing power to reconstruct and analyse microbial\nDNA, with a single stage of the calculations taking more than a million hours of\nsupercomputer time, a flood of discoveries has come from the latest phase of\nthe expedition. Venter announced in a trio of papers in PloS Biology a few days\nago that his team had returned to port with 400 newly discovered microbes\nand six million new genes. Each gene contains the instructions used to make\nthe proteins that build and operate living thing'-, and Waiter's bounty doubles\nthe number known to science. His company, Synthetic Genomics, wants to\nharness this genetic information to use the microbes to turn carbon dioxide\ninto propane and other fuels, short-circuiting the traditional geological process\nwhere ancient creatures are compressed into coal and oil over the aeons.\nAnother target is hydrogen production, the ultimate clean fuel.\n\nG. When it conn's to climate change, the expedition has thrown up another key\ninsight. Some parts of the ocean have more carbon-hungry organisms than\n\nothers, and it used to he thought that populations reflected local nutrient\nlevels. Venter has found that t his may not be the case. The culprit could be\nbacterial viruses phages - which keep microbe levels low in some seas. \"If we\ncan understand this relationship more, and find out how to inhibit the viruses,\nor make the bacteria resistant, we would have a lot more organisms capturing\ncarbon dioxide,\" says Venter.\n\nH. The biggest impact of his project has been on basic science, overturning\nmany established ideas about the tree of life. It used to be thought that the\nprotein pigment in our own eyes that enables us to detect light was rare. But\nVenter's gene trawl reveals that all surface marine organisms make\nproteorhodopsins that detect coloured light. \"They turn out to be one of the\nmost abundant and important, gene families on the planet,\" he said. Blue and\ngreen variants are found in different environments - blue light preferred in the\nopen ocean such as the indigo Sargasso Sea and green light along coasts.\nVenter believes these proteins help microbes to use energy from the sun, as\nplants do, but without photosynthesis. Instead, they use this \"light-harvesting\"\nmachinery to pump charged atoms in the equivalent of solar batteries.\n\nI. The team discovered many new proteins that protect microbes from UV rays\nand some that are involved in repairing the damage caused by UV. They were\nalso surprised to discover that many kinds of protein that were thought to be\nspecific to one kingdom of life were more widespread. This is only the start.\n\"It's clear,\" says Venter, \"that we've only begun to scratch the surface of\nunderstanding the microbial world.\"",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has 9 paragraphs (A-I). Which paragraph does each of the following headings best fit?",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "fill-in-blank",
+          "instruction": "According to the text, FIVE of the following statements are true.",
+          "body": "Write the corresponding letters in answer boxes [[18]] to [[22]] in any order. A Craig Venter is an unconventional scientist. B Venter has no scientific qualifications. C Carbon is used to make shells for sea creatures. D The Sargasso Sea has long been thought of as not rich in life. E The genes Venter has discovered are interesting, but scientifically useless. F Venter wants to make bacteria resistant to viruses. G Microbes may use sunlight as energy but without photosynthesis. H Bacteria can protect microbes from too much sunlight.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "23 According to the information given in Reading Passage 2, choose the correct answer or answers from the choices given. Craig Venter",
+          "body": null,
+          "range": [
+            23,
+            26
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-practice-test-volume-7_reading-practice-test-1-v9-2283308/p2g3-1.png",
+              "w": 982,
+              "h": 788
+            },
+            {
+              "src": "assets/crops/ielts-practice-test-volume-7_reading-practice-test-1-v9-2283308/p2g3-2.png",
+              "w": 982,
+              "h": 319
+            }
+          ],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "How to save the world?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Research contradicts conventional ideas",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Genome race winner",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "The importance of microbes",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,F,G",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,F,G",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,F,G",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,F,G",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "fill-in-blank",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,C,D,F,G",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "According to the information given in Reading Passage 2, choose the\ncorrect answer or answers from the choices given.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Craig Venter's pilot project",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Synthetic Genomics, owned by Venter, hopes to",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A,B",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Before Venter's study, it was thought that",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Do You Look Your Age?",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27- 40, which are based on\nReading Passage 3 below.\nDo You Look Your Age?\nIt can be hard to guess someone’s exact age. A range of factors may leave\nmarks on our appearance: how much sleep We’ve had - even the way we dress\nand our view of ourselves. The good news is that just as these factors can add\nyears on to your appearance, it follows that they can also take years off. We\ndon’t always have control over some of those social factors that can make us\nlook younger, but there are other steps we can take to try to stop the ravages\nof age.\nSOCIAL FACTORS\nLast month, the University of Southern Denmark published a report, The\nInfluence of Environmental Factors on Facial Ageing, which showed that how\nwe live can affect how old we look. In it, 1,826 twins were photographed and\nthen ten female nurses aged between 25-46 years were asked to guess how old\nthe “models” were. The results were intriguing. They showed that belonging to\na high social class can make us look up to four years younger, and many other\nlifestyle factors were shown to affect the way we look. Having children was\nfound to make men look a full year younger, though it had no effect on women,\nand having four or more children cancelled out the benefit.\nDepression and sun exposure were the biggest factors in making you look old\nbefore your time. Depression added up to three and a half years to a woman’s\nperceived age (and 2.4 years for men). Sun exposure piled on at least an extra\nyear. Smoking put on six months for a woman and a year for a man.\n\nMeanwhile, having a high BMI (body mass index) was found to take a whole\nyear off for both men and women. “If you are not depressed, not a smoker and\nnot too skinny, you are basically doing well,” says Professor Kaare Christensen\n(married, three children, non-smoker), one of the report’s authors. Professor\nChristensen’s report concluded that it was more dangerous for our health to\nlook a year older, than to actually be a year older.\nNUTRITION\nThis is possibly the biggest change we can make fairly easily. There are four\nmain factors that prematurely age us: smoking, too much alcohol, lack of fresh\nfruit and vegetables, and insufficient protein intake. You can immediately tell a\nsmoker. It’s not just the lines around the mouth and eyes, but smoking is\ndehydrating to the body. Every time you inhale on a cigarette, you’re taking\ntoxins into the body which have to be diffused and detoxified by the liver and\nkidneys, and they’re dependent on plenty of fresh water to carry toxins away.\nMost smokers don’t drink anywhere near enough water.\nThe really big, quick fix, though, is eating more fresh fruit and vegetables. You\ncan see if someone doesn’t eat enough, or any, fresh fruit and veg in a minute.\nThe skin lacks a freshness and translucency. This is because the skin is the last\norgan to benefit from the nutrients you eat - the likes of the brain, heart, and\nlungs all get first share. If someone’s diet is lacking in fruit and veg, the skin\nwill become dehydrated. This is a sign that sufficient nutrients aren’t being\ndelivered, so from an anti-ageing point of view, it’s important to have live,\nfresh food and raw food is vital. If you have to cook, steaming will retain at\nleast some of the vitamins and minerals.\nThe other really important thing, and one we tend to miss out on in our diet-\nobsessed culture, is adequate intake of essential fatty acids (EFAs), from oily\nfish, nuts, and seeds. EFAs are vital for prolonging life expectancy because\nevery cell in the body has a phospholipid bilayer that protects it, but they also\ngive the skin a dewy, “bouncy”, youthful feel. One of the worst things you can\ndo in terms of looking old is to go on a low-fat diet. Stress is another big one\nfor adding years. We can help support the adrenal and thyroid glands, which\ntake a hammering when we’re stressed, by eating plenty of fresh vitamin C and\nmagnesium for the adrenal glands; and iodine, selenium, zinc, and B vitamins\nto support the thyroid.\nEXERCISE\nWe’ve come to think of exercise as a pure slimming pursuit and women tend to\nbe rather scared of lifting weights, but building lean tissue through weight-\nbearing exercise is key to keeping the years at bay. Exercise can help reduce\n\nthe effects of ageing by slowing down the decline of type II muscle fibres.\nGenerally, type I muscle fibres deal with aerobic activities and type II with\nanaerobic ones. The type II responds to resistance work to improve muscle\ntone. With ageing, there’s a reduction in frequency, duration, and intensity of\nhabitual activity: we generally move less. So, these type II fibres deteriorate\nbecause they simply don’t get enough stimuli.\nSKIN CARE\nAlmost every skin cream promises to make you look younger. It’s a promise\nmany are seduced by, but many end up disappointed. The problem is not that\nproducts don’t work, but starting too late, and then not spending enough\nmoney. A lot of people skip good skin care until they think they need it, and by\nthen it’s actually too late. In women, the skin around the eyes is the first to go,\nin men it’s the hands. A good routine should start early because maintenance\nis much easier than repair.\nYour skin also becomes more transparent as you get older, so you need to\nadapt your make-up and hair colour accordingly. Foundation should be lighter\nthan you’d imagine, and sheerer, and if you want to cover grey, don’t be\ntempted to go for a too-dark hair colour or block colour - highlights are kind.\nDon’t forget to apply moisturiser around the back of the neck: It’s the only bit\nof skin attached to a bone, so it’s important that you look after it to avoid\nsagging.",
-        "tables": [],
+        "heading": "SOCIAL FACTORS",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Do You Look Your Age?"
+          },
+          {
+            "label": null,
+            "text": "It can be hard to guess someone's exact age. A range of factors may leave\nmarks on our appearance: how much sleep We've had - even the way we dress\nand our view of ourselves. The good news is that just as these factors can add\nyears on to your appearance, it follows that they can also take years off. We\ndon't always have control over some of those social factors that can make us\nlook younger, but there are other steps we can take to try to stop the ravages\nof age."
+          },
+          {
+            "label": null,
+            "text": "Last month, the University of Southern Denmark published a report, The\nInfluence of Environmental Factors on Facial Ageing, which showed that how\nwe live can affect how old we look. In it, 1,826 twins were photographed and\nthen ten female nurses aged between 25-46 years were asked to guess how old\nthe \"models\" were. The results were intriguing. They showed that belonging to\na high social class can make us look up to four years younger, and many other\nlifestyle factors were shown to affect the way we look. Having children was\nfound to make men look a full year younger, though it had no effect on women,\nand having four or more children cancelled out the benefit."
+          },
+          {
+            "label": null,
+            "text": "Depression and sun exposure were the biggest factors in making you look old\nbefore your time. Depression added up to three and a half years to a woman's\nperceived age (and 2.4 years for men). Sun exposure piled on at least an extra\nyear. Smoking put on six months for a woman and a year for a man."
+          },
+          {
+            "label": null,
+            "text": "Meanwhile, having a high BMI (body mass index) was found to take a whole\nyear off for both men and women. \"If you are not depressed, not a smoker and\nnot too skinny, you are basically doing well,\" says Professor Kaare Christensen\n(married, three children, non-smoker), one of the report's authors. Professor\nChristensen's report concluded that it was more dangerous for our health to\nlook a year older, than to actually be a year older."
+          },
+          {
+            "label": null,
+            "text": "NUTRITION"
+          },
+          {
+            "label": null,
+            "text": "This is possibly the biggest change we can make fairly easily. There are four\nmain factors that prematurely age us: smoking, too much alcohol, lack of fresh\nfruit and vegetables, and insufficient protein intake. You can immediately tell a\nsmoker. It's not just the lines around the mouth and eyes, but smoking is\ndehydrating to the body. Every time you inhale on a cigarette, you're taking\ntoxins into the body which have to be diffused and detoxified by the liver and\nkidneys, and they're dependent on plenty of fresh water to carry toxins away.\nMost smokers don't drink anywhere near enough water."
+          },
+          {
+            "label": null,
+            "text": "The really big, quick fix, though, is eating more fresh fruit and vegetables. You\ncan see if someone doesn't eat enough, or any, fresh fruit and veg in a minute.\nThe skin lacks a freshness and translucency. This is because the skin is the last\norgan to benefit from the nutrients you eat - the likes of the brain, heart, and\nlungs all get first share. If someone's diet is lacking in fruit and veg, the skin\nwill become dehydrated. This is a sign that sufficient nutrients aren't being\ndelivered, so from an anti-ageing point of view, it's important to have live,\nfresh food and raw food is vital. If you have to cook, steaming will retain at\nleast some of the vitamins and minerals."
+          },
+          {
+            "label": null,
+            "text": "The other really important thing, and one we tend to miss out on in our diet-\nobsessed culture, is adequate intake of essential fatty acids (EFAs), from oily\nfish, nuts, and seeds. EFAs are vital for prolonging life expectancy because\nevery cell in the body has a phospholipid bilayer that protects it, but they also\ngive the skin a dewy, \"bouncy\", youthful feel. One of the worst things you can\ndo in terms of looking old is to go on a low-fat diet. Stress is another big one\nfor adding years. We can help support the adrenal and thyroid glands, which\ntake a hammering when we're stressed, by eating plenty of fresh vitamin C and\nmagnesium for the adrenal glands; and iodine, selenium, zinc, and B vitamins\nto support the thyroid."
+          },
+          {
+            "label": null,
+            "text": "EXERCISE"
+          },
+          {
+            "label": null,
+            "text": "We've come to think of exercise as a pure slimming pursuit and women tend to\nbe rather scared of lifting weights, but building lean tissue through weight-\nbearing exercise is key to keeping the years at bay. Exercise can help reduce"
+          },
+          {
+            "label": null,
+            "text": "the effects of ageing by slowing down the decline of type II muscle fibres.\nGenerally, type I muscle fibres deal with aerobic activities and type II with\nanaerobic ones. The type II responds to resistance work to improve muscle\ntone. With ageing, there's a reduction in frequency, duration, and intensity of\nhabitual activity: we generally move less. So, these type II fibres deteriorate\nbecause they simply don't get enough stimuli."
+          },
+          {
+            "label": null,
+            "text": "SKIN CARE"
+          },
+          {
+            "label": null,
+            "text": "Almost every skin cream promises to make you look younger. It's a promise\nmany are seduced by, but many end up disappointed. The problem is not that\nproducts don't work, but starting too late, and then not spending enough\nmoney. A lot of people skip good skin care until they think they need it, and by\nthen it's actually too late. In women, the skin around the eyes is the first to go,\nin men it's the hands. A good routine should start early because maintenance\nis much easier than repair."
+          },
+          {
+            "label": null,
+            "text": "Your skin also becomes more transparent as you get older, so you need to\nadapt your make-up and hair colour accordingly. Foundation should be lighter\nthan you'd imagine, and sheerer, and if you want to cover grey, don't be\ntempted to go for a too-dark hair colour or block colour - highlights are kind.\nDon't forget to apply moisturiser around the back of the neck: It's the only bit\nof skin attached to a bone, so it's important that you look after it to avoid\nsagging."
+          }
+        ],
+        "text": "Do You Look Your Age?\n\nIt can be hard to guess someone's exact age. A range of factors may leave\nmarks on our appearance: how much sleep We've had - even the way we dress\nand our view of ourselves. The good news is that just as these factors can add\nyears on to your appearance, it follows that they can also take years off. We\ndon't always have control over some of those social factors that can make us\nlook younger, but there are other steps we can take to try to stop the ravages\nof age.\n\nLast month, the University of Southern Denmark published a report, The\nInfluence of Environmental Factors on Facial Ageing, which showed that how\nwe live can affect how old we look. In it, 1,826 twins were photographed and\nthen ten female nurses aged between 25-46 years were asked to guess how old\nthe \"models\" were. The results were intriguing. They showed that belonging to\na high social class can make us look up to four years younger, and many other\nlifestyle factors were shown to affect the way we look. Having children was\nfound to make men look a full year younger, though it had no effect on women,\nand having four or more children cancelled out the benefit.\n\nDepression and sun exposure were the biggest factors in making you look old\nbefore your time. Depression added up to three and a half years to a woman's\nperceived age (and 2.4 years for men). Sun exposure piled on at least an extra\nyear. Smoking put on six months for a woman and a year for a man.\n\nMeanwhile, having a high BMI (body mass index) was found to take a whole\nyear off for both men and women. \"If you are not depressed, not a smoker and\nnot too skinny, you are basically doing well,\" says Professor Kaare Christensen\n(married, three children, non-smoker), one of the report's authors. Professor\nChristensen's report concluded that it was more dangerous for our health to\nlook a year older, than to actually be a year older.\n\nNUTRITION\n\nThis is possibly the biggest change we can make fairly easily. There are four\nmain factors that prematurely age us: smoking, too much alcohol, lack of fresh\nfruit and vegetables, and insufficient protein intake. You can immediately tell a\nsmoker. It's not just the lines around the mouth and eyes, but smoking is\ndehydrating to the body. Every time you inhale on a cigarette, you're taking\ntoxins into the body which have to be diffused and detoxified by the liver and\nkidneys, and they're dependent on plenty of fresh water to carry toxins away.\nMost smokers don't drink anywhere near enough water.\n\nThe really big, quick fix, though, is eating more fresh fruit and vegetables. You\ncan see if someone doesn't eat enough, or any, fresh fruit and veg in a minute.\nThe skin lacks a freshness and translucency. This is because the skin is the last\norgan to benefit from the nutrients you eat - the likes of the brain, heart, and\nlungs all get first share. If someone's diet is lacking in fruit and veg, the skin\nwill become dehydrated. This is a sign that sufficient nutrients aren't being\ndelivered, so from an anti-ageing point of view, it's important to have live,\nfresh food and raw food is vital. If you have to cook, steaming will retain at\nleast some of the vitamins and minerals.\n\nThe other really important thing, and one we tend to miss out on in our diet-\nobsessed culture, is adequate intake of essential fatty acids (EFAs), from oily\nfish, nuts, and seeds. EFAs are vital for prolonging life expectancy because\nevery cell in the body has a phospholipid bilayer that protects it, but they also\ngive the skin a dewy, \"bouncy\", youthful feel. One of the worst things you can\ndo in terms of looking old is to go on a low-fat diet. Stress is another big one\nfor adding years. We can help support the adrenal and thyroid glands, which\ntake a hammering when we're stressed, by eating plenty of fresh vitamin C and\nmagnesium for the adrenal glands; and iodine, selenium, zinc, and B vitamins\nto support the thyroid.\n\nEXERCISE\n\nWe've come to think of exercise as a pure slimming pursuit and women tend to\nbe rather scared of lifting weights, but building lean tissue through weight-\nbearing exercise is key to keeping the years at bay. Exercise can help reduce\n\nthe effects of ageing by slowing down the decline of type II muscle fibres.\nGenerally, type I muscle fibres deal with aerobic activities and type II with\nanaerobic ones. The type II responds to resistance work to improve muscle\ntone. With ageing, there's a reduction in frequency, duration, and intensity of\nhabitual activity: we generally move less. So, these type II fibres deteriorate\nbecause they simply don't get enough stimuli.\n\nSKIN CARE\n\nAlmost every skin cream promises to make you look younger. It's a promise\nmany are seduced by, but many end up disappointed. The problem is not that\nproducts don't work, but starting too late, and then not spending enough\nmoney. A lot of people skip good skin care until they think they need it, and by\nthen it's actually too late. In women, the skin around the eyes is the first to go,\nin men it's the hands. A good routine should start early because maintenance\nis much easier than repair.\n\nYour skin also becomes more transparent as you get older, so you need to\nadapt your make-up and hair colour accordingly. Foundation should be lighter\nthan you'd imagine, and sheerer, and if you want to cover grey, don't be\ntempted to go for a too-dark hair colour or block colour - highlights are kind.\nDon't forget to apply moisturiser around the back of the neck: It's the only bit\nof skin attached to a bone, so it's important that you look after it to avoid\nsagging.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "For each question, only ONE of the choices is correct. Write the corresponding letter in the appropriate box on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences using NO MORE THAN THREE WORDS from the text for each gap.",
+          "body": "The Danish survey used photographs of [[31]] The greatest difference people can make relatively easily is with [[32]] The human body uses the [[33]] to get rid of toxins. A [[34]] diet makes people look much older. People should use [[35]] on the back of the neck.",
+          "range": [
+            31,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36 - 40 on your answer sheet, write",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
-          "type": "matching-features",
-          "prompt": "According to surveys, which of the following social factors makes a",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "C"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "According to surveys, which of the following social factors makes a person look older?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "Having more than four children",
+            "Having a high BMI",
+            "Spending a long time in the sun"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 28,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Which of the following nutritional factors makes a person look older?",
-          "instruction": "Write the corresponding letter in the appropriate box on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "Eating lots of fruit and vegetables",
+            "Not eating enough protein",
+            "Eating lots of meat"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "How can exercise help make a person look younger?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "By making them feel happier",
+            "It helps keep type II muscle fibres in better condition.",
+            "It increases oxygen flow."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What is the main problem with skincare products?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "People don't use them early enough.",
+            "People spend too much money on them.",
+            "Most skincare products don't work."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "twins",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "nutrition",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "liver and kidneys",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "low-fat",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "moisturiser",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "A person's social class can affect how old they look.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Having children makes men and women look\nyounger.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Smokers need to drink more water than non-\nsmokers.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Some people don't get enough fatty acids because\nthey are slimming.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Most skin creams contain vitamins that are good for\nthe skin.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Questions 31-35",
-      "questionRange": [
-        31,
-        35
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 31-35\nQuestions 36-40\nB\n \nC\n \n29 How can exercise help make a person look younger?\nA\n \nB\n \nC\n \n30 What is the main problem with skincare products?\nA\n \nB\n \nC\n \nNot eating enough protein\nEating lots of meat\nBy making them feel happier\nIt helps keep type II muscle fibres in better condition.\nIt increases oxygen flow.\nPeople don’t use them early enough.\nPeople spend too much money on them.\nMost skincare products don’t work.\nComplete the following sentences using NO MORE THAN THREE\nWORDS from the text for each gap.\nThe Danish survey used photographs of 31\nThe greatest difference people can make relatively easily is with \n32\nThe human body uses the 33\n to get rid of toxins.\nA 34\n  diet makes people look much older.\nPeople should use 35\n on the back of the neck.\nDo the following statements agree with the information given in Reading\nPassage 3?\nIn boxes 36 - 40 on your answer sheet, write\n\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n36\n     A person’s social class can affect how old they look.\n37\n     Having children makes men and women look\nyounger.\n38\n     Smokers need to drink more water than non-\nsmokers.\n39\n     Some people don’t get enough fatty acids because\nthey are slimming.\n40\n     Most skin creams contain vitamins that are good for\nthe skin.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "B",
-            "content": "C"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "30 What is the main problem with skincare products?"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "Not eating enough protein"
-          },
-          {
-            "label": "A",
-            "content": "34"
-          }
-        ]
-      },
-      "questions": []
     }
   ],
   "answers": {
@@ -238,7 +1111,7 @@
     "15": "H",
     "16": "B",
     "17": "D",
-    "22": "A,C,D,F,G",
+    "18": "A,C,D,F,G",
     "23": "B",
     "24": "A",
     "25": "A,B",
@@ -256,6 +1129,10 @@
     "37": "FALSE",
     "38": "TRUE",
     "39": "TRUE",
-    "40": "NOT GIVEN"
+    "40": "NOT GIVEN",
+    "19": "A,C,D,F,G",
+    "20": "A,C,D,F,G",
+    "21": "A,C,D,F,G",
+    "22": "A,C,D,F,G"
   }
 }

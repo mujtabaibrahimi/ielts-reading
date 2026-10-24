@@ -1,0 +1,14 @@
+{
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Answer key is garbled: questions 4 and 5 are empty and question 8 holds 'I 4 D 5 F'."
+  },
+  "_answers": {
+    "4": "D",
+    "5": "F",
+    "8": "I",
+    "16": "B",
+    "17": "C,D",
+    "18": "C,D"
+  }
+}

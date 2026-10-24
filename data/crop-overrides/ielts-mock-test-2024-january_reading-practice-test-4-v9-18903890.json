@@ -1,0 +1,16 @@
+{
+  "p2g2": {
+    "_keepImage": true,
+    "_reason": "Coffee bean diagram is missing from the source crop (only the instruction and blank answer lines 21-23 are present); cannot transcribe without inventing."
+  },
+  "p2g3": {
+    "clearImages": true,
+    "instruction": "Using the information in the passage, complete the flowchart below. Use NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 24-27 on your answer sheet.",
+    "body": "Coffee Production Process. Stage 1: The coffee (example: cherry) is picked by hand and delivered to mills. Stage 2: The coffee cherry is pulped or [[24]]. Stage 3: The pulped beans are left [[25]] to ferment in pure water. Stage 4: The wet beans are sun dried for one or 2 weeks to make parchment - they are [[26]] often to ensure an even drying procedure. Stage 5: The parchment is then bagged and taken to be milled to make the green beans. Stage 6: The green beans are then roasted to [[27]]. Stage 7: The roasted beans are cooled. Stage 8: The finished product is packaged and mailed to the customer."
+  },
+  "_answers": {
+    "38": "B,C,E",
+    "39": "B,C,E",
+    "40": "B,C,E"
+  }
+}

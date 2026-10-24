@@ -1,374 +1,1149 @@
 {
   "id": "ielts-mock-test-2023-february_reading-practice-test-1-v9-18835941",
   "type": "academic",
-  "source": "ielts-mock-test-2023-february reading-practice-test-1-v9-18835941",
+  "title": "IELTS Academic 2023 February - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 1,
+  "year": 2023,
+  "month": 2,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-february_reading-practice-test-1-v9-18835941.pdf",
-  "total_questions": 17,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Satellite Technology",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nSatellite Technology\nThe space-age began with the launch of the Russian artificial satellite Sputnik\nin 1957 and developed further with the race to the moon between the United\nStates and Russia. This rivalry was characterized by advanced technology and\nhuge budgets. In this process, there were spectacular successes, some failures,\nbut also many spin-offs.\nEurope, Japan, China, and India quickly joined this space club of the\nsuperpowers. With the advent of relatively low-cost high-performance mini-\nsatellites and launchers, the acquisition of indigenous space capabilities by\nsmaller nations in Asia has become possible. How, in what manner, and for\nwhat purpose will these capabilities be realized?\nA\nRocket technology has progressed considerably since the days of ‘fire arrows’\n(bamboo poles filled with gunpowder) first used in China around 500 BC, and,\nduring the Sung Dynasty, to repel Mongol invaders at the battle of Kaifeng (Kai-\nfung fu) in AD 1232. These ancient rockets stand in stark contrast to the\npresent-day Chinese rocket launch vehicles, called the ‘Long March’, intended\nto place a Chinese astronaut in space by 2005 and, perhaps, to achieve a\nChinese moon-landing by the end of the decade.\nB\nIn the last decade, there has been a dramatic growth in space activities in Asia\nboth in the utilization of space-based services and the production of satellites\nand launchers. This rapid expansion has led many commentators and analysts\nto predict that Asia will become a world space power. The space-age has had\n\ndramatic effects worldwide with direct developments in space technology\ninfluencing telecommunications, meteorological forecasting, earth resource\nand environmental monitoring, and disaster mitigation (flood, forest fires, and\noil spills). Asian nations have been particularly eager to embrace these\ndevelopments.\nC\nNew and innovative uses for satellites are constantly being explored with\npotential revolutionary effects, such as in the field of health and telemedicine,\ndistance education, crime prevention (piracy on the high seas), food and\nagricultural planning and production (rice crop monitoring). Space in Asia is\nvery much influenced by the competitive commercial space sector, the\nemergence of low-cost mini-satellites, and the globalization of industrial and\nfinancial markets. It is not evident how Asian space will develop in the coming\ndecades in the face of these trends. It is, however, important to understand\nand assess the factors and forces that shape Asian space activities and\ndevelopment in determining its possible consequences for the region.\nD\nAt present, three Asian nations, Japan, China, and India, have comprehensive\nend-to-end space capabilities and possess a complete space infrastructure:\nspace technology, satellite manufacturing, rockets, and spaceports. Already\nself-sufficient in terms of satellite design and manufacturing, South Korea is\ncurrently attempting to join their ranks with its plans to develop a launch site\nand spaceport. Additionally, nations in Southeast Asia as well as those\nbordering the Indian subcontinent (Nepal, Pakistan, and Bangladesh), have, or\nare starting to develop indigenous space programmes. The Association of\nSoutheast Asian Nations (ASEAN) has, in varying degrees, embraced space\napplications using foreign technology and over the past five years or so its\nspace activities have been expanding. Southeast Asia is predicted to become\nthe largest and fastest-growing market for commercial space products and\napplications, driven by telecommunications (mobile and fixed services), the\nInternet, and remote sensing applications. In the development of this\ntechnology, many non-technical factors, such as economics, politics, culture,\nand history, interact and play important roles, which in turn affect Asian\ntechnology.\nE\nAsia and Southeast Asia, in particular, suffers from a long list of recurrent\nlarge-scale environmental problems including storms and flooding, forest fires\nand deforestation, and crop failures. Thus the space application that has\n\nattracted the most attention in this region is remote sensing. Remote sensing\nsatellites equipped with instruments to take photographs of the ground at\ndifferent wavelengths provide essential information for natural resource\naccounting, environmental management, disaster prevention and monitoring,\nland-use mapping, and sustainable development planning. Progress in these\napplications has been rapid and impressive. ASEAN members, unlike Japan,\nChina, and India, do not have their own remote sensing satellites, however,\nmost of its member nations have facilities to receive, process, and interpret\nsuch data from American and European satellites. In particular, Thailand,\nMalaysia, and Singapore have world-class remote sensing processing facilities\nand research programmes. ASEAN has plans to develop (and launch) its own\nsatellites and in particular remote sensing satellites. Japan is regarded as the\ndominant space power in Asia and its record of successes and quality of\ntechnologies are equal to those of the West. In view of the technological\nchallenges and high risks involved in space activities, a very long, and\nexpensive, the learning curve has been followed to obtain those successes\nachieved. Japan, s satellite manufacturing was based on the old and traditional\ndefense and military procurement methodologies as practiced in the US and\nEurope.\nF\nIn recent years there have been fundamental changes in the way satellites are\ndesigned and built to drastically reduce costs. The emergence of ‘small\nsatellites’ and their quick adoption by Asian countries as a way to develop low-\ncost satellite technology and rapidly establish a space capability has given\nthese countries the possibility to shorten their learning curve by a decade or\nmore. The global increase of technology transfer mechanisms and use of\nreadily available commercial technology to replace costly space and military-\nstandard components may very well result in a highly competitive Asian\nsatellite manufacturing industry.\nG\nThe laws of physics are the same in Tokyo as in Toulouse, and the principles of\nelectronics and mechanics know no political or cultural boundaries. However,\nno such immutability applies to engineer practices and management; they are\nvery much influenced by education, culture, and history. These factors, in turn,\nhave an effect on costs, lead times, product designs and, eventually,\ninternational sales. Many Asian nations are sending their engineers to be\ntrained in the West. Highly experienced, they return to work in the growing\nAsian space industry. Will this acquisition of technical expertise, coupled\n\nperhaps with the world-renowned Japanese manufacturing and management\ntechniques, be applied to build world-class satellites and reduce costs?",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Satellite Technology"
+          },
+          {
+            "label": null,
+            "text": "The space-age began with the launch of the Russian artificial satellite Sputnik\nin 1957 and developed further with the race to the moon between the United\nStates and Russia. This rivalry was characterized by advanced technology and\nhuge budgets. In this process, there were spectacular successes, some failures,\nbut also many spin-offs."
+          },
+          {
+            "label": null,
+            "text": "Europe, Japan, China, and India quickly joined this space club of the\nsuperpowers. With the advent of relatively low-cost high-performance mini-\nsatellites and launchers, the acquisition of indigenous space capabilities by\nsmaller nations in Asia has become possible. How, in what manner, and for\nwhat purpose will these capabilities be realized?"
+          },
           {
             "label": "A",
-            "content": "Rocket technology has progressed considerably since the days of ‘fire arrows’"
+            "text": "Rocket technology has progressed considerably since the days of 'fire arrows'\n(bamboo poles filled with gunpowder) first used in China around 500 BC, and,\nduring the Sung Dynasty, to repel Mongol invaders at the battle of Kaifeng (Kai-\nfung fu) in AD 1232. These ancient rockets stand in stark contrast to the\npresent-day Chinese rocket launch vehicles, called the 'Long March', intended\nto place a Chinese astronaut in space by 2005 and, perhaps, to achieve a\nChinese moon-landing by the end of the decade."
           },
           {
             "label": "B",
-            "content": "In the last decade, there has been a dramatic growth in space activities in Asia"
+            "text": "In the last decade, there has been a dramatic growth in space activities in Asia\nboth in the utilization of space-based services and the production of satellites\nand launchers. This rapid expansion has led many commentators and analysts\nto predict that Asia will become a world space power. The space-age has had"
+          },
+          {
+            "label": null,
+            "text": "dramatic effects worldwide with direct developments in space technology\ninfluencing telecommunications, meteorological forecasting, earth resource\nand environmental monitoring, and disaster mitigation (flood, forest fires, and\noil spills). Asian nations have been particularly eager to embrace these\ndevelopments."
           },
           {
             "label": "C",
-            "content": "New and innovative uses for satellites are constantly being explored with"
+            "text": "New and innovative uses for satellites are constantly being explored with\npotential revolutionary effects, such as in the field of health and telemedicine,\ndistance education, crime prevention (piracy on the high seas), food and\nagricultural planning and production (rice crop monitoring). Space in Asia is\nvery much influenced by the competitive commercial space sector, the\nemergence of low-cost mini-satellites, and the globalization of industrial and\nfinancial markets. It is not evident how Asian space will develop in the coming\ndecades in the face of these trends. It is, however, important to understand\nand assess the factors and forces that shape Asian space activities and\ndevelopment in determining its possible consequences for the region."
           },
           {
             "label": "D",
-            "content": "At present, three Asian nations, Japan, China, and India, have comprehensive"
+            "text": "At present, three Asian nations, Japan, China, and India, have comprehensive\nend-to-end space capabilities and possess a complete space infrastructure:\nspace technology, satellite manufacturing, rockets, and spaceports. Already\nself-sufficient in terms of satellite design and manufacturing, South Korea is\ncurrently attempting to join their ranks with its plans to develop a launch site\nand spaceport. Additionally, nations in Southeast Asia as well as those\nbordering the Indian subcontinent (Nepal, Pakistan, and Bangladesh), have, or\nare starting to develop indigenous space programmes. The Association of\nSoutheast Asian Nations (ASEAN) has, in varying degrees, embraced space\napplications using foreign technology and over the past five years or so its\nspace activities have been expanding. Southeast Asia is predicted to become\nthe largest and fastest-growing market for commercial space products and\napplications, driven by telecommunications (mobile and fixed services), the\nInternet, and remote sensing applications. In the development of this\ntechnology, many non-technical factors, such as economics, politics, culture,\nand history, interact and play important roles, which in turn affect Asian\ntechnology."
           },
           {
             "label": "E",
-            "content": "Asia and Southeast Asia, in particular, suffers from a long list of recurrent"
+            "text": "Asia and Southeast Asia, in particular, suffers from a long list of recurrent\nlarge-scale environmental problems including storms and flooding, forest fires\nand deforestation, and crop failures. Thus the space application that has"
+          },
+          {
+            "label": null,
+            "text": "attracted the most attention in this region is remote sensing. Remote sensing\nsatellites equipped with instruments to take photographs of the ground at\ndifferent wavelengths provide essential information for natural resource\naccounting, environmental management, disaster prevention and monitoring,\nland-use mapping, and sustainable development planning. Progress in these\napplications has been rapid and impressive. ASEAN members, unlike Japan,\nChina, and India, do not have their own remote sensing satellites, however,\nmost of its member nations have facilities to receive, process, and interpret\nsuch data from American and European satellites. In particular, Thailand,\nMalaysia, and Singapore have world-class remote sensing processing facilities\nand research programmes. ASEAN has plans to develop (and launch) its own\nsatellites and in particular remote sensing satellites. Japan is regarded as the\ndominant space power in Asia and its record of successes and quality of\ntechnologies are equal to those of the West. In view of the technological\nchallenges and high risks involved in space activities, a very long, and\nexpensive, the learning curve has been followed to obtain those successes\nachieved. Japan, s satellite manufacturing was based on the old and traditional\ndefense and military procurement methodologies as practiced in the US and\nEurope."
           },
           {
             "label": "F",
-            "content": "In recent years there have been fundamental changes in the way satellites are"
+            "text": "In recent years there have been fundamental changes in the way satellites are\ndesigned and built to drastically reduce costs. The emergence of 'small\nsatellites' and their quick adoption by Asian countries as a way to develop low-\ncost satellite technology and rapidly establish a space capability has given\nthese countries the possibility to shorten their learning curve by a decade or\nmore. The global increase of technology transfer mechanisms and use of\nreadily available commercial technology to replace costly space and military-\nstandard components may very well result in a highly competitive Asian\nsatellite manufacturing industry."
           },
           {
             "label": "G",
-            "content": "The laws of physics are the same in Tokyo as in Toulouse, and the principles of"
+            "text": "The laws of physics are the same in Tokyo as in Toulouse, and the principles of\nelectronics and mechanics know no political or cultural boundaries. However,\nno such immutability applies to engineer practices and management; they are\nvery much influenced by education, culture, and history. These factors, in turn,\nhave an effect on costs, lead times, product designs and, eventually,\ninternational sales. Many Asian nations are sending their engineers to be\ntrained in the West. Highly experienced, they return to work in the growing\nAsian space industry. Will this acquisition of technical expertise, coupled"
+          },
+          {
+            "label": null,
+            "text": "perhaps with the world-renowned Japanese manufacturing and management\ntechniques, be applied to build world-class satellites and reduce costs?"
           }
-        ]
+        ],
+        "text": "Satellite Technology\n\nThe space-age began with the launch of the Russian artificial satellite Sputnik\nin 1957 and developed further with the race to the moon between the United\nStates and Russia. This rivalry was characterized by advanced technology and\nhuge budgets. In this process, there were spectacular successes, some failures,\nbut also many spin-offs.\n\nEurope, Japan, China, and India quickly joined this space club of the\nsuperpowers. With the advent of relatively low-cost high-performance mini-\nsatellites and launchers, the acquisition of indigenous space capabilities by\nsmaller nations in Asia has become possible. How, in what manner, and for\nwhat purpose will these capabilities be realized?\n\nRocket technology has progressed considerably since the days of 'fire arrows'\n(bamboo poles filled with gunpowder) first used in China around 500 BC, and,\nduring the Sung Dynasty, to repel Mongol invaders at the battle of Kaifeng (Kai-\nfung fu) in AD 1232. These ancient rockets stand in stark contrast to the\npresent-day Chinese rocket launch vehicles, called the 'Long March', intended\nto place a Chinese astronaut in space by 2005 and, perhaps, to achieve a\nChinese moon-landing by the end of the decade.\n\nIn the last decade, there has been a dramatic growth in space activities in Asia\nboth in the utilization of space-based services and the production of satellites\nand launchers. This rapid expansion has led many commentators and analysts\nto predict that Asia will become a world space power. The space-age has had\n\ndramatic effects worldwide with direct developments in space technology\ninfluencing telecommunications, meteorological forecasting, earth resource\nand environmental monitoring, and disaster mitigation (flood, forest fires, and\noil spills). Asian nations have been particularly eager to embrace these\ndevelopments.\n\nNew and innovative uses for satellites are constantly being explored with\npotential revolutionary effects, such as in the field of health and telemedicine,\ndistance education, crime prevention (piracy on the high seas), food and\nagricultural planning and production (rice crop monitoring). Space in Asia is\nvery much influenced by the competitive commercial space sector, the\nemergence of low-cost mini-satellites, and the globalization of industrial and\nfinancial markets. It is not evident how Asian space will develop in the coming\ndecades in the face of these trends. It is, however, important to understand\nand assess the factors and forces that shape Asian space activities and\ndevelopment in determining its possible consequences for the region.\n\nAt present, three Asian nations, Japan, China, and India, have comprehensive\nend-to-end space capabilities and possess a complete space infrastructure:\nspace technology, satellite manufacturing, rockets, and spaceports. Already\nself-sufficient in terms of satellite design and manufacturing, South Korea is\ncurrently attempting to join their ranks with its plans to develop a launch site\nand spaceport. Additionally, nations in Southeast Asia as well as those\nbordering the Indian subcontinent (Nepal, Pakistan, and Bangladesh), have, or\nare starting to develop indigenous space programmes. The Association of\nSoutheast Asian Nations (ASEAN) has, in varying degrees, embraced space\napplications using foreign technology and over the past five years or so its\nspace activities have been expanding. Southeast Asia is predicted to become\nthe largest and fastest-growing market for commercial space products and\napplications, driven by telecommunications (mobile and fixed services), the\nInternet, and remote sensing applications. In the development of this\ntechnology, many non-technical factors, such as economics, politics, culture,\nand history, interact and play important roles, which in turn affect Asian\ntechnology.\n\nAsia and Southeast Asia, in particular, suffers from a long list of recurrent\nlarge-scale environmental problems including storms and flooding, forest fires\nand deforestation, and crop failures. Thus the space application that has\n\nattracted the most attention in this region is remote sensing. Remote sensing\nsatellites equipped with instruments to take photographs of the ground at\ndifferent wavelengths provide essential information for natural resource\naccounting, environmental management, disaster prevention and monitoring,\nland-use mapping, and sustainable development planning. Progress in these\napplications has been rapid and impressive. ASEAN members, unlike Japan,\nChina, and India, do not have their own remote sensing satellites, however,\nmost of its member nations have facilities to receive, process, and interpret\nsuch data from American and European satellites. In particular, Thailand,\nMalaysia, and Singapore have world-class remote sensing processing facilities\nand research programmes. ASEAN has plans to develop (and launch) its own\nsatellites and in particular remote sensing satellites. Japan is regarded as the\ndominant space power in Asia and its record of successes and quality of\ntechnologies are equal to those of the West. In view of the technological\nchallenges and high risks involved in space activities, a very long, and\nexpensive, the learning curve has been followed to obtain those successes\nachieved. Japan, s satellite manufacturing was based on the old and traditional\ndefense and military procurement methodologies as practiced in the US and\nEurope.\n\nIn recent years there have been fundamental changes in the way satellites are\ndesigned and built to drastically reduce costs. The emergence of 'small\nsatellites' and their quick adoption by Asian countries as a way to develop low-\ncost satellite technology and rapidly establish a space capability has given\nthese countries the possibility to shorten their learning curve by a decade or\nmore. The global increase of technology transfer mechanisms and use of\nreadily available commercial technology to replace costly space and military-\nstandard components may very well result in a highly competitive Asian\nsatellite manufacturing industry.\n\nThe laws of physics are the same in Tokyo as in Toulouse, and the principles of\nelectronics and mechanics know no political or cultural boundaries. However,\nno such immutability applies to engineer practices and management; they are\nvery much influenced by education, culture, and history. These factors, in turn,\nhave an effect on costs, lead times, product designs and, eventually,\ninternational sales. Many Asian nations are sending their engineers to be\ntrained in the West. Highly experienced, they return to work in the growing\nAsian space industry. Will this acquisition of technical expertise, coupled\n\nperhaps with the world-renowned Japanese manufacturing and management\ntechniques, be applied to build world-class satellites and reduce costs?",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "heading-matching",
+          "instruction": "The reading passage has seven paragraphs, A-G Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "ix"
+            ],
+            "labels": [
+              "Western countries provide essential assistance",
+              "Unbalanced development for an essential space technology",
+              "Innovative application compelled by competition",
+              "An ancient invention which is related to the future",
+              "Military purpose of the satellite",
+              "Rockets for application in ancient China",
+              "competitive edge gained by more economically feasible satellite"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet.",
+          "body": null,
+          "range": [
+            6,
+            9
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Because it helps administrate the crops.",
+              "Because there are some unapproachable areas.",
+              "Because the economic level in that area is low.",
+              "Because there are influences from some other social factors.",
+              "Because it can be used in non-peaceful purpose.",
+              "Because disasters such as bush fire happened in Southeast Asia."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "ix"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
         {
           "number": 6,
           "type": "matching-features",
-          "prompt": "Why remote-photographic technology is used to resolve environmental problems?",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet.",
-          "answer": "F"
+          "groupId": "p1g2",
+          "prompt": "Why remote-photographic technology is used to resolve",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 7,
           "type": "matching-features",
+          "groupId": "p1g2",
           "prompt": "Why satellites technology is used in the medicine area?",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 8,
           "type": "matching-features",
-          "prompt": "Why Asian countries satellite technology is limited for development?",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet.",
-          "answer": "D"
+          "groupId": "p1g2",
+          "prompt": "Why Asian countries satellite technology is limited for",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 9,
           "type": "matching-features",
-          "prompt": "Why satellites technology is deployed in an agricultural area? Do the following statements agree with the information given in Reading Passage?",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet.",
-          "answer": "A"
+          "groupId": "p1g2",
+          "prompt": "Why satellites technology is deployed in an agricultural",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "Ancient China had already deployed rockets as a military purpose as early as 500 years ago.",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet. Do the following statements agree with the information given in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g3",
+          "prompt": "Ancient China had already deployed rockets as a\nmilitary purpose as early as 500 years ago.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
+          "groupId": "p1g3",
           "prompt": "Space technology has enhanced the literacy of Asia.",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet. Do the following statements agree with the information given in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
-          "prompt": "photos taken by satellites with certain technology help predict some natural catastrophes prevention and surveillance.",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet. Do the following statements agree with the information given in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g3",
+          "prompt": "photos taken by satellites with certain technology help\npredict some natural catastrophes prevention and surveillance.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "commercial competition constitutes a boosting factor to Asian technology development.",
-          "instruction": "Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-ix, in boxes 1-5 on your answer sheet. List of Headings i Western countries provide essential assistance ii Unbalanced development for an essential space technology iii Innovative application compelled by competition iv An ancient invention which is related to the future v Military purpose of the satellite vi Rockets for application in ancient China vii Space development in Asia in the past viii Non-technology factors counts ix competitive edge gained by more economically feasible satellite 1 Paragraph A 2 Paragraph B 3 Paragraph C Paragraph D Example: Current space technology development in Asia 4 Paragraph E 5 Paragraph F Match the following reasons for each question according to the information given in the passage Write the correct letter A-F, in boxes 6-9 on your answer sheet. Do the following statements agree with the information given in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g3",
+          "prompt": "commercial competition constitutes a boosting factor\nto Asian technology development.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Koalas",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nKoalas\nA. Koalas are just too nice for their own good. And except for the occasional\nbaby taken by birds of prey, koalas have no natural enemies. In an ideal world,\nthe life of an arboreal couch potato would be perfectly safe and acceptable.\nB. Just two hundred years ago, koalas flourished across Australia. Now they\nseem to be in decline, but exact numbers are not available as the species\nwould not seem to be ‘under threat’. Their problem, however, has been man,\nmore specifically, the white man. Koala and aborigine had co-existed peacefully\nfor centuries.\nC. Today koalas are found only in scattered pockets of southeast Australia,\nwhere they seem to be at risk on several fronts. The koala’s only food source,\nthe eucalyptus tree has declined. In the past 200 years, a third of Australia’s\neucalyptus forests have disappeared. Koalas have been killed by parasites,\nchlamydia epidemics and a tumour-causing retro-virus. And every year 11000\nare killed by cars, ironically most of them in wildlife sanctuaries, and thousands\nare killed by poachers. Some are also taken illegally as pets. The animals\nusually soon die, but they are easily replaced.\nD. Bush fires pose another threat. The horrific ones that raged in New South\nWales recently killed between 100 and 1000 koalas. Many that were taken into\nsanctuaries and shelters were found to have burnt their paws on the glowing\nembers. But zoologists say that the species should recover. The koalas will be\naided by the eucalyptus, which grows quickly and is already burgeoning forth\nafter the fires. So the main problem to their survival is their slow reproductive\nrate – they produce only one baby a year over a reproductive lifespan of about\nnine years.\n\nE. The latest problem for the species is perhaps more insidious. With plush,\ngrey fur, dark amber eyes and button nose, koalas are cuddliness incarnate.\nAustralian zoos and wildlife parks have taken advantage of their uncomplaining\nattitudes, and charge visitors to be photographed hugging the furry bundles.\nBut people may not realise how cruel this is, but because of the koala’s delicate\ndisposition, constant handling can push an already precariously balanced\nphysiology over the edge.\nF. Koalas only eat the foliage of certain species of eucalyptus trees, between\n600 and 1250 grams a day. The tough leaves are packed with cellulose,\ntannins, aromatic oils and precursors of toxic cyanides. To handle this cocktail,\nkoalas have a specialised digestive system. Cellulose- digesting bacteria in the\nbreak down fibre, while a specially adapted gut and liver process the toxins. To\ndigest their food properly, koalas must sit still for 21 hours every day.\nG. Koalas are the epitome of innocence and inoffensiveness. Although they are\ncapable of ripping open a man’s arm with their needle-sharp claws, or giving a\nnasty nip, they simply wouldn’t. If you upset a koala, it may blink or swallow, or\nhiccup. But attack? No way! Koalas are just not aggressive. They use their\nclaws to grip the hard smooth bark of eucalyptus trees.\nH. They are also very sensitive, and the slightest upset can prevent them from\nbreeding, cause them to go off their food, and succumb to gut infections.\nKoalas are stoic creatures and put on a brave face until they are at death’s\ndoor. One day they may appear healthy, the next they could be dead. Captive\nkoalas have to be weighed daily to check that they are feeding properly. A\nsudden loss of weight is usually the only warning keepers have that their\ncharge is ill. Only two keepers plus a vet were allowed to handle London Zoo’s\nkoalas, as these creatures are only comfortable with people they know. A\nrequest for the koala to be taken to meet the Queen was refused because of\nthe distress this would have caused the marsupial. Sadly, London’s Zoo no\nlonger has a koala. Two years ago the female koala died of a cancer caused by\na retrovirus. When they come into heat, female koalas become more active,\nand start losing weight, but after about sixteen days, heat ends and the weight\npiles back on. London’s koala did not. Surgery revealed hundreds of pea-sized\ntumours.\nAlmost every zoo in Australia has koalas – the marsupial has become the\nAnimal Ambassador of the nation, but nowhere outside Australia would\nhandling by the public be allowed. Koala cuddling screams in the face of every\nrule of good care. First, some zoos allow koalas to be passed from stranger to\nstranger, many children who love to squeeze. Secondly, most people have no\n\nidea of how to handle the animals; they like to cling on to their handler, all in\ntheir own good time and use his or her arm as a tree. For such reasons, the\nAssociation of Fauna and Marine parks, an Australian conservation society is\ncampaigning to ban koala cuddling. Policy on koala handling is determined by\nstate government authorities. “And the largest of the numbers in the Australian\nNature Conservation Agency, with the aim of instituting national guidelines.\nFollowing a wave of publicity, some zoos and wildlife parks have stopped\nturning their koalas into photo.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Koalas are just too nice for their own good. And except for the occasional"
+            "label": null,
+            "text": "Koalas"
           },
           {
-            "label": "B",
-            "content": "Just two hundred years ago, koalas flourished across Australia. Now they"
+            "label": null,
+            "text": "A. Koalas are just too nice for their own good. And except for the occasional\nbaby taken by birds of prey, koalas have no natural enemies. In an ideal world,\nthe life of an arboreal couch potato would be perfectly safe and acceptable."
           },
           {
-            "label": "C",
-            "content": "Today koalas are found only in scattered pockets of southeast Australia,"
+            "label": null,
+            "text": "B. Just two hundred years ago, koalas flourished across Australia. Now they\nseem to be in decline, but exact numbers are not available as the species\nwould not seem to be 'under threat'. Their problem, however, has been man,\nmore specifically, the white man. Koala and aborigine had co-existed peacefully\nfor centuries."
           },
           {
-            "label": "D",
-            "content": "Bush fires pose another threat. The horrific ones that raged in New South"
+            "label": null,
+            "text": "C. Today koalas are found only in scattered pockets of southeast Australia,\nwhere they seem to be at risk on several fronts. The koala's only food source,\nthe eucalyptus tree has declined. In the past 200 years, a third of Australia's\neucalyptus forests have disappeared. Koalas have been killed by parasites,\nchlamydia epidemics and a tumour-causing retro-virus. And every year 11000\nare killed by cars, ironically most of them in wildlife sanctuaries, and thousands\nare killed by poachers. Some are also taken illegally as pets. The animals\nusually soon die, but they are easily replaced."
           },
           {
-            "label": "E",
-            "content": "The latest problem for the species is perhaps more insidious. With plush,"
+            "label": null,
+            "text": "D. Bush fires pose another threat. The horrific ones that raged in New South\nWales recently killed between 100 and 1000 koalas. Many that were taken into\nsanctuaries and shelters were found to have burnt their paws on the glowing\nembers. But zoologists say that the species should recover. The koalas will be\naided by the eucalyptus, which grows quickly and is already burgeoning forth\nafter the fires. So the main problem to their survival is their slow reproductive\nrate - they produce only one baby a year over a reproductive lifespan of about\nnine years."
           },
           {
-            "label": "F",
-            "content": "Koalas only eat the foliage of certain species of eucalyptus trees, between"
+            "label": null,
+            "text": "E. The latest problem for the species is perhaps more insidious. With plush,\ngrey fur, dark amber eyes and button nose, koalas are cuddliness incarnate.\nAustralian zoos and wildlife parks have taken advantage of their uncomplaining\nattitudes, and charge visitors to be photographed hugging the furry bundles.\nBut people may not realise how cruel this is, but because of the koala's delicate\ndisposition, constant handling can push an already precariously balanced\nphysiology over the edge."
           },
           {
-            "label": "G",
-            "content": "Koalas are the epitome of innocence and inoffensiveness. Although they are"
+            "label": null,
+            "text": "F. Koalas only eat the foliage of certain species of eucalyptus trees, between\n600 and 1250 grams a day. The tough leaves are packed with cellulose,\ntannins, aromatic oils and precursors of toxic cyanides. To handle this cocktail,\nkoalas have a specialised digestive system. Cellulose- digesting bacteria in the\nbreak down fibre, while a specially adapted gut and liver process the toxins. To\ndigest their food properly, koalas must sit still for 21 hours every day."
+          },
+          {
+            "label": null,
+            "text": "G. Koalas are the epitome of innocence and inoffensiveness. Although they are\ncapable of ripping open a man's arm with their needle-sharp claws, or giving a\nnasty nip, they simply wouldn't. If you upset a koala, it may blink or swallow, or\nhiccup. But attack? No way! Koalas are just not aggressive. They use their\nclaws to grip the hard smooth bark of eucalyptus trees."
+          },
+          {
+            "label": null,
+            "text": "H. They are also very sensitive, and the slightest upset can prevent them from\nbreeding, cause them to go off their food, and succumb to gut infections.\nKoalas are stoic creatures and put on a brave face until they are at death's\ndoor. One day they may appear healthy, the next they could be dead. Captive\nkoalas have to be weighed daily to check that they are feeding properly. A\nsudden loss of weight is usually the only warning keepers have that their\ncharge is ill. Only two keepers plus a vet were allowed to handle London Zoo's\nkoalas, as these creatures are only comfortable with people they know. A\nrequest for the koala to be taken to meet the Queen was refused because of\nthe distress this would have caused the marsupial. Sadly, London's Zoo no\nlonger has a koala. Two years ago the female koala died of a cancer caused by\na retrovirus. When they come into heat, female koalas become more active,\nand start losing weight, but after about sixteen days, heat ends and the weight\npiles back on. London's koala did not. Surgery revealed hundreds of pea-sized\ntumours."
+          },
+          {
+            "label": null,
+            "text": "Almost every zoo in Australia has koalas - the marsupial has become the\nAnimal Ambassador of the nation, but nowhere outside Australia would\nhandling by the public be allowed. Koala cuddling screams in the face of every\nrule of good care. First, some zoos allow koalas to be passed from stranger to\nstranger, many children who love to squeeze. Secondly, most people have no"
+          },
+          {
+            "label": null,
+            "text": "idea of how to handle the animals; they like to cling on to their handler, all in\ntheir own good time and use his or her arm as a tree. For such reasons, the\nAssociation of Fauna and Marine parks, an Australian conservation society is\ncampaigning to ban koala cuddling. Policy on koala handling is determined by\nstate government authorities. \"And the largest of the numbers in the Australian\nNature Conservation Agency, with the aim of instituting national guidelines.\nFollowing a wave of publicity, some zoos and wildlife parks have stopped\nturning their koalas into photo."
           }
-        ]
+        ],
+        "text": "Koalas\n\nA. Koalas are just too nice for their own good. And except for the occasional\nbaby taken by birds of prey, koalas have no natural enemies. In an ideal world,\nthe life of an arboreal couch potato would be perfectly safe and acceptable.\n\nB. Just two hundred years ago, koalas flourished across Australia. Now they\nseem to be in decline, but exact numbers are not available as the species\nwould not seem to be 'under threat'. Their problem, however, has been man,\nmore specifically, the white man. Koala and aborigine had co-existed peacefully\nfor centuries.\n\nC. Today koalas are found only in scattered pockets of southeast Australia,\nwhere they seem to be at risk on several fronts. The koala's only food source,\nthe eucalyptus tree has declined. In the past 200 years, a third of Australia's\neucalyptus forests have disappeared. Koalas have been killed by parasites,\nchlamydia epidemics and a tumour-causing retro-virus. And every year 11000\nare killed by cars, ironically most of them in wildlife sanctuaries, and thousands\nare killed by poachers. Some are also taken illegally as pets. The animals\nusually soon die, but they are easily replaced.\n\nD. Bush fires pose another threat. The horrific ones that raged in New South\nWales recently killed between 100 and 1000 koalas. Many that were taken into\nsanctuaries and shelters were found to have burnt their paws on the glowing\nembers. But zoologists say that the species should recover. The koalas will be\naided by the eucalyptus, which grows quickly and is already burgeoning forth\nafter the fires. So the main problem to their survival is their slow reproductive\nrate - they produce only one baby a year over a reproductive lifespan of about\nnine years.\n\nE. The latest problem for the species is perhaps more insidious. With plush,\ngrey fur, dark amber eyes and button nose, koalas are cuddliness incarnate.\nAustralian zoos and wildlife parks have taken advantage of their uncomplaining\nattitudes, and charge visitors to be photographed hugging the furry bundles.\nBut people may not realise how cruel this is, but because of the koala's delicate\ndisposition, constant handling can push an already precariously balanced\nphysiology over the edge.\n\nF. Koalas only eat the foliage of certain species of eucalyptus trees, between\n600 and 1250 grams a day. The tough leaves are packed with cellulose,\ntannins, aromatic oils and precursors of toxic cyanides. To handle this cocktail,\nkoalas have a specialised digestive system. Cellulose- digesting bacteria in the\nbreak down fibre, while a specially adapted gut and liver process the toxins. To\ndigest their food properly, koalas must sit still for 21 hours every day.\n\nG. Koalas are the epitome of innocence and inoffensiveness. Although they are\ncapable of ripping open a man's arm with their needle-sharp claws, or giving a\nnasty nip, they simply wouldn't. If you upset a koala, it may blink or swallow, or\nhiccup. But attack? No way! Koalas are just not aggressive. They use their\nclaws to grip the hard smooth bark of eucalyptus trees.\n\nH. They are also very sensitive, and the slightest upset can prevent them from\nbreeding, cause them to go off their food, and succumb to gut infections.\nKoalas are stoic creatures and put on a brave face until they are at death's\ndoor. One day they may appear healthy, the next they could be dead. Captive\nkoalas have to be weighed daily to check that they are feeding properly. A\nsudden loss of weight is usually the only warning keepers have that their\ncharge is ill. Only two keepers plus a vet were allowed to handle London Zoo's\nkoalas, as these creatures are only comfortable with people they know. A\nrequest for the koala to be taken to meet the Queen was refused because of\nthe distress this would have caused the marsupial. Sadly, London's Zoo no\nlonger has a koala. Two years ago the female koala died of a cancer caused by\na retrovirus. When they come into heat, female koalas become more active,\nand start losing weight, but after about sixteen days, heat ends and the weight\npiles back on. London's koala did not. Surgery revealed hundreds of pea-sized\ntumours.\n\nAlmost every zoo in Australia has koalas - the marsupial has become the\nAnimal Ambassador of the nation, but nowhere outside Australia would\nhandling by the public be allowed. Koala cuddling screams in the face of every\nrule of good care. First, some zoos allow koalas to be passed from stranger to\nstranger, many children who love to squeeze. Secondly, most people have no\n\nidea of how to handle the animals; they like to cling on to their handler, all in\ntheir own good time and use his or her arm as a tree. For such reasons, the\nAssociation of Fauna and Marine parks, an Australian conservation society is\ncampaigning to ban koala cuddling. Policy on koala handling is determined by\nstate government authorities. \"And the largest of the numbers in the Australian\nNature Conservation Agency, with the aim of instituting national guidelines.\nFollowing a wave of publicity, some zoos and wildlife parks have stopped\nturning their koalas into photo.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-18 on your answer sheet.",
+          "body": null,
+          "range": [
+            14,
+            18
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2 In boxes 19-25 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            19,
+            25
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "a",
+              "a",
+              "a",
+              "a"
+            ],
+            "labels": [
+              "journalist who write for magazine",
+              "zoo keeper in London Zoo.",
+              "tourist who traveling back from Australia",
+              "government official who studies koalas to establish a law"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 26 on your answer sheet.",
+          "body": null,
+          "range": [
+            26,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
           "type": "multiple-choice",
-          "prompt": "The main reason why koala declined is that they are killed EXCEPT",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-18 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p2g1",
+          "prompt": "The main reason why koala declined is that they are killed EXCEPT FOR",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "by poachers",
+            "by diseases they got",
+            "giving too many birth yet survived little!",
+            "accidents on the road"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 15,
           "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "What can help koalas folly digest their food?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-18 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "toxic substance in the leaves",
+            "organs that dissolve the fibres",
+            "remaining inactive for a period to digest",
+            "eating eucalyptus trees"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 16,
           "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "What would koalas do when facing the dangerous situation?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-18 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "show signs of being offended",
+            "counter attack furiously",
+            "use sharp claws to rip the man",
+            "use claws to grip the bark of trees."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 17,
           "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "In what ways Australian zoos exploit koalas?",
-          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 14-18 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "encourage people to breed koalas as pets",
+            "allow tourists to hug the koalas",
+            "put them on the trees as a symbol",
+            "establish a koala campaign"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "multiple-choice",
+          "groupId": "p2g1",
+          "prompt": "What would the government do to protect koalas from being endangered?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "introduce koala protection guidelines",
+            "close some of the zoos",
+            "encourage people to resist visiting the zoos",
+            "persuade the public to learn more knowledge"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "New coming human settlers caused danger to koalas.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Koalas can still be seen in most of the places in\nAustralia.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "It takes decade for the eucalyptus trees to recover\nafter the fire.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Koalas will fight each other when food becomes\nscarce.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "It is not easy to notice that koalas are ill.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Koalas are easily infected with human contagious",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Koalas like to hold a person's arm when they are\nembraced.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "From your opinion this article written by",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "a journalist who write for magazine",
+            "a zoo keeper in London Zoo.",
+            "a tourist who traveling back from Australia",
+            "a government official who studies koalas to establish a law"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
-      "partNumber": 2,
-      "title": "Questions 19-25",
-      "questionRange": [
-        19,
-        25
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 19-25\nA\n \nB\n \nC\n \nD\n \n18 What would the government do to protect koalas from being\nendangered?\nA\n \nB\n \nC\n \nD\n \nencourage people to breed koalas as pets\nallow tourists to hug the koalas\nput them on the trees as a symbol\nestablish a koala campaign\nintroduce koala protection guidelines\nclose some of the zoos\nencourage people to resist visiting the zoos\npersuade the public to learn more knowledge\nDo the following statements agree with the information given in Reading\nPassage 2\nIn boxes 19-25 on your answer sheet, write\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n19\n New coming human settlers caused danger to koalas.\n20\n Koalas can still be seen in most of the places in\nAustralia.\n21\n It takes decade for the eucalyptus trees to recover\nafter the fire.\n22\n Koalas will fight each other when food becomes\nscarce.\n23\n It is not easy to notice that koalas are ill.\n24\n Koalas are easily infected with human contagious\n\nQuestion 26\ndisease via cuddling\n25\n Koalas like to hold a person’s arm when they are\nembraced.\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 26 on your answer sheet.\n26 From your opinion this article written by\nA\n \nB\n \nC\n \nD\n \na journalist who write for magazine\na zoo keeper in London Zoo.\na tourist who traveling back from Australia\na government official who studies koalas to establish a law",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
       "partNumber": 3,
-      "title": "Detection of a meteorite Lake",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nDetection of a meteorite Lake\nA\nAs the sun rose over picturesque Lake Bosumtwi, a team of Syracuse\nUniversity researchers prepared for another day of using state-of-the-art\nequipment to help bottom. Nestled in the heart of Ghana, the lake holds an\nuntapped reservoir of information that could help scientists predict future\nclimate changes by looking at evidence from the past. This information will also\nimprove the scientists’ understanding of the changes that occur in a region\nstruck by a massive meteorite.\nB\nThe project, led by earth sciences professor Christopher Scholz of the College\nof Arts and Sciences and funded by the National Science Foundation (NSF), is\nthe first large-scale effort to study Lake Bosumtwi, which formed 1.1 million\nyears ago when a giant meteor crashed into the Earth’s surface. The resulting\ncrater is one of the largest and most well-preserved geologically young craters\nin the world, says Scholz, who is collaborating on the project with researchers\nfrom the University of Arizona, the University of South Carolina, the University\nof Rhode Island, and several Ghanaian institutions. “Our data should provide\ninformation about what happens when an impact hits hard, pre-Cambrian,\ncrystalline rocks that are a billion years old,” he says.\nC\nEqually important is the fact that the lake, which is about 8 kilometers in\ndiameter, has no natural outlet. The rim of the crater rises about 250 meters\nabove the water’s surface. Streams flow into the lake, Scholz says, but the\n\nwater leaves only by evaporation, or by seeping through the lake sediments.\nFor the past million years, the lake has acted as a tropical rain gauge, filling\nand drying with changes in precipitation and the tropical climate. The record of\nthose changes is hidden in the sediment below the lake bottom. “The lake is\none of the best sites in the world for the study of tropical climate changes,”\nScholz says. “The tropics are the heat engine for the Earth’s climate. To\nunderstand the global climate, we need to have records of climate changes\nfrom many sites around the world, including the tropics.”\nD\nBefore the researchers could explore the lake’s subsurface, they needed a boat\nwith a large, working deck area that could carry eight tons of scientific\nequipment. The boat – dubbed R/V Kilindi – was built in Florida last year. It was\nconstructed in modules that were dismantled, packed inside a shipping\ncontainer, and reassembled over a 10-day period in late November and early\nDecember 1999 in the rural village of Abono, Ghana. The research team then\nspent the next two weeks testing the boat and equipment before returning to\nthe United States for the holidays.\nE\nIn mid-January, five members of the team – Keely Brooks, an earth sciences\ngraduate student; Peter Cattaneo, a research analyst; and Kiram Lezzar, a\npostdoctoral scholar, all from SU; James McGill, a geophysical field engineer;\nand Nick Peters, a Ph.D. student in geophysics from the University of Miami –\nreturned to Abono to begin collecting data about the lake’s subsurface using a\ntechnique called seismic reflection profiling. In this process, a high-pressure air\ngun is used to create small, pneumatic explosions in the water. The sound\nenergy penetrates about 1,000 to 2,000 meters into the lake’s subsurface\nbefore bouncing back to the surface of the water.\nF\nThe reflected sound energy is detected by underwater microphones – called\nhydrophones – embedded in a 50-meter-long cable that is towed behind the\nboat as it crosses the lake in a carefully designed grid pattern. On-board\ncomputers record the signals, and the resulting data are then processed and\nanalyzed in the laboratory. “The results will give us a good idea of the shape of\nthe basin, how thick the layers of sediment are, and when and where there\nwere major changes in sediment accumulation,” Scholz says. “We are now\ndeveloping a three-dimensional perspective of the lake’s subsurface and the\nlayers of sediment that have been laid down.”\n\nG\nTeam members spent about four weeks in Ghana collecting the data. They\nworked seven days a week, arriving at the lake just after sunrise. On a good\nday, when everything went as planned, the team could collect data and be\nback at the dock by early afternoon. Except for a few relatively minor\nadjustments, the equipment and the boat worked well. Problems that arose\nwere primarily non-scientific – tree stumps, fishing nets, cultural barriers, and\noccasional misunderstandings with local villagers.\nH\nLake Bosumtwi, the largest natural freshwater lake in the country, is sacred to\nthe Ashanti people, who believe their souls come to the lake to bid farewell to\ntheir god. The lake is also the primary source of fish for the 26 surrounding\nvillages. Conventional canoes and boats are forbidden. Fishermen travel on the\nlake by floating on traditional planks they propel with small paddles. Before the\nresearch project could begin, Scholz and his Ghanaian counterparts had to\nsecure special permission from tribal chiefs to put the R/V Kilindi on the lake.\nI\nWhen the team began gathering data, rumors flew around the lake as to why\nthe researchers were there. “Some thought we were dredging the lake for gold,\nothers thought we were going to drain the lake or that we had bought the\nlake,” Cattaneo says. “But once the local people understood why we were\nthere, they were very helpful.”",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Detection of a meteorite Lake"
+          },
           {
             "label": "A",
-            "content": "As the sun rose over picturesque Lake Bosumtwi, a team of Syracuse"
+            "text": "As the sun rose over picturesque Lake Bosumtwi, a team of Syracuse\nUniversity researchers prepared for another day of using state-of-the-art\nequipment to help bottom. Nestled in the heart of Ghana, the lake holds an\nuntapped reservoir of information that could help scientists predict future\nclimate changes by looking at evidence from the past. This information will also\nimprove the scientists' understanding of the changes that occur in a region\nstruck by a massive meteorite."
           },
           {
             "label": "B",
-            "content": "The project, led by earth sciences professor Christopher Scholz of the College"
+            "text": "The project, led by earth sciences professor Christopher Scholz of the College\nof Arts and Sciences and funded by the National Science Foundation (NSF), is\nthe first large-scale effort to study Lake Bosumtwi, which formed 1.1 million\nyears ago when a giant meteor crashed into the Earth's surface. The resulting\ncrater is one of the largest and most well-preserved geologically young craters\nin the world, says Scholz, who is collaborating on the project with researchers\nfrom the University of Arizona, the University of South Carolina, the University\nof Rhode Island, and several Ghanaian institutions. \"Our data should provide\ninformation about what happens when an impact hits hard, pre-Cambrian,\ncrystalline rocks that are a billion years old,\" he says."
           },
           {
             "label": "C",
-            "content": "Equally important is the fact that the lake, which is about 8 kilometers in"
+            "text": "Equally important is the fact that the lake, which is about 8 kilometers in\ndiameter, has no natural outlet. The rim of the crater rises about 250 meters\nabove the water's surface. Streams flow into the lake, Scholz says, but the"
+          },
+          {
+            "label": null,
+            "text": "water leaves only by evaporation, or by seeping through the lake sediments.\nFor the past million years, the lake has acted as a tropical rain gauge, filling\nand drying with changes in precipitation and the tropical climate. The record of\nthose changes is hidden in the sediment below the lake bottom. \"The lake is\none of the best sites in the world for the study of tropical climate changes,\"\nScholz says. \"The tropics are the heat engine for the Earth's climate. To\nunderstand the global climate, we need to have records of climate changes\nfrom many sites around the world, including the tropics.\""
           },
           {
             "label": "D",
-            "content": "Before the researchers could explore the lake’s subsurface, they needed a boat"
+            "text": "Before the researchers could explore the lake's subsurface, they needed a boat\nwith a large, working deck area that could carry eight tons of scientific\nequipment. The boat - dubbed R/V Kilindi - was built in Florida last year. It was\nconstructed in modules that were dismantled, packed inside a shipping\ncontainer, and reassembled over a 10-day period in late November and early\nDecember 1999 in the rural village of Abono, Ghana. The research team then\nspent the next two weeks testing the boat and equipment before returning to\nthe United States for the holidays."
           },
           {
             "label": "E",
-            "content": "In mid-January, five members of the team – Keely Brooks, an earth sciences"
+            "text": "In mid-January, five members of the team - Keely Brooks, an earth sciences\ngraduate student; Peter Cattaneo, a research analyst; and Kiram Lezzar, a\npostdoctoral scholar, all from SU; James McGill, a geophysical field engineer;\nand Nick Peters, a Ph.D. student in geophysics from the University of Miami -\nreturned to Abono to begin collecting data about the lake's subsurface using a\ntechnique called seismic reflection profiling. In this process, a high-pressure air\ngun is used to create small, pneumatic explosions in the water. The sound\nenergy penetrates about 1,000 to 2,000 meters into the lake's subsurface\nbefore bouncing back to the surface of the water."
           },
           {
             "label": "F",
-            "content": "The reflected sound energy is detected by underwater microphones – called"
+            "text": "The reflected sound energy is detected by underwater microphones - called\nhydrophones - embedded in a 50-meter-long cable that is towed behind the\nboat as it crosses the lake in a carefully designed grid pattern. On-board\ncomputers record the signals, and the resulting data are then processed and\nanalyzed in the laboratory. \"The results will give us a good idea of the shape of\nthe basin, how thick the layers of sediment are, and when and where there\nwere major changes in sediment accumulation,\" Scholz says. \"We are now\ndeveloping a three-dimensional perspective of the lake's subsurface and the\nlayers of sediment that have been laid down.\""
           },
           {
             "label": "G",
-            "content": "Team members spent about four weeks in Ghana collecting the data. They"
+            "text": "Team members spent about four weeks in Ghana collecting the data. They\nworked seven days a week, arriving at the lake just after sunrise. On a good\nday, when everything went as planned, the team could collect data and be\nback at the dock by early afternoon. Except for a few relatively minor\nadjustments, the equipment and the boat worked well. Problems that arose\nwere primarily non-scientific - tree stumps, fishing nets, cultural barriers, and\noccasional misunderstandings with local villagers."
+          },
+          {
+            "label": "H",
+            "text": "Lake Bosumtwi, the largest natural freshwater lake in the country, is sacred to\nthe Ashanti people, who believe their souls come to the lake to bid farewell to\ntheir god. The lake is also the primary source of fish for the 26 surrounding\nvillages. Conventional canoes and boats are forbidden. Fishermen travel on the\nlake by floating on traditional planks they propel with small paddles. Before the\nresearch project could begin, Scholz and his Ghanaian counterparts had to\nsecure special permission from tribal chiefs to put the R/V Kilindi on the lake."
+          },
+          {
+            "label": "I",
+            "text": "When the team began gathering data, rumors flew around the lake as to why\nthe researchers were there. \"Some thought we were dredging the lake for gold,\nothers thought we were going to drain the lake or that we had bought the\nlake,\" Cattaneo says. \"But once the local people understood why we were\nthere, they were very helpful.\""
           }
-        ]
+        ],
+        "text": "Detection of a meteorite Lake\n\nAs the sun rose over picturesque Lake Bosumtwi, a team of Syracuse\nUniversity researchers prepared for another day of using state-of-the-art\nequipment to help bottom. Nestled in the heart of Ghana, the lake holds an\nuntapped reservoir of information that could help scientists predict future\nclimate changes by looking at evidence from the past. This information will also\nimprove the scientists' understanding of the changes that occur in a region\nstruck by a massive meteorite.\n\nThe project, led by earth sciences professor Christopher Scholz of the College\nof Arts and Sciences and funded by the National Science Foundation (NSF), is\nthe first large-scale effort to study Lake Bosumtwi, which formed 1.1 million\nyears ago when a giant meteor crashed into the Earth's surface. The resulting\ncrater is one of the largest and most well-preserved geologically young craters\nin the world, says Scholz, who is collaborating on the project with researchers\nfrom the University of Arizona, the University of South Carolina, the University\nof Rhode Island, and several Ghanaian institutions. \"Our data should provide\ninformation about what happens when an impact hits hard, pre-Cambrian,\ncrystalline rocks that are a billion years old,\" he says.\n\nEqually important is the fact that the lake, which is about 8 kilometers in\ndiameter, has no natural outlet. The rim of the crater rises about 250 meters\nabove the water's surface. Streams flow into the lake, Scholz says, but the\n\nwater leaves only by evaporation, or by seeping through the lake sediments.\nFor the past million years, the lake has acted as a tropical rain gauge, filling\nand drying with changes in precipitation and the tropical climate. The record of\nthose changes is hidden in the sediment below the lake bottom. \"The lake is\none of the best sites in the world for the study of tropical climate changes,\"\nScholz says. \"The tropics are the heat engine for the Earth's climate. To\nunderstand the global climate, we need to have records of climate changes\nfrom many sites around the world, including the tropics.\"\n\nBefore the researchers could explore the lake's subsurface, they needed a boat\nwith a large, working deck area that could carry eight tons of scientific\nequipment. The boat - dubbed R/V Kilindi - was built in Florida last year. It was\nconstructed in modules that were dismantled, packed inside a shipping\ncontainer, and reassembled over a 10-day period in late November and early\nDecember 1999 in the rural village of Abono, Ghana. The research team then\nspent the next two weeks testing the boat and equipment before returning to\nthe United States for the holidays.\n\nIn mid-January, five members of the team - Keely Brooks, an earth sciences\ngraduate student; Peter Cattaneo, a research analyst; and Kiram Lezzar, a\npostdoctoral scholar, all from SU; James McGill, a geophysical field engineer;\nand Nick Peters, a Ph.D. student in geophysics from the University of Miami -\nreturned to Abono to begin collecting data about the lake's subsurface using a\ntechnique called seismic reflection profiling. In this process, a high-pressure air\ngun is used to create small, pneumatic explosions in the water. The sound\nenergy penetrates about 1,000 to 2,000 meters into the lake's subsurface\nbefore bouncing back to the surface of the water.\n\nThe reflected sound energy is detected by underwater microphones - called\nhydrophones - embedded in a 50-meter-long cable that is towed behind the\nboat as it crosses the lake in a carefully designed grid pattern. On-board\ncomputers record the signals, and the resulting data are then processed and\nanalyzed in the laboratory. \"The results will give us a good idea of the shape of\nthe basin, how thick the layers of sediment are, and when and where there\nwere major changes in sediment accumulation,\" Scholz says. \"We are now\ndeveloping a three-dimensional perspective of the lake's subsurface and the\nlayers of sediment that have been laid down.\"\n\nTeam members spent about four weeks in Ghana collecting the data. They\nworked seven days a week, arriving at the lake just after sunrise. On a good\nday, when everything went as planned, the team could collect data and be\nback at the dock by early afternoon. Except for a few relatively minor\nadjustments, the equipment and the boat worked well. Problems that arose\nwere primarily non-scientific - tree stumps, fishing nets, cultural barriers, and\noccasional misunderstandings with local villagers.\n\nLake Bosumtwi, the largest natural freshwater lake in the country, is sacred to\nthe Ashanti people, who believe their souls come to the lake to bid farewell to\ntheir god. The lake is also the primary source of fish for the 26 surrounding\nvillages. Conventional canoes and boats are forbidden. Fishermen travel on the\nlake by floating on traditional planks they propel with small paddles. Before the\nresearch project could begin, Scholz and his Ghanaian counterparts had to\nsecure special permission from tribal chiefs to put the R/V Kilindi on the lake.\n\nWhen the team began gathering data, rumors flew around the lake as to why\nthe researchers were there. \"Some thought we were dredging the lake for gold,\nothers thought we were going to drain the lake or that we had bought the\nlake,\" Cattaneo says. \"But once the local people understood why we were\nthere, they were very helpful.\"",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "There are three steps of collecting data from the lake as follows. Complete the flow chart below. Write your answers in boxes 32-35 on your answer sheet.",
+          "body": "Collecting data from the lake. Step 1: a [[32]] is needed to creat the explosion into the water. Step 2: the [[33]] enters deep into the water and return back. Step 3: a 50-meter [[34]] with many [[35]] embeded.",
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraph of Reading Passage. Using NO MORE THAN THREE WORDS from the Reading Passage for each answer. Write your answers in boxes 36-40 on your answer sheet. The boat-double R/V Kilindi crossed the lake was dismantled and stored in",
+          "body": "a [[36]] . The technology they used called [[37]] ; They created sound energy into 1000-2000 metres into the bottom of the lake and used separate equipment to collect the returned waves. Then the data had been analyzed and processed in the [[38]] Scholz also added that they were now building [[39]] . View of the sediment or sub-image in the bottom of the lake. The whole set of equipment works well yet the ship should avoid physical barrier including tree stumps or [[40]] . Floating on the surface of the lake.",
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "true-false-not-given",
-          "prompt": "With the investigation of the lake, the scientist may predict the climate changes in the future.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "With the investigation of the lake, the scientist may\npredict the climate changes in the future.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 28,
           "type": "true-false-not-given",
-          "prompt": "The crater resulted from a meteorite impact is the largest and most preserved one in the world.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "The crater resulted from a meteorite impact is the\nlargest and most preserved one in the world.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 29,
           "type": "true-false-not-given",
-          "prompt": "The water stored in lake Bosumtwi was gone only by seeping through the lake sediments.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g1",
+          "prompt": "The water stored in lake Bosumtwi was gone only by\nseeping through the lake sediments.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 30,
           "type": "true-false-not-given",
-          "prompt": "Historical climate changes can be detected by the analysis of the sediment in the lake.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g1",
+          "prompt": "Historical climate changes can be detected by the\nanalysis of the sediment in the lake.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 31,
           "type": "true-false-not-given",
-          "prompt": "The greatest obstacle to the research of scientists had been the interference by the locals due to their indigenous There are three steps of collecting data from the lake as followings, please fill the blanks in the Flow Chart below:",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 27-31 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g1",
+          "prompt": "The greatest obstacle to the research of scientists had\nbeen the interference by the locals due to their indigenous",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "air gun",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "sound energy/ sound wave",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "cable",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "hydrophones/ underwater microphones",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "shipping container",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "seismic reflection profiling",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "laboratory",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "three-dimensional",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fishing nets",
+          "trap": null
         }
       ]
     }
@@ -408,7 +1183,7 @@
     "32": "air gun",
     "33": "sound energy/ sound wave",
     "34": "cable",
-    "35": "hydrophones/ underwater",
+    "35": "hydrophones/ underwater microphones",
     "36": "shipping container",
     "37": "seismic reflection profiling",
     "38": "laboratory",

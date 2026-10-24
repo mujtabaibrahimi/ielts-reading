@@ -1,0 +1,29 @@
+{
+  "p2g4": {
+    "_keepImage": true,
+    "_reason": "Each question is 'choose the correct answer or answers' with multi-letter keys (25 'A,B', 26 'A,D'); cannot map to single inputs."
+  },
+  "_orphans": {
+    "27": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "28": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "29": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "30": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "31": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "32": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "33": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "34": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "35": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "36": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "37": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "38": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "39": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer.",
+    "40": "The source test has only two passages and 26 questions (its answer key ends at 26); Q27-40 are converter padding with no wording or answer."
+  },
+  "_answers": {
+    "18": "A,C,D,E,F",
+    "19": "A,C,D,E,F",
+    "20": "A,C,D,E,F",
+    "21": "A,C,D,E,F",
+    "22": "A,C,D,E,F"
+  }
+}

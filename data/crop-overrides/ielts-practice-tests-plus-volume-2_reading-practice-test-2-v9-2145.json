@@ -1,0 +1,149 @@
+{
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Complete the table below using the list of words (A-K) from the box. Write the correct letter, A-K, for each answer. Title: Kuijpers' noise-reducing road: components and function.",
+    "optionBank": {
+      "title": "List of words",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "labels": [
+        "frequencies",
+        "the engine",
+        "rubbish",
+        "resonators",
+        "air flow",
+        "dissipation",
+        "sound energy",
+        "pores",
+        "lanes",
+        "drainage",
+        "sources"
+      ]
+    },
+    "questions": {
+      "36": {
+        "prompt": "Upper and lower layer (stones): reduce oscillations caused by ___",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      },
+      "37": {
+        "prompt": "Upper and lower layer (stones): create pores which help ___",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      },
+      "38": {
+        "prompt": "Foundation layer (slots): convert ___ to heat",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      },
+      "39": {
+        "prompt": "Foundation layer (slots): help to remove ___",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      },
+      "40": {
+        "prompt": "Foundation layer (slots): can be adapted to absorb different ___",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K"
+        ]
+      }
+    }
+  },
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Road cross-section diagram is missing from the source crop (only the instruction and blank answer lines 33-35 are present); cannot transcribe without inventing."
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        26
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D.",
+    "questions": {
+      "26": {
+        "prompt": "Which of the following is the most suitable title for Reading Passage 2?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Blind to change: how is it that the west has ignored Asian cinema for so long?",
+          "A different basis: how has the cinema of Asian countries been shaped by their cultures and beliefs?",
+          "Outside Asia: how did the origins of cinema affect its development worldwide?",
+          "Two cultures: how has western cinema tried to come to terms with the challenge of the Asian market?"
+        ]
+      }
+    }
+  }
+}

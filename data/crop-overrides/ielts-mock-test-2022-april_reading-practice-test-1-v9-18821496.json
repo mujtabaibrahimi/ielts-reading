@@ -1,0 +1,19 @@
+{
+  "p1g3": {
+    "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 8-11 on your answer sheet.",
+    "questions": {
+      "8": {
+        "prompt": "Label 8: the part at the very top of the balloon (arrow pointing down at the crown)"
+      },
+      "9": {
+        "prompt": "Label 9: the whole main body of the balloon (bracket from top to bottom)"
+      },
+      "10": {
+        "prompt": "Label 10: the small horizontal sections within one vertical stripe"
+      },
+      "11": {
+        "prompt": "Label 11: the vertical stripes running down the balloon (two arrows)"
+      }
+    }
+  }
+}

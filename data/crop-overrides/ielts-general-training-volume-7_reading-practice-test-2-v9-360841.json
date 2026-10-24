@@ -1,0 +1,185 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "For which advertisement are the following statements true? Write the appropriate letter A-E.",
+    "optionBank": {
+      "title": "Advertisements",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "Which advertisement is not for a restaurant?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "2": {
+        "prompt": "Which restaurant serves Italian Food?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "3": {
+        "prompt": "Which restaurant offers an extra serving if the customer presents a coupon?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "4": {
+        "prompt": "Which restaurant does not have takeaway?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "5": {
+        "prompt": "Which restaurant does not charge for wine that customers bring themselves?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p2g1": {
+    "clearImages": true,
+    "instruction": "From the list of course titles below, choose the most suitable title for Courses A-E. Write the correct number, i-ix. NB: There are more titles than you will need.",
+    "optionBank": {
+      "title": "List of Course Titles",
+      "options": [
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "ix"
+      ],
+      "labels": [
+        "Managing Small Businesses",
+        "Making Career Changes for Women",
+        "Effective Workplace Communication",
+        "Exceptional Customer Service",
+        "Computer Skills for the Workplace",
+        "Communicating Effectively",
+        "Introductory Computer Skills",
+        "Restaurant Management for Beginners",
+        "Business Writing Course"
+      ]
+    },
+    "questions": {
+      "15": {
+        "prompt": "Course A",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "16": {
+        "prompt": "Course B",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "17": {
+        "prompt": "Course C",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "18": {
+        "prompt": "Course D",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "19": {
+        "prompt": "Course E",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      }
+    }
+  },
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER from the text for each answer.",
+    "body": "Activity table with columns Activity, What to bring or wear, What is supplied, Chief Attraction, Duration. Early Morning Stroll: Chief Attraction is birdsong, Duration is [[6]]. Morning Walk: bring or wear [[7]], Chief Attraction is varied landscape and birds, Duration is 3 hours. Poetry around a mid-winter campfire: bring or wear warm clothes, mug, rug or chair, supplied [[8]], Duration is 2.5 hours. Activity [[9]]: bring or wear [[10]], supplied coffee and biscuits, Chief Attraction is a lovely water view, Duration is 2 hours. Bairne or Basin track: bring or wear [[11]], Chief Attraction is Pittwater views, Duration is 6 hours."
+  },
+  "p2g3": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 23-27 on your answer sheet.",
+    "body": "CAREER PLANNING PROCESS. Reason: making an [[23]] to avoid disappointment. Collecting information about yourself: Defining [[24]] you do well; Settling on things that are important. Researching possibilities: Reviewing the range of career options; Excluding less [[25]] fields. Mapping out a pathway: Setting career goals, based on job growth, remuneration and [[26]]; Looking at long- and short-term goals in terms of a [[27]]. Making a move: Getting in touch with prospective live employers."
+  },
+  "_answers": {
+    "38": "C,E,H",
+    "39": "C,E,H",
+    "40": "C,E,H"
+  }
+}

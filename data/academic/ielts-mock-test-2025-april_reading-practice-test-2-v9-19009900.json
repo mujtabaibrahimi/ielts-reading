@@ -1,138 +1,953 @@
 {
   "id": "ielts-mock-test-2025-april_reading-practice-test-2-v9-19009900",
   "type": "academic",
-  "source": "ielts-mock-test-2025-april reading-practice-test-2-v9-19009900",
+  "title": "IELTS Academic 2025 April - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2025",
+  "testNumber": 2,
+  "year": 2025,
+  "month": 4,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2025-april_reading-practice-test-2-v9-19009900.pdf",
-  "total_questions": 7,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text on the next page and answer Questions 1-13."
+          },
+          {
+            "label": null,
+            "text": "Prison: The Solution or the Problem?"
+          },
+          {
+            "label": null,
+            "text": "In the Netherlands and parts of the USA such as Johnson County, a move\ntowards rehabilitation of offenders and decreasing crime has seen a reduction\nin incarceration rates. Bucking this trend, the UK's prison population has\nincreased by an average rate of 3.6% per year since 1993. As the situation\ncurrently stands, England's and Wales' incarceration rate is 148 per 100,000\ncompared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a\nshadow of a doubt, out of all European countries, the UK has adopted the most\nhardline approach to offenders."
+          },
+          {
+            "label": null,
+            "text": "The trend towards imposing prison sentences on offenders in the UK is made to\nseem all the more harsh since the Dutch Justice Ministry is actively in the\nprocess of systematically closing down prisons. In the period between 2010-\n2015, 28 prisons were closed in total. If anything, the Dutch reform of the\nprison system has been accelerating at a phenomenal pace, with 19 of the\nprisons being shut down in 2014 alone."
+          },
+          {
+            "label": null,
+            "text": "As would be expected, closures of prisons in the Netherlands have led to a\ndrop in the numbers of incarcerated offenders. This is also largely due to the\nfact that those convicted are choosing electronic tagging instead of\nincarceration. However, there is more to these statistics than meets the eye.\nDefying all expectations of the pro-incarceration lobbyists, crime rates in the\nNetherlands are also actually decreasing in direct proportion to the closure of\nprisons."
+          },
+          {
+            "label": null,
+            "text": "With such statistics laid bare for all to see, many are now beginning to question\nthe validity of incarceration as a method of reforming offenders. All the more so\nsince the average prison place costs the taxpayer £37,648 per year - a hefty\nsum for a service that fails to deliver, especially since there are vastly cheaper"
+          },
+          {
+            "label": null,
+            "text": "and more effective methods to deal with offenders. Allowing offenders to be\ntagged electronically rather than be incarcerated would save around £35\nmillion per year for every 1000 convicted offenders. Serving a probation or\ncommunity service order would also be 12 times less costly than the average\nprison placement for an offender."
+          },
+          {
+            "label": null,
+            "text": "More tellingly, a decreased incidence of relapse into criminal behaviour when\noffenders receive a community sentence, rather than a custodial one, has been\nrevealed in re-offending statistics issued by the UK Ministry of Justice. There is\ndefinitely an argument that serving a prison term tends to create rather than\nalleviate the problem of crime. As a Conservative white paper concluded in\n1990, 'We know that prison is an expensive way of making bad people worse.'\nInterestingly, the report also argued that there should be a range of\ncommunity-based sentences which would be cheaper and more effective\nalternatives to prison."
+          },
+          {
+            "label": null,
+            "text": "Quite apart from the cost and relative ineffectiveness of incarceration is the\nshort-sightedness of imposing a custodial sentence in the first place. A punitive\nsystem of incarceration presupposes that the prisoner needs to be punished for\nbad behaviour. Since the prisoner is considered answerable for their behaviour,\nit is believed that they are also completely responsible for their actions. Such\nan approach overlooks social and economic factors that can play an integral\nrole in the incidence of crime. Such an oversight only serves to perpetuate\ncrime and punish offenders who need help rather than a penal sentence."
+          },
+          {
+            "label": null,
+            "text": "It would do no harm for the UK to look to the Netherlands for an example in\nreducing crime through addressing social problems as a key to reducing\nincarceration. In the Netherlands, the focus is on deterring crime by investing\nin social services rather than seeking purely to punish the offender. In addition,\nthose who do offend are helped with rehabilitation programmes."
+          },
+          {
+            "label": null,
+            "text": "Overlooking the social circumstances of the offender can also be detrimental to\nchildren's welfare, especially if a mother is convicted and given a custodial\nsentence. Often childcare arrangements are not in place when custodial\nsentences are handed down to mothers caring for children. In fact, research\nsuggests that more than half of the women who go to court are not expecting a\ncustodial sentence, leading to provisions made for the children being\nhaphazard at best. The number of children who fall foul of the custodial system\nin this way totals a staggering 17,000 per year. Worse still, figures show that\nadult children of imprisoned mothers are more likely to be convicted of a crime\nthan adult children of imprisoned fathers. Viewing the offender and their crime\nin isolation and disregarding all other social and environmental factors is"
+          },
+          {
+            "label": null,
+            "text": "therefore mistaken, if not downright morally reprehensible."
+          },
+          {
+            "label": null,
+            "text": "All evidence would seem to point to a much needed shake-up of the English\npenal system. As things stand, there are too many losers and no identifiable\nwinners. It was Dostoevsky who said: 'The degree of civilisation in a society is\nrevealed by entering its prisons.' Maybe we would do better to go one step\nfurther and amend his quotation to 'The degree of civilisation in a society is\nrevealed by not having prisons and instead by addressing social issues in\nsociety itself.'"
+          }
+        ],
+        "text": "Read the text on the next page and answer Questions 1-13.\n\nPrison: The Solution or the Problem?\n\nIn the Netherlands and parts of the USA such as Johnson County, a move\ntowards rehabilitation of offenders and decreasing crime has seen a reduction\nin incarceration rates. Bucking this trend, the UK's prison population has\nincreased by an average rate of 3.6% per year since 1993. As the situation\ncurrently stands, England's and Wales' incarceration rate is 148 per 100,000\ncompared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a\nshadow of a doubt, out of all European countries, the UK has adopted the most\nhardline approach to offenders.\n\nThe trend towards imposing prison sentences on offenders in the UK is made to\nseem all the more harsh since the Dutch Justice Ministry is actively in the\nprocess of systematically closing down prisons. In the period between 2010-\n2015, 28 prisons were closed in total. If anything, the Dutch reform of the\nprison system has been accelerating at a phenomenal pace, with 19 of the\nprisons being shut down in 2014 alone.\n\nAs would be expected, closures of prisons in the Netherlands have led to a\ndrop in the numbers of incarcerated offenders. This is also largely due to the\nfact that those convicted are choosing electronic tagging instead of\nincarceration. However, there is more to these statistics than meets the eye.\nDefying all expectations of the pro-incarceration lobbyists, crime rates in the\nNetherlands are also actually decreasing in direct proportion to the closure of\nprisons.\n\nWith such statistics laid bare for all to see, many are now beginning to question\nthe validity of incarceration as a method of reforming offenders. All the more so\nsince the average prison place costs the taxpayer £37,648 per year - a hefty\nsum for a service that fails to deliver, especially since there are vastly cheaper\n\nand more effective methods to deal with offenders. Allowing offenders to be\ntagged electronically rather than be incarcerated would save around £35\nmillion per year for every 1000 convicted offenders. Serving a probation or\ncommunity service order would also be 12 times less costly than the average\nprison placement for an offender.\n\nMore tellingly, a decreased incidence of relapse into criminal behaviour when\noffenders receive a community sentence, rather than a custodial one, has been\nrevealed in re-offending statistics issued by the UK Ministry of Justice. There is\ndefinitely an argument that serving a prison term tends to create rather than\nalleviate the problem of crime. As a Conservative white paper concluded in\n1990, 'We know that prison is an expensive way of making bad people worse.'\nInterestingly, the report also argued that there should be a range of\ncommunity-based sentences which would be cheaper and more effective\nalternatives to prison.\n\nQuite apart from the cost and relative ineffectiveness of incarceration is the\nshort-sightedness of imposing a custodial sentence in the first place. A punitive\nsystem of incarceration presupposes that the prisoner needs to be punished for\nbad behaviour. Since the prisoner is considered answerable for their behaviour,\nit is believed that they are also completely responsible for their actions. Such\nan approach overlooks social and economic factors that can play an integral\nrole in the incidence of crime. Such an oversight only serves to perpetuate\ncrime and punish offenders who need help rather than a penal sentence.\n\nIt would do no harm for the UK to look to the Netherlands for an example in\nreducing crime through addressing social problems as a key to reducing\nincarceration. In the Netherlands, the focus is on deterring crime by investing\nin social services rather than seeking purely to punish the offender. In addition,\nthose who do offend are helped with rehabilitation programmes.\n\nOverlooking the social circumstances of the offender can also be detrimental to\nchildren's welfare, especially if a mother is convicted and given a custodial\nsentence. Often childcare arrangements are not in place when custodial\nsentences are handed down to mothers caring for children. In fact, research\nsuggests that more than half of the women who go to court are not expecting a\ncustodial sentence, leading to provisions made for the children being\nhaphazard at best. The number of children who fall foul of the custodial system\nin this way totals a staggering 17,000 per year. Worse still, figures show that\nadult children of imprisoned mothers are more likely to be convicted of a crime\nthan adult children of imprisoned fathers. Viewing the offender and their crime\nin isolation and disregarding all other social and environmental factors is\n\ntherefore mistaken, if not downright morally reprehensible.\n\nAll evidence would seem to point to a much needed shake-up of the English\npenal system. As things stand, there are too many losers and no identifiable\nwinners. It was Dostoevsky who said: 'The degree of civilisation in a society is\nrevealed by entering its prisons.' Maybe we would do better to go one step\nfurther and amend his quotation to 'The degree of civilisation in a society is\nrevealed by not having prisons and instead by addressing social issues in\nsociety itself.'",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "table-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "body": "A decrease in crime in the Netherlands and parts of the US is attributable more to the [[1]] than to their incarceration. Closure of prisons in the Netherlands [[2]] at an unprecedented rate over recent years. Against [[3]], the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many [[4]] of such a practice. In fact, incarceration may serve to fuel rather [[5]] crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and [[6]] were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of [[7]] influences.",
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Do the following statements agree with the information given in the text? For questions 8-13, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": "[[8]] Mothers who receive a custodial sentence are worse role models for their children than fathers who receive similar justice. [[9]] Custodial sentences are intended primarily to reform prisoners. [[10]] Factors other than an individual's guilt are rarely taken into account by the English judicial system. [[11]] A proven link exists between mothers receiving a custodial sentence and their offspring committing crimes in later life. [[12]] The English judicial system stands to benefit from incarcerating offenders. [[13]] There are signs that custodial sentences are becoming less popular in the UK.",
+          "range": [
+            8,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 8,
-          "type": "true-false-not-given",
-          "prompt": "Mothers who receive a custodial sentence are worse role models for their children than fathers who receive similar justice.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
-          "answer": "NOT GIVEN",
+          "number": 1,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
           "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "rehabilitation of offenders",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "has been accelerating",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "all expectations",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "question the validity",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "than alleviate",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "more effective alternatives",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "table-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "social and economic",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Mothers who receive a custodial sentence are worse",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 9,
-          "type": "true-false-not-given",
-          "prompt": "Custodial sentences are intended primarily to reform prisoners.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Custodial sentences are intended primarily to reform",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 10,
-          "type": "true-false-not-given",
-          "prompt": "Factors other than an individual’s guilt are rarely taken into account by the English judicial system.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Factors other than an individual's guilt are rarely\ntaken into account by the English judicial system.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 11,
-          "type": "true-false-not-given",
-          "prompt": "A proven link exists between mothers receiving a custodial sentence and their offspring committing crimes in later life.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "A proven link exists between mothers receiving a\ncustodial sentence and their offspring committing crimes in later life.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "TRUE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 12,
-          "type": "true-false-not-given",
-          "prompt": "The English judicial system stands to benefit from incarcerating offenders.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "The English judicial system stands to benefit from\nincarcerating offenders.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         },
         {
           "number": 13,
-          "type": "true-false-not-given",
-          "prompt": "There are signs that custodial sentences are becoming less popular in the UK.",
-          "instruction": "Read the text on the next page and answer Questions 1-13. Prison: The Solution or the Problem? In the Netherlands and parts of the USA such as Johnson County, a move towards rehabilitation of offenders and decreasing crime has seen a reduction in incarceration rates. Bucking this trend, the UK's prison population has increased by an average rate of 3.6% per year since 1993. As the situation currently stands, England's and Wales' incarceration rate is 148 per 100,000 compared to 98 in France, 82 in the Netherlands and 79 in Germany. Without a shadow of a doubt, out of all European countries, the UK has adopted the most hardline approach to offenders. The trend towards imposing prison sentences on offenders in the UK is made to seem all the more harsh since the Dutch Justice Ministry is actively in the process of systematically closing down prisons. In the period between 2010- 2015, 28 prisons were closed in total. If anything, the Dutch reform of the prison system has been accelerating at a phenomenal pace, with 19 of the prisons being shut down in 2014 alone. As would be expected, closures of prisons in the Netherlands have led to a drop in the numbers of incarcerated offenders. This is also largely due to the fact that those convicted are choosing electronic tagging instead of incarceration. However, there is more to these statistics than meets the eye. Defying all expectations of the pro-incarceration lobbyists, crime rates in the Netherlands are also actually decreasing in direct proportion to the closure of prisons. With such statistics laid bare for all to see, many are now beginning to question the validity of incarceration as a method of reforming offenders. All the more so since the average prison place costs the taxpayer £37,648 per year - a hefty sum for a service that fails to deliver, especially since there are vastly cheaper bad behaviour. Since the prisoner is considered answerable for their behaviour, it is believed that they are also completely responsible for their actions. Such an approach overlooks social and economic factors that can play an integral role in the incidence of crime. Such an oversight only serves to perpetuate crime and punish offenders who need help rather than a penal sentence. It would do no harm for the UK to look to the Netherlands for an example in reducing crime through addressing social problems as a key to reducing incarceration. In the Netherlands, the focus is on deterring crime by investing in social services rather than seeking purely to punish the offender. In addition, those who do offend are helped with rehabilitation programmes. Overlooking the social circumstances of the offender can also be detrimental to children's welfare, especially if a mother is convicted and given a custodial sentence. Often childcare arrangements are not in place when custodial sentences are handed down to mothers caring for children. In fact, research suggests that more than half of the women who go to court are not expecting a custodial sentence, leading to provisions made for the children being haphazard at best. The number of children who fall foul of the custodial system in this way totals a staggering 17,000 per year. Worse still, figures show that adult children of imprisoned mothers are more likely to be convicted of a crime than adult children of imprisoned fathers. Viewing the offender and their crime in isolation and disregarding all other social and environmental factors is Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer. A decrease in crime in the Netherlands and parts of the US is attributable more to the 1 than to their incarceration. Closure of prisons in the Netherlands 2 at an unprecedented rate over recent years. Against 3 the Netherlands are seeing a drop in crime along with the closure of prisons. Since statistics do not support the argument for incarceration this has made many 4 of such a practice. In fact, incarceration may serve to fuel rather 5 crime, thereby defeating the purpose of such a punishment. In recognition of the fact that custodial sentences achieve little, less costly and 6 were put forward by the Conservatives in 1990. Crime is not only down to individual behaviour but is also a result of 7 influences. Do the following statements agree with the information given in the text? For questions 8-13, write",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "There are signs that custodial sentences are becoming\nless popular in the UK.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
           "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
-          ]
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 14-26."
+          },
+          {
+            "label": null,
+            "text": "Physiology and Criminality"
+          },
+          {
+            "label": null,
+            "text": "Prior to the 19th century, criminality was considered more of a moral or\nphilosophical issue. Only with the advent of Italian anthropologist Cesare\nLombroso did the subject of criminality take a more scientific turn. With the\npublication of his theories of criminal behaviour, Lombroso advanced the idea\nthat criminal behaviour was attributable to physiological disposition rather than\nto any existential reasons."
+          },
+          {
+            "label": null,
+            "text": "In his 'atavistic form' theory published in 1876, Lombroso claimed that\ncriminality was heritable. He proposed that a distinct biological class of people\nwere prone to criminality. Such people, he claimed, exhibited 'atavistic' or\nprimitive features and were 'throwbacks', bearing physical resemblances to\nMan's predecessors, the Neanderthals. Characterised by a strong, well-defined\njaw and heavy brow, they certainly had little to recommend them in the beauty\nstakes. With such features, coupled with a tendency towards criminal\nbehaviour, Lombroso's atavistic type was certainly not cut out for social\nsuccess. Just for good measure, Lombroso also included other distinguishing\nfeatures to identify criminals, such as bloodshot eyes and curly hair for\nmurderers and thick lips and protruding ears for sex offenders. It has to be\nwondered, given the unusual appearance with which they were credited, how\nsuch individuals would have got close enough to their victims to begin with\nand, more to the point, how any such criminals hoped to get away with their\ncrime, seeing as they were so readily identifiable."
+          },
+          {
+            "label": null,
+            "text": "In hindsight, Lombroso's hypothesis seems ludicrous and deeply flawed. One\nmajor failing in Lombroso's theory of an atavistic type is that no proper controls\nwere used in studies designed to support his hypo-thesis. All individuals were\nconfined to a criminal population, no comparison being made at the time with"
+          },
+          {
+            "label": null,
+            "text": "non-criminal control groups. Secondly, the concept of what constitutes a crime\nis in itself a social construct and can vary cross-culturally and over time.\nTherefore, the argument that criminal behaviour is inherited is hard to sustain.\nFinally, in the light of modern genetic research, complex behaviours are not\nconsidered to be controlled by single genes, thereby completely ruling out any\npossibility of inherited criminality."
+          },
+          {
+            "label": null,
+            "text": "Surprisingly, given his strong conviction of a biological disposition towards\ncriminality, Lombroso later modified his views to admit environmental\ninfluences in determining criminal behaviour. Such views now form the basis of\ncontemporary theories of criminality. In recognition of this fact, contemporary\ncriminologists have bestowed on Lombroso the honorary title 'the father of\ncriminology'. Furthermore, despite scientific failings in his experimental\napproach, Lombroso is to be credited with shifting the study of criminal\nbehaviour from a moral basis to an empirical one, thereby placing the study of\ncriminology on a more scientific footing."
+          },
+          {
+            "label": null,
+            "text": "The argument for a biological basis to criminality resurfaced, however, nearly a\ncentury later with Sheldon's theory of somatotypes. In 1949, Sheldon advanced\nthe theory that individuals fell within three broad physical types: the\nectomorph, mesomorph and endomorph. The ectomorph was essentially thin,\nthe mesomorph muscular and athletic, whilst the endomorph type was said to\nbe fat and rather lethargic. Each physical type, Sheldon claimed, was\nassociated with a distinct personality and temperament. Ectomorphs were\ncharacterised by a solitary and restrained nature, whilst mesomorphs were said\nto be adventurous and endomorphs relaxed and pleasure-loving. Unfortunately\nfor the mesomorphs, Sheldon also claimed that those corresponding to this\nphysical type had criminal tendencies. By linking inherited physical types with\npersonality, Sheldon thereby was hypothesising a hereditary aspect to criminal\nbehaviour. Sheldon's studies of mesomorphic college students did to some\nextent confirm his theory as did a later study conducted by Putwain and\nSammons as recently as 2002. In partial support of Sheldon's theory, an\nincreased level of testosterone associated with a mesomorphic build could\nexplain such a biological disposition towards criminality associated with a\nparticular body type. However, social prejudices and self-fulfilling prophecies\ncould also be at play in the above average correlation between mesomorphic\ntypes and criminal behaviour in society."
+          },
+          {
+            "label": null,
+            "text": "Following on from Sheldon's hypothesis, a further argument for a biological\ndisposition to criminality was proposed in the 1960s. This time, hereditary\ntendencies were linked to genetic defect or chromosomal abnormality.\nVariations of the normal 'XY' genetic component or genotype of males were"
+          },
+          {
+            "label": null,
+            "text": "hypothesised to determine criminal behaviour from homicide to violent crime.\nThe theory was based on the unproven assumption that possession of an extra\n'X' chromosome 'feminises' a man and so conversely having an extra male 'Y'\nchromosome should make a man more masculine and aggressive. However,\nthis somewhat weak hypothesis was severely undermined by the study of Epps\nin 1995. Epps demonstrated that possessing an extra 'Y' chromosome, as in\nthe 'XYY' genotype, made an individual no more likely to commit violent crime\nthan anyone else. The further finding that testosterone levels amongst 'XYY'\nmen are no different from 'XY' men and that the former are no more\naggressive than the latter sounded the final death knell for the hypothesis of a\ncriminal type determined by genotype alone."
+          },
+          {
+            "label": null,
+            "text": "At least those who place trust in rehabilitation programmes to reform criminal\ntypes can now breathe a sigh of relief. It would seem that the rather\npessimistic prognosis for individuals born with a certain physique or genotype\nno longer holds credence in scientific circles. If biological predisposition does\nplay a role in criminality, it seems to be at least tempered by environmental"
+          },
+          {
+            "label": null,
+            "text": "and social factors to a large extent."
+          }
+        ],
+        "text": "Read the text below and answer Questions 14-26.\n\nPhysiology and Criminality\n\nPrior to the 19th century, criminality was considered more of a moral or\nphilosophical issue. Only with the advent of Italian anthropologist Cesare\nLombroso did the subject of criminality take a more scientific turn. With the\npublication of his theories of criminal behaviour, Lombroso advanced the idea\nthat criminal behaviour was attributable to physiological disposition rather than\nto any existential reasons.\n\nIn his 'atavistic form' theory published in 1876, Lombroso claimed that\ncriminality was heritable. He proposed that a distinct biological class of people\nwere prone to criminality. Such people, he claimed, exhibited 'atavistic' or\nprimitive features and were 'throwbacks', bearing physical resemblances to\nMan's predecessors, the Neanderthals. Characterised by a strong, well-defined\njaw and heavy brow, they certainly had little to recommend them in the beauty\nstakes. With such features, coupled with a tendency towards criminal\nbehaviour, Lombroso's atavistic type was certainly not cut out for social\nsuccess. Just for good measure, Lombroso also included other distinguishing\nfeatures to identify criminals, such as bloodshot eyes and curly hair for\nmurderers and thick lips and protruding ears for sex offenders. It has to be\nwondered, given the unusual appearance with which they were credited, how\nsuch individuals would have got close enough to their victims to begin with\nand, more to the point, how any such criminals hoped to get away with their\ncrime, seeing as they were so readily identifiable.\n\nIn hindsight, Lombroso's hypothesis seems ludicrous and deeply flawed. One\nmajor failing in Lombroso's theory of an atavistic type is that no proper controls\nwere used in studies designed to support his hypo-thesis. All individuals were\nconfined to a criminal population, no comparison being made at the time with\n\nnon-criminal control groups. Secondly, the concept of what constitutes a crime\nis in itself a social construct and can vary cross-culturally and over time.\nTherefore, the argument that criminal behaviour is inherited is hard to sustain.\nFinally, in the light of modern genetic research, complex behaviours are not\nconsidered to be controlled by single genes, thereby completely ruling out any\npossibility of inherited criminality.\n\nSurprisingly, given his strong conviction of a biological disposition towards\ncriminality, Lombroso later modified his views to admit environmental\ninfluences in determining criminal behaviour. Such views now form the basis of\ncontemporary theories of criminality. In recognition of this fact, contemporary\ncriminologists have bestowed on Lombroso the honorary title 'the father of\ncriminology'. Furthermore, despite scientific failings in his experimental\napproach, Lombroso is to be credited with shifting the study of criminal\nbehaviour from a moral basis to an empirical one, thereby placing the study of\ncriminology on a more scientific footing.\n\nThe argument for a biological basis to criminality resurfaced, however, nearly a\ncentury later with Sheldon's theory of somatotypes. In 1949, Sheldon advanced\nthe theory that individuals fell within three broad physical types: the\nectomorph, mesomorph and endomorph. The ectomorph was essentially thin,\nthe mesomorph muscular and athletic, whilst the endomorph type was said to\nbe fat and rather lethargic. Each physical type, Sheldon claimed, was\nassociated with a distinct personality and temperament. Ectomorphs were\ncharacterised by a solitary and restrained nature, whilst mesomorphs were said\nto be adventurous and endomorphs relaxed and pleasure-loving. Unfortunately\nfor the mesomorphs, Sheldon also claimed that those corresponding to this\nphysical type had criminal tendencies. By linking inherited physical types with\npersonality, Sheldon thereby was hypothesising a hereditary aspect to criminal\nbehaviour. Sheldon's studies of mesomorphic college students did to some\nextent confirm his theory as did a later study conducted by Putwain and\nSammons as recently as 2002. In partial support of Sheldon's theory, an\nincreased level of testosterone associated with a mesomorphic build could\nexplain such a biological disposition towards criminality associated with a\nparticular body type. However, social prejudices and self-fulfilling prophecies\ncould also be at play in the above average correlation between mesomorphic\ntypes and criminal behaviour in society.\n\nFollowing on from Sheldon's hypothesis, a further argument for a biological\ndisposition to criminality was proposed in the 1960s. This time, hereditary\ntendencies were linked to genetic defect or chromosomal abnormality.\nVariations of the normal 'XY' genetic component or genotype of males were\n\nhypothesised to determine criminal behaviour from homicide to violent crime.\nThe theory was based on the unproven assumption that possession of an extra\n'X' chromosome 'feminises' a man and so conversely having an extra male 'Y'\nchromosome should make a man more masculine and aggressive. However,\nthis somewhat weak hypothesis was severely undermined by the study of Epps\nin 1995. Epps demonstrated that possessing an extra 'Y' chromosome, as in\nthe 'XYY' genotype, made an individual no more likely to commit violent crime\nthan anyone else. The further finding that testosterone levels amongst 'XYY'\nmen are no different from 'XY' men and that the former are no more\naggressive than the latter sounded the final death knell for the hypothesis of a\ncriminal type determined by genotype alone.\n\nAt least those who place trust in rehabilitation programmes to reform criminal\ntypes can now breathe a sigh of relief. It would seem that the rather\npessimistic prognosis for individuals born with a certain physique or genotype\nno longer holds credence in scientific circles. If biological predisposition does\nplay a role in criminality, it seems to be at least tempered by environmental\n\nand social factors to a large extent.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "diagram-label",
+          "instruction": "Complete the timeline below. Write NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-24 on your answer sheet.",
+          "body": "1876: No longer is criminality confined to a [[14]] realm. Italian scientist, Lombroso proposes a [[15]] to criminality. A biological theory of criminality presupposes that such a condition is [[16]]. Criminal types are claimed to be [[17]] distinctive 'atavistic' or primitive features. 1949: In common with Lombroso, Sheldon proposes a [[18]] to criminality. Body types are [[19]] particular dispositions. Mesomorphs are types considered to have [[20]]. 1960s: [[21]] is now implicated in a biological disposition towards criminality. An additional 'Y' chromosome is associated with more [[22]] males. The proposed link between criminality and genotype is [[23]] Epps' study of 1995. Today: A purely biological basis to criminality is discredited. Genetic factors are thought to be moderated by [[24]] elements.",
+          "range": [
+            14,
+            24
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose two letters, A-E.",
+          "body": null,
+          "range": [
+            25,
+            26
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Overwhelming evidence exists in support of a biological",
+              "Lombroso's experimental work has been completely discredited",
+              "Modern criminologists believe that Lombroso hindered rather",
+              "Recently there has been a shift away from the emphasis of",
+              "Biological evidence may partially support Sheldon's theory of"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 14,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "moral or philosophical",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "physiological/biological disposition",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "heritable/inherited",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "characterised by",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "hereditary aspect/biological basis",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "associated with",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "criminal tendencies",
+          "trap": null
+        },
         {
           "number": 21,
           "type": "diagram-label",
-          "prompt": "is now implicated in a biological disposition towards criminality. An additional ‘Y’ chromosome is associated with more 22 males. The proposed link between criminality and genotype is 23",
-          "instruction": "Read the text below and answer Questions 14-26. Physiology and Criminality Prior to the 19th century, criminality was considered more of a moral or philosophical issue. Only with the advent of Italian anthropologist Cesare Lombroso did the subject of criminality take a more scientific turn. With the publication of his theories of criminal behaviour, Lombroso advanced the idea that criminal behaviour was attributable to physiological disposition rather than to any existential reasons. In his 'atavistic form' theory published in 1876, Lombroso claimed that criminality was heritable. He proposed that a distinct biological class of people were prone to criminality. Such people, he claimed, exhibited 'atavistic' or primitive features and were 'throwbacks', bearing physical resemblances to Man's predecessors, the Neanderthals. Characterised by a strong, well-defined jaw and heavy brow, they certainly had little to recommend them in the beauty stakes. With such features, coupled with a tendency towards criminal behaviour, Lombroso's atavistic type was certainly not cut out for social success. Just for good measure, Lombroso also included other distinguishing features to identify criminals, such as bloodshot eyes and curly hair for murderers and thick lips and protruding ears for sex offenders. It has to be wondered, given the unusual appearance with which they were credited, how such individuals would have got close enough to their victims to begin with and, more to the point, how any such criminals hoped to get away with their crime, seeing as they were so readily identifiable. In hindsight, Lombroso's hypothesis seems ludicrous and deeply flawed. One major failing in Lombroso's theory of an atavistic type is that no proper controls were used in studies designed to support his hypo-thesis. All individuals were confined to a criminal population, no comparison being made at the time with considered to be controlled by single genes, thereby completely ruling out any possibility of inherited criminality. Surprisingly, given his strong conviction of a biological disposition towards criminality, Lombroso later modified his views to admit environmental influences in determining criminal behaviour. Such views now form the basis of contemporary theories of criminality. In recognition of this fact, contemporary criminologists have bestowed on Lombroso the honorary title 'the father of criminology'. Furthermore, despite scientific failings in his experimental approach, Lombroso is to be credited with shifting the study of criminal behaviour from a moral basis to an empirical one, thereby placing the study of criminology on a more scientific footing. The argument for a biological basis to criminality resurfaced, however, nearly a century later with Sheldon's theory of somatotypes. In 1949, Sheldon advanced the theory that individuals fell within three broad physical types: the ectomorph, mesomorph and endomorph. The ectomorph was essentially thin, the mesomorph muscular and athletic, whilst the endomorph type was said to be fat and rather lethargic. Each physical type, Sheldon claimed, was associated with a distinct personality and temperament. Ectomorphs were characterised by a solitary and restrained nature, whilst mesomorphs were said to be adventurous and endomorphs relaxed and pleasure-loving. Unfortunately for the mesomorphs, Sheldon also claimed that those corresponding to this physical type had criminal tendencies. By linking inherited physical types with personality, Sheldon thereby was hypothesising a hereditary aspect to criminal behaviour. Sheldon's studies of mesomorphic college students did to some extent confirm his theory as did a later study conducted by Putwain and Sammons as recently as 2002. In partial support of Sheldon's theory, an increased level of testosterone associated with a mesomorphic build could explain such a biological disposition towards criminality associated with a particular body type. However, social prejudices and self-fulfilling prophecies could also be at play in the above average correlation between mesomorphic types and criminal behaviour in society. Following on from Sheldon's hypothesis, a further argument for a biological disposition to criminality was proposed in the 1960s. This time, hereditary tendencies were linked to genetic defect or chromosomal abnormality. Variations of the normal 'XY' genetic component or genotype of males were Complete the timeline diagram below. Write NO MORE THAN THREE WORDS from the passage for each answer.",
-          "answer": "Chromosomal abnormality"
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Chromosomal abnormality",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "masculine and aggressive",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "severely undermined by",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "diagram-label",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "environmental and social",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "D,E",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "D,E",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read, the text on the next page and answer Questions 27-40."
+          },
+          {
+            "label": null,
+            "text": "Jack the Ripper: A Bungled Investigation?"
+          },
+          {
+            "label": null,
+            "text": "Few murder enquiries have stirred the public imagination to such an extent as\nthose relating to Jack the Ripper. The report of murders worthy of a depraved\nsavage simultaneously appalled and enthralled Victorian society as the 19th\ncentury came to a close. The unleashing of a serial killer onto the London scene\ncaught police unprepared as did the unprecedented brutality of the killings\nwhich earned their perpetrator the nickname 'Jack the Ripper'. So, given the\nheightened public interest and the existence of a police force more competent\nthan ever before since the formation of the Metropolitan Police in 1829, it has\nto be asked: why did the Ripper evade capture and why was no one even\ncharged with the five murders attributed to the Ripper?"
+          },
+          {
+            "label": null,
+            "text": "Conspiracy theorist would have us believe that the identity of the Ripper was,\ncontrary to public belief, unmasked by police. However, the truth about the\nRipper's identity proved so unpalatable that it had to be hushed up. Far-fetched\nas it may seem, Queen Victoria's grandson, Prince Albert Victor, was thought\nby some to be the Ripper himself. Whilst he did frequent places of ill repute,\nthere is no tangible evidence to support this somewhat sensationalist theory. In\nfact, the Ripper may have successfully evaded the police for far more prosaic\nreasons."
+          },
+          {
+            "label": null,
+            "text": "Back in 1888, when the Ripper began his reign of terror in the streets of\nWhitechapel, forensic science was barely in its infancy. Rudimentary\nknowledge existed as to the necessity of keeping a murder scene intact to\npreserve vital clues but the means to thoroughly analyse such evidence\nthrough DNA testing was light years away still. In fact it was only with the\npublication of Hans Gross' 'A Handbook for Examining Magistrates, Police\nOfficials, Military Police, etc.' in 1893 that the foundation for forensic science"
+          },
+          {
+            "label": null,
+            "text": "was laid. It was too late, however, to help the Ripper investigation that\nfloundered in its ignorance of modern forensic techniques."
+          },
+          {
+            "label": null,
+            "text": "The Ripper investigation also just missed out on developments in fingerprint\nidentification that might have led police to the identity of the Ripper. Nearly a\ndecade prior to the first Ripper murder, Dr. Henry Faulds had published a letter\nin the scientific journal Nature in 1880. In the letter he outlined for the first\ntime the possibility of using fingerprints for identification purposes. It was only\nin 1896 that Sir Francis Galton, Inspector General of Bengal Police, sought to\nput theory into practice. Using the new-found method of 'dactyloscopy' (later\nknown as fingerprinting) he employed the technique to successfully identify\ncriminals. Again, new technology arrived just too late for the Ripper\ninvestigators."
+          },
+          {
+            "label": null,
+            "text": "Whilst investigative police could not be blamed for a lack of forensic\nknowledge, their failure to apply known investigative methods to the crime\nscene certainly smacked of incompetence. Photographing the crime scene was\nnot exactly standard practice of the time but it was a known procedure.\nUnfortunately the officers leading the investigation at the time saw fit to only\nphotograph one of the Ripper's victims, a certain Mary Kelly, at the crime\nscene. Even more bizarrely, photographs of the victim were more centred on\nphotographing her eyes to the neglect of all else. The reason or 'forlorn hope'\nas cited by Inspector Walter Dew was that the imprint of the Ripper might have\nbeen recorded on the victim's retina at the time of her death. No conclusions\nwere drawn from the undertaking."
+          },
+          {
+            "label": null,
+            "text": "Another more serious criticism that has been levelled at the investigative\npolice at the time is their deliberate tampering with evidence. It is well-known\nthat a semi-illiterate message was scrawled above one of the Ripper's victims.\nHowever, before it could be properly analysed, the investigating officer ordered\nthat it be removed as it was thought to implicate the Jews and racial\nrepercussions were feared. the motive was well-intended but this action may\nhave destroyed vital clues."
+          },
+          {
+            "label": null,
+            "text": "A final problem was the lack of co-operation that existed not just between the\nPress and the police but also between law enforcement agencies themselves.\nWith regard to the former problem, police distrust if the Press led to limited\ninformation being released to the newspapers. This was due to a fear that\ninformation made public could alert a suspect or waste time in throwing up\nfalse leads. Unfortunately, if information had been circulated in the public\narena, important information might have been uncovered that would have led\nto the arrest of the Ripper. As regards the law enforcement agencies, in-\nfighting and rivalry between the City and Metropolitan Police Forces served to"
+          },
+          {
+            "label": null,
+            "text": "delay exchange of information and so further hinder proceedings"
+          }
+        ],
+        "text": "Read, the text on the next page and answer Questions 27-40.\n\nJack the Ripper: A Bungled Investigation?\n\nFew murder enquiries have stirred the public imagination to such an extent as\nthose relating to Jack the Ripper. The report of murders worthy of a depraved\nsavage simultaneously appalled and enthralled Victorian society as the 19th\ncentury came to a close. The unleashing of a serial killer onto the London scene\ncaught police unprepared as did the unprecedented brutality of the killings\nwhich earned their perpetrator the nickname 'Jack the Ripper'. So, given the\nheightened public interest and the existence of a police force more competent\nthan ever before since the formation of the Metropolitan Police in 1829, it has\nto be asked: why did the Ripper evade capture and why was no one even\ncharged with the five murders attributed to the Ripper?\n\nConspiracy theorist would have us believe that the identity of the Ripper was,\ncontrary to public belief, unmasked by police. However, the truth about the\nRipper's identity proved so unpalatable that it had to be hushed up. Far-fetched\nas it may seem, Queen Victoria's grandson, Prince Albert Victor, was thought\nby some to be the Ripper himself. Whilst he did frequent places of ill repute,\nthere is no tangible evidence to support this somewhat sensationalist theory. In\nfact, the Ripper may have successfully evaded the police for far more prosaic\nreasons.\n\nBack in 1888, when the Ripper began his reign of terror in the streets of\nWhitechapel, forensic science was barely in its infancy. Rudimentary\nknowledge existed as to the necessity of keeping a murder scene intact to\npreserve vital clues but the means to thoroughly analyse such evidence\nthrough DNA testing was light years away still. In fact it was only with the\npublication of Hans Gross' 'A Handbook for Examining Magistrates, Police\nOfficials, Military Police, etc.' in 1893 that the foundation for forensic science\n\nwas laid. It was too late, however, to help the Ripper investigation that\nfloundered in its ignorance of modern forensic techniques.\n\nThe Ripper investigation also just missed out on developments in fingerprint\nidentification that might have led police to the identity of the Ripper. Nearly a\ndecade prior to the first Ripper murder, Dr. Henry Faulds had published a letter\nin the scientific journal Nature in 1880. In the letter he outlined for the first\ntime the possibility of using fingerprints for identification purposes. It was only\nin 1896 that Sir Francis Galton, Inspector General of Bengal Police, sought to\nput theory into practice. Using the new-found method of 'dactyloscopy' (later\nknown as fingerprinting) he employed the technique to successfully identify\ncriminals. Again, new technology arrived just too late for the Ripper\ninvestigators.\n\nWhilst investigative police could not be blamed for a lack of forensic\nknowledge, their failure to apply known investigative methods to the crime\nscene certainly smacked of incompetence. Photographing the crime scene was\nnot exactly standard practice of the time but it was a known procedure.\nUnfortunately the officers leading the investigation at the time saw fit to only\nphotograph one of the Ripper's victims, a certain Mary Kelly, at the crime\nscene. Even more bizarrely, photographs of the victim were more centred on\nphotographing her eyes to the neglect of all else. The reason or 'forlorn hope'\nas cited by Inspector Walter Dew was that the imprint of the Ripper might have\nbeen recorded on the victim's retina at the time of her death. No conclusions\nwere drawn from the undertaking.\n\nAnother more serious criticism that has been levelled at the investigative\npolice at the time is their deliberate tampering with evidence. It is well-known\nthat a semi-illiterate message was scrawled above one of the Ripper's victims.\nHowever, before it could be properly analysed, the investigating officer ordered\nthat it be removed as it was thought to implicate the Jews and racial\nrepercussions were feared. the motive was well-intended but this action may\nhave destroyed vital clues.\n\nA final problem was the lack of co-operation that existed not just between the\nPress and the police but also between law enforcement agencies themselves.\nWith regard to the former problem, police distrust if the Press led to limited\ninformation being released to the newspapers. This was due to a fear that\ninformation made public could alert a suspect or waste time in throwing up\nfalse leads. Unfortunately, if information had been circulated in the public\narena, important information might have been uncovered that would have led\nto the arrest of the Ripper. As regards the law enforcement agencies, in-\nfighting and rivalry between the City and Metropolitan Police Forces served to\n\ndelay exchange of information and so further hinder proceedings",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "diagram-label",
+          "instruction": "Complete the diagram below. Write NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 27-32 on your answer sheet.",
+          "body": "DNA is left unexamined as no [[27]] yet is available to analyse it. Fingerprints are not used [[28]]. Only one of the Ripper's [[29]] is photographed at the crime scene. Images taken are [[30]] capturing the victim's eyes. Vital written evidence is [[31]] on the orders of a police investigator. Investigators representing rival [[32]] fail to exchange information.",
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Write NO MORE THAN THREE WORDS from the passage for each answer. What is so startling about the Ripper case is how the murderer managed to",
+          "body": "[[33]] against the odds. Only on closer investigation does the reason become more apparent. Often a [[34]] was disturbed, destroying vital evidence within it. Only later, with [[35]] a book by Hans Gross, were more scientific investigative methods introduced. Until then there was a lack of knowledge of [[36]] In 1896 Sir Francis Galton used a [[37]] method known as dactyloscopy. This method was to greatly aid the police in identifying criminals. Curiously, investigative methods known to police at the time were often not employed. Crime scene photography was rarely [[38]] for example.",
+          "range": [
+            33,
+            38
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose two letters, A-E.",
+          "body": null,
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Limited forensic knowledge probably affected the outcome of",
+              "The Ripper murders convinced the police of a need for more",
+              "Disagreement existed amongst the police as to what information",
+              "Whilst rivalry existed amongst the police, they were united in",
+              "The police investigating the Ripper murders made good use of"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "means",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "for identification purposes",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "victims",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(more) centred on",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "removed",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "diagram-label",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "law enforcement agencies",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "against the odds.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "evade capture",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "crime scene",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "the publication of",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "modern forensic techniques/forensic science",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fingerprint-ing/new-found",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "standard practice",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "multiple-choice-multi",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice-multi",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
@@ -150,16 +965,16 @@
     "12": "FALSE",
     "13": "FALSE",
     "14": "moral or philosophical",
-    "15": "physiological/biological",
+    "15": "physiological/biological disposition",
     "16": "heritable/inherited",
     "17": "characterised by",
-    "18": "hereditary aspect/biological",
+    "18": "hereditary aspect/biological basis",
     "19": "associated with",
     "20": "criminal tendencies",
     "21": "Chromosomal abnormality",
     "22": "masculine and aggressive",
     "23": "severely undermined by",
-    "24": "environmental and social",
+    "25": "D,E",
     "26": "D,E",
     "27": "means",
     "28": "for identification purposes",
@@ -170,9 +985,11 @@
     "33": "evade capture",
     "34": "crime scene",
     "35": "the publication of",
-    "36": "modern forensic",
+    "36": "modern forensic techniques/forensic science",
     "37": "fingerprint-ing/new-found",
     "38": "standard practice",
-    "40": "A,D"
+    "39": "A,D",
+    "40": "A,D",
+    "24": "environmental and social"
   }
 }

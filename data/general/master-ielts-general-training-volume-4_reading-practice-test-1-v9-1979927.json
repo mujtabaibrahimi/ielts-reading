@@ -1,126 +1,1400 @@
 {
   "id": "master-ielts-general-training-volume-4_reading-practice-test-1-v9-1979927",
   "type": "general",
-  "source": "master-ielts-general-training-volume-4 reading-practice-test-1-v9-1979927",
+  "title": "Master IELTS General Training Volume 4 - Reading Test 1",
+  "collection": "Master IELTS General Training Volume 4",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 4,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-4_reading-practice-test-1-v9-1979927.pdf",
-  "total_questions": 4,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Job Advertisements & Mobile Phone",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        6
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nJob Advertisements & Mobile Phone\nEtiquette\nTEXT 1",
-        "tables": [
+        "heading": "TEXT 1",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "Training provided\nOwn transport is essential\nCall into ABC Academy - Brook Street between 10am–2pm and ask for Jenny.\nC. Dog Walker\nAn animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek.\nEvenings preferred.\nNo weekends.\n16 years or older is ideal.\nCall 0916-202-7445 to apply.\nD. Nanny Wanted",
-                ""
-              ],
-              [
-                "To help look after two children - 2 and 5 years old.\nExperience is helpful, but patience and a willingness to learn are enough.\nAccommodation, food and pocket money provided.\nFlexible working times. Ideal for foreign students studying English.\nPlease send resume and photo to: evelyn1978@hotmail.com.\nE. 20 full-time volunteers wanted\nOne year project.\nWilling to relocate with free accommodation. Basic salary provided.\nSupporting people with disabilities and young people from broken homes.\nApplicants aged 18-65 may apply.\nExperience preferred but not essential.\nF. Web-based company\nUrgently requires a graphic designer.\nWorking knowledge of Photoshop.\nCollege graduate preferred but enthusiastic computer nerds may apply.\nSend short resume (with photo) to: MegaBites, 10 Oak Road, Ashbourne.\nG. OLDE WORLDE CAFÉ\nWaitress needed. (Full-time / Part-time)\nPrevious restaurant or café experience preferred.\nMust be physically active and able to take orders.\nSalary according to experience.",
-                null
-              ]
-            ],
-            "header": [
-              "Training provided\nOwn transport is essential\nCall into ABC Academy - Brook Street between 10am–2pm and ask for Jenny.\nC. Dog Walker\nAn animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek.\nEvenings preferred.\nNo weekends.\n16 years or older is ideal.\nCall 0916-202-7445 to apply.\nD. Nanny Wanted",
-              ""
-            ]
+            "label": null,
+            "text": "Job Advertisements & Mobile Phone\nEtiquette"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 1-6."
+          },
+          {
+            "label": null,
+            "text": "A. Waitrose - High Street Branch"
+          },
+          {
+            "label": null,
+            "text": "Position available for two cleaners."
+          },
+          {
+            "label": null,
+            "text": "Night shift and/or early morning."
+          },
+          {
+            "label": null,
+            "text": "Must be able to work unsupervised to a time limit."
+          },
+          {
+            "label": null,
+            "text": "No experience needed."
+          },
+          {
+            "label": null,
+            "text": "Must have own transport."
+          },
+          {
+            "label": null,
+            "text": "Drop in and ask for Pete Evans."
+          },
+          {
+            "label": null,
+            "text": "B. WORKSHOP PRESENTERS"
+          },
+          {
+            "label": null,
+            "text": "Do you have a bubbly, outgoing personality?"
+          },
+          {
+            "label": null,
+            "text": "Do you love working with children?"
+          },
+          {
+            "label": null,
+            "text": "Can you sing well and bring energy to a group?"
+          },
+          {
+            "label": null,
+            "text": "We are looking for someone who is responsible and positive to run musical workshops\nfor preschool children."
+          },
+          {
+            "label": null,
+            "text": "Class length: 30-45 minutes"
+          },
+          {
+            "label": null,
+            "text": "Training provided"
+          },
+          {
+            "label": null,
+            "text": "Own transport is essential"
+          },
+          {
+            "label": null,
+            "text": "Call into ABC Academy - Brook Street between 10am-2pm and ask for Jenny."
+          },
+          {
+            "label": null,
+            "text": "C. Dog Walker"
+          },
+          {
+            "label": null,
+            "text": "An animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek."
+          },
+          {
+            "label": null,
+            "text": "Evenings preferred."
+          },
+          {
+            "label": null,
+            "text": "No weekends."
+          },
+          {
+            "label": null,
+            "text": "16 years or older is ideal."
+          },
+          {
+            "label": null,
+            "text": "Call 0916-202-7445 to apply."
+          },
+          {
+            "label": null,
+            "text": "D. Nanny Wanted"
+          },
+          {
+            "label": null,
+            "text": "To help look after two children - 2 and 5 years old."
+          },
+          {
+            "label": null,
+            "text": "Experience is helpful, but patience and a willingness to learn are enough."
+          },
+          {
+            "label": null,
+            "text": "Accommodation, food and pocket money provided."
+          },
+          {
+            "label": null,
+            "text": "Flexible working times. Ideal for foreign students studying English."
+          },
+          {
+            "label": null,
+            "text": "Please send resume and photo to: evelyn1978@hotmail.com."
+          },
+          {
+            "label": null,
+            "text": "E. 20 full-time volunteers wanted"
+          },
+          {
+            "label": null,
+            "text": "One year project."
+          },
+          {
+            "label": null,
+            "text": "Willing to relocate with free accommodation. Basic salary provided."
+          },
+          {
+            "label": null,
+            "text": "Supporting people with disabilities and young people from broken homes."
+          },
+          {
+            "label": null,
+            "text": "Applicants aged 18-65 may apply."
+          },
+          {
+            "label": null,
+            "text": "Experience preferred but not essential."
+          },
+          {
+            "label": null,
+            "text": "F. Web-based company"
+          },
+          {
+            "label": null,
+            "text": "Urgently requires a graphic designer."
+          },
+          {
+            "label": null,
+            "text": "Working knowledge of Photoshop."
+          },
+          {
+            "label": null,
+            "text": "College graduate preferred but enthusiastic computer nerds may apply."
+          },
+          {
+            "label": null,
+            "text": "Send short resume (with photo) to: MegaBites, 10 Oak Road, Ashbourne."
+          },
+          {
+            "label": null,
+            "text": "G. OLDE WORLDE CAFÉ"
+          },
+          {
+            "label": null,
+            "text": "Waitress needed. (Full-time / Part-time)"
+          },
+          {
+            "label": null,
+            "text": "Previous restaurant or café experience preferred."
+          },
+          {
+            "label": null,
+            "text": "Must be physically active and able to take orders."
+          },
+          {
+            "label": null,
+            "text": "Salary according to experience."
+          },
+          {
+            "label": null,
+            "text": "Will consider: high school graduate"
+          },
+          {
+            "label": null,
+            "text": "Call 0245-67332 for interview. Ask for Mary."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 7-14."
+          },
+          {
+            "label": null,
+            "text": "Mobile Phone Etiquette"
+          },
+          {
+            "label": null,
+            "text": "Etiquette is a code of behavior that allows people to follow the standards accepted in\nsociety. Although these rules can change from country to county many similarities can\nbe found. Many of the manners we develop are based on three categories; health,\ncourtesy, and cultural norms. It is through these that we develop the customs and\nhabits of a society."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 1"
+          },
+          {
+            "label": null,
+            "text": "This is where you have to think more of others than yourself. Don't think of all those\ntimes that you had to put up with people talking on the phone in the cinema, on the\ntrain, and in the queue at McDonalds. Simply imagine all the ways other people will find\nyou annoying if you use your mobile phone."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 2"
+          },
+          {
+            "label": null,
+            "text": "The good thing about people is that sooner or later, someone will tell you that you are\nannoying them. Their request to stop talking or talk quietly might seem unreasonable\nbut if you really want to be a model mobile phone user, just follow their request."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 3"
+          },
+          {
+            "label": null,
+            "text": "To stop #2 from happening, and to keep your secrets to yourself, then keep your\ndistance - 3 metres between you and anyone else."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 4"
+          },
+          {
+            "label": null,
+            "text": "Even if you are following #3, you don't need to shout. This just makes it easier for\npeople to hear you and also to annoy them."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 5"
+          },
+          {
+            "label": null,
+            "text": "Remember, people don't want to hear your phone conversations-so they definitely\ndon't want to hear the other person either. Keep your speaker off."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 6"
+          },
+          {
+            "label": null,
+            "text": "If you don't want people talking about you, keep your personal details to yourself. This\nmeans that #3 may still reach unintended listeners. Either save the conversation for\nlater or switch to text messaging."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 7"
+          },
+          {
+            "label": null,
+            "text": "Don't multitask-it could cost you your life. Avoid using your phone while waiting in a\nqueue, and never use it while driving. Not only is this illegal in many countries, it is also\nextremely dangerous. National data show that mobile phones were involved in 350 fatal\ncrashes in 2011."
+          },
+          {
+            "label": null,
+            "text": "Etiquette # 8"
+          },
+          {
+            "label": null,
+            "text": "There are many places such as a library, museum, theatre, and hospital where,\nhopefully, common sense tells you not use your phone."
           }
         ],
+        "text": "Job Advertisements & Mobile Phone\nEtiquette\n\nRead the text below and answer Questions 1-6.\n\nA. Waitrose - High Street Branch\n\nPosition available for two cleaners.\n\nNight shift and/or early morning.\n\nMust be able to work unsupervised to a time limit.\n\nNo experience needed.\n\nMust have own transport.\n\nDrop in and ask for Pete Evans.\n\nB. WORKSHOP PRESENTERS\n\nDo you have a bubbly, outgoing personality?\n\nDo you love working with children?\n\nCan you sing well and bring energy to a group?\n\nWe are looking for someone who is responsible and positive to run musical workshops\nfor preschool children.\n\nClass length: 30-45 minutes\n\nTraining provided\n\nOwn transport is essential\n\nCall into ABC Academy - Brook Street between 10am-2pm and ask for Jenny.\n\nC. Dog Walker\n\nAn animal loving person needed to walk our two lovely Yorkshire Terriers three times a\nweek.\n\nEvenings preferred.\n\nNo weekends.\n\n16 years or older is ideal.\n\nCall 0916-202-7445 to apply.\n\nD. Nanny Wanted\n\nTo help look after two children - 2 and 5 years old.\n\nExperience is helpful, but patience and a willingness to learn are enough.\n\nAccommodation, food and pocket money provided.\n\nFlexible working times. Ideal for foreign students studying English.\n\nPlease send resume and photo to: evelyn1978@hotmail.com.\n\nE. 20 full-time volunteers wanted\n\nOne year project.\n\nWilling to relocate with free accommodation. Basic salary provided.\n\nSupporting people with disabilities and young people from broken homes.\n\nApplicants aged 18-65 may apply.\n\nExperience preferred but not essential.\n\nF. Web-based company\n\nUrgently requires a graphic designer.\n\nWorking knowledge of Photoshop.\n\nCollege graduate preferred but enthusiastic computer nerds may apply.\n\nSend short resume (with photo) to: MegaBites, 10 Oak Road, Ashbourne.\n\nG. OLDE WORLDE CAFÉ\n\nWaitress needed. (Full-time / Part-time)\n\nPrevious restaurant or café experience preferred.\n\nMust be physically active and able to take orders.\n\nSalary according to experience.\n\nWill consider: high school graduate\n\nCall 0245-67332 for interview. Ask for Mary.\n\nTEXT 2\n\nRead the text below and answer Questions 7-14.\n\nMobile Phone Etiquette\n\nEtiquette is a code of behavior that allows people to follow the standards accepted in\nsociety. Although these rules can change from country to county many similarities can\nbe found. Many of the manners we develop are based on three categories; health,\ncourtesy, and cultural norms. It is through these that we develop the customs and\nhabits of a society.\n\nEtiquette # 1\n\nThis is where you have to think more of others than yourself. Don't think of all those\ntimes that you had to put up with people talking on the phone in the cinema, on the\ntrain, and in the queue at McDonalds. Simply imagine all the ways other people will find\nyou annoying if you use your mobile phone.\n\nEtiquette # 2\n\nThe good thing about people is that sooner or later, someone will tell you that you are\nannoying them. Their request to stop talking or talk quietly might seem unreasonable\nbut if you really want to be a model mobile phone user, just follow their request.\n\nEtiquette # 3\n\nTo stop #2 from happening, and to keep your secrets to yourself, then keep your\ndistance - 3 metres between you and anyone else.\n\nEtiquette # 4\n\nEven if you are following #3, you don't need to shout. This just makes it easier for\npeople to hear you and also to annoy them.\n\nEtiquette # 5\n\nRemember, people don't want to hear your phone conversations-so they definitely\ndon't want to hear the other person either. Keep your speaker off.\n\nEtiquette # 6\n\nIf you don't want people talking about you, keep your personal details to yourself. This\nmeans that #3 may still reach unintended listeners. Either save the conversation for\nlater or switch to text messaging.\n\nEtiquette # 7\n\nDon't multitask-it could cost you your life. Avoid using your phone while waiting in a\nqueue, and never use it while driving. Not only is this illegal in many countries, it is also\nextremely dangerous. National data show that mobile phones were involved in 350 fatal\ncrashes in 2011.\n\nEtiquette # 8\n\nThere are many places such as a library, museum, theatre, and hospital where,\nhopefully, common sense tells you not use your phone.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "Look at the seven job advertisements, A-G, and read the descriptions of people below. Which is the most suitable job for each person? Write the correct letter, A-G.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "Job Advertisements",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer.",
+          "body": "Write your answers in boxes [[7]]'[[14]] on your answer sheet. NOTES ON MOBILE PHONE ETIQUETTE Etiquette # 1 Don't think about the people you have met using their phone in front of or behind you. Stop using your phone if you think people will find it 7 Etiquette # 2 Other people will tell you about your phone etiquette. If they don't like it they might ask you to [[8]] Etiquette # 3 If you want to keep your [[9]] to yourself then keep [[10]] Etiquette # 4 Even if you are not near anyone that is no excuse to shout. People will still hear you. Etiquette # 5 Remember that people don't to hear you and so they definitely don't want to hear the person you are talking to. Etiquette # 6 If you really want to keep the conversation between the two of you then [[11]] is the best way to keep people from hearing. Etiquette # 7 Trying to do too many things at once can be a problem. You know that using your mobile in a [[12]] is frowned upon but using it in your car could be fatal. In America, of all car accidents there were [[13]] fatalities in 2011 because the driver was using a phone. Etiquette # 8 Finally, if you have any 14 , you should know that talking on your mobile in a theatre is a big no-no in mobile phone etiquette.",
+          "range": [
+            7,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "a person willing to move location for one year. Salary is low but ideal for someone interested in social work",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "a high school student who loves exercise and animals with a few evenings free every week",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "an independent kind of person prepared to work at night or early mornings with transport",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "a high school graduate looking for their first job, must like talking to people",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "a cheerful person who loves working with young children who is able to sing and has own transport",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "a person who loves working with young children in return for a basic allowance, accommodation and time to study",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "annoying",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "stop talking / talk quietly",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "secrets",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "your distance",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "is the best way to keep people from hearing.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "text messaging",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "queue",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "350",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "common sense",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Job Sharing",
+      "title": "Reading Passage 2",
       "questionRange": [
-        1,
-        40
+        15,
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nJob Sharing\nTEXT 1",
-        "tables": [],
+        "heading": "TEXT 1",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Job Sharing"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15- 21."
+          },
+          {
+            "label": null,
+            "text": "Super heroes like Superman have powers that are the envy of many children and even\nadults. Yet, we don't have to read comic books to find people with super powers. These"
+          },
+          {
+            "label": null,
+            "text": "1. Leslie Lemke"
+          },
+          {
+            "label": null,
+            "text": "Born blind, he was 15 when he eventually learnt how to walk. When he was 16 he\nplayed Tchaikovsky's Piano Concerto No. 1. after hearing this piece of music on the\ntelevision the previous night. He is now able to play any piece of music simply by\nlistening to it once."
+          },
+          {
+            "label": null,
+            "text": "2. Orlando Serrell"
+          },
+          {
+            "label": null,
+            "text": "He was not born a savant. He was ten years old when he was hit on the head with a\nbaseball. Since then he has been able to perform complicated calendar calculations and\nremember the weather every day from the day of the accident."
+          },
+          {
+            "label": null,
+            "text": "3. Kim Peek"
+          },
+          {
+            "label": null,
+            "text": "Kim was the inspiration for the character played by Dustin Hoffman in the Rain Man. His\nnickname is \"Kimputer\" because he has read over 12,000 books and remembers\neverything about them. He reads two pages at once - his left eye reads the left page\nand his right eye reads the right page - in 3 seconds!"
+          },
+          {
+            "label": null,
+            "text": "4. Stephen Wiltshire"
+          },
+          {
+            "label": null,
+            "text": "When he was nine he learnt to talk but before this he had already developed a love for\ndrawing. After a helicopter ride in Tokyo he drew an accurate and detailed view of the\ncity on a piece of paper 10 metres long!"
+          },
+          {
+            "label": null,
+            "text": "5. Ellen Boudreaux"
+          },
+          {
+            "label": null,
+            "text": "Like Leslie Lemke, Ellen Boudreaux is a blind autistic savant with exceptional musical\nabilities. She can play music perfectly after hearing it just once. She can also walk\naround without bumping into things. She does this by making little chirping sounds that\nseem to act like a human sonar."
+          },
+          {
+            "label": null,
+            "text": "6. Daniel Tammet"
+          },
+          {
+            "label": null,
+            "text": "Daniel is exceptionally gifted mathematically and linguistically. He can speak 11\nlanguages fluently and learnt one of them, Icelandic, in 7 days. He appears normal but\nDaniel contends that he actually had to will himself to learn how to talk to and behave\naround people."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "Job Sharing"
+          },
+          {
+            "label": null,
+            "text": "Job sharing is the perfect solution for people who want to carry on with their career but\nalso raise a family. Before you do it, you need to learn a few things as it can be more\ndifficult than it might seem."
+          },
+          {
+            "label": null,
+            "text": "Job Sharing Is Like Marriage"
+          },
+          {
+            "label": null,
+            "text": "When looking for a job share partner, you need to look for someone that is the perfect\nteammate. You don't need to find someone who is a carbon copy of you, but certainly\nthey need to have a similar professional style, work ethic, and standards as you."
+          },
+          {
+            "label": null,
+            "text": "Job Sharing Relies on Communication"
+          },
+          {
+            "label": null,
+            "text": "For a job share to work smoothly and efficiently, you two must work like one person.\nThe transition from one person to another, from one day to the next must be seamless.\nSharing information successfully can be done by setting up a shared email account, and\nusing the same filing system to organise computer and paper files."
+          },
+          {
+            "label": null,
+            "text": "Be Flexible"
+          },
+          {
+            "label": null,
+            "text": "No matter how well organised your schedule is, things happen. Your child needs to visit\nthe dentist. A friend flies in to visit you. A hundred and one reasons why you can't be at\nwork tomorrow. If you have a good job sharing relationship, your partner should be\nwillingly cover for you."
+          },
+          {
+            "label": null,
+            "text": "Job Sharing Means Less Income"
+          },
+          {
+            "label": null,
+            "text": "This might be obvious but when you job share, you not only share the work but you also\nshare the income. That's right-you will only get half the income, or even less, if you\ndecide to do less than half the work."
+          },
+          {
+            "label": null,
+            "text": "You Share Accomplishments"
+          },
+          {
+            "label": null,
+            "text": "Just as in a marriage, many things you do, probably all the things you do, will be\nachieved because of you and your job share partner. In other words, you must share\nany praise for accomplishments."
+          },
+          {
+            "label": null,
+            "text": "Your Circumstances May Change"
+          },
+          {
+            "label": null,
+            "text": "No matter how much you like your job, things change and so does your commitment to\nit. Things that you can't predict now might make you think about getting a fulltime job\nagain; your spouse might move to another city, you decide to go back to university.\nWho knows what the future might bring."
+          }
+        ],
+        "text": "Job Sharing\n\nRead the text below and answer Questions 15- 21.\n\nSuper heroes like Superman have powers that are the envy of many children and even\nadults. Yet, we don't have to read comic books to find people with super powers. These\n\n1. Leslie Lemke\n\nBorn blind, he was 15 when he eventually learnt how to walk. When he was 16 he\nplayed Tchaikovsky's Piano Concerto No. 1. after hearing this piece of music on the\ntelevision the previous night. He is now able to play any piece of music simply by\nlistening to it once.\n\n2. Orlando Serrell\n\nHe was not born a savant. He was ten years old when he was hit on the head with a\nbaseball. Since then he has been able to perform complicated calendar calculations and\nremember the weather every day from the day of the accident.\n\n3. Kim Peek\n\nKim was the inspiration for the character played by Dustin Hoffman in the Rain Man. His\nnickname is \"Kimputer\" because he has read over 12,000 books and remembers\neverything about them. He reads two pages at once - his left eye reads the left page\nand his right eye reads the right page - in 3 seconds!\n\n4. Stephen Wiltshire\n\nWhen he was nine he learnt to talk but before this he had already developed a love for\ndrawing. After a helicopter ride in Tokyo he drew an accurate and detailed view of the\ncity on a piece of paper 10 metres long!\n\n5. Ellen Boudreaux\n\nLike Leslie Lemke, Ellen Boudreaux is a blind autistic savant with exceptional musical\nabilities. She can play music perfectly after hearing it just once. She can also walk\naround without bumping into things. She does this by making little chirping sounds that\nseem to act like a human sonar.\n\n6. Daniel Tammet\n\nDaniel is exceptionally gifted mathematically and linguistically. He can speak 11\nlanguages fluently and learnt one of them, Icelandic, in 7 days. He appears normal but\nDaniel contends that he actually had to will himself to learn how to talk to and behave\naround people.\n\nTEXT 2\n\nRead the text below and answer Questions 22-27.\n\nJob Sharing\n\nJob sharing is the perfect solution for people who want to carry on with their career but\nalso raise a family. Before you do it, you need to learn a few things as it can be more\ndifficult than it might seem.\n\nJob Sharing Is Like Marriage\n\nWhen looking for a job share partner, you need to look for someone that is the perfect\nteammate. You don't need to find someone who is a carbon copy of you, but certainly\nthey need to have a similar professional style, work ethic, and standards as you.\n\nJob Sharing Relies on Communication\n\nFor a job share to work smoothly and efficiently, you two must work like one person.\nThe transition from one person to another, from one day to the next must be seamless.\nSharing information successfully can be done by setting up a shared email account, and\nusing the same filing system to organise computer and paper files.\n\nBe Flexible\n\nNo matter how well organised your schedule is, things happen. Your child needs to visit\nthe dentist. A friend flies in to visit you. A hundred and one reasons why you can't be at\nwork tomorrow. If you have a good job sharing relationship, your partner should be\nwillingly cover for you.\n\nJob Sharing Means Less Income\n\nThis might be obvious but when you job share, you not only share the work but you also\nshare the income. That's right-you will only get half the income, or even less, if you\ndecide to do less than half the work.\n\nYou Share Accomplishments\n\nJust as in a marriage, many things you do, probably all the things you do, will be\nachieved because of you and your job share partner. In other words, you must share\nany praise for accomplishments.\n\nYour Circumstances May Change\n\nNo matter how much you like your job, things change and so does your commitment to\nit. Things that you can't predict now might make you think about getting a fulltime job\nagain; your spouse might move to another city, you decide to go back to university.\nWho knows what the future might bring.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-features",
+          "instruction": "Look at the following statements and the list of savants below. Match each statement with the correct savant, A'F.",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Leslie Lemke",
+              "Orlando Serrell",
+              "Kim Peek",
+              "Stephen Wiltshire",
+              "Ellen Boudreaux",
+              "Daniel Tammet"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN ONE WORD from the passage for each answer.",
+          "body": "Write your answers in boxes [[22]]'[[27]]. You don't have to find an exact copy of you when looking for a job share partner, but they must have similar 22 . A successful job share means being able to share information with the same filing system, so that each day flows into another in a [[23]] manner. One certain thing is no matter how well prepared you are, [[24]] will happen. An important thing to remember is that when you job share, you don't get the [[25]] of a full-time job. In a job share, you can no longer accept all the [[26]] . You might not always have the same 27 because your life might be moving in another direction.",
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A"
+            ],
+            "labels": [
+              "successful job share means being able to share information with the"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant reminds people of a computer as everything\nhe reads he remembers.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant learnt one language very quickly and speaks\nmany more.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant developed extraordinary powers after an\naccident.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant plays the piano.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant inspired a movie.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant avoids falling over with sonar like ability.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g1",
+          "prompt": "This savant loves to draw buildings with incredible\naccuracy.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "standards",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "seamless",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "things",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "income",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "praise",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "commitment",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "Mission to Mars"
+          },
+          {
+            "label": null,
+            "text": "2011 Mars One Founded"
+          },
+          {
+            "label": null,
+            "text": "In 2011 Bas Lansdorp and Arno Wielders lay the foundation of the Mars One\nmission plan. Discussion meetings are held with potential suppliers of\naerospace components in the USA, Canada, Italy and United Kingdom. Mission\narchitecture, budgets and timelines are solidified from the feedback of supplier\nengineers and business developers. A baseline design for a mission of\npermanent human settlement on Mars achievable with existing technology is\nthe result."
+          },
+          {
+            "label": null,
+            "text": "2013 Start Crew Selection"
+          },
+          {
+            "label": null,
+            "text": "In April 2013, the Astronaut Selection Program is launched at press\nconferences in New York and Shanghai. Round One is an online application\nopen to all nationalities. The selection program proceeds with three additional\nrounds over the course of two years. At the end of it around six teams of four\nindividuals are selected for training. A new batch of the Astronaut Selection\nProgram begins every year to replenish the training pool regularly. An analogue\nof the Mars habitat is constructed on Earth for technology testing and training\npurposes."
+          },
+          {
+            "label": null,
+            "text": "2015 Start of Crew Training"
+          },
+          {
+            "label": null,
+            "text": "Selected candidates from the first batch of applicants enter full-time training\ngroups. This training continues until the launch in 2024. The group's ability to"
+          },
+          {
+            "label": null,
+            "text": "deal with prolonged periods of time in a remote location is the most important\npart of their training. They learn to repair components of the habitat and rover,\nlearn to grow their own food, and train in medical procedures. The first outpost\nsimulation, a Mars-like terrain that is relatively easy to reach is chosen. A\nsecond training outpost is located at a more remote environment like the Arctic\ndesert."
+          },
+          {
+            "label": null,
+            "text": "2018 Demo and Comsat Mission"
+          },
+          {
+            "label": null,
+            "text": "A Demonstration Mission is launched to Mars in May 2018; it provides proof of\nconcept for some of the technologies that are important for a human mission. A\ncommunication satellite is also launched that is placed into a Mars stationary\norbit. It enables 24/7 communication between the two planets. It can relay\nimages, videos and other data from the Mars surface."
+          },
+          {
+            "label": null,
+            "text": "2020 Rover Mission Launched"
+          },
+          {
+            "label": null,
+            "text": "One intelligent rover and one trailer are launched. The rover can use the trailer\nto transport the landers to the outpost location. On Mars, the rover drives\naround the chosen region to find the best location for the settlement. An ideal\nlocation for the settlement is far enough north for the soil to contain enough\nwater, equatorial enough for maximum solar power and flat enough to facilitate\nconstruction of the settlement. When the settlement location is determined,\nthe rover prepares the surface for arrival of the cargo missions. It also clears\nlarge areas where solar panels will lie. A second communications satellite is\nlaunched into orbit around the Sun."
+          },
+          {
+            "label": null,
+            "text": "2022 Cargo Missions Launched"
+          },
+          {
+            "label": null,
+            "text": "Six cargo missions are launched and two living units, two life support systems,\nand two supply units are sent to Mars in July 2022. In February 2023 all units\nland on Mars using a rover signal as a beacon."
+          },
+          {
+            "label": null,
+            "text": "2023 Outpost Operational"
+          },
+          {
+            "label": null,
+            "text": "The six cargo units land on Mars, up to 10 km away from the outpost. The rover\npicks up the first life support unit using the trailer, takes it to the right place,\nand deploys the thin film solar panel of the life support unit. The rover can now\nconnect to the life support unit to recharge its batteries much faster than using\nonly its own panels, allowing it to do much more work. The rover picks up all\nthe other cargo units and then deploys the thin film solar panel of the second\nlife support unit and the inflatable sections of the living units. The life support\nunit is connected to the living units by a hose that can transport water, air and\nelectricity."
+          },
+          {
+            "label": null,
+            "text": "The life support system is now activated. The rover feeds Martian soil into the\nlife support system. Water is extracted from the Martian soil by evaporating the\nsubsurface ice particles in an oven. The evaporated water is condensed back to\nits liquid state and stored. Part of the water is used for producing oxygen.\nNitrogen and argon, filtered from the Martian atmosphere make up the other\ncomponents of the breathable air inside the habitat."
+          },
+          {
+            "label": null,
+            "text": "2024 Departure Crew One"
+          },
+          {
+            "label": null,
+            "text": "In April 2024, the components of the Mars transit vehicle are launched to Earth\norbit on receiving the green light on the status of the systems on Mars. First, a\ntransit habitat and a Mars lander with an assembly crew on-board are launched\ninto an orbit around the Earth. The assembly crew docks the Mars lander to the\ntransit habitat. Two propellant stages are launched a month later and are also\nconnected. The first Mars crew, now fully trained, is launched into the same\nEarth orbit. In orbit the Mars One crew switches places with the assembly crew,\nwho descend back to Earth. Engines of the propellant stages are fired and the\ntransit vehicle is launched on a Mars transit trajectory. This is the point of no\nreturn; the crew is now bound to a 210-day flight to Mars."
+          }
+        ],
+        "text": "Read the text below and answer questions 28-40.\n\nMission to Mars\n\n2011 Mars One Founded\n\nIn 2011 Bas Lansdorp and Arno Wielders lay the foundation of the Mars One\nmission plan. Discussion meetings are held with potential suppliers of\naerospace components in the USA, Canada, Italy and United Kingdom. Mission\narchitecture, budgets and timelines are solidified from the feedback of supplier\nengineers and business developers. A baseline design for a mission of\npermanent human settlement on Mars achievable with existing technology is\nthe result.\n\n2013 Start Crew Selection\n\nIn April 2013, the Astronaut Selection Program is launched at press\nconferences in New York and Shanghai. Round One is an online application\nopen to all nationalities. The selection program proceeds with three additional\nrounds over the course of two years. At the end of it around six teams of four\nindividuals are selected for training. A new batch of the Astronaut Selection\nProgram begins every year to replenish the training pool regularly. An analogue\nof the Mars habitat is constructed on Earth for technology testing and training\npurposes.\n\n2015 Start of Crew Training\n\nSelected candidates from the first batch of applicants enter full-time training\ngroups. This training continues until the launch in 2024. The group's ability to\n\ndeal with prolonged periods of time in a remote location is the most important\npart of their training. They learn to repair components of the habitat and rover,\nlearn to grow their own food, and train in medical procedures. The first outpost\nsimulation, a Mars-like terrain that is relatively easy to reach is chosen. A\nsecond training outpost is located at a more remote environment like the Arctic\ndesert.\n\n2018 Demo and Comsat Mission\n\nA Demonstration Mission is launched to Mars in May 2018; it provides proof of\nconcept for some of the technologies that are important for a human mission. A\ncommunication satellite is also launched that is placed into a Mars stationary\norbit. It enables 24/7 communication between the two planets. It can relay\nimages, videos and other data from the Mars surface.\n\n2020 Rover Mission Launched\n\nOne intelligent rover and one trailer are launched. The rover can use the trailer\nto transport the landers to the outpost location. On Mars, the rover drives\naround the chosen region to find the best location for the settlement. An ideal\nlocation for the settlement is far enough north for the soil to contain enough\nwater, equatorial enough for maximum solar power and flat enough to facilitate\nconstruction of the settlement. When the settlement location is determined,\nthe rover prepares the surface for arrival of the cargo missions. It also clears\nlarge areas where solar panels will lie. A second communications satellite is\nlaunched into orbit around the Sun.\n\n2022 Cargo Missions Launched\n\nSix cargo missions are launched and two living units, two life support systems,\nand two supply units are sent to Mars in July 2022. In February 2023 all units\nland on Mars using a rover signal as a beacon.\n\n2023 Outpost Operational\n\nThe six cargo units land on Mars, up to 10 km away from the outpost. The rover\npicks up the first life support unit using the trailer, takes it to the right place,\nand deploys the thin film solar panel of the life support unit. The rover can now\nconnect to the life support unit to recharge its batteries much faster than using\nonly its own panels, allowing it to do much more work. The rover picks up all\nthe other cargo units and then deploys the thin film solar panel of the second\nlife support unit and the inflatable sections of the living units. The life support\nunit is connected to the living units by a hose that can transport water, air and\nelectricity.\n\nThe life support system is now activated. The rover feeds Martian soil into the\nlife support system. Water is extracted from the Martian soil by evaporating the\nsubsurface ice particles in an oven. The evaporated water is condensed back to\nits liquid state and stored. Part of the water is used for producing oxygen.\nNitrogen and argon, filtered from the Martian atmosphere make up the other\ncomponents of the breathable air inside the habitat.\n\n2024 Departure Crew One\n\nIn April 2024, the components of the Mars transit vehicle are launched to Earth\norbit on receiving the green light on the status of the systems on Mars. First, a\ntransit habitat and a Mars lander with an assembly crew on-board are launched\ninto an orbit around the Earth. The assembly crew docks the Mars lander to the\ntransit habitat. Two propellant stages are launched a month later and are also\nconnected. The first Mars crew, now fully trained, is launched into the same\nEarth orbit. In orbit the Mars One crew switches places with the assembly crew,\nwho descend back to Earth. Engines of the propellant stages are fired and the\ntransit vehicle is launched on a Mars transit trajectory. This is the point of no\nreturn; the crew is now bound to a 210-day flight to Mars.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "table-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+          "body": "To begin the process of selecting suitable astronauts two [[32]] are held in two cities around the world. The first application is [[33]] and available to every nationality. This is followed by a further [[34]] rounds and results in the selection of [[35]] teams that then start training. During training they learn how to cope with life in an isolated [[36]], cultivate [[37]], and perform [[38]].",
+          "range": [
+            32,
+            38
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 39-40 on your answer sheet. How will it be possible for people on Mars to contact people on Earth?",
+          "body": "[[39]] What point is reached when the crew start their journey to Mars? [[40]]",
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "multiple-choice",
-          "prompt": "What is the plan to have a permanent human settlement on Mars",
-          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p3g1",
+          "prompt": "What is the plan to have a permanent human settlement on Mars based on?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "new technology",
+            "new and old technology",
+            "existing technology",
+            "recent technology"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "How is the ideal site for the settlement found?",
-          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "GPS",
+            "rover",
+            "the settlers",
+            "some luck"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
-          "prompt": "After the outpost is operational how does the rover recharge its",
-          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "B",
+          "groupId": "p3g1",
+          "prompt": "After the outpost is operational how does the rover recharge its batteries?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "from the living units",
+            "from the life support unit",
+            "from its own solar panels",
+            "from the cargo units"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 31,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Where does oxygen come from ?",
-          "instruction": "Read the text below and answer questions 28-40. Mission to Mars Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-31 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Nitrogen and argon",
+            "water",
+            "Martian atmosphere",
+            "Life support system"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "press conferences",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "online",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "3/three",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "6/six",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "location",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "food",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "table-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "medical procedures",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "fill-in-blank",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "communication satellite",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "fill-in-blank",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "no return",
+          "trap": null
         }
       ]
     }
@@ -138,6 +1412,7 @@
     "10": "your distance",
     "11": "text messaging",
     "12": "queue",
+    "13": "350",
     "14": "common sense",
     "15": "C",
     "16": "F",

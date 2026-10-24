@@ -1,0 +1,214 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose the correct letter, A-L, from the box of descriptions for each of questions 1-10.",
+    "optionBank": {
+      "title": "Descriptions",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L"
+      ],
+      "labels": [
+        "not very tolerant of or interested in gestures of affection from children (or any member of the family)",
+        "generally well-behaved around children, but inclined to react badly to very young children who are loud and energetic",
+        "reacts well to training once training has commenced at an early stage in life",
+        "strong sense of pack loyalty makes it want to look after and care for young family members",
+        "restless and can make itself a bit of a nuisance around the house and in the garden",
+        "reasonably good with children of all ages, though its natural awkwardness can mean it poses a slight danger to young ones",
+        "must be taught its place in the hierarchy otherwise may try to dominate",
+        "a typically sedate and unexcitable temperament",
+        "requires more training and supervision",
+        "success of late-start training may be hindered by the animal's strong hunting instincts",
+        "better with younger children to whom its size poses less of a threat",
+        "training from a young age is essential, otherwise it will lack confidence"
+      ]
+    },
+    "questions": {
+      "1": {
+        "prompt": "Irish Wolfhound - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "2": {
+        "prompt": "Irish Wolfhound - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "3": {
+        "prompt": "Irish Wolfhound - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "4": {
+        "prompt": "Irish Wolfhound - Behaviour around Children",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "5": {
+        "prompt": "Irish Wolfhound - Behaviour around Children",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "6": {
+        "prompt": "West Highland White Terrier - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "7": {
+        "prompt": "West Highland White Terrier - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "8": {
+        "prompt": "West Highland White Terrier - Temperament and Considerations When Training",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "9": {
+        "prompt": "West Highland White Terrier - Behaviour around Children",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "10": {
+        "prompt": "West Highland White Terrier - Behaviour around Children",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "16": "B",
+    "17": "C,D",
+    "18": "C,D"
+  }
+}

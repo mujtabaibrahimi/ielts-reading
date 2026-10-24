@@ -1,0 +1,47 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "type": "heading-matching",
+    "instruction": "The list of New Book Releases has nine book descriptions A-I. Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14.",
+    "optionBank": {
+      "title": "List of Book Titles",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"],
+      "labels": [
+        "Field Guide to Native Birds of Australia",
+        "The Bush on Two Wheels: 100 Top Rides",
+        "Bush Foods of Australian Aborigines",
+        "A Pictorial History of the Dinosaur in Australia",
+        "Bushwalking in Australia",
+        "World Geographica",
+        "Driving Adventures for 4-wheel-drive Vehicles",
+        "Survival Techniques in the Wild",
+        "Encyclopaedia of Australian Wildlife",
+        "Guide to the Art of the Australian Desert",
+        "Field Guide to Animals of the World"
+      ]
+    },
+    "questions": {
+      "8": {"prompt": "Book A", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "9": {"prompt": "Book B", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "10": {"prompt": "Book C", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "11": {"prompt": "Book E", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "12": {"prompt": "Book F", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "13": {"prompt": "Book G", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]},
+      "14": {"prompt": "Book H", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi"]}
+    }
+  },
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Each of the short paragraphs below (21-27) gives information about Arthur Phillip College. Read each paragraph and choose which of the linked sections of the website, A-L, would contain this information. Write the correct letter A-L.",
+    "optionBank": {"title": "Website Sections", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"], "labels": []},
+    "questions": {
+      "21": {"prompt": "All students receive a transcript of results and relevant award documentation when they end their studies with the College.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "22": {"prompt": "On enrolment, all students receive automatic membership to the Social Club and Public Speaking Club. Students may choose to participate in any arranged activities. The College encourages and promotes interaction between students and teaching and non-teaching staff.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "23": {"prompt": "Successful completion and the achievement of an A or B result in some courses will enable students to achieve advanced standing in these subjects if they proceed to university study. For a list of the courses acceptable to a particular university, e-mail us your request with the name of the university and the course you are interested in.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "24": {"prompt": "Arthur Phillip College is one of the top business colleges in Sydney, Australia. The College offers a wide range of educational and training programs in business and related areas. Its accredited vocational training courses are designed to meet the needs of individual students and industry.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "25": {"prompt": "At Arthur Phillip College you will learn from lectures, seminars, case studies, group projects, individual assignments and class workshops. Lectures and seminars present concepts and ideas and provide for question-and-answer sessions. Students are expected to take an active role in the learning process through class participation, presentations and projects.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "26": {"prompt": "Courses at Arthur Phillip College involve an average of 25 hours per week of tuition time, with supervised group study accounting for a further 5 hours per week. At least 10 hours per week of individual study is also recommended for most courses.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]},
+      "27": {"prompt": "During this program you will meet the Director of Studies, teachers and key administrative staff such as the Accommodation Officer and Student Counsellor so that, right from your first day, you will know how each of them can help you during your time at the College.", "options": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"]}
+    }
+  }
+}

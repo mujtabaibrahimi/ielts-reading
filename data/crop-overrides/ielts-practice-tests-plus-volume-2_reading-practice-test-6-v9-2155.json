@@ -1,0 +1,54 @@
+{
+  "p1g2": {
+    "_keepImage": true,
+    "_reason": "Freeze-drying machine diagram is missing from the source crop (only the instruction and blank answer lines 6-9 are present); cannot transcribe without inventing. Stale single-letter ['A'] options cleared so the answers are text inputs.",
+    "optionBank": null,
+    "questions": {
+      "6": {
+        "options": null
+      },
+      "7": {
+        "options": null
+      },
+      "8": {
+        "options": null
+      },
+      "9": {
+        "options": null
+      }
+    }
+  },
+  "p2g4": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct answer, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "The writer believes that sustainable development is dependent on",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "urban economic policy.",
+          "large restoration schemes.",
+          "active nature conservation.",
+          "government projects."
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "24": "C,E,G",
+    "25": "C,E,G",
+    "26": "C,E,G"
+  }
+}

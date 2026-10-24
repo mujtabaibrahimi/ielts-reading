@@ -1,239 +1,1111 @@
 {
   "id": "ielts-mock-test-2023-november_reading-practice-test-4-v9-18899099",
   "type": "academic",
-  "source": "ielts-mock-test-2023-november reading-practice-test-4-v9-18899099",
+  "title": "IELTS Academic 2023 November - Reading Test 4",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 4,
+  "year": 2023,
+  "month": 11,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-november_reading-practice-test-4-v9-18899099.pdf",
-  "total_questions": 12,
+  "totalQuestions": 40,
+  "answeredCount": 31,
+  "status": "partial",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\non Reading Passage 1 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Thomas Harriot: The Discovery of\nRefraction"
+          },
+          {
+            "label": "A",
+            "text": "When light travels from one medium to another, it generally bends, or refracts.\nThe law of refraction gives us a way of predicting the amount of bending.\nRefraction has many applications in optics and technology. A lens uses\nrefraction to form an image of an object for many different purposes, such as\nmagnification. A prism uses refraction to form a spectrum of colors from an\nincident beam of light. Refraction also plays an important role in the formation\nof a mirage and other optical illusions. The law of refraction is also known as\nSnell's Law, named after Willobrord Snell, who discovered the law in 1621.\nAlthough Snell's sine law of refraction is now taught routinely in undergraduate\ncourses, the quest for it spanned many centuries and involved many\ncelebrated scientists. Perhaps the most interesting thing is that the first\ndiscovery of the sine law, made by the sixteenth-century English scientist\nThomas Harriot (1560-1621), has been almost completely overlooked by\nphysicists, despite much published material describing his contribution."
+          },
+          {
+            "label": "B",
+            "text": "A contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei\nGalileo, Thomas Harriot (1560-1621) was an English scientist and\nmathematician. His principal biographer, J. W. Shirley, was quoted saying that\nin his time he was \"England's most profound mathematician, most imaginative\nand methodical experimental scientist\". As a mathematician, he contributed to\nthe development of algebra, and introduced the symbols of \">\", and \"<\" for"
+          },
+          {
+            "label": null,
+            "text": "\"more than\" and \"less than.\" He also studied navigation and astronomy. On\nSeptember 17, 1607, Harriot observed a comet, later Identified as Hailey-s.\nWith his painstaking observations, later workers were able to compute the\ncomet's orbit. Harriot was also the first to use a telescope to observe the\nheavens in England. He made sketches of the moon in 1609, and then\ndeveloped lenses of increasing magnification. By April 1611, he had developed\na lens with a magnification of 32. Between October 17, 1610 and February 26,\n1612, he observed the moons of Jupiter, which had already discovered by\nGalileo. While observing Jupiter's moons, he made a discovery of his own:\nsunspots, which he viewed 199 times between December 8, 1610 and January\n18, 1613. These observations allowed him to figure out the sun's period of\nrotation."
+          },
+          {
+            "label": "C",
+            "text": "He was also an early English explorer of North America. He was a friend of the\nEnglish courtier and explorer Sir Walter Raleigh and travelled to Virginia as a\nscientific observer on a colonising expedition in 1585. On June 30, 1585, his\nship anchored at Roanoke Island \u0000off Virginia. On shore, Harriot observed the\ntopography, flora and fauna, made many drawings and maps, and met the\nnative people who spoke a language the English called Algonquian. Harriot\nworked out a phonetic transcription of the native people's speech sounds and\nbegan to learn the language, which enabled him to converse to some extent\nwith other natives the English encountered. Harriot wrote his report for Raleigh\nand published it as A Briefe and True Report of the New Found Land of\nVirginia in 1588. Raleigh gave Harriot his own estate in Ireland, and Harriot\nbegan a survey of Raleigh's Irish holdings. He also undertook a study of\nballistics and ship design for Raleigh in advance of the Spanish Armada's\narrival."
+          },
+          {
+            "label": "D",
+            "text": "Harriot kept regular correspondence with other scientists and mathematicians,\nespecially in England but also in mainland Europe, notably with Johannes\nKepler. About twenty years before Snell's discovery, Johannes Kepler (1571-\n1630) had also looked for the law of refraction, but used the early data of\nPtolemy. Unfortunately, Ptolemy's data was in error, so Kepler could obtain\nonly an approximation which he published in 1604. Kepler later tried to obtain\nadditional experimental results on refraction, and corresponded with Thomas\nHarriot from 1606 to 1609 since Kepler had heard Harriot had carried out some\ndetailed experiments. In 1606, Harriot sent Kepler some tables of refraction\ndata for different materials at a constant incident angle, but didn't provide\nenough detail for the data to be very useful. Kepler requested further"
+          },
+          {
+            "label": null,
+            "text": "information, but Harriot was not forthcoming, and it appears that Kepler\neventually gave up the correspondence, frustrated with Harriot's reluctance."
+          },
+          {
+            "label": "E",
+            "text": "Apart from the correspondence with Kepler, there is no evidence that Harriot\never published his detailed results on refraction. His personal notes, however,\nreveal extensive studies significantly predating those of Kepler, Snell and\nDescartes. Harriot carried out many experiments on refraction in the 1590s,\nand from his notes, it is clear that he had discovered the sine law at least as\nearly as 1602. Around 1606, he had studied dispersion in prisms (predating\nNewton by around 60 years), measured the refractive indices of different\nliquids placed in a hollow glass prism, studied refraction in crystal spheres, and\ncorrectly understood refraction in the rainbow before Descartes."
+          },
+          {
+            "label": "F",
+            "text": "As his studies of refraction, Harriot' s discoveries in other fields were largely\nunpublished during his lifetime, and until this century, Harriot was known only\nfor an account of his travels in Virginia published in 1588, \u0000and for a treatise\non algebra published posthumously in 1631. The reason why Harriot kept his\nresults unpublished is unclear. Harriot wrote to Kepler that poor health\nprevented him from providing more information, but it is also possible that he\nwas afraid of the seventeenth century's English religious establishment which\nwas suspicious of the work carried out by mathematicians and scientists."
+          },
+          {
+            "label": "G",
+            "text": "After the discovery of sunspots, Harriot' s scientific work dwindled. The cause\nof his diminished productivity might have been a cancer discovered on his\nnose. Harriot died on July 2, 1621, in London, but his story did not end with his\ndeath. Recent research has revealed his wide range of interests and his\ngenuinely original discoveries. What some writers describe as his \"thousands\nupon thousands of sheets of mathematics and of scientific observations\"\nappeared to be lost until 1784, when they were found in Henry Percy's country\nestate by one of Percy's descendants. She gave them to Franz Xaver Zach, her\nhusband's son's tutor. Zach eventually put some of the papers in the hands of\nthe Oxford University Press, but much work was required to prepare them for\npublication, and it has never been done. Scholars have begun to study them\u0000,\nand an appreciation of Harriot's contribution started to grow in the second half\nof the twentieth century. Harriot's study of refraction is but one example where\nhis work overlapped with independent studies carried out by others in Europe,\nbut in any historical treatment of optics his contribution rightfully deserves to"
+          },
+          {
+            "label": null,
+            "text": "be acknowledged."
+          }
+        ],
+        "text": "Thomas Harriot: The Discovery of\nRefraction\n\nWhen light travels from one medium to another, it generally bends, or refracts.\nThe law of refraction gives us a way of predicting the amount of bending.\nRefraction has many applications in optics and technology. A lens uses\nrefraction to form an image of an object for many different purposes, such as\nmagnification. A prism uses refraction to form a spectrum of colors from an\nincident beam of light. Refraction also plays an important role in the formation\nof a mirage and other optical illusions. The law of refraction is also known as\nSnell's Law, named after Willobrord Snell, who discovered the law in 1621.\nAlthough Snell's sine law of refraction is now taught routinely in undergraduate\ncourses, the quest for it spanned many centuries and involved many\ncelebrated scientists. Perhaps the most interesting thing is that the first\ndiscovery of the sine law, made by the sixteenth-century English scientist\nThomas Harriot (1560-1621), has been almost completely overlooked by\nphysicists, despite much published material describing his contribution.\n\nA contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei\nGalileo, Thomas Harriot (1560-1621) was an English scientist and\nmathematician. His principal biographer, J. W. Shirley, was quoted saying that\nin his time he was \"England's most profound mathematician, most imaginative\nand methodical experimental scientist\". As a mathematician, he contributed to\nthe development of algebra, and introduced the symbols of \">\", and \"<\" for\n\n\"more than\" and \"less than.\" He also studied navigation and astronomy. On\nSeptember 17, 1607, Harriot observed a comet, later Identified as Hailey-s.\nWith his painstaking observations, later workers were able to compute the\ncomet's orbit. Harriot was also the first to use a telescope to observe the\nheavens in England. He made sketches of the moon in 1609, and then\ndeveloped lenses of increasing magnification. By April 1611, he had developed\na lens with a magnification of 32. Between October 17, 1610 and February 26,\n1612, he observed the moons of Jupiter, which had already discovered by\nGalileo. While observing Jupiter's moons, he made a discovery of his own:\nsunspots, which he viewed 199 times between December 8, 1610 and January\n18, 1613. These observations allowed him to figure out the sun's period of\nrotation.\n\nHe was also an early English explorer of North America. He was a friend of the\nEnglish courtier and explorer Sir Walter Raleigh and travelled to Virginia as a\nscientific observer on a colonising expedition in 1585. On June 30, 1585, his\nship anchored at Roanoke Island \u0000off Virginia. On shore, Harriot observed the\ntopography, flora and fauna, made many drawings and maps, and met the\nnative people who spoke a language the English called Algonquian. Harriot\nworked out a phonetic transcription of the native people's speech sounds and\nbegan to learn the language, which enabled him to converse to some extent\nwith other natives the English encountered. Harriot wrote his report for Raleigh\nand published it as A Briefe and True Report of the New Found Land of\nVirginia in 1588. Raleigh gave Harriot his own estate in Ireland, and Harriot\nbegan a survey of Raleigh's Irish holdings. He also undertook a study of\nballistics and ship design for Raleigh in advance of the Spanish Armada's\narrival.\n\nHarriot kept regular correspondence with other scientists and mathematicians,\nespecially in England but also in mainland Europe, notably with Johannes\nKepler. About twenty years before Snell's discovery, Johannes Kepler (1571-\n1630) had also looked for the law of refraction, but used the early data of\nPtolemy. Unfortunately, Ptolemy's data was in error, so Kepler could obtain\nonly an approximation which he published in 1604. Kepler later tried to obtain\nadditional experimental results on refraction, and corresponded with Thomas\nHarriot from 1606 to 1609 since Kepler had heard Harriot had carried out some\ndetailed experiments. In 1606, Harriot sent Kepler some tables of refraction\ndata for different materials at a constant incident angle, but didn't provide\nenough detail for the data to be very useful. Kepler requested further\n\ninformation, but Harriot was not forthcoming, and it appears that Kepler\neventually gave up the correspondence, frustrated with Harriot's reluctance.\n\nApart from the correspondence with Kepler, there is no evidence that Harriot\never published his detailed results on refraction. His personal notes, however,\nreveal extensive studies significantly predating those of Kepler, Snell and\nDescartes. Harriot carried out many experiments on refraction in the 1590s,\nand from his notes, it is clear that he had discovered the sine law at least as\nearly as 1602. Around 1606, he had studied dispersion in prisms (predating\nNewton by around 60 years), measured the refractive indices of different\nliquids placed in a hollow glass prism, studied refraction in crystal spheres, and\ncorrectly understood refraction in the rainbow before Descartes.\n\nAs his studies of refraction, Harriot' s discoveries in other fields were largely\nunpublished during his lifetime, and until this century, Harriot was known only\nfor an account of his travels in Virginia published in 1588, \u0000and for a treatise\non algebra published posthumously in 1631. The reason why Harriot kept his\nresults unpublished is unclear. Harriot wrote to Kepler that poor health\nprevented him from providing more information, but it is also possible that he\nwas afraid of the seventeenth century's English religious establishment which\nwas suspicious of the work carried out by mathematicians and scientists.\n\nAfter the discovery of sunspots, Harriot' s scientific work dwindled. The cause\nof his diminished productivity might have been a cancer discovered on his\nnose. Harriot died on July 2, 1621, in London, but his story did not end with his\ndeath. Recent research has revealed his wide range of interests and his\ngenuinely original discoveries. What some writers describe as his \"thousands\nupon thousands of sheets of mathematics and of scientific observations\"\nappeared to be lost until 1784, when they were found in Henry Percy's country\nestate by one of Percy's descendants. She gave them to Franz Xaver Zach, her\nhusband's son's tutor. Zach eventually put some of the papers in the hands of\nthe Oxford University Press, but much work was required to prepare them for\npublication, and it has never been done. Scholars have begun to study them\u0000,\nand an appreciation of Harriot's contribution started to grow in the second half\nof the twentieth century. Harriot's study of refraction is but one example where\nhis work overlapped with independent studies carried out by others in Europe,\nbut in any historical treatment of optics his contribution rightfully deserves to\n\nbe acknowledged.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "A misunderstanding in the history of science",
+              "Thomas Harriot's biography",
+              "Unknown reasons for his unpublished works",
+              "Harriot's 1588 publication on North America studies",
+              "Expedition to the New World",
+              "Reluctant cooperation with Kepler",
+              "Belated appreciation of Harriot's contribution",
+              "Religious pressures keeping him from publishing",
+              "Correspondence with Kepler",
+              "Interests and researches into multiple fields of study"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-10 on your answer sheet. Various modem applications base on an image produced by lens uses",
+          "body": "refraction, such as [[6]] . And a spectrum of colors from a beam of light can be produced with [[7]] . Harriot travelled to Virginia and mainly did research which focused on two subjects of American [[8]] . After, he also enters upon a study of flight dynamics and [[9]] for one of his friends much ahead of major European competitor. He undertook extensive other studies which were only noted down personally yet predated than many other great scientists. One result, for example, corrected the misconception about the idea of [[10]] .",
+          "range": [
+            6,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "matching-features",
+          "instruction": "Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet. NB You may use any researcher more than once.",
+          "body": null,
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Willobrord Snell",
+              "Johannes Kepler",
+              "Ptolemy",
+              "Galileo",
+              "Harriot"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "heading-matching",
+          "groupId": "p1g1",
+          "prompt": "Paragraph G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "magnification",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "prisms",
+          "trap": null
+        },
+        {
           "number": 8,
-          "type": "multiple-choice",
+          "type": "sentence-completion",
+          "groupId": "p1g2",
           "prompt": ". After, he also enters upon a study of flight dynamics and",
-          "instruction": "Thomas Harriot (1560-1621), has been almost completely overlooked by physicists, despite much published material describing his contribution. B A contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei Galileo, Thomas Harriot (1560-1621) was an English scientist and mathematician. His principal biographer, J. W. Shirley, was quoted saying that in his time he was “England’s most profound mathematician, most imaginative and methodical experimental scientist”. As a mathematician, he contributed to the development of algebra, and introduced the symbols of ”>”, and ”<” for genuinely original discoveries. What some writers describe as his “thousands upon thousands of sheets of mathematics and of scientific observations” appeared to be lost until 1784, when they were found in Henry Percy’s country estate by one of Percy’s descendants. She gave them to Franz Xaver Zach, her husband’s son’s tutor. Zach eventually put some of the papers in the hands of the Oxford University Press, but much work was required to prepare them for publication, and it has never been done. Scholars have begun to study them\u0000, and an appreciation of Harriot’s contribution started to grow in the second half of the twentieth century. Harriot’s study of refraction is but one example where his work overlapped with independent studies carried out by others in Europe, but in any historical treatment of optics his contribution rightfully deserves to Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i A misunderstanding in the history of science ii Thomas Harriot’s biography iii Unknown reasons for his unpublished works iv Harriot’s 1588 publication on North America studies v Expedition to the New World vi Reluctant cooperation with Kepler vii Belated appreciation of Harriot’s contribution viii Religious pressures keeping him from publishing ix Correspondence with Kepler x Interests and researches into multiple fields of study Example Answer Paragraph A i 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph G Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-10 on your answer sheet.",
-          "answer": "land and language"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "land and language",
+          "trap": null
         },
         {
           "number": 9,
-          "type": "multiple-choice",
-          "prompt": "for one of his friends much ahead of major European competitor. He undertook extensive other studies which were only noted down personally yet predated than many other great scientists. One result, for example, corrected the misconception about the idea of",
-          "instruction": "Thomas Harriot (1560-1621), has been almost completely overlooked by physicists, despite much published material describing his contribution. B A contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei Galileo, Thomas Harriot (1560-1621) was an English scientist and mathematician. His principal biographer, J. W. Shirley, was quoted saying that in his time he was “England’s most profound mathematician, most imaginative and methodical experimental scientist”. As a mathematician, he contributed to the development of algebra, and introduced the symbols of ”>”, and ”<” for genuinely original discoveries. What some writers describe as his “thousands upon thousands of sheets of mathematics and of scientific observations” appeared to be lost until 1784, when they were found in Henry Percy’s country estate by one of Percy’s descendants. She gave them to Franz Xaver Zach, her husband’s son’s tutor. Zach eventually put some of the papers in the hands of the Oxford University Press, but much work was required to prepare them for publication, and it has never been done. Scholars have begun to study them\u0000, and an appreciation of Harriot’s contribution started to grow in the second half of the twentieth century. Harriot’s study of refraction is but one example where his work overlapped with independent studies carried out by others in Europe, but in any historical treatment of optics his contribution rightfully deserves to Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i A misunderstanding in the history of science ii Thomas Harriot’s biography iii Unknown reasons for his unpublished works iv Harriot’s 1588 publication on North America studies v Expedition to the New World vi Reluctant cooperation with Kepler vii Belated appreciation of Harriot’s contribution viii Religious pressures keeping him from publishing ix Correspondence with Kepler x Interests and researches into multiple fields of study Example Answer Paragraph A i 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph G Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-10 on your answer sheet.",
-          "answer": "Ship design"
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "for one of his friends much ahead of major European",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Ship design",
+          "trap": null
         },
         {
           "number": 10,
-          "type": "multiple-choice",
-          "prompt": ". Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet.",
-          "instruction": "Thomas Harriot (1560-1621), has been almost completely overlooked by physicists, despite much published material describing his contribution. B A contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei Galileo, Thomas Harriot (1560-1621) was an English scientist and mathematician. His principal biographer, J. W. Shirley, was quoted saying that in his time he was “England’s most profound mathematician, most imaginative and methodical experimental scientist”. As a mathematician, he contributed to the development of algebra, and introduced the symbols of ”>”, and ”<” for genuinely original discoveries. What some writers describe as his “thousands upon thousands of sheets of mathematics and of scientific observations” appeared to be lost until 1784, when they were found in Henry Percy’s country estate by one of Percy’s descendants. She gave them to Franz Xaver Zach, her husband’s son’s tutor. Zach eventually put some of the papers in the hands of the Oxford University Press, but much work was required to prepare them for publication, and it has never been done. Scholars have begun to study them\u0000, and an appreciation of Harriot’s contribution started to grow in the second half of the twentieth century. Harriot’s study of refraction is but one example where his work overlapped with independent studies carried out by others in Europe, but in any historical treatment of optics his contribution rightfully deserves to Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i A misunderstanding in the history of science ii Thomas Harriot’s biography iii Unknown reasons for his unpublished works iv Harriot’s 1588 publication on North America studies v Expedition to the New World vi Reluctant cooperation with Kepler vii Belated appreciation of Harriot’s contribution viii Religious pressures keeping him from publishing ix Correspondence with Kepler x Interests and researches into multiple fields of study Example Answer Paragraph A i 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph G Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-10 on your answer sheet.",
-          "answer": "rainbow refraction"
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": ".",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "rainbow refraction",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Discovered the moons of Jupiter",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Distracted experimental calculation on refraction",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "The discovery of sunspots",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "The person whose name the sin law was attributed to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Crisis! freshwater",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27 which are based on\nReading Passage 2 below.\nCrisis! freshwater\nA . As in New Delhi and Phoenix, policymakers worldwide wield great power\nover how water resources and managed. Wise use of such power will become\nincreasingly important as the years go by because the world’s demand for\nfreshwater is currently overtaking its ready supply in many places, and this\nsituation shows no sign of abating.\nB . That the problem is well-known makes it no less disturbing: today one out\nof six people, more than a billion, suffer inadequate access to safe freshwater.\nBy 2025, according to data released by the United Nations, the freshwater\nresources of more than half the countries across the globe will undergo either\nstress- for example, when people increasingly demand more water than is\navailable or safe for use-or outright shortages. By mid-century, as much as\nthree-quarters of the earth’s population could face scarcities of freshwater. \nC . Scientists expect water scarcity to become more common in large part\nbecause the world’s population is rising and many people are getting richer\n(thus expanding demand) and because global climate change is exacerbating\naridity and reducing supply in many regions. What is more, many water\nsources are threatened by faulty waste disposal, releases of industrial\npollutants, fertilizer runoff, and coastal influxes of saltwater into aquifers as\ngroundwater is depleted.\nD . Because lack of access to water can lead to starvation, disease, political\ninstability, and even armed conflict, failure to take action can have broad and\ngrave consequences. Fortunately, to a great extent, the technologies and\npolicy tools required to conserve existing freshwater and to secure more of it\nare known among which several seem particularly effective. What is needed\n\nnow is action. Governments and authorities at every level have to formulate\nand execute plans for implementing the political, economic, and technological\nmeasures that can ensure water security now and in the coming decades.\nE . The world’s water problems require, as a start, an understanding of how\nmuch freshwater each person requires, along with knowledge of the factors\nthat impede supply and increase demand in different parts of the world. Main\nFalkenmark of the Stockholm International Water Institute and other experts\nestimate that, on average, each person on the earth needs a minimum of 1000\ncubic meters (m3) of water. The minimum water each person requires for\ndrinking, hygiene, and growing food. The volume is equivalent to two-fifths of\nan Olympic-size swimming pool. \nF . Much of the Americas and northern Eurasia enjoy abundant water supplies.\nBut several regions are beset by greater or lesser degrees of “physical”\nscarcity-whereby demand exceeds local availability. Other areas, among them\nCentral Africa, parts of the Indian subcontinent, and Southeast Asia contend\nwith “economic” water scarcity limit access even though sufficient supplies are\navailable.\nG. More than half of the precipitation that falls on land is never available for\ncapture or storage because it evaporates from the ground or transpires from\nplants; this fraction is called blue-water sources-rivers, lakes, wetlands, and\naquifers-that people can tap directly. Farm irrigation from these free-flowing\nbodies is the biggest single human use of freshwater resources, but the intense\nlocal demand they create often drains the surroundings of ready supplies.\nH . Lots of water, but not always where it is needed one hundred and ten\nthousand cubic kilometers of precipitation, nearly 10 times the volume of Lake\nSuperior, falls from the sky onto the earth’s land surface every year. This huge\nquantity would easily fulfill the requirements of everyone on the planet if the\nwater arrived where and when people needed it. But much of it cannot be\ncaptured (top), and the rest is disturbed unevenly (bottom). Green water\n(61.1% of total precipitation): absorbed by soil and plants, then released back\ninto the air: unavailable for withdrawal. Bluewater (38.8% of total\nprecipitation): collected in rivers, lakes, wetlands, and groundwater: available\nfor withdrawal before it evaporates or reaches the ocean. These figures may\nnot add up to 100% because of rounding. Only 1.5% is directly used by people.\nI . Waters run away in tremendous wildfires in recent years. The economic\nactors had all taken their share reasonably enough: they just did not consider\nthe needs of the natural environment, which suffered greatly when its\ninadequate supply was reduced to critical levels by drought. The members of\n\nthe Murray-Darling Basin Commission are now frantically trying to extricate\nthemselves from the disastrous results of their misallocation of the total water\nresource. Given the difficulties of sensibly apportioning the water supply within\na single nation, imagine the complexities of doing so for international river\nbasins such as that of the Jordan River, which borders on Lebanon, Syria, Israel,\nthe Palestinian areas, and Jordan, all of which have claims to the shared, but\nlimited, supply in an extremely parched region. The struggle for freshwater has\ncontributed to civil and military disputes in the area. Only continuing\nnegotiations and compromises have kept this tense situation under control.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": ". As in New Delhi and Phoenix, policymakers worldwide wield great power"
+            "label": null,
+            "text": "Crisis! freshwater"
           },
           {
-            "label": "B",
-            "content": ". That the problem is well-known makes it no less disturbing: today one out"
+            "label": null,
+            "text": "A . As in New Delhi and Phoenix, policymakers worldwide wield great power\nover how water resources and managed. Wise use of such power will become\nincreasingly important as the years go by because the world's demand for\nfreshwater is currently overtaking its ready supply in many places, and this\nsituation shows no sign of abating."
           },
           {
-            "label": "C",
-            "content": ". Scientists expect water scarcity to become more common in large part"
+            "label": null,
+            "text": "B . That the problem is well-known makes it no less disturbing: today one out\nof six people, more than a billion, suffer inadequate access to safe freshwater.\nBy 2025, according to data released by the United Nations, the freshwater\nresources of more than half the countries across the globe will undergo either\nstress- for example, when people increasingly demand more water than is\navailable or safe for use-or outright shortages. By mid-century, as much as\nthree-quarters of the earth's population could face scarcities of freshwater."
           },
           {
-            "label": "D",
-            "content": ". Because lack of access to water can lead to starvation, disease, political"
+            "label": null,
+            "text": "C . Scientists expect water scarcity to become more common in large part\nbecause the world's population is rising and many people are getting richer\n(thus expanding demand) and because global climate change is exacerbating\naridity and reducing supply in many regions. What is more, many water\nsources are threatened by faulty waste disposal, releases of industrial\npollutants, fertilizer runoff, and coastal influxes of saltwater into aquifers as\ngroundwater is depleted."
           },
           {
-            "label": "E",
-            "content": ". The world’s water problems require, as a start, an understanding of how"
+            "label": null,
+            "text": "D . Because lack of access to water can lead to starvation, disease, political\ninstability, and even armed conflict, failure to take action can have broad and\ngrave consequences. Fortunately, to a great extent, the technologies and\npolicy tools required to conserve existing freshwater and to secure more of it\nare known among which several seem particularly effective. What is needed"
           },
           {
-            "label": "F",
-            "content": ". Much of the Americas and northern Eurasia enjoy abundant water supplies."
+            "label": null,
+            "text": "now is action. Governments and authorities at every level have to formulate\nand execute plans for implementing the political, economic, and technological\nmeasures that can ensure water security now and in the coming decades."
           },
           {
-            "label": "G",
-            "content": "More than half of the precipitation that falls on land is never available for"
+            "label": null,
+            "text": "E . The world's water problems require, as a start, an understanding of how\nmuch freshwater each person requires, along with knowledge of the factors\nthat impede supply and increase demand in different parts of the world. Main\nFalkenmark of the Stockholm International Water Institute and other experts\nestimate that, on average, each person on the earth needs a minimum of 1000\ncubic meters (m3) of water. The minimum water each person requires for\ndrinking, hygiene, and growing food. The volume is equivalent to two-fifths of\nan Olympic-size swimming pool."
+          },
+          {
+            "label": null,
+            "text": "F . Much of the Americas and northern Eurasia enjoy abundant water supplies.\nBut several regions are beset by greater or lesser degrees of \"physical\"\nscarcity-whereby demand exceeds local availability. Other areas, among them\nCentral Africa, parts of the Indian subcontinent, and Southeast Asia contend\nwith \"economic\" water scarcity limit access even though sufficient supplies are\navailable."
+          },
+          {
+            "label": null,
+            "text": "G. More than half of the precipitation that falls on land is never available for\ncapture or storage because it evaporates from the ground or transpires from\nplants; this fraction is called blue-water sources-rivers, lakes, wetlands, and\naquifers-that people can tap directly. Farm irrigation from these free-flowing\nbodies is the biggest single human use of freshwater resources, but the intense\nlocal demand they create often drains the surroundings of ready supplies."
+          },
+          {
+            "label": null,
+            "text": "H . Lots of water, but not always where it is needed one hundred and ten\nthousand cubic kilometers of precipitation, nearly 10 times the volume of Lake\nSuperior, falls from the sky onto the earth's land surface every year. This huge\nquantity would easily fulfill the requirements of everyone on the planet if the\nwater arrived where and when people needed it. But much of it cannot be\ncaptured (top), and the rest is disturbed unevenly (bottom). Green water\n(61.1% of total precipitation): absorbed by soil and plants, then released back\ninto the air: unavailable for withdrawal. Bluewater (38.8% of total\nprecipitation): collected in rivers, lakes, wetlands, and groundwater: available\nfor withdrawal before it evaporates or reaches the ocean. These figures may\nnot add up to 100% because of rounding. Only 1.5% is directly used by people."
+          },
+          {
+            "label": null,
+            "text": "I . Waters run away in tremendous wildfires in recent years. The economic\nactors had all taken their share reasonably enough: they just did not consider\nthe needs of the natural environment, which suffered greatly when its\ninadequate supply was reduced to critical levels by drought. The members of"
+          },
+          {
+            "label": null,
+            "text": "the Murray-Darling Basin Commission are now frantically trying to extricate\nthemselves from the disastrous results of their misallocation of the total water\nresource. Given the difficulties of sensibly apportioning the water supply within\na single nation, imagine the complexities of doing so for international river\nbasins such as that of the Jordan River, which borders on Lebanon, Syria, Israel,\nthe Palestinian areas, and Jordan, all of which have claims to the shared, but\nlimited, supply in an extremely parched region. The struggle for freshwater has\ncontributed to civil and military disputes in the area. Only continuing\nnegotiations and compromises have kept this tense situation under control."
           }
-        ]
+        ],
+        "text": "Crisis! freshwater\n\nA . As in New Delhi and Phoenix, policymakers worldwide wield great power\nover how water resources and managed. Wise use of such power will become\nincreasingly important as the years go by because the world's demand for\nfreshwater is currently overtaking its ready supply in many places, and this\nsituation shows no sign of abating.\n\nB . That the problem is well-known makes it no less disturbing: today one out\nof six people, more than a billion, suffer inadequate access to safe freshwater.\nBy 2025, according to data released by the United Nations, the freshwater\nresources of more than half the countries across the globe will undergo either\nstress- for example, when people increasingly demand more water than is\navailable or safe for use-or outright shortages. By mid-century, as much as\nthree-quarters of the earth's population could face scarcities of freshwater.\n\nC . Scientists expect water scarcity to become more common in large part\nbecause the world's population is rising and many people are getting richer\n(thus expanding demand) and because global climate change is exacerbating\naridity and reducing supply in many regions. What is more, many water\nsources are threatened by faulty waste disposal, releases of industrial\npollutants, fertilizer runoff, and coastal influxes of saltwater into aquifers as\ngroundwater is depleted.\n\nD . Because lack of access to water can lead to starvation, disease, political\ninstability, and even armed conflict, failure to take action can have broad and\ngrave consequences. Fortunately, to a great extent, the technologies and\npolicy tools required to conserve existing freshwater and to secure more of it\nare known among which several seem particularly effective. What is needed\n\nnow is action. Governments and authorities at every level have to formulate\nand execute plans for implementing the political, economic, and technological\nmeasures that can ensure water security now and in the coming decades.\n\nE . The world's water problems require, as a start, an understanding of how\nmuch freshwater each person requires, along with knowledge of the factors\nthat impede supply and increase demand in different parts of the world. Main\nFalkenmark of the Stockholm International Water Institute and other experts\nestimate that, on average, each person on the earth needs a minimum of 1000\ncubic meters (m3) of water. The minimum water each person requires for\ndrinking, hygiene, and growing food. The volume is equivalent to two-fifths of\nan Olympic-size swimming pool.\n\nF . Much of the Americas and northern Eurasia enjoy abundant water supplies.\nBut several regions are beset by greater or lesser degrees of \"physical\"\nscarcity-whereby demand exceeds local availability. Other areas, among them\nCentral Africa, parts of the Indian subcontinent, and Southeast Asia contend\nwith \"economic\" water scarcity limit access even though sufficient supplies are\navailable.\n\nG. More than half of the precipitation that falls on land is never available for\ncapture or storage because it evaporates from the ground or transpires from\nplants; this fraction is called blue-water sources-rivers, lakes, wetlands, and\naquifers-that people can tap directly. Farm irrigation from these free-flowing\nbodies is the biggest single human use of freshwater resources, but the intense\nlocal demand they create often drains the surroundings of ready supplies.\n\nH . Lots of water, but not always where it is needed one hundred and ten\nthousand cubic kilometers of precipitation, nearly 10 times the volume of Lake\nSuperior, falls from the sky onto the earth's land surface every year. This huge\nquantity would easily fulfill the requirements of everyone on the planet if the\nwater arrived where and when people needed it. But much of it cannot be\ncaptured (top), and the rest is disturbed unevenly (bottom). Green water\n(61.1% of total precipitation): absorbed by soil and plants, then released back\ninto the air: unavailable for withdrawal. Bluewater (38.8% of total\nprecipitation): collected in rivers, lakes, wetlands, and groundwater: available\nfor withdrawal before it evaporates or reaches the ocean. These figures may\nnot add up to 100% because of rounding. Only 1.5% is directly used by people.\n\nI . Waters run away in tremendous wildfires in recent years. The economic\nactors had all taken their share reasonably enough: they just did not consider\nthe needs of the natural environment, which suffered greatly when its\ninadequate supply was reduced to critical levels by drought. The members of\n\nthe Murray-Darling Basin Commission are now frantically trying to extricate\nthemselves from the disastrous results of their misallocation of the total water\nresource. Given the difficulties of sensibly apportioning the water supply within\na single nation, imagine the complexities of doing so for international river\nbasins such as that of the Jordan River, which borders on Lebanon, Syria, Israel,\nthe Palestinian areas, and Jordan, all of which have claims to the shared, but\nlimited, supply in an extremely parched region. The struggle for freshwater has\ncontributed to civil and military disputes in the area. Only continuing\nnegotiations and compromises have kept this tense situation under control.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            15,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-paragraph-information",
+          "instruction": "The readings Passage has eleven paragraphs A-I Which paragraph contains the following information? Write the correct letter A-I, in boxes 6-10 on your answer sheet.",
+          "body": null,
+          "range": [
+            20,
+            24
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN THERR WORDS from the Reading Passage for",
+          "body": "each answer. Write your answers in boxes [[25]]'[[27]] on your answer sheet. Many severe problems like starvation and military actions etc result from the storage of water which sometimes for some areas seems 25 because of unavailability but other regions suffer another kind of scarcity for insufficient support. [[26]] of the rainfall can't be achieved because of evaporation. Some other parts form the 27 which can be used immediately. Water to irrigate the farmland takes a considerable amount along with the use for cities and industries and the extended need from the people involved.",
+          "range": [
+            25,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "true-false-not-given",
-          "prompt": "The prospect for the need for freshwater worldwide is obscure.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "The prospect for the need for freshwater worldwide is\nobscure.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
-          "prompt": "To some extent, the challenge for freshwater is alleviated by common recognition.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "To some extent, the challenge for freshwater is\nalleviated by common recognition.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "Researchers arrive at the specific conclusion about the water crisis based on persuasive consideration of several factors.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "Researchers arrive at the specific conclusion about\nthe water crisis based on persuasive consideration of several factors.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 18,
           "type": "true-false-not-given",
-          "prompt": "The fact that people do not actually cherish the usage of water scarcity.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "The fact that people do not actually cherish the usage\nof water scarcity.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 19,
           "type": "true-false-not-given",
-          "prompt": "Controversy can’t be avoided for adjacent nations over the water resource. The readings Passage has eleven paragraphs A-I Which paragraph contains the following information?",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "Controversy can't be avoided for adjacent nations\nover the water resource.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 20,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
           "prompt": "The uneven distribution of water around the world.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE Which paragraph contains the following information? Write the correct letter A-I, in boxes 6-10 on your answer sheet.",
-          "answer": "F"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 21,
-          "type": "heading-matching",
-          "prompt": "Other factors regarding nature bothering people who make the policies.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE Which paragraph contains the following information? Write the correct letter A-I, in boxes 6-10 on your answer sheet.",
-          "answer": "I"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "Other factors regarding nature bothering people who\nmake the policies.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
         },
         {
           "number": 22,
-          "type": "matching-features",
-          "prompt": "Joint efforts needed to carry out the detailed solutions combined with various aspects.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE Which paragraph contains the following information? Write the correct letter A-I, in boxes 6-10 on your answer sheet.",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "Joint efforts needed to carry out the detailed solutions\ncombined with various aspects.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 23,
           "type": "matching-paragraph-information",
-          "prompt": "No always-in-time match available between the requirements and the actual rainfall.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 15-19 on your answer sheet, write TRUE Which paragraph contains the following information? Write the correct letter A-I, in boxes 6-10 on your answer sheet.",
-          "answer": "H"
+          "groupId": "p2g2",
+          "prompt": "No always-in-time match available between the\nrequirements and the actual rainfall.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "The lower limit of the amount of fresh water for a person\nto survive.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "PHYSICAL",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "CAPTURE OF SHORTAGE",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "BLUE-WATER",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Education Philosophy",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40 which are based on\nReading Passage 3 below.\nEducation Philosophy\nA\nAlthough we lack accurate statistics about child mortality in the pre-industrial\nperiod, we do have evidence that in the 1660s, the mortality rate for children\nwho died within 14 days of birth was as much as 30 per cent. Nearly all families\nsuffered some premature death. Since all parents expected to bury some of\ntheir children, they found it difficult to invest in their newborn children.\nMoreover, to protect themselves from the emotional consequences of\nchildren’s death, parents avoided making any emotional commitment to an\ninfant. It is no wonder that we find mothers leave their babies in gutters or\nrefer to the death in the same paragraph with reference to pickles.\nB\nThe 18th century witnessed the transformation from an agrarian economy to\nan industrial one, one of the vital social changes taking place in the Western\nworld. An increasing number of people moved from their villages and small\ntowns to big cities where life was quite different. Social supports which had\npreviously existed in smaller communities were replaced by ruthless problems\nsuch as poverty, crime, substandard housing and disease. Due to the need for\nadditional income to support the family, young children from the poorest\nfamilies were forced into early employment and thus their childhood became\npainfully short. Children as young as 7 might be required to work full-time,\nsubjected to unpleasant and unhealthy circumstances, from factories to\nprostitution. Although such a role has disappeared in most wealthy countries,\nthe practice of childhood employment still remains a staple in underdeveloped\ncountries and rarely disappeared entirely.\n\nC\nThe lives of children underwent a drastic change during the 1800s in the\nUnited States. Previously, children from both rural and urban families were\nexpected to participate in everyday labour due to the bulk of manual hard\nworking. Nevertheless, thanks to the technological advances of the mid-1800s,\ncoupled with the rise of the middle class and redefinition of roles of family\nmembers, work and home became less synonymous over time. People began\nto purchase toys and books for their children. When the country depended\nmore upon machines, children in rural and urban areas, were less likely to be\nrequired to work at home. Beginning from the Industrial Revolution and rising\nslowly over the course of the 19th century, this trend increased exponentially\nafter civil war. John Locke, one of the most influential writers of his period,\ncreated the first clear and comprehensive statement of the ‘environmental\nposition’ that family education determines a child’s life, and via this, he\nbecame the father of modem learning theory. During the colonial period, his\nteachings about child care gained a lot of recognition in America.\nD\nAccording to Jean Jacques Rousseau, who lived in an era of the American and\nFrench Revolution, people were ‘noble savages’ in the original state of nature,\nmeaning they are innocent, free and uncorrupted. In 1762, Rousseau wrote a\nfamous novel Emile to convey his educational philosophy through a story of a\nboy’s education from infancy to adult-hood. This work was based on his\nextensive observation of children and adolescents, their individuality, his\ndevelopmental theory and on the memories of his own childhood. He contrasts\nchildren with adults and describes their age-specific characteristics in terms of\nhistorical perspective and developmental psychology. Johan Heinrich\nPestalozzi, living during the early stages of the Industrial Revolution, sought to\ndevelop schools to nurture children’s all-round development. He agreed with\nRousseau that humans are naturally good but were spoiled by a corrupt\nsociety. His approach to teaching consists of the general and special methods,\nand his theory was based upon establishing an emotionally healthy homelike\nlearning environment, which had to be in place before more specific\ninstructions occurred.\nE\nOne of the best-documented cases of Pestalozzi’s theory concerned a so-called\nferal child named Victor, who was captured in a small town in the south of\nFrance in 1800. Prepubescent, mute, naked, and perhaps 11 or 12 years old,\nVictor had been seen foraging for food in the gardens of the locals in the area",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Education Philosophy"
+          },
           {
             "label": "A",
-            "content": "Although we lack accurate statistics about child mortality in the pre-industrial"
+            "text": "Although we lack accurate statistics about child mortality in the pre-industrial\nperiod, we do have evidence that in the 1660s, the mortality rate for children\nwho died within 14 days of birth was as much as 30 per cent. Nearly all families\nsuffered some premature death. Since all parents expected to bury some of\ntheir children, they found it difficult to invest in their newborn children.\nMoreover, to protect themselves from the emotional consequences of\nchildren's death, parents avoided making any emotional commitment to an\ninfant. It is no wonder that we find mothers leave their babies in gutters or\nrefer to the death in the same paragraph with reference to pickles."
           },
           {
             "label": "B",
-            "content": "The 18th century witnessed the transformation from an agrarian economy to"
+            "text": "The 18th century witnessed the transformation from an agrarian economy to\nan industrial one, one of the vital social changes taking place in the Western\nworld. An increasing number of people moved from their villages and small\ntowns to big cities where life was quite different. Social supports which had\npreviously existed in smaller communities were replaced by ruthless problems\nsuch as poverty, crime, substandard housing and disease. Due to the need for\nadditional income to support the family, young children from the poorest\nfamilies were forced into early employment and thus their childhood became\npainfully short. Children as young as 7 might be required to work full-time,\nsubjected to unpleasant and unhealthy circumstances, from factories to\nprostitution. Although such a role has disappeared in most wealthy countries,\nthe practice of childhood employment still remains a staple in underdeveloped\ncountries and rarely disappeared entirely."
           },
           {
             "label": "C",
-            "content": "The lives of children underwent a drastic change during the 1800s in the"
+            "text": "The lives of children underwent a drastic change during the 1800s in the\nUnited States. Previously, children from both rural and urban families were\nexpected to participate in everyday labour due to the bulk of manual hard\nworking. Nevertheless, thanks to the technological advances of the mid-1800s,\ncoupled with the rise of the middle class and redefinition of roles of family\nmembers, work and home became less synonymous over time. People began\nto purchase toys and books for their children. When the country depended\nmore upon machines, children in rural and urban areas, were less likely to be\nrequired to work at home. Beginning from the Industrial Revolution and rising\nslowly over the course of the 19th century, this trend increased exponentially\nafter civil war. John Locke, one of the most influential writers of his period,\ncreated the first clear and comprehensive statement of the 'environmental\nposition' that family education determines a child's life, and via this, he\nbecame the father of modem learning theory. During the colonial period, his\nteachings about child care gained a lot of recognition in America."
           },
           {
             "label": "D",
-            "content": "According to Jean Jacques Rousseau, who lived in an era of the American and"
+            "text": "According to Jean Jacques Rousseau, who lived in an era of the American and\nFrench Revolution, people were 'noble savages' in the original state of nature,\nmeaning they are innocent, free and uncorrupted. In 1762, Rousseau wrote a\nfamous novel Emile to convey his educational philosophy through a story of a\nboy's education from infancy to adult-hood. This work was based on his\nextensive observation of children and adolescents, their individuality, his\ndevelopmental theory and on the memories of his own childhood. He contrasts\nchildren with adults and describes their age-specific characteristics in terms of\nhistorical perspective and developmental psychology. Johan Heinrich\nPestalozzi, living during the early stages of the Industrial Revolution, sought to\ndevelop schools to nurture children's all-round development. He agreed with\nRousseau that humans are naturally good but were spoiled by a corrupt\nsociety. His approach to teaching consists of the general and special methods,\nand his theory was based upon establishing an emotionally healthy homelike\nlearning environment, which had to be in place before more specific\ninstructions occurred."
           },
           {
             "label": "E",
-            "content": "One of the best-documented cases of Pestalozzi’s theory concerned a so-called"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "and sometimes accepted people’s direct offers of food before his final capture.",
-      "questionRange": [
-        28,
-        31
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "and sometimes accepted people’s direct offers of food before his final capture.\nEventually, he was brought to Paris and expected to answer some profound\nquestions about the nature of human, but that goal was quashed very soon. A\nyoung physician Jean Marc Gaspard Itard was optimistic about the future of\nVictor and initiated a five-year education plan to civilise him and teach him to\nspeak. With a subsidy from the government, Itard recruited a local woman\nMadame Guerin to assist him to provide a semblance of a home for Victor, and\nhe spent an enormous amount of time and effort working with Victor. Itard’s\ngoal to teach Victor the basics of speech could never be fully achieved, but\nVictor had learnt some elementary forms of communication.\nF\nAlthough other educators were beginning to recognise the simple truth\nembedded in Rousseau’s philosophy, it is not enough to identify the stages of\nchildren’s development alone. There must be certain education which had to\nbe geared towards those stages. One of the early examples was the invention\nof kindergarten, which was a word and a movement created by a German-born\neducator, Friedrich Froebel in 1840. Froebel placed a high value on the\nimportance of play in children’s learning. His invention would spread around\nthe world eventually in a verity of forms. Froebel’s ideas were inspired through\nhis cooperation with Johann Heinrich Pestalozzi. Froebel didn’t introduce the\nnotion of kindergarten until 58 years old, and he had been a teacher for four\ndecades. The notion was a haven and a preparation for children who were\nabout to enter the regimented educational system. The use of guided or\nstructured play was a cornerstone of his kindergarten education because he\nbelieved that play was the most significant aspect of development at this time\nof life. Play served as a mechanism for a child to grow emotionally and to\nachieve a sense of self-worth. Meanwhile, teachers served to organise\nmaterials and a structured environment in which each child, as an individual,\ncould achieve these goals. When Froebel died in 1852, dozens of kindergartens\nhad been created in Germany. Kindergartens began to increase in Europe, and\nthe movement eventually reached and flourished in the United States in the\n20th century.\nQuestion 28 - 31\nReading Passage 1 has six paragraphs, A-F.\nChoose the correct heading for paragraphs A and C-E from the list of\nheadings below.\nWrite the correct number, i-vii, in boxes 28-31 on your answer sheet.\n\nList of Headings\ni\nThe inheritance and development of educational concepts of different\nthinkers\nii\nWhy children had to work to alleviate the burden on family\niii\nWhy children are not highly valued\niv\nThe explanation for children dying in hospital at their early age\nv\nThe first appearance of modem educational philosophy\nvi\nThe application of a creative learning method on a wild kid\nvii\nThe emergence and spread of the notion of kindergarten\n28\n Paragraph A\nExample Answer\nParagraph B ii\n29\n Paragraph C\n30\n Paragraph D\n31\n Paragraph E",
-        "tables": [],
-        "images": [],
-        "sections": [
+            "text": "One of the best-documented cases of Pestalozzi's theory concerned a so-called\nferal child named Victor, who was captured in a small town in the south of\nFrance in 1800. Prepubescent, mute, naked, and perhaps 11 or 12 years old,\nVictor had been seen foraging for food in the gardens of the locals in the area"
+          },
+          {
+            "label": null,
+            "text": "and sometimes accepted people's direct offers of food before his final capture.\nEventually, he was brought to Paris and expected to answer some profound\nquestions about the nature of human, but that goal was quashed very soon. A\nyoung physician Jean Marc Gaspard Itard was optimistic about the future of\nVictor and initiated a five-year education plan to civilise him and teach him to\nspeak. With a subsidy from the government, Itard recruited a local woman\nMadame Guerin to assist him to provide a semblance of a home for Victor, and\nhe spent an enormous amount of time and effort working with Victor. Itard's\ngoal to teach Victor the basics of speech could never be fully achieved, but\nVictor had learnt some elementary forms of communication."
+          },
           {
             "label": "F",
-            "content": "Although other educators were beginning to recognise the simple truth"
+            "text": "Although other educators were beginning to recognise the simple truth\nembedded in Rousseau's philosophy, it is not enough to identify the stages of\nchildren's development alone. There must be certain education which had to\nbe geared towards those stages. One of the early examples was the invention\nof kindergarten, which was a word and a movement created by a German-born\neducator, Friedrich Froebel in 1840. Froebel placed a high value on the\nimportance of play in children's learning. His invention would spread around\nthe world eventually in a verity of forms. Froebel's ideas were inspired through\nhis cooperation with Johann Heinrich Pestalozzi. Froebel didn't introduce the\nnotion of kindergarten until 58 years old, and he had been a teacher for four\ndecades. The notion was a haven and a preparation for children who were\nabout to enter the regimented educational system. The use of guided or\nstructured play was a cornerstone of his kindergarten education because he\nbelieved that play was the most significant aspect of development at this time\nof life. Play served as a mechanism for a child to grow emotionally and to\nachieve a sense of self-worth. Meanwhile, teachers served to organise\nmaterials and a structured environment in which each child, as an individual,\ncould achieve these goals. When Froebel died in 1852, dozens of kindergartens\nhad been created in Germany. Kindergartens began to increase in Europe, and\nthe movement eventually reached and flourished in the United States in the\n20th century."
           }
-        ]
+        ],
+        "text": "Education Philosophy\n\nAlthough we lack accurate statistics about child mortality in the pre-industrial\nperiod, we do have evidence that in the 1660s, the mortality rate for children\nwho died within 14 days of birth was as much as 30 per cent. Nearly all families\nsuffered some premature death. Since all parents expected to bury some of\ntheir children, they found it difficult to invest in their newborn children.\nMoreover, to protect themselves from the emotional consequences of\nchildren's death, parents avoided making any emotional commitment to an\ninfant. It is no wonder that we find mothers leave their babies in gutters or\nrefer to the death in the same paragraph with reference to pickles.\n\nThe 18th century witnessed the transformation from an agrarian economy to\nan industrial one, one of the vital social changes taking place in the Western\nworld. An increasing number of people moved from their villages and small\ntowns to big cities where life was quite different. Social supports which had\npreviously existed in smaller communities were replaced by ruthless problems\nsuch as poverty, crime, substandard housing and disease. Due to the need for\nadditional income to support the family, young children from the poorest\nfamilies were forced into early employment and thus their childhood became\npainfully short. Children as young as 7 might be required to work full-time,\nsubjected to unpleasant and unhealthy circumstances, from factories to\nprostitution. Although such a role has disappeared in most wealthy countries,\nthe practice of childhood employment still remains a staple in underdeveloped\ncountries and rarely disappeared entirely.\n\nThe lives of children underwent a drastic change during the 1800s in the\nUnited States. Previously, children from both rural and urban families were\nexpected to participate in everyday labour due to the bulk of manual hard\nworking. Nevertheless, thanks to the technological advances of the mid-1800s,\ncoupled with the rise of the middle class and redefinition of roles of family\nmembers, work and home became less synonymous over time. People began\nto purchase toys and books for their children. When the country depended\nmore upon machines, children in rural and urban areas, were less likely to be\nrequired to work at home. Beginning from the Industrial Revolution and rising\nslowly over the course of the 19th century, this trend increased exponentially\nafter civil war. John Locke, one of the most influential writers of his period,\ncreated the first clear and comprehensive statement of the 'environmental\nposition' that family education determines a child's life, and via this, he\nbecame the father of modem learning theory. During the colonial period, his\nteachings about child care gained a lot of recognition in America.\n\nAccording to Jean Jacques Rousseau, who lived in an era of the American and\nFrench Revolution, people were 'noble savages' in the original state of nature,\nmeaning they are innocent, free and uncorrupted. In 1762, Rousseau wrote a\nfamous novel Emile to convey his educational philosophy through a story of a\nboy's education from infancy to adult-hood. This work was based on his\nextensive observation of children and adolescents, their individuality, his\ndevelopmental theory and on the memories of his own childhood. He contrasts\nchildren with adults and describes their age-specific characteristics in terms of\nhistorical perspective and developmental psychology. Johan Heinrich\nPestalozzi, living during the early stages of the Industrial Revolution, sought to\ndevelop schools to nurture children's all-round development. He agreed with\nRousseau that humans are naturally good but were spoiled by a corrupt\nsociety. His approach to teaching consists of the general and special methods,\nand his theory was based upon establishing an emotionally healthy homelike\nlearning environment, which had to be in place before more specific\ninstructions occurred.\n\nOne of the best-documented cases of Pestalozzi's theory concerned a so-called\nferal child named Victor, who was captured in a small town in the south of\nFrance in 1800. Prepubescent, mute, naked, and perhaps 11 or 12 years old,\nVictor had been seen foraging for food in the gardens of the locals in the area\n\nand sometimes accepted people's direct offers of food before his final capture.\nEventually, he was brought to Paris and expected to answer some profound\nquestions about the nature of human, but that goal was quashed very soon. A\nyoung physician Jean Marc Gaspard Itard was optimistic about the future of\nVictor and initiated a five-year education plan to civilise him and teach him to\nspeak. With a subsidy from the government, Itard recruited a local woman\nMadame Guerin to assist him to provide a semblance of a home for Victor, and\nhe spent an enormous amount of time and effort working with Victor. Itard's\ngoal to teach Victor the basics of speech could never be fully achieved, but\nVictor had learnt some elementary forms of communication.\n\nAlthough other educators were beginning to recognise the simple truth\nembedded in Rousseau's philosophy, it is not enough to identify the stages of\nchildren's development alone. There must be certain education which had to\nbe geared towards those stages. One of the early examples was the invention\nof kindergarten, which was a word and a movement created by a German-born\neducator, Friedrich Froebel in 1840. Froebel placed a high value on the\nimportance of play in children's learning. His invention would spread around\nthe world eventually in a verity of forms. Froebel's ideas were inspired through\nhis cooperation with Johann Heinrich Pestalozzi. Froebel didn't introduce the\nnotion of kindergarten until 58 years old, and he had been a teacher for four\ndecades. The notion was a haven and a preparation for children who were\nabout to enter the regimented educational system. The use of guided or\nstructured play was a cornerstone of his kindergarten education because he\nbelieved that play was the most significant aspect of development at this time\nof life. Play served as a mechanism for a child to grow emotionally and to\nachieve a sense of self-worth. Meanwhile, teachers served to organise\nmaterials and a structured environment in which each child, as an individual,\ncould achieve these goals. When Froebel died in 1852, dozens of kindergartens\nhad been created in Germany. Kindergartens began to increase in Europe, and\nthe movement eventually reached and flourished in the United States in the\n20th century.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the list of headings below. Write the correct number, i-vii, in boxes 28-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            31
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii"
+            ],
+            "labels": [
+              "The inheritance and development of educational concepts of different thinkers",
+              "Why children had to work to alleviate the burden on family",
+              "Why children are not highly valued",
+              "The explanation for children dying in hospital at their early age",
+              "The first appearance of modem educational philosophy",
+              "The application of a creative learning method on a wild kid",
+              "The emergence and spread of the notion of kindergarten"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 28,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

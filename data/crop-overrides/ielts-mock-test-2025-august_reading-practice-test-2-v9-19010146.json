@@ -1,0 +1,30 @@
+{
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A-D.",
+    "questions": {
+      "40": {
+        "prompt": "What is the main idea of this passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Experimental research often gives false results.",
+          "Long-held beliefs can be challenged by new information.",
+          "The scientific community is conservative by nature.",
+          "Ideas which don't fit our belief system must be wrong."
+        ]
+      }
+    }
+  }
+}

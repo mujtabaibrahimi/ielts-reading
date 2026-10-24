@@ -1,318 +1,1257 @@
 {
   "id": "ielts-mock-test-2026-january_reading-practise-test-2-v9-19042171",
   "type": "academic",
-  "source": "ielts-mock-test-2026-january reading-practise-test-2-v9-19042171",
+  "title": "IELTS Academic 2026 January - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2026",
+  "testNumber": 2,
+  "year": 2026,
+  "month": 1,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2026-january_reading-practise-test-2-v9-19042171.pdf",
-  "total_questions": 20,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Answers Underground",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "You should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nAnswers Underground\nBurying greenhouse gases to slow global warming\nA \nOne way to slow global warming is to take the greenhouse gases that cause it\nand bury them. That is the idea behind projects now under way to capture\nemissions from power plants and factories and force them underground or\ndeep into the ocean. There, proponents argue, they could be trapped for\nthousands of years.\nB \nThis concept, known as carbon sequestration, is already being used by oil\ncompanies to improve the efficiency of oil wells, and now engineers have\nbegun exploring ways to capture carbon dioxide emissions from power plants\nto reduce their impact on the environment. At a recent conference, delegates\nfrom fourteen industrialised and developing countries agreed to engage in\ncooperative research into capturing and storing carbon dioxide.\nC \nThe goal is to stabilise emissions of greenhouse gases that trap heat in the\natmosphere. Over the past century, airborne carbon dioxide concentrations\nhave risen by nearly a third, according to Scott Klara, sequestration manager at\nthe US National Energy Technology Laboratory. Unless emissions are slashed\nby two thirds worldwide, the Intergovernmental Panel on Climate Change\npredicts that concentrations will rise to double the levels of the early 1700s,\nbefore the Industrial Revolution. These increased levels of carbon-based\ncompounds in the atmosphere are believed to be the cause of rising\ntemperatures and sea levels around the world. Ignoring the problem is\ntherefore not an option.\nD \nLimiting emissions, however, is not an easy undertaking since increased\nenergy consumption is a key to economic growth. Two thirds of the world's\npower-generating capacity, expected to come into use by 2030, has not been\nconstructed yet, according to the International Energy Agency. The developing\nworld will be particularly important. China and India alone are expected to\naccount for two thirds of the global increase in coal usage over the next fifteen\n\nyears.\nE \nSolutions are being sought. Work is being undertaken with alternatives to fossil\nfuels such as wind and solar energy, but it will be a long time before these\nalternative sources play a major role in fulfilling the world's energy needs.\nGeophysicist Klaus Lackner points out that around 85% of the world's energy is\nderived from fossil fuels, the cheapest and most plentiful energy source\navailable, and the developing world in particular is unlikely to give them up.\nThat is why many scientists support sequestration\nF \nHowever, several problems must be resolved before sequestration plays a key\nrole in a low-carbon future. One is the cost of capturing carbon dioxide. A\nsecond is storing the gas safely once it's been captured. Today, it costs about\n$US50 to extract and store a tonne of carbon dioxide from a power plant, which\nraises the cost of producing electricity by 30-80%. Lackner argues that it is too\nexpensive to adapt existing plants to capture carbon dioxide. Instead, he\nrecommends that carbon- capturing capacity be built into future plants.\nEconomic incentives are needed to encourage companies to identify low-cost\ncarbon-sequestration solutions. A government-supported program in the US\nhas enabled some factories to partially capture carbon emissions, which they\nthen sell for various uses, including carbonating soft drinks. However, there are\nno power plants ready for full carbon capture.\nG \nOnce the carbon has been captured it must be stored. Natural carbon sinks,\nsuch as forests and wetlands, can remove some carbon dioxide from the\natmosphere, but not nearly enough. Carbon dioxide could be pumped to the\nbottom of the ocean, where the pressure would keep it pinned to the seabed in\nliquid form for decades, but that has serious long-term environmental risks.\nDavid Hawkins, from the Natural Resources Defense Council in Washington,\nwarns that the carbon dioxide could radically alter the chemical balance in the\nocean, with potentially harmful consequences for marine life. Others worry that\nthe carbon dioxide could escape back into the atmosphere.\nH \nA few promising attempts at underground carbon sequestration are currently\nunder way. In western Canada, an oil company is pumping liquefied carbon\ndioxide into oil wells to force more oil to the surface and boost recovery by 10-\n15%. The company gets the carbon dioxide via a pipeline from North Dakota in\n\nthe US, where the gas is captured from a synthetic-fuel plant. In another\ninstance in the North Sea, a Norwegian energy firm is injecting carbon dioxide\nwaste from its natural-gas operations into a saline aquifer 1,000 metres\nbeneath the ocean floor.\nI \nClearly, storing large amounts of gas underground raises environmental fears.\nEnvironmentalists argue that more research is needed on potential storage\nsites, such as oil and gas reservoirs and coal seams unsuitable for mining, to\nensure that they offer long-term solutions. The World Wide Fund for Nature\nAustralia has argued that the primary risk of underground storage is that\ndangerously large volumes of carbon dioxide might escape and people become\nasphyxiated.\nJ \nLittle progress in slashing global greenhouse gases can be achieved without\ninvolving developing countries, but for now carbon sequestration is not their\npriority because of the increased costs this would add to energy production.\nHawkins argues that, to encourage developing nations to use sequestration,\ndeveloped nations will have to provide assistance. He suggests a multilateral\ninitiative in which developed nations, perhaps by purchasing carbon credits\nfrom poorer countries, finance the difference between the cost of a regular\ncoal-fired power plant and one that captures carbon emissions. That is, the rich\n- who will remain the world's biggest polluters for years to come - would buy\nthe right to emit carbon from the poor, who would use the proceeds to build\nbetter plants.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Answers Underground"
+          },
+          {
+            "label": null,
+            "text": "Burying greenhouse gases to slow global warming"
+          },
           {
             "label": "A",
-            "content": "One way to slow global warming is to take the greenhouse gases that cause it"
+            "text": "One way to slow global warming is to take the greenhouse gases that cause it\nand bury them. That is the idea behind projects now under way to capture\nemissions from power plants and factories and force them underground or\ndeep into the ocean. There, proponents argue, they could be trapped for\nthousands of years."
           },
           {
             "label": "B",
-            "content": "This concept, known as carbon sequestration, is already being used by oil"
+            "text": "This concept, known as carbon sequestration, is already being used by oil\ncompanies to improve the efficiency of oil wells, and now engineers have\nbegun exploring ways to capture carbon dioxide emissions from power plants\nto reduce their impact on the environment. At a recent conference, delegates\nfrom fourteen industrialised and developing countries agreed to engage in\ncooperative research into capturing and storing carbon dioxide."
           },
           {
             "label": "C",
-            "content": "The goal is to stabilise emissions of greenhouse gases that trap heat in the"
+            "text": "The goal is to stabilise emissions of greenhouse gases that trap heat in the\natmosphere. Over the past century, airborne carbon dioxide concentrations\nhave risen by nearly a third, according to Scott Klara, sequestration manager at\nthe US National Energy Technology Laboratory. Unless emissions are slashed\nby two thirds worldwide, the Intergovernmental Panel on Climate Change\npredicts that concentrations will rise to double the levels of the early 1700s,\nbefore the Industrial Revolution. These increased levels of carbon-based\ncompounds in the atmosphere are believed to be the cause of rising\ntemperatures and sea levels around the world. Ignoring the problem is\ntherefore not an option."
           },
           {
             "label": "D",
-            "content": "Limiting emissions, however, is not an easy undertaking since increased"
+            "text": "Limiting emissions, however, is not an easy undertaking since increased\nenergy consumption is a key to economic growth. Two thirds of the world's\npower-generating capacity, expected to come into use by 2030, has not been\nconstructed yet, according to the International Energy Agency. The developing\nworld will be particularly important. China and India alone are expected to\naccount for two thirds of the global increase in coal usage over the next fifteen"
+          },
+          {
+            "label": null,
+            "text": "years."
           },
           {
             "label": "E",
-            "content": "Solutions are being sought. Work is being undertaken with alternatives to fossil"
+            "text": "Solutions are being sought. Work is being undertaken with alternatives to fossil\nfuels such as wind and solar energy, but it will be a long time before these\nalternative sources play a major role in fulfilling the world's energy needs.\nGeophysicist Klaus Lackner points out that around 85% of the world's energy is\nderived from fossil fuels, the cheapest and most plentiful energy source\navailable, and the developing world in particular is unlikely to give them up.\nThat is why many scientists support sequestration"
           },
           {
             "label": "F",
-            "content": "However, several problems must be resolved before sequestration plays a key"
+            "text": "However, several problems must be resolved before sequestration plays a key\nrole in a low-carbon future. One is the cost of capturing carbon dioxide. A\nsecond is storing the gas safely once it's been captured. Today, it costs about\n$US50 to extract and store a tonne of carbon dioxide from a power plant, which\nraises the cost of producing electricity by 30-80%. Lackner argues that it is too\nexpensive to adapt existing plants to capture carbon dioxide. Instead, he\nrecommends that carbon- capturing capacity be built into future plants.\nEconomic incentives are needed to encourage companies to identify low-cost\ncarbon-sequestration solutions. A government-supported program in the US\nhas enabled some factories to partially capture carbon emissions, which they\nthen sell for various uses, including carbonating soft drinks. However, there are\nno power plants ready for full carbon capture."
           },
           {
             "label": "G",
-            "content": "Once the carbon has been captured it must be stored. Natural carbon sinks,"
+            "text": "Once the carbon has been captured it must be stored. Natural carbon sinks,\nsuch as forests and wetlands, can remove some carbon dioxide from the\natmosphere, but not nearly enough. Carbon dioxide could be pumped to the\nbottom of the ocean, where the pressure would keep it pinned to the seabed in\nliquid form for decades, but that has serious long-term environmental risks.\nDavid Hawkins, from the Natural Resources Defense Council in Washington,\nwarns that the carbon dioxide could radically alter the chemical balance in the\nocean, with potentially harmful consequences for marine life. Others worry that\nthe carbon dioxide could escape back into the atmosphere."
           },
           {
-            "label": "A",
-            "content": "few promising attempts at underground carbon sequestration are currently"
+            "label": "H",
+            "text": "A few promising attempts at underground carbon sequestration are currently\nunder way. In western Canada, an oil company is pumping liquefied carbon\ndioxide into oil wells to force more oil to the surface and boost recovery by 10-\n15%. The company gets the carbon dioxide via a pipeline from North Dakota in"
+          },
+          {
+            "label": null,
+            "text": "the US, where the gas is captured from a synthetic-fuel plant. In another\ninstance in the North Sea, a Norwegian energy firm is injecting carbon dioxide\nwaste from its natural-gas operations into a saline aquifer 1,000 metres\nbeneath the ocean floor."
+          },
+          {
+            "label": "I",
+            "text": "Clearly, storing large amounts of gas underground raises environmental fears.\nEnvironmentalists argue that more research is needed on potential storage\nsites, such as oil and gas reservoirs and coal seams unsuitable for mining, to\nensure that they offer long-term solutions. The World Wide Fund for Nature\nAustralia has argued that the primary risk of underground storage is that\ndangerously large volumes of carbon dioxide might escape and people become\nasphyxiated."
+          },
+          {
+            "label": "J",
+            "text": "Little progress in slashing global greenhouse gases can be achieved without\ninvolving developing countries, but for now carbon sequestration is not their\npriority because of the increased costs this would add to energy production.\nHawkins argues that, to encourage developing nations to use sequestration,\ndeveloped nations will have to provide assistance. He suggests a multilateral\ninitiative in which developed nations, perhaps by purchasing carbon credits\nfrom poorer countries, finance the difference between the cost of a regular\ncoal-fired power plant and one that captures carbon emissions. That is, the rich\n- who will remain the world's biggest polluters for years to come - would buy\nthe right to emit carbon from the poor, who would use the proceeds to build\nbetter plants."
           }
-        ]
+        ],
+        "text": "Answers Underground\n\nBurying greenhouse gases to slow global warming\n\nOne way to slow global warming is to take the greenhouse gases that cause it\nand bury them. That is the idea behind projects now under way to capture\nemissions from power plants and factories and force them underground or\ndeep into the ocean. There, proponents argue, they could be trapped for\nthousands of years.\n\nThis concept, known as carbon sequestration, is already being used by oil\ncompanies to improve the efficiency of oil wells, and now engineers have\nbegun exploring ways to capture carbon dioxide emissions from power plants\nto reduce their impact on the environment. At a recent conference, delegates\nfrom fourteen industrialised and developing countries agreed to engage in\ncooperative research into capturing and storing carbon dioxide.\n\nThe goal is to stabilise emissions of greenhouse gases that trap heat in the\natmosphere. Over the past century, airborne carbon dioxide concentrations\nhave risen by nearly a third, according to Scott Klara, sequestration manager at\nthe US National Energy Technology Laboratory. Unless emissions are slashed\nby two thirds worldwide, the Intergovernmental Panel on Climate Change\npredicts that concentrations will rise to double the levels of the early 1700s,\nbefore the Industrial Revolution. These increased levels of carbon-based\ncompounds in the atmosphere are believed to be the cause of rising\ntemperatures and sea levels around the world. Ignoring the problem is\ntherefore not an option.\n\nLimiting emissions, however, is not an easy undertaking since increased\nenergy consumption is a key to economic growth. Two thirds of the world's\npower-generating capacity, expected to come into use by 2030, has not been\nconstructed yet, according to the International Energy Agency. The developing\nworld will be particularly important. China and India alone are expected to\naccount for two thirds of the global increase in coal usage over the next fifteen\n\nyears.\n\nSolutions are being sought. Work is being undertaken with alternatives to fossil\nfuels such as wind and solar energy, but it will be a long time before these\nalternative sources play a major role in fulfilling the world's energy needs.\nGeophysicist Klaus Lackner points out that around 85% of the world's energy is\nderived from fossil fuels, the cheapest and most plentiful energy source\navailable, and the developing world in particular is unlikely to give them up.\nThat is why many scientists support sequestration\n\nHowever, several problems must be resolved before sequestration plays a key\nrole in a low-carbon future. One is the cost of capturing carbon dioxide. A\nsecond is storing the gas safely once it's been captured. Today, it costs about\n$US50 to extract and store a tonne of carbon dioxide from a power plant, which\nraises the cost of producing electricity by 30-80%. Lackner argues that it is too\nexpensive to adapt existing plants to capture carbon dioxide. Instead, he\nrecommends that carbon- capturing capacity be built into future plants.\nEconomic incentives are needed to encourage companies to identify low-cost\ncarbon-sequestration solutions. A government-supported program in the US\nhas enabled some factories to partially capture carbon emissions, which they\nthen sell for various uses, including carbonating soft drinks. However, there are\nno power plants ready for full carbon capture.\n\nOnce the carbon has been captured it must be stored. Natural carbon sinks,\nsuch as forests and wetlands, can remove some carbon dioxide from the\natmosphere, but not nearly enough. Carbon dioxide could be pumped to the\nbottom of the ocean, where the pressure would keep it pinned to the seabed in\nliquid form for decades, but that has serious long-term environmental risks.\nDavid Hawkins, from the Natural Resources Defense Council in Washington,\nwarns that the carbon dioxide could radically alter the chemical balance in the\nocean, with potentially harmful consequences for marine life. Others worry that\nthe carbon dioxide could escape back into the atmosphere.\n\nA few promising attempts at underground carbon sequestration are currently\nunder way. In western Canada, an oil company is pumping liquefied carbon\ndioxide into oil wells to force more oil to the surface and boost recovery by 10-\n15%. The company gets the carbon dioxide via a pipeline from North Dakota in\n\nthe US, where the gas is captured from a synthetic-fuel plant. In another\ninstance in the North Sea, a Norwegian energy firm is injecting carbon dioxide\nwaste from its natural-gas operations into a saline aquifer 1,000 metres\nbeneath the ocean floor.\n\nClearly, storing large amounts of gas underground raises environmental fears.\nEnvironmentalists argue that more research is needed on potential storage\nsites, such as oil and gas reservoirs and coal seams unsuitable for mining, to\nensure that they offer long-term solutions. The World Wide Fund for Nature\nAustralia has argued that the primary risk of underground storage is that\ndangerously large volumes of carbon dioxide might escape and people become\nasphyxiated.\n\nLittle progress in slashing global greenhouse gases can be achieved without\ninvolving developing countries, but for now carbon sequestration is not their\npriority because of the increased costs this would add to energy production.\nHawkins argues that, to encourage developing nations to use sequestration,\ndeveloped nations will have to provide assistance. He suggests a multilateral\ninitiative in which developed nations, perhaps by purchasing carbon credits\nfrom poorer countries, finance the difference between the cost of a regular\ncoal-fired power plant and one that captures carbon emissions. That is, the rich\n- who will remain the world's biggest polluters for years to come - would buy\nthe right to emit carbon from the poor, who would use the proceeds to build\nbetter plants.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "multiple-choice",
+          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice",
+          "instruction": "Reading Passage has ten paragraphs, A-J. Which paragraph contains the following information? Choose the correct letter, A-J.",
+          "body": null,
+          "range": [
+            7,
+            9
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I",
+              "J"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 10-13 below, choose",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The cost implications of fitting plants with the necessary",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The effects of sequestration could have on sea creatures.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The reasons why products such as oil and gas continue",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
           "number": 4,
-          "type": "matching-features",
-          "prompt": "The need for industrialised countries to give aid to less wealthy countries.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue",
-          "answer": "E"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The need for industrialised countries to give aid to less",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
-          "prompt": "The significant increase in carbon dioxide concentrations in the air over the last 100 years.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue",
-          "answer": "A"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The significant increase in carbon dioxide concentrations",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 6,
-          "type": "matching-features",
-          "prompt": "The potential for sequestration to harm human life. List of People and organisations A Scott Klara",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue",
-          "answer": "F"
+          "type": "multiple-choice",
+          "groupId": "p1g1",
+          "prompt": "The potential for sequestration to harm human life. List of People and organisations",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": [
+            "Scott Klara",
+            "Intergovernmental Panel on Climate Change",
+            "International Energy Agency",
+            "Klaus Lackner",
+            "David Hawkins",
+            "World Wide Fund for Nature Australia"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Examples of sequestration already in use in several parts of the world",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "An example of putting carbon dioxide emissions to use in the food and beverage industry",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Current examples of the environmental harm attributed to carbon dioxide in the air",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "Both developing and developed nations have decided to investigate carbon dioxide sequestration.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue Which paragraph contains the following information? Choose the correct letter, A-J, in boxes 7-9 below. 7 Examples of sequestration already in use in several parts of the world 8 An example of putting carbon dioxide emissions to use in the food and beverage industry 9 Current examples of the environmental harm attributed to carbon dioxide in the air Do the following statements agree with the information given in Reading Passage? In boxes 10-13 below, choose",
-          "answer": "TRUE",
+          "groupId": "p1g3",
+          "prompt": "Both developing and developed nations have decided\nto investigate carbon dioxide sequestration.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
+          "groupId": "p1g3",
           "prompt": "A growing economy will use more power.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue Which paragraph contains the following information? Choose the correct letter, A-J, in boxes 7-9 below. 7 Examples of sequestration already in use in several parts of the world 8 An example of putting carbon dioxide emissions to use in the food and beverage industry 9 Current examples of the environmental harm attributed to carbon dioxide in the air Do the following statements agree with the information given in Reading Passage? In boxes 10-13 below, choose",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
-          "prompt": "Capturing carbon dioxide has become financially attractive.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue Which paragraph contains the following information? Choose the correct letter, A-J, in boxes 7-9 below. 7 Examples of sequestration already in use in several parts of the world 8 An example of putting carbon dioxide emissions to use in the food and beverage industry 9 Current examples of the environmental harm attributed to carbon dioxide in the air Do the following statements agree with the information given in Reading Passage? In boxes 10-13 below, choose",
-          "answer": "FALSE",
+          "groupId": "p1g3",
+          "prompt": "Capturing carbon dioxide has become financially\nattractive.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "More forests need to be planted to improve the atmosphere.",
-          "instruction": "Look at the following issues (Questions 1-6) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. Choose the correct letter, A-F, in boxes 1-6 below. NB You may use any letter more than once. 1 The cost implications of fitting plants with the necessary equipment. 2 The effects of sequestration could have on sea creatures. 3 The reasons why products such as oil and gas continue Which paragraph contains the following information? Choose the correct letter, A-J, in boxes 7-9 below. 7 Examples of sequestration already in use in several parts of the world 8 An example of putting carbon dioxide emissions to use in the food and beverage industry 9 Current examples of the environmental harm attributed to carbon dioxide in the air Do the following statements agree with the information given in Reading Passage? In boxes 10-13 below, choose",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g3",
+          "prompt": "More forests need to be planted to improve the\natmosphere.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Science and the Stradivarius:Uncovering",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "You should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nScience and the Stradivarius:Uncovering\nthe secret of quality\nA \nViolins made by long-dead Italian craftsmen from the Cremona region are\nbeautiful works of art, coveted by collectors as well as players. Particularly\noutstanding violins have reputedly changed hands for over a million pounds. In\ncontrast, fine modern instruments can be bought for under £100. Do such\nfigures really reflect such large differences in quality? After more than a\nhundred years of vigorous debate, this question remains highly contentious,\nprovoking strongly held but divergent views among musicians, violin makers\nand scientists alike.\nB \nEvery violin, whether a Stradivarius or the cheapest factory- made copy, has a\ndistinctive 'voice’ of its 0. Just as any musician can immediately recognise the\ndifference between Domingo and Pavarotti singing the same operatic aria, so a\nskilled violinist can distinguish between different qualities in the sound\nproduced by individual Stradivari or Guarneri violins. Individual notes on a\nsingle instrument sound different each time they are played, which suggests\nthat the perceived tone of a violin must be related to the overall design of the\ninstrument, rather than the frequencies of particular resonances on it. But\nalthough various attempts have been made to analyse such global properties,\nit is extremely difficult to distinguish between a fine Stradivarius instrument\nand an indifferent modern copy on the basis of the measured response alone.\nThe ear is a supreme detection device, and a system has yet to be developed\nwhich can match the brain's sophisticated ability to assess complex sounds.\nC \nSo how do skilled violinmakers optimise the tone of an instrument during the\nconstruction process? They begin by selecting a wood of the highest possible\nquality for the front and back plates (or parts of the violin), which they test by\ntapping with a hammer and judging how well it 'rings’. The next important step\nis to skillfully carve the plates out of the solid wood, taking great care to get\nthe right degree of arching and variations in thickness. Traditional makers\noptimise the thickness by testing the ‘feel’ of the plates when they are flexed,\nand by the sounds produced when they are tapped at different positions with\n\nthe knuckles.\nD \nHowever, in the last 50 years or so a group of violin makers has emerged who\nhave tried to take a more overtly scientific approach to violin making. One\ncommon practice they have adopted is to replace the traditional flexing and\ntapping of plates by controlled measurements. During the carving process, the\nthinned plates are sprinkled with flakes of glitter and suspended horizontally\nabove a loudspeaker. The glitter forms a pattern each time the loudspeaker\nexcites a resonance. The aim is to interactively 'tune' these first few free plate\nresonances to specified patterns.\nE \nUnfortunately, there are very few examples of such measurements for really\nfine Italian instruments because their owners are naturally reluctant to allow\ntheir violins to be taken apart for the sake of science. The few tests that have\nbeen performed suggest that the first Italian makers may have tuned the\nresonant modes of the individual plates - which they could identify as they\ntapped them - to exact musical intervals. This would be consistent with the\nprevailing Renaissance view of ’perfection1, which was measured in terms of\nnumbers and exact ratios. However, there is no historical data to support this\ncase.\nF \nAnother factor that affects sound quality is the presence of moisture. To\nachieve the quality of “vibrancy” in a violin requires high-quality wood with low\ninternal damping. By measuring the pattern of growth-rings in the wood of a\nStradivarius, we know that the Italian violin makers sometimes used planks of\nwood that had only been seasoned for five years. However, such wood is now\n300 years old, and the intrinsic internal damping will almost certainly have\ndecreased with time. The age of the wood may therefore automatically\ncontribute to the improved quality of older instruments. This may also explain\nwhy the quality of a modern instrument appears to improve in its first few\nyears.\nG \nAnother factor thought to account for sound quality is the nature of the varnish\nused to protect the instrument. One of the most popular theories for well over a\ncentury to account for the Stradivarius secret has been that the varnish had\nsome sort of 'magic' composition. However, historical research has shown that\nit was very similar to the varnish used today. So apart from the possibility that\n\nthe Italian varnish was contaminated with the wings of passing insects and\ndebris from the workshop floor, there is no convincing evidence to support the\nidea of a secret formula.\nH \nOther researchers, meanwhile, have claimed that Stradivarius's secret was to\nsoak the timber in water, to leach out supposedly harmful chemicals, before it\nwas seasoned. Although this would be consistent with the idea that the masts\nand cars of recently sunken Venetian war galleys might have been used to\nmake violins, other scientific and historical evidence to support this view is\nunconvincing.\nI \nIn conclusion, science has not provided any convincing evidence to set\nCremonese instruments apart from the finest violins made by skilled craftsmen\ntoday. Indeed, some leading soloists do occasionally play on modern\ninstruments. However, the foremost soloists - and, not surprisingly, violin\ndealers, who have a vested interest in maintaining the Cremonese legend of\nintrinsic superiority - remain utterly unconvinced.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Science and the Stradivarius:Uncovering\nthe secret of quality"
+          },
           {
             "label": "A",
-            "content": "Violins made by long-dead Italian craftsmen from the Cremona region are"
+            "text": "Violins made by long-dead Italian craftsmen from the Cremona region are\nbeautiful works of art, coveted by collectors as well as players. Particularly\noutstanding violins have reputedly changed hands for over a million pounds. In\ncontrast, fine modern instruments can be bought for under £100. Do such\nfigures really reflect such large differences in quality? After more than a\nhundred years of vigorous debate, this question remains highly contentious,\nprovoking strongly held but divergent views among musicians, violin makers\nand scientists alike."
           },
           {
             "label": "B",
-            "content": "Every violin, whether a Stradivarius or the cheapest factory- made copy, has a"
+            "text": "Every violin, whether a Stradivarius or the cheapest factory- made copy, has a\ndistinctive 'voice' of its 0. Just as any musician can immediately recognise the\ndifference between Domingo and Pavarotti singing the same operatic aria, so a\nskilled violinist can distinguish between different qualities in the sound\nproduced by individual Stradivari or Guarneri violins. Individual notes on a\nsingle instrument sound different each time they are played, which suggests\nthat the perceived tone of a violin must be related to the overall design of the\ninstrument, rather than the frequencies of particular resonances on it. But\nalthough various attempts have been made to analyse such global properties,\nit is extremely difficult to distinguish between a fine Stradivarius instrument\nand an indifferent modern copy on the basis of the measured response alone.\nThe ear is a supreme detection device, and a system has yet to be developed\nwhich can match the brain's sophisticated ability to assess complex sounds."
           },
           {
             "label": "C",
-            "content": "So how do skilled violinmakers optimise the tone of an instrument during the"
+            "text": "So how do skilled violinmakers optimise the tone of an instrument during the\nconstruction process? They begin by selecting a wood of the highest possible\nquality for the front and back plates (or parts of the violin), which they test by\ntapping with a hammer and judging how well it 'rings'. The next important step\nis to skillfully carve the plates out of the solid wood, taking great care to get\nthe right degree of arching and variations in thickness. Traditional makers\noptimise the thickness by testing the 'feel' of the plates when they are flexed,\nand by the sounds produced when they are tapped at different positions with"
+          },
+          {
+            "label": null,
+            "text": "the knuckles."
           },
           {
             "label": "D",
-            "content": "However, in the last 50 years or so a group of violin makers has emerged who"
+            "text": "However, in the last 50 years or so a group of violin makers has emerged who\nhave tried to take a more overtly scientific approach to violin making. One\ncommon practice they have adopted is to replace the traditional flexing and\ntapping of plates by controlled measurements. During the carving process, the\nthinned plates are sprinkled with flakes of glitter and suspended horizontally\nabove a loudspeaker. The glitter forms a pattern each time the loudspeaker\nexcites a resonance. The aim is to interactively 'tune' these first few free plate\nresonances to specified patterns."
           },
           {
             "label": "E",
-            "content": "Unfortunately, there are very few examples of such measurements for really"
+            "text": "Unfortunately, there are very few examples of such measurements for really\nfine Italian instruments because their owners are naturally reluctant to allow\ntheir violins to be taken apart for the sake of science. The few tests that have\nbeen performed suggest that the first Italian makers may have tuned the\nresonant modes of the individual plates - which they could identify as they\ntapped them - to exact musical intervals. This would be consistent with the\nprevailing Renaissance view of 'perfection1, which was measured in terms of\nnumbers and exact ratios. However, there is no historical data to support this\ncase."
           },
           {
             "label": "F",
-            "content": "Another factor that affects sound quality is the presence of moisture. To"
+            "text": "Another factor that affects sound quality is the presence of moisture. To\nachieve the quality of \"vibrancy\" in a violin requires high-quality wood with low\ninternal damping. By measuring the pattern of growth-rings in the wood of a\nStradivarius, we know that the Italian violin makers sometimes used planks of\nwood that had only been seasoned for five years. However, such wood is now\n300 years old, and the intrinsic internal damping will almost certainly have\ndecreased with time. The age of the wood may therefore automatically\ncontribute to the improved quality of older instruments. This may also explain\nwhy the quality of a modern instrument appears to improve in its first few\nyears."
           },
           {
             "label": "G",
-            "content": "Another factor thought to account for sound quality is the nature of the varnish"
+            "text": "Another factor thought to account for sound quality is the nature of the varnish\nused to protect the instrument. One of the most popular theories for well over a\ncentury to account for the Stradivarius secret has been that the varnish had\nsome sort of 'magic' composition. However, historical research has shown that\nit was very similar to the varnish used today. So apart from the possibility that"
+          },
+          {
+            "label": null,
+            "text": "the Italian varnish was contaminated with the wings of passing insects and\ndebris from the workshop floor, there is no convincing evidence to support the\nidea of a secret formula."
+          },
+          {
+            "label": "H",
+            "text": "Other researchers, meanwhile, have claimed that Stradivarius's secret was to\nsoak the timber in water, to leach out supposedly harmful chemicals, before it\nwas seasoned. Although this would be consistent with the idea that the masts\nand cars of recently sunken Venetian war galleys might have been used to\nmake violins, other scientific and historical evidence to support this view is\nunconvincing."
+          },
+          {
+            "label": "I",
+            "text": "In conclusion, science has not provided any convincing evidence to set\nCremonese instruments apart from the finest violins made by skilled craftsmen\ntoday. Indeed, some leading soloists do occasionally play on modern\ninstruments. However, the foremost soloists - and, not surprisingly, violin\ndealers, who have a vested interest in maintaining the Cremonese legend of\nintrinsic superiority - remain utterly unconvinced."
           }
-        ]
+        ],
+        "text": "Science and the Stradivarius:Uncovering\nthe secret of quality\n\nViolins made by long-dead Italian craftsmen from the Cremona region are\nbeautiful works of art, coveted by collectors as well as players. Particularly\noutstanding violins have reputedly changed hands for over a million pounds. In\ncontrast, fine modern instruments can be bought for under £100. Do such\nfigures really reflect such large differences in quality? After more than a\nhundred years of vigorous debate, this question remains highly contentious,\nprovoking strongly held but divergent views among musicians, violin makers\nand scientists alike.\n\nEvery violin, whether a Stradivarius or the cheapest factory- made copy, has a\ndistinctive 'voice' of its 0. Just as any musician can immediately recognise the\ndifference between Domingo and Pavarotti singing the same operatic aria, so a\nskilled violinist can distinguish between different qualities in the sound\nproduced by individual Stradivari or Guarneri violins. Individual notes on a\nsingle instrument sound different each time they are played, which suggests\nthat the perceived tone of a violin must be related to the overall design of the\ninstrument, rather than the frequencies of particular resonances on it. But\nalthough various attempts have been made to analyse such global properties,\nit is extremely difficult to distinguish between a fine Stradivarius instrument\nand an indifferent modern copy on the basis of the measured response alone.\nThe ear is a supreme detection device, and a system has yet to be developed\nwhich can match the brain's sophisticated ability to assess complex sounds.\n\nSo how do skilled violinmakers optimise the tone of an instrument during the\nconstruction process? They begin by selecting a wood of the highest possible\nquality for the front and back plates (or parts of the violin), which they test by\ntapping with a hammer and judging how well it 'rings'. The next important step\nis to skillfully carve the plates out of the solid wood, taking great care to get\nthe right degree of arching and variations in thickness. Traditional makers\noptimise the thickness by testing the 'feel' of the plates when they are flexed,\nand by the sounds produced when they are tapped at different positions with\n\nthe knuckles.\n\nHowever, in the last 50 years or so a group of violin makers has emerged who\nhave tried to take a more overtly scientific approach to violin making. One\ncommon practice they have adopted is to replace the traditional flexing and\ntapping of plates by controlled measurements. During the carving process, the\nthinned plates are sprinkled with flakes of glitter and suspended horizontally\nabove a loudspeaker. The glitter forms a pattern each time the loudspeaker\nexcites a resonance. The aim is to interactively 'tune' these first few free plate\nresonances to specified patterns.\n\nUnfortunately, there are very few examples of such measurements for really\nfine Italian instruments because their owners are naturally reluctant to allow\ntheir violins to be taken apart for the sake of science. The few tests that have\nbeen performed suggest that the first Italian makers may have tuned the\nresonant modes of the individual plates - which they could identify as they\ntapped them - to exact musical intervals. This would be consistent with the\nprevailing Renaissance view of 'perfection1, which was measured in terms of\nnumbers and exact ratios. However, there is no historical data to support this\ncase.\n\nAnother factor that affects sound quality is the presence of moisture. To\nachieve the quality of \"vibrancy\" in a violin requires high-quality wood with low\ninternal damping. By measuring the pattern of growth-rings in the wood of a\nStradivarius, we know that the Italian violin makers sometimes used planks of\nwood that had only been seasoned for five years. However, such wood is now\n300 years old, and the intrinsic internal damping will almost certainly have\ndecreased with time. The age of the wood may therefore automatically\ncontribute to the improved quality of older instruments. This may also explain\nwhy the quality of a modern instrument appears to improve in its first few\nyears.\n\nAnother factor thought to account for sound quality is the nature of the varnish\nused to protect the instrument. One of the most popular theories for well over a\ncentury to account for the Stradivarius secret has been that the varnish had\nsome sort of 'magic' composition. However, historical research has shown that\nit was very similar to the varnish used today. So apart from the possibility that\n\nthe Italian varnish was contaminated with the wings of passing insects and\ndebris from the workshop floor, there is no convincing evidence to support the\nidea of a secret formula.\n\nOther researchers, meanwhile, have claimed that Stradivarius's secret was to\nsoak the timber in water, to leach out supposedly harmful chemicals, before it\nwas seasoned. Although this would be consistent with the idea that the masts\nand cars of recently sunken Venetian war galleys might have been used to\nmake violins, other scientific and historical evidence to support this view is\nunconvincing.\n\nIn conclusion, science has not provided any convincing evidence to set\nCremonese instruments apart from the finest violins made by skilled craftsmen\ntoday. Indeed, some leading soloists do occasionally play on modern\ninstruments. However, the foremost soloists - and, not surprisingly, violin\ndealers, who have a vested interest in maintaining the Cremonese legend of\nintrinsic superiority - remain utterly unconvinced.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage has nine paragraphs, A-l Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
+          "body": null,
+          "range": [
+            14,
+            21
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x",
+              "xi",
+              "xii"
+            ],
+            "labels": [
+              "An analysis of protective coatings",
+              "Applying technology to violin production",
+              "Location - a key factor",
+              "A controversial range of prices",
+              "Techniques of mass production",
+              "The advantages of older wood",
+              "A re-evaluation of documentary evidence",
+              "The mathematical basis of earlier design",
+              "Manual woodworking techniques",
+              "Preferences of top musicians",
+              "The use of saturated wood",
+              "The challenge for scientists"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
+          "body": null,
+          "range": [
+            22,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 14,
           "type": "heading-matching",
-          "prompt": "Paragraph A Example: Paragraph B Vii",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "iv"
+          "groupId": "p2g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
         },
         {
           "number": 15,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph C",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "ix"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
         },
         {
           "number": 16,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph D",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "ii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 17,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph E",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "viii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 18,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph F",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "vi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 19,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph G",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "i"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
         },
         {
           "number": 20,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Paragraph H",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "xi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "xi",
+          "trap": null
         },
         {
           "number": 21,
           "type": "heading-matching",
-          "prompt": "Paragraph I Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below.",
-          "answer": "x"
+          "groupId": "p2g1",
+          "prompt": "Paragraph I",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
         },
         {
           "number": 22,
           "type": "true-false-not-given",
-          "prompt": "The quality of any particular note played on the same violin varies.",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below. Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "answer": "TRUE",
+          "groupId": "p2g2",
+          "prompt": "The quality of any particular note played on the same\nviolin varies.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 23,
           "type": "true-false-not-given",
-          "prompt": "Scientific instruments analyse complex sound more accurately than humans.",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below. Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "answer": "FALSE",
+          "groupId": "p2g2",
+          "prompt": "Scientific instruments analyse complex sound more\naccurately than humans.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 24,
           "type": "true-false-not-given",
-          "prompt": "The quality of handmade violins varies according to the musical ability of the craftsman.",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below. Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g2",
+          "prompt": "The quality of handmade violins varies according to\nthe musical ability of the craftsman.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 25,
           "type": "true-false-not-given",
+          "groupId": "p2g2",
           "prompt": "Modern violins seem to improve in their early years.",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below. Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 26,
           "type": "true-false-not-given",
-          "prompt": "Modern violins are gaining in popularity amongst the top violinists",
-          "instruction": "Choose the correct heading for paragraphs A and C-l from the list of headings below. Choose the correct number, i-xii, in boxes 14-21 below. Do the following statements agree with the information given in Reading Passage? In boxes 22-26 below, choose",
-          "answer": "FALSE",
+          "groupId": "p2g2",
+          "prompt": "Modern violins are gaining in popularity amongst the\ntop violinists",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "When People Are 'Deaf' to Music"
+          },
+          {
+            "label": null,
+            "text": "Music has long been considered a uniquely human concept. In fact, most\npsychologists agree that music is a universal human instinct. Like any ability,\nhowever, there is great variation in people's musical competence. For every\nbrilliant pianist in the world, there are several people we refer to as 'tone deaf'.\nIt is not simply that people with tone deafness (or 'amusia') are unable to sing\nin tune; they are also unable to discriminate between tones or recognize\nfamiliar melodies. Such a 'disorder' can occur after some sort of brain damage,\nbut recently research has been undertaken in an attempt to discover the cause\nof congenital amusia (when people are born with the condition), which is not\nassociated with any brain damage, hearing problems, or lack of exposure to\nmusic."
+          },
+          {
+            "label": null,
+            "text": "According to the research of Dr. Isabelle Peretz of the University of Montreal,\namusia is more complicated than the inability to distinguish pitches. An amusic\n(a person who has the condition of amusia) can distinguish between two\npitches that are far apart but cannot tell the difference between intervals\nsmaller than a half step on the Western diatonic scale, while most people can\neasily distinguish differences smaller than that. When listening to melodies that\nhave had a single note altered so that it is out of key with the rest of the\nmelody, amusics do not notice a problem. As would be expected, amusics\nperform significantly worse at singing and tapping a rhythm along with a\nmelody than do non-amusics."
+          },
+          {
+            "label": null,
+            "text": "The most fascinating aspect of amusia is how specific to music it is. Because of\nmusic's close ties to language, it might be expected that a musical impairment\nmay be caused by a language impairment. Studies suggest, however, that\nlanguage and music ability are independent of one another. People with brain\ndamage in areas critical to language are often still able to sing, despite being\nunable to communicate through speech. Moreover, while amusics show\ndeficiencies in their recognition of pitch differences in melodies, they show no\ndeficiencies in tonal languages, such as Chinese, and do not report having any\ndifficulty discriminating between words that differ only in their intonation. The\nlinguistic cues inherent in speech make discrimination of meaning much easier\nfor amusics. Amusics are also successful most of the time at detecting the\nmood of a melody, can identify a speaker based on his or her voice, and can\ndiscriminate and identify environmental sounds."
+          },
+          {
+            "label": null,
+            "text": "Recent work has been focused on locating the part of the brain that is\nresponsible for amusia. The temporal lobes of the brain, the location of the\nprimary auditory cortex, have been considered. It has long been believed that\nthe temporal lobes, especially the right temporal lobe, are most active when\nprocessing musical activity, so any musical disability should logically stem from\nhere as well. Because it has been shown that there is no hearing deficit in\namusia, researchers moved on to the temporal neocortex, which is where more\nsophisticated processing of musical cues was thought to take place. New\nstudies, however, have suggested that the deficits in amusics are located\noutside the auditory cortex. Brain scans of amusics do not show any reaction at\nall to differences smaller than a half step. When changes in tones are large,\ntheir brains overreact, showing twice as much activity on the right side of the\nbrain as a normal brain hearing the same thing. These differences do not occur\nin the auditory cortex, indicating again that the deficits of amusia do not lie in\nhearing impairment, but in higher processing of melodies."
+          },
+          {
+            "label": null,
+            "text": "So what does this all mean? Looking only at the research of Peretz in the field\nof the neuropsychology of music, it would appear that amusia is some sort of\ndisorder. As a student of neurobiology, however, I am skeptical. Certainly, the\nstudies by Peretz that have found significant differences between the brains of\nso-called amusics and normal brains are legitimate. The more important\nquestion now becomes one of normality. Every trait-from skin color to\nintelligence to mood-exists on a continuum; there is a great deal of variation\nfrom one extreme to the other. Just because we recognize that basic musical\nability is something that the vast majority of people have, it doesn't mean that\nthe lack of it is abnormal."
+          },
+          {
+            "label": null,
+            "text": "What makes an amusic worse off than a musical prodigy? Musical ability is\nculturally valued and may have been a factor in survival at one point in human\nhistory, but it does not seem likely that it is being selected for on an\nevolutionary scale any longer. Darwin believed that music was adaptive as a\nway of finding a mate, but who needs to be able to sing to find a partner in an\nage when it is possible to express your emotions through a song on your iPod?"
+          },
+          {
+            "label": null,
+            "text": "While the idea of amusia is interesting, it seems to be just one end of the\ncontinuum of innate musical ability. Comparing this 'disorder' to learning\ndisorders like specific language impairment seems to be going too far. Before\namusia can be declared a disability, further research must be done to\ndetermine whether a lack of musical ability is actually detrimental in any way.\nIf no disadvantages can be found in having amusia, then it is no more a\ndisability than having poor fashion sense or bad handwriting."
+          }
+        ],
+        "text": "When People Are 'Deaf' to Music\n\nMusic has long been considered a uniquely human concept. In fact, most\npsychologists agree that music is a universal human instinct. Like any ability,\nhowever, there is great variation in people's musical competence. For every\nbrilliant pianist in the world, there are several people we refer to as 'tone deaf'.\nIt is not simply that people with tone deafness (or 'amusia') are unable to sing\nin tune; they are also unable to discriminate between tones or recognize\nfamiliar melodies. Such a 'disorder' can occur after some sort of brain damage,\nbut recently research has been undertaken in an attempt to discover the cause\nof congenital amusia (when people are born with the condition), which is not\nassociated with any brain damage, hearing problems, or lack of exposure to\nmusic.\n\nAccording to the research of Dr. Isabelle Peretz of the University of Montreal,\namusia is more complicated than the inability to distinguish pitches. An amusic\n(a person who has the condition of amusia) can distinguish between two\npitches that are far apart but cannot tell the difference between intervals\nsmaller than a half step on the Western diatonic scale, while most people can\neasily distinguish differences smaller than that. When listening to melodies that\nhave had a single note altered so that it is out of key with the rest of the\nmelody, amusics do not notice a problem. As would be expected, amusics\nperform significantly worse at singing and tapping a rhythm along with a\nmelody than do non-amusics.\n\nThe most fascinating aspect of amusia is how specific to music it is. Because of\nmusic's close ties to language, it might be expected that a musical impairment\nmay be caused by a language impairment. Studies suggest, however, that\nlanguage and music ability are independent of one another. People with brain\ndamage in areas critical to language are often still able to sing, despite being\nunable to communicate through speech. Moreover, while amusics show\ndeficiencies in their recognition of pitch differences in melodies, they show no\ndeficiencies in tonal languages, such as Chinese, and do not report having any\ndifficulty discriminating between words that differ only in their intonation. The\nlinguistic cues inherent in speech make discrimination of meaning much easier\nfor amusics. Amusics are also successful most of the time at detecting the\nmood of a melody, can identify a speaker based on his or her voice, and can\ndiscriminate and identify environmental sounds.\n\nRecent work has been focused on locating the part of the brain that is\nresponsible for amusia. The temporal lobes of the brain, the location of the\nprimary auditory cortex, have been considered. It has long been believed that\nthe temporal lobes, especially the right temporal lobe, are most active when\nprocessing musical activity, so any musical disability should logically stem from\nhere as well. Because it has been shown that there is no hearing deficit in\namusia, researchers moved on to the temporal neocortex, which is where more\nsophisticated processing of musical cues was thought to take place. New\nstudies, however, have suggested that the deficits in amusics are located\noutside the auditory cortex. Brain scans of amusics do not show any reaction at\nall to differences smaller than a half step. When changes in tones are large,\ntheir brains overreact, showing twice as much activity on the right side of the\nbrain as a normal brain hearing the same thing. These differences do not occur\nin the auditory cortex, indicating again that the deficits of amusia do not lie in\nhearing impairment, but in higher processing of melodies.\n\nSo what does this all mean? Looking only at the research of Peretz in the field\nof the neuropsychology of music, it would appear that amusia is some sort of\ndisorder. As a student of neurobiology, however, I am skeptical. Certainly, the\nstudies by Peretz that have found significant differences between the brains of\nso-called amusics and normal brains are legitimate. The more important\nquestion now becomes one of normality. Every trait-from skin color to\nintelligence to mood-exists on a continuum; there is a great deal of variation\nfrom one extreme to the other. Just because we recognize that basic musical\nability is something that the vast majority of people have, it doesn't mean that\nthe lack of it is abnormal.\n\nWhat makes an amusic worse off than a musical prodigy? Musical ability is\nculturally valued and may have been a factor in survival at one point in human\nhistory, but it does not seem likely that it is being selected for on an\nevolutionary scale any longer. Darwin believed that music was adaptive as a\nway of finding a mate, but who needs to be able to sing to find a partner in an\nage when it is possible to express your emotions through a song on your iPod?\n\nWhile the idea of amusia is interesting, it seems to be just one end of the\ncontinuum of innate musical ability. Comparing this 'disorder' to learning\ndisorders like specific language impairment seems to be going too far. Before\namusia can be declared a disability, further research must be done to\ndetermine whether a lack of musical ability is actually detrimental in any way.\nIf no disadvantages can be found in having amusia, then it is no more a\ndisability than having poor fashion sense or bad handwriting.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Choose the correct letter in boxes 27-31 below.",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage? In boxes 32-35 below, choose YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "matching-sentence-endings",
+          "instruction": "Complete each sentence with the correct ending, A-H, below. Choose the correct letter, A-H.",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": {
+            "title": "Endings",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": [
+              "an inability to hear when spoken language rises and falls.",
+              "considered to be desirable.",
+              "an inability to follow the beat of music.",
+              "not a problem.",
+              "not yet well understood.",
+              "a result of injury to the mother.",
+              "more marked than with other people.",
+              "associated with intelligence."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What does the writer tell US about people with tone deafness (amusia) in the first paragraph?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "They usually have hearing problems",
+            "Some can play a musical instrument very well",
+            "Some may be able to sing well-known melodies",
+            "They have several inabilities in regard to music"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What is the writer doing in the second paragraph?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "outlining some of factors that cause amusia",
+            "summarising some findings about people with amusia",
+            "suggesting that people with amusia are disadvantaged",
+            "comparing the sing ability of amusia with their sense"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What does the writer say about the relationship between language ability and musical ability?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "People who are unable to speak can sometimes sing",
+            "People with amusia usually have language problems too",
+            "Speakers of tonal languages like Chinese rarely have amusia",
+            "People with amusia have difficulty recognizing people by their voices"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "In the third paragraph, the writer notes that most amusics are able to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "learn how to sing in tune",
+            "identify a song by its tune",
+            "distinguish a sad tone from a happy tune",
+            "recognise when a singer is not sing in tune"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What is the writer doing in the fourth paragraph?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "claiming that amusics have problems in the auditory cortex",
+            "outlining progress in understanding the brains of amusics",
+            "proving that amuisa is located in the temporal lobes",
+            "explaining why studies of hearing are difficult"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Perezt's research suggesting that amusia is a disorder\nis convincing.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "People with musical ability are happier than those\nwithout this ability.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "It is inappropriate to consider amusia as real disorder.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "People with amusia often have bad handwriting.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-sentence-endings",
+          "groupId": "p3g3",
+          "prompt": "The reason why some people are born with amusia is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-sentence-endings",
+          "groupId": "p3g3",
+          "prompt": "One of the difficulties amusia experience is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "matching-sentence-endings",
+          "groupId": "p3g3",
+          "prompt": "For amusia, discrimination of meaning in speech is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "matching-sentence-endings",
+          "groupId": "p3g3",
+          "prompt": "Certain reactions in the brain of an amusia are",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "matching-sentence-endings",
+          "groupId": "p3g3",
+          "prompt": "In most cultures, musical ability is",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
-    "14": "iv",
-    "15": "ix",
-    "16": "ii",
-    "17": "viii",
-    "18": "vi",
-    "19": "i",
-    "20": "xi",
-    "21": "x",
-    "29": "A",
     "1": "D",
     "2": "E",
     "3": "D",
@@ -326,6 +1265,14 @@
     "11": "TRUE",
     "12": "FALSE",
     "13": "NOT GIVEN",
+    "14": "iv",
+    "15": "ix",
+    "16": "ii",
+    "17": "viii",
+    "18": "vi",
+    "19": "i",
+    "20": "xi",
+    "21": "x",
     "22": "TRUE",
     "23": "FALSE",
     "24": "NOT GIVEN",
@@ -333,6 +1280,7 @@
     "26": "FALSE",
     "27": "D",
     "28": "B",
+    "29": "A",
     "30": "C",
     "31": "B",
     "32": "NO",

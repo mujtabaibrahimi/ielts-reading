@@ -1,0 +1,11 @@
+{
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Use ONE WORD ONLY from the passage for each answer.",
+    "body": "Bridges. Type of bridge, Features, and Example(s) table. Arched bridge: Features 'Introduced by the [[8]]; Very strong; Usually made of [[9]]', Example(s) 'Alcantara, Spain; Ironbridge, UK'. Truss bridge: Features 'Made of wood or metal; Popular for railways', Example(s) none given. Suspension bridge: Features 'Has a suspended deck; Strong but [[10]]', Example(s) 'Clifton, UK; Akashi Kaikyo, Japan (currently the [[11]] span)'. Cantilever bridge: Features 'Made of [[12]]; More [[13]] than the suspension bridge', Example(s) 'Quebec, Canada'."
+  },
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 1-3 are present); cannot transcribe without inventing."
+  }
+}

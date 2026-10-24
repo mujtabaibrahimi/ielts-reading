@@ -1,0 +1,34 @@
+{
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Choose FOUR multi-select (A-G) spread over boxes 1-4; every box holds the combined key 'A,C,D,E', which cannot map to single inputs."
+  },
+  "p2g4": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        16
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 16 on your answer sheet.",
+    "questions": {
+      "16": {
+        "prompt": "What hurts the technique of producing wooden paper from popularity for a long time?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Scarcity",
+          "Complexity",
+          "Confidentiality by the inventors",
+          "High cost"
+        ]
+      }
+    }
+  }
+}

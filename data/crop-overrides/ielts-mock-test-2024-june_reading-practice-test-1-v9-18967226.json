@@ -1,0 +1,94 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Complete the summary below. Choose your answers from the List of Words. There are more words than you will need to fill the gaps. Write your answers in boxes 28-31 on your answer sheet.",
+    "body": "List of Words: axis, estimate, perspective, map, direction, compare, projection, size, judge, accurately, angle, distances, models, change. Summary: For four centuries, map makers have been trying to convert three-dimensional information as accurately (example) as possible onto a two-dimensional plane. However, each method of [[28]] involves a compromise. Thus, a cylindrical projection indicates true north and south, known as fidelity of [[29]], but misrepresents the relative size of countries. To avoid this distortion, other cartographers rounded the lines of latitude and longitude. Dr. Peters felt that such maps presented a first-world [[30]]. His map, with equal area projection, enables us to [[31]] the size of one country with another."
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Use the information in the text to match the map projections M, A or P with the characteristics listed below. Example: designed for the needs of early navigators: M. Write the correct letter, M, A or P, in boxes 32-36 on your answer sheet.",
+    "optionBank": {
+      "title": "Map Projections",
+      "options": [
+        "M",
+        "A",
+        "P"
+      ],
+      "labels": [
+        "Mercator projection",
+        "Aitoff projection",
+        "Peters projection"
+      ]
+    },
+    "questions": {
+      "32": {
+        "prompt": "makes Europe seem larger than it is",
+        "options": [
+          "M",
+          "A",
+          "P"
+        ]
+      },
+      "33": {
+        "prompt": "maximum distortions at the poles",
+        "options": [
+          "M",
+          "A",
+          "P"
+        ]
+      },
+      "34": {
+        "prompt": "maintains greatest accuracy at 45 degrees latitude",
+        "options": [
+          "M",
+          "A",
+          "P"
+        ]
+      },
+      "35": {
+        "prompt": "most distorts the position of the equator",
+        "options": [
+          "M",
+          "A",
+          "P"
+        ]
+      },
+      "36": {
+        "prompt": "more accurately represents country shapes and sizes",
+        "options": [
+          "M",
+          "A",
+          "P"
+        ]
+      }
+    }
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A-D.",
+    "questions": {
+      "40": {
+        "prompt": "The main point made by the writer of this article is that we need to ...",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "understand maps.",
+          "understand map-making.",
+          "understand that maps are not objective.",
+          "understand the importance of latitude and longitude."
+        ]
+      }
+    }
+  }
+}

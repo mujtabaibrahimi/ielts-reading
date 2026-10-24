@@ -1,0 +1,30 @@
+{
+  "p1g4": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        13
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 13 on your answer sheet.",
+    "questions": {
+      "13": {
+        "prompt": "What is the writer's opinion about the traditional ways of practices?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "They can supply the nutrition that people need",
+          "They are not capable of providing adequate support to the population",
+          "They are productive systems that need no more",
+          "They will be easily modified in the future"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Look at the descriptions of Online Tutors (A-E). Write the appropriate letter A-E for each space.",
+    "optionBank": {"title": "Online Tutors", "options": ["A", "B", "C", "D", "E"], "labels": []},
+    "questions": {
+      "1": {"prompt": "Which tutor would you choose to teach young children?", "options": ["A", "B", "C", "D", "E"]},
+      "2": {"prompt": "Which tutor would you choose to improve English for your business?", "options": ["A", "B", "C", "D", "E"]},
+      "3": {"prompt": "Which tutor would you choose if you didn't have much money?", "options": ["A", "B", "C", "D", "E"]},
+      "4": {"prompt": "Which tutor would you choose if you were bored with the usual language learning exercises?", "options": ["A", "B", "C", "D", "E"]},
+      "5": {"prompt": "Which tutor would you choose to do exam preparation?", "options": ["A", "B", "C", "D", "E"]},
+      "6": {"prompt": "Which description mentions language teaching qualifications from USA?", "options": ["A", "B", "C", "D", "E"]},
+      "7": {"prompt": "Which description mentions more than 26 years' teaching experience?", "options": ["A", "B", "C", "D", "E"]}
+    }
+  },
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Choose ONE item only from the list below to go in each recycling container.",
+    "optionBank": {
+      "title": "List of items for recycling",
+      "options": ["telephone book", "packing box", "old clothing", "magazines", "used pizza delivery box", "old textbook", "ceramic cup", "aluminium drink can", "heavy cardboard", "light bulb"],
+      "labels": []
+    },
+    "questions": {
+      "8": {"prompt": "In the Blue Box", "options": ["telephone book", "packing box", "old clothing", "magazines", "used pizza delivery box", "old textbook", "ceramic cup", "aluminium drink can", "heavy cardboard", "light bulb"]},
+      "9": {"prompt": "In the Yellow Bag", "options": ["telephone book", "packing box", "old clothing", "magazines", "used pizza delivery box", "old textbook", "ceramic cup", "aluminium drink can", "heavy cardboard", "light bulb"]},
+      "10": {"prompt": "In the Blue Bag", "options": ["telephone book", "packing box", "old clothing", "magazines", "used pizza delivery box", "old textbook", "ceramic cup", "aluminium drink can", "heavy cardboard", "light bulb"]}
+    }
+  },
+  "p2g3": {
+    "clearImages": true,
+    "type": "heading-matching",
+    "instruction": "Four short courses (A-D) from the 'International Hotel Management Diploma' are outlined on the opposite page. Choose the correct title (i-viii) for each course from the list below. There are more titles than descriptions so you will not use all of them.",
+    "optionBank": {
+      "title": "List of Titles",
+      "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"],
+      "labels": [
+        "Food and Wine Service",
+        "Housekeeping Procedures",
+        "Cocktails and Mixed Drinks",
+        "Hotel Front Office Management",
+        "Bars and Service of Drinks",
+        "Resort Operation and Management",
+        "Catering Control",
+        "Hotel Front Office Reception"
+      ]
+    },
+    "questions": {
+      "24": {"prompt": "Course A", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"]},
+      "25": {"prompt": "Course B", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"]},
+      "26": {"prompt": "Course C", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"]},
+      "27": {"prompt": "Course D", "options": ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii"]}
+    }
+  }
+}

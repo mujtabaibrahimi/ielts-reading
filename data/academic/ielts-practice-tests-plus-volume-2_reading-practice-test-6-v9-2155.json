@@ -1,182 +1,1086 @@
 {
   "id": "ielts-practice-tests-plus-volume-2_reading-practice-test-6-v9-2155",
   "type": "academic",
-  "source": "ielts-practice-tests-plus-volume-2 reading-practice-test-6-v9-2155",
+  "title": "IELTS Practice Tests Plus Volume 2 - Reading Test 6",
+  "collection": "IELTS Practice Tests Plus Volume 2",
+  "testNumber": 6,
+  "year": 0,
+  "month": 0,
+  "volume": 2,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-tests-plus-volume-2_reading-practice-test-6-v9-2155.pdf",
-  "total_questions": 9,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Astronaut ice cream, anyone?",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1 – 13, which are based on\nReading Passage 1 below.\nAstronaut ice cream, anyone?\nBreeze-drying is a technique that can help to provide food for\nastronauts. But it also has other applications nearer home.\nFreeze-drying is like suspended animation for food: you can store a freeze-\ndried meal for years, and then, when you’re finally ready to eat it. you can\ncompletely revitalise it with a little hot water. Even after several years, the\noriginal foodstuff will be virtually unchanged.\nThe technique basically involves completely removing the water from some\nmaterial, such as food while leaving the rest of the material virtually intact. The\nmain reason for doing this is either to preserve the food or to reduce its weight.\nRemoving the water from food keeps it from spoiling, because the\nmicroorganisms such as bacteria that cause spoiling cannot survive without it.\nSimilarly, the enzymes which occur naturally in food cannot cause ripening\nwithout water, so removing water from food will also stop the ripening process.\nFreeze-drying significantly reduces the total weight of the food because most\nfood is largely made up of water; for example, many fruits are more than 80\n00% water. Removing this makes the food much lighter and therefore makes\ntransportation less difficult. The military and camping-supply companies\nfreeze-dry foods to make them easier for an individual to carry and NASA has\nalso freeze-dried foods for the cramped quarters on board spacecraft.\n\nThe process is also used to preserve other sorts of material, such as\npharmaceuticals. Chemists can greatly extend pharmaceutical shelf life by\nfreeze-drying the material and storing it in a container free of oxygen and\nwater. Similarly, research scientists may use freeze-drying to preserve\nbiological samples for long periods of time. Even valuable manuscripts that had\nbeen water damaged have been saved by using this process.\nFreeze-drying is different from simple drying because it is able to remove\nalmost all the water from materials, whereas simple drying techniques can only\nremove 90-95%. This means that the damage caused by bacteria and enzymes\ncan virtually be stopped rather than just slowed down. In addition, the\ncomposition and structure of the material is not significantly changed, so\nmaterials can be revitalised without compromising the quality of the original.\nThis is possible because in freeze-drying, solid water - ice - is converted\ndirectly into water vapour, missing out the liquid phase entirely. This is called\n‘sublimation’, the shift from a solid directly into a gas. Just like evaporation,\nsublimation occurs when a molecule gains enough energy to break free from\nthe molecules around it. Water will sublime from a solid (ice) to a gas (vapour)\nwhen the molecules have enough energy to break free but the conditions aren't\nright for a liquid to form. These conditions arc determined by heat and\natmospheric pressure. When the temperature is above freezing point, so that\nice can thaw, but the atmospheric pressure is too low for a liquid to form\n(below 0.06 atmospheres (ATM)) then it becomes a gas.\nThis is the principle on which a freeze-drying machine is based. The material to\nbe preserved is placed in a freeze-drying chamber which is connected to a\nfreezing coil and refrigerator compressor. When the chamber is sealed the\ncompressor lowers the temperature inside it. I he material is frozen solid, which\nseparates the water from everything around it on a molecular level, even\nthough the water is still present. Next, a vacuum pump forces air out of the\nchamber, lowering the atmospheric pressure below to 0.06 ATM. The heating\nunits apply a small amount of heat to the shelves in the chamber, causing the\nice to change phase. Since the pressure in the chamber is so low, the ice turns\ndirectly into water vapour, which leaves the freeze-drying chamber, and flows\npast the freezing coil. The water vapour condenses onto the freezing coil in the\nform of solid ice, in the same way that water condenses as frost on a cold day.\nThe process continues for many hours (even days) while the material gradually\ndries out. This time is necessary to avoid overheating, which might affect the\nstructure of the material. Once it has dried sufficiently, it is sealed in a\nmoisture-free package. As long as the package is secure, the material can sit\n\non a shelf for years and years without degrading, until it is restored to its\noriginal form with a little hot water. If everything works correctly, the material\nwill go through the entire process almost completely unscathed.\nIn fact, freeze-drying, as a general concept, is not new but has been around for\ncenturies. The ancient Incas of Peru used mountain peaks along the Andes as\nnatural food preservers. The extremely cold temperatures and low pressure at\nthose high altitudes prevented food from spoiling in the same basic way as a\nmodern freeze-drying machine and a freezer.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Astronaut ice cream, anyone?"
+          },
+          {
+            "label": null,
+            "text": "Breeze-drying is a technique that can help to provide food for\nastronauts. But it also has other applications nearer home."
+          },
+          {
+            "label": null,
+            "text": "Freeze-drying is like suspended animation for food: you can store a freeze-\ndried meal for years, and then, when you're finally ready to eat it. you can\ncompletely revitalise it with a little hot water. Even after several years, the\noriginal foodstuff will be virtually unchanged."
+          },
+          {
+            "label": null,
+            "text": "The technique basically involves completely removing the water from some\nmaterial, such as food while leaving the rest of the material virtually intact. The\nmain reason for doing this is either to preserve the food or to reduce its weight.\nRemoving the water from food keeps it from spoiling, because the\nmicroorganisms such as bacteria that cause spoiling cannot survive without it.\nSimilarly, the enzymes which occur naturally in food cannot cause ripening\nwithout water, so removing water from food will also stop the ripening process."
+          },
+          {
+            "label": null,
+            "text": "Freeze-drying significantly reduces the total weight of the food because most\nfood is largely made up of water; for example, many fruits are more than 80\n00% water. Removing this makes the food much lighter and therefore makes\ntransportation less difficult. The military and camping-supply companies\nfreeze-dry foods to make them easier for an individual to carry and NASA has\nalso freeze-dried foods for the cramped quarters on board spacecraft."
+          },
+          {
+            "label": null,
+            "text": "The process is also used to preserve other sorts of material, such as\npharmaceuticals. Chemists can greatly extend pharmaceutical shelf life by\nfreeze-drying the material and storing it in a container free of oxygen and\nwater. Similarly, research scientists may use freeze-drying to preserve\nbiological samples for long periods of time. Even valuable manuscripts that had\nbeen water damaged have been saved by using this process."
+          },
+          {
+            "label": null,
+            "text": "Freeze-drying is different from simple drying because it is able to remove\nalmost all the water from materials, whereas simple drying techniques can only\nremove 90-95%. This means that the damage caused by bacteria and enzymes\ncan virtually be stopped rather than just slowed down. In addition, the\ncomposition and structure of the material is not significantly changed, so\nmaterials can be revitalised without compromising the quality of the original."
+          },
+          {
+            "label": null,
+            "text": "This is possible because in freeze-drying, solid water - ice - is converted\ndirectly into water vapour, missing out the liquid phase entirely. This is called\n'sublimation', the shift from a solid directly into a gas. Just like evaporation,\nsublimation occurs when a molecule gains enough energy to break free from\nthe molecules around it. Water will sublime from a solid (ice) to a gas (vapour)\nwhen the molecules have enough energy to break free but the conditions aren't\nright for a liquid to form. These conditions arc determined by heat and\natmospheric pressure. When the temperature is above freezing point, so that\nice can thaw, but the atmospheric pressure is too low for a liquid to form\n(below 0.06 atmospheres (ATM)) then it becomes a gas."
+          },
+          {
+            "label": null,
+            "text": "This is the principle on which a freeze-drying machine is based. The material to\nbe preserved is placed in a freeze-drying chamber which is connected to a\nfreezing coil and refrigerator compressor. When the chamber is sealed the\ncompressor lowers the temperature inside it. I he material is frozen solid, which\nseparates the water from everything around it on a molecular level, even\nthough the water is still present. Next, a vacuum pump forces air out of the\nchamber, lowering the atmospheric pressure below to 0.06 ATM. The heating\nunits apply a small amount of heat to the shelves in the chamber, causing the\nice to change phase. Since the pressure in the chamber is so low, the ice turns\ndirectly into water vapour, which leaves the freeze-drying chamber, and flows\npast the freezing coil. The water vapour condenses onto the freezing coil in the\nform of solid ice, in the same way that water condenses as frost on a cold day."
+          },
+          {
+            "label": null,
+            "text": "The process continues for many hours (even days) while the material gradually\ndries out. This time is necessary to avoid overheating, which might affect the\nstructure of the material. Once it has dried sufficiently, it is sealed in a\nmoisture-free package. As long as the package is secure, the material can sit"
+          },
+          {
+            "label": null,
+            "text": "on a shelf for years and years without degrading, until it is restored to its\noriginal form with a little hot water. If everything works correctly, the material\nwill go through the entire process almost completely unscathed."
+          },
+          {
+            "label": null,
+            "text": "In fact, freeze-drying, as a general concept, is not new but has been around for\ncenturies. The ancient Incas of Peru used mountain peaks along the Andes as\nnatural food preservers. The extremely cold temperatures and low pressure at\nthose high altitudes prevented food from spoiling in the same basic way as a\nmodern freeze-drying machine and a freezer."
+          }
+        ],
+        "text": "Astronaut ice cream, anyone?\n\nBreeze-drying is a technique that can help to provide food for\nastronauts. But it also has other applications nearer home.\n\nFreeze-drying is like suspended animation for food: you can store a freeze-\ndried meal for years, and then, when you're finally ready to eat it. you can\ncompletely revitalise it with a little hot water. Even after several years, the\noriginal foodstuff will be virtually unchanged.\n\nThe technique basically involves completely removing the water from some\nmaterial, such as food while leaving the rest of the material virtually intact. The\nmain reason for doing this is either to preserve the food or to reduce its weight.\nRemoving the water from food keeps it from spoiling, because the\nmicroorganisms such as bacteria that cause spoiling cannot survive without it.\nSimilarly, the enzymes which occur naturally in food cannot cause ripening\nwithout water, so removing water from food will also stop the ripening process.\n\nFreeze-drying significantly reduces the total weight of the food because most\nfood is largely made up of water; for example, many fruits are more than 80\n00% water. Removing this makes the food much lighter and therefore makes\ntransportation less difficult. The military and camping-supply companies\nfreeze-dry foods to make them easier for an individual to carry and NASA has\nalso freeze-dried foods for the cramped quarters on board spacecraft.\n\nThe process is also used to preserve other sorts of material, such as\npharmaceuticals. Chemists can greatly extend pharmaceutical shelf life by\nfreeze-drying the material and storing it in a container free of oxygen and\nwater. Similarly, research scientists may use freeze-drying to preserve\nbiological samples for long periods of time. Even valuable manuscripts that had\nbeen water damaged have been saved by using this process.\n\nFreeze-drying is different from simple drying because it is able to remove\nalmost all the water from materials, whereas simple drying techniques can only\nremove 90-95%. This means that the damage caused by bacteria and enzymes\ncan virtually be stopped rather than just slowed down. In addition, the\ncomposition and structure of the material is not significantly changed, so\nmaterials can be revitalised without compromising the quality of the original.\n\nThis is possible because in freeze-drying, solid water - ice - is converted\ndirectly into water vapour, missing out the liquid phase entirely. This is called\n'sublimation', the shift from a solid directly into a gas. Just like evaporation,\nsublimation occurs when a molecule gains enough energy to break free from\nthe molecules around it. Water will sublime from a solid (ice) to a gas (vapour)\nwhen the molecules have enough energy to break free but the conditions aren't\nright for a liquid to form. These conditions arc determined by heat and\natmospheric pressure. When the temperature is above freezing point, so that\nice can thaw, but the atmospheric pressure is too low for a liquid to form\n(below 0.06 atmospheres (ATM)) then it becomes a gas.\n\nThis is the principle on which a freeze-drying machine is based. The material to\nbe preserved is placed in a freeze-drying chamber which is connected to a\nfreezing coil and refrigerator compressor. When the chamber is sealed the\ncompressor lowers the temperature inside it. I he material is frozen solid, which\nseparates the water from everything around it on a molecular level, even\nthough the water is still present. Next, a vacuum pump forces air out of the\nchamber, lowering the atmospheric pressure below to 0.06 ATM. The heating\nunits apply a small amount of heat to the shelves in the chamber, causing the\nice to change phase. Since the pressure in the chamber is so low, the ice turns\ndirectly into water vapour, which leaves the freeze-drying chamber, and flows\npast the freezing coil. The water vapour condenses onto the freezing coil in the\nform of solid ice, in the same way that water condenses as frost on a cold day.\n\nThe process continues for many hours (even days) while the material gradually\ndries out. This time is necessary to avoid overheating, which might affect the\nstructure of the material. Once it has dried sufficiently, it is sealed in a\nmoisture-free package. As long as the package is secure, the material can sit\n\non a shelf for years and years without degrading, until it is restored to its\noriginal form with a little hot water. If everything works correctly, the material\nwill go through the entire process almost completely unscathed.\n\nIn fact, freeze-drying, as a general concept, is not new but has been around for\ncenturies. The ancient Incas of Peru used mountain peaks along the Andes as\nnatural food preservers. The extremely cold temperatures and low pressure at\nthose high altitudes prevented food from spoiling in the same basic way as a\nmodern freeze-drying machine and a freezer.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1-5 on your answer sheet. Uses of freeze-drying: food preservation",
+          "body": "easy [[1]] of food items long-term storage of [[2]] and biological samples preservation of precious [[3]] Freeze-drying is based on process of [[4]] is more efficient than [[5]]",
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "diagram-label",
+          "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet. A simplified freeze-drying machine 6",
+          "body": null,
+          "range": [
+            6,
+            9
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-practice-tests-plus-volume-2_reading-practice-test-6-v9-2155/p1g2-1.png",
+              "w": 982,
+              "h": 428
+            },
+            {
+              "src": "assets/crops/ielts-practice-tests-plus-volume-2_reading-practice-test-6-v9-2155/p1g2-2.png",
+              "w": 982,
+              "h": 152
+            }
+          ],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 10-13 on your answer sheet. Freeze-drying prevents food from going bad by stopping the activity",
+          "body": "of microorganisms or [[10]] Its advantages are that the food tastes and feels the same as the original because both the [[11]] and structure are preserved. The process is carried out slowly in order to ensure that [[12]] does not take place. The people of one ancient mountain civilisation were able to use this method of food preservation because the conditions needed were present at [[13]] .",
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "transportation",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "pharmaceuticals",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "manuscripts",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "sublimation",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "simple drying (techniques)",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "diagram-label",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(freeze-drying) chamber",
+          "trap": null
+        },
         {
           "number": 7,
           "type": "diagram-label",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1-5 on your answer sheet. Uses of freeze-drying: food preservation easy 1 of food items long-term storage of 2 and biological samples preservation of precious 3 Freeze-drying is based on process of 4 is more efficient than 5 Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet. A simplified freeze-drying machine 6",
-          "answer": "shelves"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "shelves",
+          "trap": null
         },
         {
           "number": 8,
           "type": "diagram-label",
+          "groupId": "p1g2",
           "prompt": "",
-          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1-5 on your answer sheet. Uses of freeze-drying: food preservation easy 1 of food items long-term storage of 2 and biological samples preservation of precious 3 Freeze-drying is based on process of 4 is more efficient than 5 Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet. A simplified freeze-drying machine 6",
-          "answer": "freezing coil"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "freezing coil",
+          "trap": null
         },
         {
           "number": 9,
           "type": "diagram-label",
-          "prompt": "Complete the summary below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER  from the passage for each answer. Write your answers in boxes 10-13 on your answer sheet.",
-          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1-5 on your answer sheet. Uses of freeze-drying: food preservation easy 1 of food items long-term storage of 2 and biological samples preservation of precious 3 Freeze-drying is based on process of 4 is more efficient than 5 Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet. A simplified freeze-drying machine 6",
-          "answer": "(refrigerator) compressor"
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(refrigerator) compressor",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "enzymes",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "composition",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "overheating",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": ".",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "high altitudes",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
-        26
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\non Reading Passage 1 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Biodiversity is big in parts of London. thanks to schemes such as the London",
-      "questionRange": [
-        14,
-        19
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Biodiversity is big in parts of London. thanks to schemes such as the London\nWetland Centre in the south west of the city.\nThis is a unique scheme masterminded by the Wildfowl and Wetlands Trust to\ncreate a wildlife reserve out of a redundant Victorian reservoir. Within five\nyears of its creation the Centre has been hailed as one of the top sites for\nnature in England and made a Site of Special Scientific Interest. It consists of a\n105-acre wetland site, which is made up of different wetland habitats of\nshallow, open water and grazing marsh. The site attracts more than 104\nspecies of bird, including nationally important rarities like the bittern.\nWe need to remember that if we work with wildlife, then wildlife will work for us\nand this is the very essence of sustainable development.\nQuestions 14-19\nDo the following statements agree with the information given in Reading\nPassage 2?\nIn boxes 14-19 on your answer sheet write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n14\n      There is now more wildlife in UK cities than in the\ncountryside.\n15\n      Rural wildlife has been reduced by the use of\npesticides on farms.\n16\n      In the past, hedges on farms used to link up\ndifferent habitats.\n17\n      New urban environments are planned to provide\necological corridors for wildlife.\n18\n      Public parks and gardens are being expanded to\nencourage wildlife.\n19\n      Old industrial wastelands have damaged wildlife\nhabitats in urban areas.\n\nQuestions 20-23\nQuestion 24-26\nQuestion 27\nAnswer the questions below, using NO MORE THAN THREE WORDS\nAND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 20-23 on your answer sheet.\nWhich type of wildlife benefits most from urban gardens? 20\nWhat type of garden plants can benefit birds and insects? 21\nWhat represents a threat to wildlife in urban gardens? 22\nAt the last count, how many species of bird were spotted in urban\ngardens? 23\nChoose THREE letters A-G.\nWrite your answers in boxes 24-26 on your answer sheet.\nIn which THREE ways can wildlife habitats benefit people living in urban\nareas?\nA\n \nB\n \nC\n \nD\n \nE\n \nF\n \nG\n \nThey can make the cities greener.\nThey can improve the climate.\nThey can promote human well-being.\nThey can extend the flowering season.\nThey can absorb excess water.\nThey can attract wildlife.\nThey can help clean the urban atmosphere\nChoose the correct answer, A, B, C or D.\nWrite your answer in box 27 on your answer sheet.\n27 The writer believes that sustainable development is dependent on\n\nA\n \nB\n \nC\n \nD\n \nurban economic policy.\nlarge restoration schemes.\nactive nature conservation.\ngovernment projects.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "THE WILD SIDE OF TOWN",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "The countryside is no longer the place to see wildlife, according to\nChris Barnes. These days you are more likely to find impressive\nnumbers of skylarks, dragonflies and toads in your own back garden."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "The past half century has seen an interesting reversal in the fortunes of much\nof Britain's wildlife. Whilst the rural countryside has become poorer and poorer,\nwildlife habitat in towns has burgeoned. Now, if you want to hear a deafening\ndawn chorus of birds or familiarise yourself with foxes, you can head for the\nurban forest."
           },
           {
-            "label": "E",
-            "content": "F"
+            "label": null,
+            "text": "Whilst species that depend on wide open spaces such as the hare, the eagle\nand the red deer may still be restricted to remote rural landscapes, many of\nour wild plants and animals find the urban ecosystem ideal. This really should\nbe no surprise, since it is the fragmentation and agrochemical pollution in the\nfarming lowlands that has led to the catastrophic decline of so many species."
           },
           {
-            "label": "G",
-            "content": "They can make the cities greener."
+            "label": null,
+            "text": "By contrast, most urban open spaces have escaped the worst of the pesticide\nrevolution, and they are an intimate mosaic of interconnected habitats. Over\nthe years, the cutting down of hedgerows on farmland has contributed to\nhabitat isolation and species loss. In towns, the tangle of canals, railway\nembankments, road verges and boundary hedges lace the landscape together,\nproviding first-class ecological corridors for species such as hedgehogs,"
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "kingfishers and dragonflies."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "Urban parks and formal recreation grounds are valuable for some species, and\nmany of them are increasingly managed with wildlife in mind. But in many\nplaces their significance is eclipsed by the huge legacy of post-industrial land\ndemolished factories, waste tips, quarries, redundant railway yards and other\nso-called 'brownfield' sites. In Merseyside, South Yorkshire and the West\nMidlands, much of this has been spectacularly colonised with birch and willow\nwoodland, herb-rich grassland and shallow wetlands. As a consequence, there\nare song birds and predators in abundance over these once-industrial\nlandscapes."
+          },
+          {
+            "label": null,
+            "text": "There are fifteen million domestic gardens in the UK. and whilst some are still\nmanaged as lifeless chemical war zones, most benefit the local wildlife, either\nthrough benign neglect or positive encouragement. Those that do best tend to\nbe woodland species, and the garden lawns and flower borders, climber-\ncovered fences, shrubberies and fruit trees are a plausible alternative. Indeed,\nin some respects gardens are rather better than the real thing, especially with\nexotic flowers extending the nectar season. Birdfeeders can also supplement\nthe natural seed supply, and only the millions of domestic cats may spoil the\nscene."
+          },
+          {
+            "label": null,
+            "text": "As Britain's gardeners have embraced the idea of 'gardening with nature',\nwildlife's response has been spectacular. Between 1990 and the year 2000. the\nnumber of different bird species seen at artificial feeders in gardens increased\nfrom 17 to an amazing 81. The BUGS project (Biodiversity in Urban Gardens in\nSheffield) calculates that there are 25.000 garden ponds and 100.000 nest\nboxes in that one city alone."
+          },
+          {
+            "label": null,
+            "text": "We are at last acknowledging that the wildlife habitat in towns provides a\nvaluable life support system. The canopy of the urban forest is filtering air\npollution, and intercepting rainstorms, allowing the water to drip more\ngradually to the ground. Sustainable urban drainage relies on ponds and\nwetlands to contain storm water runoff, thus reducing the risk of flooding,\nwhilst reed beds and other wetland wildlife communities also help to clean up\nthe water. We now have scientific proof that contact with wildlife close to home\ncan help to reduce stress and anger. Hospital patients with a view of natural\ngreen space make a more rapid recovery and suffer less pain."
+          },
+          {
+            "label": null,
+            "text": "Traditionally, nature conservation in the UK has been seen as marginal and\nlargely rural. Now we are beginning to place it at the heart of urban\nenvironmental and economic policy. There are now dozens of schemes to\ncreate new habitats and restore old ones in and around our big cities."
+          },
+          {
+            "label": null,
+            "text": "Biodiversity is big in parts of London. thanks to schemes such as the London\nWetland Centre in the south west of the city."
+          },
+          {
+            "label": null,
+            "text": "This is a unique scheme masterminded by the Wildfowl and Wetlands Trust to\ncreate a wildlife reserve out of a redundant Victorian reservoir. Within five\nyears of its creation the Centre has been hailed as one of the top sites for\nnature in England and made a Site of Special Scientific Interest. It consists of a\n105-acre wetland site, which is made up of different wetland habitats of\nshallow, open water and grazing marsh. The site attracts more than 104\nspecies of bird, including nationally important rarities like the bittern."
+          },
+          {
+            "label": null,
+            "text": "We need to remember that if we work with wildlife, then wildlife will work for us\nand this is the very essence of sustainable development."
           }
-        ]
+        ],
+        "text": "The countryside is no longer the place to see wildlife, according to\nChris Barnes. These days you are more likely to find impressive\nnumbers of skylarks, dragonflies and toads in your own back garden.\n\nThe past half century has seen an interesting reversal in the fortunes of much\nof Britain's wildlife. Whilst the rural countryside has become poorer and poorer,\nwildlife habitat in towns has burgeoned. Now, if you want to hear a deafening\ndawn chorus of birds or familiarise yourself with foxes, you can head for the\nurban forest.\n\nWhilst species that depend on wide open spaces such as the hare, the eagle\nand the red deer may still be restricted to remote rural landscapes, many of\nour wild plants and animals find the urban ecosystem ideal. This really should\nbe no surprise, since it is the fragmentation and agrochemical pollution in the\nfarming lowlands that has led to the catastrophic decline of so many species.\n\nBy contrast, most urban open spaces have escaped the worst of the pesticide\nrevolution, and they are an intimate mosaic of interconnected habitats. Over\nthe years, the cutting down of hedgerows on farmland has contributed to\nhabitat isolation and species loss. In towns, the tangle of canals, railway\nembankments, road verges and boundary hedges lace the landscape together,\nproviding first-class ecological corridors for species such as hedgehogs,\n\nkingfishers and dragonflies.\n\nUrban parks and formal recreation grounds are valuable for some species, and\nmany of them are increasingly managed with wildlife in mind. But in many\nplaces their significance is eclipsed by the huge legacy of post-industrial land\ndemolished factories, waste tips, quarries, redundant railway yards and other\nso-called 'brownfield' sites. In Merseyside, South Yorkshire and the West\nMidlands, much of this has been spectacularly colonised with birch and willow\nwoodland, herb-rich grassland and shallow wetlands. As a consequence, there\nare song birds and predators in abundance over these once-industrial\nlandscapes.\n\nThere are fifteen million domestic gardens in the UK. and whilst some are still\nmanaged as lifeless chemical war zones, most benefit the local wildlife, either\nthrough benign neglect or positive encouragement. Those that do best tend to\nbe woodland species, and the garden lawns and flower borders, climber-\ncovered fences, shrubberies and fruit trees are a plausible alternative. Indeed,\nin some respects gardens are rather better than the real thing, especially with\nexotic flowers extending the nectar season. Birdfeeders can also supplement\nthe natural seed supply, and only the millions of domestic cats may spoil the\nscene.\n\nAs Britain's gardeners have embraced the idea of 'gardening with nature',\nwildlife's response has been spectacular. Between 1990 and the year 2000. the\nnumber of different bird species seen at artificial feeders in gardens increased\nfrom 17 to an amazing 81. The BUGS project (Biodiversity in Urban Gardens in\nSheffield) calculates that there are 25.000 garden ponds and 100.000 nest\nboxes in that one city alone.\n\nWe are at last acknowledging that the wildlife habitat in towns provides a\nvaluable life support system. The canopy of the urban forest is filtering air\npollution, and intercepting rainstorms, allowing the water to drip more\ngradually to the ground. Sustainable urban drainage relies on ponds and\nwetlands to contain storm water runoff, thus reducing the risk of flooding,\nwhilst reed beds and other wetland wildlife communities also help to clean up\nthe water. We now have scientific proof that contact with wildlife close to home\ncan help to reduce stress and anger. Hospital patients with a view of natural\ngreen space make a more rapid recovery and suffer less pain.\n\nTraditionally, nature conservation in the UK has been seen as marginal and\nlargely rural. Now we are beginning to place it at the heart of urban\nenvironmental and economic policy. There are now dozens of schemes to\ncreate new habitats and restore old ones in and around our big cities.\n\nBiodiversity is big in parts of London. thanks to schemes such as the London\nWetland Centre in the south west of the city.\n\nThis is a unique scheme masterminded by the Wildfowl and Wetlands Trust to\ncreate a wildlife reserve out of a redundant Victorian reservoir. Within five\nyears of its creation the Centre has been hailed as one of the top sites for\nnature in England and made a Site of Special Scientific Interest. It consists of a\n105-acre wetland site, which is made up of different wetland habitats of\nshallow, open water and grazing marsh. The site attracts more than 104\nspecies of bird, including nationally important rarities like the bittern.\n\nWe need to remember that if we work with wildlife, then wildlife will work for us\nand this is the very essence of sustainable development.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 14-19 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below, using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 20-23 on your answer sheet.",
+          "body": "Which type of wildlife benefits most from urban gardens? [[20]] What type of garden plants can benefit birds and insects? [[21]] What represents a threat to wildlife in urban gardens? [[22]] At the last count, how many species of bird were spotted in urban gardens? [[23]]",
+          "range": [
+            20,
+            23
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Choose THREE letters A-G. Write your answers in boxes 24-26 on your answer sheet. In which THREE ways can wildlife habitats benefit people living in urban areas?",
+          "body": null,
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct answer, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "There is now more wildlife in UK cities than in the\ncountryside.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Rural wildlife has been reduced by the use of\npesticides on farms.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "In the past, hedges on farms used to link up\ndifferent habitats.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "New urban environments are planned to provide\necological corridors for wildlife.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Public parks and gardens are being expanded to\nencourage wildlife.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "true-false-not-given",
+          "groupId": "p2g1",
+          "prompt": "Old industrial wastelands have damaged wildlife\nhabitats in urban areas.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "woodland species",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "exotic flowers",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(domestic) cats",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "81",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,G",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,G",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C,E,G",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "multiple-choice",
+          "groupId": "p2g4",
+          "prompt": "The writer believes that sustainable development is dependent on",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "urban economic policy.",
+            "large restoration schemes.",
+            "active nature conservation.",
+            "government projects."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
-        27,
+        28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 1 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "hoarded reserves.",
-      "questionRange": [
-        28,
-        33
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "hoarded reserves.\nI But the central governor theory does not mean that what's happening in the\nmuscles is irrelevant. The governor constantly monitors physiological signals\nfrom the muscles, along with other information, to set the level of fatigue. A\nlarge number of signals are probably involved but, unlike the limitations\ntheory, the central governor theory suggests that these physiological factors\nare not the direct determinants of fatigue, but simply information to take into\naccount.\nJ Conscious factors can also intervene. Noakes believes that the central\nregulator evaluates the planned workout, and sets a pacing strategy\naccordingly. Experienced runners know that if they set out on a 10-kilometre\nrun. the first kilometre feels easier than the first kilometre of a 5-kilometre run,\neven though there should be no difference. That, Noakes says, is because the\ncentral governor knows you have farther to go in the longer run and has\nprogrammed itself to dole out fatigue symptoms accordingly.\nK St Clair Gibson believes there is a good reason why our bodies arc designed\nto keep something back. That way, there's always something left in the tank\nfor an emergency. In ancient times, and still today, life would be too dangerous\nif our bodies allowed us to become so tired that we couldn't move quickly when\nfaced with an unexpected need.\nQuestions 28-33\nReading Passage 3 has eleven paragraphs A-K.\nChoose the correct heading for Paragraphs A-F from the list of headings\nbelow.\nWrite the correct number (i-viii) in boxes 28-33 on your answer sheet.\ni\nAvoiding tiredness in athletes\nii\nPuzzling evidence raises a question\niii\nTraditional explanations\niv\nInterpreting the findings\nv\nDeveloping muscle fibres\nvi\nA new hypothesis\nvii\nDescription of a new test\nviii\nSurprising results in an endurance test",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "new hypothesis"
+            "label": null,
+            "text": "Running on empty"
+          },
+          {
+            "label": null,
+            "text": "A revolutionary new theory in sports physiology."
+          },
+          {
+            "label": null,
+            "text": "A For almost a century, scientists have presumed, not unreasonably, that\nfatigue - or exhaustion in athletes originates in the muscles. Precise\nexplanations have varied but all have been based on the 'limitations theory'. In\nother words, muscles tire because they hit a physical limit: they either run out\nof fuel or oxygen or they drown in toxic by-products."
+          },
+          {
+            "label": null,
+            "text": "B In the past few years, however, Timothy Noakes and Alan St Clair Gibson\nfrom the University of Cape Town, South Africa, have examined this standard\ntheory. The deeper they dig, the more convinced they have become that\nphysical fatigue simply isn't the same as a car running out of petrol. Fatigue,\nthey argue, is caused not by distress signals springing from overtaxed\nmuscles, but is an emotional response which begins in the brain. The essence\nof their new theory is that the brain, using a mix of physiological, subconscious\nand conscious cues, paces the muscles to keep them well back from the brink\nof exhaustion. When the brain decides its time to quit, it creates the distressing\nsensations we interpret as unbearable muscle fatigue. This 'central governor*\ntheory remains controversial, but it does explain many puzzling aspects of\nathletic performance."
+          },
+          {
+            "label": null,
+            "text": "C A recent discovery that Noakes calls the 'lactic acid paradox' made him start"
+          },
+          {
+            "label": null,
+            "text": "researching this area seriously. Lactic acid is a by-product of exercise, and its\naccumulation is often cited as a cause of fatigue. But when research subjects\nexercise in conditions simulating high altitude, they become fatigued even\nthough lactic acid levels remain low. Nor has the oxygen content of their blood\nfallen too low for them to keep going. Obviously, Noakes deduced, something\nelse was making them tire before they hit either of these physiological limits."
+          },
+          {
+            "label": null,
+            "text": "D Probing further, Noakes conducted an experiment with seven cyclists who\nhad sensors taped to their legs to measure the nerve impulses travelling\nthrough their muscles. It has long been known that during exercise, the body\nnever uses 100% of the available muscle fibres in a single contraction. The\namount used varies, but in endurance tasks such as this cycling test the body\ncalls on about 30%."
+          },
+          {
+            "label": null,
+            "text": "E Noakes reasoned that if the limitations theory was correct and fatigue was\ndue to muscle fibres hitting some limit, the number of fibres used for each\npedal stroke should increase as the fibres tired and the cyclist's body\nattempted to compensate by recruiting an ever-larger proportion of the total.\nBut his team found exactly the opposite. As fatigue set in, the electrical activity\nin the cyclists' legs declined - even during sprinting, when they were striving to\ncycle as fast as they could."
+          },
+          {
+            "label": null,
+            "text": "F To Noakes, this was strong evidence that the old theory was wrong. 'The\ncyclists may have felt completely exhausted,' he says, 'but their bodies\nactually had considerable reserves that they could theoretically tap by using a\ngreater proportion of the resting fibres.' This, he believes, is proof that the\nbrain is regulating the pace of the workout to hold the cyclists well back from\nthe point of catastrophic exhaustion."
+          },
+          {
+            "label": null,
+            "text": "G More evidence comes from the fact that fatigued muscles don't actually run\nout of anything critical. Levels of glycogen, which is the muscles' primary fuel,\nand ATP. the chemical they use for temporary energy storage, decline with\nexercise but never bottom out. Even at the end of a marathon, ATP levels are\n80-90% of the resting norm, and glycogen levels never get to zero."
+          },
+          {
+            "label": null,
+            "text": "H Further support for the central regulator comes from the fact that top\nathletes usually manage to go their fastest at the end of a race, even though,\ntheoretically, that's when their muscles should be closest to exhaustion.\nBut Noakes believes the end spurt makes no sense if fatigue is caused by\nmuscles poisoning themselves with lactic acid as this would cause racers to\nslow down rather than enable them to sprint for the finish line. In the new\ntheory, the explanation is obvious. Knowing the end is near, the brain slightly\nrelaxes its vigil, allowing the athlete to tap some of the body's carefully"
+          },
+          {
+            "label": null,
+            "text": "hoarded reserves."
+          },
+          {
+            "label": null,
+            "text": "I But the central governor theory does not mean that what's happening in the\nmuscles is irrelevant. The governor constantly monitors physiological signals\nfrom the muscles, along with other information, to set the level of fatigue. A\nlarge number of signals are probably involved but, unlike the limitations\ntheory, the central governor theory suggests that these physiological factors\nare not the direct determinants of fatigue, but simply information to take into\naccount."
+          },
+          {
+            "label": null,
+            "text": "J Conscious factors can also intervene. Noakes believes that the central\nregulator evaluates the planned workout, and sets a pacing strategy\naccordingly. Experienced runners know that if they set out on a 10-kilometre\nrun. the first kilometre feels easier than the first kilometre of a 5-kilometre run,\neven though there should be no difference. That, Noakes says, is because the\ncentral governor knows you have farther to go in the longer run and has\nprogrammed itself to dole out fatigue symptoms accordingly."
+          },
+          {
+            "label": null,
+            "text": "K St Clair Gibson believes there is a good reason why our bodies arc designed\nto keep something back. That way, there's always something left in the tank\nfor an emergency. In ancient times, and still today, life would be too dangerous\nif our bodies allowed us to become so tired that we couldn't move quickly when\nfaced with an unexpected need."
           }
-        ]
+        ],
+        "text": "Running on empty\n\nA revolutionary new theory in sports physiology.\n\nA For almost a century, scientists have presumed, not unreasonably, that\nfatigue - or exhaustion in athletes originates in the muscles. Precise\nexplanations have varied but all have been based on the 'limitations theory'. In\nother words, muscles tire because they hit a physical limit: they either run out\nof fuel or oxygen or they drown in toxic by-products.\n\nB In the past few years, however, Timothy Noakes and Alan St Clair Gibson\nfrom the University of Cape Town, South Africa, have examined this standard\ntheory. The deeper they dig, the more convinced they have become that\nphysical fatigue simply isn't the same as a car running out of petrol. Fatigue,\nthey argue, is caused not by distress signals springing from overtaxed\nmuscles, but is an emotional response which begins in the brain. The essence\nof their new theory is that the brain, using a mix of physiological, subconscious\nand conscious cues, paces the muscles to keep them well back from the brink\nof exhaustion. When the brain decides its time to quit, it creates the distressing\nsensations we interpret as unbearable muscle fatigue. This 'central governor*\ntheory remains controversial, but it does explain many puzzling aspects of\nathletic performance.\n\nC A recent discovery that Noakes calls the 'lactic acid paradox' made him start\n\nresearching this area seriously. Lactic acid is a by-product of exercise, and its\naccumulation is often cited as a cause of fatigue. But when research subjects\nexercise in conditions simulating high altitude, they become fatigued even\nthough lactic acid levels remain low. Nor has the oxygen content of their blood\nfallen too low for them to keep going. Obviously, Noakes deduced, something\nelse was making them tire before they hit either of these physiological limits.\n\nD Probing further, Noakes conducted an experiment with seven cyclists who\nhad sensors taped to their legs to measure the nerve impulses travelling\nthrough their muscles. It has long been known that during exercise, the body\nnever uses 100% of the available muscle fibres in a single contraction. The\namount used varies, but in endurance tasks such as this cycling test the body\ncalls on about 30%.\n\nE Noakes reasoned that if the limitations theory was correct and fatigue was\ndue to muscle fibres hitting some limit, the number of fibres used for each\npedal stroke should increase as the fibres tired and the cyclist's body\nattempted to compensate by recruiting an ever-larger proportion of the total.\nBut his team found exactly the opposite. As fatigue set in, the electrical activity\nin the cyclists' legs declined - even during sprinting, when they were striving to\ncycle as fast as they could.\n\nF To Noakes, this was strong evidence that the old theory was wrong. 'The\ncyclists may have felt completely exhausted,' he says, 'but their bodies\nactually had considerable reserves that they could theoretically tap by using a\ngreater proportion of the resting fibres.' This, he believes, is proof that the\nbrain is regulating the pace of the workout to hold the cyclists well back from\nthe point of catastrophic exhaustion.\n\nG More evidence comes from the fact that fatigued muscles don't actually run\nout of anything critical. Levels of glycogen, which is the muscles' primary fuel,\nand ATP. the chemical they use for temporary energy storage, decline with\nexercise but never bottom out. Even at the end of a marathon, ATP levels are\n80-90% of the resting norm, and glycogen levels never get to zero.\n\nH Further support for the central regulator comes from the fact that top\nathletes usually manage to go their fastest at the end of a race, even though,\ntheoretically, that's when their muscles should be closest to exhaustion.\nBut Noakes believes the end spurt makes no sense if fatigue is caused by\nmuscles poisoning themselves with lactic acid as this would cause racers to\nslow down rather than enable them to sprint for the finish line. In the new\ntheory, the explanation is obvious. Knowing the end is near, the brain slightly\nrelaxes its vigil, allowing the athlete to tap some of the body's carefully\n\nhoarded reserves.\n\nI But the central governor theory does not mean that what's happening in the\nmuscles is irrelevant. The governor constantly monitors physiological signals\nfrom the muscles, along with other information, to set the level of fatigue. A\nlarge number of signals are probably involved but, unlike the limitations\ntheory, the central governor theory suggests that these physiological factors\nare not the direct determinants of fatigue, but simply information to take into\naccount.\n\nJ Conscious factors can also intervene. Noakes believes that the central\nregulator evaluates the planned workout, and sets a pacing strategy\naccordingly. Experienced runners know that if they set out on a 10-kilometre\nrun. the first kilometre feels easier than the first kilometre of a 5-kilometre run,\neven though there should be no difference. That, Noakes says, is because the\ncentral governor knows you have farther to go in the longer run and has\nprogrammed itself to dole out fatigue symptoms accordingly.\n\nK St Clair Gibson believes there is a good reason why our bodies arc designed\nto keep something back. That way, there's always something left in the tank\nfor an emergency. In ancient times, and still today, life would be too dangerous\nif our bodies allowed us to become so tired that we couldn't move quickly when\nfaced with an unexpected need.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 3 has eleven paragraphs A-K.",
+          "body": null,
+          "range": [
+            28,
+            33
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii"
+            ],
+            "labels": [
+              "Avoiding tiredness in athletes",
+              "Puzzling evidence raises a question",
+              "Traditional explanations",
+              "Interpreting the findings",
+              "Developing muscle fibres",
+              "A new hypothesis",
+              "Description of a new test",
+              "Surprising results in an endurance test"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Classify the following ideas as relating to A the Limitations Theory B the Central Governor Theory C both the Limitations Theory and the Central Governor Theory Write the correct letter A, B or C in boxes 34-40 on your answer sheet. NB: You may use any letter more than once.",
+          "body": null,
+          "range": [
+            34,
+            40
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "the Limitations Theory",
+              "the Central Governor Theory",
+              "both the Limitations Theory and the Central Governor Theory"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph A",
           "instruction": "",
-          "answer": "iii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
         },
         {
           "number": 29,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph B",
           "instruction": "",
-          "answer": "vi"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 30,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph C",
           "instruction": "",
-          "answer": "ii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 31,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph D",
           "instruction": "",
-          "answer": "vii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
         },
         {
           "number": 32,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph E",
           "instruction": "",
-          "answer": "viii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 33,
           "type": "heading-matching",
-          "prompt": "Paragraph F Classify the following ideas as relating to A the Limitations Theory",
+          "groupId": "p3g1",
+          "prompt": "Paragraph F",
           "instruction": "",
-          "answer": "iv"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Lactic acid is produced in muscles during exercise.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Athletes can keep going until they use up all their\navailable resources.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Mental processes control the symptoms of tiredness.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "The physiological signals from an athlete's muscles are\nlinked to fatigue.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "The brain plans and regulates muscle performance in\nadvance of a run.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Athletes' performance during a race may be affected\nby lactic acid build-up.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Humans are genetically programmed to keep some",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     }
@@ -204,7 +1108,8 @@
     "20": "woodland species",
     "21": "exotic flowers",
     "22": "(domestic) cats",
-    "26": "C,E,G",
+    "23": "81",
+    "24": "C,E,G",
     "27": "C",
     "28": "iii",
     "29": "vi",
@@ -218,6 +1123,8 @@
     "37": "C",
     "38": "B",
     "39": "A",
-    "40": "B"
+    "40": "B",
+    "25": "C,E,G",
+    "26": "C,E,G"
   }
 }

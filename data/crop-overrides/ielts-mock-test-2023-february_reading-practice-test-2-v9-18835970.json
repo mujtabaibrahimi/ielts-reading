@@ -1,0 +1,78 @@
+{
+  "_parts": {
+    "1": [
+      1,
+      14
+    ],
+    "2": [
+      15,
+      27
+    ],
+    "3": [
+      28,
+      40
+    ]
+  },
+  "_answers": {
+    "5": "YES",
+    "6": "NOT GIVEN",
+    "7": "YES",
+    "8": "NO",
+    "9": "YES",
+    "10": "D",
+    "11": "B",
+    "12": "I",
+    "13": "E",
+    "14": "K",
+    "15": "B",
+    "16": "E",
+    "17": "A",
+    "18": "D",
+    "19": "B",
+    "20": "TRUE",
+    "21": "TRUE",
+    "22": "NOT GIVEN",
+    "23": "FALSE",
+    "24": "NOT GIVEN",
+    "25": "headspace",
+    "26": "filters",
+    "27": "needle",
+    "28": "FALSE",
+    "29": "NOT GIVEN",
+    "30": "C",
+    "4": "C"
+  },
+  "p1g1": {
+    "questions": {
+      "3": {
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "EV 1",
+          "CARB",
+          "RAV4",
+          "MINI E"
+        ]
+      },
+      "4": {
+        "prompt": "Nissan and GM high-level leaders declared the real reason for the popularity of Roaster is its",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "legendary concert",
+          "huge population in the market",
+          "bursting demand",
+          "bursting demand"
+        ]
+      }
+    }
+  }
+}

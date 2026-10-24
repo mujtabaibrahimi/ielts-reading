@@ -1,0 +1,95 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Courses A to D are each aimed at helping a specific group of students. Below is a list of different students. Match the students to the course that would help them most. Write the letter A, B, C or D, or N if there is no course available for the student's needs.",
+    "optionBank": {
+      "title": "Courses",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "N"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "23": {
+        "prompt": "Narelle, from Taiwan, has to use a computer to do assignments in her business studies classes.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "N"
+        ]
+      },
+      "24": {
+        "prompt": "Joe, who left high school 10 years ago, wants to brush up on his maths before he starts his studies for the year.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "N"
+        ]
+      },
+      "25": {
+        "prompt": "Jenny needs an advanced course on computer graphics for her studies in Graphic Design.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "N"
+        ]
+      },
+      "26": {
+        "prompt": "Geoff, who has to read many articles containing statistics, needs to know how to interpret and apply the facts and figures.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "N"
+        ]
+      },
+      "27": {
+        "prompt": "Bob needs to know how to perform some of the basic statistic equations for the assignments in his business course.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "N"
+        ]
+      }
+    }
+  },
+  "p1g2": {
+    "_keepImage": true,
+    "_reason": "Crop is reading material (advertisements A-D for places to stay near Morpeth); Part 1 has no passage text, so this crop is the only source for Q4-7. Structural: duplicate of p1g5, so Q4-7 render twice.",
+    "questionNumbers": []
+  },
+  "p1g3": {
+    "_keepImage": true,
+    "_reason": "Crop is reading material (the description of Morpeth); Part 1 has no passage text, so this crop is the only source for Q8-14. Structural: duplicate of p1g6, so Q8-14 render twice.",
+    "questionNumbers": []
+  },
+  "p1g6": {
+    "_keepImage": true,
+    "_reason": "Map of the numbered places 2-8 is missing from the source crop (only the A-K list and answer boxes are present); cannot state which place each number marks without inventing."
+  },
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Flow chart is missing from the source crop (only the instruction, the A-J box and answer boxes 35-40 are present); cannot transcribe without inventing."
+  },
+  "p1g4": {
+    "drop": true,
+    "ifNumbers": [
+      1,
+      2,
+      3
+    ]
+  }
+}

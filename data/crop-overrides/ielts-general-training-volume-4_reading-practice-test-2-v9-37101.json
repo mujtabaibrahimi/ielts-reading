@@ -1,0 +1,133 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "The text has seven sections, A-G. For which apartment are the following statements true? Write the correct letter A-G. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Apartments",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "6": {
+        "prompt": "It overlooks a golf course.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "7": {
+        "prompt": "It has its own parking space.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "8": {
+        "prompt": "It is in the centre of a town.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "9": {
+        "prompt": "The sea can be seen from it.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "10": {
+        "prompt": "There is a swimming pool for residents of the apartment complex.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "11": {
+        "prompt": "It is in a new apartment complex.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "12": {
+        "prompt": "It is part of an apartment complex with its own supermarket.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "13": {
+        "prompt": "It has a private outdoor area where you can sit.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "14": {
+        "prompt": "The owners will organise parking on request.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    }
+  },
+  "p2g1": {
+    "_keepImage": true,
+    "_reason": "Flow-chart is missing from the source crop (only the instruction and blank answer lines 15-21 are present); cannot transcribe without inventing."
+  }
+}

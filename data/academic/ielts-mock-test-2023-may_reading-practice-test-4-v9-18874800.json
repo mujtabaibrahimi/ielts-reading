@@ -1,232 +1,1123 @@
 {
   "id": "ielts-mock-test-2023-may_reading-practice-test-4-v9-18874800",
   "type": "academic",
-  "source": "ielts-mock-test-2023-may reading-practice-test-4-v9-18874800",
+  "title": "IELTS Academic 2023 May - Reading Test 4",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 4,
+  "year": 2023,
+  "month": 5,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-may_reading-practice-test-4-v9-18874800.pdf",
-  "total_questions": 7,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Can Scientists tell us: What happiness is?",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nCan Scientists tell us: What happiness is?\nA\nEconomists accept that if people describe themselves as happy, then they are\nhappy. However, psychologists differentiate between levels of happiness. The\nmost immediate type involves a feeling; pleasure or joy. But sometimes\nhappiness is a judgment that life is satisfying, and does not imply an emotional\nstate. Esteemed psychologist Martin Seligman has spearheaded an effort to\nstudy the science of happiness. The bad news is that we’re not wired to be\nhappy. The good news is that we can do something about it. Since its origins in\na Leipzig laboratory 130 years ago, psychology has had little to say about\ngoodness and contentment. Mostly psychologists have concerned themselves\nwith weakness and misery. There are libraries full of theories about why we get\nsad, worried, and angry. It hasn’t been respectable science to study what\nhappens when lives go well. Positive experiences, such as joy, kindness,\naltruism and heroism, have mainly been ignored. For every 100 psychology\npapers dealing with anxiety or depression, only one concerns a positive trait.\nB\nA few pioneers in experimental psychology bucked the trend. Professor Alice\nIsen of Cornell University and colleagues have demonstrated how positive\nemotions make people think faster and more creatively. Showing how easy it is\nto give people an intellectual boost, Isen divided doctors making a tricky\ndiagnosis into three groups: one received candy, one read humanistic\nstatements about medicine, one was a control group. The doctors who had\ncandy displayed the most creative thinking and worked more efficiently.\nInspired by Isen and others, Seligman got stuck in. He raised millions of dollars\n\nof research money and funded 50 research groups involving 150 scientists\nacross the world. Four positive psychology centres opened, decorated in\ncheerful colours and furnished with sofas and baby-sitters. There were get-\ntogethers on Mexican beaches where psychologists would snorkel and eat\nfajitas, then form “pods” to discuss subjects such as wonder and awe. A\nthousand therapists were coached in the new science.\nC\nBut critics are demanding answers to big questions. What is the point of\ndefining levels of haziness and classifying the virtues? Aren’t these concepts\nvague and impossible to pin down? Can you justify spending funds to research\npositive states when there are problems such as famine, flood and epidemic\ndepression to be solved? Seligman knows his work can be belittled alongside\ntrite notions such as “the power of positive thinking”. His plan to stop the new\nscience floating “on the waves of self- improvement fashion” is to make sure it\nis anchored to positive philosophy above, and to positive biology below.\nD\nAnd this takes us back to our evolutionary past Homo sapiens evolved during\nthe Pleistocene era (1.8 m to 10,000 years ago), a time of hardship and turmoil.\nIt was the Ice Age, and our ancestors endured long freezes as glaciers formed,\nthen ferocious floods as the ice masses melted. We shared the planet with\nterrifying creatures such as mammoths, elephant-sized ground sloths and\nsabre-toothed cats. But by the end of the Pleistocene, all these animals were\nextinct. Humans, on the other hand, had evolved large brains and used their\nintelligence to make fire and sophisticated tools, to develop talk and social\nrituals. Survival in a time of adversity forged our brains into a persistent mould.\nProfessor Seligman says: “Because our brain evolved during a time of ice, flood\nand famine, we have a catastrophic brain. The way the brain works is looking\nfor what’s wrong. The problem is, that worked in the Pleistocene era. It\nfavoured you, but it doesn’t work in the modem world”.\nE\nAlthough most people rate themselves as happy, there is a wealth of evidence\nto show that negative thinking is deeply ingrained in the human psyche.\nExperiments show that we remember failures more vividly than success. We\ndwell on what went badly, not what went well. Of the six universal emotions,\nfour anger, fear, disgust and sadness are negative and only one, joy, is\npositive. (The sixth, surprise, is neutral). According to the psychologist Daniel\nNettle, author of Happiness, and one of the Royal Institution lectures, the\nnegative emotion each tells us “something bad has happened” and suggest a\n\ndifferent course of action.\nF\nWhat is it about the structure of the brain that underlies our bias towards\nnegative thinking? And is there a biology of joy? At Iowa University,\nneuroscientist studied what happens when people are shown pleasant and\nunpleasant pictures. When subjects see landscapes or dolphins playing, part of\nthe frontal lobe of the brain becomes active. But when they are shown\nunpleasant images a bird covered in oil, or a dead soldier with part of his face\nmissing the response comes from more primitive parts of the brain. The ability\nto feel negative emotions derives from an ancient danger-recognition system\nformed early in the brain’s evolution. The pre-frontal cortex, which registers\nhappiness, is the part used for higher thinking, an area that evolved later in\nhuman history.\nG\nOur difficulty, according to Daniel Nettle, is that the brain systems for liking\nand wanting are separate. Wanting involves two ancient regions the amygdala\nand the nucleus accumbens that communicate using the chemical dopamine to\nform the brain’s reward system. They are involved in anticipating the pleasure\nof eating and in addiction to drugs. A rat will press a bar repeatedly\u0000 ignoring\nsexually available partners, to receive electrical stimulation of the “wanting”\nparts of the brain. But having received brain stimulation, the rat eats more but\nshows no sign of enjoying the food it craved. In humans, a drug like nicotine\nproduces much craving but little pleasure.\nH\nIn essence, what the biology lesson tells us is that negative emotions are\nfundamental to the human condition and it’s no wonder they are difficult to\neradicate. At the same time, by a trick of nature, our brains are designed to\ncrave but never really achieve lasting happiness.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Can Scientists tell us: What happiness is?"
+          },
           {
             "label": "A",
-            "content": "Economists accept that if people describe themselves as happy, then they are"
+            "text": "Economists accept that if people describe themselves as happy, then they are\nhappy. However, psychologists differentiate between levels of happiness. The\nmost immediate type involves a feeling; pleasure or joy. But sometimes\nhappiness is a judgment that life is satisfying, and does not imply an emotional\nstate. Esteemed psychologist Martin Seligman has spearheaded an effort to\nstudy the science of happiness. The bad news is that we're not wired to be\nhappy. The good news is that we can do something about it. Since its origins in\na Leipzig laboratory 130 years ago, psychology has had little to say about\ngoodness and contentment. Mostly psychologists have concerned themselves\nwith weakness and misery. There are libraries full of theories about why we get\nsad, worried, and angry. It hasn't been respectable science to study what\nhappens when lives go well. Positive experiences, such as joy, kindness,\naltruism and heroism, have mainly been ignored. For every 100 psychology\npapers dealing with anxiety or depression, only one concerns a positive trait."
           },
           {
             "label": "B",
-            "content": "A few pioneers in experimental psychology bucked the trend. Professor Alice"
+            "text": "A few pioneers in experimental psychology bucked the trend. Professor Alice\nIsen of Cornell University and colleagues have demonstrated how positive\nemotions make people think faster and more creatively. Showing how easy it is\nto give people an intellectual boost, Isen divided doctors making a tricky\ndiagnosis into three groups: one received candy, one read humanistic\nstatements about medicine, one was a control group. The doctors who had\ncandy displayed the most creative thinking and worked more efficiently.\nInspired by Isen and others, Seligman got stuck in. He raised millions of dollars"
+          },
+          {
+            "label": null,
+            "text": "of research money and funded 50 research groups involving 150 scientists\nacross the world. Four positive psychology centres opened, decorated in\ncheerful colours and furnished with sofas and baby-sitters. There were get-\ntogethers on Mexican beaches where psychologists would snorkel and eat\nfajitas, then form \"pods\" to discuss subjects such as wonder and awe. A\nthousand therapists were coached in the new science."
           },
           {
             "label": "C",
-            "content": "But critics are demanding answers to big questions. What is the point of"
+            "text": "But critics are demanding answers to big questions. What is the point of\ndefining levels of haziness and classifying the virtues? Aren't these concepts\nvague and impossible to pin down? Can you justify spending funds to research\npositive states when there are problems such as famine, flood and epidemic\ndepression to be solved? Seligman knows his work can be belittled alongside\ntrite notions such as \"the power of positive thinking\". His plan to stop the new\nscience floating \"on the waves of self- improvement fashion\" is to make sure it\nis anchored to positive philosophy above, and to positive biology below."
           },
           {
             "label": "D",
-            "content": "And this takes us back to our evolutionary past Homo sapiens evolved during"
+            "text": "And this takes us back to our evolutionary past Homo sapiens evolved during\nthe Pleistocene era (1.8 m to 10,000 years ago), a time of hardship and turmoil.\nIt was the Ice Age, and our ancestors endured long freezes as glaciers formed,\nthen ferocious floods as the ice masses melted. We shared the planet with\nterrifying creatures such as mammoths, elephant-sized ground sloths and\nsabre-toothed cats. But by the end of the Pleistocene, all these animals were\nextinct. Humans, on the other hand, had evolved large brains and used their\nintelligence to make fire and sophisticated tools, to develop talk and social\nrituals. Survival in a time of adversity forged our brains into a persistent mould.\nProfessor Seligman says: \"Because our brain evolved during a time of ice, flood\nand famine, we have a catastrophic brain. The way the brain works is looking\nfor what's wrong. The problem is, that worked in the Pleistocene era. It\nfavoured you, but it doesn't work in the modem world\"."
           },
           {
             "label": "E",
-            "content": "Although most people rate themselves as happy, there is a wealth of evidence"
+            "text": "Although most people rate themselves as happy, there is a wealth of evidence\nto show that negative thinking is deeply ingrained in the human psyche.\nExperiments show that we remember failures more vividly than success. We\ndwell on what went badly, not what went well. Of the six universal emotions,\nfour anger, fear, disgust and sadness are negative and only one, joy, is\npositive. (The sixth, surprise, is neutral). According to the psychologist Daniel\nNettle, author of Happiness, and one of the Royal Institution lectures, the\nnegative emotion each tells us \"something bad has happened\" and suggest a"
+          },
+          {
+            "label": null,
+            "text": "different course of action."
           },
           {
             "label": "F",
-            "content": "What is it about the structure of the brain that underlies our bias towards"
+            "text": "What is it about the structure of the brain that underlies our bias towards\nnegative thinking? And is there a biology of joy? At Iowa University,\nneuroscientist studied what happens when people are shown pleasant and\nunpleasant pictures. When subjects see landscapes or dolphins playing, part of\nthe frontal lobe of the brain becomes active. But when they are shown\nunpleasant images a bird covered in oil, or a dead soldier with part of his face\nmissing the response comes from more primitive parts of the brain. The ability\nto feel negative emotions derives from an ancient danger-recognition system\nformed early in the brain's evolution. The pre-frontal cortex, which registers\nhappiness, is the part used for higher thinking, an area that evolved later in\nhuman history."
           },
           {
             "label": "G",
-            "content": "Our difficulty, according to Daniel Nettle, is that the brain systems for liking"
+            "text": "Our difficulty, according to Daniel Nettle, is that the brain systems for liking\nand wanting are separate. Wanting involves two ancient regions the amygdala\nand the nucleus accumbens that communicate using the chemical dopamine to\nform the brain's reward system. They are involved in anticipating the pleasure\nof eating and in addiction to drugs. A rat will press a bar repeatedly\u0000 ignoring\nsexually available partners, to receive electrical stimulation of the \"wanting\"\nparts of the brain. But having received brain stimulation, the rat eats more but\nshows no sign of enjoying the food it craved. In humans, a drug like nicotine\nproduces much craving but little pleasure."
+          },
+          {
+            "label": "H",
+            "text": "In essence, what the biology lesson tells us is that negative emotions are\nfundamental to the human condition and it's no wonder they are difficult to\neradicate. At the same time, by a trick of nature, our brains are designed to\ncrave but never really achieve lasting happiness."
           }
-        ]
+        ],
+        "text": "Can Scientists tell us: What happiness is?\n\nEconomists accept that if people describe themselves as happy, then they are\nhappy. However, psychologists differentiate between levels of happiness. The\nmost immediate type involves a feeling; pleasure or joy. But sometimes\nhappiness is a judgment that life is satisfying, and does not imply an emotional\nstate. Esteemed psychologist Martin Seligman has spearheaded an effort to\nstudy the science of happiness. The bad news is that we're not wired to be\nhappy. The good news is that we can do something about it. Since its origins in\na Leipzig laboratory 130 years ago, psychology has had little to say about\ngoodness and contentment. Mostly psychologists have concerned themselves\nwith weakness and misery. There are libraries full of theories about why we get\nsad, worried, and angry. It hasn't been respectable science to study what\nhappens when lives go well. Positive experiences, such as joy, kindness,\naltruism and heroism, have mainly been ignored. For every 100 psychology\npapers dealing with anxiety or depression, only one concerns a positive trait.\n\nA few pioneers in experimental psychology bucked the trend. Professor Alice\nIsen of Cornell University and colleagues have demonstrated how positive\nemotions make people think faster and more creatively. Showing how easy it is\nto give people an intellectual boost, Isen divided doctors making a tricky\ndiagnosis into three groups: one received candy, one read humanistic\nstatements about medicine, one was a control group. The doctors who had\ncandy displayed the most creative thinking and worked more efficiently.\nInspired by Isen and others, Seligman got stuck in. He raised millions of dollars\n\nof research money and funded 50 research groups involving 150 scientists\nacross the world. Four positive psychology centres opened, decorated in\ncheerful colours and furnished with sofas and baby-sitters. There were get-\ntogethers on Mexican beaches where psychologists would snorkel and eat\nfajitas, then form \"pods\" to discuss subjects such as wonder and awe. A\nthousand therapists were coached in the new science.\n\nBut critics are demanding answers to big questions. What is the point of\ndefining levels of haziness and classifying the virtues? Aren't these concepts\nvague and impossible to pin down? Can you justify spending funds to research\npositive states when there are problems such as famine, flood and epidemic\ndepression to be solved? Seligman knows his work can be belittled alongside\ntrite notions such as \"the power of positive thinking\". His plan to stop the new\nscience floating \"on the waves of self- improvement fashion\" is to make sure it\nis anchored to positive philosophy above, and to positive biology below.\n\nAnd this takes us back to our evolutionary past Homo sapiens evolved during\nthe Pleistocene era (1.8 m to 10,000 years ago), a time of hardship and turmoil.\nIt was the Ice Age, and our ancestors endured long freezes as glaciers formed,\nthen ferocious floods as the ice masses melted. We shared the planet with\nterrifying creatures such as mammoths, elephant-sized ground sloths and\nsabre-toothed cats. But by the end of the Pleistocene, all these animals were\nextinct. Humans, on the other hand, had evolved large brains and used their\nintelligence to make fire and sophisticated tools, to develop talk and social\nrituals. Survival in a time of adversity forged our brains into a persistent mould.\nProfessor Seligman says: \"Because our brain evolved during a time of ice, flood\nand famine, we have a catastrophic brain. The way the brain works is looking\nfor what's wrong. The problem is, that worked in the Pleistocene era. It\nfavoured you, but it doesn't work in the modem world\".\n\nAlthough most people rate themselves as happy, there is a wealth of evidence\nto show that negative thinking is deeply ingrained in the human psyche.\nExperiments show that we remember failures more vividly than success. We\ndwell on what went badly, not what went well. Of the six universal emotions,\nfour anger, fear, disgust and sadness are negative and only one, joy, is\npositive. (The sixth, surprise, is neutral). According to the psychologist Daniel\nNettle, author of Happiness, and one of the Royal Institution lectures, the\nnegative emotion each tells us \"something bad has happened\" and suggest a\n\ndifferent course of action.\n\nWhat is it about the structure of the brain that underlies our bias towards\nnegative thinking? And is there a biology of joy? At Iowa University,\nneuroscientist studied what happens when people are shown pleasant and\nunpleasant pictures. When subjects see landscapes or dolphins playing, part of\nthe frontal lobe of the brain becomes active. But when they are shown\nunpleasant images a bird covered in oil, or a dead soldier with part of his face\nmissing the response comes from more primitive parts of the brain. The ability\nto feel negative emotions derives from an ancient danger-recognition system\nformed early in the brain's evolution. The pre-frontal cortex, which registers\nhappiness, is the part used for higher thinking, an area that evolved later in\nhuman history.\n\nOur difficulty, according to Daniel Nettle, is that the brain systems for liking\nand wanting are separate. Wanting involves two ancient regions the amygdala\nand the nucleus accumbens that communicate using the chemical dopamine to\nform the brain's reward system. They are involved in anticipating the pleasure\nof eating and in addiction to drugs. A rat will press a bar repeatedly\u0000 ignoring\nsexually available partners, to receive electrical stimulation of the \"wanting\"\nparts of the brain. But having received brain stimulation, the rat eats more but\nshows no sign of enjoying the food it craved. In humans, a drug like nicotine\nproduces much craving but little pleasure.\n\nIn essence, what the biology lesson tells us is that negative emotions are\nfundamental to the human condition and it's no wonder they are difficult to\neradicate. At the same time, by a trick of nature, our brains are designed to\ncrave but never really achieve lasting happiness.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The reading Passage has seven paragraphs A-H. Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN FOUR WORDS from the Reading Passage for each answer. Write your answers in boxes 8-12 on your answer sheet. A few pioneers in experimental psychology study what happens when lives go well. Professor Alice divided doctors, making a tricky experiment, into three groups: besides the one control group, the other two either are",
+          "body": "asked to read humanistic statements about drugs or received [[8]] . The latter displayed the most creative thinking and worked more efficiently. Since critics are questioning the significance of the [[9]] for both levels of happiness and classification for the virtues. Professor Seligman countered in an evolutional theory: survival in a time of adversity forged our brains into the way of thinking for what's wrong because we have a [[10]] . There is bountiful of evidence to show that negative thinking is deeply built in the human psyche. Later, at Iowa University, neuroscientists studied the active parts in brains to contrast when people are shown pleasant and unpleasant pictures. When positive images like [[11]] are shown, part of the frontal lobe of the brain becomes active. But when they are shown unpleasant image, the response comes from [[12]] of the brain. Question 13 Choose the correct letter, A, B, C or D. Write your answers in boxes 13 on your answer sheet. 13 According to Daniel Nettle in the last two paragraphs, what is true as the scientists can tell us about happiness A Brain systems always mix liking and wanting together. B Negative emotions can be easily rid of if we think positively. C Happiness is like nicotine we are craving for but get little pleasure. D The inner mechanism of human brains does not assist us to achieve durable happiness",
+          "range": [
+            8,
+            12
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 13 on your answer sheet.",
+          "body": null,
+          "range": [
+            13,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "An experiment involving dividing several groups one of",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
           "number": 2,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "Review of a poorly researched psychology area",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 3,
-          "type": "matching-features",
-          "prompt": "Contrast being made about the brains’ action as response to positive or negative stimulus",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "F"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Contrast being made about the brains' action as",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 4,
-          "type": "matching-features",
-          "prompt": "The skeptical attitude toward the research seemed to be a waste of fund",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "C"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The skeptical attitude toward the research seemed to be",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
-          "prompt": "a substance that produces much wanting instead of much liking",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "G"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "a substance that produces much wanting instead of",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
         },
         {
           "number": 6,
           "type": "matching-paragraph-information",
-          "prompt": "a conclusion that lasting happiness is hardly obtained because of the nature of brains",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "H"
+          "groupId": "p1g1",
+          "prompt": "a conclusion that lasting happiness is hardly obtained",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
         },
         {
           "number": 7,
-          "type": "matching-features",
-          "prompt": "One description that listed the human emotional categories. Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN FOUR WORDS from the Reading Passage for",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon",
-          "answer": "E"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "One description that listed the human emotional",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "candy",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "definition",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "catastrophic brain",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "landscapes or dolphins playing",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 4,
+          "maxSelect": null,
+          "answer": "primitive parts",
+          "trap": null
         },
         {
           "number": 13,
           "type": "multiple-choice",
-          "prompt": "According to Daniel Nettle in the last two paragraphs, what is true as",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-7 on your answer sheet. 1 An experiment involving dividing several groups one of which received positive icon Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN FOUR WORDS from the Reading Passage for each answer. Write your answers in boxes 8-12 on your answer sheet. A few pioneers in experimental psychology study what happens when lives go well. Professor Alice divided doctors, making a tricky experiment, into three groups: besides the one control group, the other two either are asked to read humanistic statements about drugs or received 8 . The latter displayed the most creative thinking and worked more efficiently. Since critics are questioning the significance of the 9 for both levels of happiness and classification for the virtues. Professor Seligman countered in an evolutional theory: survival in a time of adversity forged our brains into the way of thinking for what’s wrong because we have a 10 . There is bountiful of evidence to show that negative thinking is deeply built in the human psyche. Later, at Iowa University, neuroscientists studied the active parts in brains to contrast when people are shown pleasant and unpleasant pictures. When positive images like 11 are shown, part of the frontal lobe of the brain becomes active. But when they are shown unpleasant image, the response comes from 12 Choose the correct letter, A, B, C or D. Write your answers in boxes 13 on your answer sheet.",
-          "answer": "D",
+          "groupId": "p1g3",
+          "prompt": "According to Daniel Nettle in the last two paragraphs, what is true as the scientists can tell us about happiness",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "Brain systems always mix liking and wanting together.",
+            "Negative emotions can be easily rid of if we think positively.",
+            "Happiness is like nicotine we are craving for but get little pleasure.",
+            "The inner mechanism of human brains does not assist us to achieve durable happiness"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Tattoo on Tikopia",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-27, which are based on\nReading Passage 2 below.\nTattoo on Tikopia\nA. There are still debates about the origins of Polynesian culture, but one thing\nwe can ensure is that Polynesia is not a single tribe but a complex one.\nPolynesians which include Marquesans, Samoans, Niueans, Tongans, Cook\nIslanders, Hawaiians, Tahitians, and Maori, are genetically linked to indigenous\npeoples of parts of Southeast Asia. It’s a sub-region of Oceania, comprising of a\nlarge grouping of over 1,000 islands scattered over the central and southern\nPacific Ocean, within a triangle that has New Zealand, Hawaii and Easter Island\nas its corners.\nB. Polynesian history has fascinated the western world since Pacific cultures\nwere first contacted by European explorers in the late 18th century. The small\nisland of Tikopia, for many people – even for many Solomon Islanders – is so far\naway that it seems like a mythical land; a place like Narnia, that magical land\nin C. S. Lewis's classic, ‘The Chronicles of Narnia.’ Maybe because of it –\nTikopia, its people, and their cultures have long fascinated scholars, travelers,\nand casual observers. Like the pioneers' Peter Dillion, Dumont D’Urville and\nJohn Coleridge Patterson who visit and write about the island in the 1800s,\nRaymond Firth is one of those people captured by the alluring attraction of\nTikopia. As a result, he had made a number of trips to the island since the\n1920s and recorded his experiences, observations, and reflections on Tikopia,\nits people, cultures and the changes that have occurred.\nC. While engaged in the study of the kinship and religious life of the people of\nTikopia, Firth made a few observations on their tattooing. Brief though these\nnotes are they may be worth putting on record as an indication of the\nsociological setting of the practice in this primitive Polynesian community. The\n\norigin of the English word tattoo’ actually comes from the Tikopia word ‘tatau’.\nThe word for tattoo marks, in general, is tau, and the operation of tattooing is\nknown as ta tau, ta being the generic term for the act of striking.\nD. The technique of tattooing was similar through Polynesia. Traditional tattoo\nartists create their indelible tattoos using pigment made from the candlenut or\nkukui nut. First, they burn the nut inside a bowl made of half a coconut shell.\nThey then scrape out the soot and use a pestle to mix it with liquid. Bluing is\nsometimes added to counteract the reddish hue of the carbon-based pigment.\nIt also makes the outline of the inscribed designs bolder on the dark skin of\ntattooing subjects.\nE. For the instruments used when tattooing, specialists used a range of chisels\nmade from albatross wing bone which were hafted onto a handle which was\nmade from the heart wood of the bush and struck with a mallet. The tattooer\nbegan by sketching with charcoal a design on the supine subject, whose skin at\nthat location was stretched taut by one or more apprentices. The tattooer then\ndipped the appropriate points – eighter a single one or a whole comb – into the\nink (usually contained in a coconut-shell cup) and tapped it into the subject’s\nskin, holding the blade handle in one hand and tapping it with the other. The\nblood that usually trickled from the punctures was wiped away either by the\ntattooer or his apprentice, the latter having also inevitably painful – a test of\nfortitude that tattooers sought to shorten by working as fas as possible. In fact,\ntattoos nearly always festered and often led to sickness – and in some cases\ndeath.\nF. In ancient Polynesian society, nearly everyone was tattooed. It was an\nintegral part of ancient culture and was much more than a body ornament.\nTattooing indicated ones' genealogy and/or rank in society. It was a sign of\nwealth, of strength and of the ability to endure pain. Those who went without\nthem were seen as persons of lower social status. As such, chiefs and warriors\ngenerally had the most elaborate tattoos. Tattooing was generally begun at\nadolescence, and would often not be completed for a number of years.\nReceiving tattoos constituted an important milestone between childhood and\nadulthood, and was accompanied by many rites and rituals. Apart from\nsignaling status and rank, another reason for the practice in traditional times\nwas to make a person more attractive to the opposite sex.\nG. The male facial tattoo is generally divided into eight sections of the face.\nThe center of the forehead designated a person’s general rank. The area\naround the brows designated his position. The area around the eyes and the\nnose designated his hapu, or sub-tribe rank. The area around the temples\nserved to details his signature. This signature was once memorized by tribal",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "There are still debates about the origins of Polynesian culture, but one thing"
+            "label": null,
+            "text": "Tattoo on Tikopia"
           },
           {
-            "label": "B",
-            "content": "Polynesian history has fascinated the western world since Pacific cultures"
+            "label": null,
+            "text": "A. There are still debates about the origins of Polynesian culture, but one thing\nwe can ensure is that Polynesia is not a single tribe but a complex one.\nPolynesians which include Marquesans, Samoans, Niueans, Tongans, Cook\nIslanders, Hawaiians, Tahitians, and Maori, are genetically linked to indigenous\npeoples of parts of Southeast Asia. It's a sub-region of Oceania, comprising of a\nlarge grouping of over 1,000 islands scattered over the central and southern\nPacific Ocean, within a triangle that has New Zealand, Hawaii and Easter Island\nas its corners."
           },
           {
-            "label": "C",
-            "content": "While engaged in the study of the kinship and religious life of the people of"
+            "label": null,
+            "text": "B. Polynesian history has fascinated the western world since Pacific cultures\nwere first contacted by European explorers in the late 18th century. The small\nisland of Tikopia, for many people - even for many Solomon Islanders - is so far\naway that it seems like a mythical land; a place like Narnia, that magical land\nin C. S. Lewis's classic, 'The Chronicles of Narnia.' Maybe because of it -\nTikopia, its people, and their cultures have long fascinated scholars, travelers,\nand casual observers. Like the pioneers' Peter Dillion, Dumont D'Urville and\nJohn Coleridge Patterson who visit and write about the island in the 1800s,\nRaymond Firth is one of those people captured by the alluring attraction of\nTikopia. As a result, he had made a number of trips to the island since the\n1920s and recorded his experiences, observations, and reflections on Tikopia,\nits people, cultures and the changes that have occurred."
           },
           {
-            "label": "D",
-            "content": "The technique of tattooing was similar through Polynesia. Traditional tattoo"
+            "label": null,
+            "text": "C. While engaged in the study of the kinship and religious life of the people of\nTikopia, Firth made a few observations on their tattooing. Brief though these\nnotes are they may be worth putting on record as an indication of the\nsociological setting of the practice in this primitive Polynesian community. The"
           },
           {
-            "label": "E",
-            "content": "For the instruments used when tattooing, specialists used a range of chisels"
+            "label": null,
+            "text": "origin of the English word tattoo' actually comes from the Tikopia word 'tatau'.\nThe word for tattoo marks, in general, is tau, and the operation of tattooing is\nknown as ta tau, ta being the generic term for the act of striking."
           },
           {
-            "label": "F",
-            "content": "In ancient Polynesian society, nearly everyone was tattooed. It was an"
+            "label": null,
+            "text": "D. The technique of tattooing was similar through Polynesia. Traditional tattoo\nartists create their indelible tattoos using pigment made from the candlenut or\nkukui nut. First, they burn the nut inside a bowl made of half a coconut shell.\nThey then scrape out the soot and use a pestle to mix it with liquid. Bluing is\nsometimes added to counteract the reddish hue of the carbon-based pigment.\nIt also makes the outline of the inscribed designs bolder on the dark skin of\ntattooing subjects."
           },
           {
-            "label": "G",
-            "content": "The male facial tattoo is generally divided into eight sections of the face."
+            "label": null,
+            "text": "E. For the instruments used when tattooing, specialists used a range of chisels\nmade from albatross wing bone which were hafted onto a handle which was\nmade from the heart wood of the bush and struck with a mallet. The tattooer\nbegan by sketching with charcoal a design on the supine subject, whose skin at\nthat location was stretched taut by one or more apprentices. The tattooer then\ndipped the appropriate points - eighter a single one or a whole comb - into the\nink (usually contained in a coconut-shell cup) and tapped it into the subject's\nskin, holding the blade handle in one hand and tapping it with the other. The\nblood that usually trickled from the punctures was wiped away either by the\ntattooer or his apprentice, the latter having also inevitably painful - a test of\nfortitude that tattooers sought to shorten by working as fas as possible. In fact,\ntattoos nearly always festered and often led to sickness - and in some cases\ndeath."
+          },
+          {
+            "label": null,
+            "text": "F. In ancient Polynesian society, nearly everyone was tattooed. It was an\nintegral part of ancient culture and was much more than a body ornament.\nTattooing indicated ones' genealogy and/or rank in society. It was a sign of\nwealth, of strength and of the ability to endure pain. Those who went without\nthem were seen as persons of lower social status. As such, chiefs and warriors\ngenerally had the most elaborate tattoos. Tattooing was generally begun at\nadolescence, and would often not be completed for a number of years.\nReceiving tattoos constituted an important milestone between childhood and\nadulthood, and was accompanied by many rites and rituals. Apart from\nsignaling status and rank, another reason for the practice in traditional times\nwas to make a person more attractive to the opposite sex."
+          },
+          {
+            "label": null,
+            "text": "G. The male facial tattoo is generally divided into eight sections of the face.\nThe center of the forehead designated a person's general rank. The area\naround the brows designated his position. The area around the eyes and the\nnose designated his hapu, or sub-tribe rank. The area around the temples\nserved to details his signature. This signature was once memorized by tribal"
+          },
+          {
+            "label": null,
+            "text": "chief's who used it when buying property, signing deeds, and officiating orders.\nThe cheek area designated the nature of the person's work. The chin area\nshowed the person's mana. Lastly, the jaw area designated a person's birth\nstatus."
+          },
+          {
+            "label": null,
+            "text": "H. A person's ancestry is indicated on each side of the face. The left side is\ngenerally the father's side, and the right side was the mother's. the manutahi\ndesign is worked on the men's back. It consists of two vertical lines drawn\ndown the spine, with short vertical lines between them. When a man had the\nmanutahi on this back, he took pride in himself. At gatherings of the people he\ncould stand forth in their midst and display his tattoo designs with songs. And\nrows of triangles design on the men's chest indicate his bravery."
+          },
+          {
+            "label": null,
+            "text": "I. Tattoo was a way of delivering information about its owner. It's also a\ntraditional method to fetch spiritual power, protection and strength. The\nPolynesians use this as a sign of character, position and levels in a hierarchy.\nPolynesian people believe that a person's mana, their spiritual power or life\nforce, is displayed through their tattoo."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "chief's who used it when buying property, signing deeds, and officiating orders.",
-      "questionRange": [
-        14,
-        17
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "chief's who used it when buying property, signing deeds, and officiating orders.\nThe cheek area designated the nature of the person’s work. The chin area\nshowed the person’s mana. Lastly, the jaw area designated a person’s birth\nstatus.\nH. A person’s ancestry is indicated on each side of the face. The left side is\ngenerally the father’s side, and the right side was the mother’s. the manutahi\ndesign is worked on the men’s back. It consists of two vertical lines drawn\ndown the spine, with short vertical lines between them. When a man had the\nmanutahi on this back, he took pride in himself. At gatherings of the people he\ncould stand forth in their midst and display his tattoo designs with songs. And\nrows of triangles design on the men’s chest indicate his bravery.\nI. Tattoo was a way of delivering information about its owner. It’s also a\ntraditional method to fetch spiritual power, protection and strength. The\nPolynesians use this as a sign of character, position and levels in a hierarchy.\nPolynesian people believe that a person’s mana, their spiritual power or life\nforce, is displayed through their tattoo.\nQuestions 14-17\nQuestions 18-22\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 14-17 on your answer sheet, write\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n14\n Scientists like to do research in Tikopia because this\ntiny place is of great remoteness.\n15\n Firth was the first scholar to study on Tikopia.\n16\n Firth studied the culture differences on Tikopia as well\nas on some other islands of Pacific.\n17\n The English word ‘tattoo’ is evolved from the local\nlanguage of the island.",
-        "tables": [],
+        ],
+        "text": "Tattoo on Tikopia\n\nA. There are still debates about the origins of Polynesian culture, but one thing\nwe can ensure is that Polynesia is not a single tribe but a complex one.\nPolynesians which include Marquesans, Samoans, Niueans, Tongans, Cook\nIslanders, Hawaiians, Tahitians, and Maori, are genetically linked to indigenous\npeoples of parts of Southeast Asia. It's a sub-region of Oceania, comprising of a\nlarge grouping of over 1,000 islands scattered over the central and southern\nPacific Ocean, within a triangle that has New Zealand, Hawaii and Easter Island\nas its corners.\n\nB. Polynesian history has fascinated the western world since Pacific cultures\nwere first contacted by European explorers in the late 18th century. The small\nisland of Tikopia, for many people - even for many Solomon Islanders - is so far\naway that it seems like a mythical land; a place like Narnia, that magical land\nin C. S. Lewis's classic, 'The Chronicles of Narnia.' Maybe because of it -\nTikopia, its people, and their cultures have long fascinated scholars, travelers,\nand casual observers. Like the pioneers' Peter Dillion, Dumont D'Urville and\nJohn Coleridge Patterson who visit and write about the island in the 1800s,\nRaymond Firth is one of those people captured by the alluring attraction of\nTikopia. As a result, he had made a number of trips to the island since the\n1920s and recorded his experiences, observations, and reflections on Tikopia,\nits people, cultures and the changes that have occurred.\n\nC. While engaged in the study of the kinship and religious life of the people of\nTikopia, Firth made a few observations on their tattooing. Brief though these\nnotes are they may be worth putting on record as an indication of the\nsociological setting of the practice in this primitive Polynesian community. The\n\norigin of the English word tattoo' actually comes from the Tikopia word 'tatau'.\nThe word for tattoo marks, in general, is tau, and the operation of tattooing is\nknown as ta tau, ta being the generic term for the act of striking.\n\nD. The technique of tattooing was similar through Polynesia. Traditional tattoo\nartists create their indelible tattoos using pigment made from the candlenut or\nkukui nut. First, they burn the nut inside a bowl made of half a coconut shell.\nThey then scrape out the soot and use a pestle to mix it with liquid. Bluing is\nsometimes added to counteract the reddish hue of the carbon-based pigment.\nIt also makes the outline of the inscribed designs bolder on the dark skin of\ntattooing subjects.\n\nE. For the instruments used when tattooing, specialists used a range of chisels\nmade from albatross wing bone which were hafted onto a handle which was\nmade from the heart wood of the bush and struck with a mallet. The tattooer\nbegan by sketching with charcoal a design on the supine subject, whose skin at\nthat location was stretched taut by one or more apprentices. The tattooer then\ndipped the appropriate points - eighter a single one or a whole comb - into the\nink (usually contained in a coconut-shell cup) and tapped it into the subject's\nskin, holding the blade handle in one hand and tapping it with the other. The\nblood that usually trickled from the punctures was wiped away either by the\ntattooer or his apprentice, the latter having also inevitably painful - a test of\nfortitude that tattooers sought to shorten by working as fas as possible. In fact,\ntattoos nearly always festered and often led to sickness - and in some cases\ndeath.\n\nF. In ancient Polynesian society, nearly everyone was tattooed. It was an\nintegral part of ancient culture and was much more than a body ornament.\nTattooing indicated ones' genealogy and/or rank in society. It was a sign of\nwealth, of strength and of the ability to endure pain. Those who went without\nthem were seen as persons of lower social status. As such, chiefs and warriors\ngenerally had the most elaborate tattoos. Tattooing was generally begun at\nadolescence, and would often not be completed for a number of years.\nReceiving tattoos constituted an important milestone between childhood and\nadulthood, and was accompanied by many rites and rituals. Apart from\nsignaling status and rank, another reason for the practice in traditional times\nwas to make a person more attractive to the opposite sex.\n\nG. The male facial tattoo is generally divided into eight sections of the face.\nThe center of the forehead designated a person's general rank. The area\naround the brows designated his position. The area around the eyes and the\nnose designated his hapu, or sub-tribe rank. The area around the temples\nserved to details his signature. This signature was once memorized by tribal\n\nchief's who used it when buying property, signing deeds, and officiating orders.\nThe cheek area designated the nature of the person's work. The chin area\nshowed the person's mana. Lastly, the jaw area designated a person's birth\nstatus.\n\nH. A person's ancestry is indicated on each side of the face. The left side is\ngenerally the father's side, and the right side was the mother's. the manutahi\ndesign is worked on the men's back. It consists of two vertical lines drawn\ndown the spine, with short vertical lines between them. When a man had the\nmanutahi on this back, he took pride in himself. At gatherings of the people he\ncould stand forth in their midst and display his tattoo designs with songs. And\nrows of triangles design on the men's chest indicate his bravery.\n\nI. Tattoo was a way of delivering information about its owner. It's also a\ntraditional method to fetch spiritual power, protection and strength. The\nPolynesians use this as a sign of character, position and levels in a hierarchy.\nPolynesian people believe that a person's mana, their spiritual power or life\nforce, is displayed through their tattoo.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Questions 23-27",
-      "questionRange": [
-        23,
-        27
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 14-17 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "diagram-label",
+          "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from Reading Passage 2 for each answer. Write your answers in boxes 18-22 on your answer sheet.",
+          "body": null,
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-mock-test-2023-may_reading-practice-test-4-v9-18874800/p2g2-1.png",
+              "w": 982,
+              "h": 58
+            },
+            {
+              "src": "assets/crops/ielts-mock-test-2023-may_reading-practice-test-4-v9-18874800/p2g2-2.png",
+              "w": 982,
+              "h": 932
+            }
+          ],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers on boxes 23-24 in your answer sheet. Location on the body: Significance",
+          "body": "[[23]] of male face: general rank [[24]] of male face: prestige Female's right side of the face: [[25]] Location on the body: Geometric patterns Male back: [[26]] Male chest: [[27]]",
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 23-27\nLabel the diagram below.\nChoose NO MORE THAN TWO WORDS from Reading Passage 2 for each\nanswer.\nWrite your answers on boxes 18-22 in your answer sheet.\n18\n19\n20\n21\n22\nComplete the notes below.\nChoose NO MORE THAN TWO WORDS from the passage for each\nanswer.\nWrite your answers on boxes 23-24 in your answer sheet.\nLocation on the body: Significance\n23\n of male face: general rank\n24\n of male face: prestige\n\nFemale’s right side of the face: 25\nLocation on the body: Geometric patterns\nMale back: 26\nMale chest: 27",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 14,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Scientists like to do research in Tikopia because this\ntiny place is of great remoteness.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Firth was the first scholar to study on Tikopia.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "Firth studied the culture differences on Tikopia as well\nas on some other islands of Pacific.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "yes-no-not-given",
+          "groupId": "p2g1",
+          "prompt": "The English word 'tattoo' is evolved from the local\nlanguage of the island.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Top picture (fire burning in a bowl), label 18: the arrow from the bowl",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "cocounut shell",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Top picture (fire burning in a bowl), label 19",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "soot",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Top picture (fire burning in a bowl), label 20",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "liquid",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Bottom picture (tools), label 21: the arrow from the long handle",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "heart wood",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Bottom picture (tools), label 22: the arrow pointing to the head of the tool",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "wing bone",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "of male face: general rank",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "the forehead",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "of male face: prestige",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "chin area",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "mother's ancestry",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "vertical lines",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "triangles",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "Questions 32-35",
-      "questionRange": [
-        32,
-        35
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 32-35\nQuestions 36-40\n30\n Expensive proposals raised to solve the nitrogen\ndilemma\n31\n A statistic of ecological changes in both the coral area\nand species\nUse the information in the passage to match the people (listed A-C) with\nopinions or deeds below.\nWrite the appropriate letters A-C in boxes 32-35 on your answer sheet.\nA\nBill Kruczynski\nB\nBrian Lapointe\nC\nJoseph Zieman\n32\n Drainage system in everglades actually results in high\nsalty water in the bay.\n33\n Restoring water high in nitrogen level will make more\necological side effect\n34\n High nitrogen levels may be caused by the nearby\nfarmland.\n35\n Released sewage rather than nutrients from agricultural\narea increase the level of Nitrogen.\nDo the following statements agree with the information given in Reading\nPassage 2\nIn boxes 36-40 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n\n36\n Everyone agrees with “pouring water into the sea is\nharmless enough” even in the Florida Bay area.\n37\n Nitrogen was poured in from different types of crops\nas water flows through.\n38\n Everglade restoration project can be effective\nregardless of the cause of the pollution.\n39\n Human has changed Florida Bay where old image\nbefore 1950s is unrecalled.\n40\n Tourism contributes fundamentally to the Florida Bay\narea.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Pollution! In the Bay"
+          },
           {
             "label": "A",
-            "content": "Bill Kruczynski"
+            "text": "Pouring water into the sea sounds harmless enough. But in Florida Bay, a large\nand shallow section of the Gulf of Mexico that lies between the southern end of\nthe Everglades and the Florida Keys, it is proving highly controversial. That is\nbecause researchers are divided over whether it will help or hinder the plants\nand animals that live in the bay."
           },
           {
             "label": "B",
-            "content": "Brian Lapointe"
+            "text": "What is at risk is the future of the bay's extensive beds of seagrasses. These\ngrow on the bay's muddy floor and act as nurseries for the larvae of shrimps,\nlobsters and fish - many of the important sport and commercial-fishing species.\nAlso in danger is an impressive range of coral reefs that run the length of the\nFlorida Keys and form the third-largest barrier reef in the world. Since the\n1980s, coral cover has dropped by 40%, and a third of the coral species have\ngone. This has had a damaging effect on the animals that depend on the reef,\nsuch as crabs, turtles and nearly 600 species of fish."
           },
           {
             "label": "C",
-            "content": "Joseph Zieman"
+            "text": "What is causing such ecological change is a matter of much debate. And the\nanswer is of no small consequence. This is because the American government\nis planning to devote $8 billion over the next 30 years to revitalise the\nEverglades. Seasonal freshwater flows into the Everglades are to be restored in\norder to improve the region's health. But they will then run off into the bay."
+          },
+          {
+            "label": "D",
+            "text": "Joseph Zieman, a marine ecologist at the University of Virginia, thinks this is a\ngood idea. He believes that a lack of fresh water in the bay is its main problem.\nThe blame, he says, lies with a century of drainage in the Everglades aimed at\nturning the marshes into farmland and areas for development. This has caused\nthe flow of fresh water into Florida Bay to dwindle, making the water in the bay,\noverall, more saline. This, he argues, kills the seagrasses, and as these rots,\nnutrients are released that feed the microscopic plants and animals that live in\nthe water. This, he says, is why the bay's once crystal-clear waters often\nresemble pea soup. And in a vicious circle, these turbid blooms block out\nsunlight, causing more seagrasses to die and yet more turbidity."
+          },
+          {
+            "label": "E",
+            "text": "Brian Lapointe, a marine scientist at the Harbour Branch Oceanographic\nInstitution at Fort Pierce in Florida, disagrees. He thinks seagrasses can\ntolerate much higher levels of salinity than the bay actually displays.\nFurthermore, he notes that when freshwater flows through the Everglades were\nincreased experimentally in the 1990s, it led to massive plankton blooms.\nFreshwater running off from well-fertilised farmlands, he says, caused a\nfivefold rise in nitrogen levels in the bay. This was like pouring fuel on a fire.\nThe result was mass mortality of seagrasses because of increased turbidity\nfrom the plankton. Dr Lapointe adds that, because corals thrive only in waters\nwhere nutrient levels are low, restoring freshwater rich in nitrogen will do more\ndamage to the reef."
+          },
+          {
+            "label": "F",
+            "text": "It is a plausible theory. The water flowing off crops that are grown on\nthe750,000 acres of heavily fertilised farmland on the northern edge of the\nEverglades is rich in nitrogen, half of which ends up in the bay. But Bill\nKruczynski, of America's Environmental Protection Agency, is convinced that\nnitrogen from farmlands is not the chief problem. Some coral reefs well away\nfrom any nitrogen pollution are dying and, curiously, a few are thriving. Dr\nKruczynski thinks that increased nutrients arriving from local sewage\ndischarges from the thousands of cesspits along the Florida Keys are part of the\nproblem."
+          },
+          {
+            "label": "G",
+            "text": "Such claims and counterclaims make the impact of the restoration plan difficult\nto predict. If increased salinity is the main problem, the bay's ecology will\nbenefit from the Everglades restoration project. If, however, nitrogen is the\nproblem, increasing the flow of freshwater could mate matters much worse."
+          },
+          {
+            "label": "H",
+            "text": "If this second hypothesis proves correct, the cure is to remove nitrogen from\nfarmland or sewage discharges, or perhaps both. Neither will be easy. Man-\nmade wetlands, at present, being built to reduce phosphate runoff into the bay\n-also from fertilisers-would need an algal culture (a sort of contained algal\nbloom) added to them to deal with discharges from farmlands. That would be\ncostly. So too would be the replacement of cesspits with proper sewerage-one\nestimate puts the cost at $650m. Either way, it is clear that when, on\nDecember 1st, 3,000 square miles of sea around the reef are designated as a\n\"protective zone\" by the deputy secretary of commerce, Sam Bodman, this will\ndo nothing to protect the reef from pollution."
+          },
+          {
+            "label": "I",
+            "text": "Some argue, though, that there is a more fundamental flaw in the plans for the\nbay: the very idea of returning it to a Utopian ideal before man wrought his\ndamage. Nobody knows what Florida Bay was like before the 1950s when\nengineers cut the largest canals in the Everglades and took most of the water\naway. Dr Kruczynski suspects it was more like an estuary. The bay that many\npeople wish to re-create could have been nothing more than a changing phase\nin the bay's history."
+          },
+          {
+            "label": "J",
+            "text": "These arguments do not merely threaten to create ecological problems but\neconomic ones as well. The economy of the Florida Keys depends on tourism-\nthe local tourist industry has an annual turnover of $2.5 billion. People come\nfor fishing-boat trips, for manatee watching, or for scuba diving and snorkeling\nto view the exotically coloured corals. If the plan to restore the Everglades\nmakes problems in the bay and the reef worse, it could prove a very expensive\nmistake."
           }
-        ]
+        ],
+        "text": "Pollution! In the Bay\n\nPouring water into the sea sounds harmless enough. But in Florida Bay, a large\nand shallow section of the Gulf of Mexico that lies between the southern end of\nthe Everglades and the Florida Keys, it is proving highly controversial. That is\nbecause researchers are divided over whether it will help or hinder the plants\nand animals that live in the bay.\n\nWhat is at risk is the future of the bay's extensive beds of seagrasses. These\ngrow on the bay's muddy floor and act as nurseries for the larvae of shrimps,\nlobsters and fish - many of the important sport and commercial-fishing species.\nAlso in danger is an impressive range of coral reefs that run the length of the\nFlorida Keys and form the third-largest barrier reef in the world. Since the\n1980s, coral cover has dropped by 40%, and a third of the coral species have\ngone. This has had a damaging effect on the animals that depend on the reef,\nsuch as crabs, turtles and nearly 600 species of fish.\n\nWhat is causing such ecological change is a matter of much debate. And the\nanswer is of no small consequence. This is because the American government\nis planning to devote $8 billion over the next 30 years to revitalise the\nEverglades. Seasonal freshwater flows into the Everglades are to be restored in\norder to improve the region's health. But they will then run off into the bay.\n\nJoseph Zieman, a marine ecologist at the University of Virginia, thinks this is a\ngood idea. He believes that a lack of fresh water in the bay is its main problem.\nThe blame, he says, lies with a century of drainage in the Everglades aimed at\nturning the marshes into farmland and areas for development. This has caused\nthe flow of fresh water into Florida Bay to dwindle, making the water in the bay,\noverall, more saline. This, he argues, kills the seagrasses, and as these rots,\nnutrients are released that feed the microscopic plants and animals that live in\nthe water. This, he says, is why the bay's once crystal-clear waters often\nresemble pea soup. And in a vicious circle, these turbid blooms block out\nsunlight, causing more seagrasses to die and yet more turbidity.\n\nBrian Lapointe, a marine scientist at the Harbour Branch Oceanographic\nInstitution at Fort Pierce in Florida, disagrees. He thinks seagrasses can\ntolerate much higher levels of salinity than the bay actually displays.\nFurthermore, he notes that when freshwater flows through the Everglades were\nincreased experimentally in the 1990s, it led to massive plankton blooms.\nFreshwater running off from well-fertilised farmlands, he says, caused a\nfivefold rise in nitrogen levels in the bay. This was like pouring fuel on a fire.\nThe result was mass mortality of seagrasses because of increased turbidity\nfrom the plankton. Dr Lapointe adds that, because corals thrive only in waters\nwhere nutrient levels are low, restoring freshwater rich in nitrogen will do more\ndamage to the reef.\n\nIt is a plausible theory. The water flowing off crops that are grown on\nthe750,000 acres of heavily fertilised farmland on the northern edge of the\nEverglades is rich in nitrogen, half of which ends up in the bay. But Bill\nKruczynski, of America's Environmental Protection Agency, is convinced that\nnitrogen from farmlands is not the chief problem. Some coral reefs well away\nfrom any nitrogen pollution are dying and, curiously, a few are thriving. Dr\nKruczynski thinks that increased nutrients arriving from local sewage\ndischarges from the thousands of cesspits along the Florida Keys are part of the\nproblem.\n\nSuch claims and counterclaims make the impact of the restoration plan difficult\nto predict. If increased salinity is the main problem, the bay's ecology will\nbenefit from the Everglades restoration project. If, however, nitrogen is the\nproblem, increasing the flow of freshwater could mate matters much worse.\n\nIf this second hypothesis proves correct, the cure is to remove nitrogen from\nfarmland or sewage discharges, or perhaps both. Neither will be easy. Man-\nmade wetlands, at present, being built to reduce phosphate runoff into the bay\n-also from fertilisers-would need an algal culture (a sort of contained algal\nbloom) added to them to deal with discharges from farmlands. That would be\ncostly. So too would be the replacement of cesspits with proper sewerage-one\nestimate puts the cost at $650m. Either way, it is clear that when, on\nDecember 1st, 3,000 square miles of sea around the reef are designated as a\n\"protective zone\" by the deputy secretary of commerce, Sam Bodman, this will\ndo nothing to protect the reef from pollution.\n\nSome argue, though, that there is a more fundamental flaw in the plans for the\nbay: the very idea of returning it to a Utopian ideal before man wrought his\ndamage. Nobody knows what Florida Bay was like before the 1950s when\nengineers cut the largest canals in the Everglades and took most of the water\naway. Dr Kruczynski suspects it was more like an estuary. The bay that many\npeople wish to re-create could have been nothing more than a changing phase\nin the bay's history.\n\nThese arguments do not merely threaten to create ecological problems but\neconomic ones as well. The economy of the Florida Keys depends on tourism-\nthe local tourist industry has an annual turnover of $2.5 billion. People come\nfor fishing-boat trips, for manatee watching, or for scuba diving and snorkeling\nto view the exotically coloured corals. If the plan to restore the Everglades\nmakes problems in the bay and the reef worse, it could prove a very expensive\nmistake.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The reading Passage has seven paragraphs A-J. Which paragraph contains the following information? Write the correct letter A-J, in boxes 28-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            31
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I",
+              "J"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 32-35 on your answer sheet.",
+          "body": null,
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "Bill Kruczynski",
+              "Brian Lapointe",
+              "Joseph Zieman"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2 In boxes 36-40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "See grass turned to be more resistant to the saline water\nlevel in the Bay.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Significance of finding a specific reason in controversy",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Expensive proposals raised to solve the nitrogen\ndilemma",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "A statistic of ecological changes in both the coral area\nand species",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Drainage system in everglades actually results in high\nsalty water in the bay.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Restoring water high in nitrogen level will make more\necological side effect",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "High nitrogen levels may be caused by the nearby\nfarmland.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Released sewage rather than nutrients from agricultural\narea increase the level of Nitrogen.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Everyone agrees with \"pouring water into the sea is\nharmless enough\" even in the Florida Bay area.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Nitrogen was poured in from different types of crops\nas water flows through.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Everglade restoration project can be effective\nregardless of the cause of the pollution.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Human has changed Florida Bay where old image\nbefore 1950s is unrecalled.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Tourism contributes fundamentally to the Florida Bay\narea.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
@@ -240,7 +1131,7 @@
     "8": "candy",
     "9": "definition",
     "10": "catastrophic brain",
-    "11": "landscapes or dolphins",
+    "11": "landscapes or dolphins playing",
     "12": "primitive parts",
     "13": "D",
     "14": "YES",

@@ -1,243 +1,1105 @@
 {
   "id": "ielts-practice-tests-plus-volume-3_reading-practice-test-3-v9-2107",
   "type": "academic",
-  "source": "ielts-practice-tests-plus-volume-3 reading-practice-test-3-v9-2107",
+  "title": "IELTS Practice Tests Plus Volume 3 - Reading Test 3",
+  "collection": "IELTS Practice Tests Plus Volume 3",
+  "testNumber": 3,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-tests-plus-volume-3_reading-practice-test-3-v9-2107.pdf",
-  "total_questions": 6,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "The Rufous Hare-Wallaby",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage 1 below.\nThe Rufous Hare-Wallaby\nThe Rufous Hare-Wallaby is a species of Australian kangaroo, usually known by\nits Aboriginal name, ‘mala’. At one time, there may have been as many as ten\nmillion of these little animals across the arid and semi-arid landscape of\nAustralia, but their populations, like those of so many other small endemic\nspecies, were devastated when cats and foxes were introduced - indeed, during\nthe 1950s it was thought that the mala was extinct. But in 1964, a small colony\nwas found 450 miles northwest of Alice Springs in the Tanami Desert. And 12\nyears later, a second small colony was found nearby. Very extensive surveys\nwere made throughout historical mala range - but no other traces were found.\nThroughout the 1970s and 1980s, scientists from the Parks and Wildlife\nCommission of the Northern Territory monitored these two populations. At first\nit seemed that they were holding their own. Then in late 1987, every one of the\nindividuals of the second and smaller of the wild colonies was killed. From\nexamination of the tracks in the sand, it seemed that just one single fox had\nbeen responsible. And then, in October 1991, a wild-fire destroyed the entire\narea occupied by the remaining colony. Thus the mala was finally pronounced\nextinct in the wild.\nFortunately, ten years earlier, seven individuals had been captured, and had\nbecome the founders of a captive breeding programme at the Arid Zone\nResearch Institute in Alice Springs; and that group had thrived. Part of this\nsuccess is due to the fact that the female can breed when she is just five\n\nmonths old and can produce up to three young a year. Like other kangaroo\nspecies, the mother carries her young - known as a joey - in her pouch for\nabout 15 weeks, and she can have more than one joey at the same time.\nIn the early 1980s, there were enough mala in the captive population to make\nit feasible to start a reintroduction programme. But first it was necessary to\ndiscuss this with the leaders of the Yapa people. Traditionally, the mala had\nbeen an important animal in their culture, with strong medicinal powers for old\npeople. It had also been an important food source, and there were concerns\nthat any mala returned to the wild would be killed for the pot. And so, in 1980,\na group of key Yapa men was invited to visit the proposed reintroduction area.\nThe skills and knowledge of the Yapa would play a significant and enduring role\nin this and all other mala projects.\nWith the help of the local Yapa, an electric fence was erected around 250 acres\nof suitable habitat, about 300 miles'northwest of Alice Springs so that the mala\ncould adapt while protected from predators. By 1992, there were about 150\nmala in their enclosure, which became known as the Mala Paddock. However,\nall attempts to reintroduce mala from the paddocks into the unfenced wild\nwere unsuccessful, so in the end the reintroduction programme was\nabandoned. The team now faced a situation where mala could be bred, but not\nreleased into the wild again.\nThus, in 1993, a Mala Recovery Team was established to boost mala numbers,\nand goals for a new programme were set: the team concentrated on finding\nsuitable predator-free or predator-controlled conservation sites within the\nmala’s known range. Finally, in March 1999, twelve adult females, eight adult\nmales, and eight joeys were transferred from the Mala Paddock to Dryandra\nWoodland in Western Australia. Then, a few months later, a second group was\ntransferred to Trimouille, an island off the coast of western Australia. First, it\nhad been necessary to rid the island of rats and cats - a task that had taken\ntwo years of hard work.\nSix weeks after their release into this conservation site, a team returned to the\nisland to find out how things were going. Each of the malas had been fitted with\na radio collar that transmits for about 14 months, after which it falls off. The\nteam was able to locate 29 out of the 30 transmitters - only one came from the\ncollar of a mala that had died of unknown causes. So far the recovery\nprogramme had gone even better than expected.\nToday, there are many signs suggesting that the mala population on the island\nis continuing to do well.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "The Rufous Hare-Wallaby"
+          },
+          {
+            "label": null,
+            "text": "The Rufous Hare-Wallaby is a species of Australian kangaroo, usually known by\nits Aboriginal name, 'mala'. At one time, there may have been as many as ten\nmillion of these little animals across the arid and semi-arid landscape of\nAustralia, but their populations, like those of so many other small endemic\nspecies, were devastated when cats and foxes were introduced - indeed, during\nthe 1950s it was thought that the mala was extinct. But in 1964, a small colony\nwas found 450 miles northwest of Alice Springs in the Tanami Desert. And 12\nyears later, a second small colony was found nearby. Very extensive surveys\nwere made throughout historical mala range - but no other traces were found."
+          },
+          {
+            "label": null,
+            "text": "Throughout the 1970s and 1980s, scientists from the Parks and Wildlife\nCommission of the Northern Territory monitored these two populations. At first\nit seemed that they were holding their own. Then in late 1987, every one of the\nindividuals of the second and smaller of the wild colonies was killed. From\nexamination of the tracks in the sand, it seemed that just one single fox had\nbeen responsible. And then, in October 1991, a wild-fire destroyed the entire\narea occupied by the remaining colony. Thus the mala was finally pronounced\nextinct in the wild."
+          },
+          {
+            "label": null,
+            "text": "Fortunately, ten years earlier, seven individuals had been captured, and had\nbecome the founders of a captive breeding programme at the Arid Zone\nResearch Institute in Alice Springs; and that group had thrived. Part of this\nsuccess is due to the fact that the female can breed when she is just five"
+          },
+          {
+            "label": null,
+            "text": "months old and can produce up to three young a year. Like other kangaroo\nspecies, the mother carries her young - known as a joey - in her pouch for\nabout 15 weeks, and she can have more than one joey at the same time."
+          },
+          {
+            "label": null,
+            "text": "In the early 1980s, there were enough mala in the captive population to make\nit feasible to start a reintroduction programme. But first it was necessary to\ndiscuss this with the leaders of the Yapa people. Traditionally, the mala had\nbeen an important animal in their culture, with strong medicinal powers for old\npeople. It had also been an important food source, and there were concerns\nthat any mala returned to the wild would be killed for the pot. And so, in 1980,\na group of key Yapa men was invited to visit the proposed reintroduction area.\nThe skills and knowledge of the Yapa would play a significant and enduring role\nin this and all other mala projects."
+          },
+          {
+            "label": null,
+            "text": "With the help of the local Yapa, an electric fence was erected around 250 acres\nof suitable habitat, about 300 miles'northwest of Alice Springs so that the mala\ncould adapt while protected from predators. By 1992, there were about 150\nmala in their enclosure, which became known as the Mala Paddock. However,\nall attempts to reintroduce mala from the paddocks into the unfenced wild\nwere unsuccessful, so in the end the reintroduction programme was\nabandoned. The team now faced a situation where mala could be bred, but not\nreleased into the wild again."
+          },
+          {
+            "label": null,
+            "text": "Thus, in 1993, a Mala Recovery Team was established to boost mala numbers,\nand goals for a new programme were set: the team concentrated on finding\nsuitable predator-free or predator-controlled conservation sites within the\nmala's known range. Finally, in March 1999, twelve adult females, eight adult\nmales, and eight joeys were transferred from the Mala Paddock to Dryandra\nWoodland in Western Australia. Then, a few months later, a second group was\ntransferred to Trimouille, an island off the coast of western Australia. First, it\nhad been necessary to rid the island of rats and cats - a task that had taken\ntwo years of hard work."
+          },
+          {
+            "label": null,
+            "text": "Six weeks after their release into this conservation site, a team returned to the\nisland to find out how things were going. Each of the malas had been fitted with\na radio collar that transmits for about 14 months, after which it falls off. The\nteam was able to locate 29 out of the 30 transmitters - only one came from the\ncollar of a mala that had died of unknown causes. So far the recovery\nprogramme had gone even better than expected."
+          },
+          {
+            "label": null,
+            "text": "Today, there are many signs suggesting that the mala population on the island\nis continuing to do well."
+          }
+        ],
+        "text": "The Rufous Hare-Wallaby\n\nThe Rufous Hare-Wallaby is a species of Australian kangaroo, usually known by\nits Aboriginal name, 'mala'. At one time, there may have been as many as ten\nmillion of these little animals across the arid and semi-arid landscape of\nAustralia, but their populations, like those of so many other small endemic\nspecies, were devastated when cats and foxes were introduced - indeed, during\nthe 1950s it was thought that the mala was extinct. But in 1964, a small colony\nwas found 450 miles northwest of Alice Springs in the Tanami Desert. And 12\nyears later, a second small colony was found nearby. Very extensive surveys\nwere made throughout historical mala range - but no other traces were found.\n\nThroughout the 1970s and 1980s, scientists from the Parks and Wildlife\nCommission of the Northern Territory monitored these two populations. At first\nit seemed that they were holding their own. Then in late 1987, every one of the\nindividuals of the second and smaller of the wild colonies was killed. From\nexamination of the tracks in the sand, it seemed that just one single fox had\nbeen responsible. And then, in October 1991, a wild-fire destroyed the entire\narea occupied by the remaining colony. Thus the mala was finally pronounced\nextinct in the wild.\n\nFortunately, ten years earlier, seven individuals had been captured, and had\nbecome the founders of a captive breeding programme at the Arid Zone\nResearch Institute in Alice Springs; and that group had thrived. Part of this\nsuccess is due to the fact that the female can breed when she is just five\n\nmonths old and can produce up to three young a year. Like other kangaroo\nspecies, the mother carries her young - known as a joey - in her pouch for\nabout 15 weeks, and she can have more than one joey at the same time.\n\nIn the early 1980s, there were enough mala in the captive population to make\nit feasible to start a reintroduction programme. But first it was necessary to\ndiscuss this with the leaders of the Yapa people. Traditionally, the mala had\nbeen an important animal in their culture, with strong medicinal powers for old\npeople. It had also been an important food source, and there were concerns\nthat any mala returned to the wild would be killed for the pot. And so, in 1980,\na group of key Yapa men was invited to visit the proposed reintroduction area.\nThe skills and knowledge of the Yapa would play a significant and enduring role\nin this and all other mala projects.\n\nWith the help of the local Yapa, an electric fence was erected around 250 acres\nof suitable habitat, about 300 miles'northwest of Alice Springs so that the mala\ncould adapt while protected from predators. By 1992, there were about 150\nmala in their enclosure, which became known as the Mala Paddock. However,\nall attempts to reintroduce mala from the paddocks into the unfenced wild\nwere unsuccessful, so in the end the reintroduction programme was\nabandoned. The team now faced a situation where mala could be bred, but not\nreleased into the wild again.\n\nThus, in 1993, a Mala Recovery Team was established to boost mala numbers,\nand goals for a new programme were set: the team concentrated on finding\nsuitable predator-free or predator-controlled conservation sites within the\nmala's known range. Finally, in March 1999, twelve adult females, eight adult\nmales, and eight joeys were transferred from the Mala Paddock to Dryandra\nWoodland in Western Australia. Then, a few months later, a second group was\ntransferred to Trimouille, an island off the coast of western Australia. First, it\nhad been necessary to rid the island of rats and cats - a task that had taken\ntwo years of hard work.\n\nSix weeks after their release into this conservation site, a team returned to the\nisland to find out how things were going. Each of the malas had been fitted with\na radio collar that transmits for about 14 months, after which it falls off. The\nteam was able to locate 29 out of the 30 transmitters - only one came from the\ncollar of a mala that had died of unknown causes. So far the recovery\nprogramme had gone even better than expected.\n\nToday, there are many signs suggesting that the mala population on the island\nis continuing to do well.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 10-13",
-      "questionRange": [
-        10,
-        13
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "diagram-label",
+          "instruction": "Complete the flow chart below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1-5.",
+          "body": "The Wild Australian mala. Stage 1: Distant past: total population of up to [[1]] in desert and semi-desert regions. Stage 2: Populations of malas were destroyed by [[2]]. Stage 3: 1964/1976: two surviving colonies were discovered. Stage 4: Scientists [[3]] the colonies. Stage 5: 1987: one of the colonies was completely destroyed. Stage 6: 1991: the other colony was destroyed by [[4]]. Stage 7: The wild mala was declared [[5]].",
+          "range": [
+            1,
+            5
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. At what age can female malas start breeding?",
+          "body": "[[6]] For about how long do young malas stay inside their mother's pouch? [[7]] Apart from being a food source, what value did malas have for the Yapa people? [[8]] What was the Yapa's lasting contribution to the mala reintroduction programme? [[9]]",
+          "range": [
+            6,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            10,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 10-13\nFor about how long do young malas stay inside their mother’s pouch?\n7\nApart from being a food source, what value did malas have for the Yapa\npeople?\n8\nWhat was the Yapa’s lasting contribution to the mala reintroduction\nprogramme?\n9\nDo the following statements agree with the information given in Reading\nPassage 1?\nWrite\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n10\n    Natural defences were sufficient to protect the area\ncalled Mala Paddock.\n11\n     Scientists eventually gave up their efforts to release\ncaptive mala into the unprotected wild.\n12\n     The mala population which was transferred to\nDryandra Woodland quickly increased in size.\n13\n     Scientists were satisfied with the initial results of\nthe recovery programme.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "10/ten million",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cats and foxes/ foxes and cats",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "monitored",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(a wild-)fire",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "diagram-label",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "extinct",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "fill-in-blank",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "5/five months",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "fill-in-blank",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "15/fifteen weeks",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "fill-in-blank",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(strong) medicinal powers",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "fill-in-blank",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "skills and knowledge",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Natural defences were sufficient to protect the area\ncalled Mala Paddock.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Scientists eventually gave up their efforts to release\ncaptive mala into the unprotected wild.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "The mala population which was transferred to\nDryandra Woodland quickly increased in size.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Scientists were satisfied with the initial results of\nthe recovery programme.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Measures to combat infectious disease in",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 on the following pages.\nMeasures to combat infectious disease in\ntsarist Russia\nA In the second half of the seventeenth century, Russian authorities began\nimplementing controls at the borders of their empire to prevent the importation\nof plague, a highly infectious and dangerous disease. Information on disease\noutbreak occurring abroad was regularly reported to the tsar’s court through\nvarious means, including commercial channels (travelling merchants), military\npersonnel deployed abroad, undercover agents, the network of Imperial\nForeign Office embassies and representations abroad, and the customs offices.\nFor instance, the heads of customs offices were instructed to question\nforeigners entering Russia about possible epidemics of dangerous diseases in\ntheir respective countries.\nB If news of an outbreak came from abroad, relations with the affected country\nwere suspended. For instance, foreign vessels were not allowed to dock in\nRussian ports if there was credible information about the existence of\nepidemics in countries from whence they had departed. In addition, all\nforeigners entering Russia from those countries had to undergo quarantine. In\n1665, after receiving news about a plague epidemic in England, Tsar Alexei\nwrote a letter to King Charles II in which he announced the cessation of Russian\ntrade relations with England and other foreign states. These protective\nmeasures appeared to have been effective, as the country did not record any\ncases of plague during that year and in the next three decades. It was not until\n1692 that another plague outbreak was recorded in the Russian province of\n\nAstrakhan. This epidemic continued for five months and killed 10,383 people,\nor about 65 percent of the city’s population. By the end of the seventeenth\ncentury, preventative measures had been widely introduced in Russia,\nincluding the isolation of persons ill with plague, the imposition of quarantines,\nand the distribution of explanatory public health notices about plague\noutbreaks.\nC During the eighteenth century, although none of the occurrences was of the\nsame scale as in the past, plague appeared in Russia several times. For\ninstance, from 1703 to 1705, a plague outbreak that had ravaged Istanbul\nspread to the Podolsk and Kiev provinces in Russia, and then to Poland and\nHungary. After defeating the Swedes in the battle of Poltava in 1709, Tsar Peter\nI (Peter the Great) dispatched part of his army to Poland, where plague had\nbeen raging for two years. Despite preventive measures, the disease spread\namong the Russian troops. In 1710, the plague reached Riga (then part of\nSweden, now the capital of Latvia), where it was active until 1711 and claimed\n60,000 lives. During this period, the Russians besieged Riga and, after the\nSwedes had surrendered the city in 1710, the Russian army lost 9.800 soldiers\nto the plague. Russian military chronicles of the time note that more soldiers\ndied of the disease after the capture of Riga than from enemy fire during the\nsiege of that city.\nD Tsar Peter I imposed strict measures to prevent the spread of plague during\nthese conflicts. Soldiers suspected of being infected were isolated and taken to\nareas far from military camps. In addition, camps were designed to separate\ndivisions, detachments, and smaller units of soldiers. When plague reached\nNarva (located in present-day Estonia) and threatened to spread to St.\nPetersburg, the newly built capital of Russia, Tsar Peter I ordered the army to\ncordon off the entire boundary along the Luga River, including temporarily\nhalting all activity on the river.\nIn order to prevent the movement of people and goods from Narva to St\nPetersburg and Novgorod, roadblocks and checkpoints were set up on all\nroads. The tsar’s orders were rigorously enforced, and those who disobeyed\nwere hung.\nE However, although the Russian authorities applied such methods to contain\nthe spread of the disease and limit the number of victims, all of the measures\nhad a provisional character: they were intended to respond to a specific\noutbreak, and were not designed as a coherent set of measures to be\nimplemented systematically at the first sign of plague. The advent of such a\nstandard response system came a few years later.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "In the second half of the seventeenth century, Russian authorities began"
+            "label": null,
+            "text": "Measures to combat infectious disease in\ntsarist Russia"
           },
           {
-            "label": "B",
-            "content": "If news of an outbreak came from abroad, relations with the affected country"
+            "label": null,
+            "text": "A In the second half of the seventeenth century, Russian authorities began\nimplementing controls at the borders of their empire to prevent the importation\nof plague, a highly infectious and dangerous disease. Information on disease\noutbreak occurring abroad was regularly reported to the tsar's court through\nvarious means, including commercial channels (travelling merchants), military\npersonnel deployed abroad, undercover agents, the network of Imperial\nForeign Office embassies and representations abroad, and the customs offices.\nFor instance, the heads of customs offices were instructed to question\nforeigners entering Russia about possible epidemics of dangerous diseases in\ntheir respective countries."
           },
           {
-            "label": "C",
-            "content": "During the eighteenth century, although none of the occurrences was of the"
+            "label": null,
+            "text": "B If news of an outbreak came from abroad, relations with the affected country\nwere suspended. For instance, foreign vessels were not allowed to dock in\nRussian ports if there was credible information about the existence of\nepidemics in countries from whence they had departed. In addition, all\nforeigners entering Russia from those countries had to undergo quarantine. In\n1665, after receiving news about a plague epidemic in England, Tsar Alexei\nwrote a letter to King Charles II in which he announced the cessation of Russian\ntrade relations with England and other foreign states. These protective\nmeasures appeared to have been effective, as the country did not record any\ncases of plague during that year and in the next three decades. It was not until\n1692 that another plague outbreak was recorded in the Russian province of"
           },
           {
-            "label": "D",
-            "content": "Tsar Peter I imposed strict measures to prevent the spread of plague during"
+            "label": null,
+            "text": "Astrakhan. This epidemic continued for five months and killed 10,383 people,\nor about 65 percent of the city's population. By the end of the seventeenth\ncentury, preventative measures had been widely introduced in Russia,\nincluding the isolation of persons ill with plague, the imposition of quarantines,\nand the distribution of explanatory public health notices about plague\noutbreaks."
           },
           {
-            "label": "E",
-            "content": "However, although the Russian authorities applied such methods to contain"
+            "label": null,
+            "text": "C During the eighteenth century, although none of the occurrences was of the\nsame scale as in the past, plague appeared in Russia several times. For\ninstance, from 1703 to 1705, a plague outbreak that had ravaged Istanbul\nspread to the Podolsk and Kiev provinces in Russia, and then to Poland and\nHungary. After defeating the Swedes in the battle of Poltava in 1709, Tsar Peter\nI (Peter the Great) dispatched part of his army to Poland, where plague had\nbeen raging for two years. Despite preventive measures, the disease spread\namong the Russian troops. In 1710, the plague reached Riga (then part of\nSweden, now the capital of Latvia), where it was active until 1711 and claimed\n60,000 lives. During this period, the Russians besieged Riga and, after the\nSwedes had surrendered the city in 1710, the Russian army lost 9.800 soldiers\nto the plague. Russian military chronicles of the time note that more soldiers\ndied of the disease after the capture of Riga than from enemy fire during the\nsiege of that city."
+          },
+          {
+            "label": null,
+            "text": "D Tsar Peter I imposed strict measures to prevent the spread of plague during\nthese conflicts. Soldiers suspected of being infected were isolated and taken to\nareas far from military camps. In addition, camps were designed to separate\ndivisions, detachments, and smaller units of soldiers. When plague reached\nNarva (located in present-day Estonia) and threatened to spread to St.\nPetersburg, the newly built capital of Russia, Tsar Peter I ordered the army to\ncordon off the entire boundary along the Luga River, including temporarily\nhalting all activity on the river."
+          },
+          {
+            "label": null,
+            "text": "In order to prevent the movement of people and goods from Narva to St\nPetersburg and Novgorod, roadblocks and checkpoints were set up on all\nroads. The tsar's orders were rigorously enforced, and those who disobeyed\nwere hung."
+          },
+          {
+            "label": null,
+            "text": "E However, although the Russian authorities applied such methods to contain\nthe spread of the disease and limit the number of victims, all of the measures\nhad a provisional character: they were intended to respond to a specific\noutbreak, and were not designed as a coherent set of measures to be\nimplemented systematically at the first sign of plague. The advent of such a\nstandard response system came a few years later."
+          },
+          {
+            "label": null,
+            "text": "F The first attempts to organise procedures and carry out proactive steps to\ncontrol plague date to the aftermath of the 1727- 1728 epidemic in Astrakhan.\nIn response to this, the Russian imperial authorities issued several decrees\naimed at controlling the future spread of plague. Among these decrees, the\n'Instructions for Governors and Heads of Townships' required that all governors\nimmediately inform the Senate - a government body created by Tsar Peter I in\n1711 to advise the monarch - if plague cases were detected in their respective\nprovinces."
+          },
+          {
+            "label": null,
+            "text": "Furthermore, the decree required that governors ensure the physical\nexamination of all persons suspected of carrying the disease and their\nsubsequent isolation. In addition, it was ordered that sites where plague\nvictims were found had to be encircled by checkpoints and isolated for the\nduration of the outbreak. These checkpoints were to remain operational for at\nleast six weeks."
+          },
+          {
+            "label": null,
+            "text": "The houses of infected persons were to be burned along with all of the personal\nproperty they contained, including farm animals and cattle. The governors\nwere instructed to inform the neighbouring provinces and cities about every\nplague case occurring on their territories. Finally, letters brought by couriers\nwere heated above a fire before being copied."
+          },
+          {
+            "label": null,
+            "text": "G The implementation by the authorities of these combined measures\ndemonstrates their intuitive understanding of the importance of the timely\nisolation of infected people to limit the spread of plague."
           }
-        ]
+        ],
+        "text": "Measures to combat infectious disease in\ntsarist Russia\n\nA In the second half of the seventeenth century, Russian authorities began\nimplementing controls at the borders of their empire to prevent the importation\nof plague, a highly infectious and dangerous disease. Information on disease\noutbreak occurring abroad was regularly reported to the tsar's court through\nvarious means, including commercial channels (travelling merchants), military\npersonnel deployed abroad, undercover agents, the network of Imperial\nForeign Office embassies and representations abroad, and the customs offices.\nFor instance, the heads of customs offices were instructed to question\nforeigners entering Russia about possible epidemics of dangerous diseases in\ntheir respective countries.\n\nB If news of an outbreak came from abroad, relations with the affected country\nwere suspended. For instance, foreign vessels were not allowed to dock in\nRussian ports if there was credible information about the existence of\nepidemics in countries from whence they had departed. In addition, all\nforeigners entering Russia from those countries had to undergo quarantine. In\n1665, after receiving news about a plague epidemic in England, Tsar Alexei\nwrote a letter to King Charles II in which he announced the cessation of Russian\ntrade relations with England and other foreign states. These protective\nmeasures appeared to have been effective, as the country did not record any\ncases of plague during that year and in the next three decades. It was not until\n1692 that another plague outbreak was recorded in the Russian province of\n\nAstrakhan. This epidemic continued for five months and killed 10,383 people,\nor about 65 percent of the city's population. By the end of the seventeenth\ncentury, preventative measures had been widely introduced in Russia,\nincluding the isolation of persons ill with plague, the imposition of quarantines,\nand the distribution of explanatory public health notices about plague\noutbreaks.\n\nC During the eighteenth century, although none of the occurrences was of the\nsame scale as in the past, plague appeared in Russia several times. For\ninstance, from 1703 to 1705, a plague outbreak that had ravaged Istanbul\nspread to the Podolsk and Kiev provinces in Russia, and then to Poland and\nHungary. After defeating the Swedes in the battle of Poltava in 1709, Tsar Peter\nI (Peter the Great) dispatched part of his army to Poland, where plague had\nbeen raging for two years. Despite preventive measures, the disease spread\namong the Russian troops. In 1710, the plague reached Riga (then part of\nSweden, now the capital of Latvia), where it was active until 1711 and claimed\n60,000 lives. During this period, the Russians besieged Riga and, after the\nSwedes had surrendered the city in 1710, the Russian army lost 9.800 soldiers\nto the plague. Russian military chronicles of the time note that more soldiers\ndied of the disease after the capture of Riga than from enemy fire during the\nsiege of that city.\n\nD Tsar Peter I imposed strict measures to prevent the spread of plague during\nthese conflicts. Soldiers suspected of being infected were isolated and taken to\nareas far from military camps. In addition, camps were designed to separate\ndivisions, detachments, and smaller units of soldiers. When plague reached\nNarva (located in present-day Estonia) and threatened to spread to St.\nPetersburg, the newly built capital of Russia, Tsar Peter I ordered the army to\ncordon off the entire boundary along the Luga River, including temporarily\nhalting all activity on the river.\n\nIn order to prevent the movement of people and goods from Narva to St\nPetersburg and Novgorod, roadblocks and checkpoints were set up on all\nroads. The tsar's orders were rigorously enforced, and those who disobeyed\nwere hung.\n\nE However, although the Russian authorities applied such methods to contain\nthe spread of the disease and limit the number of victims, all of the measures\nhad a provisional character: they were intended to respond to a specific\noutbreak, and were not designed as a coherent set of measures to be\nimplemented systematically at the first sign of plague. The advent of such a\nstandard response system came a few years later.\n\nF The first attempts to organise procedures and carry out proactive steps to\ncontrol plague date to the aftermath of the 1727- 1728 epidemic in Astrakhan.\nIn response to this, the Russian imperial authorities issued several decrees\naimed at controlling the future spread of plague. Among these decrees, the\n'Instructions for Governors and Heads of Townships' required that all governors\nimmediately inform the Senate - a government body created by Tsar Peter I in\n1711 to advise the monarch - if plague cases were detected in their respective\nprovinces.\n\nFurthermore, the decree required that governors ensure the physical\nexamination of all persons suspected of carrying the disease and their\nsubsequent isolation. In addition, it was ordered that sites where plague\nvictims were found had to be encircled by checkpoints and isolated for the\nduration of the outbreak. These checkpoints were to remain operational for at\nleast six weeks.\n\nThe houses of infected persons were to be burned along with all of the personal\nproperty they contained, including farm animals and cattle. The governors\nwere instructed to inform the neighbouring provinces and cities about every\nplague case occurring on their territories. Finally, letters brought by couriers\nwere heated above a fire before being copied.\n\nG The implementation by the authorities of these combined measures\ndemonstrates their intuitive understanding of the importance of the timely\nisolation of infected people to limit the spread of plague.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 2,
-      "title": "F The first attempts to organise procedures and carry out proactive steps to",
-      "questionRange": [
-        14,
-        19
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 2 has SEVEN sections, A-G.",
+          "body": null,
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "v"
+            ],
+            "labels": [
+              "Outbreaks of plague as a result of military campaigns.",
+              "Systematic intelligence-gathering about external cases of plague.",
+              "Partly successful bans against foreign states affected by plague."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters, A--E. Write the correct letters. Which TWO measures did Russia take in the seventeenth century to avoid plague outbreaks?",
+          "body": null,
+          "range": [
+            20,
+            21
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Cooperation with foreign leaders.",
+              "Spying.",
+              "Military campaigns.",
+              "Restrictions on access to its ports.",
+              "Expulsion of foreigners."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters, A-E. Write the correct letters. Which TWO statements are made about Russia in the early eighteenth century?",
+          "body": null,
+          "range": [
+            22,
+            23
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Plague outbreaks were consistently smaller than before.",
+              "Military casualties at Riga exceeded the number of plague",
+              "The design of military camps allowed plague to spread quickly.",
+              "The tsar's plan to protect St Petersburg from plague was not",
+              "Anti-plague measures were generally reactive rather than"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+          "body": "An outbreak of plague in [[24]] prompted the publication of a coherent preventative strategy. Provincial governors were ordered to burn the [[25]] and possessions of plague victims. Correspondence was held over a [[26]] prior to copying it.",
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "F The first attempts to organise procedures and carry out proactive steps to\ncontrol plague date to the aftermath of the 1727- 1728 epidemic in Astrakhan.\nIn response to this, the Russian imperial authorities issued several decrees\naimed at controlling the future spread of plague. Among these decrees, the\n‘Instructions for Governors and Heads of Townships’ required that all governors\nimmediately inform the Senate - a government body created by Tsar Peter I in\n1711 to advise the monarch - if plague cases were detected in their respective\nprovinces.\nFurthermore, the decree required that governors ensure the physical\nexamination of all persons suspected of carrying the disease and their\nsubsequent isolation. In addition, it was ordered that sites where plague\nvictims were found had to be encircled by checkpoints and isolated for the\nduration of the outbreak. These checkpoints were to remain operational for at\nleast six weeks.\nThe houses of infected persons were to be burned along with all of the personal\nproperty they contained, including farm animals and cattle. The governors\nwere instructed to inform the neighbouring provinces and cities about every\nplague case occurring on their territories. Finally, letters brought by couriers\nwere heated above a fire before being copied.\nG The implementation by the authorities of these combined measures\ndemonstrates their intuitive understanding of the importance of the timely\nisolation of infected people to limit the spread of plague.\nQuestions 14-19\nReading Passage 2 has SEVEN sections, A-G.\nChoose the correct heading for sections A-F from the list of headings\nbelow.\nWrite the correct number, i-viii.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "F",
-            "content": "The first attempts to organise procedures and carry out proactive steps to"
-          },
-          {
-            "label": "G",
-            "content": "The implementation by the authorities of these combined measures"
-          }
-        ]
-      },
       "questions": [
         {
           "number": 14,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section A",
           "instruction": "",
-          "answer": "ii"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 15,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section B",
           "instruction": "",
-          "answer": "v"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
         },
         {
           "number": 16,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section C",
           "instruction": "",
-          "answer": "i"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
         },
         {
           "number": 17,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section D",
           "instruction": "",
-          "answer": "vii"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
         },
         {
           "number": 18,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section E",
           "instruction": "",
-          "answer": "iv"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
         },
         {
           "number": 19,
           "type": "heading-matching",
-          "prompt": "Section F Choose TWO letters, A—E. Write the correct letters. Which TWO measures did Russia take in the seventeenth century to avoid",
+          "groupId": "p2g1",
+          "prompt": "Section F",
           "instruction": "",
-          "answer": "viii"
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,D",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,D",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,E",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,E",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "Astrakhan",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "houses",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "fire",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Recovering a damaged reputation",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage 3 below.\nRecovering a damaged reputation\nIn 2009, it was revealed that some of the information published by the\nUniversity of East Anglia’s Climatic Research Unit (CRU) in the UK, concerning\nclimate change, had been inaccurate. Furthermore, it was alleged that some of\nthe relevant statistics had been withheld from publication. The ensuing\ncontroversy affected the reputation not only of that institution, but also of the\nIntergovernmental Panel on Climate Change (IPCC), with which the CRU is\nclosely involved, and of climate scientists in general. Even if the claims of\nmisconduct and incompetence were eventually proven to be largely untrue, or\nconfined to a few individuals, the damage was done. The perceived\nwrongdoings of a few people had raised doubts about the many.\nThe response of most climate scientists was to cross their fingers and hope for\nthe best, and they kept a low profile. Many no doubt hoped that subsequent\nindependent inquiries into the IPCC and CRU would draw a line under their\nproblems. However, although these were likely to help, they were unlikely to\nundo the harm caused by months of hostile news reports and attacks by critics.\nThe damage that has been done should not be underestimated. As Ralph\nCicerone, the President of the US National Academy of Sciences, wrote in an\neditorial in the journal Science: ‘Public opinion has moved toward the view that\nscientists often try to suppress alternative hypotheses and ideas and that\nscientists will withhold data and try to manipulate some aspects of peer review\nto prevent dissent.’ He concluded that ‘the perceived misbehavior of even a\n\nfew scientists can diminish the credibility of science as a whole.’\nAn opinion poll taken at the beginning of 2010 found that the proportion of\npeople in the US who trust scientists as a source of information about global\nwarming had dropped from 83 percent, in 2008, to 74 percent. Another survey\ncarried out by the British Broadcasting Corporation in February 2010 found that\njust 26 percent of British people now believe that climate change is confirmed\nas being largely human-made, down from 41 percent in November 2009.\nRegaining the confidence and trust of the public is never easy. Hunkering down\nand hoping for the best - climate science’s current strategy - makes it almost\nimpossible. It is much better to learn from the successes and failures of\norganisations that have dealt with similar blows to their public standing.\nIn fact, climate science needs professional help to rebuild its reputation. It\ncould do worse than follow the advice given by Leslie Gaines-Ross, a\n‘reputation strategist’ at Public Relations (PR) company Webef Shandwick, in\nher recent book Corporate Reputation: 12 Steps to Safeguarding and\nRecovering Reputation. Gaines-Ross’s strategy is based on her analysis of how\nvarious organisations responded to crises, such as desktop-printer firm Xerox,\nwhose business plummeted during the 1990s, and the USA’s National\nAeronautics and Space Administration (NASA) after the Columbia shuttle\ndisaster in 2003.\nThe first step she suggests is to ‘take the heat - leader first’. In many cases,\nchief executives who publicly accept responsibility for corporate failings can\nbegin to reverse the freefall of their company’s reputations, but not always. If\nthe leader is held at least partly responsible for the fall from grace, it can be\nalmost impossible to convince critics that a new direction can be charted with\nthat same person at the helm.\nThis is the dilemma facing the heads of the IPCC and CRU. Both have been\nblamed for their organisations’ problems, not least for the way in which they\nhave dealt with critics, and both have been subjected to public calls for their\nremoval. Yet both organisations appear to believe they can repair their\nreputations without a change of leadership.\nThe second step outlined by Gaines-Ross is to ‘communicate tirelessly’. Yet\nmany climate researchers have avoided the media and the public, at least until\nthe official enquiries have concluded their reports. This reaction may be\nunderstandable, but it has backfired. Journalists following the story have often\nbeen unable to find spokespeople willing to defend climate science. In this\ncase, ‘no comment’ is commonly interpreted as an admission of silent,\ncollective guilt.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "Remaining visible is only a start, though; climate scientists also need to be",
-      "questionRange": [
-        27,
-        32
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Remaining visible is only a start, though; climate scientists also need to be\ncareful what they say. They must realise that they face doubts not just about\ntheir published results, but also about their conduct and honesty. It simply\nwon’t work for scientists to continue to appeal to the weight of the evidence,\nwhile refusing to discuss the integrity of their profession. The harm has been\nincreased by a perceived reluctance to admit even the possibility of mistakes\nor wrongdoing.\nThe third step put forward by Gaines-Ross is ‘don’t underestimate your critics\nand competitors’. This means not only recognising the skill with which the\nopponents of climate research have executed their campaigns through Internet\nblogs and other media, but also acknowledging the validity of some of their\ncriticisms. It is clear, for instance, that climate scientists need better standards\nof transparency, to allow for scrutiny not just by their peers, but also by critics\nfrom outside the world of research.\nIt is also important to engage with those critics. That doesn’t mean conceding\nto unfounded arguments which are based on prejudice rather than evidence,\nbut there is an obligation to help the public understand the causes of climate\nchange, as well as the options for avoiding and dealing with the consequences.\nTo begin the process of rebuilding trust in their profession, climate scientists\nneed to follow these three seeps. But that is just the start. Gaines-Ross\nestimates that it typically takes four years for a company to rescue and restore\na broken reputation.\nWinning back public confidence is a marathon, not a sprint, but you can’t win\nat all if you don’t step up to the starting line.\nQuestions 27-32\nDo the following statements agree with the views of the writer in Reading\nPassage 3?\nWrite\nYES\nif the statement agrees with the views of the writer\nNO\nif the statement contradicts the views of the writer\nNOT GIVEN\nif it is impossible to say what the writer thinks about this\n27\n     If a majority of scientists at the CRU were cleared of\nmisconduct, the public would be satisfied.\n\nQuestions 33-36\n28\n     In the aftermath of the CRU scandal, most scientists\navoided attention.\n29\n     Journalists have defended the CRU and the IPCC\nagainst their critics.\n30\n     Ralph Cicerone regarded the damage caused by the\nCRU as extending beyond the field of climate science.\n31\n     Since 2010, confidence in climate science has risen\nslightly in the US.\n32\n     Climate scientists should take professional advice\non regaining public confidence.\nChoose the correct letter, A, B, C or D.\n33 In accordance with Gaines-Ross’s views, the heads of the CRU and\nIPCC should have\nA\n \nB\n \nC\n \nD\n \n34 Which mistake have staff at the CRU and IPCC made?\nA\n \nB\n \nC\n \nD\n \n35 People who challenge the evidence of climate change have generally\nA\n \nresigned from their posts.\naccepted responsibility and continued in their posts.\nshifted attention onto more junior staff.\nignored the criticisms directed at them.\nThey have blamed each other for problems.\nThey have publicly acknowledged failings.\nThey have avoided interviews with the press.\nThey have made conflicting public statements.\npresented their case poorly.\n\nQuestions 37-40\nB\n \nC\n \nD\n \n36 What does the reference to ‘a marathon’ indicate in the final\nparagraph?\nA\n \nB\n \nC\n \nD\n \nmissed opportunities for publicity.\nmade some criticisms which are justified.\nbeen dishonest in their statements.\nThe rate at which the climate is changing.\nThe competition between rival theories of climate change.\nThe ongoing need for new climate data.\nThe time it might take for scientists to win back confidence\nComplete the summary using the list of words/phrases, A-H, below. \nControversy about climate science\nThe revelation, in 2009, that scientists at the CRU had presented\ninaccurate information and concealed some of their 37\n had\na serious effect on their reputation. In order to address the problem, the\nscientists should turn to experts in 38\n .\nLeslie Gaines-Ross has published 39\n  based on studies of\ncrisis management in commercial and public-sector organisations.\nAmongst other things, Gaines-Ross suggests that climate scientists should\nconfront their 40\n .\n\nA\ncritics\nB\ncorruption\nC\nstatistics\nD\nguidelines\nE\nmanagers\nF\npublic relations\nG\nsources\nH\ncomputer modelling",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "Recovering a damaged reputation"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "In 2009, it was revealed that some of the information published by the\nUniversity of East Anglia's Climatic Research Unit (CRU) in the UK, concerning\nclimate change, had been inaccurate. Furthermore, it was alleged that some of\nthe relevant statistics had been withheld from publication. The ensuing\ncontroversy affected the reputation not only of that institution, but also of the\nIntergovernmental Panel on Climate Change (IPCC), with which the CRU is\nclosely involved, and of climate scientists in general. Even if the claims of\nmisconduct and incompetence were eventually proven to be largely untrue, or\nconfined to a few individuals, the damage was done. The perceived\nwrongdoings of a few people had raised doubts about the many."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "The response of most climate scientists was to cross their fingers and hope for\nthe best, and they kept a low profile. Many no doubt hoped that subsequent\nindependent inquiries into the IPCC and CRU would draw a line under their\nproblems. However, although these were likely to help, they were unlikely to\nundo the harm caused by months of hostile news reports and attacks by critics."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "The damage that has been done should not be underestimated. As Ralph\nCicerone, the President of the US National Academy of Sciences, wrote in an\neditorial in the journal Science: 'Public opinion has moved toward the view that\nscientists often try to suppress alternative hypotheses and ideas and that\nscientists will withhold data and try to manipulate some aspects of peer review\nto prevent dissent.' He concluded that 'the perceived misbehavior of even a"
           },
           {
-            "label": "A",
-            "content": "resigned from their posts."
+            "label": null,
+            "text": "few scientists can diminish the credibility of science as a whole.'"
           },
           {
-            "label": "B",
-            "content": "C"
+            "label": null,
+            "text": "An opinion poll taken at the beginning of 2010 found that the proportion of\npeople in the US who trust scientists as a source of information about global\nwarming had dropped from 83 percent, in 2008, to 74 percent. Another survey\ncarried out by the British Broadcasting Corporation in February 2010 found that\njust 26 percent of British people now believe that climate change is confirmed\nas being largely human-made, down from 41 percent in November 2009."
           },
           {
-            "label": "D",
-            "content": "36 What does the reference to ‘a marathon’ indicate in the final"
+            "label": null,
+            "text": "Regaining the confidence and trust of the public is never easy. Hunkering down\nand hoping for the best - climate science's current strategy - makes it almost\nimpossible. It is much better to learn from the successes and failures of\norganisations that have dealt with similar blows to their public standing."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": null,
+            "text": "In fact, climate science needs professional help to rebuild its reputation. It\ncould do worse than follow the advice given by Leslie Gaines-Ross, a\n'reputation strategist' at Public Relations (PR) company Webef Shandwick, in\nher recent book Corporate Reputation: 12 Steps to Safeguarding and\nRecovering Reputation. Gaines-Ross's strategy is based on her analysis of how\nvarious organisations responded to crises, such as desktop-printer firm Xerox,\nwhose business plummeted during the 1990s, and the USA's National\nAeronautics and Space Administration (NASA) after the Columbia shuttle\ndisaster in 2003."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "The first step she suggests is to 'take the heat - leader first'. In many cases,\nchief executives who publicly accept responsibility for corporate failings can\nbegin to reverse the freefall of their company's reputations, but not always. If\nthe leader is held at least partly responsible for the fall from grace, it can be\nalmost impossible to convince critics that a new direction can be charted with\nthat same person at the helm."
           },
           {
-            "label": "A",
-            "content": "critics"
+            "label": null,
+            "text": "This is the dilemma facing the heads of the IPCC and CRU. Both have been\nblamed for their organisations' problems, not least for the way in which they\nhave dealt with critics, and both have been subjected to public calls for their\nremoval. Yet both organisations appear to believe they can repair their\nreputations without a change of leadership."
           },
           {
-            "label": "B",
-            "content": "corruption"
+            "label": null,
+            "text": "The second step outlined by Gaines-Ross is to 'communicate tirelessly'. Yet\nmany climate researchers have avoided the media and the public, at least until\nthe official enquiries have concluded their reports. This reaction may be\nunderstandable, but it has backfired. Journalists following the story have often\nbeen unable to find spokespeople willing to defend climate science. In this\ncase, 'no comment' is commonly interpreted as an admission of silent,\ncollective guilt."
           },
           {
-            "label": "C",
-            "content": "statistics"
+            "label": null,
+            "text": "Remaining visible is only a start, though; climate scientists also need to be\ncareful what they say. They must realise that they face doubts not just about\ntheir published results, but also about their conduct and honesty. It simply\nwon't work for scientists to continue to appeal to the weight of the evidence,\nwhile refusing to discuss the integrity of their profession. The harm has been\nincreased by a perceived reluctance to admit even the possibility of mistakes\nor wrongdoing."
           },
           {
-            "label": "D",
-            "content": "guidelines"
+            "label": null,
+            "text": "The third step put forward by Gaines-Ross is 'don't underestimate your critics\nand competitors'. This means not only recognising the skill with which the\nopponents of climate research have executed their campaigns through Internet\nblogs and other media, but also acknowledging the validity of some of their\ncriticisms. It is clear, for instance, that climate scientists need better standards\nof transparency, to allow for scrutiny not just by their peers, but also by critics\nfrom outside the world of research."
           },
           {
-            "label": "E",
-            "content": "managers"
+            "label": null,
+            "text": "It is also important to engage with those critics. That doesn't mean conceding\nto unfounded arguments which are based on prejudice rather than evidence,\nbut there is an obligation to help the public understand the causes of climate\nchange, as well as the options for avoiding and dealing with the consequences."
           },
           {
-            "label": "F",
-            "content": "public relations"
+            "label": null,
+            "text": "To begin the process of rebuilding trust in their profession, climate scientists\nneed to follow these three seeps. But that is just the start. Gaines-Ross\nestimates that it typically takes four years for a company to rescue and restore\na broken reputation."
           },
           {
-            "label": "G",
-            "content": "sources"
+            "label": null,
+            "text": "Winning back public confidence is a marathon, not a sprint, but you can't win\nat all if you don't step up to the starting line."
           }
-        ]
+        ],
+        "text": "Recovering a damaged reputation\n\nIn 2009, it was revealed that some of the information published by the\nUniversity of East Anglia's Climatic Research Unit (CRU) in the UK, concerning\nclimate change, had been inaccurate. Furthermore, it was alleged that some of\nthe relevant statistics had been withheld from publication. The ensuing\ncontroversy affected the reputation not only of that institution, but also of the\nIntergovernmental Panel on Climate Change (IPCC), with which the CRU is\nclosely involved, and of climate scientists in general. Even if the claims of\nmisconduct and incompetence were eventually proven to be largely untrue, or\nconfined to a few individuals, the damage was done. The perceived\nwrongdoings of a few people had raised doubts about the many.\n\nThe response of most climate scientists was to cross their fingers and hope for\nthe best, and they kept a low profile. Many no doubt hoped that subsequent\nindependent inquiries into the IPCC and CRU would draw a line under their\nproblems. However, although these were likely to help, they were unlikely to\nundo the harm caused by months of hostile news reports and attacks by critics.\n\nThe damage that has been done should not be underestimated. As Ralph\nCicerone, the President of the US National Academy of Sciences, wrote in an\neditorial in the journal Science: 'Public opinion has moved toward the view that\nscientists often try to suppress alternative hypotheses and ideas and that\nscientists will withhold data and try to manipulate some aspects of peer review\nto prevent dissent.' He concluded that 'the perceived misbehavior of even a\n\nfew scientists can diminish the credibility of science as a whole.'\n\nAn opinion poll taken at the beginning of 2010 found that the proportion of\npeople in the US who trust scientists as a source of information about global\nwarming had dropped from 83 percent, in 2008, to 74 percent. Another survey\ncarried out by the British Broadcasting Corporation in February 2010 found that\njust 26 percent of British people now believe that climate change is confirmed\nas being largely human-made, down from 41 percent in November 2009.\n\nRegaining the confidence and trust of the public is never easy. Hunkering down\nand hoping for the best - climate science's current strategy - makes it almost\nimpossible. It is much better to learn from the successes and failures of\norganisations that have dealt with similar blows to their public standing.\n\nIn fact, climate science needs professional help to rebuild its reputation. It\ncould do worse than follow the advice given by Leslie Gaines-Ross, a\n'reputation strategist' at Public Relations (PR) company Webef Shandwick, in\nher recent book Corporate Reputation: 12 Steps to Safeguarding and\nRecovering Reputation. Gaines-Ross's strategy is based on her analysis of how\nvarious organisations responded to crises, such as desktop-printer firm Xerox,\nwhose business plummeted during the 1990s, and the USA's National\nAeronautics and Space Administration (NASA) after the Columbia shuttle\ndisaster in 2003.\n\nThe first step she suggests is to 'take the heat - leader first'. In many cases,\nchief executives who publicly accept responsibility for corporate failings can\nbegin to reverse the freefall of their company's reputations, but not always. If\nthe leader is held at least partly responsible for the fall from grace, it can be\nalmost impossible to convince critics that a new direction can be charted with\nthat same person at the helm.\n\nThis is the dilemma facing the heads of the IPCC and CRU. Both have been\nblamed for their organisations' problems, not least for the way in which they\nhave dealt with critics, and both have been subjected to public calls for their\nremoval. Yet both organisations appear to believe they can repair their\nreputations without a change of leadership.\n\nThe second step outlined by Gaines-Ross is to 'communicate tirelessly'. Yet\nmany climate researchers have avoided the media and the public, at least until\nthe official enquiries have concluded their reports. This reaction may be\nunderstandable, but it has backfired. Journalists following the story have often\nbeen unable to find spokespeople willing to defend climate science. In this\ncase, 'no comment' is commonly interpreted as an admission of silent,\ncollective guilt.\n\nRemaining visible is only a start, though; climate scientists also need to be\ncareful what they say. They must realise that they face doubts not just about\ntheir published results, but also about their conduct and honesty. It simply\nwon't work for scientists to continue to appeal to the weight of the evidence,\nwhile refusing to discuss the integrity of their profession. The harm has been\nincreased by a perceived reluctance to admit even the possibility of mistakes\nor wrongdoing.\n\nThe third step put forward by Gaines-Ross is 'don't underestimate your critics\nand competitors'. This means not only recognising the skill with which the\nopponents of climate research have executed their campaigns through Internet\nblogs and other media, but also acknowledging the validity of some of their\ncriticisms. It is clear, for instance, that climate scientists need better standards\nof transparency, to allow for scrutiny not just by their peers, but also by critics\nfrom outside the world of research.\n\nIt is also important to engage with those critics. That doesn't mean conceding\nto unfounded arguments which are based on prejudice rather than evidence,\nbut there is an obligation to help the public understand the causes of climate\nchange, as well as the options for avoiding and dealing with the consequences.\n\nTo begin the process of rebuilding trust in their profession, climate scientists\nneed to follow these three seeps. But that is just the start. Gaines-Ross\nestimates that it typically takes four years for a company to rescue and restore\na broken reputation.\n\nWinning back public confidence is a marathon, not a sprint, but you can't win\nat all if you don't step up to the starting line.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            27,
+            32
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            33,
+            36
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary using the list of words/phrases, A-H, below. Controversy about climate science The revelation, in 2009, that scientists at the CRU had presented",
+          "body": "inaccurate information and concealed some of their [[37]] had a serious effect on their reputation. In order to address the problem, the scientists should turn to experts in [[38]] . Leslie Gaines-Ross has published [[39]] based on studies of crisis management in commercial and public-sector organisations. Amongst other things, Gaines-Ross suggests that climate scientists should confront their [[40]] . A critics B corruption C statistics D guidelines E managers F public relations G sources H computer modelling",
+          "range": [
+            37,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "If a majority of scientists at the CRU were cleared of\nmisconduct, the public would be satisfied.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "In the aftermath of the CRU scandal, most scientists\navoided attention.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Journalists have defended the CRU and the IPCC\nagainst their critics.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Ralph Cicerone regarded the damage caused by the\nCRU as extending beyond the field of climate science.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Since 2010, confidence in climate science has risen\nslightly in the US.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Climate scientists should take professional advice\non regaining public confidence.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "In accordance with Gaines-Ross's views, the heads of the CRU and IPCC should have",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "resigned from their posts.",
+            "accepted responsibility and continued in their posts.",
+            "shifted attention onto more junior staff.",
+            "ignored the criticisms directed at them."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "Which mistake have staff at the CRU and IPCC made?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "They have blamed each other for problems.",
+            "They have publicly acknowledged failings.",
+            "They have avoided interviews with the press.",
+            "They have made conflicting public statements."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "People who challenge the evidence of climate change have generally",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "presented their case poorly.",
+            "missed opportunities for publicity.",
+            "made some criticisms which are justified.",
+            "been dishonest in their statements."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "multiple-choice",
+          "groupId": "p3g2",
+          "prompt": "What does the reference to `a marathon' indicate in the final paragraph?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "The rate at which the climate is changing.",
+            "The competition between rival theories of climate change.",
+            "The ongoing need for new climate data.",
+            "The time it might take for scientists to win back confidence"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
@@ -260,7 +1122,9 @@
     "17": "vii",
     "18": "iv",
     "19": "viii",
+    "20": "B,D",
     "21": "B,D",
+    "22": "A,E",
     "23": "A,E",
     "24": "Astrakhan",
     "25": "houses",

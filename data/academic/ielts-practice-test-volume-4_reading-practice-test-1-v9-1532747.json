@@ -1,308 +1,1021 @@
 {
   "id": "ielts-practice-test-volume-4_reading-practice-test-1-v9-1532747",
   "type": "academic",
-  "source": "ielts-practice-test-volume-4 reading-practice-test-1-v9-1532747",
+  "title": "IELTS Practice Test Volume 4 - Reading Test 1",
+  "collection": "IELTS Practice Test Volume 4",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 4,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-practice-test-volume-4_reading-practice-test-1-v9-1532747.pdf",
-  "total_questions": 15,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Reading Passage One.",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nYou should spend about 20 minutes on Questions 1-13, which are based on\nReading Passage One.\nIf You Can Get Used to the Taste\nThere is a formal word for it: entomophagy. It means the consumption of\ninsects by us, human beings. Okay, we are not insectivores (eaters of insects),\nalthough, it must be admitted, our primate cousins regularly feast on insects.\nSure, but those relatives live in trees, and swing from branches, and we don’t.\nOkay, you say, snails, those slimy garden pests, are relished as a gourmet\nfood, most famously by the French, who are otherwise not interested in garden\nlife. But, I counter, snails are not insects. They are mollusks, and I’d like to\nthink that makes a difference.\nWhat I’m talking about is eating true insects, those with six legs, three body\nparts, hard exoskeleton, and two antennae. We can extend this deﬁnition to\nour eight-legged arachnids (spiders and scorpions), as well. These are\ncreatures people just don’t eat. At least, that was what I thought, until I met a\npersonally as well as ecologically-friendly young man, Peter Ferguson, who\nadvocates insects as the ultimate in culinary delight. Why? Peter explains, ‘For\na start, there are many insects, about 10 million species, and a huge biomass\nof high quality calories, and we just ignore them. In a world having trouble\nfeeding itself, that doesn’t make sense.’\nIgnore them we do, at least in Western culture, where we have long had much\nbetter alternatives. Animal husbandry has characterised our societies, giving us\npork, poultry, and cattle, upon which we regularly feast. Yet other cultures\n\ndon’t have it so lucky, in Africa, in Asia, and among aboriginal or ethnic groups\nin Oceania, insects have an equally long history as an important dietary\nsupplement, from butterﬂies and moths, to bees and wasps, cockroaches and\nants, beetle grubs or larvae, caterpillars and worms, scorpions (a delicacy in\nsouthern China) and tarantulas. Even the Christian Bible states that John the\nBaptist lived on locusts and wild honey, locusts being grasshoppers in their\nswarming stage. These same insects, incidentally, are commonly eaten in\nThailand, where a visit to a market there will reveal multitudes, deep-fried in\nglistening piles for the delectation of passing shoppers.\nConsider the African mopane worm, for example. To begin with, the name is a\nmisnomer. The creature is actually a large colourful caterpillar, which, in the\nfullness of time, turns into a rather dull-looking moth, although most never\nreach that stage. The hairy yellow- striped creatures are eagerly sought after,\nhand-picked from trees in the wild, pinched by the tail-end to squeeze out the\nslimy green intestinal tract, after which they are most often sun-dried or\nsmoked, thereafter ready for consumption. Tins of mopane worms in brine, or\nin tomato or chili sauce are common in supermarkets. They can be eaten\nstraight from the can. fried into crunchy snacks, or added as an ingredient to\nconventional dishes. The harvest and sale of wild mopane worms is now a\nmulti-million dollar industry, feeding millions of people, mostly indigenous\nAfricans.\nPeter is enthusiastically telling me why he does it. ‘Insects have protein, and all\nthe vitamins, minerals, and fat you could want.’ When I remain skeptical, Peter\nholds up a fried grasshopper. ‘This has lots of calcium’. Then comes the (you\nguessed it) termite paste, a black smear with the look, smell, and consistency,\nof an industrial solvent. ‘Iron. Very rich.’ Then comes the grublike larvae of\nsome form of moth. ‘Essential trace elements such as zinc and copper.’\nAnything else? ‘Insects don’t produce greenhouse gases, and don’t need\nantibiotics.’ Peter even cites my mopane worm example. ‘Three kilograms of\nmopane leaves will feed a kilogram of worms—-a 30% payback. With cattle, it’s\nless than 10%. Insects are cheap to buy, cheap to breed, and easy to manage.’\nOne can’t argue with that. The phenomenal rate at which insects breed is well\nknown, and more than makes up for their small size. A female cricket might be\na fraction of the weight of a huge beef cow, but lays up to 1,500 eggs a month,\nconverted into food at 20 times the rate of beef, whilst using only a fraction of\nthe space and water. The ecological argument for entomophagy is undeniable,\nalthough there are signiﬁcant concerns about internal parasites, and the\naccumulation of pesticides and toxins inside many wild insects. Allergic\nreactions have also been reported. Cooking insects well is recommended, and\n\ntheir consumption should, of course, be avoided, after intensive pesticide use\nor commercial spraying of local agricultural lands.\nBut what about the taste? Here, Peter hesitates. He ﬁnally comes out with a\nsuspicious, ‘You get used to it.’ When I nod skeptically, he comes out with a far\nmore conﬁdent, ‘Actually, you’re eating insects already, all the time.’ Yes,\napparently, insects ﬁnd their way into the human food chain, whether we like it\nor not. For example, most of those who eat rice (as I do) are inadvertently\neating not just a few rice weevil larvae, and probably beneﬁted by this, given\nthe additional vitamins these larvae supply. Whole insects, insect parts, insect\ndetritus, larvae, and excrement, appear in all our food, but in such small\nquantities that they are basically unnoticed and insigniﬁcant. Peter smiles. ‘In\nthat sense, we’re already insectivores. We’ve just got to take the next logical\nstep.’",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 4,
-            "rows": [
-              [
-                "Insect",
-                "One Fact",
-                "Another Fact"
-              ],
-              [
-                "grasshoppers",
-                "contain 5",
-                "popular in 6"
-              ]
-            ],
-            "header": [
-              "Insect",
-              "One Fact",
-              "Another Fact"
-            ]
+            "label": null,
+            "text": "If You Can Get Used to the Taste"
           },
           {
-            "page": 5,
-            "rows": [
-              [
-                "mopane worms",
-                "primarily eaten by 7",
-                "eat 8"
-              ],
-              [
-                "scorpions",
-                "are popular in 9",
-                "10\nare a type of"
-              ]
-            ],
-            "header": [
-              "mopane worms",
-              "primarily eaten by 7",
-              "eat 8"
-            ]
+            "label": null,
+            "text": "There is a formal word for it: entomophagy. It means the consumption of\ninsects by us, human beings. Okay, we are not insectivores (eaters of insects),\nalthough, it must be admitted, our primate cousins regularly feast on insects.\nSure, but those relatives live in trees, and swing from branches, and we don't.\nOkay, you say, snails, those slimy garden pests, are relished as a gourmet\nfood, most famously by the French, who are otherwise not interested in garden\nlife. But, I counter, snails are not insects. They are mollusks, and I'd like to\nthink that makes a difference."
+          },
+          {
+            "label": null,
+            "text": "What I'm talking about is eating true insects, those with six legs, three body\nparts, hard exoskeleton, and two antennae. We can extend this deﬁnition to\nour eight-legged arachnids (spiders and scorpions), as well. These are\ncreatures people just don't eat. At least, that was what I thought, until I met a\npersonally as well as ecologically-friendly young man, Peter Ferguson, who\nadvocates insects as the ultimate in culinary delight. Why? Peter explains, 'For\na start, there are many insects, about 10 million species, and a huge biomass\nof high quality calories, and we just ignore them. In a world having trouble\nfeeding itself, that doesn't make sense.'"
+          },
+          {
+            "label": null,
+            "text": "Ignore them we do, at least in Western culture, where we have long had much\nbetter alternatives. Animal husbandry has characterised our societies, giving us\npork, poultry, and cattle, upon which we regularly feast. Yet other cultures"
+          },
+          {
+            "label": null,
+            "text": "don't have it so lucky, in Africa, in Asia, and among aboriginal or ethnic groups\nin Oceania, insects have an equally long history as an important dietary\nsupplement, from butterﬂies and moths, to bees and wasps, cockroaches and\nants, beetle grubs or larvae, caterpillars and worms, scorpions (a delicacy in\nsouthern China) and tarantulas. Even the Christian Bible states that John the\nBaptist lived on locusts and wild honey, locusts being grasshoppers in their\nswarming stage. These same insects, incidentally, are commonly eaten in\nThailand, where a visit to a market there will reveal multitudes, deep-fried in\nglistening piles for the delectation of passing shoppers."
+          },
+          {
+            "label": null,
+            "text": "Consider the African mopane worm, for example. To begin with, the name is a\nmisnomer. The creature is actually a large colourful caterpillar, which, in the\nfullness of time, turns into a rather dull-looking moth, although most never\nreach that stage. The hairy yellow- striped creatures are eagerly sought after,\nhand-picked from trees in the wild, pinched by the tail-end to squeeze out the\nslimy green intestinal tract, after which they are most often sun-dried or\nsmoked, thereafter ready for consumption. Tins of mopane worms in brine, or\nin tomato or chili sauce are common in supermarkets. They can be eaten\nstraight from the can. fried into crunchy snacks, or added as an ingredient to\nconventional dishes. The harvest and sale of wild mopane worms is now a\nmulti-million dollar industry, feeding millions of people, mostly indigenous\nAfricans."
+          },
+          {
+            "label": null,
+            "text": "Peter is enthusiastically telling me why he does it. 'Insects have protein, and all\nthe vitamins, minerals, and fat you could want.' When I remain skeptical, Peter\nholds up a fried grasshopper. 'This has lots of calcium'. Then comes the (you\nguessed it) termite paste, a black smear with the look, smell, and consistency,\nof an industrial solvent. 'Iron. Very rich.' Then comes the grublike larvae of\nsome form of moth. 'Essential trace elements such as zinc and copper.'\nAnything else? 'Insects don't produce greenhouse gases, and don't need\nantibiotics.' Peter even cites my mopane worm example. 'Three kilograms of\nmopane leaves will feed a kilogram of worms--a 30% payback. With cattle, it's\nless than 10%. Insects are cheap to buy, cheap to breed, and easy to manage.'"
+          },
+          {
+            "label": null,
+            "text": "One can't argue with that. The phenomenal rate at which insects breed is well\nknown, and more than makes up for their small size. A female cricket might be\na fraction of the weight of a huge beef cow, but lays up to 1,500 eggs a month,\nconverted into food at 20 times the rate of beef, whilst using only a fraction of\nthe space and water. The ecological argument for entomophagy is undeniable,\nalthough there are signiﬁcant concerns about internal parasites, and the\naccumulation of pesticides and toxins inside many wild insects. Allergic\nreactions have also been reported. Cooking insects well is recommended, and"
+          },
+          {
+            "label": null,
+            "text": "their consumption should, of course, be avoided, after intensive pesticide use\nor commercial spraying of local agricultural lands."
+          },
+          {
+            "label": null,
+            "text": "But what about the taste? Here, Peter hesitates. He ﬁnally comes out with a\nsuspicious, 'You get used to it.' When I nod skeptically, he comes out with a far\nmore conﬁdent, 'Actually, you're eating insects already, all the time.' Yes,\napparently, insects ﬁnd their way into the human food chain, whether we like it\nor not. For example, most of those who eat rice (as I do) are inadvertently\neating not just a few rice weevil larvae, and probably beneﬁted by this, given\nthe additional vitamins these larvae supply. Whole insects, insect parts, insect\ndetritus, larvae, and excrement, appear in all our food, but in such small\nquantities that they are basically unnoticed and insigniﬁcant. Peter smiles. 'In\nthat sense, we're already insectivores. We've just got to take the next logical\nstep.'"
           }
         ],
+        "text": "If You Can Get Used to the Taste\n\nThere is a formal word for it: entomophagy. It means the consumption of\ninsects by us, human beings. Okay, we are not insectivores (eaters of insects),\nalthough, it must be admitted, our primate cousins regularly feast on insects.\nSure, but those relatives live in trees, and swing from branches, and we don't.\nOkay, you say, snails, those slimy garden pests, are relished as a gourmet\nfood, most famously by the French, who are otherwise not interested in garden\nlife. But, I counter, snails are not insects. They are mollusks, and I'd like to\nthink that makes a difference.\n\nWhat I'm talking about is eating true insects, those with six legs, three body\nparts, hard exoskeleton, and two antennae. We can extend this deﬁnition to\nour eight-legged arachnids (spiders and scorpions), as well. These are\ncreatures people just don't eat. At least, that was what I thought, until I met a\npersonally as well as ecologically-friendly young man, Peter Ferguson, who\nadvocates insects as the ultimate in culinary delight. Why? Peter explains, 'For\na start, there are many insects, about 10 million species, and a huge biomass\nof high quality calories, and we just ignore them. In a world having trouble\nfeeding itself, that doesn't make sense.'\n\nIgnore them we do, at least in Western culture, where we have long had much\nbetter alternatives. Animal husbandry has characterised our societies, giving us\npork, poultry, and cattle, upon which we regularly feast. Yet other cultures\n\ndon't have it so lucky, in Africa, in Asia, and among aboriginal or ethnic groups\nin Oceania, insects have an equally long history as an important dietary\nsupplement, from butterﬂies and moths, to bees and wasps, cockroaches and\nants, beetle grubs or larvae, caterpillars and worms, scorpions (a delicacy in\nsouthern China) and tarantulas. Even the Christian Bible states that John the\nBaptist lived on locusts and wild honey, locusts being grasshoppers in their\nswarming stage. These same insects, incidentally, are commonly eaten in\nThailand, where a visit to a market there will reveal multitudes, deep-fried in\nglistening piles for the delectation of passing shoppers.\n\nConsider the African mopane worm, for example. To begin with, the name is a\nmisnomer. The creature is actually a large colourful caterpillar, which, in the\nfullness of time, turns into a rather dull-looking moth, although most never\nreach that stage. The hairy yellow- striped creatures are eagerly sought after,\nhand-picked from trees in the wild, pinched by the tail-end to squeeze out the\nslimy green intestinal tract, after which they are most often sun-dried or\nsmoked, thereafter ready for consumption. Tins of mopane worms in brine, or\nin tomato or chili sauce are common in supermarkets. They can be eaten\nstraight from the can. fried into crunchy snacks, or added as an ingredient to\nconventional dishes. The harvest and sale of wild mopane worms is now a\nmulti-million dollar industry, feeding millions of people, mostly indigenous\nAfricans.\n\nPeter is enthusiastically telling me why he does it. 'Insects have protein, and all\nthe vitamins, minerals, and fat you could want.' When I remain skeptical, Peter\nholds up a fried grasshopper. 'This has lots of calcium'. Then comes the (you\nguessed it) termite paste, a black smear with the look, smell, and consistency,\nof an industrial solvent. 'Iron. Very rich.' Then comes the grublike larvae of\nsome form of moth. 'Essential trace elements such as zinc and copper.'\nAnything else? 'Insects don't produce greenhouse gases, and don't need\nantibiotics.' Peter even cites my mopane worm example. 'Three kilograms of\nmopane leaves will feed a kilogram of worms--a 30% payback. With cattle, it's\nless than 10%. Insects are cheap to buy, cheap to breed, and easy to manage.'\n\nOne can't argue with that. The phenomenal rate at which insects breed is well\nknown, and more than makes up for their small size. A female cricket might be\na fraction of the weight of a huge beef cow, but lays up to 1,500 eggs a month,\nconverted into food at 20 times the rate of beef, whilst using only a fraction of\nthe space and water. The ecological argument for entomophagy is undeniable,\nalthough there are signiﬁcant concerns about internal parasites, and the\naccumulation of pesticides and toxins inside many wild insects. Allergic\nreactions have also been reported. Cooking insects well is recommended, and\n\ntheir consumption should, of course, be avoided, after intensive pesticide use\nor commercial spraying of local agricultural lands.\n\nBut what about the taste? Here, Peter hesitates. He ﬁnally comes out with a\nsuspicious, 'You get used to it.' When I nod skeptically, he comes out with a far\nmore conﬁdent, 'Actually, you're eating insects already, all the time.' Yes,\napparently, insects ﬁnd their way into the human food chain, whether we like it\nor not. For example, most of those who eat rice (as I do) are inadvertently\neating not just a few rice weevil larvae, and probably beneﬁted by this, given\nthe additional vitamins these larvae supply. Whole insects, insect parts, insect\ndetritus, larvae, and excrement, appear in all our food, but in such small\nquantities that they are basically unnoticed and insigniﬁcant. Peter smiles. 'In\nthat sense, we're already insectivores. We've just got to take the next logical\nstep.'",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": "Insect, One Fact, and Another Fact table. Grasshoppers: One fact 'contain [[5]]', Another fact 'popular in [[6]]'. Mopane worms: One fact 'primarily eaten by [[7]]', Another fact 'eat [[8]]'. Scorpions: One fact 'are popular in [[9]]', Another fact 'are a type of [[10]]'.",
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C, or D.",
+          "body": null,
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "The French are well known for eating insects.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Peter Ferguson is a nature-friendly person.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
+          "groupId": "p1g1",
           "prompt": "Insect eating by people is a modern phenomenon.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "Some insects are used for religious purposes. Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g1",
+          "prompt": "Some insects are used for religious purposes.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "calcium",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Thailand",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "indigenous Africans",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "mopane leaves",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "southern China",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "table-completion",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "eight-legged arachnid",
+          "trap": null
         },
         {
           "number": 11,
           "type": "multiple-choice",
+          "groupId": "p1g3",
           "prompt": "Mopane worms",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer. Insect One Fact Another Fact grasshoppers contain 5 popular in 6 Choose the correct letter, A, B, C, or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "are appropriately named.",
+            "usually reach their moth form.",
+            "are extensively raised for profit.",
+            "are usually treated before being eaten."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 12,
           "type": "multiple-choice",
+          "groupId": "p1g3",
           "prompt": "Insects",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer. Insect One Fact Another Fact grasshoppers contain 5 popular in 6 Choose the correct letter, A, B, C, or D.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "multiply quickly.",
+            "are best eaten raw.",
+            "are mostly safe to eat.",
+            "produce small amounts of greenhouse gas."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 13,
           "type": "multiple-choice",
+          "groupId": "p1g3",
           "prompt": "The author",
-          "instruction": "Do the following statements agree with the information given in Reading Passage One? Write TRUE Complete the table. Choose NO MORE THAN TWO WORDS from the passage for each answer. Insect One Fact Another Fact grasshoppers contain 5 popular in 6 Choose the correct letter, A, B, C, or D.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "likes snails.",
+            "probably eats mopane worms.",
+            "believes insects can taste good.",
+            "probably eats rice weevil larvae. Reading Passage 2 You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage Two. AC or DC: The War of Currents Electricity can be delivered in either alternating current (AC), or direct current (DC), and in the late 1880s in America, with electricity delivery in its infancy, it initially seemed clear which system was superior. Thomas Edison, a home- grown American inventor, heavily favoured DC from the start. Yet the limitations of his system would become increasingly obvious, as would the advantages of AC, and despite Edison's best efforts, his crusade would ultimately be lost. In 1879, Edison's team at Menlo Park had improved the electric light bulb, but Edison needed an efficient electricity distribution system to capitalise on this. Thus, in 1880, he founded the Edison Illuminating Company and constructed a generating station providing 110 volts of direct current. Yet such a system has drawbacks. Due to the low voltage, there Hows correspondingly higher current, meaning that the electrical resistance of the transmission wires significantly reduces the voltage as it travels further afield. Whatever thickness of wire is used, there is a natural limitation in the distance over which the electricity can be economically transmitted. There are, however, benefits to using DC. It can allow storage batteries to be directly connected to the electricity grid, giving extra power to meet sudden short-term peaks of demand, or backup during breakdown of supply. Furthermore, during Edison's time, there were no practical AC motors, only DC ones. Also, most of the load consisted of incandescent light bulbs, which ran well on DC. Perhaps most importantly, Edison had the patents (legal rights) to many associated DC devices which he and his team had invented, such as meters, telegraphic devices, and household machinery. Thus, the widespread adoption of DC across America would see him gain considerably from patent royalties. Still, all such inventions were somewhat useless when DC electricity could only be delivered to customers within a few kilometers of the generating source. To overcome this problem, the best answer is to transform, or step-up, the voltage to very high levels for transmission, and then transform it down to safe levels for customer use. This also allows thinner and less expensive wires, but there is no low-cost technology to transform voltage -- unless one uses AC, and it was the brilliant physicist and prolific inventor, Nikola Tesla, who had extensively researched this system. Tesla, a penniless immigrant from Serbia, worked for a year at Edison's Menlo lab. He had actually proposed the AC system to Edison, but Edison, an empirical experimenter with little formal education, dismissed it as impractical. Tesla, with the mathematical training and formal theoretical knowledge, was able to understand AC's potential, even inventing an AC polyphase electric induction motor. Tesla soon felt he was not being given due credit or enough financial compensation from Edison, and a direct confrontation led to him immediately resigning, after which he was reduced to working as a labourer for a few years to make ends meet. But Tesla was not the first to advocate AC. The system was being atrialed in many European countries, with considerable success. One of the converts to the cause was a university-trained electrical engineer named George Westinghouse, and he was willing to invest in the idea. He formed a company and purchased the patents to AC-based transformer technology from its European inventors, as well those to Tesla's AC polyphase electric motor, among others. This eventually led to him hiring Tesla himself to help commercialise AC, and promote it as a better system. A bitter feud, known as the `War of Currents' was set to begin. Edison first strike was to claim that high-voltage systems were too dangerous to use. Certainly they were dangerous, but Westinghouse countered that such risks could be minimised and were considerably outweighed by the benefits. Edison's next strike was to use his influence on various American state governments to limit power transmission to low voltages, effectively eliminating AC from the competition. When this failed, Edison was prepared to conduct public electrocutions of animals by AC -- even on a rogue elephant no longer wanted by its circus owners. In the battle of public opinion, this was even filmed. The next logical step was to show AC's deadliness on human beings themselves. Edison, realising that he was losing the war, again used his influence on government, this time to promote the use of AC for the execution of prisoners. Thus, in 1890, the first `electric chair' was constructed in anticipation of an impending death sentence. Westinghouse countered by hiring the best lawyers of the day to defend the prisoner in question, as well as to prevent the system of execution. Although he failed in both respects, the results were unexpected. Despite a botched execution and the horror of the spectators, the electric chair would remain, but AC would not be stigmatised as the killer Edison's had hoped. Meanwhile, AC's range and efficiency saw Westinghouse being given high prestige engineering projects, such as the Ames Hydro-electric Generating Plant (1891), and another one on Niagara Falls, culminating in the greatest public relations victory in 1893: the contract to illuminate the Columbian Exposition in Chicago. Here, Tesla and Westinghouse showed the wonders of AC power with various electrical exhibits, such as fluorescent lamps and Tesla's AC motors, to an awestruck audience and widespread press attention. After that, the war was effectively won, and AC would take over almost completely."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Reading Passage Two.",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage Two.\nAC or DC: The War of Currents\nElectricity can be delivered in either alternating current (AC), or direct current\n(DC), and in the late 1880s in America, with electricity delivery in its infancy, it\ninitially seemed clear which system was superior. Thomas Edison, a home-\ngrown American inventor, heavily favoured DC from the start. Yet the\nlimitations of his system would become increasingly obvious, as would the\nadvantages of AC, and despite Edison’s best eﬀorts, his crusade would\nultimately be lost.\nIn 1879, Edison’s team at Menlo Park had improved the electric light bulb, but\nEdison needed an eﬃcient electricity distribution system to capitalise on this.\nThus, in 1880, he founded the Edison Illuminating Company and constructed a\ngenerating station providing 110 volts of direct current. Yet such a system has\ndrawbacks. Due to the low voltage, there Hows correspondingly higher current,\nmeaning that the electrical resistance of the transmission wires signiﬁcantly\nreduces the voltage as it travels further aﬁeld. Whatever thickness of wire is\nused, there is a natural limitation in the distance over which the electricity can\nbe economically transmitted.\nThere are, however, beneﬁts to using DC. It can allow storage batteries to be\ndirectly connected to the electricity grid, giving extra power to meet sudden\nshort-term peaks of demand, or backup during breakdown of supply.\nFurthermore, during Edison’s time, there were no practical AC motors, only DC\n\nones. Also, most of the load consisted of incandescent light bulbs, which ran\nwell on DC. Perhaps most importantly, Edison had the patents (legal rights) to\nmany associated DC devices which he and his team had invented, such as\nmeters, telegraphic devices, and household machinery. Thus, the widespread\nadoption of DC across America would see him gain considerably from patent\nroyalties.\nStill, all such inventions were somewhat useless when DC electricity could only\nbe delivered to customers within a few kilometers of the generating source. To\novercome this problem, the best answer is to transform, or step-up, the voltage\nto very high levels for transmission, and then transform it down to safe levels\nfor customer use. This also allows thinner and less expensive wires, but there is\nno low-cost technology to transform voltage — unless one uses AC, and it was\nthe brilliant physicist and proliﬁc inventor, Nikola Tesla, who had extensively\nresearched this system.\nTesla, a penniless immigrant from Serbia, worked for a year at Edison’s Menlo\nlab. He had actually proposed the AC system to Edison, but Edison, an\nempirical experimenter with little formal education, dismissed it as impractical.\nTesla, with the mathematical training and formal theoretical knowledge, was\nable to understand AC’s potential, even inventing an AC polyphase electric\ninduction motor. Tesla soon felt he was not being given due credit or enough\nﬁnancial compensation from Edison, and a direct confrontation led to him\nimmediately resigning, after which he was reduced to working as a labourer for\na few years to make ends meet.\nBut Tesla was not the ﬁrst to advocate AC. The system was being atrialed in\nmany European countries, with considerable success. One of the converts to\nthe cause was a university-trained electrical engineer named George\nWestinghouse, and he was willing to invest in the idea. He formed a company\nand purchased the patents to AC-based transformer technology from its\nEuropean inventors, as well those to Tesla’s AC polyphase electric motor,\namong others. This eventually led to him hiring Tesla himself to help\ncommercialise AC, and promote it as a better system. A bitter feud, known as\nthe ‘War of Currents’ was set to begin.\nEdison ﬁrst strike was to claim that high-voltage systems were too dangerous\nto use. Certainly they were dangerous, but Westinghouse countered that such\nrisks could be minimised and were considerably outweighed by the beneﬁts.\nEdison’s next strike was to use his inﬂuence on various American state\ngovernments to limit power transmission to low voltages, eﬀectively\neliminating AC from the competition. When this failed, Edison was prepared to\nconduct public electrocutions of animals by AC — even on a rogue elephant no\n\nlonger wanted by its circus owners. In the battle of public opinion, this was\neven filmed.\nThe next logical step was to show AC’s deadliness on human beings\nthemselves. Edison, realising that he was losing the war, again used his\ninﬂuence on government, this time to promote the use of AC for the execution\nof prisoners. Thus, in 1890, the ﬁrst ‘electric chair’ was constructed in\nanticipation of an impending death sentence. Westinghouse countered by\nhiring the best lawyers of the day to defend the prisoner in question, as well as\nto prevent the system of execution. Although he failed in both respects, the\nresults were unexpected. Despite a botched execution and the horror of the\nspectators, the electric chair would remain, but AC would not be stigmatised as\nthe killer Edison’s had hoped.\nMeanwhile, AC’s range and eﬃciency saw Westinghouse being given high\nprestige engineering projects, such as the Ames Hydro-electric Generating\nPlant (1891), and another one on Niagara Falls, culminating in the greatest\npublic relations victory in 1893: the contract to illuminate the Columbian\nExposition in Chicago. Here, Tesla and Westinghouse showed the wonders of\nAC power with various electrical exhibits, such as fluorescent lamps and Tesla’s\nAC motors, to an awestruck audience and widespread press attention. After\nthat, the war was effectively won, and AC would take over almost completely.",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 8,
-            "rows": [
-              [
-                "Advantages",
-                "Disadvantages"
-              ],
-              [
-                "14\nSupply can be supplemented with",
-                "Wire resistance lowers the\n15"
-              ],
-              [
-                "16\ncould power motors (only sort\navailable then)",
-                "Supply distance is limited."
-              ],
-              [
-                "gave Edison income",
-                "Wires used are thick and\n17"
-              ]
-            ],
-            "header": [
-              "Advantages",
-              "Disadvantages"
-            ]
+            "label": null,
+            "text": "AC or DC: The War of Currents"
+          },
+          {
+            "label": null,
+            "text": "Electricity can be delivered in either alternating current (AC), or direct current\n(DC), and in the late 1880s in America, with electricity delivery in its infancy, it\ninitially seemed clear which system was superior. Thomas Edison, a home-\ngrown American inventor, heavily favoured DC from the start. Yet the\nlimitations of his system would become increasingly obvious, as would the\nadvantages of AC, and despite Edison's best eﬀorts, his crusade would\nultimately be lost."
+          },
+          {
+            "label": null,
+            "text": "In 1879, Edison's team at Menlo Park had improved the electric light bulb, but\nEdison needed an eﬃcient electricity distribution system to capitalise on this.\nThus, in 1880, he founded the Edison Illuminating Company and constructed a\ngenerating station providing 110 volts of direct current. Yet such a system has\ndrawbacks. Due to the low voltage, there Hows correspondingly higher current,\nmeaning that the electrical resistance of the transmission wires signiﬁcantly\nreduces the voltage as it travels further aﬁeld. Whatever thickness of wire is\nused, there is a natural limitation in the distance over which the electricity can\nbe economically transmitted."
+          },
+          {
+            "label": null,
+            "text": "There are, however, beneﬁts to using DC. It can allow storage batteries to be\ndirectly connected to the electricity grid, giving extra power to meet sudden\nshort-term peaks of demand, or backup during breakdown of supply.\nFurthermore, during Edison's time, there were no practical AC motors, only DC"
+          },
+          {
+            "label": null,
+            "text": "ones. Also, most of the load consisted of incandescent light bulbs, which ran\nwell on DC. Perhaps most importantly, Edison had the patents (legal rights) to\nmany associated DC devices which he and his team had invented, such as\nmeters, telegraphic devices, and household machinery. Thus, the widespread\nadoption of DC across America would see him gain considerably from patent\nroyalties."
+          },
+          {
+            "label": null,
+            "text": "Still, all such inventions were somewhat useless when DC electricity could only\nbe delivered to customers within a few kilometers of the generating source. To\novercome this problem, the best answer is to transform, or step-up, the voltage\nto very high levels for transmission, and then transform it down to safe levels\nfor customer use. This also allows thinner and less expensive wires, but there is\nno low-cost technology to transform voltage - unless one uses AC, and it was\nthe brilliant physicist and proliﬁc inventor, Nikola Tesla, who had extensively\nresearched this system."
+          },
+          {
+            "label": null,
+            "text": "Tesla, a penniless immigrant from Serbia, worked for a year at Edison's Menlo\nlab. He had actually proposed the AC system to Edison, but Edison, an\nempirical experimenter with little formal education, dismissed it as impractical.\nTesla, with the mathematical training and formal theoretical knowledge, was\nable to understand AC's potential, even inventing an AC polyphase electric\ninduction motor. Tesla soon felt he was not being given due credit or enough\nﬁnancial compensation from Edison, and a direct confrontation led to him\nimmediately resigning, after which he was reduced to working as a labourer for\na few years to make ends meet."
+          },
+          {
+            "label": null,
+            "text": "But Tesla was not the ﬁrst to advocate AC. The system was being atrialed in\nmany European countries, with considerable success. One of the converts to\nthe cause was a university-trained electrical engineer named George\nWestinghouse, and he was willing to invest in the idea. He formed a company\nand purchased the patents to AC-based transformer technology from its\nEuropean inventors, as well those to Tesla's AC polyphase electric motor,\namong others. This eventually led to him hiring Tesla himself to help\ncommercialise AC, and promote it as a better system. A bitter feud, known as\nthe 'War of Currents' was set to begin."
+          },
+          {
+            "label": null,
+            "text": "Edison ﬁrst strike was to claim that high-voltage systems were too dangerous\nto use. Certainly they were dangerous, but Westinghouse countered that such\nrisks could be minimised and were considerably outweighed by the beneﬁts.\nEdison's next strike was to use his inﬂuence on various American state\ngovernments to limit power transmission to low voltages, eﬀectively\neliminating AC from the competition. When this failed, Edison was prepared to\nconduct public electrocutions of animals by AC - even on a rogue elephant no"
+          },
+          {
+            "label": null,
+            "text": "longer wanted by its circus owners. In the battle of public opinion, this was\neven filmed."
+          },
+          {
+            "label": null,
+            "text": "The next logical step was to show AC's deadliness on human beings\nthemselves. Edison, realising that he was losing the war, again used his\ninﬂuence on government, this time to promote the use of AC for the execution\nof prisoners. Thus, in 1890, the ﬁrst 'electric chair' was constructed in\nanticipation of an impending death sentence. Westinghouse countered by\nhiring the best lawyers of the day to defend the prisoner in question, as well as\nto prevent the system of execution. Although he failed in both respects, the\nresults were unexpected. Despite a botched execution and the horror of the\nspectators, the electric chair would remain, but AC would not be stigmatised as\nthe killer Edison's had hoped."
+          },
+          {
+            "label": null,
+            "text": "Meanwhile, AC's range and eﬃciency saw Westinghouse being given high\nprestige engineering projects, such as the Ames Hydro-electric Generating\nPlant (1891), and another one on Niagara Falls, culminating in the greatest\npublic relations victory in 1893: the contract to illuminate the Columbian\nExposition in Chicago. Here, Tesla and Westinghouse showed the wonders of\nAC power with various electrical exhibits, such as fluorescent lamps and Tesla's\nAC motors, to an awestruck audience and widespread press attention. After\nthat, the war was effectively won, and AC would take over almost completely."
           }
         ],
+        "text": "AC or DC: The War of Currents\n\nElectricity can be delivered in either alternating current (AC), or direct current\n(DC), and in the late 1880s in America, with electricity delivery in its infancy, it\ninitially seemed clear which system was superior. Thomas Edison, a home-\ngrown American inventor, heavily favoured DC from the start. Yet the\nlimitations of his system would become increasingly obvious, as would the\nadvantages of AC, and despite Edison's best eﬀorts, his crusade would\nultimately be lost.\n\nIn 1879, Edison's team at Menlo Park had improved the electric light bulb, but\nEdison needed an eﬃcient electricity distribution system to capitalise on this.\nThus, in 1880, he founded the Edison Illuminating Company and constructed a\ngenerating station providing 110 volts of direct current. Yet such a system has\ndrawbacks. Due to the low voltage, there Hows correspondingly higher current,\nmeaning that the electrical resistance of the transmission wires signiﬁcantly\nreduces the voltage as it travels further aﬁeld. Whatever thickness of wire is\nused, there is a natural limitation in the distance over which the electricity can\nbe economically transmitted.\n\nThere are, however, beneﬁts to using DC. It can allow storage batteries to be\ndirectly connected to the electricity grid, giving extra power to meet sudden\nshort-term peaks of demand, or backup during breakdown of supply.\nFurthermore, during Edison's time, there were no practical AC motors, only DC\n\nones. Also, most of the load consisted of incandescent light bulbs, which ran\nwell on DC. Perhaps most importantly, Edison had the patents (legal rights) to\nmany associated DC devices which he and his team had invented, such as\nmeters, telegraphic devices, and household machinery. Thus, the widespread\nadoption of DC across America would see him gain considerably from patent\nroyalties.\n\nStill, all such inventions were somewhat useless when DC electricity could only\nbe delivered to customers within a few kilometers of the generating source. To\novercome this problem, the best answer is to transform, or step-up, the voltage\nto very high levels for transmission, and then transform it down to safe levels\nfor customer use. This also allows thinner and less expensive wires, but there is\nno low-cost technology to transform voltage - unless one uses AC, and it was\nthe brilliant physicist and proliﬁc inventor, Nikola Tesla, who had extensively\nresearched this system.\n\nTesla, a penniless immigrant from Serbia, worked for a year at Edison's Menlo\nlab. He had actually proposed the AC system to Edison, but Edison, an\nempirical experimenter with little formal education, dismissed it as impractical.\nTesla, with the mathematical training and formal theoretical knowledge, was\nable to understand AC's potential, even inventing an AC polyphase electric\ninduction motor. Tesla soon felt he was not being given due credit or enough\nﬁnancial compensation from Edison, and a direct confrontation led to him\nimmediately resigning, after which he was reduced to working as a labourer for\na few years to make ends meet.\n\nBut Tesla was not the ﬁrst to advocate AC. The system was being atrialed in\nmany European countries, with considerable success. One of the converts to\nthe cause was a university-trained electrical engineer named George\nWestinghouse, and he was willing to invest in the idea. He formed a company\nand purchased the patents to AC-based transformer technology from its\nEuropean inventors, as well those to Tesla's AC polyphase electric motor,\namong others. This eventually led to him hiring Tesla himself to help\ncommercialise AC, and promote it as a better system. A bitter feud, known as\nthe 'War of Currents' was set to begin.\n\nEdison ﬁrst strike was to claim that high-voltage systems were too dangerous\nto use. Certainly they were dangerous, but Westinghouse countered that such\nrisks could be minimised and were considerably outweighed by the beneﬁts.\nEdison's next strike was to use his inﬂuence on various American state\ngovernments to limit power transmission to low voltages, eﬀectively\neliminating AC from the competition. When this failed, Edison was prepared to\nconduct public electrocutions of animals by AC - even on a rogue elephant no\n\nlonger wanted by its circus owners. In the battle of public opinion, this was\neven filmed.\n\nThe next logical step was to show AC's deadliness on human beings\nthemselves. Edison, realising that he was losing the war, again used his\ninﬂuence on government, this time to promote the use of AC for the execution\nof prisoners. Thus, in 1890, the ﬁrst 'electric chair' was constructed in\nanticipation of an impending death sentence. Westinghouse countered by\nhiring the best lawyers of the day to defend the prisoner in question, as well as\nto prevent the system of execution. Although he failed in both respects, the\nresults were unexpected. Despite a botched execution and the horror of the\nspectators, the electric chair would remain, but AC would not be stigmatised as\nthe killer Edison's had hoped.\n\nMeanwhile, AC's range and eﬃciency saw Westinghouse being given high\nprestige engineering projects, such as the Ames Hydro-electric Generating\nPlant (1891), and another one on Niagara Falls, culminating in the greatest\npublic relations victory in 1893: the contract to illuminate the Columbian\nExposition in Chicago. Here, Tesla and Westinghouse showed the wonders of\nAC power with various electrical exhibits, such as fluorescent lamps and Tesla's\nAC motors, to an awestruck audience and widespread press attention. After\nthat, the war was effectively won, and AC would take over almost completely.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": "Direct Current. Advantages and Disadvantages table. Advantage 'Supply can be supplemented with [[14]]' / Disadvantage 'Wire resistance lowers the [[15]]'. Advantage 'could power [[16]] motors (only sort available then)' / Disadvantage 'Supply distance is limited.'. Advantage 'gave Edison income' / Disadvantage 'Wires used are thick and [[17]]'.",
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "fill-in-blank-from-list",
+          "instruction": "Choose THREE answers from the list and write the correct letter, A- F, next to the questions. Which THREE strategies, A-F, did Edison use to discredit AC current?",
+          "body": null,
+          "range": [
+            18,
+            20
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Hired lawyers",
+              "Pressured politicians",
+              "Invented many DC devices",
+              "Used movie cameras",
+              "Scared people",
+              "Invented the electric chair"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "matching-features",
+          "instruction": "Answer the questions. Choose the correct letter, A, B, or C. Who:",
+          "body": null,
+          "range": [
+            21,
+            26
+          ],
+          "optionBank": {
+            "title": "People",
+            "options": [
+              "A",
+              "B",
+              "C"
+            ],
+            "labels": [
+              "Edison and Tesla",
+              "Edison and Westinghouse",
+              "Tesla and Westinghouse"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "storage batteries",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(the) voltage significantly",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "DC",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "expensive",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,D,E",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,D,E",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "fill-in-blank-from-list",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,D,E",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "favoured AC?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "started a company?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "had a face-to-face fight?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "invented many devices?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "owned many patents?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-features",
+          "groupId": "p2g3",
+          "prompt": "was well educated?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Reading Passage Three.",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3\nYou should spend about 20 minutes on Questions 27-40, which are based on\nReading Passage Three.\nThe International Space Station\nJust before sunrise, on a clear night, look up, and you may be able to see it\ntravelling steadily across the dark starry sky. It will take about four minutes to\npass — too fast to be a planet, too slow to be a shooting star. What is it, then?\nIt is the International Space Station (ISS), on one of its 15 orbits per day. The\nsun’s light has lit it up while you still remain in night’s darkness, but don’t\ndiscount that white dot as something inconsequential. About $100 billion has\nbeen spent on it so far, and it will need much more money by the time it\nceases operation, sometime after 2025.\nThis enormous cost could not, of course, be paid by one nation. The ISS was\nnecessarily a joint eﬀort by no less than ﬁve diﬀerent space agencies:\nAmerica’s NASA, Russia’s RKA, Canada’s CSA, Japan’s JAXA, and the European\nequivalent, ESA. Similarly, with the diﬃculty in ferrying payloads into this\nenvironment, a project of the scale of the ISS could not be a ready-made\nstation (such as the earliest varieties). The ISS was built module by module,\neach ﬂown into space and then intricately connected—eventually becoming in\nappearance an awkward conglomeration, yet when viewed with our planet\nEarth in the background, a grand and inspiring monument to humankind’s\ningenuity.\nSuch a construction would immediately break to pieces under the inﬂuence of\nany gravity — but, of course, being in orbit, this force is not felt. The station is\n\nconstantly freefalling under Earth’s gravitational pull, yet never hitting the\nplanet due to the station’s lateral velocity. This will, however, not continue\nforever. With its low-earth trajectory, there is an aerodynamic drag from the\nfaint atmosphere through which the station continually ploughs. This results in\na small yet steady and perceptible loss of speed, and consequent orbital\ndecay. Contributing to this loss are, surprisingly, tidal forces. Being so large\nand loosely connected, the parts of the ISS further from the Earth ﬂex more\nthan the parts closer, using up energy.\nThe largest component of the ISS is the Truss Structure, a non-pressurised ten-\nsegment spine, upon which are connected the station’s extensive solar arrays\nat one end, and thermal radiators towards the centre. Perpendicular to this are\nthe pressurised modules. The station actually began with one of these: Zarya,\nﬁrst launched in 1998. Only two weeks later, Unity was directly attached to\nthis, its most notable feature being the protruding Cupola — a large seven-\nwindowed viewing room, absolutely essential for the psychological wellbeing of\nthe crew. It took almost two more years before Zvezda was attached to Zarya’s\nopposite end. Later, the Truss Structure was fixed to the Unity Module, followed\nby the Harmony Module beyond that.\nThe station’s interior is no less complicated, and with a six-member crew\nstaying onboard for up to six months, the life-support systems are crucial.\nBeing in the airless and deadly vacuum of space, it goes without saying that\natmospheric control — that is, maintaining a stable Earth-like atmosphere — is\nthe most important element. This has, in fact, always presented the greatest\nchallenge in spacecraft design. In 1967, the Apollo 1 craft experimented with\npure oxygen, to its regret. Although this allowed a lower air pressure (better\nfrom an engineering standpoint), it more easily fuels combustion. A random\nspark started a ﬁre which raced through the craft, killing all three crew\nmembers, after which the experiment has never been tried again.\nThe ISS’s main source of oxygen is the ‘ Elektron’ system, which uses an\nelectric current to break apart water molecules. The oxygen produced is\nvented into the pressurised modules, while the other by-product, hydrogen, is\nvented into space. This system generates enough supplies for a six-member\ncrew, although it has proven notoriously unreliable, so much that the\nemergency backups have been regularly required: bottled oxygen (ferried up\nby unmanned supply craft), a solid-fuel oxygen generator, and a chemical one,\nin the Zvezda and Zarya Modules, respectively. Their output is circulated with\nstrong (and noisy) fans, without which the air around immobile astronauts\nwould stagnate. A bubble of their own exhaled carbon dioxide would form,\nleaving them oxygen-deprived and struggling to breathe.\n\nThis indicates that life on the ISS is no pleasure cruise. The close and cramped\nquarters, the awkward and uncomfortable facilities, the strict eating, hygiene,\nand two-hour-per-day exercise protocols, the dizziness and fatigue induced in\nthat weightless environment, and the long workday of maintenance and\nscientiﬁc experiments, all create a diﬃcult life. It is this, and the human\nisolation, that can particularly strain relationships and aggravate tensions. And\nif this was not enough, there is a direct physical risk from solar radiation due to\nthe periodic ﬂares that erupt from the sun’s surface. As one returning crew\nmember said, “It’s an interesting place for a visit, but you wouldn’t want to live\nthere.”",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 13,
-            "rows": [
-              [
-                "Effect/Incident",
-                "One cause",
-                "Another Cause"
-              ],
-              [
-                "ISS slowing down",
-                "aerodynamic drag",
-                "38"
-              ]
-            ],
-            "header": [
-              "Effect/Incident",
-              "One cause",
-              "Another Cause"
-            ]
+            "label": null,
+            "text": "The International Space Station"
           },
           {
-            "page": 14,
-            "rows": [
-              [
-                "Apollo 1 fire",
-                "39",
-                "random spark"
-              ],
-              [
-                "ISS crew-member stress",
-                "difficult life",
-                "40"
-              ]
-            ],
-            "header": [
-              "Apollo 1 fire",
-              "39",
-              "random spark"
-            ]
+            "label": null,
+            "text": "Just before sunrise, on a clear night, look up, and you may be able to see it\ntravelling steadily across the dark starry sky. It will take about four minutes to\npass - too fast to be a planet, too slow to be a shooting star. What is it, then?\nIt is the International Space Station (ISS), on one of its 15 orbits per day. The\nsun's light has lit it up while you still remain in night's darkness, but don't\ndiscount that white dot as something inconsequential. About $100 billion has\nbeen spent on it so far, and it will need much more money by the time it\nceases operation, sometime after 2025."
+          },
+          {
+            "label": null,
+            "text": "This enormous cost could not, of course, be paid by one nation. The ISS was\nnecessarily a joint eﬀort by no less than ﬁve diﬀerent space agencies:\nAmerica's NASA, Russia's RKA, Canada's CSA, Japan's JAXA, and the European\nequivalent, ESA. Similarly, with the diﬃculty in ferrying payloads into this\nenvironment, a project of the scale of the ISS could not be a ready-made\nstation (such as the earliest varieties). The ISS was built module by module,\neach ﬂown into space and then intricately connected-eventually becoming in\nappearance an awkward conglomeration, yet when viewed with our planet\nEarth in the background, a grand and inspiring monument to humankind's\ningenuity."
+          },
+          {
+            "label": null,
+            "text": "Such a construction would immediately break to pieces under the inﬂuence of\nany gravity - but, of course, being in orbit, this force is not felt. The station is"
+          },
+          {
+            "label": null,
+            "text": "constantly freefalling under Earth's gravitational pull, yet never hitting the\nplanet due to the station's lateral velocity. This will, however, not continue\nforever. With its low-earth trajectory, there is an aerodynamic drag from the\nfaint atmosphere through which the station continually ploughs. This results in\na small yet steady and perceptible loss of speed, and consequent orbital\ndecay. Contributing to this loss are, surprisingly, tidal forces. Being so large\nand loosely connected, the parts of the ISS further from the Earth ﬂex more\nthan the parts closer, using up energy."
+          },
+          {
+            "label": null,
+            "text": "The largest component of the ISS is the Truss Structure, a non-pressurised ten-\nsegment spine, upon which are connected the station's extensive solar arrays\nat one end, and thermal radiators towards the centre. Perpendicular to this are\nthe pressurised modules. The station actually began with one of these: Zarya,\nﬁrst launched in 1998. Only two weeks later, Unity was directly attached to\nthis, its most notable feature being the protruding Cupola - a large seven-\nwindowed viewing room, absolutely essential for the psychological wellbeing of\nthe crew. It took almost two more years before Zvezda was attached to Zarya's\nopposite end. Later, the Truss Structure was fixed to the Unity Module, followed\nby the Harmony Module beyond that."
+          },
+          {
+            "label": null,
+            "text": "The station's interior is no less complicated, and with a six-member crew\nstaying onboard for up to six months, the life-support systems are crucial.\nBeing in the airless and deadly vacuum of space, it goes without saying that\natmospheric control - that is, maintaining a stable Earth-like atmosphere - is\nthe most important element. This has, in fact, always presented the greatest\nchallenge in spacecraft design. In 1967, the Apollo 1 craft experimented with\npure oxygen, to its regret. Although this allowed a lower air pressure (better\nfrom an engineering standpoint), it more easily fuels combustion. A random\nspark started a ﬁre which raced through the craft, killing all three crew\nmembers, after which the experiment has never been tried again."
+          },
+          {
+            "label": null,
+            "text": "The ISS's main source of oxygen is the ' Elektron' system, which uses an\nelectric current to break apart water molecules. The oxygen produced is\nvented into the pressurised modules, while the other by-product, hydrogen, is\nvented into space. This system generates enough supplies for a six-member\ncrew, although it has proven notoriously unreliable, so much that the\nemergency backups have been regularly required: bottled oxygen (ferried up\nby unmanned supply craft), a solid-fuel oxygen generator, and a chemical one,\nin the Zvezda and Zarya Modules, respectively. Their output is circulated with\nstrong (and noisy) fans, without which the air around immobile astronauts\nwould stagnate. A bubble of their own exhaled carbon dioxide would form,\nleaving them oxygen-deprived and struggling to breathe."
+          },
+          {
+            "label": null,
+            "text": "This indicates that life on the ISS is no pleasure cruise. The close and cramped\nquarters, the awkward and uncomfortable facilities, the strict eating, hygiene,\nand two-hour-per-day exercise protocols, the dizziness and fatigue induced in\nthat weightless environment, and the long workday of maintenance and\nscientiﬁc experiments, all create a diﬃcult life. It is this, and the human\nisolation, that can particularly strain relationships and aggravate tensions. And\nif this was not enough, there is a direct physical risk from solar radiation due to\nthe periodic ﬂares that erupt from the sun's surface. As one returning crew\nmember said, \"It's an interesting place for a visit, but you wouldn't want to live\nthere.\""
           }
         ],
+        "text": "The International Space Station\n\nJust before sunrise, on a clear night, look up, and you may be able to see it\ntravelling steadily across the dark starry sky. It will take about four minutes to\npass - too fast to be a planet, too slow to be a shooting star. What is it, then?\nIt is the International Space Station (ISS), on one of its 15 orbits per day. The\nsun's light has lit it up while you still remain in night's darkness, but don't\ndiscount that white dot as something inconsequential. About $100 billion has\nbeen spent on it so far, and it will need much more money by the time it\nceases operation, sometime after 2025.\n\nThis enormous cost could not, of course, be paid by one nation. The ISS was\nnecessarily a joint eﬀort by no less than ﬁve diﬀerent space agencies:\nAmerica's NASA, Russia's RKA, Canada's CSA, Japan's JAXA, and the European\nequivalent, ESA. Similarly, with the diﬃculty in ferrying payloads into this\nenvironment, a project of the scale of the ISS could not be a ready-made\nstation (such as the earliest varieties). The ISS was built module by module,\neach ﬂown into space and then intricately connected-eventually becoming in\nappearance an awkward conglomeration, yet when viewed with our planet\nEarth in the background, a grand and inspiring monument to humankind's\ningenuity.\n\nSuch a construction would immediately break to pieces under the inﬂuence of\nany gravity - but, of course, being in orbit, this force is not felt. The station is\n\nconstantly freefalling under Earth's gravitational pull, yet never hitting the\nplanet due to the station's lateral velocity. This will, however, not continue\nforever. With its low-earth trajectory, there is an aerodynamic drag from the\nfaint atmosphere through which the station continually ploughs. This results in\na small yet steady and perceptible loss of speed, and consequent orbital\ndecay. Contributing to this loss are, surprisingly, tidal forces. Being so large\nand loosely connected, the parts of the ISS further from the Earth ﬂex more\nthan the parts closer, using up energy.\n\nThe largest component of the ISS is the Truss Structure, a non-pressurised ten-\nsegment spine, upon which are connected the station's extensive solar arrays\nat one end, and thermal radiators towards the centre. Perpendicular to this are\nthe pressurised modules. The station actually began with one of these: Zarya,\nﬁrst launched in 1998. Only two weeks later, Unity was directly attached to\nthis, its most notable feature being the protruding Cupola - a large seven-\nwindowed viewing room, absolutely essential for the psychological wellbeing of\nthe crew. It took almost two more years before Zvezda was attached to Zarya's\nopposite end. Later, the Truss Structure was fixed to the Unity Module, followed\nby the Harmony Module beyond that.\n\nThe station's interior is no less complicated, and with a six-member crew\nstaying onboard for up to six months, the life-support systems are crucial.\nBeing in the airless and deadly vacuum of space, it goes without saying that\natmospheric control - that is, maintaining a stable Earth-like atmosphere - is\nthe most important element. This has, in fact, always presented the greatest\nchallenge in spacecraft design. In 1967, the Apollo 1 craft experimented with\npure oxygen, to its regret. Although this allowed a lower air pressure (better\nfrom an engineering standpoint), it more easily fuels combustion. A random\nspark started a ﬁre which raced through the craft, killing all three crew\nmembers, after which the experiment has never been tried again.\n\nThe ISS's main source of oxygen is the ' Elektron' system, which uses an\nelectric current to break apart water molecules. The oxygen produced is\nvented into the pressurised modules, while the other by-product, hydrogen, is\nvented into space. This system generates enough supplies for a six-member\ncrew, although it has proven notoriously unreliable, so much that the\nemergency backups have been regularly required: bottled oxygen (ferried up\nby unmanned supply craft), a solid-fuel oxygen generator, and a chemical one,\nin the Zvezda and Zarya Modules, respectively. Their output is circulated with\nstrong (and noisy) fans, without which the air around immobile astronauts\nwould stagnate. A bubble of their own exhaled carbon dioxide would form,\nleaving them oxygen-deprived and struggling to breathe.\n\nThis indicates that life on the ISS is no pleasure cruise. The close and cramped\nquarters, the awkward and uncomfortable facilities, the strict eating, hygiene,\nand two-hour-per-day exercise protocols, the dizziness and fatigue induced in\nthat weightless environment, and the long workday of maintenance and\nscientiﬁc experiments, all create a diﬃcult life. It is this, and the human\nisolation, that can particularly strain relationships and aggravate tensions. And\nif this was not enough, there is a direct physical risk from solar radiation due to\nthe periodic ﬂares that erupt from the sun's surface. As one returning crew\nmember said, \"It's an interesting place for a visit, but you wouldn't want to live\nthere.\"",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth?",
+          "body": "[[27]] What does the ISS physically look like from space? [[28]] What forced the five space agencies to work together on the ISS? [[29]] What were the original space stations like? [[30]] What stops the ISS from striking the Earth? [[31]]",
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+          "body": null,
+          "range": [
+            32,
+            37
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-practice-test-volume-4_reading-practice-test-1-v9-1532747/p3g2-1.png",
+              "w": 982,
+              "h": 178
+            },
+            {
+              "src": "assets/crops/ielts-practice-test-volume-4_reading-practice-test-1-v9-1532747/p3g2-2.png",
+              "w": 982,
+              "h": 349
+            }
+          ],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "table-completion",
+          "instruction": "Complete the table by giving the cause of each effect or incident. Choose NO MORE THAN TWO WORDS from the passage for each cause.",
+          "body": "Effect/Incident, One cause, and Another cause table. ISS slowing down: One cause 'aerodynamic drag', Another cause '[[38]]'. Apollo 1 fire: One cause '[[39]]', Another cause 'random spark'. ISS crew-member stress: One cause 'difficult life', Another cause '[[40]]'.",
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 27,
+          "type": "fill-in-blank",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "white dot",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "fill-in-blank",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "awkward conglomeration",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "fill-in-blank",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "enormous cost",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "fill-in-blank",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "ready-made",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "fill-in-blank",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "lateral velocity",
+          "trap": null
+        },
         {
           "number": 32,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "solar arrays"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "solar arrays",
+          "trap": null
         },
         {
           "number": 33,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "Harmony (module)"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Harmony (module)",
+          "trap": null
         },
         {
           "number": 34,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "hydrogen"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "hydrogen",
+          "trap": null
         },
         {
           "number": 35,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "Unity (module)"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Unity (module)",
+          "trap": null
         },
         {
           "number": 36,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "Zvezda (module)"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Zvezda (module)",
+          "trap": null
         },
         {
           "number": 37,
           "type": "diagram-label",
-          "prompt": "Complete the table by giving cause of each effect or incident. Choose NO MORE THAN TWO WORDS from the passage for each cause. Effect/Incident One cause",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
-          "answer": "chemical"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "chemical",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "tidal forces",
+          "trap": null
         },
         {
           "number": 39,
-          "type": "diagram-label",
-          "prompt": "random spark ISS crew-member stress difficult life",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer. Complete the table by giving cause of each effect or incident. Choose NO MORE THAN TWO WORDS from the passage for each cause. Effect/Incident One cause Another Cause ISS slowing down aerodynamic drag 38",
-          "answer": "pure oxygen"
+          "type": "table-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "pure oxygen",
+          "trap": null
         },
         {
           "number": 40,
-          "type": "diagram-label",
+          "type": "table-completion",
+          "groupId": "p3g3",
           "prompt": "",
-          "instruction": "Answer the questions. Choose NO MORE THAN TWO WORDS from the passage for each answer. What does the ISS physically look like from Earth? 27 What does the ISS physically look like from space? 28 What forced the five space agencies to work together on the ISS? 29 What were the original space stations like? 30 What stops the ISS from striking the Earth? 31 Label the diagram with specific terms. Choose NO MORE THAN TWO WORDS from the passage for each answer. Complete the table by giving cause of each effect or incident. Choose NO MORE THAN TWO WORDS from the passage for each cause. Effect/Incident One cause Another Cause ISS slowing down aerodynamic drag 38",
-          "answer": "human isolation"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "human isolation",
+          "trap": null
         }
       ]
     }
@@ -325,7 +1038,7 @@
     "15": "(the) voltage significantly",
     "16": "DC",
     "17": "expensive",
-    "20": "B,D,E",
+    "18": "B,D,E",
     "21": "C",
     "22": "B",
     "23": "A",
@@ -345,6 +1058,8 @@
     "37": "chemical",
     "38": "tidal forces",
     "39": "pure oxygen",
-    "40": "human isolation"
+    "40": "human isolation",
+    "19": "B,D,E",
+    "20": "B,D,E"
   }
 }

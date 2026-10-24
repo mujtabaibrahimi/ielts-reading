@@ -1,0 +1,29 @@
+{
+  "p2g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 18-21 are present); cannot transcribe without inventing."
+  },
+  "p3g1": {
+    "instruction": "Label the diagram below, which explains the mechanism and working principles of a roller coaster. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 27-30 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "Traditional roller coasters' lifting force depends on a long line of ______ for climbing up"
+      },
+      "28": {
+        "prompt": "which is connected firmly to a ______ shape track"
+      },
+      "29": {
+        "prompt": "There are both ______ on the top and underneath the hill"
+      },
+      "30": {
+        "prompt": "and it is powered by a ______ when it takes a turn."
+      }
+    }
+  },
+  "p3g2": {
+    "body": "wrapped up by [[31]] , which was introduced into France, and it was modified to [[32]] , because temperature there would [[33]] the ice. This time [[34]] were installed on the board. In America, the first roller coaster was said to appear in Pennsylvania, it was actually a railroad which was designed to send [[35]] between two mountains. Josiah White turned it into a thrill ride, it was also called switch back track and a [[36]] there allowed riders to slide downward back again."
+  },
+  "_answers": {
+    "33": "melt"
+  }
+}

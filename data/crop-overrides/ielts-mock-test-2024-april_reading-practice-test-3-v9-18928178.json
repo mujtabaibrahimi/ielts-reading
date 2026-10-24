@@ -1,0 +1,93 @@
+{
+  "p1g1": {
+    "instruction": "Label the diagram below. Choose FIVE answers from the box and write the correct letter, A-G, next to questions 1-5.",
+    "optionBank": {
+      "title": "Labels",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "labels": [
+        "Nozzle",
+        "Liquid Oxidiser",
+        "Combustion Chamber",
+        "Pump",
+        "Fuel",
+        "Hydrogen Gas",
+        "Thrust"
+      ]
+    },
+    "questions": {
+      "1": {
+        "prompt": "Bipropellant Rocket, label 1: the smaller tank at the front",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "2": {
+        "prompt": "Bipropellant Rocket, label 2: the larger tank behind it",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "3": {
+        "prompt": "Bipropellant Rocket, label 3: the two parts on the lines between the tanks and the engine (two arrows)",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "4": {
+        "prompt": "Bipropellant Rocket, label 4: the narrow dark section just before the cone at the rear",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "5": {
+        "prompt": "Bipropellant Rocket, label 5: the large cone at the rear",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    }
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the flow-chart below. Write NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 32-37 on your answer sheet.",
+    "body": "Rex's Journey. Stage 1: Convinced parents to [[32]] his wish to travel. Stage 2: Headed to Asia and the Far East full of [[33]]. Stage 3: Soon came to the conclusion that what he was experiencing was [[34]] rather than authentic. Stage 4: Abandoned his travels and made his way to Greece for a few days, intending to return [[35]] afterwards. Stage 5: Had a lucky encounter in Corfu that led to a two-month stay with a family in Kefalonia. Stage 6: Enjoyed a very authentic experience there, away from the [[36]] which had spoilt his prior travels. Stage 7: Returned to England for the [[37]] as, once the season had started, busloads of tourists began to arrive."
+  }
+}

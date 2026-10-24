@@ -1,0 +1,93 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the flowchart below. Choose NO MORE THAN TWO WORDS from Reading Passage 2 for each answer. Write your answers in boxes 21-24 on your answer sheet.",
+    "body": "Flowchart. Stage 1: Agreement about the [[21]] offered by implementing TPM. Stage 2: Nomination/ establish of [[22]]. Stage 3: Education and training of workforce. Stage 4: Creation of [[23]]. Stage 5: Emergence of [[24]] to head group."
+  },
+  "p2g3": {
+    "instruction": "Label the diagram below using words from the box below. USE EACH CHOICE ONCE ONLY. Write the correct letter, A-I, in boxes 25-28 on your answer sheet.",
+    "optionBank": {
+      "title": "Labels",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "labels": [
+        "Overall equipment effectiveness",
+        "% uptime",
+        "$000s / quarter",
+        "Machine maintenance costs",
+        "% downtime",
+        "$000s / month",
+        "Employee costs",
+        "Wasted resources",
+        "Hours spent cleaning maintaining machinery"
+      ]
+    },
+    "questions": {
+      "25": {
+        "prompt": "Top graph (red line rising from about 70 in 1996 to about 90 in 1999): label of the vertical axis",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "26": {
+        "prompt": "Top graph (red line rising): title above the graph",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "27": {
+        "prompt": "Bottom graph (blue line falling from about 80 in 1996 to about 50 in 1999): label of the vertical axis",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "28": {
+        "prompt": "Bottom graph (blue line falling): title above the graph",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    }
+  }
+}

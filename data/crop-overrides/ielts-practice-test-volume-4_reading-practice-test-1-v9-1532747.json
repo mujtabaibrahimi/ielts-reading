@@ -1,0 +1,26 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "body": "Insect, One Fact, and Another Fact table. Grasshoppers: One fact 'contain [[5]]', Another fact 'popular in [[6]]'. Mopane worms: One fact 'primarily eaten by [[7]]', Another fact 'eat [[8]]'. Scorpions: One fact 'are popular in [[9]]', Another fact 'are a type of [[10]]'."
+  },
+  "p2g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "body": "Direct Current. Advantages and Disadvantages table. Advantage 'Supply can be supplemented with [[14]]' / Disadvantage 'Wire resistance lowers the [[15]]'. Advantage 'could power [[16]] motors (only sort available then)' / Disadvantage 'Supply distance is limited.'. Advantage 'gave Edison income' / Disadvantage 'Wires used are thick and [[17]]'."
+  },
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Complete the table by giving the cause of each effect or incident. Choose NO MORE THAN TWO WORDS from the passage for each cause.",
+    "body": "Effect/Incident, One cause, and Another cause table. ISS slowing down: One cause 'aerodynamic drag', Another cause '[[38]]'. Apollo 1 fire: One cause '[[39]]', Another cause 'random spark'. ISS crew-member stress: One cause 'difficult life', Another cause '[[40]]'."
+  },
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 32-37 are present); cannot transcribe without inventing."
+  },
+  "_answers": {
+    "18": "B,D,E",
+    "19": "B,D,E",
+    "20": "B,D,E"
+  }
+}

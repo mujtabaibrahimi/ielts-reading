@@ -1,209 +1,1597 @@
 {
   "id": "master-ielts-general-training-volume-2_reading-practice-test-2-v9-1885731",
   "type": "general",
-  "source": "master-ielts-general-training-volume-2 reading-practice-test-2-v9-1885731",
+  "title": "Master IELTS General Training Volume 2 - Reading Test 2",
+  "collection": "Master IELTS General Training Volume 2",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 2,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-2_reading-practice-test-2-v9-1885731.pdf",
-  "total_questions": 9,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Community business cards",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nCommunity business cards",
-        "tables": [
+        "heading": "TEXT 1",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "C - GOOD MANNERS DOG TRAINING Dog daycare\n& training centre\n• Small classes for all ages\n• Positive methods\n• Qualified trainer\n• Classes in Westland & hills\nEnquirie>: 9244 4056 or 5419 924 133\nWeb: www.goodmanners.net.au",
-                "D - CLEANING\nA-TOP CLEANING\nCarpet steam cleaning\nWindow cleaning\n28 yrs\nOwner operator\nPhone: 4419 924 575"
-              ],
-              [
-                "E - BUILDING SERVICES GCH CONSTRUCTION\nGreg, qualified tradesman\nBricklaying & limestone\nPaving & concrete\nBuilding maintenance\nRenovations & new homes\n6423 233 058\ngchconstruction@bigpond.com",
-                "F - AIR CONDITIONING &\nGAS\nMarkham Air & Appliances Pty\nLtd\nSplit system installations\nAir-conditioning service &\nrepairs\nAppliance service & repair\n(gas & electric)\nPhone: 4468 118 491\nEftpos available"
-              ]
-            ],
-            "header": [
-              "C - GOOD MANNERS DOG TRAINING Dog daycare\n& training centre\n• Small classes for all ages\n• Positive methods\n• Qualified trainer\n• Classes in Westland & hills\nEnquirie>: 9244 4056 or 5419 924 133\nWeb: www.goodmanners.net.au",
-              "D - CLEANING\nA-TOP CLEANING\nCarpet steam cleaning\nWindow cleaning\n28 yrs\nOwner operator\nPhone: 4419 924 575"
-            ]
+            "label": null,
+            "text": "Community business cards"
+          },
+          {
+            "label": null,
+            "text": "Read the advertisements below and answer questions 1-4."
+          },
+          {
+            "label": null,
+            "text": "COMMUNITY BUSINESS CARDS"
+          },
+          {
+            "label": null,
+            "text": "B - DRY CLEANERS"
+          },
+          {
+            "label": null,
+            "text": "For quality & friendly service"
+          },
+          {
+            "label": null,
+            "text": "A - HAIRDRESSING"
+          },
+          {
+            "label": null,
+            "text": "- Wedding & evening dresses"
+          },
+          {
+            "label": null,
+            "text": "Ginger's Unisex Hair Studio"
+          },
+          {
+            "label": null,
+            "text": "- Duvets & blankets"
+          },
+          {
+            "label": null,
+            "text": "SPECIAL"
+          },
+          {
+            "label": null,
+            "text": "- Curtains"
+          },
+          {
+            "label": null,
+            "text": "Wed & Thurs only"
+          },
+          {
+            "label": null,
+            "text": "- Woollens/silks etc."
+          },
+          {
+            "label": null,
+            "text": "Colour/Foils & Blow-wave and"
+          },
+          {
+            "label": null,
+            "text": "- Alterations and mending"
+          },
+          {
+            "label": null,
+            "text": "Receive a FREE Haircut"
+          },
+          {
+            "label": null,
+            "text": "Phone 9244 0000"
+          },
+          {
+            "label": null,
+            "text": "Enquiries to 9489 8888"
+          },
+          {
+            "label": null,
+            "text": "Shop 1, Mundaring Shopping"
+          },
+          {
+            "label": null,
+            "text": "Shop 5 Smith Arcade"
+          },
+          {
+            "label": null,
+            "text": "Centre"
+          },
+          {
+            "label": null,
+            "text": "104 Old Northern Hwy, Northland"
+          },
+          {
+            "label": null,
+            "text": "700 Great Eastern Highway,"
+          },
+          {
+            "label": null,
+            "text": "Mundaring"
+          },
+          {
+            "label": null,
+            "text": "C - GOOD MANNERS DOG TRAINING Dog daycare\n& training centre"
+          },
+          {
+            "label": null,
+            "text": "D - CLEANING"
+          },
+          {
+            "label": null,
+            "text": "A-TOP CLEANING"
+          },
+          {
+            "label": null,
+            "text": "- Small classes for all ages"
+          },
+          {
+            "label": null,
+            "text": "Carpet steam cleaning"
+          },
+          {
+            "label": null,
+            "text": "- Positive methods"
+          },
+          {
+            "label": null,
+            "text": "Window cleaning"
+          },
+          {
+            "label": null,
+            "text": "- Qualified trainer"
+          },
+          {
+            "label": null,
+            "text": "28 yrs"
+          },
+          {
+            "label": null,
+            "text": "- Classes in Westland & hills"
+          },
+          {
+            "label": null,
+            "text": "Owner operator"
+          },
+          {
+            "label": null,
+            "text": "Enquirie>: 9244 4056 or 5419 924 133"
+          },
+          {
+            "label": null,
+            "text": "Phone: 4419 924 575"
+          },
+          {
+            "label": null,
+            "text": "Web: www.goodmanners.net.au"
+          },
+          {
+            "label": null,
+            "text": "F - AIR CONDITIONING &\nGAS"
+          },
+          {
+            "label": null,
+            "text": "E - BUILDING SERVICES GCH CONSTRUCTION"
+          },
+          {
+            "label": null,
+            "text": "Markham Air & Appliances Pty\nLtd"
+          },
+          {
+            "label": null,
+            "text": "Greg, qualified tradesman"
+          },
+          {
+            "label": null,
+            "text": "Bricklaying & limestone"
+          },
+          {
+            "label": null,
+            "text": "Split system installations"
+          },
+          {
+            "label": null,
+            "text": "Paving & concrete"
+          },
+          {
+            "label": null,
+            "text": "Air-conditioning service &\nrepairs"
+          },
+          {
+            "label": null,
+            "text": "Building maintenance"
+          },
+          {
+            "label": null,
+            "text": "Renovations & new homes"
+          },
+          {
+            "label": null,
+            "text": "Appliance service & repair\n(gas & electric)"
+          },
+          {
+            "label": null,
+            "text": "6423 233 058"
+          },
+          {
+            "label": null,
+            "text": "Phone: 4468 118 491"
+          },
+          {
+            "label": null,
+            "text": "gchconstruction@bigpond.com"
+          },
+          {
+            "label": null,
+            "text": "Eftpos available"
+          },
+          {
+            "label": null,
+            "text": "Read the texts below and answer questions 5-10."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "HIGHLIGHTS OF PERU SIGHTSEEING HIGHLIGHTS"
+          },
+          {
+            "label": null,
+            "text": "- Lima Discover the city's colonial sights, including the expansive Plaza San Martin and\nits impressive cathedral and government palace; visit the Church of San Francisco and\nits catacombs."
+          },
+          {
+            "label": null,
+            "text": "- Sacred Valley Visit Awanakancha and meet llamas, vicunas and alpacas; pick up some\nhandicrafts at the lively Pisac market; explore the massive Inca fortress of\nOllantayambo."
+          },
+          {
+            "label": null,
+            "text": "- The Vistadome Ride aboard the Vistadome train to Machu Picchu; enjoy large\npanoramic windows, first-class service and a light meal."
+          },
+          {
+            "label": null,
+            "text": "INSIDER HIGHLIGHTS"
+          },
+          {
+            "label": null,
+            "text": "- Hidden Treasures Enjoy at least one surprise Hidden Treasure experience, unique to\nyour itinerary, courtesy of your expert tour director."
+          },
+          {
+            "label": null,
+            "text": "- Be My Guest Join Doctor Francisco Diez Canseco Tavara, the descendant of an old\nPeruvian family, for a welcome reception and typical Peruvian lunch; visit the beautiful\nestate and learn about the Diez\nCanseco family's and Peru's history."
+          },
+          {
+            "label": null,
+            "text": "- Machu Picchu Immerse yourself in the history and atmosphere of this UNESCO World\nHeritage Site on a guided tour and during free time for independent exploration."
+          },
+          {
+            "label": null,
+            "text": "- Cusco Delve into the city's Inca and Spanish colonial past; explore the Plaza de Armas;\nvisit the Church of Santo Domingo and Korikancha or Temple of the Sun; explore the\ncitadel of Sacsayhuaman and nearby shrines and Inca warehouses."
+          },
+          {
+            "label": null,
+            "text": "- Audio headsets For all guided visits and included sightseeing."
+          },
+          {
+            "label": null,
+            "text": "- Local speciality Visit a weaving centre in the Sacred Valley to watch artisan weavers\nat work; on the way to Cusco, visit a chicheria and taste chichi, the traditional Andean\ncorn beer."
+          },
+          {
+            "label": null,
+            "text": "- Local expert Meet Kike Pinto, founder and Director of the Museum of Andean and\nAmazon Musical Instruments, for a presentation on Andean instruments and music in\nCusco."
+          },
+          {
+            "label": null,
+            "text": "DINING HIGHLIGHTS"
+          },
+          {
+            "label": null,
+            "text": "- Welcome reception with your tour director in Lima"
+          },
+          {
+            "label": null,
+            "text": "- 7 full breakfasts"
+          },
+          {
+            "label": null,
+            "text": "- 1 picnic box lunch"
+          },
+          {
+            "label": null,
+            "text": "- 2 three-course dinners"
+          },
+          {
+            "label": null,
+            "text": "- farewell dinner with wine and folklore show in Cusco"
+          },
+          {
+            "label": null,
+            "text": "- Be My Guest with wine in Lima"
+          },
+          {
+            "label": null,
+            "text": "CLASS HIGHLIGHTS"
+          },
+          {
+            "label": null,
+            "text": "- Includes all first-class features"
+          },
+          {
+            "label": null,
+            "text": "- A Trafalgar bonus-all Intra-Air Flights: Lima to Cusco and Cusco to Lima, including\nporter service at all airports"
+          },
+          {
+            "label": null,
+            "text": "- Qualified local guides in Lima, the Sacred Valley, Machu Picchu and Cusco"
+          },
+          {
+            "label": null,
+            "text": "- Souvenir photo captures treasured memories of your trip with a"
+          },
+          {
+            "label": null,
+            "text": "complimentary group photo taken at a landmark location."
+          },
+          {
+            "label": null,
+            "text": "Source: Trafalgar Tours"
+          },
+          {
+            "label": null,
+            "text": "Read the texts below and answer questions 11-14."
+          },
+          {
+            "label": null,
+            "text": "SEASONAL INFLUENZA VACCINATION PROGRAM"
+          },
+          {
+            "label": null,
+            "text": "PART 1"
+          },
+          {
+            "label": null,
+            "text": "Get vaccinated"
+          },
+          {
+            "label": null,
+            "text": "Influenza, commonly known as the flu, is caused by a virus which spreads easily from\nperson to person through infected droplets in the air and by hands infected with the\nvirus."
+          },
+          {
+            "label": null,
+            "text": "The virus infects your nose, throat and, sometimes, your lungs. In most people it causes\nmild to moderate symptoms for about a week, but some people can develop severe\nillness and complications which may need to be treated in hospital and can even result\nin death."
+          },
+          {
+            "label": null,
+            "text": "Flu complications include pneumonia and bronchitis. Flu can also make some underlying\nmedical conditions worse."
+          },
+          {
+            "label": null,
+            "text": "Flu is a vaccine-preventable disease. Because the flu virus is constantly changing, it is\nnecessary to get vaccinated every year. The flu vaccine protects against the three\nstrains of the virus which are most likely to occur over the winter. Vaccination is\nrecommended in autumn to give time for immunity to develop before the flu season\nstarts. You cannot get flu from the vaccine."
+          },
+          {
+            "label": null,
+            "text": "PART 2"
+          },
+          {
+            "label": null,
+            "text": "To prevent complications from flu it is recommended that people in the eligible groups\noutlined in this brochure get vaccinated each year."
+          },
+          {
+            "label": null,
+            "text": "65 years and over"
+          },
+          {
+            "label": null,
+            "text": "People aged 65 years and over have the highest risk of complications associated with\nseasonal flu. Vaccination decreased hospitalisation and mortality rates by up to 50 per\ncent."
+          },
+          {
+            "label": null,
+            "text": "Indigenous people"
+          },
+          {
+            "label": null,
+            "text": "Respiratory diseases are major causes of preventable sickness and death in Indigenous\npeople. All Indigenous people are now eligible for the free flu vaccine from 15 years of\nage."
+          },
+          {
+            "label": null,
+            "text": "Pregnancy"
+          },
+          {
+            "label": null,
+            "text": "Pregnant women are at higher risk of severe complications associated with the virus.\nThe flu vaccine is safe for pregnant women, including in the first trimester. Vaccinating\nagainst flu during pregnancy also provides protection for the baby during the first\nvulnerable months of life."
+          },
+          {
+            "label": null,
+            "text": "People medically at risk"
+          },
+          {
+            "label": null,
+            "text": "People with some existing medical conditions are at increased risk of complication from\nflu and may now be eligible for free seasonal flu vaccine. These include anyone who is\nover six months of age and has a condition such as:"
+          },
+          {
+            "label": null,
+            "text": "- heart disease"
+          },
+          {
+            "label": null,
+            "text": "- chronic respiratory conditions"
+          },
+          {
+            "label": null,
+            "text": "- chronic illness requiring medical follow-up or hospitalisation in the past year"
+          },
+          {
+            "label": null,
+            "text": "- diseases of the neuromuscular system"
+          },
+          {
+            "label": null,
+            "text": "- impaired immunity, or"
+          },
+          {
+            "label": null,
+            "text": "- aged six months to 10 years and on long-term aspirin therapy."
+          },
+          {
+            "label": null,
+            "text": "Source: Immunise Australia Program"
           }
         ],
+        "text": "Community business cards\n\nRead the advertisements below and answer questions 1-4.\n\nCOMMUNITY BUSINESS CARDS\n\nB - DRY CLEANERS\n\nFor quality & friendly service\n\nA - HAIRDRESSING\n\n- Wedding & evening dresses\n\nGinger's Unisex Hair Studio\n\n- Duvets & blankets\n\nSPECIAL\n\n- Curtains\n\nWed & Thurs only\n\n- Woollens/silks etc.\n\nColour/Foils & Blow-wave and\n\n- Alterations and mending\n\nReceive a FREE Haircut\n\nPhone 9244 0000\n\nEnquiries to 9489 8888\n\nShop 1, Mundaring Shopping\n\nShop 5 Smith Arcade\n\nCentre\n\n104 Old Northern Hwy, Northland\n\n700 Great Eastern Highway,\n\nMundaring\n\nC - GOOD MANNERS DOG TRAINING Dog daycare\n& training centre\n\nD - CLEANING\n\nA-TOP CLEANING\n\n- Small classes for all ages\n\nCarpet steam cleaning\n\n- Positive methods\n\nWindow cleaning\n\n- Qualified trainer\n\n28 yrs\n\n- Classes in Westland & hills\n\nOwner operator\n\nEnquirie>: 9244 4056 or 5419 924 133\n\nPhone: 4419 924 575\n\nWeb: www.goodmanners.net.au\n\nF - AIR CONDITIONING &\nGAS\n\nE - BUILDING SERVICES GCH CONSTRUCTION\n\nMarkham Air & Appliances Pty\nLtd\n\nGreg, qualified tradesman\n\nBricklaying & limestone\n\nSplit system installations\n\nPaving & concrete\n\nAir-conditioning service &\nrepairs\n\nBuilding maintenance\n\nRenovations & new homes\n\nAppliance service & repair\n(gas & electric)\n\n6423 233 058\n\nPhone: 4468 118 491\n\ngchconstruction@bigpond.com\n\nEftpos available\n\nRead the texts below and answer questions 5-10.\n\nTEXT 2\n\nHIGHLIGHTS OF PERU SIGHTSEEING HIGHLIGHTS\n\n- Lima Discover the city's colonial sights, including the expansive Plaza San Martin and\nits impressive cathedral and government palace; visit the Church of San Francisco and\nits catacombs.\n\n- Sacred Valley Visit Awanakancha and meet llamas, vicunas and alpacas; pick up some\nhandicrafts at the lively Pisac market; explore the massive Inca fortress of\nOllantayambo.\n\n- The Vistadome Ride aboard the Vistadome train to Machu Picchu; enjoy large\npanoramic windows, first-class service and a light meal.\n\nINSIDER HIGHLIGHTS\n\n- Hidden Treasures Enjoy at least one surprise Hidden Treasure experience, unique to\nyour itinerary, courtesy of your expert tour director.\n\n- Be My Guest Join Doctor Francisco Diez Canseco Tavara, the descendant of an old\nPeruvian family, for a welcome reception and typical Peruvian lunch; visit the beautiful\nestate and learn about the Diez\nCanseco family's and Peru's history.\n\n- Machu Picchu Immerse yourself in the history and atmosphere of this UNESCO World\nHeritage Site on a guided tour and during free time for independent exploration.\n\n- Cusco Delve into the city's Inca and Spanish colonial past; explore the Plaza de Armas;\nvisit the Church of Santo Domingo and Korikancha or Temple of the Sun; explore the\ncitadel of Sacsayhuaman and nearby shrines and Inca warehouses.\n\n- Audio headsets For all guided visits and included sightseeing.\n\n- Local speciality Visit a weaving centre in the Sacred Valley to watch artisan weavers\nat work; on the way to Cusco, visit a chicheria and taste chichi, the traditional Andean\ncorn beer.\n\n- Local expert Meet Kike Pinto, founder and Director of the Museum of Andean and\nAmazon Musical Instruments, for a presentation on Andean instruments and music in\nCusco.\n\nDINING HIGHLIGHTS\n\n- Welcome reception with your tour director in Lima\n\n- 7 full breakfasts\n\n- 1 picnic box lunch\n\n- 2 three-course dinners\n\n- farewell dinner with wine and folklore show in Cusco\n\n- Be My Guest with wine in Lima\n\nCLASS HIGHLIGHTS\n\n- Includes all first-class features\n\n- A Trafalgar bonus-all Intra-Air Flights: Lima to Cusco and Cusco to Lima, including\nporter service at all airports\n\n- Qualified local guides in Lima, the Sacred Valley, Machu Picchu and Cusco\n\n- Souvenir photo captures treasured memories of your trip with a\n\ncomplimentary group photo taken at a landmark location.\n\nSource: Trafalgar Tours\n\nRead the texts below and answer questions 11-14.\n\nSEASONAL INFLUENZA VACCINATION PROGRAM\n\nPART 1\n\nGet vaccinated\n\nInfluenza, commonly known as the flu, is caused by a virus which spreads easily from\nperson to person through infected droplets in the air and by hands infected with the\nvirus.\n\nThe virus infects your nose, throat and, sometimes, your lungs. In most people it causes\nmild to moderate symptoms for about a week, but some people can develop severe\nillness and complications which may need to be treated in hospital and can even result\nin death.\n\nFlu complications include pneumonia and bronchitis. Flu can also make some underlying\nmedical conditions worse.\n\nFlu is a vaccine-preventable disease. Because the flu virus is constantly changing, it is\nnecessary to get vaccinated every year. The flu vaccine protects against the three\nstrains of the virus which are most likely to occur over the winter. Vaccination is\nrecommended in autumn to give time for immunity to develop before the flu season\nstarts. You cannot get flu from the vaccine.\n\nPART 2\n\nTo prevent complications from flu it is recommended that people in the eligible groups\noutlined in this brochure get vaccinated each year.\n\n65 years and over\n\nPeople aged 65 years and over have the highest risk of complications associated with\nseasonal flu. Vaccination decreased hospitalisation and mortality rates by up to 50 per\ncent.\n\nIndigenous people\n\nRespiratory diseases are major causes of preventable sickness and death in Indigenous\npeople. All Indigenous people are now eligible for the free flu vaccine from 15 years of\nage.\n\nPregnancy\n\nPregnant women are at higher risk of severe complications associated with the virus.\nThe flu vaccine is safe for pregnant women, including in the first trimester. Vaccinating\nagainst flu during pregnancy also provides protection for the baby during the first\nvulnerable months of life.\n\nPeople medically at risk\n\nPeople with some existing medical conditions are at increased risk of complication from\nflu and may now be eligible for free seasonal flu vaccine. These include anyone who is\nover six months of age and has a condition such as:\n\n- heart disease\n\n- chronic respiratory conditions\n\n- chronic illness requiring medical follow-up or hospitalisation in the past year\n\n- diseases of the neuromuscular system\n\n- impaired immunity, or\n\n- aged six months to 10 years and on long-term aspirin therapy.\n\nSource: Immunise Australia Program",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-features",
+          "instruction": "The business cards above are from a Local shop noticeboard. They offer local services. Look at the six business cards, A-F. For which card are the following statements true? Write the correct letter, A-F, in boxes 1-4 on your answer sheet. Note: you may use any letter more than once. Which service provides daycare? 1 Which service is provided at a local shopping centre?. 2 Which three services provide improvements to the home? (Ex: A,B,C) 3 Which service offers something free? 4",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-2_reading-practice-test-2-v9-1885731/p1g1.png",
+              "w": 982,
+              "h": 701
+            }
+          ],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "sentence-completion",
+          "instruction": "Do the following statements agree with the information in the travel guide? In boxes 5-10 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": "[[5]] The capital city of Peru, Lima, is the main highlight of the tour. Guests will travel by train to Machu Picchu. [[6]] [[7]] Guests will have the opportunity to meet a descendant of an old Peruvian family. [[8]] Kike Pinto is a local expert musician who plays traditional Andean instruments. [[9]] The farewell dinner will include a range of traditional Peruvian food. [[10]] A souvenir group photo can be purchased at the end of the tour.",
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS for the text for each answer. Write your answers in boxes 11-14 on your answer sheet. Influenza is a virus which is easily spread from person to person via",
+          "body": "infected droplets in the air and by [[11]] with the virus. It is necessary to [[12]] against influenza because the virus is constantly changing. The influenza virus can lead to medical complications such as [[13]] , or can make existing medical conditions worse. It is recommended that vaccination take place in autumn so that [[14]] before the winter flu season starts.",
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D,E,F",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-features",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "The capital city of Peru, Lima, is the main highlight of",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Guests will travel by train to Machu Picchu.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Guests will have the opportunity to meet a descendant",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "Kike Pinto is a local expert musician who plays",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "The farewell dinner will include a range of traditional",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "sentence-completion",
+          "groupId": "p1g2",
+          "prompt": "A souvenir group photo can be purchased at the end\nof the tour.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "hands infected",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "get vaccinated",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "pneumonia and/or bronchitis",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "before the winter flu season starts.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "immunity can develop",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Guard against burnout!",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        21
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nGuard against burnout!",
-        "tables": [
+        "heading": "TEXT 1",
+        "paragraphs": [
           {
-            "page": 10,
-            "rows": [
-              [
-                "one week. Some items in",
-                ""
-              ],
-              [
-                "high demand may have restricted (shorter) borrowing periods.\nII\nBorrowed items should be returned on or before their due date. If you do not return\nitems on time you will not be able to borrow until they are returned. It is your\nresponsibility to ensure all items are returned in good condition. You will be invoiced for\nlost or damaged items.\nMost items may be renewed once, provided they are not overdue or required by other\nborrowers. This may be done at the library or on the phone.\nIll\nYou may reserve items currently on loan or at another Polytechnic West campus by\nasking library staff to place a hold for you.\nPolytechnic West students are entitled to borrow resources from most other T AFE\ncolleges and from Murdoch, Notre Dame and Edith Cowan universities. Students can\napply direct to their choice of host institution for reciprocal borrowing.\nYou will need to take:\n• Current enrolment form from Polytechnic West\n• Current student/library ID card\nIV\nThe library has reference resources to help you find the information you need. These are\nthe Not For Loan items. Staff can also show you a range of online databases and\ninternet sites relevant to your area of\nstudy via the library website. The library website provides online access to the library\ncatalogue, interactive tours, surf skills, help sheets, referencing and subject guides,\nuseful websites and search engines, and full-text journal and newspaper articles from\nour online databases. Click on the 'Databases' link to access databases including:\nAustralian Standards, Building Code of Australia, Ebsco, General OneFile, Learning\nFederation, Netlibrary (E-books), Oxford Dictionary, Proquest and World Book.\nV\nComputers and an MFD (for printing) are available in the library for students to use for\nstudy purposes. These computers provide access to online databases and the internet.\nA range of software applications found in the classrooms are also available on the\nlibrary computers. Please book a computer before use. Write your student ID number\non the booking sheet in the time slot for the computer you wish to use. Each computer\nis numbered.\nPrinting, photocopying and scanning are available in the library. You can print/\nphotocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the\nPrint Cell.",
-                null
-              ]
-            ],
-            "header": [
-              "one week. Some items in",
-              ""
-            ]
+            "label": null,
+            "text": "Guard against burnout!"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 15-21."
+          },
+          {
+            "label": null,
+            "text": "GUARD AGAINST BURNOUT!"
+          },
+          {
+            "label": null,
+            "text": "Burnout doesn't just affect people in the workforce-high school students who feel bored,\noverwhelmed and overworked can also be at risk."
+          },
+          {
+            "label": null,
+            "text": "A Finnish study looking at burnout in students found it was linked to high expectations\nof school demands, feeling cynical about school work and feeling inadequate as a\nstudent. But being prepared, studying well and having reasonable expectations about\nresults could help avoid burnout."
+          },
+          {
+            "label": null,
+            "text": "Department of Education psychologist Penelope Radunovich said that there were ways\nto avoid burning out before the final exams."
+          },
+          {
+            "label": null,
+            "text": "The first was to set up a good study environment. While some students could study\nwhile talking to someone and with the TV blaring, others needed perfect silence."
+          },
+          {
+            "label": null,
+            "text": "Ms Radunovich said students needed to work out what worked for them. She said the\nmost important thing for students to do was to make sure they understood the material."
+          },
+          {
+            "label": null,
+            "text": "'Spend 30 minutes studying, learning and understanding, then take 10 minutes to\nquestion yourself,' she said."
+          },
+          {
+            "label": null,
+            "text": "'Say do I understand this? Could I tell my mother or a stranger or my friends what I\nhave been doing? If there is nobody to explain it to, do it out loud and, if you don't\nunderstand it, go over it again."
+          },
+          {
+            "label": null,
+            "text": "'If you can explain what you've learnt, then you have understood.'"
+          },
+          {
+            "label": null,
+            "text": "Parents can help prevent burnout by keeping an eye on their children and how much\nstudy they are doing. If a Year 12 student is becoming cynical about their work or they\nlook like they are studying to the point of exhaus_tion, then she suggests chatting to\nthem or offering to ake them to the movies and away from the study environment."
+          },
+          {
+            "label": null,
+            "text": "'I asked kids about burnout and they said some people do feel burnt out and, when they\nget to that point, they stop working and go do some exercise or have a snack, listen to\nsome music or talk to their friends,' she said."
+          },
+          {
+            "label": null,
+            "text": "'The kids who do really well are the ones who do a lot of other things.'"
+          },
+          {
+            "label": null,
+            "text": "Source: Megan Bailey, the West Australian, 10 August 2011"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2 CAMPUS LIBRARY INFORMATION"
+          },
+          {
+            "label": "I",
+            "text": "All students are automatically registered as Library members. Your Student ID card is\nyour library card and printing/photocopying charge card. Student ID cards are available\nfrom the library; cost $5.00."
+          },
+          {
+            "label": null,
+            "text": "You are entitled to borrow up to 6 items at any one time, two of which can be videos,\nDVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for"
+          },
+          {
+            "label": null,
+            "text": "one week. Some items in\nhigh demand may have restricted (shorter) borrowing periods."
+          },
+          {
+            "label": null,
+            "text": "II"
+          },
+          {
+            "label": null,
+            "text": "Borrowed items should be returned on or before their due date. If you do not return\nitems on time you will not be able to borrow until they are returned. It is your\nresponsibility to ensure all items are returned in good condition. You will be invoiced for\nlost or damaged items."
+          },
+          {
+            "label": null,
+            "text": "Most items may be renewed once, provided they are not overdue or required by other\nborrowers. This may be done at the library or on the phone."
+          },
+          {
+            "label": null,
+            "text": "Ill"
+          },
+          {
+            "label": null,
+            "text": "You may reserve items currently on loan or at another Polytechnic West campus by\nasking library staff to place a hold for you."
+          },
+          {
+            "label": null,
+            "text": "Polytechnic West students are entitled to borrow resources from most other T AFE\ncolleges and from Murdoch, Notre Dame and Edith Cowan universities. Students can\napply direct to their choice of host institution for reciprocal borrowing."
+          },
+          {
+            "label": null,
+            "text": "You will need to take:"
+          },
+          {
+            "label": null,
+            "text": "- Current enrolment form from Polytechnic West"
+          },
+          {
+            "label": null,
+            "text": "- Current student/library ID card"
+          },
+          {
+            "label": null,
+            "text": "IV"
+          },
+          {
+            "label": null,
+            "text": "The library has reference resources to help you find the information you need. These are\nthe Not For Loan items. Staff can also show you a range of online databases and\ninternet sites relevant to your area of\nstudy via the library website. The library website provides online access to the library\ncatalogue, interactive tours, surf skills, help sheets, referencing and subject guides,\nuseful websites and search engines, and full-text journal and newspaper articles from\nour online databases. Click on the 'Databases' link to access databases including:\nAustralian Standards, Building Code of Australia, Ebsco, General OneFile, Learning\nFederation, Netlibrary (E-books), Oxford Dictionary, Proquest and World Book."
+          },
+          {
+            "label": "V",
+            "text": "Computers and an MFD (for printing) are available in the library for students to use for\nstudy purposes. These computers provide access to online databases and the internet."
+          },
+          {
+            "label": null,
+            "text": "A range of software applications found in the classrooms are also available on the\nlibrary computers. Please book a computer before use. Write your student ID number\non the booking sheet in the time slot for the computer you wish to use. Each computer\nis numbered."
+          },
+          {
+            "label": null,
+            "text": "Printing, photocopying and scanning are available in the library. You can print/\nphotocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the\nPrint Cell."
+          },
+          {
+            "label": null,
+            "text": "VI\nPostal loans and off-campus library services are available for external students. Contact\nyour relevant library for further details."
+          },
+          {
+            "label": null,
+            "text": "VII"
+          },
+          {
+            "label": null,
+            "text": "The library website provides online access to the library catalogue, interactive tours,\nsurf skills, help sheets, referencing and subject guides, useful websites and search\nengines, and full-text journal and newspaper articles from our online databases. Click\non the 'Databases' link to access databases including: Australian Standards, Building\nCode of Australia, Ebsco, General OneFile, Learning Federation, Netlibrary (E-books),\nOxford Dictionary, Proquest and World Book. The library catalogue is a database of the\nresources held by Training WA libraries and Department of Training library. You can\nlimit your search to items located at your campus, or within all Polytechnic West\nlibraries."
+          },
+          {
+            "label": null,
+            "text": "Source: Campus Library Services,"
+          },
+          {
+            "label": null,
+            "text": "Polytechnic West, Perth"
           }
         ],
+        "text": "Guard against burnout!\n\nRead the text below and answer questions 15-21.\n\nGUARD AGAINST BURNOUT!\n\nBurnout doesn't just affect people in the workforce-high school students who feel bored,\noverwhelmed and overworked can also be at risk.\n\nA Finnish study looking at burnout in students found it was linked to high expectations\nof school demands, feeling cynical about school work and feeling inadequate as a\nstudent. But being prepared, studying well and having reasonable expectations about\nresults could help avoid burnout.\n\nDepartment of Education psychologist Penelope Radunovich said that there were ways\nto avoid burning out before the final exams.\n\nThe first was to set up a good study environment. While some students could study\nwhile talking to someone and with the TV blaring, others needed perfect silence.\n\nMs Radunovich said students needed to work out what worked for them. She said the\nmost important thing for students to do was to make sure they understood the material.\n\n'Spend 30 minutes studying, learning and understanding, then take 10 minutes to\nquestion yourself,' she said.\n\n'Say do I understand this? Could I tell my mother or a stranger or my friends what I\nhave been doing? If there is nobody to explain it to, do it out loud and, if you don't\nunderstand it, go over it again.\n\n'If you can explain what you've learnt, then you have understood.'\n\nParents can help prevent burnout by keeping an eye on their children and how much\nstudy they are doing. If a Year 12 student is becoming cynical about their work or they\nlook like they are studying to the point of exhaus_tion, then she suggests chatting to\nthem or offering to ake them to the movies and away from the study environment.\n\n'I asked kids about burnout and they said some people do feel burnt out and, when they\nget to that point, they stop working and go do some exercise or have a snack, listen to\nsome music or talk to their friends,' she said.\n\n'The kids who do really well are the ones who do a lot of other things.'\n\nSource: Megan Bailey, the West Australian, 10 August 2011\n\nRead the text below and answer questions 22-27.\n\nTEXT 2 CAMPUS LIBRARY INFORMATION\n\nAll students are automatically registered as Library members. Your Student ID card is\nyour library card and printing/photocopying charge card. Student ID cards are available\nfrom the library; cost $5.00.\n\nYou are entitled to borrow up to 6 items at any one time, two of which can be videos,\nDVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for\n\none week. Some items in\nhigh demand may have restricted (shorter) borrowing periods.\n\nII\n\nBorrowed items should be returned on or before their due date. If you do not return\nitems on time you will not be able to borrow until they are returned. It is your\nresponsibility to ensure all items are returned in good condition. You will be invoiced for\nlost or damaged items.\n\nMost items may be renewed once, provided they are not overdue or required by other\nborrowers. This may be done at the library or on the phone.\n\nIll\n\nYou may reserve items currently on loan or at another Polytechnic West campus by\nasking library staff to place a hold for you.\n\nPolytechnic West students are entitled to borrow resources from most other T AFE\ncolleges and from Murdoch, Notre Dame and Edith Cowan universities. Students can\napply direct to their choice of host institution for reciprocal borrowing.\n\nYou will need to take:\n\n- Current enrolment form from Polytechnic West\n\n- Current student/library ID card\n\nIV\n\nThe library has reference resources to help you find the information you need. These are\nthe Not For Loan items. Staff can also show you a range of online databases and\ninternet sites relevant to your area of\nstudy via the library website. The library website provides online access to the library\ncatalogue, interactive tours, surf skills, help sheets, referencing and subject guides,\nuseful websites and search engines, and full-text journal and newspaper articles from\nour online databases. Click on the 'Databases' link to access databases including:\nAustralian Standards, Building Code of Australia, Ebsco, General OneFile, Learning\nFederation, Netlibrary (E-books), Oxford Dictionary, Proquest and World Book.\n\nComputers and an MFD (for printing) are available in the library for students to use for\nstudy purposes. These computers provide access to online databases and the internet.\n\nA range of software applications found in the classrooms are also available on the\nlibrary computers. Please book a computer before use. Write your student ID number\non the booking sheet in the time slot for the computer you wish to use. Each computer\nis numbered.\n\nPrinting, photocopying and scanning are available in the library. You can print/\nphotocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the\nPrint Cell.\n\nVI\nPostal loans and off-campus library services are available for external students. Contact\nyour relevant library for further details.\n\nVII\n\nThe library website provides online access to the library catalogue, interactive tours,\nsurf skills, help sheets, referencing and subject guides, useful websites and search\nengines, and full-text journal and newspaper articles from our online databases. Click\non the 'Databases' link to access databases including: Australian Standards, Building\nCode of Australia, Ebsco, General OneFile, Learning Federation, Netlibrary (E-books),\nOxford Dictionary, Proquest and World Book. The library catalogue is a database of the\nresources held by Training WA libraries and Department of Training library. You can\nlimit your search to items located at your campus, or within all Polytechnic West\nlibraries.\n\nSource: Campus Library Services,\n\nPolytechnic West, Perth",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this .",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-paragraph-information",
+          "instruction": "The passage above has seven paragraphs labelled I-VII. Which paragraphs contain the following information? Write the appropriate letter I-VII in boxes 22-27 on your answer sheet. You need only one letter for each answer, but each letter may be used in more than one answer. Example: How I can join the library ....I.....",
+          "body": null,
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
           "type": "true-false-not-given",
-          "prompt": "High school students can avoid study burnout by studying well, and by having reasonable, but not overly high, expectations of results.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "High school students can avoid study burnout by\nstudying well, and by having reasonable, but not overly high, expectations\nof results.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
-          "prompt": "It doesn ·t matter where a student decides to study, as study environment has no effect on study burnout.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "It doesn ·t matter where a student decides to study,\nas study environment has no effect on study burnout.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 17,
           "type": "true-false-not-given",
-          "prompt": "Final-year high school students experience more burnout than any other group of students.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "Final-year high school students experience more\nburnout than any other group of students.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 18,
           "type": "true-false-not-given",
-          "prompt": "One way to assess your learning is to try to explain what you have learnt to someone else.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "One way to assess your learning is to try to explain\nwhat you have learnt to someone else.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 19,
           "type": "true-false-not-given",
-          "prompt": "Successful exam students are usually those who give up other social and sports activities and focus on their study.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "Successful exam students are usually those who give\nup other social and sports activities and focus on their study.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 20,
           "type": "true-false-not-given",
-          "prompt": "If a student is studying too much, it is advised that parents offer to take him/her out, away from the study environment.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "If a student is studying too much, it is advised that\nparents offer to take him/her out, away from the study environment.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 21,
           "type": "true-false-not-given",
-          "prompt": "According to a study in Finland, students who stopped socialising with friends before exams had a higher rate of burnout. The passage above has seven paragraphs labelled I-VII. Which paragraphs contain the following information?",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 GUARD AGAINST BURNOUT! Read the text below and answer questions 22-27. TEXT 2 CAMPUS LIBRARY INFORMATION I All students are automatically registered as Library members. Your Student ID card is your library card and printing/photocopying charge card. Student ID cards are available from the library; cost $5.00. You are entitled to borrow up to 6 items at any one time, two of which can be videos, DVDs, CDs or cassettes. Books can be borrowed for 2 weeks, DVDs, CDs and videos for library computers. Please book a computer before use. Write your student ID number on the booking sheet in the time slot for the computer you wish to use. Each computer is numbered. Printing, photocopying and scanning are available in the library. You can print/ photocopy in colour or black and white, in A4 and A3 sizes. Binding is available at the Print Cell. Do the following statements agree with the information given in the text? In boxes 15-21 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "According to a study in Finland, students who stopped\nsocialising with friends before exams had a higher rate of burnout.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "What I can do if I have not finished a book by the time I\nneed to return it.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "II",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "How long I can borrow items for.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "What I should do if this particular library does not have\nthe book I need.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "III",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "What I can do if I need a book, but live too far away from\nthe library.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "VI",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "What I can do if another borrower has the book I want.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "III",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "What I can do if I would like extra help with some\nresearch, but there is nothing on the shelves.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "IV",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "Food and drink in China",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nFood and drink in China",
-        "tables": [
+        "heading": "TEXT 3",
+        "paragraphs": [
           {
-            "page": 14,
-            "rows": [
-              [
-                "can be preserved through the winter.\nAt.any rate, the Western visitor will experience a fantastic range of different foods,\nsome wonderful ( dumplings, tofu, sweet and sour soup, Mongolian hotpot, and\nhundreds more treats), and some less to Western tastes, such as 'hundred-year- old\neggs' or donkey stew. If the Westerner is overwhelmed by a desire for a more familiar\nfood, these days help is at hand.\nIn the bigger cities, though more rarely in the rural areas, there are plenty of fast- food\noutlets selling hamburgers and pizzas; there are some Italian, Indian, Japanese, Korean\nand Mexican restaurants, and also newly opened supermarkets (mostly French) that sell\nthe foods of which, in the past, homesick Westerners could only dream-for example,\nbread, cheese, milk, coffee and real chocolate.\nB",
-                ""
-              ],
-              [
-                "Chinese local dishes are said to have four, eight and ten culinary schools, depending on\nwhich authority is consulted. Canton, Shandong, Sichuan and Yangzhou make up four of\nthem: if you count Hunan, Fujian,\nAnhui and Zhejiang, you have eight culinary schools; add in Beijing and Shanghai, and\nthat makes ten. You should also try the Middle Eastern-type cooking of the Muslim\nminorities, such as the Hui and Uighur\npeople, whose roadside stalls produce wonderful (and very cheap) lamb kebabs\nwrapped in naan bread with salad and hot spicy sauce. Here are a few pointers about\nsome of the schools of cookery.\nC\nCantonese cuisine adopts the good points of all other culinary schools, and its selection\nof ingredients is extensive. River food and seafood are widely used, as well as birds,\nrats, snakes and insects. There is a saying that 'The Cantonese will eat anything with\nwings, except a plane, and anything with four legs, except a table.' Cantonese cuisine\npays attention to the use of fresh ingredients and has unique cooking methods.\nRepresentative dishes are 'three kinds of snake stewed', cat meat, snake soup,\ncasserole mountain turtle and crispy skin suckling pig.\nShandong cuisine is dominated by seafood, reflecting its nature as a peninsula\nsurrounded by the sea. Typical dishes include stewed sea cucumber with scallion,\nstewed snakehead eggs, sea slugs with crab\novum, Dezhou grilled chicken and walnut kernel in cream soup.\nSichuan cuisine is renowned for its searingly hot, peppery flavour. The varietyof tastes\nis summed up in the phrase 'a hundred dishes with a hundred flavours'.\nFamous dishes include shredded pork with fish flavour, stewed beancurd with minced\npork in pepper sauce, and dry-roast rock carp.\nThose who are not used to extremely hot food should proceed with care. The\nSichuanese use a special black pepper that leaves the lips numb-a bit frightening the\nfirst time it happens, but not unpleasant\nwhen one grows accustomed to it.",
-                null
-              ]
-            ],
-            "header": [
-              "can be preserved through the winter.\nAt.any rate, the Western visitor will experience a fantastic range of different foods,\nsome wonderful ( dumplings, tofu, sweet and sour soup, Mongolian hotpot, and\nhundreds more treats), and some less to Western tastes, such as 'hundred-year- old\neggs' or donkey stew. If the Westerner is overwhelmed by a desire for a more familiar\nfood, these days help is at hand.\nIn the bigger cities, though more rarely in the rural areas, there are plenty of fast- food\noutlets selling hamburgers and pizzas; there are some Italian, Indian, Japanese, Korean\nand Mexican restaurants, and also newly opened supermarkets (mostly French) that sell\nthe foods of which, in the past, homesick Westerners could only dream-for example,\nbread, cheese, milk, coffee and real chocolate.\nB",
-              ""
-            ]
+            "label": null,
+            "text": "Food and drink in China"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "FOOD AND DRINK IN CHINA"
+          },
+          {
+            "label": null,
+            "text": "A. Most Westerners will have tasted and enjoyed Chinese food in various forms in their\nown countries, and may even have learned the delicate art of eating with chopsticks.\nBut they may be less prepared for what the writer Colin Thubron memorably describes\nas the 'passionate relationship' of the Chinese to food. Folk memories of famine are\nrecent (the last were in the 1960s) and there are still areas where people's diet is\nlimited and poor."
+          },
+          {
+            "label": null,
+            "text": "Refrigeration is more widespread now, but the Chinese almost never eat 'ready meals';\nfood is freshly cooked for each meal, and fish, meat and poultry are often killed only a\nshort time before they are cooked. Shopping in the markets or shops is done with\nimmense gusto, and everything is prodded, shaken, sniffed and thoroughly checked\nbefore being purchased."
+          },
+          {
+            "label": null,
+            "text": "It is debatable whether, in purely Western terms, the Chinese eat a 'healthy' diet. They\neat many vegetables, things are cooked fast so that the goodness is not destroyed, and\npeople eat small quantities fairly frequently-'grazing', rather than eating huge meals at\none sitting, which is one reason why they tend to be much slimmer than people in the\nincreasingly obese West. On the other hand they use\na large amount of the very salty MSG (monosodium glutamate, or taste powder) in their\ncooking, as well as sugar; and in some regions of China there is a high incidence of\ncertain types of cancer, due to the overuse of pickling, the only way some vegetables"
+          },
+          {
+            "label": null,
+            "text": "can be preserved through the winter."
+          },
+          {
+            "label": null,
+            "text": "At.any rate, the Western visitor will experience a fantastic range of different foods,\nsome wonderful ( dumplings, tofu, sweet and sour soup, Mongolian hotpot, and\nhundreds more treats), and some less to Western tastes, such as 'hundred-year- old\neggs' or donkey stew. If the Westerner is overwhelmed by a desire for a more familiar\nfood, these days help is at hand."
+          },
+          {
+            "label": null,
+            "text": "In the bigger cities, though more rarely in the rural areas, there are plenty of fast- food\noutlets selling hamburgers and pizzas; there are some Italian, Indian, Japanese, Korean\nand Mexican restaurants, and also newly opened supermarkets (mostly French) that sell\nthe foods of which, in the past, homesick Westerners could only dream-for example,\nbread, cheese, milk, coffee and real chocolate."
+          },
+          {
+            "label": "B",
+            "text": "Chinese local dishes are said to have four, eight and ten culinary schools, depending on\nwhich authority is consulted. Canton, Shandong, Sichuan and Yangzhou make up four of\nthem: if you count Hunan, Fujian,\nAnhui and Zhejiang, you have eight culinary schools; add in Beijing and Shanghai, and\nthat makes ten. You should also try the Middle Eastern-type cooking of the Muslim\nminorities, such as the Hui and Uighur\npeople, whose roadside stalls produce wonderful (and very cheap) lamb kebabs\nwrapped in naan bread with salad and hot spicy sauce. Here are a few pointers about\nsome of the schools of cookery."
+          },
+          {
+            "label": "C",
+            "text": "Cantonese cuisine adopts the good points of all other culinary schools, and its selection\nof ingredients is extensive. River food and seafood are widely used, as well as birds,\nrats, snakes and insects. There is a saying that 'The Cantonese will eat anything with\nwings, except a plane, and anything with four legs, except a table.' Cantonese cuisine\npays attention to the use of fresh ingredients and has unique cooking methods.\nRepresentative dishes are 'three kinds of snake stewed', cat meat, snake soup,\ncasserole mountain turtle and crispy skin suckling pig."
+          },
+          {
+            "label": null,
+            "text": "Shandong cuisine is dominated by seafood, reflecting its nature as a peninsula\nsurrounded by the sea. Typical dishes include stewed sea cucumber with scallion,\nstewed snakehead eggs, sea slugs with crab\novum, Dezhou grilled chicken and walnut kernel in cream soup."
+          },
+          {
+            "label": null,
+            "text": "Sichuan cuisine is renowned for its searingly hot, peppery flavour. The varietyof tastes\nis summed up in the phrase 'a hundred dishes with a hundred flavours'."
+          },
+          {
+            "label": null,
+            "text": "Famous dishes include shredded pork with fish flavour, stewed beancurd with minced\npork in pepper sauce, and dry-roast rock carp."
+          },
+          {
+            "label": null,
+            "text": "Those who are not used to extremely hot food should proceed with care. The\nSichuanese use a special black pepper that leaves the lips numb-a bit frightening the\nfirst time it happens, but not unpleasant\nwhen one grows accustomed to it."
+          },
+          {
+            "label": null,
+            "text": "Huaiyang cuisine integrates the cream of dishes in Yangzhou, Zhenjiang, Huaian and\nother places south of the Yangtze River, stressing freshness and tenderness, careful\npreparation, cutting skill, bright colour,\nbeautiful arrangements and light flavouring."
+          },
+          {
+            "label": null,
+            "text": "Famous dishes include beggar's chicken, fried mandarin fish with sweet and sour sauce,\nsliced chicken with egg white, salted duck, steamed crab meat and minced pork balls\ncooked in a casserole."
+          },
+          {
+            "label": "D",
+            "text": "Vegetable dishes have been popular since the Song dynasty (960-1279) and they were\ngreatly developed in the Ming and Qing dynasties (1368-1911). They were divided into\nthree schools: Monastery Vegetable\nDishes, Court Vegetable Dishes and Folk Vegetable Dishes."
+          },
+          {
+            "label": null,
+            "text": "The main features of vegetable dishes are their unique style and their health benefits.\nMain materials include green leaf vegetables, fruit, edible mushrooms, and bean-curd\nproducts with vegetable oil as\na condiment, all of which are delicious in taste, rich in nutrition, easy to digest, and\nbelieved to be helpful in preventing cancer."
+          },
+          {
+            "label": "E",
+            "text": "The Chinese drink large quantities of tea (mostly 'green tea', as opposed to the 'black'\ntea that is more commonly drunk in the West) and they add no milk or sugar. Tea is\ndrunk constantly at meetings and at\nwork, less so in restaurants and at formal meals, though it is always available if asked\nfor. It is usually served in mugs with lids to keep it warm. Teabags and tea strainers are\nnot used, and drinking tea without\nswallowing a mouthful of tea leaves requires concentration: try using the lid as a\nstrainer when sipping."
+          },
+          {
+            "label": null,
+            "text": "Tea is divided into green, black, perfumed, white and Wulong tea. The most valuable\ngreen teas are Longjing and Biluochun; black tea, Qihong and Yunfeng; scented tea,\nJasmine; white tea, Yinzhenbaihao, Gongmei and Shoumei; Wulong tea, Dahongpao and\nTieguanyin. The Chinese will frequently give beautifully decorated tea caddies of special\nteas as a present."
+          },
+          {
+            "label": null,
+            "text": "Other drinks you may be offered are yellow rice wine, served hot in little porcelain cups.\nIt tastes rather like sherry. More lethal is maotai, the Chinese answer to vodka; there\nare also many light Chinese beers, as well as a growing range of Chinese wines-Great\nWall wine is perhaps the best known and has improved considerably since the\nproducers set up a joint venture with a French wine-grower. Soft drinks such as mineral\nwater and Coca Cola are available everywhere, and fruit juices made from the exotic\ntropical fruits grown in the south of China are delicious."
+          },
+          {
+            "label": "F",
+            "text": "One interesting development in the 1990s has been the re-emergence of teahouses,\ntraditionally the haunts of the intellectuals and literati, who would idle away hours in"
+          },
+          {
+            "label": null,
+            "text": "stimulating conversation or in composing poems. In workaholic, post-liberation China,\nsuch establishments were considered a decadent remnant of the feudal society. But\nwith the emergence of the five-day working week, and with more emphasis on quality\nleisure time, the traditional teahouse is once again blossoming in major cities.\nTeahouses have one thing in common: tranquillity-a precious commodity in China. The\nquiet atmosphere is broken only by leisurely music played on the zheng, a twenty-one-\nor twenty-five-stringed\nplucked instrument, in some ways similar to the zither. Conversation tends to be carried\nout in hushed tones. Teahouses are located at quiet places in beautiful surroundings,\noften near lakes; most cities\nhave several now. The teahouse has its own slot on TV, too-the British television\ncompany Granada has coproduced with Chinese TV a 230-part TV soap called Joy Luck\nStreet, based around the comings and\ngoings in a teahouse; it was inspired by the long-running British TV soap Coronation\nStreet, whose central location is a good old English pub."
+          },
+          {
+            "label": "G",
+            "text": "Among men in China, much less so among women, smoking is widespread, and at\nformal meals cigarettes are almost always offered along with the tea. Most Chinese\npeople do not seem to be at all worried about the links between smoking and health\nproblems. It is very hard to escape from\nother people's cigarettes in restaurants. Young Chinese men set on having a good night\nout can even be seen holding a lit cigarette in one hand and a pair of chopsticks in the\nother-managing to smoke and eat at the same time."
+          },
+          {
+            "label": null,
+            "text": "Source: Kathy Flower, Culture Smart!: China, 2010"
           }
         ],
+        "text": "Food and drink in China\n\nRead the text below and answer questions 28-40.\n\nFOOD AND DRINK IN CHINA\n\nA. Most Westerners will have tasted and enjoyed Chinese food in various forms in their\nown countries, and may even have learned the delicate art of eating with chopsticks.\nBut they may be less prepared for what the writer Colin Thubron memorably describes\nas the 'passionate relationship' of the Chinese to food. Folk memories of famine are\nrecent (the last were in the 1960s) and there are still areas where people's diet is\nlimited and poor.\n\nRefrigeration is more widespread now, but the Chinese almost never eat 'ready meals';\nfood is freshly cooked for each meal, and fish, meat and poultry are often killed only a\nshort time before they are cooked. Shopping in the markets or shops is done with\nimmense gusto, and everything is prodded, shaken, sniffed and thoroughly checked\nbefore being purchased.\n\nIt is debatable whether, in purely Western terms, the Chinese eat a 'healthy' diet. They\neat many vegetables, things are cooked fast so that the goodness is not destroyed, and\npeople eat small quantities fairly frequently-'grazing', rather than eating huge meals at\none sitting, which is one reason why they tend to be much slimmer than people in the\nincreasingly obese West. On the other hand they use\na large amount of the very salty MSG (monosodium glutamate, or taste powder) in their\ncooking, as well as sugar; and in some regions of China there is a high incidence of\ncertain types of cancer, due to the overuse of pickling, the only way some vegetables\n\ncan be preserved through the winter.\n\nAt.any rate, the Western visitor will experience a fantastic range of different foods,\nsome wonderful ( dumplings, tofu, sweet and sour soup, Mongolian hotpot, and\nhundreds more treats), and some less to Western tastes, such as 'hundred-year- old\neggs' or donkey stew. If the Westerner is overwhelmed by a desire for a more familiar\nfood, these days help is at hand.\n\nIn the bigger cities, though more rarely in the rural areas, there are plenty of fast- food\noutlets selling hamburgers and pizzas; there are some Italian, Indian, Japanese, Korean\nand Mexican restaurants, and also newly opened supermarkets (mostly French) that sell\nthe foods of which, in the past, homesick Westerners could only dream-for example,\nbread, cheese, milk, coffee and real chocolate.\n\nChinese local dishes are said to have four, eight and ten culinary schools, depending on\nwhich authority is consulted. Canton, Shandong, Sichuan and Yangzhou make up four of\nthem: if you count Hunan, Fujian,\nAnhui and Zhejiang, you have eight culinary schools; add in Beijing and Shanghai, and\nthat makes ten. You should also try the Middle Eastern-type cooking of the Muslim\nminorities, such as the Hui and Uighur\npeople, whose roadside stalls produce wonderful (and very cheap) lamb kebabs\nwrapped in naan bread with salad and hot spicy sauce. Here are a few pointers about\nsome of the schools of cookery.\n\nCantonese cuisine adopts the good points of all other culinary schools, and its selection\nof ingredients is extensive. River food and seafood are widely used, as well as birds,\nrats, snakes and insects. There is a saying that 'The Cantonese will eat anything with\nwings, except a plane, and anything with four legs, except a table.' Cantonese cuisine\npays attention to the use of fresh ingredients and has unique cooking methods.\nRepresentative dishes are 'three kinds of snake stewed', cat meat, snake soup,\ncasserole mountain turtle and crispy skin suckling pig.\n\nShandong cuisine is dominated by seafood, reflecting its nature as a peninsula\nsurrounded by the sea. Typical dishes include stewed sea cucumber with scallion,\nstewed snakehead eggs, sea slugs with crab\novum, Dezhou grilled chicken and walnut kernel in cream soup.\n\nSichuan cuisine is renowned for its searingly hot, peppery flavour. The varietyof tastes\nis summed up in the phrase 'a hundred dishes with a hundred flavours'.\n\nFamous dishes include shredded pork with fish flavour, stewed beancurd with minced\npork in pepper sauce, and dry-roast rock carp.\n\nThose who are not used to extremely hot food should proceed with care. The\nSichuanese use a special black pepper that leaves the lips numb-a bit frightening the\nfirst time it happens, but not unpleasant\nwhen one grows accustomed to it.\n\nHuaiyang cuisine integrates the cream of dishes in Yangzhou, Zhenjiang, Huaian and\nother places south of the Yangtze River, stressing freshness and tenderness, careful\npreparation, cutting skill, bright colour,\nbeautiful arrangements and light flavouring.\n\nFamous dishes include beggar's chicken, fried mandarin fish with sweet and sour sauce,\nsliced chicken with egg white, salted duck, steamed crab meat and minced pork balls\ncooked in a casserole.\n\nVegetable dishes have been popular since the Song dynasty (960-1279) and they were\ngreatly developed in the Ming and Qing dynasties (1368-1911). They were divided into\nthree schools: Monastery Vegetable\nDishes, Court Vegetable Dishes and Folk Vegetable Dishes.\n\nThe main features of vegetable dishes are their unique style and their health benefits.\nMain materials include green leaf vegetables, fruit, edible mushrooms, and bean-curd\nproducts with vegetable oil as\na condiment, all of which are delicious in taste, rich in nutrition, easy to digest, and\nbelieved to be helpful in preventing cancer.\n\nThe Chinese drink large quantities of tea (mostly 'green tea', as opposed to the 'black'\ntea that is more commonly drunk in the West) and they add no milk or sugar. Tea is\ndrunk constantly at meetings and at\nwork, less so in restaurants and at formal meals, though it is always available if asked\nfor. It is usually served in mugs with lids to keep it warm. Teabags and tea strainers are\nnot used, and drinking tea without\nswallowing a mouthful of tea leaves requires concentration: try using the lid as a\nstrainer when sipping.\n\nTea is divided into green, black, perfumed, white and Wulong tea. The most valuable\ngreen teas are Longjing and Biluochun; black tea, Qihong and Yunfeng; scented tea,\nJasmine; white tea, Yinzhenbaihao, Gongmei and Shoumei; Wulong tea, Dahongpao and\nTieguanyin. The Chinese will frequently give beautifully decorated tea caddies of special\nteas as a present.\n\nOther drinks you may be offered are yellow rice wine, served hot in little porcelain cups.\nIt tastes rather like sherry. More lethal is maotai, the Chinese answer to vodka; there\nare also many light Chinese beers, as well as a growing range of Chinese wines-Great\nWall wine is perhaps the best known and has improved considerably since the\nproducers set up a joint venture with a French wine-grower. Soft drinks such as mineral\nwater and Coca Cola are available everywhere, and fruit juices made from the exotic\ntropical fruits grown in the south of China are delicious.\n\nOne interesting development in the 1990s has been the re-emergence of teahouses,\ntraditionally the haunts of the intellectuals and literati, who would idle away hours in\n\nstimulating conversation or in composing poems. In workaholic, post-liberation China,\nsuch establishments were considered a decadent remnant of the feudal society. But\nwith the emergence of the five-day working week, and with more emphasis on quality\nleisure time, the traditional teahouse is once again blossoming in major cities.\nTeahouses have one thing in common: tranquillity-a precious commodity in China. The\nquiet atmosphere is broken only by leisurely music played on the zheng, a twenty-one-\nor twenty-five-stringed\nplucked instrument, in some ways similar to the zither. Conversation tends to be carried\nout in hushed tones. Teahouses are located at quiet places in beautiful surroundings,\noften near lakes; most cities\nhave several now. The teahouse has its own slot on TV, too-the British television\ncompany Granada has coproduced with Chinese TV a 230-part TV soap called Joy Luck\nStreet, based around the comings and\ngoings in a teahouse; it was inspired by the long-running British TV soap Coronation\nStreet, whose central location is a good old English pub.\n\nAmong men in China, much less so among women, smoking is widespread, and at\nformal meals cigarettes are almost always offered along with the tea. Most Chinese\npeople do not seem to be at all worried about the links between smoking and health\nproblems. It is very hard to escape from\nother people's cigarettes in restaurants. Young Chinese men set on having a good night\nout can even be seen holding a lit cigarette in one hand and a pair of chopsticks in the\nother-managing to smoke and eat at the same time.\n\nSource: Kathy Flower, Culture Smart!: China, 2010",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text 'Food and Drink in China' has seven sections labelled A-G. Which section contains the following information? Write the correct letter A-G in boxes 28-34 on your answer sheet. Note: you may use any letter more than once.",
+          "body": null,
+          "range": [
+            28,
+            34
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 35-40 on your answer sheet. The Chinese are known to have what is often called a 'passionate relationship' with food, and the buying and cooking of it is done with enthusiasm. Although aspects of Chinese cuisine are very healthy, such as the use of many",
+          "body": "different [[35]] and the habit of eating small amounts of food often, the adding of MSG to cooking, too much added sugar, and the [[36]] can be linked to high levels of some cancers in China. In addition to the availability of some Western foods in China nowadays, there are several regional cuisines to choose from. The Cantonese cuisine is known to use many ingredients; Shandong cuisine uses a lot of [[37]] , Sichuan cuisine is known to be hot and spicy, and Huiyang food combines the flavours and colours of the best dishes from places [[38]] the Yangzte River. The Chinese drink teas, wines, spirits and beers, with one Chinese wine company more recently developing wine with a wine-grower from [[39]] . Chinese teahouses are usually situated near cities in [[40]] and are places for quiet conversation. Cigarette-smoking is a popular pastime, particularly with men.",
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Regional cuisines of China",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The importance of food in Chinese culture",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Cigarette-smoking in Chinese culture",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Overview of four regional culinary ·schools'",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Popular Chinese drinks",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
           "number": 33,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
           "prompt": "The importance of vegetable dishes in Chinese cooking",
-          "instruction": "Read the text below and answer questions 28-40. TEXT 3 FOOD AND DRINK IN CHINA A. Most Westerners will have tasted and enjoyed Chinese food in various forms in their own countries, and may even have learned the delicate art of eating with chopsticks. But they may be less prepared for what the writer Colin Thubron memorably describes as the 'passionate relationship' of the Chinese to food. Folk memories of famine are recent (the last were in the 1960s) and there are still areas where people's diet is limited and poor. Refrigeration is more widespread now, but the Chinese almost never eat 'ready meals'; food is freshly cooked for each meal, and fish, meat and poultry are often killed only a short time before they are cooked. Shopping in the markets or shops is done with immense gusto, and everything is prodded, shaken, sniffed and thoroughly checked before being purchased. It is debatable whether, in purely Western terms, the Chinese eat a 'healthy' diet. They eat many vegetables, things are cooked fast so that the goodness is not destroyed, and people eat small quantities fairly frequently-'grazing', rather than eating huge meals at one sitting, which is one reason why they tend to be much slimmer than people in the increasingly obese West. On the other hand they use a large amount of the very salty MSG (monosodium glutamate, or taste powder) in their cooking, as well as sugar; and in some regions of China there is a high incidence of certain types of cancer, due to the overuse of pickling, the only way some vegetables It tastes rather like sherry. More lethal is maotai, the Chinese answer to vodka; there are also many light Chinese beers, as well as a growing range of Chinese wines-Great Wall wine is perhaps the best known and has improved considerably since the producers set up a joint venture with a French wine-grower. Soft drinks such as mineral water and Coca Cola are available everywhere, and fruit juices made from the exotic tropical fruits grown in the south of China are delicious. F One interesting development in the 1990s has been the re-emergence of teahouses, traditionally the haunts of the intellectuals and literati, who would idle away hours in Which section contains the following information? Write the correct letter A-G in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Regional cuisines of China 29 The importance of food in Chinese culture 30 Cigarette-smoking in Chinese culture 31 Overview of four regional culinary ·schools' 32 Popular Chinese drinks",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 34,
-          "type": "matching-features",
-          "prompt": "The importance of teahouses in Chinese culture Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 35-40 on your answer sheet.",
-          "instruction": "Read the text below and answer questions 28-40. TEXT 3 FOOD AND DRINK IN CHINA A. Most Westerners will have tasted and enjoyed Chinese food in various forms in their own countries, and may even have learned the delicate art of eating with chopsticks. But they may be less prepared for what the writer Colin Thubron memorably describes as the 'passionate relationship' of the Chinese to food. Folk memories of famine are recent (the last were in the 1960s) and there are still areas where people's diet is limited and poor. Refrigeration is more widespread now, but the Chinese almost never eat 'ready meals'; food is freshly cooked for each meal, and fish, meat and poultry are often killed only a short time before they are cooked. Shopping in the markets or shops is done with immense gusto, and everything is prodded, shaken, sniffed and thoroughly checked before being purchased. It is debatable whether, in purely Western terms, the Chinese eat a 'healthy' diet. They eat many vegetables, things are cooked fast so that the goodness is not destroyed, and people eat small quantities fairly frequently-'grazing', rather than eating huge meals at one sitting, which is one reason why they tend to be much slimmer than people in the increasingly obese West. On the other hand they use a large amount of the very salty MSG (monosodium glutamate, or taste powder) in their cooking, as well as sugar; and in some regions of China there is a high incidence of certain types of cancer, due to the overuse of pickling, the only way some vegetables It tastes rather like sherry. More lethal is maotai, the Chinese answer to vodka; there are also many light Chinese beers, as well as a growing range of Chinese wines-Great Wall wine is perhaps the best known and has improved considerably since the producers set up a joint venture with a French wine-grower. Soft drinks such as mineral water and Coca Cola are available everywhere, and fruit juices made from the exotic tropical fruits grown in the south of China are delicious. F One interesting development in the 1990s has been the re-emergence of teahouses, traditionally the haunts of the intellectuals and literati, who would idle away hours in Which section contains the following information? Write the correct letter A-G in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Regional cuisines of China 29 The importance of food in Chinese culture 30 Cigarette-smoking in Chinese culture 31 Overview of four regional culinary ·schools' 32 Popular Chinese drinks",
-          "answer": "F"
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The importance of teahouses in Chinese culture",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "vegetables",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "over-use of pickling",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "seafood",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "south of",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "French",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "beautiful surroundings",
+          "trap": null
         }
       ]
     }

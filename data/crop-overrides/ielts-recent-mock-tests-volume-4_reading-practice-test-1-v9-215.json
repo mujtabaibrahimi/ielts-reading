@@ -1,0 +1,35 @@
+{
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "What is the main purpose of this passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Main characteristic of a bird called bittern.",
+          "Cooperation can protect an endangered species.",
+          "The difficulty of access information of bittern's habitat and diet.",
+          "To save wetland and reedbed in UK."
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "38": "B,C,E",
+    "39": "B,C,E",
+    "40": "B,C,E"
+  }
+}

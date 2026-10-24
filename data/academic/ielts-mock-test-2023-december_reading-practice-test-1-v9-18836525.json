@@ -1,206 +1,1146 @@
 {
   "id": "ielts-mock-test-2023-december_reading-practice-test-1-v9-18836525",
   "type": "academic",
-  "source": "ielts-mock-test-2023-december reading-practice-test-1-v9-18836525",
+  "title": "IELTS Academic 2023 December - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 1,
+  "year": 2023,
+  "month": 12,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-december_reading-practice-test-1-v9-18836525.pdf",
-  "total_questions": 7,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Undersea Movement",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1 -13, which are based on\nReading Passage 1 below.\nUndersea Movement\nA\nThe underwater world holds many challenges. The most basic of these is\nmovement. The density of water makes it difficult for animals to move.\nForward movement is a complex interaction of underwater forces. Additionally,\nwater itself has movement. Strong currents carry incredible power that can\neasily sweep creatures away. The challenges to aquatic movement result in a\nvariety of swimming methods, used by a wide range of animals. The result is a\ndazzling underwater ballet.\nB\nFish rely on their skeleton, fins, and muscles to move. The primary function of\nthe skeleton is to aid movement of other parts. Their skull acts as a fulcrum\nand their vertebrae act as levers. The vertebral column consists of a series of\nvertebrae held together by ligaments, but not so tightly as to prevent slight\nsideways movement between each pair of vertebrae. The whole spine is,\ntherefore, flexible. The skull is the only truly fixed part of a fish. It does not\nmove in and off itself but acts as a point of stability for other bones. These\nother bones act as levers that cause movement of the fish’s body.\nC\nWhile the bones provide the movement, the muscles supply the power. A\ntypical fish has hundreds of muscles running in all directions around its body.\nThis is why a fish can turn and twist and change directions quickly. The\nmuscles on each side of the spine contract in a series from head to tail and\ndown each side alternately, causing a wave-like movement to pass down the\n\nbody. Such a movement may be very pronounced in fish such as eels, but\nhardly perceptible in others, e.g. mackerel. The frequency of the waves varies\nfrom about 50/min in the dogfish to 170/min in the mackerel. The sideways and\nbackward thrust of the head and body against the water results in the\nresistance of the water pushing the fish sideways and forwards in a direction\nopposed to the thrust. When the corresponding set of muscles on the other\nside contracts, the fish experiences a similar force from the water on that side.\nThe two sideways forces are equal and opposite unless the fish is making a\nturn, so they cancel out, leaving the sum of the two forward forces\nD\nThe muscles involved in swimming are of two main types. The bulk of a fish’s\nbody is composed of the so-called white muscle, while the much smaller areas\nat the roots of the fins and in a strip along the centre of each flank comprise\nred muscle. The red muscle receives a good supply of blood and contains\nampler quantities of fat and glycogen, the storage form of glucose, which is\nused for most day-to-day swimming movements. In contrast, the white muscle\nhas a poor blood supply and few energy stores, and it is used largely for short-\nterm, fast swimming. It might seem odd that the body of an animal which\nadapts adapted so efficiently to its environment should be composed almost\nentirely of a type of muscle it rarely uses. However, this huge auxiliary power\npack carried by a fish is of crucial significance if the life of the fish is threatened\n- by a predator, for instance - because it enables the fish to swim rapidly away\nfrom danger.\nE\nThe fins are the most distinctive features of a fish, composed of bony spines\nprotruding from the body with skin covering them and joining them together,\neither in a webbed fashion, as seen in most bony fish, or more similar to a\nflipper, as seen in sharks. These usually serve as a means for the fish to swim.\nBut it must be emphasized that the swimming movements are produced by the\nwhole of the muscular body, and in only a few fish do the fins contribute any\npropulsive force! Their main function is to control the stability and direction of\nthe fish: as water passes over its body, a fish uses its fins to thrust in the\ndirection it wishes to go.\nF\nFins located in different places on a fish serve different purposes, such as\nmoving forward, turning, and keeping an upright position. The tail fin, in its\nfinal lash may contribute as much as 40 per cent of the forward thrust. The\nmedian fins, that is, the dorsal, anal and ventral fins, control the rolling and\n\nyawing movements of the fish by increasing the vertical surface area\npresented to the water. The paired fins, pectoral and pelvic act as hydroplanes\nand control the pitch of the ash, causing it to swim downwards or upwards\naccording to the angle to the water at which they are held by their muscles.\nThe pectoral fins lie in front of the centre of gravity and, being readily mobile,\nare chiefly responsible for sending the ash up or down. Paired fins, in addition\nto being used for stopping and stabilizing, are also essential for other\nfunctions.\nThe swimming speed of fish is not so fast as one would expect from watching\ntheir rapid movements in aquaria or ponds. Tuna seems to be the fastest at 44\nmph, trout are recorded as doing 23 mph, pike 20 mph for short bursts and\nroach about 10 mph, while the majority of small fish probably do not exceed 2\nor 3 mph. Many people have attempted to make accurate measurements of the\nspeed at which various fish swim, either by timing them over known distances\nin their natural environment or by determining their performance in man-made\nswimming channels. From these studies, we can broadly categorise fish into\nfour groups: “sneakers”, such as eels that are only capable of slow speeds but\npossess some staying power; “stayers”, that can swim quite fast over long\nperiods; “sprinters” that can generate fast bursts of speed (e.g. pike); and\n“crawlers” that are sluggish swimmers, although they can accelerate slightly\n(bream, for example).\nH\nOne type of sailfish is considered to be the fastest species of fish over short\ndistances, achieving 68 mph over a three-second period, and anglers have\nrecorded speeds in excess of 40 mph over longer periods for several species of\ntuna. One is likely to consider a fish’s swimming capabilities in relation to its\nsize. However, it is generally true that a small fish is a more able swimmer\nthan a much larger one. On the other hand in terms of speed in miles per hour,\na big fish will, all other things being equal, be able to swim faster than a\nsmaller fish.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Undersea Movement"
+          },
           {
             "label": "A",
-            "content": "The underwater world holds many challenges. The most basic of these is"
+            "text": "The underwater world holds many challenges. The most basic of these is\nmovement. The density of water makes it difficult for animals to move.\nForward movement is a complex interaction of underwater forces. Additionally,\nwater itself has movement. Strong currents carry incredible power that can\neasily sweep creatures away. The challenges to aquatic movement result in a\nvariety of swimming methods, used by a wide range of animals. The result is a\ndazzling underwater ballet."
           },
           {
             "label": "B",
-            "content": "Fish rely on their skeleton, fins, and muscles to move. The primary function of"
+            "text": "Fish rely on their skeleton, fins, and muscles to move. The primary function of\nthe skeleton is to aid movement of other parts. Their skull acts as a fulcrum\nand their vertebrae act as levers. The vertebral column consists of a series of\nvertebrae held together by ligaments, but not so tightly as to prevent slight\nsideways movement between each pair of vertebrae. The whole spine is,\ntherefore, flexible. The skull is the only truly fixed part of a fish. It does not\nmove in and off itself but acts as a point of stability for other bones. These\nother bones act as levers that cause movement of the fish's body."
           },
           {
             "label": "C",
-            "content": "While the bones provide the movement, the muscles supply the power. A"
+            "text": "While the bones provide the movement, the muscles supply the power. A\ntypical fish has hundreds of muscles running in all directions around its body.\nThis is why a fish can turn and twist and change directions quickly. The\nmuscles on each side of the spine contract in a series from head to tail and\ndown each side alternately, causing a wave-like movement to pass down the"
+          },
+          {
+            "label": null,
+            "text": "body. Such a movement may be very pronounced in fish such as eels, but\nhardly perceptible in others, e.g. mackerel. The frequency of the waves varies\nfrom about 50/min in the dogfish to 170/min in the mackerel. The sideways and\nbackward thrust of the head and body against the water results in the\nresistance of the water pushing the fish sideways and forwards in a direction\nopposed to the thrust. When the corresponding set of muscles on the other\nside contracts, the fish experiences a similar force from the water on that side.\nThe two sideways forces are equal and opposite unless the fish is making a\nturn, so they cancel out, leaving the sum of the two forward forces"
           },
           {
             "label": "D",
-            "content": "The muscles involved in swimming are of two main types. The bulk of a fish’s"
+            "text": "The muscles involved in swimming are of two main types. The bulk of a fish's\nbody is composed of the so-called white muscle, while the much smaller areas\nat the roots of the fins and in a strip along the centre of each flank comprise\nred muscle. The red muscle receives a good supply of blood and contains\nampler quantities of fat and glycogen, the storage form of glucose, which is\nused for most day-to-day swimming movements. In contrast, the white muscle\nhas a poor blood supply and few energy stores, and it is used largely for short-\nterm, fast swimming. It might seem odd that the body of an animal which\nadapts adapted so efficiently to its environment should be composed almost\nentirely of a type of muscle it rarely uses. However, this huge auxiliary power\npack carried by a fish is of crucial significance if the life of the fish is threatened\n- by a predator, for instance - because it enables the fish to swim rapidly away\nfrom danger."
           },
           {
             "label": "E",
-            "content": "The fins are the most distinctive features of a fish, composed of bony spines"
+            "text": "The fins are the most distinctive features of a fish, composed of bony spines\nprotruding from the body with skin covering them and joining them together,\neither in a webbed fashion, as seen in most bony fish, or more similar to a\nflipper, as seen in sharks. These usually serve as a means for the fish to swim.\nBut it must be emphasized that the swimming movements are produced by the\nwhole of the muscular body, and in only a few fish do the fins contribute any\npropulsive force! Their main function is to control the stability and direction of\nthe fish: as water passes over its body, a fish uses its fins to thrust in the\ndirection it wishes to go."
           },
           {
             "label": "F",
-            "content": "Fins located in different places on a fish serve different purposes, such as"
+            "text": "Fins located in different places on a fish serve different purposes, such as\nmoving forward, turning, and keeping an upright position. The tail fin, in its\nfinal lash may contribute as much as 40 per cent of the forward thrust. The\nmedian fins, that is, the dorsal, anal and ventral fins, control the rolling and"
+          },
+          {
+            "label": null,
+            "text": "yawing movements of the fish by increasing the vertical surface area\npresented to the water. The paired fins, pectoral and pelvic act as hydroplanes\nand control the pitch of the ash, causing it to swim downwards or upwards\naccording to the angle to the water at which they are held by their muscles.\nThe pectoral fins lie in front of the centre of gravity and, being readily mobile,\nare chiefly responsible for sending the ash up or down. Paired fins, in addition\nto being used for stopping and stabilizing, are also essential for other\nfunctions."
+          },
+          {
+            "label": null,
+            "text": "The swimming speed of fish is not so fast as one would expect from watching\ntheir rapid movements in aquaria or ponds. Tuna seems to be the fastest at 44\nmph, trout are recorded as doing 23 mph, pike 20 mph for short bursts and\nroach about 10 mph, while the majority of small fish probably do not exceed 2\nor 3 mph. Many people have attempted to make accurate measurements of the\nspeed at which various fish swim, either by timing them over known distances\nin their natural environment or by determining their performance in man-made\nswimming channels. From these studies, we can broadly categorise fish into\nfour groups: \"sneakers\", such as eels that are only capable of slow speeds but\npossess some staying power; \"stayers\", that can swim quite fast over long\nperiods; \"sprinters\" that can generate fast bursts of speed (e.g. pike); and\n\"crawlers\" that are sluggish swimmers, although they can accelerate slightly\n(bream, for example)."
+          },
+          {
+            "label": "H",
+            "text": "One type of sailfish is considered to be the fastest species of fish over short\ndistances, achieving 68 mph over a three-second period, and anglers have\nrecorded speeds in excess of 40 mph over longer periods for several species of\ntuna. One is likely to consider a fish's swimming capabilities in relation to its\nsize. However, it is generally true that a small fish is a more able swimmer\nthan a much larger one. On the other hand in terms of speed in miles per hour,\na big fish will, all other things being equal, be able to swim faster than a\nsmaller fish."
           }
-        ]
+        ],
+        "text": "Undersea Movement\n\nThe underwater world holds many challenges. The most basic of these is\nmovement. The density of water makes it difficult for animals to move.\nForward movement is a complex interaction of underwater forces. Additionally,\nwater itself has movement. Strong currents carry incredible power that can\neasily sweep creatures away. The challenges to aquatic movement result in a\nvariety of swimming methods, used by a wide range of animals. The result is a\ndazzling underwater ballet.\n\nFish rely on their skeleton, fins, and muscles to move. The primary function of\nthe skeleton is to aid movement of other parts. Their skull acts as a fulcrum\nand their vertebrae act as levers. The vertebral column consists of a series of\nvertebrae held together by ligaments, but not so tightly as to prevent slight\nsideways movement between each pair of vertebrae. The whole spine is,\ntherefore, flexible. The skull is the only truly fixed part of a fish. It does not\nmove in and off itself but acts as a point of stability for other bones. These\nother bones act as levers that cause movement of the fish's body.\n\nWhile the bones provide the movement, the muscles supply the power. A\ntypical fish has hundreds of muscles running in all directions around its body.\nThis is why a fish can turn and twist and change directions quickly. The\nmuscles on each side of the spine contract in a series from head to tail and\ndown each side alternately, causing a wave-like movement to pass down the\n\nbody. Such a movement may be very pronounced in fish such as eels, but\nhardly perceptible in others, e.g. mackerel. The frequency of the waves varies\nfrom about 50/min in the dogfish to 170/min in the mackerel. The sideways and\nbackward thrust of the head and body against the water results in the\nresistance of the water pushing the fish sideways and forwards in a direction\nopposed to the thrust. When the corresponding set of muscles on the other\nside contracts, the fish experiences a similar force from the water on that side.\nThe two sideways forces are equal and opposite unless the fish is making a\nturn, so they cancel out, leaving the sum of the two forward forces\n\nThe muscles involved in swimming are of two main types. The bulk of a fish's\nbody is composed of the so-called white muscle, while the much smaller areas\nat the roots of the fins and in a strip along the centre of each flank comprise\nred muscle. The red muscle receives a good supply of blood and contains\nampler quantities of fat and glycogen, the storage form of glucose, which is\nused for most day-to-day swimming movements. In contrast, the white muscle\nhas a poor blood supply and few energy stores, and it is used largely for short-\nterm, fast swimming. It might seem odd that the body of an animal which\nadapts adapted so efficiently to its environment should be composed almost\nentirely of a type of muscle it rarely uses. However, this huge auxiliary power\npack carried by a fish is of crucial significance if the life of the fish is threatened\n- by a predator, for instance - because it enables the fish to swim rapidly away\nfrom danger.\n\nThe fins are the most distinctive features of a fish, composed of bony spines\nprotruding from the body with skin covering them and joining them together,\neither in a webbed fashion, as seen in most bony fish, or more similar to a\nflipper, as seen in sharks. These usually serve as a means for the fish to swim.\nBut it must be emphasized that the swimming movements are produced by the\nwhole of the muscular body, and in only a few fish do the fins contribute any\npropulsive force! Their main function is to control the stability and direction of\nthe fish: as water passes over its body, a fish uses its fins to thrust in the\ndirection it wishes to go.\n\nFins located in different places on a fish serve different purposes, such as\nmoving forward, turning, and keeping an upright position. The tail fin, in its\nfinal lash may contribute as much as 40 per cent of the forward thrust. The\nmedian fins, that is, the dorsal, anal and ventral fins, control the rolling and\n\nyawing movements of the fish by increasing the vertical surface area\npresented to the water. The paired fins, pectoral and pelvic act as hydroplanes\nand control the pitch of the ash, causing it to swim downwards or upwards\naccording to the angle to the water at which they are held by their muscles.\nThe pectoral fins lie in front of the centre of gravity and, being readily mobile,\nare chiefly responsible for sending the ash up or down. Paired fins, in addition\nto being used for stopping and stabilizing, are also essential for other\nfunctions.\n\nThe swimming speed of fish is not so fast as one would expect from watching\ntheir rapid movements in aquaria or ponds. Tuna seems to be the fastest at 44\nmph, trout are recorded as doing 23 mph, pike 20 mph for short bursts and\nroach about 10 mph, while the majority of small fish probably do not exceed 2\nor 3 mph. Many people have attempted to make accurate measurements of the\nspeed at which various fish swim, either by timing them over known distances\nin their natural environment or by determining their performance in man-made\nswimming channels. From these studies, we can broadly categorise fish into\nfour groups: \"sneakers\", such as eels that are only capable of slow speeds but\npossess some staying power; \"stayers\", that can swim quite fast over long\nperiods; \"sprinters\" that can generate fast bursts of speed (e.g. pike); and\n\"crawlers\" that are sluggish swimmers, although they can accelerate slightly\n(bream, for example).\n\nOne type of sailfish is considered to be the fastest species of fish over short\ndistances, achieving 68 mph over a three-second period, and anglers have\nrecorded speeds in excess of 40 mph over longer periods for several species of\ntuna. One is likely to consider a fish's swimming capabilities in relation to its\nsize. However, it is generally true that a small fish is a more able swimmer\nthan a much larger one. On the other hand in terms of speed in miles per hour,\na big fish will, all other things being equal, be able to swim faster than a\nsmaller fish.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The Passage has 8 paragraphs A-H. Which paragraph contains the following information? Write the appropriate letter, A-H, in boxes 1-6 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "diagram-label",
+          "instruction": "The diagram below gives information about fish fins and their purposes. Complete the diagram with NO MORE THAN THREE WORDS from the passage for each blank Write your answers in boxes 7-10 on your answer sheet. 7 8 9 10",
+          "body": null,
+          "range": [
+            7,
+            10
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-mock-test-2023-december_reading-practice-test-1-v9-18836525/p1g2.png",
+              "w": 982,
+              "h": 425
+            }
+          ],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below using NO MORE THAN THREE WORDS from the passage for each blank. Write your answers in boxes 11-13 on your answer sheet. {OPTION} Two types of muscles are involved in fish swimming. The majority of a",
+          "body": "fish's body comprises the [[11]] , and the red muscle is found only at the roots of the fins and in a strip along the centre of each flank. For most of its routine movements, the fish uses a lot of its [[12]] saved in body, and white muscle is mostly used for short-term, fast swimming, such as escaping from [[13]] .",
+          "range": [
+            11,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "categorizations of fish by swimming speed",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "an example of fish capable of maintaining fast swimming",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
           "number": 3,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "how fish control stability",
-          "instruction": "Which paragraph contains the following information? Write the appropriate letter, A-H, in boxes 1-6 on your answer sheet. 1 categorizations of fish by swimming speed 2 an example of fish capable of maintaining fast swimming",
-          "answer": "E"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 4,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "frequency of the muscle movement of fish",
-          "instruction": "Which paragraph contains the following information? Write the appropriate letter, A-H, in boxes 1-6 on your answer sheet. 1 categorizations of fish by swimming speed 2 an example of fish capable of maintaining fast swimming",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 5,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
           "prompt": "a mechanical model of fish skeleton",
-          "instruction": "Which paragraph contains the following information? Write the appropriate letter, A-H, in boxes 1-6 on your answer sheet. 1 categorizations of fish by swimming speed 2 an example of fish capable of maintaining fast swimming",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 6,
-          "type": "matching-features",
-          "prompt": "energy storage devices in a fish The diagram below gives information about fish fins and their purposes. Complete the diagram with NO MORE THAN THREE WORDS from the passage for each blank",
-          "instruction": "Which paragraph contains the following information? Write the appropriate letter, A-H, in boxes 1-6 on your answer sheet. 1 categorizations of fish by swimming speed 2 an example of fish capable of maintaining fast swimming",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "energy storage devices in a fish",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "diagram-label",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "forward thrust",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "diagram-label",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "rolling and yawing",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "diagram-label",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Pectoral and pelvic",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "diagram-label",
+          "groupId": "p1g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "stopping and stabilizing",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "white muscle",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "fat and glycogen",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "predator/a predator/danger",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "Knowledge in medicine",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
-        26
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nKnowledge in medicine\nA\nWhat counts as knowledge? What do we mean when we say that we know\nsomething? What is the status of different kinds of knowledge? In order to\nexplore these questions, we are going to focus on one particular area of\nknowledge – medicine.\nB\nHow do you know when you are ill? This may seem to be an absurd question.\nYou know you are ill because you feel ill; your body tells you that you are ill.\nYou may know that you feel pain or discomfort but knowing you are ill is a bit\nmore complex. At times, people experience the symptoms of illness, but in\nfact, they are simply tired or over-worked or they may just have a hangover. At\nother times, people may be suffering from a disease and fail to be aware of the\nillness until it has reached a late stage in its development. So how do we know\nwe are ill, and what counts as knowledge?\nC\nThink about this example. You feel unwell. You have a bad cough and always\nseem to be tired. Perhaps it could be stress at work, or maybe you should give\nup smoking. You feel worse. You visit the doctor who listens to your chest and\nheart, takes your temperature and blood pressure, and then finally prescribes\nantibiotics for your cough.\nD\nThings do not improve but you struggle on thinking you should pull yourself\n\ntogether, perhaps things will ease off at work soon. A return visit to your doctor\nshocks you. This time the doctor, drawing on years of training and experience,\ndiagnoses pneumonia. This means that you will need bed rest and a\nconsiderable time off work. The scenario is transformed. Although you still have\nthe same symptoms, you no longer think that these are caused by pressure at\nwork. You know have proof that you are ill. This is the result of the combination\nof your own subjective experience and the diagnosis of someone who has the\nstatus of a medical expert. You have a medically authenticated diagnosis and it\nappears that you are seriously ill; you know you are ill and have the evidence\nupon which to base this knowledge.\nE\nThis scenario shows many different sources of knowledge. For example, you\ndecide to consult the doctor in the first place because you feel unwell – this is\npersonal knowledge about your own body. However, the doctor’s expert\ndiagnosis is based on experience and training, with sources of knowledge as\ndiverse as other experts, laboratory reports, medical textbooks and years of\nexperience.\nF\nOne source of knowledge is the experience of our own bodies; the personal\nknowledge we have of changes that might be significant, as well as the\nsubjective experiences are mediated by other forms of knowledge such as the\nwords we have available to describe our experience, and the common sense of\nour families and friends as well as that drawn from popular culture. Over the\npast decade, for example, Western culture has seen a significant emphasis on\nstress-related illness in the media. Reference to being ‘stressed out’ has\nbecome a common response in daily exchanges in the workplace and has\nbecome part of popular common-sense knowledge. It is thus not surprising that\nwe might seek such an explanation of physical symptoms of discomfort.\nG\nWe might also rely on the observations of others who know us. Comments from\nfriends and family such as ‘you do look ill’ or ‘that’s a bad cough’ might be\nanother source of knowledge. Complementary health practices, such as holistic\nmedicine, produce their own sets of knowledge upon which we might also draw\nin deciding the nature and degree of our ill health and about possible\ntreatments.\nH\nPerhaps the most influential and authoritative source of knowledge is the\n\nmedical knowledge provided by the general practitioner. We expect the doctor\nto have access to expert knowledge. This is socially sanctioned. It would not be\nacceptable to notify our employer that we simply felt too unwell to turn up for\nwork or that our faith healer, astrologer, therapist or even our priest thought it\nwas not a good idea. We need an expert medical diagnosis in order to obtain\nthe necessary certificate if we need to be off work for more than the statutory\nself-certification period. The knowledge of the medical sciences is privileged in\nthis respect in contemporary Western culture. Medical practitioners are also\nseen as having the required expert knowledge that permits them legally to\nprescribe drugs and treatment to which patients would not otherwise have\naccess. However, there is a range of different knowledge upon which we draw\nwhen making decisions about our own state of health.\nI\nHowever, there is more than existing knowledge in this little story; new\nknowledge is constructed within it. Given the doctor’s medical training and\nbackground, she may hypothesize ‘is this now pneumonia?’ and then proceed\nto look for evidence about it. She will use observations and instruments to\nassess the evidence and – critically – interpret it in light of her training and\nexperience. This results in new knowledge and new experience both for you\nand for the doctor. This will then be added to the doctor’s medical knowledge\nand may help in the future diagnosis of pneumonia.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Knowledge in medicine"
+          },
           {
             "label": "A",
-            "content": "What counts as knowledge? What do we mean when we say that we know"
+            "text": "What counts as knowledge? What do we mean when we say that we know\nsomething? What is the status of different kinds of knowledge? In order to\nexplore these questions, we are going to focus on one particular area of\nknowledge - medicine."
           },
           {
             "label": "B",
-            "content": "How do you know when you are ill? This may seem to be an absurd question."
+            "text": "How do you know when you are ill? This may seem to be an absurd question.\nYou know you are ill because you feel ill; your body tells you that you are ill.\nYou may know that you feel pain or discomfort but knowing you are ill is a bit\nmore complex. At times, people experience the symptoms of illness, but in\nfact, they are simply tired or over-worked or they may just have a hangover. At\nother times, people may be suffering from a disease and fail to be aware of the\nillness until it has reached a late stage in its development. So how do we know\nwe are ill, and what counts as knowledge?"
           },
           {
             "label": "C",
-            "content": "Think about this example. You feel unwell. You have a bad cough and always"
+            "text": "Think about this example. You feel unwell. You have a bad cough and always\nseem to be tired. Perhaps it could be stress at work, or maybe you should give\nup smoking. You feel worse. You visit the doctor who listens to your chest and\nheart, takes your temperature and blood pressure, and then finally prescribes\nantibiotics for your cough."
           },
           {
             "label": "D",
-            "content": "Things do not improve but you struggle on thinking you should pull yourself"
+            "text": "Things do not improve but you struggle on thinking you should pull yourself"
+          },
+          {
+            "label": null,
+            "text": "together, perhaps things will ease off at work soon. A return visit to your doctor\nshocks you. This time the doctor, drawing on years of training and experience,\ndiagnoses pneumonia. This means that you will need bed rest and a\nconsiderable time off work. The scenario is transformed. Although you still have\nthe same symptoms, you no longer think that these are caused by pressure at\nwork. You know have proof that you are ill. This is the result of the combination\nof your own subjective experience and the diagnosis of someone who has the\nstatus of a medical expert. You have a medically authenticated diagnosis and it\nappears that you are seriously ill; you know you are ill and have the evidence\nupon which to base this knowledge."
           },
           {
             "label": "E",
-            "content": "This scenario shows many different sources of knowledge. For example, you"
+            "text": "This scenario shows many different sources of knowledge. For example, you\ndecide to consult the doctor in the first place because you feel unwell - this is\npersonal knowledge about your own body. However, the doctor's expert\ndiagnosis is based on experience and training, with sources of knowledge as\ndiverse as other experts, laboratory reports, medical textbooks and years of\nexperience."
           },
           {
             "label": "F",
-            "content": "One source of knowledge is the experience of our own bodies; the personal"
+            "text": "One source of knowledge is the experience of our own bodies; the personal\nknowledge we have of changes that might be significant, as well as the\nsubjective experiences are mediated by other forms of knowledge such as the\nwords we have available to describe our experience, and the common sense of\nour families and friends as well as that drawn from popular culture. Over the\npast decade, for example, Western culture has seen a significant emphasis on\nstress-related illness in the media. Reference to being 'stressed out' has\nbecome a common response in daily exchanges in the workplace and has\nbecome part of popular common-sense knowledge. It is thus not surprising that\nwe might seek such an explanation of physical symptoms of discomfort."
           },
           {
             "label": "G",
-            "content": "We might also rely on the observations of others who know us. Comments from"
+            "text": "We might also rely on the observations of others who know us. Comments from\nfriends and family such as 'you do look ill' or 'that's a bad cough' might be\nanother source of knowledge. Complementary health practices, such as holistic\nmedicine, produce their own sets of knowledge upon which we might also draw\nin deciding the nature and degree of our ill health and about possible\ntreatments."
+          },
+          {
+            "label": "H",
+            "text": "Perhaps the most influential and authoritative source of knowledge is the"
+          },
+          {
+            "label": null,
+            "text": "medical knowledge provided by the general practitioner. We expect the doctor\nto have access to expert knowledge. This is socially sanctioned. It would not be\nacceptable to notify our employer that we simply felt too unwell to turn up for\nwork or that our faith healer, astrologer, therapist or even our priest thought it\nwas not a good idea. We need an expert medical diagnosis in order to obtain\nthe necessary certificate if we need to be off work for more than the statutory\nself-certification period. The knowledge of the medical sciences is privileged in\nthis respect in contemporary Western culture. Medical practitioners are also\nseen as having the required expert knowledge that permits them legally to\nprescribe drugs and treatment to which patients would not otherwise have\naccess. However, there is a range of different knowledge upon which we draw\nwhen making decisions about our own state of health."
+          },
+          {
+            "label": "I",
+            "text": "However, there is more than existing knowledge in this little story; new\nknowledge is constructed within it. Given the doctor's medical training and\nbackground, she may hypothesize 'is this now pneumonia?' and then proceed\nto look for evidence about it. She will use observations and instruments to\nassess the evidence and - critically - interpret it in light of her training and\nexperience. This results in new knowledge and new experience both for you\nand for the doctor. This will then be added to the doctor's medical knowledge\nand may help in the future diagnosis of pneumonia."
           }
-        ]
+        ],
+        "text": "Knowledge in medicine\n\nWhat counts as knowledge? What do we mean when we say that we know\nsomething? What is the status of different kinds of knowledge? In order to\nexplore these questions, we are going to focus on one particular area of\nknowledge - medicine.\n\nHow do you know when you are ill? This may seem to be an absurd question.\nYou know you are ill because you feel ill; your body tells you that you are ill.\nYou may know that you feel pain or discomfort but knowing you are ill is a bit\nmore complex. At times, people experience the symptoms of illness, but in\nfact, they are simply tired or over-worked or they may just have a hangover. At\nother times, people may be suffering from a disease and fail to be aware of the\nillness until it has reached a late stage in its development. So how do we know\nwe are ill, and what counts as knowledge?\n\nThink about this example. You feel unwell. You have a bad cough and always\nseem to be tired. Perhaps it could be stress at work, or maybe you should give\nup smoking. You feel worse. You visit the doctor who listens to your chest and\nheart, takes your temperature and blood pressure, and then finally prescribes\nantibiotics for your cough.\n\nThings do not improve but you struggle on thinking you should pull yourself\n\ntogether, perhaps things will ease off at work soon. A return visit to your doctor\nshocks you. This time the doctor, drawing on years of training and experience,\ndiagnoses pneumonia. This means that you will need bed rest and a\nconsiderable time off work. The scenario is transformed. Although you still have\nthe same symptoms, you no longer think that these are caused by pressure at\nwork. You know have proof that you are ill. This is the result of the combination\nof your own subjective experience and the diagnosis of someone who has the\nstatus of a medical expert. You have a medically authenticated diagnosis and it\nappears that you are seriously ill; you know you are ill and have the evidence\nupon which to base this knowledge.\n\nThis scenario shows many different sources of knowledge. For example, you\ndecide to consult the doctor in the first place because you feel unwell - this is\npersonal knowledge about your own body. However, the doctor's expert\ndiagnosis is based on experience and training, with sources of knowledge as\ndiverse as other experts, laboratory reports, medical textbooks and years of\nexperience.\n\nOne source of knowledge is the experience of our own bodies; the personal\nknowledge we have of changes that might be significant, as well as the\nsubjective experiences are mediated by other forms of knowledge such as the\nwords we have available to describe our experience, and the common sense of\nour families and friends as well as that drawn from popular culture. Over the\npast decade, for example, Western culture has seen a significant emphasis on\nstress-related illness in the media. Reference to being 'stressed out' has\nbecome a common response in daily exchanges in the workplace and has\nbecome part of popular common-sense knowledge. It is thus not surprising that\nwe might seek such an explanation of physical symptoms of discomfort.\n\nWe might also rely on the observations of others who know us. Comments from\nfriends and family such as 'you do look ill' or 'that's a bad cough' might be\nanother source of knowledge. Complementary health practices, such as holistic\nmedicine, produce their own sets of knowledge upon which we might also draw\nin deciding the nature and degree of our ill health and about possible\ntreatments.\n\nPerhaps the most influential and authoritative source of knowledge is the\n\nmedical knowledge provided by the general practitioner. We expect the doctor\nto have access to expert knowledge. This is socially sanctioned. It would not be\nacceptable to notify our employer that we simply felt too unwell to turn up for\nwork or that our faith healer, astrologer, therapist or even our priest thought it\nwas not a good idea. We need an expert medical diagnosis in order to obtain\nthe necessary certificate if we need to be off work for more than the statutory\nself-certification period. The knowledge of the medical sciences is privileged in\nthis respect in contemporary Western culture. Medical practitioners are also\nseen as having the required expert knowledge that permits them legally to\nprescribe drugs and treatment to which patients would not otherwise have\naccess. However, there is a range of different knowledge upon which we draw\nwhen making decisions about our own state of health.\n\nHowever, there is more than existing knowledge in this little story; new\nknowledge is constructed within it. Given the doctor's medical training and\nbackground, she may hypothesize 'is this now pneumonia?' and then proceed\nto look for evidence about it. She will use observations and instruments to\nassess the evidence and - critically - interpret it in light of her training and\nexperience. This results in new knowledge and new experience both for you\nand for the doctor. This will then be added to the doctor's medical knowledge\nand may help in the future diagnosis of pneumonia.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+          "body": "Source of knowledge and Examples table. Source 'Personal experience', Examples: Symptoms of a [[14]] and tiredness; Doctor's measurement by taking [[15]] and temperature; Common judgment from [[16]] around you. Source 'Scientific evidence', Examples: Medical knowledge from the general [[17]]; e.g. doctor's medical [[18]]; Examine the medical hypothesis with the previous drill and [[19]].",
+          "range": [
+            14,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-paragraph-information",
+          "instruction": "The Reading Passage has nine paragraphs A-I Which paragraph contains the following information? Write the correct letter A-I, in boxes 20-27 on your answer sheet.",
+          "body": null,
+          "range": [
+            20,
+            27
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 14,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "bad cough",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "blood pressure",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "families and friends",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Practitioner",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Diagnosis",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "table-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "e"
+          ],
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "background",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "the contrast between the nature of personal judgment\nand the nature of doctor's diagnosis",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "a reference of culture about pressure",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "sick leave will not be permitted without the professional\ndiagnosis",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "how doctors' opinions are regarded in society",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "the illness of patients can become part of new\nknowledge",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
           "number": 25,
-          "type": "matching-features",
-          "prompt": "a description of knowledge drawn from non-specialized sources other than personal knowledge",
-          "instruction": "Complete the table Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-19 on your answer sheet Source of knowledge Examples Personal experience Symptoms of a 14 and tiredness Doctor’s measurement by taking 15 and temperature Common judgment from 16 around you Which paragraph contains the following information? Write the correct letter A-I, in boxes 20-27 on your answer sheet. A A B B C C D D E E F F G G H H I I 20 the contrast between the nature of personal judgment and the nature of doctor’s diagnosis 21 a reference of culture about pressure 22 sick leave will not be permitted without the professional diagnosis 23 how doctors’ opinions are regarded in society 24 the illness of patients can become part of new knowledge",
-          "answer": "G"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "a description of knowledge drawn from non-specialized\nsources other than personal knowledge",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
         },
         {
           "number": 26,
-          "type": "matching-features",
-          "prompt": "an example of collective judgment from personal experience and professional doctor",
-          "instruction": "Complete the table Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-19 on your answer sheet Source of knowledge Examples Personal experience Symptoms of a 14 and tiredness Doctor’s measurement by taking 15 and temperature Common judgment from 16 around you Which paragraph contains the following information? Write the correct letter A-I, in boxes 20-27 on your answer sheet. A A B B C C D D E E F F G G H H I I 20 the contrast between the nature of personal judgment and the nature of doctor’s diagnosis 21 a reference of culture about pressure 22 sick leave will not be permitted without the professional diagnosis 23 how doctors’ opinions are regarded in society 24 the illness of patients can become part of new knowledge",
-          "answer": "D"
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "an example of collective judgment from personal\nexperience and professional doctor",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "a reference that some people do not realize they are ill",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "At DuPont’s laboratories, Dorsch is excited by the prospect of new super-strong",
-      "questionRange": [
-        28,
-        32
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "At DuPont’s laboratories, Dorsch is excited by the prospect of new super-strong\nmaterials but he warns they are many years away. ‘We are at an early stage\nbut theoretical predictions are that we will wind up with a very strong, tough\nmaterial, with an ability to absorb shock, which is stronger and tougher than\nthe man-made materials that are conventionally available to us,’ he says.\nI\nThe spider is not the only creature that has aroused the interest of material\nscientists. They have also become envious of the natural adhesive secreted by\nthe sea mussel. It produces a protein adhesive to attach itself to rocks. It is\ntedious and expensive to extract the protein from the mussel, so researchers\nhave already produced a synthetic gene for use in surrogate bacteria.\nQuestions 28-32\nReading Passage 1 has nine paragraphs, A-I\nWhich paragraph contains the following information?\nWrite the correct letter, A-I, in boxes 28-32on your answer sheet.\nA\nA\nB\nB\nC\nC\nD\nD\nE\nE\nF\nF\nG\nG\nH\nH\nI\nI\n28\n A comparison of the ways two materials are used to\nreplace silk-producing glands\n29\n Predictions regarding the availability of the synthetic silk\n30\n Ongoing research into other synthetic materials\n31\n The research into the part of the spider that\nmanufactures silk",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Spider silk 2"
+          },
+          {
+            "label": null,
+            "text": "A strong, light bio-material made by genes from spiders could transform\nconstruction and industry"
+          },
           {
             "label": "A",
-            "content": "A"
+            "text": "Scientists have succeeded in copying the silk-producing genes of the Golden\nOrb Weaver spider and are using them to create a synthetic material which\nthey believe is the model for a new generation of advanced bio-materials. The\nnew material, biosilk, which has been spun for the first time by researchers at\nDuPont, has an enormous range of potential uses in construction and\nmanufacturing."
           },
           {
             "label": "B",
-            "content": "B"
+            "text": "The attraction of the silk spun by the spider is a combination of great strength\nand enormous elasticity, which man-made fibres have been unable to replicate.\nOn an equal-weight basis, spider silk is far stronger than steel and it is\nestimated that if a single strand could be made about 10m in diameter, it\nwould be strong enough to stop a jumbo jet in flight. A third important factor is\nthat it is extremely light. Army scientists are already looking at the possibilities\nof using it for lightweight, bulletproof vests and parachutes."
           },
           {
             "label": "C",
-            "content": "C"
+            "text": "For some time, biochemists have been trying to synthesise the drag-line silk of\nthe Golden Orb Weaver. The drag-line silk, which forms the radial arms of the\nweb, is stronger than the other parts of the web and some biochemists believe"
+          },
+          {
+            "label": null,
+            "text": "a synthetic version could prove to be as important a material as nylon, which\nhas been around for 50 years, since the discoveries of Wallace Carothers and\nhis team ushered in the age of polymers."
           },
           {
             "label": "D",
-            "content": "D"
+            "text": "To recreate the material, scientists, including Randolph Lewis at the University\nof Wyoming, first examined the silk-producing gland of the spider. 'We took out\nthe glands that produce the silk and looked at the coding for the protein\nmaterial they make, which is spun into a web. We then went looking for clones\nwith the right DNA,' he says."
           },
           {
             "label": "E",
-            "content": "E"
+            "text": "At DuPont, researchers have used both yeast and bacteria as hosts to grow the\nraw material, which they have spun into fibres. Robert Dorsch, DuPont's\ndirector of biochemical development, says the globules of protein, comparable\nwith marbles in an egg, are harvested and processed. 'We break open the\nbacteria, separate out the globules of protein and use them as the raw starting\nmaterial. With yeast, the gene system can be designed so that the material\nexcretes the protein outside the yeast for better access,' he says."
           },
           {
             "label": "F",
-            "content": "F"
+            "text": "'The bacteria and the yeast produce the same protein, equivalent to that which\nthe spider uses in the draglines of the web. The spider mixes the protein into a\nwater-based solution and then spins it into a solid fibre in one go. Since we are\nnot as clever as the spider and we are not using such sophisticated organisms,\nwe substituted man-made approaches and dissolved the protein in chemical\nsolvents, which are then spun to push the material through small holes to form\nthe solid fibre.'"
           },
           {
             "label": "G",
-            "content": "G"
+            "text": "Researchers at DuPont say they envisage many possible uses for a new biosilk\nmaterial. They say that earthquake-resistant suspension bridges hung from\ncables of synthetic spider silk fibres may become a reality. Stronger ropes,\nsafer seat belts, shoe soles that do not wear out so quickly and tough new\nclothing are among the other applications. Biochemists such as Lewis see the\npotential range of uses of biosilk as almost limitless. 'It is very strong and\nretains elasticity: there are no man-made materials that can mimic both these\nproperties. It is also a biological material with all the advantages that have\nover petrochemicals,' he says."
+          },
+          {
+            "label": "H",
+            "text": "At DuPont's laboratories, Dorsch is excited by the prospect of new super-strong\nmaterials but he warns they are many years away. 'We are at an early stage\nbut theoretical predictions are that we will wind up with a very strong, tough\nmaterial, with an ability to absorb shock, which is stronger and tougher than\nthe man-made materials that are conventionally available to us,' he says."
+          },
+          {
+            "label": "I",
+            "text": "The spider is not the only creature that has aroused the interest of material\nscientists. They have also become envious of the natural adhesive secreted by\nthe sea mussel. It produces a protein adhesive to attach itself to rocks. It is\ntedious and expensive to extract the protein from the mussel, so researchers\nhave already produced a synthetic gene for use in surrogate bacteria."
           }
-        ]
+        ],
+        "text": "Spider silk 2\n\nA strong, light bio-material made by genes from spiders could transform\nconstruction and industry\n\nScientists have succeeded in copying the silk-producing genes of the Golden\nOrb Weaver spider and are using them to create a synthetic material which\nthey believe is the model for a new generation of advanced bio-materials. The\nnew material, biosilk, which has been spun for the first time by researchers at\nDuPont, has an enormous range of potential uses in construction and\nmanufacturing.\n\nThe attraction of the silk spun by the spider is a combination of great strength\nand enormous elasticity, which man-made fibres have been unable to replicate.\nOn an equal-weight basis, spider silk is far stronger than steel and it is\nestimated that if a single strand could be made about 10m in diameter, it\nwould be strong enough to stop a jumbo jet in flight. A third important factor is\nthat it is extremely light. Army scientists are already looking at the possibilities\nof using it for lightweight, bulletproof vests and parachutes.\n\nFor some time, biochemists have been trying to synthesise the drag-line silk of\nthe Golden Orb Weaver. The drag-line silk, which forms the radial arms of the\nweb, is stronger than the other parts of the web and some biochemists believe\n\na synthetic version could prove to be as important a material as nylon, which\nhas been around for 50 years, since the discoveries of Wallace Carothers and\nhis team ushered in the age of polymers.\n\nTo recreate the material, scientists, including Randolph Lewis at the University\nof Wyoming, first examined the silk-producing gland of the spider. 'We took out\nthe glands that produce the silk and looked at the coding for the protein\nmaterial they make, which is spun into a web. We then went looking for clones\nwith the right DNA,' he says.\n\nAt DuPont, researchers have used both yeast and bacteria as hosts to grow the\nraw material, which they have spun into fibres. Robert Dorsch, DuPont's\ndirector of biochemical development, says the globules of protein, comparable\nwith marbles in an egg, are harvested and processed. 'We break open the\nbacteria, separate out the globules of protein and use them as the raw starting\nmaterial. With yeast, the gene system can be designed so that the material\nexcretes the protein outside the yeast for better access,' he says.\n\n'The bacteria and the yeast produce the same protein, equivalent to that which\nthe spider uses in the draglines of the web. The spider mixes the protein into a\nwater-based solution and then spins it into a solid fibre in one go. Since we are\nnot as clever as the spider and we are not using such sophisticated organisms,\nwe substituted man-made approaches and dissolved the protein in chemical\nsolvents, which are then spun to push the material through small holes to form\nthe solid fibre.'\n\nResearchers at DuPont say they envisage many possible uses for a new biosilk\nmaterial. They say that earthquake-resistant suspension bridges hung from\ncables of synthetic spider silk fibres may become a reality. Stronger ropes,\nsafer seat belts, shoe soles that do not wear out so quickly and tough new\nclothing are among the other applications. Biochemists such as Lewis see the\npotential range of uses of biosilk as almost limitless. 'It is very strong and\nretains elasticity: there are no man-made materials that can mimic both these\nproperties. It is also a biological material with all the advantages that have\nover petrochemicals,' he says.\n\nAt DuPont's laboratories, Dorsch is excited by the prospect of new super-strong\nmaterials but he warns they are many years away. 'We are at an early stage\nbut theoretical predictions are that we will wind up with a very strong, tough\nmaterial, with an ability to absorb shock, which is stronger and tougher than\nthe man-made materials that are conventionally available to us,' he says.\n\nThe spider is not the only creature that has aroused the interest of material\nscientists. They have also become envious of the natural adhesive secreted by\nthe sea mussel. It produces a protein adhesive to attach itself to rocks. It is\ntedious and expensive to extract the protein from the mussel, so researchers\nhave already produced a synthetic gene for use in surrogate bacteria.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 1 has nine paragraphs, A-I Which paragraph contains the following information? Write the correct letter, A-I, in boxes 28-32on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            32
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 33-37 on your answer sheet.",
+          "body": "Flow-chart. Stage 1: Synthetic gene grown in [[33]] or [[34]]. Stage 2: globules of [[35]]. Stage 3: dissolved in [[36]] solvents. Stage 4: passed through [[37]]. Result: to produce a solid fibre.",
+          "range": [
+            33,
+            37
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 38-40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 32,
-          "type": "matching-features",
-          "prompt": "The possible application of the silk in civil engineering2 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 33-37 on your answer sheet.",
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "A comparison of the ways two materials are used to\nreplace silk-producing glands",
           "instruction": "",
-          "answer": "G"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Predictions regarding the availability of the synthetic silk",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Ongoing research into other synthetic materials",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The research into the part of the spider that\nmanufactures silk",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The possible application of the silk in civil engineering2",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "bacteria/yeast",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "yeast/bacteria",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "protein",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "chemical",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "diagram-label",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "holes",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Biosilk has already replaced nylon in parachute\nmanufacture.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "The spider produces silk of varying strengths.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "true-false-not-given",
+          "groupId": "p3g3",
+          "prompt": "Lewis and Dorsch co-operated in the synthetic",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     }

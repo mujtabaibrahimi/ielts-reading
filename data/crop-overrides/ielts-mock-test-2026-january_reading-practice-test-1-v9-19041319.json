@@ -1,0 +1,298 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Classify the following developments. Choose the correct letter, A, B or C.",
+    "optionBank": null,
+    "questions": {
+      "1": {
+        "prompt": "becoming interested in people of the other gender",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      },
+      "2": {
+        "prompt": "beginning to choose a future career",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      },
+      "3": {
+        "prompt": "needing to feel the same as one's friends",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      },
+      "4": {
+        "prompt": "beginning to form a self-image separate from the family context",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      },
+      "5": {
+        "prompt": "having less need for the good opinion of friends",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      },
+      "6": {
+        "prompt": "exposing oneself to dangers",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ],
+        "optionLabels": [
+          "early adolescence",
+          "middle adolescence",
+          "late adolescence"
+        ]
+      }
+    }
+  },
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Complete each sentence with the correct ending, A-E, below. Write the correct letter, A-E, in boxes 7-10.",
+    "optionBank": {
+      "title": "Sentence endings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "reflects an adolescent's emerging self-perception.",
+        "cannot solve a problem without an example.",
+        "is designed to become more challenging.",
+        "formulates a personal set of moral beliefs and values.",
+        "varies according to the individual."
+      ]
+    },
+    "questions": {
+      "7": {
+        "prompt": "Havighurst proposed a set of tasks which",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "8": {
+        "prompt": "A course of study at high school",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "9": {
+        "prompt": "The speed of development of thinking ability during adolescence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "10": {
+        "prompt": "Adolescence is a time when the young person",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 19-25.",
+    "body": "Hunting wasps used to feed on other [[19]], rather than on vegetation. Flowering plants started to reward bees with rich pollen and an additional food in the form of [[20]]. Approximately [[21]] of human food production relies on the activity of bees. If the process of [[22]] is to take place effectively, bees need to travel from one flower to another before going back to the nest. Bees need to balance the [[23]] of each trip against the calorific rewards they obtain. There can be over 120 different [[24]] in an acre of rainforest. The bees that pollinate large forests regularly practise an activity known as [[25]].",
+    "type": "sentence-completion"
+  },
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Reading Passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 27-35. NB You may use any letter more than once.",
+    "questions": {
+      "27": {
+        "prompt": "An overview of the range of methods that have been used over time to document history",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "28": {
+        "prompt": "The main reason why many historians are unwilling to use films in their work",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "29": {
+        "prompt": "A reference to some differences between oral and written communication",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "30": {
+        "prompt": "How most citizens today gain an understanding of history",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "31": {
+        "prompt": "How current student events are sometimes captured for future audiences",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "32": {
+        "prompt": "Mention of the fact that the advantages of film are greater than the disadvantages",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "33": {
+        "prompt": "The claim that there is no official title for film-based historical work",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "34": {
+        "prompt": "Reference to the active role the audience plays when watching films",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      },
+      "35": {
+        "prompt": "A list of requirements that historians see as obstacles to their use of film to record history",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G"
+        ]
+      }
+    }
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        26
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 26.",
+    "questions": {
+      "26": {
+        "prompt": "Which is the best title for Reading Passage 2?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "The Ecological Importance of Bees",
+          "The Evolutionary History of Bees",
+          "The Social Behaviour of Bees",
+          "The Geographical Distribution of Bees"
+        ]
+      }
+    }
+  }
+}

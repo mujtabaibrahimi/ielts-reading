@@ -1,224 +1,1672 @@
 {
   "id": "master-ielts-general-training-volume-3_reading-practice-test-1-v9-1953583",
   "type": "general",
-  "source": "master-ielts-general-training-volume-3 reading-practice-test-1-v9-1953583",
+  "title": "Master IELTS General Training Volume 3 - Reading Test 1",
+  "collection": "Master IELTS General Training Volume 3",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-3_reading-practice-test-1-v9-1953583.pdf",
-  "total_questions": 12,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "WHAT'S ON IN WINTER",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nWHAT'S ON IN WINTER",
-        "tables": [
+        "heading": "WHAT'S ON IN WINTER",
+        "paragraphs": [
           {
-            "page": 3,
-            "rows": [
-              [
-                "running, trekking, kayaking, rock climbing and other adventure sports to test physical\nstrength, endurance and willpower. The race caters to both inexperienced and seasoned\nracers with a 'Raw' course for beginners and a 'Hardcore' course for racers who want an\nextra challenge. To get involved go to adventureaustralia.com.au\nC\nFilm Frenzy\n21 June & 19 July\nMEMORABLE MOVIES IN MIDLAND\nWhere: Town Hall\nTake a trip down memory lane at the Memorable Movies gathering, held once a month.\nThis June the memorable movie is Roman Holiday, the 1953 classic starring Gregory\nPeck and Audrey Hepburn. Then in July there is a school holiday special presentation of",
-                ""
-              ],
-              [
-                "The World's Fastest Indian, a true-life story of motorcycle enthusiast and world-record\nbreaker Burt Munro, starring Anthony Hopkins.\nD\nFestivals and Fairs\n17 to 19 June\nHILLARYS ANTIQUE AND VINTAGE FAIR\nWhere: Hillarys Boat Harbour\nThe Antique and Vintage Fair will showcase hidden treasures from the past, including\nfascinating items from antique furniture to retro fashion. Antique valuers will also be on\nthe premises to give expert advice on buying and selling as attendees peruse the\nvarious stalls underneath one giant tent.\nE\nMusic Magic\n29 to 30 July\nA TRIBUTE TO LOUIS ARMSTRONG\nWhere: Concert Hall\nLouis Armstrong revolutionised American jazz and dominated the scene for more than\n60 years. He defines the jazz style and is a legendary figure in music history. Conductor\nBenjamin Northey will accompany trumpeter James Morrison to pay tribute to the\nfamous musician by playing some of his most well-known and beloved hits. Go to\nwaso.com.au for more details.\nF\nAll the Rest\nUntil 18 October",
-                null
-              ]
-            ],
-            "header": [
-              "running, trekking, kayaking, rock climbing and other adventure sports to test physical\nstrength, endurance and willpower. The race caters to both inexperienced and seasoned\nracers with a 'Raw' course for beginners and a 'Hardcore' course for racers who want an\nextra challenge. To get involved go to adventureaustralia.com.au\nC\nFilm Frenzy\n21 June & 19 July\nMEMORABLE MOVIES IN MIDLAND\nWhere: Town Hall\nTake a trip down memory lane at the Memorable Movies gathering, held once a month.\nThis June the memorable movie is Roman Holiday, the 1953 classic starring Gregory\nPeck and Audrey Hepburn. Then in July there is a school holiday special presentation of",
-              ""
-            ]
+            "label": null,
+            "text": "Read the text and answer the questions 1-4."
+          },
+          {
+            "label": null,
+            "text": "TEXT 1"
+          },
+          {
+            "label": null,
+            "text": "Winter is here but shorter days don't mean less to do."
+          },
+          {
+            "label": null,
+            "text": "A\nThe Great Outdoors"
+          },
+          {
+            "label": null,
+            "text": "Sundays, June and July"
+          },
+          {
+            "label": null,
+            "text": "ORIENTEERING"
+          },
+          {
+            "label": null,
+            "text": "Where: various bush and farm locations Orienteering is an outdoor activity that\ncombines adventure and sport with navigational skills through the bush. Take a hike or\nmountain-bike ride through a set course in a different bush or farm location on each\nexcursion with guidance from a compass and a map. Each course is within an hour's\ndrive of the CBD. This is a fun, easy way to enhance fitness for the whole family, ages 7-\n70. To learn more about orienteering or sign up for a course, visit wa.orienteering.\nasn.au or call 9215 0700."
+          },
+          {
+            "label": "B",
+            "text": "Mountain Designs Adventure Race Australia"
+          },
+          {
+            "label": null,
+            "text": "4 July"
+          },
+          {
+            "label": null,
+            "text": "Where: bush camp and forest retreat"
+          },
+          {
+            "label": null,
+            "text": "Adventure Race Australia heightens the thrill of adventure racing, combining biking,"
+          },
+          {
+            "label": null,
+            "text": "running, trekking, kayaking, rock climbing and other adventure sports to test physical\nstrength, endurance and willpower. The race caters to both inexperienced and seasoned\nracers with a 'Raw' course for beginners and a 'Hardcore' course for racers who want an\nextra challenge. To get involved go to adventureaustralia.com.au"
+          },
+          {
+            "label": "C",
+            "text": "Film Frenzy"
+          },
+          {
+            "label": null,
+            "text": "21 June & 19 July"
+          },
+          {
+            "label": null,
+            "text": "MEMORABLE MOVIES IN MIDLAND"
+          },
+          {
+            "label": null,
+            "text": "Where: Town Hall"
+          },
+          {
+            "label": null,
+            "text": "Take a trip down memory lane at the Memorable Movies gathering, held once a month.\nThis June the memorable movie is Roman Holiday, the 1953 classic starring Gregory\nPeck and Audrey Hepburn. Then in July there is a school holiday special presentation of\nThe World's Fastest Indian, a true-life story of motorcycle enthusiast and world-record\nbreaker Burt Munro, starring Anthony Hopkins."
+          },
+          {
+            "label": "D",
+            "text": "Festivals and Fairs"
+          },
+          {
+            "label": null,
+            "text": "17 to 19 June"
+          },
+          {
+            "label": null,
+            "text": "HILLARYS ANTIQUE AND VINTAGE FAIR"
+          },
+          {
+            "label": null,
+            "text": "Where: Hillarys Boat Harbour"
+          },
+          {
+            "label": null,
+            "text": "The Antique and Vintage Fair will showcase hidden treasures from the past, including\nfascinating items from antique furniture to retro fashion. Antique valuers will also be on\nthe premises to give expert advice on buying and selling as attendees peruse the\nvarious stalls underneath one giant tent."
+          },
+          {
+            "label": "E",
+            "text": "Music Magic"
+          },
+          {
+            "label": null,
+            "text": "29 to 30 July"
+          },
+          {
+            "label": null,
+            "text": "A TRIBUTE TO LOUIS ARMSTRONG"
+          },
+          {
+            "label": null,
+            "text": "Where: Concert Hall"
+          },
+          {
+            "label": null,
+            "text": "Louis Armstrong revolutionised American jazz and dominated the scene for more than\n60 years. He defines the jazz style and is a legendary figure in music history. Conductor\nBenjamin Northey will accompany trumpeter James Morrison to pay tribute to the\nfamous musician by playing some of his most well-known and beloved hits. Go to\nwaso.com.au for more details."
+          },
+          {
+            "label": "F",
+            "text": "All the Rest"
+          },
+          {
+            "label": null,
+            "text": "Until 18 October"
+          },
+          {
+            "label": null,
+            "text": "WHODUNNIT? EXHIBITION"
+          },
+          {
+            "label": null,
+            "text": "Where: Scitech"
+          },
+          {
+            "label": null,
+            "text": "Become a detective for a day at the Whodunnit? Exhibition. The exhibition is a\nfabricated crime scene in a zoo: someone has shot and killed a security guard, and a\nfamous white rhino is missing. Guests use forensic science to obtain evidence and solve\nthe crimes. For details visit scitech.org."
+          },
+          {
+            "label": null,
+            "text": "Source: RAC Horizons magazine"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 5-10."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "BARE-HEADED BIKER DIES IN HELMET PROTEST RIDE"
+          },
+          {
+            "label": null,
+            "text": "New York. A motorcyclist taking part in a protest against helmet laws has died after he\nwent over his handlebars and hit his head on the pavement. Philip Contos, 55, probably\nwould have survived the accident on Saturday in Onondaga if he was wearing a helmet,\npolice said."
+          },
+          {
+            "label": null,
+            "text": "Mr Contos was riding a Harley-Davidson when he braked and lost control. New York is\none of 20 states that require motorcyclists to wear helmets. Lobbying by motorcyclist\ngroups has led some states to repeal helmet laws."
+          },
+          {
+            "label": null,
+            "text": "Source: Reuters.com"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 11-14."
+          },
+          {
+            "label": null,
+            "text": "TEXT 3"
+          },
+          {
+            "label": null,
+            "text": "KENNEDY RANGE NATIONAL PARK"
+          },
+          {
+            "label": null,
+            "text": "CARING FOR THE PARK"
+          },
+          {
+            "label": null,
+            "text": "Be kind. Do not disturb animals, plants or rocks. No firearms or pets are permitted in\nKennedy Range National Park."
+          },
+          {
+            "label": null,
+            "text": "Be responsible. Use your portable gas stove. Dead wood is habitat for wildlife."
+          },
+          {
+            "label": null,
+            "text": "Be clean. Take your rubbish out of the park when you leave."
+          },
+          {
+            "label": null,
+            "text": "Be careful. Stay on the paths and help prevent erosion. Look out for falling rocks. Your\nsafety is our concern but your responsibility."
+          },
+          {
+            "label": null,
+            "text": "Be prepared. The trails are rough and steep in places. Wear sturdy footwear and carry\nyour own water at all times."
+          },
+          {
+            "label": null,
+            "text": "Be considerate. Fossicking and collecting rocks, gemstones and fossils is not permitted."
+          },
+          {
+            "label": null,
+            "text": "VISITOR INFORMATION"
+          },
+          {
+            "label": null,
+            "text": "Access"
+          },
+          {
+            "label": null,
+            "text": "The unsealed road to the eastern escarpment is usually suitable for two-wheel drive\nvehicles."
+          },
+          {
+            "label": null,
+            "text": "Access to the western side of the park via the Gascoyne River is recommended only for\nhigh-\nclearance four-wheel drive vehicles. Roads may be closed after heavy rain. Watch out\nfor wildlife."
+          },
+          {
+            "label": null,
+            "text": "Flights and safari tours to Kennedy Range are available through visitor centres in\nCarnarvon, Denham and other local towns."
+          },
+          {
+            "label": null,
+            "text": "Overnight"
+          },
+          {
+            "label": null,
+            "text": "Bush camping is permitted at Temple Gorge campground at the base of the eastern\nescarpment. Accommodation is available at Gascoyne Junction (about 60km from the\npark) and station accommodation can be arranged by contacting the Shire of Upper\nGascoyne."
+          },
+          {
+            "label": null,
+            "text": "Always carry ample supplies of fuel and water. Pastoral stations surround the Kennedy\nRange National Park and access through the stations is only permitted with the\nmanager's approval."
+          },
+          {
+            "label": null,
+            "text": "FURTHER INFORMATION"
+          },
+          {
+            "label": null,
+            "text": "Department of Environment and Conservation campground hosts are usually based at\nthe Kennedy Range during the winter months."
+          },
+          {
+            "label": null,
+            "text": "Source: Department of Environment and"
+          },
+          {
+            "label": null,
+            "text": "Conservation, WA"
           }
         ],
+        "text": "Read the text and answer the questions 1-4.\n\nTEXT 1\n\nWinter is here but shorter days don't mean less to do.\n\nA\nThe Great Outdoors\n\nSundays, June and July\n\nORIENTEERING\n\nWhere: various bush and farm locations Orienteering is an outdoor activity that\ncombines adventure and sport with navigational skills through the bush. Take a hike or\nmountain-bike ride through a set course in a different bush or farm location on each\nexcursion with guidance from a compass and a map. Each course is within an hour's\ndrive of the CBD. This is a fun, easy way to enhance fitness for the whole family, ages 7-\n70. To learn more about orienteering or sign up for a course, visit wa.orienteering.\nasn.au or call 9215 0700.\n\nMountain Designs Adventure Race Australia\n\n4 July\n\nWhere: bush camp and forest retreat\n\nAdventure Race Australia heightens the thrill of adventure racing, combining biking,\n\nrunning, trekking, kayaking, rock climbing and other adventure sports to test physical\nstrength, endurance and willpower. The race caters to both inexperienced and seasoned\nracers with a 'Raw' course for beginners and a 'Hardcore' course for racers who want an\nextra challenge. To get involved go to adventureaustralia.com.au\n\nFilm Frenzy\n\n21 June & 19 July\n\nMEMORABLE MOVIES IN MIDLAND\n\nWhere: Town Hall\n\nTake a trip down memory lane at the Memorable Movies gathering, held once a month.\nThis June the memorable movie is Roman Holiday, the 1953 classic starring Gregory\nPeck and Audrey Hepburn. Then in July there is a school holiday special presentation of\nThe World's Fastest Indian, a true-life story of motorcycle enthusiast and world-record\nbreaker Burt Munro, starring Anthony Hopkins.\n\nFestivals and Fairs\n\n17 to 19 June\n\nHILLARYS ANTIQUE AND VINTAGE FAIR\n\nWhere: Hillarys Boat Harbour\n\nThe Antique and Vintage Fair will showcase hidden treasures from the past, including\nfascinating items from antique furniture to retro fashion. Antique valuers will also be on\nthe premises to give expert advice on buying and selling as attendees peruse the\nvarious stalls underneath one giant tent.\n\nMusic Magic\n\n29 to 30 July\n\nA TRIBUTE TO LOUIS ARMSTRONG\n\nWhere: Concert Hall\n\nLouis Armstrong revolutionised American jazz and dominated the scene for more than\n60 years. He defines the jazz style and is a legendary figure in music history. Conductor\nBenjamin Northey will accompany trumpeter James Morrison to pay tribute to the\nfamous musician by playing some of his most well-known and beloved hits. Go to\nwaso.com.au for more details.\n\nAll the Rest\n\nUntil 18 October\n\nWHODUNNIT? EXHIBITION\n\nWhere: Scitech\n\nBecome a detective for a day at the Whodunnit? Exhibition. The exhibition is a\nfabricated crime scene in a zoo: someone has shot and killed a security guard, and a\nfamous white rhino is missing. Guests use forensic science to obtain evidence and solve\nthe crimes. For details visit scitech.org.\n\nSource: RAC Horizons magazine\n\nRead the text below and answer questions 5-10.\n\nTEXT 2\n\nBARE-HEADED BIKER DIES IN HELMET PROTEST RIDE\n\nNew York. A motorcyclist taking part in a protest against helmet laws has died after he\nwent over his handlebars and hit his head on the pavement. Philip Contos, 55, probably\nwould have survived the accident on Saturday in Onondaga if he was wearing a helmet,\npolice said.\n\nMr Contos was riding a Harley-Davidson when he braked and lost control. New York is\none of 20 states that require motorcyclists to wear helmets. Lobbying by motorcyclist\ngroups has led some states to repeal helmet laws.\n\nSource: Reuters.com\n\nRead the text below and answer questions 11-14.\n\nTEXT 3\n\nKENNEDY RANGE NATIONAL PARK\n\nCARING FOR THE PARK\n\nBe kind. Do not disturb animals, plants or rocks. No firearms or pets are permitted in\nKennedy Range National Park.\n\nBe responsible. Use your portable gas stove. Dead wood is habitat for wildlife.\n\nBe clean. Take your rubbish out of the park when you leave.\n\nBe careful. Stay on the paths and help prevent erosion. Look out for falling rocks. Your\nsafety is our concern but your responsibility.\n\nBe prepared. The trails are rough and steep in places. Wear sturdy footwear and carry\nyour own water at all times.\n\nBe considerate. Fossicking and collecting rocks, gemstones and fossils is not permitted.\n\nVISITOR INFORMATION\n\nAccess\n\nThe unsealed road to the eastern escarpment is usually suitable for two-wheel drive\nvehicles.\n\nAccess to the western side of the park via the Gascoyne River is recommended only for\nhigh-\nclearance four-wheel drive vehicles. Roads may be closed after heavy rain. Watch out\nfor wildlife.\n\nFlights and safari tours to Kennedy Range are available through visitor centres in\nCarnarvon, Denham and other local towns.\n\nOvernight\n\nBush camping is permitted at Temple Gorge campground at the base of the eastern\nescarpment. Accommodation is available at Gascoyne Junction (about 60km from the\npark) and station accommodation can be arranged by contacting the Shire of Upper\nGascoyne.\n\nAlways carry ample supplies of fuel and water. Pastoral stations surround the Kennedy\nRange National Park and access through the stations is only permitted with the\nmanager's approval.\n\nFURTHER INFORMATION\n\nDepartment of Environment and Conservation campground hosts are usually based at\nthe Kennedy Range during the winter months.\n\nSource: Department of Environment and\n\nConservation, WA",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Look at texts A-F above from a 'What's On in Winter' guide. For which text are the following statements true? Write the correct letter A-F in boxes 1-4 on your answer sheet. Note: you may use any letter more than once. Which two activities involve outdoor sport? (Ex:A,B)",
+          "body": "[[1]] Which activity would music lovers enjoy? [[2]] Which activity is held monthly? [[3]] Which activity would suit young science lovers? [[4]]",
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information in the article? In boxes 5-10 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS for the text for each answer. Write your answers in boxes 11-14 on your answer sheet. Access roads to the national park can at times be closed due to",
+          "body": "[[11]] Using wood for campfires in the park is not encouraged, so campers are asked to use a [[12]] for cooking. It is not permitted for visitors to collect rocks, [[13]] from the national park. Visitors can stay overnight at the camping ground near the Gorge, or can [[14]] to other accommodation at Gascoyne Junction.",
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
         {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A, B",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
           "number": 4,
-          "type": "matching-features",
-          "prompt": "July",
-          "instruction": "Read the text and answer the questions 1-4. TEXT 1 Winter is here but shorter days don't mean less to do. A The Great Outdoors Sundays, June and July ORIENTEERING Where: various bush and farm locations Orienteering is an outdoor activity that combines adventure and sport with navigational skills through the bush. Take a hike or mountain-bike ride through a set course in a different bush or farm location on each excursion with guidance from a compass and a map. Each course is within an hour's drive of the CBD. This is a fun, easy way to enhance fitness for the whole family, ages 7- 70. To learn more about orienteering or sign up for a course, visit wa.orienteering. asn.au or call 9215 0700. B Mountain Designs Adventure Race Australia",
-          "answer": "F"
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "This incident took place in Onondaga, New York.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "The motorcyclist was wearing a helmet when he",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "More than a hundred motorcyclists were taking part in",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "New York State requires motorcyclists to wear helmets.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "All states in the USA require motorcyclists to wear",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Protests in the USA against compulsory use of\nmotorcycle helmets have at times been successful.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "heavy rain",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "portable gas stove",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "gemstones and fossils",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p1g3",
+          "prompt": "to other accommodation at Gascoyne Junction.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "travel/drive 60 km/be arranged",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "VOLUNTEERING IN THE AMEP MIGRANT",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        21
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nVOLUNTEERING IN THE AMEP MIGRANT\nEDUCATION PROGRAM",
-        "tables": [
+        "heading": "TEXT 1",
+        "paragraphs": [
           {
-            "page": 9,
-            "rows": [
-              [
-                "• Volunteering benefits the community and the volunteer.\n• Volunteer work is unpaid.\n• Volunteering is always a matter of choice.\n• Volunteering is a legitimate way in which citizens can participate in the activities of\ntheir community.\n• Volunteering is a vehicle for individuals or groups to address human, environmental\nand social needs.\n• Volunteering respects the rights, dignity and culture of others.\n• Volunteering promotes human rights and equality.\nWANT MORE INFORMATION?",
-                ""
-              ],
-              [
-                "Volunteering Western Australia\n2 Delhi Street\nWest Perth, WA 6005\nPhone 9482 4333\nPOLYTECHNIC WEST AMEP HOME TUTOR ROLE DESCRIPTION\nPosition objective\nTo provide English-language support, links to the community and an understanding of\nAustralian culture to migrants and humanitarian entrants from culturally and\nlinguistically diverse ( CaLD) backgrounds.\nReporting line\nThe Home Tutor Scheme Coordinator is the manager for all home tutors and directs the\nactivities of all home tutors.\nTerms of voluntary employment\nThe position is unpaid and voluntary. Reimbursement for travel and out-of- pocket\nexpenses is not provided.\nEssential requirements\nEngagement as a home tutor is subject to\n• program needs\n• satisfactory police and referee checks\n• satisfactory Working With Children Check (WWCC) for those working with young\npeople under the age of eighteen\n• completion of the required training program\n• participation in ongoing professional development\n• satisfactory performance and conduct.",
-                null
-              ]
-            ],
-            "header": [
-              "• Volunteering benefits the community and the volunteer.\n• Volunteer work is unpaid.\n• Volunteering is always a matter of choice.\n• Volunteering is a legitimate way in which citizens can participate in the activities of\ntheir community.\n• Volunteering is a vehicle for individuals or groups to address human, environmental\nand social needs.\n• Volunteering respects the rights, dignity and culture of others.\n• Volunteering promotes human rights and equality.\nWANT MORE INFORMATION?",
-              ""
-            ]
+            "label": null,
+            "text": "VOLUNTEERING IN THE AMEP MIGRANT\nEDUCATION PROGRAM"
           },
           {
-            "page": 12,
-            "rows": [
-              [
-                "Brainstorm the task you have been given. Clarify together the exact purpose of the\npresentation. Argue and talk until you all agree about the objective and the\nrequirements. If the instructions seem ambiguous, talk to the lecturer and make sure\nyou are all aware of any specifications or expectations of this assignment.\nSTEP 3\nLook at the chart of Belbin's team roles. (If you haven't talked about this chart yet in\nclass, you may need to spend some time discussing it in your group, or perhaps agree\nthat you will all look at it at home and discuss it at your next meeting.) Talk about the\nroles each of you tends to play in teams, and consider the balance of roles you have in\nthis team. Given the combination of roles you have, what strengths and problems do\nyou anticipate your team might have?\nSTEP 4\nIt's time to be honest and tell each other about your own skills-those that are relevant\nto this team assignment. For example:\n• I am good at following through research, and getting all the details correct.\n• My critical reading skills are good-I give useful feedback on other people's ideas. I",
-                ""
-              ],
-              [
-                "have lots of creative ideas.\n• I finish tasks on time.\n• I speak fluently and confidently.\n• I'm good at organising an audience ( e.g. during a question-and-answer session or an\naudience involvement activity).\n• I can make excellent PowerPoint slides.\nTry to be open about your capabilities and expectations of the assignment. However,\nnote that none of you can shirk the responsibility of being part of a team-you must all\ndo an equal amount of work. Look back at the section on teamwork and conflict\nresolution.\nIt is also a good time to talk about whether you are aiming for a High Distinction or a\nmere Pass. If there are discrepancies in the group on this point, try to resolve these in\nan adult manner. For example, if you are the only group member aiming for a High\nDistinction, consider these issues:\n• What are you prepared to do to make this more likely to happen?\n• How will you feel if other team members get a higher mark than they deserve thanks\nto your effort?\n• Are the other members prepared to meet you halfway?\nSTEP 5\nPlan-and write down-all the tasks and roles you think are required for this assignment,\nand start to organise and volunteer for particular tasks. (But be aware that the tasks\nmay change as you all start working on the assignment.) You will need to do more work",
-                null
-              ]
-            ],
-            "header": [
-              "Brainstorm the task you have been given. Clarify together the exact purpose of the\npresentation. Argue and talk until you all agree about the objective and the\nrequirements. If the instructions seem ambiguous, talk to the lecturer and make sure\nyou are all aware of any specifications or expectations of this assignment.\nSTEP 3\nLook at the chart of Belbin's team roles. (If you haven't talked about this chart yet in\nclass, you may need to spend some time discussing it in your group, or perhaps agree\nthat you will all look at it at home and discuss it at your next meeting.) Talk about the\nroles each of you tends to play in teams, and consider the balance of roles you have in\nthis team. Given the combination of roles you have, what strengths and problems do\nyou anticipate your team might have?\nSTEP 4\nIt's time to be honest and tell each other about your own skills-those that are relevant\nto this team assignment. For example:\n• I am good at following through research, and getting all the details correct.\n• My critical reading skills are good-I give useful feedback on other people's ideas. I",
-              ""
-            ]
+            "label": null,
+            "text": "Read the text on below and answer questions 15-21."
+          },
+          {
+            "label": null,
+            "text": "HOW DOES VOLUNTEERING WORK?"
+          },
+          {
+            "label": null,
+            "text": "Someone who wants to become a home tutor makes initial contact with one of the\nHome Tutor Scheme staff. The home tutor applicant then completes an application form\nand undergoes a reference check and a police check, paid for by Polytechnic West\nAMEP. Home tutors who work with young people under the age of eighteen also\nundertake a Working With Children Check (WWCC), paid for by Polytechnic West AMEP."
+          },
+          {
+            "label": null,
+            "text": "All home tutors are required to undertake a training program. Home Tutor Scheme staff\nthen match home tutors with a student, based on a range of factors such as previously\nstated preferences, locations and availability, or assign home tutors to centre-based\nactivities, such as classroom support or conversation groups."
+          },
+          {
+            "label": null,
+            "text": "All home tutor matches are reviewed each term. The home tutor can request a review\nof the match at any time."
+          },
+          {
+            "label": null,
+            "text": "Polytechnic West AMEP provides opportunities for volunteers to meet with each other\nand Home Tutor Scheme staff and to network and exchange ideas."
+          },
+          {
+            "label": null,
+            "text": "PRINCIPLES OF VOLUNTEERING"
+          },
+          {
+            "label": null,
+            "text": "Polytechnic West AMEP endorses the following Principles of Volunteering as developed\nby Volunteering Western Australia"
+          },
+          {
+            "label": null,
+            "text": "- Volunteering benefits the community and the volunteer."
+          },
+          {
+            "label": null,
+            "text": "- Volunteer work is unpaid."
+          },
+          {
+            "label": null,
+            "text": "- Volunteering is always a matter of choice."
+          },
+          {
+            "label": null,
+            "text": "- Volunteering is a legitimate way in which citizens can participate in the activities of\ntheir community."
+          },
+          {
+            "label": null,
+            "text": "- Volunteering is a vehicle for individuals or groups to address human, environmental\nand social needs."
+          },
+          {
+            "label": null,
+            "text": "- Volunteering respects the rights, dignity and culture of others."
+          },
+          {
+            "label": null,
+            "text": "- Volunteering promotes human rights and equality."
+          },
+          {
+            "label": null,
+            "text": "WANT MORE INFORMATION?"
+          },
+          {
+            "label": null,
+            "text": "Volunteering Western Australia"
+          },
+          {
+            "label": null,
+            "text": "2 Delhi Street"
+          },
+          {
+            "label": null,
+            "text": "West Perth, WA 6005"
+          },
+          {
+            "label": null,
+            "text": "Phone 9482 4333"
+          },
+          {
+            "label": null,
+            "text": "POLYTECHNIC WEST AMEP HOME TUTOR ROLE DESCRIPTION"
+          },
+          {
+            "label": null,
+            "text": "Position objective"
+          },
+          {
+            "label": null,
+            "text": "To provide English-language support, links to the community and an understanding of\nAustralian culture to migrants and humanitarian entrants from culturally and\nlinguistically diverse ( CaLD) backgrounds."
+          },
+          {
+            "label": null,
+            "text": "Reporting line"
+          },
+          {
+            "label": null,
+            "text": "The Home Tutor Scheme Coordinator is the manager for all home tutors and directs the\nactivities of all home tutors."
+          },
+          {
+            "label": null,
+            "text": "Terms of voluntary employment"
+          },
+          {
+            "label": null,
+            "text": "The position is unpaid and voluntary. Reimbursement for travel and out-of- pocket\nexpenses is not provided."
+          },
+          {
+            "label": null,
+            "text": "Essential requirements"
+          },
+          {
+            "label": null,
+            "text": "Engagement as a home tutor is subject to"
+          },
+          {
+            "label": null,
+            "text": "- program needs"
+          },
+          {
+            "label": null,
+            "text": "- satisfactory police and referee checks"
+          },
+          {
+            "label": null,
+            "text": "- satisfactory Working With Children Check (WWCC) for those working with young\npeople under the age of eighteen"
+          },
+          {
+            "label": null,
+            "text": "- completion of the required training program"
+          },
+          {
+            "label": null,
+            "text": "- participation in ongoing professional development"
+          },
+          {
+            "label": null,
+            "text": "Duties"
+          },
+          {
+            "label": null,
+            "text": "- Provide English-language support and a general understanding of Australian culture\nand/ or"
+          },
+          {
+            "label": null,
+            "text": "- prepare appropriate sessions using standardised home tutor teaching materials"
+          },
+          {
+            "label": null,
+            "text": "- maintain regular contact with the Home Tutor Scheme staff"
+          },
+          {
+            "label": null,
+            "text": "- keep a record of visits, activities completed, and achievements on the forms supplied\nby the Home Tutor Scheme"
+          },
+          {
+            "label": null,
+            "text": "- return records to the Home Tutor Scheme each month."
+          },
+          {
+            "label": null,
+            "text": "Essential skills and qualities"
+          },
+          {
+            "label": null,
+            "text": "- Proficient and intelligible spoken and written English"
+          },
+          {
+            "label": null,
+            "text": "- good interpersonal and communication skills"
+          },
+          {
+            "label": null,
+            "text": "- an understanding of and empathy with people from diverse cultural backgrounds"
+          },
+          {
+            "label": null,
+            "text": "- a non-judgemental attitude"
+          },
+          {
+            "label": null,
+            "text": "- an ability to work independently."
+          },
+          {
+            "label": null,
+            "text": "Time commitment"
+          },
+          {
+            "label": null,
+            "text": "- Minimum of one hour per week"
+          },
+          {
+            "label": null,
+            "text": "- Minimum of six months duration."
+          },
+          {
+            "label": null,
+            "text": "Qualifications"
+          },
+          {
+            "label": null,
+            "text": "No formal qualifications or proficiency in a second language are required"
+          },
+          {
+            "label": null,
+            "text": "Meeting places"
+          },
+          {
+            "label": null,
+            "text": "- The student's home"
+          },
+          {
+            "label": null,
+            "text": "- A Polytechnic West AMEP centre or community location"
+          },
+          {
+            "label": null,
+            "text": "- Another mutually convenient meeting place."
+          },
+          {
+            "label": null,
+            "text": "Training for volunteers"
+          },
+          {
+            "label": null,
+            "text": "Home tutors are provided with:"
+          },
+          {
+            "label": null,
+            "text": "- 15 hours initial training, including cross-cultural awareness training"
+          },
+          {
+            "label": null,
+            "text": "- ongoing advice and support"
+          },
+          {
+            "label": null,
+            "text": "- standardised, quality controlled home tutor guidance material ( available online or in\nprint)"
+          },
+          {
+            "label": null,
+            "text": "- regular newsletters"
+          },
+          {
+            "label": null,
+            "text": "- access to the Home Tutor Scheme blog"
+          },
+          {
+            "label": null,
+            "text": "- other resources supplied or suggested by the Home Tutor Scheme staff."
+          },
+          {
+            "label": null,
+            "text": "Dress code"
+          },
+          {
+            "label": null,
+            "text": "Neat casual and culturally appropriate."
+          },
+          {
+            "label": null,
+            "text": "Termination of voluntary employment"
+          },
+          {
+            "label": null,
+            "text": "Employment as a volunteer is subject to satisfactory performance of the duties as\noutlined and adherence to the Code of Conduct-Home Tutor Scheme. Home tutors may\nbe asked to leave the program if the Home Tutor Scheme Coordinator deems that they\nare unsatisfactory."
+          },
+          {
+            "label": null,
+            "text": "Source: Polytechnic West, Perth"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "UNIVERSITY LIFE: GROUP ORAL PRESENTATIONS"
+          },
+          {
+            "label": null,
+            "text": "We have already discussed how to organise a group written assignment. We will repeat\nsome of this information below, applying it to the oral presentation."
+          },
+          {
+            "label": null,
+            "text": "PLANNING YOUR ORAL PRESENTATION"
+          },
+          {
+            "label": null,
+            "text": "First clarify with your lecturer how your group oral presentation will be assessed:"
+          },
+          {
+            "label": null,
+            "text": "- Will you be assessed on the group processes, or just on the product of your team? Will\nyou all be given the same team mark, or is there an individual component within the\nmark? Has the lecturer put in place any procedures to deal with assessing students who\ndo not do their fair share of the work?"
+          },
+          {
+            "label": null,
+            "text": "- Must all group members make the same contribution to the task ( e.g. each member\nmust speak for five minutes; each member must contribute to a group PowerPoint), or\nmust you all make equivalent contributions to the task? In the latter case, for example,\none member might put together the entire group PowerPoint, then speak for less time\nthan the others during the group's oral presentation."
+          },
+          {
+            "label": null,
+            "text": "As soon as you are given your group assignment, meet as a team very briefly to work\nthrough the following steps."
+          },
+          {
+            "label": null,
+            "text": "STEP 1"
+          },
+          {
+            "label": null,
+            "text": "Immediately introduce yourselves, and exchange mobile phone numbers, email\naddresses and MSN ( or other) sign-in names. Write these details down now ( or enter\nthem into your phones), but do not continue the process until you know each other's\ndetails."
+          },
+          {
+            "label": null,
+            "text": "STEP 2"
+          },
+          {
+            "label": null,
+            "text": "Brainstorm the task you have been given. Clarify together the exact purpose of the\npresentation. Argue and talk until you all agree about the objective and the\nrequirements. If the instructions seem ambiguous, talk to the lecturer and make sure\nyou are all aware of any specifications or expectations of this assignment."
+          },
+          {
+            "label": null,
+            "text": "STEP 3"
+          },
+          {
+            "label": null,
+            "text": "Look at the chart of Belbin's team roles. (If you haven't talked about this chart yet in\nclass, you may need to spend some time discussing it in your group, or perhaps agree\nthat you will all look at it at home and discuss it at your next meeting.) Talk about the\nroles each of you tends to play in teams, and consider the balance of roles you have in\nthis team. Given the combination of roles you have, what strengths and problems do\nyou anticipate your team might have?"
+          },
+          {
+            "label": null,
+            "text": "STEP 4"
+          },
+          {
+            "label": null,
+            "text": "It's time to be honest and tell each other about your own skills-those that are relevant\nto this team assignment. For example:"
+          },
+          {
+            "label": null,
+            "text": "- I am good at following through research, and getting all the details correct."
+          },
+          {
+            "label": null,
+            "text": "- My critical reading skills are good-I give useful feedback on other people's ideas. I\nhave lots of creative ideas."
+          },
+          {
+            "label": null,
+            "text": "- I finish tasks on time."
+          },
+          {
+            "label": null,
+            "text": "- I speak fluently and confidently."
+          },
+          {
+            "label": null,
+            "text": "- I'm good at organising an audience ( e.g. during a question-and-answer session or an\naudience involvement activity)."
+          },
+          {
+            "label": null,
+            "text": "- I can make excellent PowerPoint slides."
+          },
+          {
+            "label": null,
+            "text": "Try to be open about your capabilities and expectations of the assignment. However,\nnote that none of you can shirk the responsibility of being part of a team-you must all\ndo an equal amount of work. Look back at the section on teamwork and conflict\nresolution."
+          },
+          {
+            "label": null,
+            "text": "It is also a good time to talk about whether you are aiming for a High Distinction or a\nmere Pass. If there are discrepancies in the group on this point, try to resolve these in\nan adult manner. For example, if you are the only group member aiming for a High\nDistinction, consider these issues:"
+          },
+          {
+            "label": null,
+            "text": "- What are you prepared to do to make this more likely to happen?"
+          },
+          {
+            "label": null,
+            "text": "- How will you feel if other team members get a higher mark than they deserve thanks\nto your effort?"
+          },
+          {
+            "label": null,
+            "text": "- Are the other members prepared to meet you halfway?"
+          },
+          {
+            "label": null,
+            "text": "STEP 5"
+          },
+          {
+            "label": null,
+            "text": "Plan-and write down-all the tasks and roles you think are required for this assignment,\nand start to organise and volunteer for particular tasks. (But be aware that the tasks\nmay change as you all start working on the assignment.) You will need to do more work"
+          },
+          {
+            "label": null,
+            "text": "at the next meeting to clarify exactly what you need to do to complete the assignment\nsuccessfully. Consider all practical issues, such as obtaining equipment and preparing\nvisual aids."
+          },
+          {
+            "label": null,
+            "text": "If this is your first group work assignment, accept that this process may be imperfect,\nbut as time passes you will all get to know each other more and know who does what\njob well. If this is the first time you have met your peers, try to use consensus to assign\ntasks or roles."
+          },
+          {
+            "label": null,
+            "text": "STEP 6"
+          },
+          {
+            "label": null,
+            "text": "Organise at least two meeting dates now, and decide on some deadlines. Make the first\nmeeting date soon-within the next seven days. Discuss the possibility of simultaneous\nchat time together. If you're going to make a team PowerPoint or set of overhead\ntransparencies, make decisions about when you must email attachments to each other\nso that you can share information and make team layout decisions."
+          },
+          {
+            "label": null,
+            "text": "Source: Grellier & Goerke,\nCommunication Skills Toolkit, 2010"
           }
         ],
+        "text": "VOLUNTEERING IN THE AMEP MIGRANT\nEDUCATION PROGRAM\n\nRead the text on below and answer questions 15-21.\n\nHOW DOES VOLUNTEERING WORK?\n\nSomeone who wants to become a home tutor makes initial contact with one of the\nHome Tutor Scheme staff. The home tutor applicant then completes an application form\nand undergoes a reference check and a police check, paid for by Polytechnic West\nAMEP. Home tutors who work with young people under the age of eighteen also\nundertake a Working With Children Check (WWCC), paid for by Polytechnic West AMEP.\n\nAll home tutors are required to undertake a training program. Home Tutor Scheme staff\nthen match home tutors with a student, based on a range of factors such as previously\nstated preferences, locations and availability, or assign home tutors to centre-based\nactivities, such as classroom support or conversation groups.\n\nAll home tutor matches are reviewed each term. The home tutor can request a review\nof the match at any time.\n\nPolytechnic West AMEP provides opportunities for volunteers to meet with each other\nand Home Tutor Scheme staff and to network and exchange ideas.\n\nPRINCIPLES OF VOLUNTEERING\n\nPolytechnic West AMEP endorses the following Principles of Volunteering as developed\nby Volunteering Western Australia\n\n- Volunteering benefits the community and the volunteer.\n\n- Volunteer work is unpaid.\n\n- Volunteering is always a matter of choice.\n\n- Volunteering is a legitimate way in which citizens can participate in the activities of\ntheir community.\n\n- Volunteering is a vehicle for individuals or groups to address human, environmental\nand social needs.\n\n- Volunteering respects the rights, dignity and culture of others.\n\n- Volunteering promotes human rights and equality.\n\nWANT MORE INFORMATION?\n\nVolunteering Western Australia\n\n2 Delhi Street\n\nWest Perth, WA 6005\n\nPhone 9482 4333\n\nPOLYTECHNIC WEST AMEP HOME TUTOR ROLE DESCRIPTION\n\nPosition objective\n\nTo provide English-language support, links to the community and an understanding of\nAustralian culture to migrants and humanitarian entrants from culturally and\nlinguistically diverse ( CaLD) backgrounds.\n\nReporting line\n\nThe Home Tutor Scheme Coordinator is the manager for all home tutors and directs the\nactivities of all home tutors.\n\nTerms of voluntary employment\n\nThe position is unpaid and voluntary. Reimbursement for travel and out-of- pocket\nexpenses is not provided.\n\nEssential requirements\n\nEngagement as a home tutor is subject to\n\n- program needs\n\n- satisfactory police and referee checks\n\n- satisfactory Working With Children Check (WWCC) for those working with young\npeople under the age of eighteen\n\n- completion of the required training program\n\n- participation in ongoing professional development\n\nDuties\n\n- Provide English-language support and a general understanding of Australian culture\nand/ or\n\n- prepare appropriate sessions using standardised home tutor teaching materials\n\n- maintain regular contact with the Home Tutor Scheme staff\n\n- keep a record of visits, activities completed, and achievements on the forms supplied\nby the Home Tutor Scheme\n\n- return records to the Home Tutor Scheme each month.\n\nEssential skills and qualities\n\n- Proficient and intelligible spoken and written English\n\n- good interpersonal and communication skills\n\n- an understanding of and empathy with people from diverse cultural backgrounds\n\n- a non-judgemental attitude\n\n- an ability to work independently.\n\nTime commitment\n\n- Minimum of one hour per week\n\n- Minimum of six months duration.\n\nQualifications\n\nNo formal qualifications or proficiency in a second language are required\n\nMeeting places\n\n- The student's home\n\n- A Polytechnic West AMEP centre or community location\n\n- Another mutually convenient meeting place.\n\nTraining for volunteers\n\nHome tutors are provided with:\n\n- 15 hours initial training, including cross-cultural awareness training\n\n- ongoing advice and support\n\n- standardised, quality controlled home tutor guidance material ( available online or in\nprint)\n\n- regular newsletters\n\n- access to the Home Tutor Scheme blog\n\n- other resources supplied or suggested by the Home Tutor Scheme staff.\n\nDress code\n\nNeat casual and culturally appropriate.\n\nTermination of voluntary employment\n\nEmployment as a volunteer is subject to satisfactory performance of the duties as\noutlined and adherence to the Code of Conduct-Home Tutor Scheme. Home tutors may\nbe asked to leave the program if the Home Tutor Scheme Coordinator deems that they\nare unsatisfactory.\n\nSource: Polytechnic West, Perth\n\nRead the text below and answer questions 22-27.\n\nTEXT 2\n\nUNIVERSITY LIFE: GROUP ORAL PRESENTATIONS\n\nWe have already discussed how to organise a group written assignment. We will repeat\nsome of this information below, applying it to the oral presentation.\n\nPLANNING YOUR ORAL PRESENTATION\n\nFirst clarify with your lecturer how your group oral presentation will be assessed:\n\n- Will you be assessed on the group processes, or just on the product of your team? Will\nyou all be given the same team mark, or is there an individual component within the\nmark? Has the lecturer put in place any procedures to deal with assessing students who\ndo not do their fair share of the work?\n\n- Must all group members make the same contribution to the task ( e.g. each member\nmust speak for five minutes; each member must contribute to a group PowerPoint), or\nmust you all make equivalent contributions to the task? In the latter case, for example,\none member might put together the entire group PowerPoint, then speak for less time\nthan the others during the group's oral presentation.\n\nAs soon as you are given your group assignment, meet as a team very briefly to work\nthrough the following steps.\n\nSTEP 1\n\nImmediately introduce yourselves, and exchange mobile phone numbers, email\naddresses and MSN ( or other) sign-in names. Write these details down now ( or enter\nthem into your phones), but do not continue the process until you know each other's\ndetails.\n\nSTEP 2\n\nBrainstorm the task you have been given. Clarify together the exact purpose of the\npresentation. Argue and talk until you all agree about the objective and the\nrequirements. If the instructions seem ambiguous, talk to the lecturer and make sure\nyou are all aware of any specifications or expectations of this assignment.\n\nSTEP 3\n\nLook at the chart of Belbin's team roles. (If you haven't talked about this chart yet in\nclass, you may need to spend some time discussing it in your group, or perhaps agree\nthat you will all look at it at home and discuss it at your next meeting.) Talk about the\nroles each of you tends to play in teams, and consider the balance of roles you have in\nthis team. Given the combination of roles you have, what strengths and problems do\nyou anticipate your team might have?\n\nSTEP 4\n\nIt's time to be honest and tell each other about your own skills-those that are relevant\nto this team assignment. For example:\n\n- I am good at following through research, and getting all the details correct.\n\n- My critical reading skills are good-I give useful feedback on other people's ideas. I\nhave lots of creative ideas.\n\n- I finish tasks on time.\n\n- I speak fluently and confidently.\n\n- I'm good at organising an audience ( e.g. during a question-and-answer session or an\naudience involvement activity).\n\n- I can make excellent PowerPoint slides.\n\nTry to be open about your capabilities and expectations of the assignment. However,\nnote that none of you can shirk the responsibility of being part of a team-you must all\ndo an equal amount of work. Look back at the section on teamwork and conflict\nresolution.\n\nIt is also a good time to talk about whether you are aiming for a High Distinction or a\nmere Pass. If there are discrepancies in the group on this point, try to resolve these in\nan adult manner. For example, if you are the only group member aiming for a High\nDistinction, consider these issues:\n\n- What are you prepared to do to make this more likely to happen?\n\n- How will you feel if other team members get a higher mark than they deserve thanks\nto your effort?\n\n- Are the other members prepared to meet you halfway?\n\nSTEP 5\n\nPlan-and write down-all the tasks and roles you think are required for this assignment,\nand start to organise and volunteer for particular tasks. (But be aware that the tasks\nmay change as you all start working on the assignment.) You will need to do more work\n\nat the next meeting to clarify exactly what you need to do to complete the assignment\nsuccessfully. Consider all practical issues, such as obtaining equipment and preparing\nvisual aids.\n\nIf this is your first group work assignment, accept that this process may be imperfect,\nbut as time passes you will all get to know each other more and know who does what\njob well. If this is the first time you have met your peers, try to use consensus to assign\ntasks or roles.\n\nSTEP 6\n\nOrganise at least two meeting dates now, and decide on some deadlines. Make the first\nmeeting date soon-within the next seven days. Discuss the possibility of simultaneous\nchat time together. If you're going to make a team PowerPoint or set of overhead\ntransparencies, make decisions about when you must email attachments to each other\nso that you can share information and make team layout decisions.\n\nSource: Grellier & Goerke,\nCommunication Skills Toolkit, 2010",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below using NO MORE THAN THREE WORDS from the text. Write your answers in boxes 15-21 on your answer sheet.",
+          "body": "A volunteer who wants to work with [[15]] needs to provide extra documentation. In addition to language, tutors must also help students understand [[16]] Volunteers will not be paid for [[17]] Tutors need to [[18]] to further their skills and knowledge. Tutors are given training in [[19]] of other cultures. Volunteers must keep in touch with [[20]] staff. Volunteers must tutor at least [[21]] every week.",
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 22-27 on your answer sheet. Planning your presentation",
+          "body": "First, ask your tutor how your team [[22]] . This will determine whether the whole team is to be assessed equally or whether individual marks will be awarded. After exchanging contact details with other members of your team, brainstorm the task and decide as a team what the purpose of the task is and [[23]] Due to the balance of roles within your team, consider the [[24]] of your team, as well as the problems your team might face. Decide which personal skills you each have that might be most helpful to your team. These could include computer skills, speaking ability, creative skills or being able to [[25]] to meet a deadline. Plan and make a list of all tasks required for the presentation, and start to [[26]] for particular tasks. Consider all issues, including who will obtain equipment and prepare visual aids. Organise early meeting dates and decide on deadlines. If you plan to make a [[27]] or slides, decide when you will all need to email attachments to each other so you can share information and decide on layout.",
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "people under 18",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Australian culture",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "travel and expenses",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "undertake training",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "awareness",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Home Tutor Scheme",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "one hour",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "will be assessed/marked",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "what is required/its requirements/the requirements",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "strengths/strong points",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "finish/complete tasks",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "for particular tasks. Consider all issues, including who will obtain",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "organise and volunteer",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "or slides, decide when you will all need to email attachments to each",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "PowerPoint/PowerPoint presentation",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "DRIVEN TO DISTRACTION",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer questions 28-40."
+          },
+          {
+            "label": "A",
+            "text": "Distracted driving may not get the publicity given to alcohol, drugs and speed,\nbut it is thought to play a role in one third of fatal and serious injury crashes on\nroads. And while there is a strong community opposition to drink drivers or\npeople who speed, our attitude towards making phone calls or reading text\nmessages is much more relaxed. Surveys for the Office of Road Safety have\nfound that while 96 per cent of people believe reading and sending text\nmessages is distracting, 54 per cent admit reading texts and 3 5 per cent have\nsent them while driving. About 85 per cent of people think mobile phone use is\ndistracting but 46 per cent said they take calls on the road and 36 per cent\nconcede making them."
+          },
+          {
+            "label": null,
+            "text": "Then there are all the other distractions, from resolving arguments between\nthe kids to trying to navigate with a map book on your lap. Acting Sergeant\nChris Green, from the Police Traffic Enforcement Group, said distracted driving\nis extremely common-even in plain sight of the police."
+          },
+          {
+            "label": null,
+            "text": "'You see all sorts of things: people reading newspapers, putting on makeup,\nhaving their breakfast, reading books and maps,' he said."
+          },
+          {
+            "label": null,
+            "text": "'Map books are very common but you see people with all sorts of documents.\nThey have busy lives so they might have their information out for a doctor's\nappointment, not just at traffic lights but driving along."
+          },
+          {
+            "label": null,
+            "text": "'If there is a marked police car, lots of people will change their behaviour, but\nwith some of this behaviour, they are so caught up they don't notice the police\ncar right next to them.'"
+          },
+          {
+            "label": "B",
+            "text": "Acting Sgt Green said drivers can feel falsely confident about the road\nconditions, particularly on familiar routes, but an accident can occur in\nseconds."
+          },
+          {
+            "label": null,
+            "text": "'On the roads the environment changes every day. You could drive down that\nstreet a hundred times but on the 101 st time, there could be road works or a\npedestrian that steps out-anything can happen,' he said."
+          },
+          {
+            "label": null,
+            "text": "Despite recent changes to laws regarding the use of mobile phones-with a fine\nand three demerit points for people using them illegally-Acting Sgt Green said\ndrivers still flout the law."
+          },
+          {
+            "label": null,
+            "text": "Police are handing out an average of 225 infringement notices a week, down\non past years' figures, but still very high."
+          },
+          {
+            "label": null,
+            "text": "'We are out there enforcing it but people are still using the phones on a daily\nbasis and as they become more sophisticated, they are reading emails,\nsending messages, watching videos,' he said. 'If you are on the phone, you are\nnot concentrating on what is going on around you.'"
+          },
+          {
+            "label": "C",
+            "text": "Identifying the exact role of distraction in crashes is difficult but the RA.C's\nGlen Walker said people making or def ending claims are quick to point out\nwhen the other driver is at fault. 'When you speak to someone to settle a claim\nthey will say \"the other driver was too busy putting on lipstick and rear-ended\nme,\"' said Mr Walker, Manager of the Technical Claims Unit. 'Getting distracted\nwhile changing a CD is a very common one. So is reaching into the glove box.\nThere was one guy who drove into a house because he was getting a bit\namorous with the woman in the car.' Mr Walker said some of the stories of\ndistracted driving can be amusing but in his previous work as a police officer\nhe had seen fatal accidents caused by a momentary lapse of attention. 'It only\ntakes just a little bit of distraction and things get very dangerous very fast.'"
+          },
+          {
+            "label": "D",
+            "text": "Professor Mark Stevenson is a leading road safety researcher and director of\nthe Accident Research Centre and School of Public Health and Preventive\nMedicine at Mon·ash University. He said the risks of mobile phones in cars have\nbeen well established, with major studies showing any use by a driver raises"
+          },
+          {
+            "label": null,
+            "text": "the risk of an accident."
+          },
+          {
+            "label": null,
+            "text": "He and other researchers have examined the phone records of hundreds of\ndrivers attending hospital after a crash, finding the risk of crashing is four times\ngreater if the driver is using their mobile phone-regardless of whether it is\nhand-held or hands-free. While that may sound surprising, there are crucial\ndifferences between a conversation with a passenger and one on a mobile, he\nsaid."
+          },
+          {
+            "label": null,
+            "text": "'There have been laboratory studies that have shown that if you have a driver\nholding a conversation with a passenger, the passenger will moderate the\nconversation because they are scanning the scene in front of the vehicle and\nthey can see the situation changing for the driver,' Professor Stevenson said."
+          },
+          {
+            "label": null,
+            "text": "'If you are at a complex intersection with a lot of traffic, lots of things around,\nwhat happens is that the passenger will moderate the conversation and not get\ninto a heated debate right at that moment. That doesn't happen on the phone.'\nThe pressure of maintaining a conversation in tricky road conditions reduces\nthe driver's ability to react."
+          },
+          {
+            "label": null,
+            "text": "'It is the cognitive processing that's delayed-and that means reaction time and\nthe manoeuvres required all\nslow down as a result of the phone conversation,' he said."
+          },
+          {
+            "label": null,
+            "text": "Because of growing evidence that even hands-free phones can be dangerous,\nseveral Australian states have banned mobile phones in cars for P Platers and\nthe Draft National Road Safety Strategy released this year even suggested that\nthere was evidence to support a total ban on all mobile phone use while\ndriving."
+          },
+          {
+            "label": null,
+            "text": "'We know from our research that it still increases the risk of crashing almost\nfour-fold,' Professor Stevenson said."
+          },
+          {
+            "label": null,
+            "text": "'It's just not going far enough.'"
+          },
+          {
+            "label": "E",
+            "text": "If mobile phone use has been problematic for driver distraction, the next wave\nof in-car technology could be worse. In the US, the issue has received\nconsiderable public debate in the wake of high-profile cases, including a state\npolice officer who crashed and killed two sisters after travelling at 200km/h\nwhile talking on the mobile and emailing from his laptop. In January, the US\nTransportation Secretary met with American carmakers, asking them to limit\nthe use of distracting technology in vehicles. At the same time, however,\nstruggling manufacturers hope that bundling technology into cars might boost"
+          },
+          {
+            "label": null,
+            "text": "sales, particularly among young drivers."
+          },
+          {
+            "label": null,
+            "text": "Car manufacturer Ford is updating a system that will allow text messages and\nFacebook updates to be read to the driver, while other manufacturers are\nlooking for ways to give drivers updates about nearby amenities and expand\nthe dashboard display with USB ports, bigger maps and wi-fi access."
+          },
+          {
+            "label": null,
+            "text": "'The technology is developing so fast that our understanding of how much it\nincreases our risk of crashing is not keeping up,' Professor Stevenson said."
+          },
+          {
+            "label": null,
+            "text": "'Are these things truly there to benefit us or are they just increasing the\ndistraction factor for drivers?'"
+          },
+          {
+            "label": null,
+            "text": "While technology is helping cause the problems, Professor Stevenson believed\nit could also be used to fight distraction by switching off all phones and other\ndevices-whether drivers want it to or not."
+          },
+          {
+            "label": null,
+            "text": "'There is potential down the track with in-vehicle technologies that you could\nblock any transmission while the car is in motion,' he said."
+          },
+          {
+            "label": null,
+            "text": "'That would be a passive intervention-you don't need any behavioural change\nto ensure that happens.'"
+          },
+          {
+            "label": null,
+            "text": "RAC Head of Member Advocacy Matt Brown said members are already\nconcerned by the level of mobile phone use they see on the roads and believes\nmore care is needed before increasing the load."
+          },
+          {
+            "label": null,
+            "text": "'We want cars to be comfortable and user-friendly, but the safety of the driver\nand other road users has to be the top priority,' he said."
+          },
+          {
+            "label": null,
+            "text": "'You wouldn't go to a factory floor and clutter it up with devices that would take\nthe worker's mind off the machinery. What happens in a car is no different.'"
+          },
+          {
+            "label": null,
+            "text": "'In fact the law requires employers to remove any potential hazards.'"
+          },
+          {
+            "label": "F",
+            "text": "An open driving track with just a few orange cones to navigate doesn't sound\nlike much of a challenge-but the mother and son who navigated the course for\nthe RAC found it much tougher once they were asked to do something else at\nthe same time."
+          },
+          {
+            "label": null,
+            "text": "Kim, 52, said she was used to using a mobile phone in her own car through a\nBluetooth system and found concentrating on buttons and the road at the\nsame time difficult. 'I don't even dial my phone normally; it's voice activated\nand I just tell it to call the person and it does,' she said. 'It is really difficult to\ntry to dial and talk and manage the phone and drive through the obstacles at\nthe same time.' Kim found talking hands-free on the mobile relatively easy but"
+          },
+          {
+            "label": null,
+            "text": "struggled with texting and said programming the car's G PS system was\nalmost impossible."
+          },
+          {
+            "label": null,
+            "text": "Kim's son Matt, 21, was a bit more confident that he would be able to text\nwhile driving but negotiating the orange-cone chicanes and then a tight lane,\ndesigned to represent driving over a bridge, proved too difficult. 'I clipped the\nbridge and if it was real I guess I would have been getting wet,' he said.\n'Texting\nwas definitely harder than I expected and programming the GPS was very\ndifficult.'"
+          },
+          {
+            "label": null,
+            "text": "RAC driver trainer Dave Meinen, who conducted the assessment, said the tests\nproved that even minor distractions could compromise a motorist's ability to\ndrive. 'We tested the drivers against a range of distractions and every single\none of them had an impact on core driving competencies, including driver\nattention, accuracy, lane control, speed control, hazard perception and reaction\ntime,' Mr Meinen said. 'At the end of the day good drivers just drive; they don't\nget distracted.'"
+          },
+          {
+            "label": null,
+            "text": "Source: Ruth Callaghan, RAC Horizons magazine,"
+          },
+          {
+            "label": null,
+            "text": "June 2011"
+          }
+        ],
+        "text": "Read the passage below and answer questions 28-40.\n\nDistracted driving may not get the publicity given to alcohol, drugs and speed,\nbut it is thought to play a role in one third of fatal and serious injury crashes on\nroads. And while there is a strong community opposition to drink drivers or\npeople who speed, our attitude towards making phone calls or reading text\nmessages is much more relaxed. Surveys for the Office of Road Safety have\nfound that while 96 per cent of people believe reading and sending text\nmessages is distracting, 54 per cent admit reading texts and 3 5 per cent have\nsent them while driving. About 85 per cent of people think mobile phone use is\ndistracting but 46 per cent said they take calls on the road and 36 per cent\nconcede making them.\n\nThen there are all the other distractions, from resolving arguments between\nthe kids to trying to navigate with a map book on your lap. Acting Sergeant\nChris Green, from the Police Traffic Enforcement Group, said distracted driving\nis extremely common-even in plain sight of the police.\n\n'You see all sorts of things: people reading newspapers, putting on makeup,\nhaving their breakfast, reading books and maps,' he said.\n\n'Map books are very common but you see people with all sorts of documents.\nThey have busy lives so they might have their information out for a doctor's\nappointment, not just at traffic lights but driving along.\n\n'If there is a marked police car, lots of people will change their behaviour, but\nwith some of this behaviour, they are so caught up they don't notice the police\ncar right next to them.'\n\nActing Sgt Green said drivers can feel falsely confident about the road\nconditions, particularly on familiar routes, but an accident can occur in\nseconds.\n\n'On the roads the environment changes every day. You could drive down that\nstreet a hundred times but on the 101 st time, there could be road works or a\npedestrian that steps out-anything can happen,' he said.\n\nDespite recent changes to laws regarding the use of mobile phones-with a fine\nand three demerit points for people using them illegally-Acting Sgt Green said\ndrivers still flout the law.\n\nPolice are handing out an average of 225 infringement notices a week, down\non past years' figures, but still very high.\n\n'We are out there enforcing it but people are still using the phones on a daily\nbasis and as they become more sophisticated, they are reading emails,\nsending messages, watching videos,' he said. 'If you are on the phone, you are\nnot concentrating on what is going on around you.'\n\nIdentifying the exact role of distraction in crashes is difficult but the RA.C's\nGlen Walker said people making or def ending claims are quick to point out\nwhen the other driver is at fault. 'When you speak to someone to settle a claim\nthey will say \"the other driver was too busy putting on lipstick and rear-ended\nme,\"' said Mr Walker, Manager of the Technical Claims Unit. 'Getting distracted\nwhile changing a CD is a very common one. So is reaching into the glove box.\nThere was one guy who drove into a house because he was getting a bit\namorous with the woman in the car.' Mr Walker said some of the stories of\ndistracted driving can be amusing but in his previous work as a police officer\nhe had seen fatal accidents caused by a momentary lapse of attention. 'It only\ntakes just a little bit of distraction and things get very dangerous very fast.'\n\nProfessor Mark Stevenson is a leading road safety researcher and director of\nthe Accident Research Centre and School of Public Health and Preventive\nMedicine at Mon·ash University. He said the risks of mobile phones in cars have\nbeen well established, with major studies showing any use by a driver raises\n\nthe risk of an accident.\n\nHe and other researchers have examined the phone records of hundreds of\ndrivers attending hospital after a crash, finding the risk of crashing is four times\ngreater if the driver is using their mobile phone-regardless of whether it is\nhand-held or hands-free. While that may sound surprising, there are crucial\ndifferences between a conversation with a passenger and one on a mobile, he\nsaid.\n\n'There have been laboratory studies that have shown that if you have a driver\nholding a conversation with a passenger, the passenger will moderate the\nconversation because they are scanning the scene in front of the vehicle and\nthey can see the situation changing for the driver,' Professor Stevenson said.\n\n'If you are at a complex intersection with a lot of traffic, lots of things around,\nwhat happens is that the passenger will moderate the conversation and not get\ninto a heated debate right at that moment. That doesn't happen on the phone.'\nThe pressure of maintaining a conversation in tricky road conditions reduces\nthe driver's ability to react.\n\n'It is the cognitive processing that's delayed-and that means reaction time and\nthe manoeuvres required all\nslow down as a result of the phone conversation,' he said.\n\nBecause of growing evidence that even hands-free phones can be dangerous,\nseveral Australian states have banned mobile phones in cars for P Platers and\nthe Draft National Road Safety Strategy released this year even suggested that\nthere was evidence to support a total ban on all mobile phone use while\ndriving.\n\n'We know from our research that it still increases the risk of crashing almost\nfour-fold,' Professor Stevenson said.\n\n'It's just not going far enough.'\n\nIf mobile phone use has been problematic for driver distraction, the next wave\nof in-car technology could be worse. In the US, the issue has received\nconsiderable public debate in the wake of high-profile cases, including a state\npolice officer who crashed and killed two sisters after travelling at 200km/h\nwhile talking on the mobile and emailing from his laptop. In January, the US\nTransportation Secretary met with American carmakers, asking them to limit\nthe use of distracting technology in vehicles. At the same time, however,\nstruggling manufacturers hope that bundling technology into cars might boost\n\nsales, particularly among young drivers.\n\nCar manufacturer Ford is updating a system that will allow text messages and\nFacebook updates to be read to the driver, while other manufacturers are\nlooking for ways to give drivers updates about nearby amenities and expand\nthe dashboard display with USB ports, bigger maps and wi-fi access.\n\n'The technology is developing so fast that our understanding of how much it\nincreases our risk of crashing is not keeping up,' Professor Stevenson said.\n\n'Are these things truly there to benefit us or are they just increasing the\ndistraction factor for drivers?'\n\nWhile technology is helping cause the problems, Professor Stevenson believed\nit could also be used to fight distraction by switching off all phones and other\ndevices-whether drivers want it to or not.\n\n'There is potential down the track with in-vehicle technologies that you could\nblock any transmission while the car is in motion,' he said.\n\n'That would be a passive intervention-you don't need any behavioural change\nto ensure that happens.'\n\nRAC Head of Member Advocacy Matt Brown said members are already\nconcerned by the level of mobile phone use they see on the roads and believes\nmore care is needed before increasing the load.\n\n'We want cars to be comfortable and user-friendly, but the safety of the driver\nand other road users has to be the top priority,' he said.\n\n'You wouldn't go to a factory floor and clutter it up with devices that would take\nthe worker's mind off the machinery. What happens in a car is no different.'\n\n'In fact the law requires employers to remove any potential hazards.'\n\nAn open driving track with just a few orange cones to navigate doesn't sound\nlike much of a challenge-but the mother and son who navigated the course for\nthe RAC found it much tougher once they were asked to do something else at\nthe same time.\n\nKim, 52, said she was used to using a mobile phone in her own car through a\nBluetooth system and found concentrating on buttons and the road at the\nsame time difficult. 'I don't even dial my phone normally; it's voice activated\nand I just tell it to call the person and it does,' she said. 'It is really difficult to\ntry to dial and talk and manage the phone and drive through the obstacles at\nthe same time.' Kim found talking hands-free on the mobile relatively easy but\n\nstruggled with texting and said programming the car's G PS system was\nalmost impossible.\n\nKim's son Matt, 21, was a bit more confident that he would be able to text\nwhile driving but negotiating the orange-cone chicanes and then a tight lane,\ndesigned to represent driving over a bridge, proved too difficult. 'I clipped the\nbridge and if it was real I guess I would have been getting wet,' he said.\n'Texting\nwas definitely harder than I expected and programming the GPS was very\ndifficult.'\n\nRAC driver trainer Dave Meinen, who conducted the assessment, said the tests\nproved that even minor distractions could compromise a motorist's ability to\ndrive. 'We tested the drivers against a range of distractions and every single\none of them had an impact on core driving competencies, including driver\nattention, accuracy, lane control, speed control, hazard perception and reaction\ntime,' Mr Meinen said. 'At the end of the day good drivers just drive; they don't\nget distracted.'\n\nSource: Ruth Callaghan, RAC Horizons magazine,\n\nJune 2011",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-features",
+          "instruction": "The passage on the previous pages has six sections labelled A-F.",
+          "body": null,
+          "range": [
+            28,
+            34
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F"
+            ],
+            "labels": [
+              "Section A",
+              "Section B",
+              "Section C",
+              "Section D",
+              "Section E",
+              "Section F"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "Different driver conversations carry different accident\nrisks.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-features",
+          "groupId": "p3g1",
+          "prompt": "With new in-car technologies there are new driver",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
         {
           "number": 30,
           "type": "matching-features",
-          "prompt": "There are different types of driver distractions, and statistics show how frequently drivers engage in them.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver",
-          "answer": "A"
+          "groupId": "p3g1",
+          "prompt": "There are different types of driver distractions, and\nstatistics show how frequently drivers engage in them.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 31,
           "type": "matching-features",
-          "prompt": "The role distraction plays in causing accidents can be seen from accident insurance claims.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver",
-          "answer": "C"
+          "groupId": "p3g1",
+          "prompt": "The role distraction plays in causing accidents can be\nseen from accident insurance claims.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 32,
           "type": "matching-features",
-          "prompt": "The relationship between driving on familiar roads and distracted driving.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver",
-          "answer": "B"
+          "groupId": "p3g1",
+          "prompt": "The relationship between driving on familiar roads and\ndistracted driving.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 33,
           "type": "matching-features",
-          "prompt": "Development of in-car technology and how it could be used to block distracted driving behaviour.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver",
-          "answer": "E"
+          "groupId": "p3g1",
+          "prompt": "Development of in-car technology and how it could be\nused to block distracted driving behaviour.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 34,
           "type": "matching-features",
-          "prompt": "The results of a measured test showing the impact on driving ability of specific distractive behaviour. Do the following statements agree or disagree with the information given in the passage?",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver",
-          "answer": "F"
+          "groupId": "p3g1",
+          "prompt": "The results of a measured test showing the impact on\ndriving ability of specific distractive behaviour.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
-          "prompt": "Research shows that a driver speaking to a passenger is less dangerous than a driver speaking on a mobile phone, because the passenger wilt automatically moderate the conversation depending on the surrounding driving conditions.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "Research shows that a driver speaking to a passenger\nis less dangerous than a driver speaking on a mobile phone, because the\npassenger wilt automatically moderate the conversation depending on the\nsurrounding driving conditions.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "On a familiar route for a driver, research shows that fewer accidents happen.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "On a familiar route for a driver, research shows that\nfewer accidents happen.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
-          "prompt": "To encourage sales of new cars, car manufacturers constantly develop new in-car technologies (such as USB ports and wi-fi access), and researchers believe that this development could contribute to further driver distraction and higher accident rates.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "To encourage sales of new cars, car manufacturers\nconstantly develop new in-car technologies (such as USB ports and wi-fi\naccess), and researchers believe that this development could contribute\nto further driver distraction and higher accident rates.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "Although most people agree that the use of mobile phones while driving is distracting, nearly half admit they take calls, and around a third admit they make calls while driving.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g2",
+          "prompt": "Although most people agree that the use of mobile\nphones while driving is distracting, nearly half admit they take calls, and\naround a third admit they make calls while driving.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "Male drivers engaging in distracted behaviour such as texting or talking on a phone usually change their behaviour when they see a police car next to them; however, female drivers often continue with the behaviour or don't notice the police car.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "Male drivers engaging in distracted behaviour such as\ntexting or talking on a phone usually change their behaviour when they\nsee a police car next to them; however, female drivers often continue with\nthe behaviour or don't notice the police car.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
-          "prompt": "A measured test showed that not every example of distractive behaviour has an impact on core driving competency.",
-          "instruction": "Read the passage below and answer questions 28-40. DRIVEN TO DISTRACTION A Distracted driving may not get the publicity given to alcohol, drugs and speed, but it is thought to play a role in one third of fatal and serious injury crashes on roads. And while there is a strong community opposition to drink drivers or people who speed, our attitude towards making phone calls or reading text messages is much more relaxed. Surveys for the Office of Road Safety have found that while 96 per cent of people believe reading and sending text messages is distracting, 54 per cent admit reading texts and 3 5 per cent have sent them while driving. About 85 per cent of people think mobile phone use is distracting but 46 per cent said they take calls on the road and 36 per cent concede making them. Then there are all the other distractions, from resolving arguments between the kids to trying to navigate with a map book on your lap. Acting Sergeant Chris Green, from the Police Traffic Enforcement Group, said distracted driving is extremely common-even in plain sight of the police. 'You see all sorts of things: people reading newspapers, putting on makeup, having their breakfast, reading books and maps,' he said. 'Map books are very common but you see people with all sorts of documents. They have busy lives so they might have their information out for a doctor's appointment, not just at traffic lights but driving along. Which section contains the following information? Write the correct letter A-F in boxes 28-34 on your answer sheet. Note: you may use any letter more than once. 28 Different driver conversations carry different accident risks. 29 With new in-car technologies there are new driver Do the following statements agree or disagree with the information given in the passage? In boxes 35-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "A measured test showed that not every example of\ndistractive behaviour has an impact on core driving competency.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     }
@@ -237,7 +1685,7 @@
     "11": "heavy rain",
     "12": "portable gas stove",
     "13": "gemstones and fossils",
-    "14": "travel/drive 60 km/be",
+    "14": "travel/drive 60 km/be arranged",
     "15": "people under 18",
     "16": "Australian culture",
     "17": "travel and expenses",
@@ -246,11 +1694,11 @@
     "20": "Home Tutor Scheme",
     "21": "one hour",
     "22": "will be assessed/marked",
-    "23": "what is required/its",
+    "23": "what is required/its requirements/the requirements",
     "24": "strengths/strong points",
     "25": "finish/complete tasks",
     "26": "organise and volunteer",
-    "27": "PowerPoint/PowerPoint",
+    "27": "PowerPoint/PowerPoint presentation",
     "28": "D",
     "29": "E",
     "30": "A",

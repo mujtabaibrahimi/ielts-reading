@@ -1,0 +1,66 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "body": "The Earth could become uninhabitable, like other planets, through a major change in the [[21]]. Volcanic eruptions of [[22]] can lead to shortages of [[23]] in a wide area. An asteroid hitting the Earth could create a [[24]] that would result in a new [[25]]. Plans are being made to use [[26]] to deflect asteroids heading for the Earth."
+  },
+  "p1g3": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        14
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A-E. Write the correct letter in box 14 on your answer sheet.",
+    "questions": {
+      "14": {
+        "prompt": "Which might be a suitable title for passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "optionLabels": [
+          "A brief history of Vikings",
+          "Recent Viking discoveries",
+          "A modem fascination with Vikings",
+          "Interpretations of Viking history",
+          "Viking history and nationalism"
+        ]
+      }
+    }
+  },
+  "p2g3": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        27
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 27 on your answer sheet.",
+    "questions": {
+      "27": {
+        "prompt": "What is the writer's purpose in Reading Passage 2?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "to propose a new theory about the causes of natural disasters",
+          "to prove that generally held beliefs about the future are all mistaken",
+          "to present a range of opinions currently held by scientists",
+          "to argue the need for a general change in behavior"
+        ]
+      }
+    }
+  }
+}

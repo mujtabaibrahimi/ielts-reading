@@ -1,0 +1,36 @@
+{
+  "p3g2": {
+    "clearImages": true,
+    "type": "sentence-completion",
+    "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+    "body": "Hunting wasps used to feed on other [[33]], rather than on vegetation. Flowering plants started to reward bees with rich pollen and an additional food in the form of [[34]]. Approximately [[35]] of human food production relies on the activity of bees. If the process of [[36]] is to take place effectively, bees need to travel from one flower to another before going back to the nest. Bees need to balance the [[37]] of each trip against the calorific rewards they obtain. There can be over 120 different [[38]] in an acre of rainforest. The bees that pollinate large forests regularly practise an activity known as [[39]]."
+  },
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "Which is the best title for Reading Passage?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "The Ecological Importance of Bees",
+          "The Evolutionary History of Bees",
+          "The Social Behaviour of Bees",
+          "The Geographical Distribution of Bees"
+        ]
+      }
+    }
+  }
+}

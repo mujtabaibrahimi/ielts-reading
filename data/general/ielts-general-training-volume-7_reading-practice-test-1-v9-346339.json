@@ -1,271 +1,1158 @@
 {
   "id": "ielts-general-training-volume-7_reading-practice-test-1-v9-346339",
   "type": "general",
-  "source": "ielts-general-training-volume-7 reading-practice-test-1-v9-346339",
+  "title": "IELTS General Training Volume 7 - Reading Test 1",
+  "collection": "IELTS General Training Volume 7",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 7,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-7_reading-practice-test-1-v9-346339.pdf",
-  "total_questions": 18,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Look at the contents page from a magazine on the following page.",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        40
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1\nLook at the contents page from a magazine on the following page.\nWhy Magazine",
-        "tables": [],
+        "heading": "THE EASTERN YOUTH ORCHESTRA",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Look at the contents page from a magazine on the following page."
+          },
+          {
+            "label": null,
+            "text": "Why Magazine"
+          },
+          {
+            "label": null,
+            "text": "Read the advertisements for concerts below and answer Question 5-9"
+          },
+          {
+            "label": null,
+            "text": "SYDNEY \nCONSERVATORIUM \nOF"
+          },
+          {
+            "label": null,
+            "text": "MUSIC\nConcerts for January"
+          },
+          {
+            "label": "A",
+            "text": "Conservatorium High School students play a selection of Mozart concerter."
+          },
+          {
+            "label": null,
+            "text": "Date and time: Sat. 7th and 14th January, 8:00 pm."
+          },
+          {
+            "label": null,
+            "text": "Ticket price: $10 and 5$"
+          },
+          {
+            "label": "B",
+            "text": "LET'S SING TOGETHER\nAn Afternoon for the young and the young-at-heart. Led by the Giggle Band,\nsing children's songs from your childhood and from all over the world."
+          },
+          {
+            "label": null,
+            "text": "There will be a special appearance by Willy Wallaby from the popular children's\nprogramme \"Hoppy\"!"
+          },
+          {
+            "label": null,
+            "text": "Date and time: Sun. 8th January, 3:00 pm."
+          },
+          {
+            "label": null,
+            "text": "Ticket price: $5"
+          },
+          {
+            "label": "C",
+            "text": "ONE ROMANTIC EVENING"
+          },
+          {
+            "label": null,
+            "text": "Bring someone special with you and listen to some of the greatest love songs\nas you gaze at the stars together!"
+          },
+          {
+            "label": null,
+            "text": "Date and time: Sat. 28th January, 8:00 pm."
+          },
+          {
+            "label": null,
+            "text": "Ticket price: $20 and $12"
+          },
+          {
+            "label": null,
+            "text": "NOTE: This content will be held in the Conservatorium Rose Garden, not in the\nConcert Hall."
+          },
+          {
+            "label": null,
+            "text": "D\nROCK 'N' ROLL\nBop along until late to the rock hits of the last 10 years. Bands playing include\nThe Hippies, The Hypers and The Heroes. If you have a special request, write it\ndown at the ticket counter when you come in."
+          },
+          {
+            "label": null,
+            "text": "Date and time: Sat. 21st January, 8:00 pm."
+          },
+          {
+            "label": null,
+            "text": "Ticket price: $10 and $5"
+          },
+          {
+            "label": null,
+            "text": "E\nFLAMENCO"
+          },
+          {
+            "label": null,
+            "text": "World-famous classical guitarist Rodrigo Paras will play a selection of traditional\nSpanish Flamenco pieces."
+          },
+          {
+            "label": null,
+            "text": "Date and time: Sun. 15th and 22nd January, 7:30 pm."
+          },
+          {
+            "label": null,
+            "text": "Ticket price: $20 and $12"
+          },
+          {
+            "label": null,
+            "text": "Read the information below on treatment for snake bites and answer\nQuestions 10-14"
+          },
+          {
+            "label": null,
+            "text": "FIRST AID FOR SNAKE BITES"
+          },
+          {
+            "label": null,
+            "text": "Snakes are not normally aggressive and tend to bite only when they are\nthreatened or mishandled. Some snakes, such as the carpet snake, are not\npoisonous. Others, such as the brown snake, tiger snake and taipan, are very\npoisonous."
+          },
+          {
+            "label": null,
+            "text": "Prevention"
+          },
+          {
+            "label": null,
+            "text": "leave snakes alone and do not collect snakes\ndo not put your hands in hollow logs, under piles of wood or in rubbish\nbe noisy when walking in the bush\nlook carefully when walking through thick grass\nuse a torch around camps at night\nSymptoms and signs"
+          },
+          {
+            "label": null,
+            "text": "These symptoms do not appear immediately, but from about 15 minutes to 2\nhours after the person is bitten. There are often no visible symptoms or signs.\nTake seriously any information from the person concerning:"
+          },
+          {
+            "label": null,
+            "text": "strong emotional reaction\nheadache or double vision\ndrowsiness, giddiness or faintness\nnausea and/or vomiting and diarrhoea\npuncture marks about 1 centimetre apart at the site of the bite.\nBites are usually on the limbs, especially the legs.\nreddening bruising\nsweating\nbreathing difficulties\nManagement"
+          },
+          {
+            "label": null,
+            "text": "reassure the casualty"
+          },
+          {
+            "label": null,
+            "text": "apply a pressure immobilisation bandage over the bitten area and around the\nlimb\nseek medical aid urgently\nSnakebite Warnings"
+          },
+          {
+            "label": null,
+            "text": "never wash the venom off the skin as this will help in later identification\nnever cut or squeeze the bitten area\nnever try to suck the venom out of the wound"
+          }
+        ],
+        "text": "Look at the contents page from a magazine on the following page.\n\nWhy Magazine\n\nRead the advertisements for concerts below and answer Question 5-9\n\nSYDNEY \nCONSERVATORIUM \nOF\n\nMUSIC\nConcerts for January\n\nConservatorium High School students play a selection of Mozart concerter.\n\nDate and time: Sat. 7th and 14th January, 8:00 pm.\n\nTicket price: $10 and 5$\n\nLET'S SING TOGETHER\nAn Afternoon for the young and the young-at-heart. Led by the Giggle Band,\nsing children's songs from your childhood and from all over the world.\n\nThere will be a special appearance by Willy Wallaby from the popular children's\nprogramme \"Hoppy\"!\n\nDate and time: Sun. 8th January, 3:00 pm.\n\nTicket price: $5\n\nONE ROMANTIC EVENING\n\nBring someone special with you and listen to some of the greatest love songs\nas you gaze at the stars together!\n\nDate and time: Sat. 28th January, 8:00 pm.\n\nTicket price: $20 and $12\n\nNOTE: This content will be held in the Conservatorium Rose Garden, not in the\nConcert Hall.\n\nD\nROCK 'N' ROLL\nBop along until late to the rock hits of the last 10 years. Bands playing include\nThe Hippies, The Hypers and The Heroes. If you have a special request, write it\ndown at the ticket counter when you come in.\n\nDate and time: Sat. 21st January, 8:00 pm.\n\nTicket price: $10 and $5\n\nE\nFLAMENCO\n\nWorld-famous classical guitarist Rodrigo Paras will play a selection of traditional\nSpanish Flamenco pieces.\n\nDate and time: Sun. 15th and 22nd January, 7:30 pm.\n\nTicket price: $20 and $12\n\nRead the information below on treatment for snake bites and answer\nQuestions 10-14\n\nFIRST AID FOR SNAKE BITES\n\nSnakes are not normally aggressive and tend to bite only when they are\nthreatened or mishandled. Some snakes, such as the carpet snake, are not\npoisonous. Others, such as the brown snake, tiger snake and taipan, are very\npoisonous.\n\nPrevention\n\nleave snakes alone and do not collect snakes\ndo not put your hands in hollow logs, under piles of wood or in rubbish\nbe noisy when walking in the bush\nlook carefully when walking through thick grass\nuse a torch around camps at night\nSymptoms and signs\n\nThese symptoms do not appear immediately, but from about 15 minutes to 2\nhours after the person is bitten. There are often no visible symptoms or signs.\nTake seriously any information from the person concerning:\n\nstrong emotional reaction\nheadache or double vision\ndrowsiness, giddiness or faintness\nnausea and/or vomiting and diarrhoea\npuncture marks about 1 centimetre apart at the site of the bite.\nBites are usually on the limbs, especially the legs.\nreddening bruising\nsweating\nbreathing difficulties\nManagement\n\nreassure the casualty\n\napply a pressure immobilisation bandage over the bitten area and around the\nlimb\nseek medical aid urgently\nSnakebite Warnings\n\nnever wash the venom off the skin as this will help in later identification\nnever cut or squeeze the bitten area\nnever try to suck the venom out of the wound",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money?",
+          "body": "[[1]] On what TWO pages can you read about art? [[2]] On what page can you play a game? [[3]] What page would you go to for information on exotic trips? [[4]]",
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "Which concerts do the following statements talk about? Write the correct letter, A-E.",
+          "body": null,
+          "range": [
+            5,
+            9
+          ],
+          "optionBank": {
+            "title": "Concerts",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            10,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "18",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "28, 33",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "31",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "12",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "Young performers will play at this concert.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "The concert will be held outdoors.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "There will be only one performer.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "This concert will not be held at night.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "The audience can choose what will be performed.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "To avoid being bitten by a snake at night, you should use a flashlight.",
-          "instruction": "Read the advertisements for concerts below and answer Question 5-9 SYDNEY CONSERVATORIUM OF The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in. Date and time: Sat. 21st January, 8:00 pm. Ticket price: $10 and $5 Read the information below on treatment for snake bites and answer Questions 10-14 FIRST AID FOR SNAKE BITES Snakes are not normally aggressive and tend to bite only when they are threatened or mishandled. Some snakes, such as the carpet snake, are not poisonous. Others, such as the brown snake, tiger snake and taipan, are very poisonous. Prevention leave snakes alone and do not collect snakes do not put your hands in hollow logs, under piles of wood or in rubbish be noisy when walking in the bush look carefully when walking through thick grass use a torch around camps at night Symptoms and signs These symptoms do not appear immediately, but from about 15 minutes to 2 hours after the person is bitten. There are often no visible symptoms or signs. Take seriously any information from the person concerning: strong emotional reaction headache or double vision drowsiness, giddiness or faintness nausea and/or vomiting and diarrhoea puncture marks about 1 centimetre apart at the site of the bite. Bites are usually on the limbs, especially the legs. reddening bruising sweating breathing difficulties Management reassure the casualty Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page can you play a game? 3 What page would you go to for information on exotic trips? 4 Which concerts do the following statements talk about? Write the correct letter, A-E, in boxes 5-9 on your answer sheet. 5 Young performers will play at this concert. 6 The concert will be held outdoors. 7 There will be only one performer. 8 This concert will not be held at night. 9 The audience can choose what will be performed. Do the following statements agree with the information given in the text? TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g3",
+          "prompt": "To avoid being bitten by a snake at night, you should\nuse a flashlight.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
+          "groupId": "p1g3",
           "prompt": "Taipans are one of the most poisonous snakes.",
-          "instruction": "Read the advertisements for concerts below and answer Question 5-9 SYDNEY CONSERVATORIUM OF The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in. Date and time: Sat. 21st January, 8:00 pm. Ticket price: $10 and $5 Read the information below on treatment for snake bites and answer Questions 10-14 FIRST AID FOR SNAKE BITES Snakes are not normally aggressive and tend to bite only when they are threatened or mishandled. Some snakes, such as the carpet snake, are not poisonous. Others, such as the brown snake, tiger snake and taipan, are very poisonous. Prevention leave snakes alone and do not collect snakes do not put your hands in hollow logs, under piles of wood or in rubbish be noisy when walking in the bush look carefully when walking through thick grass use a torch around camps at night Symptoms and signs These symptoms do not appear immediately, but from about 15 minutes to 2 hours after the person is bitten. There are often no visible symptoms or signs. Take seriously any information from the person concerning: strong emotional reaction headache or double vision drowsiness, giddiness or faintness nausea and/or vomiting and diarrhoea puncture marks about 1 centimetre apart at the site of the bite. Bites are usually on the limbs, especially the legs. reddening bruising sweating breathing difficulties Management reassure the casualty Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page can you play a game? 3 What page would you go to for information on exotic trips? 4 Which concerts do the following statements talk about? Write the correct letter, A-E, in boxes 5-9 on your answer sheet. 5 Young performers will play at this concert. 6 The concert will be held outdoors. 7 There will be only one performer. 8 This concert will not be held at night. 9 The audience can choose what will be performed. Do the following statements agree with the information given in the text? TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
+          "groupId": "p1g3",
           "prompt": "Snakes will usually bite a person on the arm or leg.",
-          "instruction": "Read the advertisements for concerts below and answer Question 5-9 SYDNEY CONSERVATORIUM OF The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in. Date and time: Sat. 21st January, 8:00 pm. Ticket price: $10 and $5 Read the information below on treatment for snake bites and answer Questions 10-14 FIRST AID FOR SNAKE BITES Snakes are not normally aggressive and tend to bite only when they are threatened or mishandled. Some snakes, such as the carpet snake, are not poisonous. Others, such as the brown snake, tiger snake and taipan, are very poisonous. Prevention leave snakes alone and do not collect snakes do not put your hands in hollow logs, under piles of wood or in rubbish be noisy when walking in the bush look carefully when walking through thick grass use a torch around camps at night Symptoms and signs These symptoms do not appear immediately, but from about 15 minutes to 2 hours after the person is bitten. There are often no visible symptoms or signs. Take seriously any information from the person concerning: strong emotional reaction headache or double vision drowsiness, giddiness or faintness nausea and/or vomiting and diarrhoea puncture marks about 1 centimetre apart at the site of the bite. Bites are usually on the limbs, especially the legs. reddening bruising sweating breathing difficulties Management reassure the casualty Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page can you play a game? 3 What page would you go to for information on exotic trips? 4 Which concerts do the following statements talk about? Write the correct letter, A-E, in boxes 5-9 on your answer sheet. 5 Young performers will play at this concert. 6 The concert will be held outdoors. 7 There will be only one performer. 8 This concert will not be held at night. 9 The audience can choose what will be performed. Do the following statements agree with the information given in the text? TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "If bitten by a snake the person should lie down and keep still.",
-          "instruction": "Read the advertisements for concerts below and answer Question 5-9 SYDNEY CONSERVATORIUM OF The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in. Date and time: Sat. 21st January, 8:00 pm. Ticket price: $10 and $5 Read the information below on treatment for snake bites and answer Questions 10-14 FIRST AID FOR SNAKE BITES Snakes are not normally aggressive and tend to bite only when they are threatened or mishandled. Some snakes, such as the carpet snake, are not poisonous. Others, such as the brown snake, tiger snake and taipan, are very poisonous. Prevention leave snakes alone and do not collect snakes do not put your hands in hollow logs, under piles of wood or in rubbish be noisy when walking in the bush look carefully when walking through thick grass use a torch around camps at night Symptoms and signs These symptoms do not appear immediately, but from about 15 minutes to 2 hours after the person is bitten. There are often no visible symptoms or signs. Take seriously any information from the person concerning: strong emotional reaction headache or double vision drowsiness, giddiness or faintness nausea and/or vomiting and diarrhoea puncture marks about 1 centimetre apart at the site of the bite. Bites are usually on the limbs, especially the legs. reddening bruising sweating breathing difficulties Management reassure the casualty Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page can you play a game? 3 What page would you go to for information on exotic trips? 4 Which concerts do the following statements talk about? Write the correct letter, A-E, in boxes 5-9 on your answer sheet. 5 Young performers will play at this concert. 6 The concert will be held outdoors. 7 There will be only one performer. 8 This concert will not be held at night. 9 The audience can choose what will be performed. Do the following statements agree with the information given in the text? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g3",
+          "prompt": "If bitten by a snake the person should lie down and\nkeep still.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 14,
           "type": "true-false-not-given",
+          "groupId": "p1g3",
           "prompt": "The snake poison should be removed from the wound.",
-          "instruction": "Read the advertisements for concerts below and answer Question 5-9 SYDNEY CONSERVATORIUM OF The Hippies, The Hypers and The Heroes. If you have a special request, write it down at the ticket counter when you come in. Date and time: Sat. 21st January, 8:00 pm. Ticket price: $10 and $5 Read the information below on treatment for snake bites and answer Questions 10-14 FIRST AID FOR SNAKE BITES Snakes are not normally aggressive and tend to bite only when they are threatened or mishandled. Some snakes, such as the carpet snake, are not poisonous. Others, such as the brown snake, tiger snake and taipan, are very poisonous. Prevention leave snakes alone and do not collect snakes do not put your hands in hollow logs, under piles of wood or in rubbish be noisy when walking in the bush look carefully when walking through thick grass use a torch around camps at night Symptoms and signs These symptoms do not appear immediately, but from about 15 minutes to 2 hours after the person is bitten. There are often no visible symptoms or signs. Take seriously any information from the person concerning: strong emotional reaction headache or double vision drowsiness, giddiness or faintness nausea and/or vomiting and diarrhoea puncture marks about 1 centimetre apart at the site of the bite. Bites are usually on the limbs, especially the legs. reddening bruising sweating breathing difficulties Management reassure the casualty Look at the contents page from a magazine on the following page. Answer Questions 1-4 by writing the appropriate page number or numbers where the information appears in the magazine. Write your answers in boxes 1-4 on your answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page can you play a game? 3 What page would you go to for information on exotic trips? 4 Which concerts do the following statements talk about? Write the correct letter, A-E, in boxes 5-9 on your answer sheet. 5 Young performers will play at this concert. 6 The concert will be held outdoors. 7 There will be only one performer. 8 This concert will not be held at night. 9 The audience can choose what will be performed. Do the following statements agree with the information given in the text? TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        22
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answers Questions 15-22 on the following page."
+          },
+          {
+            "label": null,
+            "text": "STUDENT ACCOMMODATION AT NORTHSIDE\nUNIVERSITY"
+          },
+          {
+            "label": null,
+            "text": "Situated about 20km from the city centre, Northside University is easy to get to\nby public transport. However, for students wanting to live on or near the\nuniversity campus there are several different alternatives for accomodation."
+          },
+          {
+            "label": null,
+            "text": "Firstly, the university has several residential colleges: Burnside College,\nBoronia College and Helen Turner College. Each of these colleges provides a\nsingle fully furnished room with shared bathroom facilities, and meals. Burnside\nCollege is the most expensive, with fees ranging from $154 - $165 per week.\nHowever, each student room is equipped with a private telephone and voice-\nmailing facilities, and with the recent upgrade college students were given\naccess to the Internet and on-line library via a network with the university.\nBoronia College has similar room facilities but does not oﬀer the same\ncomputer access. It also offers only 17 meals per week, compared to Burnside's\n21. Fees vary from $147 - $157 per week. Helen Turner College is a college\nexclusively for women, with similar fees to Boronia College. To attend classes,\nstudents have a short walk from the residential colleges to the main University\ncampus."
+          },
+          {
+            "label": null,
+            "text": "The university also provides 23 self-contained furnished townhouses. These\ntownhouses have either 3, 4 or 6 bedrooms each and student residents are\nexpected to be studying full-time. Last year's rents ranged from $54 per week\nfor a room in a six-bedroom house to $68.50 per week for a room in a three-"
+          },
+          {
+            "label": null,
+            "text": "bedroom house. As the university year begins each September, students\nwanting to live in university housing should apply to the university housing\noﬃcer in August of the previous year, because of high demand. Smoking is\nbanned in university housing."
+          },
+          {
+            "label": null,
+            "text": "Oﬀ campus, there are many ﬂats, town houses and houses for rent in the local\narea. These can be found by looking in the local newspaper under\nACCOMMODATION, or by checking advertisements pinned up on notice boards\naround the university. There are always students advertising for housemates\nand you can add a notice of your own to these boards. However, even sharing\naccommodation with others can be expensive; tenants are usually required to\npay a rental bond, rent in advance, and telephone/electricity/gas bills in\naddition to food bills. Be sure that you know what you will be required to pay\nbefore you enter into any written agreement."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 23-27."
+          },
+          {
+            "label": null,
+            "text": "SELKIRK MARITIME SERVICES RIGHTS AND\nRESPONSIBILITIES OF EMPLOYEES"
+          },
+          {
+            "label": null,
+            "text": "The purpose of this document is to advise Selkirk Maritime Services' [SMS)\nemployees of their rights and responsibilities in terms of their Employment\nContract, Occupational Health and Safety (OHS) and Discrimination and\nHarassment. Rights refer to what employees are entitled to and the way they\ncan expect to be treated, while responsibilities refer to their expected work\noutput and behaviour towards fellow employees."
+          },
+          {
+            "label": null,
+            "text": "Contract of Employment"
+          },
+          {
+            "label": null,
+            "text": "The employment contract is an agreement between you, the employee, and\nSMS, the employer, about your conditions of employment. It covers the rights,\nobligations and entitlements of both parties."
+          },
+          {
+            "label": null,
+            "text": "This written agreement spells out your rate of pay, the number of hours you\nare expected to work, any penalty rates you would be entitled to should you\nwork public holidays or in excess of the forty hours in a working week and also\nincludes contributions to a superannuation fund. Other entitlements such as\npersonal and annual leave are also set out."
+          },
+          {
+            "label": null,
+            "text": "Occupational Health and Safety (OHS)"
+          },
+          {
+            "label": null,
+            "text": "SMS is obliged to provide a safe and healthy workplace for its employees.\nUnder the law, it provides training courses for working safety as well as any\npersonal protective clothing or equipment at no cost to you. As an employee"
+          },
+          {
+            "label": null,
+            "text": "you are required to cooperate with SMS to ensure safety."
+          },
+          {
+            "label": null,
+            "text": "By law you must wear and use the safety equipment and clothing supplied by\nSMS as well as follow safety standards when operating machinery and\nequipment. It is your responsibility to perform your work activities in a safe\nmanner and not endanger the welfare of your fellow employees."
+          },
+          {
+            "label": null,
+            "text": "Discrimination and Harassment (DH)"
+          },
+          {
+            "label": null,
+            "text": "It is every employee's right to work in an environment free from discrimination\nand harassment (DH). SMS does not tolerate any form of DH in the workplace,\nand any instances are taken seriously and dealt with promptly and\nconfidentially."
+          },
+          {
+            "label": null,
+            "text": "Discrimination and harassment are to be understood as any form of unwanted\nbehaviour which humiliates, oﬀends, insults or intimidates an employee. It may\nbe verbal, non-verbal or physical in nature and include circulating racist or\nsexually explicit material, making oﬀensive comments, telling insulting jokes or\nisolating a fellow employee because of his/her sexuality, religion, national or\nethnic origin."
+          }
+        ],
+        "text": "Read the passage below and answers Questions 15-22 on the following page.\n\nSTUDENT ACCOMMODATION AT NORTHSIDE\nUNIVERSITY\n\nSituated about 20km from the city centre, Northside University is easy to get to\nby public transport. However, for students wanting to live on or near the\nuniversity campus there are several different alternatives for accomodation.\n\nFirstly, the university has several residential colleges: Burnside College,\nBoronia College and Helen Turner College. Each of these colleges provides a\nsingle fully furnished room with shared bathroom facilities, and meals. Burnside\nCollege is the most expensive, with fees ranging from $154 - $165 per week.\nHowever, each student room is equipped with a private telephone and voice-\nmailing facilities, and with the recent upgrade college students were given\naccess to the Internet and on-line library via a network with the university.\nBoronia College has similar room facilities but does not oﬀer the same\ncomputer access. It also offers only 17 meals per week, compared to Burnside's\n21. Fees vary from $147 - $157 per week. Helen Turner College is a college\nexclusively for women, with similar fees to Boronia College. To attend classes,\nstudents have a short walk from the residential colleges to the main University\ncampus.\n\nThe university also provides 23 self-contained furnished townhouses. These\ntownhouses have either 3, 4 or 6 bedrooms each and student residents are\nexpected to be studying full-time. Last year's rents ranged from $54 per week\nfor a room in a six-bedroom house to $68.50 per week for a room in a three-\n\nbedroom house. As the university year begins each September, students\nwanting to live in university housing should apply to the university housing\noﬃcer in August of the previous year, because of high demand. Smoking is\nbanned in university housing.\n\nOﬀ campus, there are many ﬂats, town houses and houses for rent in the local\narea. These can be found by looking in the local newspaper under\nACCOMMODATION, or by checking advertisements pinned up on notice boards\naround the university. There are always students advertising for housemates\nand you can add a notice of your own to these boards. However, even sharing\naccommodation with others can be expensive; tenants are usually required to\npay a rental bond, rent in advance, and telephone/electricity/gas bills in\naddition to food bills. Be sure that you know what you will be required to pay\nbefore you enter into any written agreement.\n\nRead the text below and answer Questions 23-27.\n\nSELKIRK MARITIME SERVICES RIGHTS AND\nRESPONSIBILITIES OF EMPLOYEES\n\nThe purpose of this document is to advise Selkirk Maritime Services' [SMS)\nemployees of their rights and responsibilities in terms of their Employment\nContract, Occupational Health and Safety (OHS) and Discrimination and\nHarassment. Rights refer to what employees are entitled to and the way they\ncan expect to be treated, while responsibilities refer to their expected work\noutput and behaviour towards fellow employees.\n\nContract of Employment\n\nThe employment contract is an agreement between you, the employee, and\nSMS, the employer, about your conditions of employment. It covers the rights,\nobligations and entitlements of both parties.\n\nThis written agreement spells out your rate of pay, the number of hours you\nare expected to work, any penalty rates you would be entitled to should you\nwork public holidays or in excess of the forty hours in a working week and also\nincludes contributions to a superannuation fund. Other entitlements such as\npersonal and annual leave are also set out.\n\nOccupational Health and Safety (OHS)\n\nSMS is obliged to provide a safe and healthy workplace for its employees.\nUnder the law, it provides training courses for working safety as well as any\npersonal protective clothing or equipment at no cost to you. As an employee\n\nyou are required to cooperate with SMS to ensure safety.\n\nBy law you must wear and use the safety equipment and clothing supplied by\nSMS as well as follow safety standards when operating machinery and\nequipment. It is your responsibility to perform your work activities in a safe\nmanner and not endanger the welfare of your fellow employees.\n\nDiscrimination and Harassment (DH)\n\nIt is every employee's right to work in an environment free from discrimination\nand harassment (DH). SMS does not tolerate any form of DH in the workplace,\nand any instances are taken seriously and dealt with promptly and\nconfidentially.\n\nDiscrimination and harassment are to be understood as any form of unwanted\nbehaviour which humiliates, oﬀends, insults or intimidates an employee. It may\nbe verbal, non-verbal or physical in nature and include circulating racist or\nsexually explicit material, making oﬀensive comments, telling insulting jokes or\nisolating a fellow employee because of his/her sexuality, religion, national or\nethnic origin.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letter A-C and write it in boxes 15-17 on your answer sheet.",
+          "body": null,
+          "range": [
+            15,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage. Write your answers in boxes 18-22 on your answer sheet. Northside University is a fair distance from the city but easily accessible by public transport. There is a variety of options for student accommodation. In fact, the university has three main colleges, namely Burnside, Boronia and Helen Turner on",
+          "body": "its [[18]] and resident housing within walking distance of the university. Residential college accommodation at Northside consists of a single [[19]] room, [[20]] and daily meals. While all colleges provide similar equipment and services, Boronia is the exception with limited [[21]] . The fee structure for Boronia and Helen Turner Colleges is [[22]] and both are less expensive than Burnside, which is the most expensive. Living on or near the university is convenient for students to attend classes.",
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 23-27 on your answer sheet. Rights and Responsibilities of Employees ' Advises on Employment Contract, Occupational Health and Safety, Discrimination and Harassment. Contract of Employment",
+          "body": "' Sets out [[23]] ' Includes rights, obligations and entitlements. ' Details wage-related information including superannuation [[24]] Occupational Health and Safety ' Promotes healthy and safe practices. ' Trains employees on [[25]] ' Issues protective clothing and safely equipment. ' Requires that the [[26]] of a co-worker is not placed in danger. Discrimination and Harassment (DH) ' Does not tolerate DH in the work environment. ' Investigates any allegations of DH in confidence. ' Provides instances of unwelcome [[27]] including segregating a co- worker because of his/her race.",
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 15,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "The University Residential Colleges provide",
-          "instruction": "Read the passage below and answers Questions 15-22 on the following page. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is easy to get to by public transport. However, for students wanting to live on or near the university campus there are several different alternatives for accomodation. Firstly, the university has several residential colleges: Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with fees ranging from $154 - $165 per week. However, each student room is equipped with a private telephone and voice- mailing facilities, and with the recent upgrade college students were given access to the Internet and on-line library via a network with the university. Boronia College has similar room facilities but does not oﬀer the same computer access. It also offers only 17 meals per week, compared to Burnside's 21. Fees vary from $147 - $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential colleges to the main University campus. The university also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Last year's rents ranged from $54 per week for a room in a six-bedroom house to $68.50 per week for a room in a three- Read the text below and answer Questions 23-27. SELKIRK MARITIME SERVICES RIGHTS AND RESPONSIBILITIES OF EMPLOYEES The purpose of this document is to advise Selkirk Maritime Services' [SMS) employees of their rights and responsibilities in terms of their Employment Contract, Occupational Health and Safety (OHS) and Discrimination and Harassment. Rights refer to what employees are entitled to and the way they can expect to be treated, while responsibilities refer to their expected work output and behaviour towards fellow employees. Contract of Employment The employment contract is an agreement between you, the employee, and SMS, the employer, about your conditions of employment. It covers the rights, obligations and entitlements of both parties. This written agreement spells out your rate of pay, the number of hours you are expected to work, any penalty rates you would be entitled to should you work public holidays or in excess of the forty hours in a working week and also includes contributions to a superannuation fund. Other entitlements such as personal and annual leave are also set out. Occupational Health and Safety (OHS) SMS is obliged to provide a safe and healthy workplace for its employees. Under the law, it provides training courses for working safety as well as any personal protective clothing or equipment at no cost to you. As an employee Choose the appropriate letter A-C and write it in boxes 15-17 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "a place to live and regular classes",
+            "regular classes only",
+            "a place to live only"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 16,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "Students who want to reside on campus",
-          "instruction": "Read the passage below and answers Questions 15-22 on the following page. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is easy to get to by public transport. However, for students wanting to live on or near the university campus there are several different alternatives for accomodation. Firstly, the university has several residential colleges: Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with fees ranging from $154 - $165 per week. However, each student room is equipped with a private telephone and voice- mailing facilities, and with the recent upgrade college students were given access to the Internet and on-line library via a network with the university. Boronia College has similar room facilities but does not oﬀer the same computer access. It also offers only 17 meals per week, compared to Burnside's 21. Fees vary from $147 - $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential colleges to the main University campus. The university also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Last year's rents ranged from $54 per week for a room in a six-bedroom house to $68.50 per week for a room in a three- Read the text below and answer Questions 23-27. SELKIRK MARITIME SERVICES RIGHTS AND RESPONSIBILITIES OF EMPLOYEES The purpose of this document is to advise Selkirk Maritime Services' [SMS) employees of their rights and responsibilities in terms of their Employment Contract, Occupational Health and Safety (OHS) and Discrimination and Harassment. Rights refer to what employees are entitled to and the way they can expect to be treated, while responsibilities refer to their expected work output and behaviour towards fellow employees. Contract of Employment The employment contract is an agreement between you, the employee, and SMS, the employer, about your conditions of employment. It covers the rights, obligations and entitlements of both parties. This written agreement spells out your rate of pay, the number of hours you are expected to work, any penalty rates you would be entitled to should you work public holidays or in excess of the forty hours in a working week and also includes contributions to a superannuation fund. Other entitlements such as personal and annual leave are also set out. Occupational Health and Safety (OHS) SMS is obliged to provide a safe and healthy workplace for its employees. Under the law, it provides training courses for working safety as well as any personal protective clothing or equipment at no cost to you. As an employee Choose the appropriate letter A-C and write it in boxes 15-17 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "are not allowed to smoke.",
+            "should submit an application a year in advance.",
+            "may have difficulty finding housing."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 17,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "To find accommodation in surrounding areas of the university you can",
-          "instruction": "Read the passage below and answers Questions 15-22 on the following page. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is easy to get to by public transport. However, for students wanting to live on or near the university campus there are several different alternatives for accomodation. Firstly, the university has several residential colleges: Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with fees ranging from $154 - $165 per week. However, each student room is equipped with a private telephone and voice- mailing facilities, and with the recent upgrade college students were given access to the Internet and on-line library via a network with the university. Boronia College has similar room facilities but does not oﬀer the same computer access. It also offers only 17 meals per week, compared to Burnside's 21. Fees vary from $147 - $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential colleges to the main University campus. The university also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Last year's rents ranged from $54 per week for a room in a six-bedroom house to $68.50 per week for a room in a three- Read the text below and answer Questions 23-27. SELKIRK MARITIME SERVICES RIGHTS AND RESPONSIBILITIES OF EMPLOYEES The purpose of this document is to advise Selkirk Maritime Services' [SMS) employees of their rights and responsibilities in terms of their Employment Contract, Occupational Health and Safety (OHS) and Discrimination and Harassment. Rights refer to what employees are entitled to and the way they can expect to be treated, while responsibilities refer to their expected work output and behaviour towards fellow employees. Contract of Employment The employment contract is an agreement between you, the employee, and SMS, the employer, about your conditions of employment. It covers the rights, obligations and entitlements of both parties. This written agreement spells out your rate of pay, the number of hours you are expected to work, any penalty rates you would be entitled to should you work public holidays or in excess of the forty hours in a working week and also includes contributions to a superannuation fund. Other entitlements such as personal and annual leave are also set out. Occupational Health and Safety (OHS) SMS is obliged to provide a safe and healthy workplace for its employees. Under the law, it provides training courses for working safety as well as any personal protective clothing or equipment at no cost to you. As an employee Choose the appropriate letter A-C and write it in boxes 15-17 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "place an advertisement in the local newspaper",
+            "advertise on the internet.",
+            "look at the advertisements on the notice board"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "campus",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "fully furnished",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "shared bathroom/bathroom facilities",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "computer access",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "similar",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "conditions of employment",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "contributions",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "working safety",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "welfare",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "behavior/behaviour",
+          "trap": null
         }
       ]
     },
     {
-      "partNumber": 1,
-      "title": "",
+      "partNumber": 3,
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1",
-        "tables": [
+        "heading": "KORMILDA COLLEGE",
+        "paragraphs": [
           {
-            "page": 15,
-            "rows": [
-              [
-                "Sub-schools",
-                "Student",
-                "Academic Support"
-              ],
-              [
-                "Pre-High\nSchool",
-                "",
-                "31"
-              ],
-              [
-                "32",
-                "Aboriginal and Torres Strait\nIslander",
-                "Specific literacy and\nnumeracy"
-              ],
-              [
-                "High School",
-                "33",
-                "34"
-              ]
-            ],
-            "header": [
-              "Sub-schools",
-              "Student",
-              "Academic Support"
-            ]
+            "label": null,
+            "text": "Read the passage below and answer Questions 28-40 that follow."
+          },
+          {
+            "label": "SECTION A",
+            "text": "Kormilda College is a unique school situated near Darwin in Australia's\nNorthern Territory. For 20 years, to 2010, Kormilda College operated as a\ngovernment-run, live-in school for high school Aboriginal students. In 2010 it\nwas bought from the Government by two Christian church groups and since\nthen it has expanded enormously, to include a day school as well as boarders\n(residential students) in years 8-12. Although 320 pupils of the College's total\nnumber are Aboriginal students, drawn mainly from isolated communities\nacross the Northern Territory, Kormilda also has a waiting list of non-Aboriginal\nstudents. With a current enrolment of 600, student numbers are expected to\ngrow to 860 by 2020."
+          },
+          {
+            "label": "SECTION B",
+            "text": "Central to the mission of the school is the encouragement of individual\nexcellence, which has resulted in programs designed especially for the student\npopulation. Specialist support programs allow traditional Aboriginal students,\nwho are often second language users, to understand and succeed in the\nmainstream curriculum. A Gifted and Talented Program, including a special\nAboriginal and Torres Strait Islander Tertiary Aspirations program, has been\nintroduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12,\nstudents may choose to follow the standard Northern Territory courses, or\nthose of the International Baccalaureate (IB)."
+          },
+          {
+            "label": "SECTION C",
+            "text": "To provide appropriate pastoral care, as well as a suitable academic structure,\nthree distinct sub-schools have been established:"
+          },
+          {
+            "label": null,
+            "text": "- Pre-Secondary: For Aboriginal and Torres Strait Islander students in\nyears 8-10 who are of secondary school age but have diﬃculties reading\nand writing."
+          },
+          {
+            "label": null,
+            "text": "- Supported Secondary: For Aboriginal and Torres Strait Islander\nstudents who are of high school age and operating at secondary school\nyear levels 8-12 but who need speciﬁc second language literacy and\nnumeracy support."
+          },
+          {
+            "label": null,
+            "text": "- Secondary: For multi-cultural students aged 8-12 who are of secondary\nschool age but need some second language literacy support."
+          },
+          {
+            "label": "SECTION D",
+            "text": "To aid the development of the Aboriginal Education program, a specialist\ncurriculum Support Unit has been set up. One of its functions is to repackage\nschool courses so that they can be taught in ways that suit the students."
+          },
+          {
+            "label": null,
+            "text": "The education program oﬀered to Aboriginal students uses an approach which\nbegins with the students' own experiences and gradually builds bicultural\nunderstanding. In one course, 'Introducing Western European Culture Through\nTraditional Story-Telling', students are helped to build a common base for\napproaching the English literature curriculum. Drawing on the oral culture of\ntraditional Aboriginal communities, they are introduced to traditional stories of\nother cultures, both oral and written. In a foundational Year 10 course, Theory\nof Learning', concepts from Aboriginal culture are placed side by side with\nEuropean concepts so that students can use their own knowledge base to help\nbridge the cultural divide."
+          },
+          {
+            "label": null,
+            "text": "Another project of the Support: Unit has been the publication of several books,\nthe most popular being, Kormilda Capers. The idea for Kormilda Gapers came\nabout when it became obvious that there was a lack of engaging:material for\nthe school's teenage readers. One of the stories in the book, The Butman Mob\nhits the Big Smoke', recounts the adventures of Kormilda pupils on their ﬁrst\nvisit to Sydney, Canberra and the snow country. Focussing on experiences\nwhich have directly aﬀected the lives of students at the College, and on ideas\nand issues which are of immediate interest to Aboriginal students, Kormilda\nCapers has earned enthusiastic support within and outside the school."
           }
         ],
+        "text": "Read the passage below and answer Questions 28-40 that follow.\n\nKormilda College is a unique school situated near Darwin in Australia's\nNorthern Territory. For 20 years, to 2010, Kormilda College operated as a\ngovernment-run, live-in school for high school Aboriginal students. In 2010 it\nwas bought from the Government by two Christian church groups and since\nthen it has expanded enormously, to include a day school as well as boarders\n(residential students) in years 8-12. Although 320 pupils of the College's total\nnumber are Aboriginal students, drawn mainly from isolated communities\nacross the Northern Territory, Kormilda also has a waiting list of non-Aboriginal\nstudents. With a current enrolment of 600, student numbers are expected to\ngrow to 860 by 2020.\n\nCentral to the mission of the school is the encouragement of individual\nexcellence, which has resulted in programs designed especially for the student\npopulation. Specialist support programs allow traditional Aboriginal students,\nwho are often second language users, to understand and succeed in the\nmainstream curriculum. A Gifted and Talented Program, including a special\nAboriginal and Torres Strait Islander Tertiary Aspirations program, has been\nintroduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12,\nstudents may choose to follow the standard Northern Territory courses, or\nthose of the International Baccalaureate (IB).\n\nTo provide appropriate pastoral care, as well as a suitable academic structure,\nthree distinct sub-schools have been established:\n\n- Pre-Secondary: For Aboriginal and Torres Strait Islander students in\nyears 8-10 who are of secondary school age but have diﬃculties reading\nand writing.\n\n- Supported Secondary: For Aboriginal and Torres Strait Islander\nstudents who are of high school age and operating at secondary school\nyear levels 8-12 but who need speciﬁc second language literacy and\nnumeracy support.\n\n- Secondary: For multi-cultural students aged 8-12 who are of secondary\nschool age but need some second language literacy support.\n\nTo aid the development of the Aboriginal Education program, a specialist\ncurriculum Support Unit has been set up. One of its functions is to repackage\nschool courses so that they can be taught in ways that suit the students.\n\nThe education program oﬀered to Aboriginal students uses an approach which\nbegins with the students' own experiences and gradually builds bicultural\nunderstanding. In one course, 'Introducing Western European Culture Through\nTraditional Story-Telling', students are helped to build a common base for\napproaching the English literature curriculum. Drawing on the oral culture of\ntraditional Aboriginal communities, they are introduced to traditional stories of\nother cultures, both oral and written. In a foundational Year 10 course, Theory\nof Learning', concepts from Aboriginal culture are placed side by side with\nEuropean concepts so that students can use their own knowledge base to help\nbridge the cultural divide.\n\nAnother project of the Support: Unit has been the publication of several books,\nthe most popular being, Kormilda Capers. The idea for Kormilda Gapers came\nabout when it became obvious that there was a lack of engaging:material for\nthe school's teenage readers. One of the stories in the book, The Butman Mob\nhits the Big Smoke', recounts the adventures of Kormilda pupils on their ﬁrst\nvisit to Sydney, Canberra and the snow country. Focussing on experiences\nwhich have directly aﬀected the lives of students at the College, and on ideas\nand issues which are of immediate interest to Aboriginal students, Kormilda\nCapers has earned enthusiastic support within and outside the school.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "sentence-completion",
+          "instruction": ":Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet.",
+          "body": "When opened, Kormilda College was run by [[28]] . At the time of the writing, there were both Aboriginal and [[29]] at Kormilda College. The aim of Kormilda College has always been to encourage [[30]]",
+          "range": [
+            28,
+            30
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "table-completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer.",
+          "body": "Sub-schools, Student and Academic Support table. Pre-High School: Academic Support is [[31]]. Sub-school [[32]]: Student is Aboriginal and Torres Strait Islander, Academic Support is Specific literacy and numeracy. High School: Student is [[33]], Academic Support is [[34]].",
+          "range": [
+            31,
+            34
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            35,
+            39
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "id": "p3g4",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letter, A, B, C or D.",
+          "body": null,
+          "range": [
+            40,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(the) government",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "non-Aboriginal students",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "individual excellence",
+          "trap": null
+        },
         {
           "number": 31,
           "type": "table-completion",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School",
-          "answer": "reading and"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "reading and writing/reading,writing/reading writing",
+          "trap": null
         },
         {
           "number": 32,
           "type": "table-completion",
-          "prompt": "Aboriginal and Torres Strait Islander Specific literacy and numeracy",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School",
-          "answer": "supported secondary"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "supported secondary",
+          "trap": null
         },
         {
           "number": 33,
           "type": "table-completion",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School",
-          "answer": "multi-cultural"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "multi-cultural",
+          "trap": null
         },
         {
           "number": 34,
           "type": "table-completion",
-          "prompt": "Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE if the statement agrees with the information",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School",
-          "answer": "second language literacy"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "second language literacy",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Kormilda College educates only Aboriginal students.",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "Some students travel from Arnhem Land to attend Kormilda College.",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g3",
+          "prompt": "Some students travel from Arnhem Land to attend\nKormilda College.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
-          "prompt": "Students must study both the International Baccalaureate and Northern Territory courses",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "Students must study both the International\nBaccalaureate and Northern Territory courses",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "The specialist curriculum Support Unit adapts school courses so the students can approach them more easily.",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The specialist curriculum Support Unit adapts school\ncourses so the students can approach them more easily.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "The school helps the students make connections between Aboriginal and non-Aboriginal cultures Choose the appropriate letter A B C D",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The school helps the students make connections\nbetween Aboriginal and non-Aboriginal cultures",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 40,
-          "type": "table-completion",
-          "prompt": "The writer’s purpose in this passage is to",
-          "instruction": "Read the passage below and answer Questions 28-40 that follow. KORMILDA COLLEGE Section A Kormilda College is a unique school situated near Darwin in Australia's Northern Territory. For 20 years, to 2010, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 2010 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in years 8-12. Although 320 pupils of the College's total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non-Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 2020. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory courses, or those of the International Baccalaureate (IB). :Complete the following sentences with NO MORE THAN TWO WORDS AND/OR A NUMBER from the text. Write your answers in boxes 28-30 on your answer sheet. When opened, Kormilda College was run by 28 . At the time of the writing, there were both Aboriginal and 29 at Kormilda College. The aim of Kormilda College has always been to encourage 30 Complete the table below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 31-34 on your answer sheet. Sub-schools Student Academic Support Pre-High School Do the following statements agree with the information given in the Reading Passage Kormilda College? TRUE Choose the appropriate letter A B C D",
-          "answer": "B"
+          "type": "multiple-choice",
+          "groupId": "p3g4",
+          "prompt": "The writer's purpose in this passage is to",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "explain why Kormilda College is so successful",
+            "provide an overview of the Aboriginal Education program",
+            "describe the specialist teaching program at Kormilda College",
+            "describe the special programs lor Aboriginal student"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     }
   ],
   "answers": {
+    "1": "18",
     "2": "28, 33",
+    "3": "31",
+    "4": "12",
     "5": "A",
     "6": "C",
     "7": "E",
@@ -281,7 +1168,7 @@
     "17": "C",
     "18": "campus",
     "19": "fully furnished",
-    "20": "shared bathroom/bathroom",
+    "20": "shared bathroom/bathroom facilities",
     "21": "computer access",
     "22": "similar",
     "23": "conditions of employment",
@@ -292,7 +1179,7 @@
     "28": "(the) government",
     "29": "non-Aboriginal students",
     "30": "individual excellence",
-    "31": "reading and",
+    "31": "reading and writing/reading,writing/reading writing",
     "32": "supported secondary",
     "33": "multi-cultural",
     "34": "second language literacy",

@@ -1,0 +1,66 @@
+{
+  "p1g3": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Look at the following people and the list of statements below. Match each person with the correct statement, A-E. Write the correct letter, A-E, in boxes 10-13.",
+    "optionBank": {
+      "title": "List of statements",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "Traumatic experiences in childhood might lead to poor self-management",
+        "Supportive and responsive relationships with caring parents can prevent or reverse the damaging effects of toxic stress responses.",
+        "Properly naming a type of stress can facilitate its treatment process.",
+        "The real name of a particular form of stress could denounce a number of people.",
+        "Toxic stress can cause the next generations to suffer from negative consequences on both mental and physical health problems."
+      ]
+    },
+    "questions": {
+      "10": {
+        "prompt": "Megan Gunnar",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "11": {
+        "prompt": "Jenny Anderson",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "12": {
+        "prompt": "John Devaney",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "13": {
+        "prompt": "Nadine Burke Harris",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  }
+}

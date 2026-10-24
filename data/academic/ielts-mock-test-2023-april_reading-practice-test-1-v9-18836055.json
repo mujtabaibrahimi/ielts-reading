@@ -1,300 +1,1172 @@
 {
   "id": "ielts-mock-test-2023-april_reading-practice-test-1-v9-18836055",
   "type": "academic",
-  "source": "ielts-mock-test-2023-april reading-practice-test-1-v9-18836055",
+  "title": "IELTS Academic 2023 April - Reading Test 1",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 1,
+  "year": 2023,
+  "month": 4,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-april_reading-practice-test-1-v9-18836055.pdf",
-  "total_questions": 10,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "Intelligence and Giftedness",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-13 , which are based on\nReading Passage 1 below.\nIntelligence and Giftedness\nA\nIn 1904 the French minister of education, facing limited resources for\nschooling, sought a way to separate the unable from the merely lazy. Alfred\nBinet got the job of devising selection principles and his brilliant solution put a\nstamp on the study of intelligence and was the forerunner of intelligence tests\nstill used today, he developed a thirty-problem test in 1905, which tapped\nseveral abilities related to intellect, such as judgment and reasoning, the test\ndetermined a given child’s mental age’. The test previously established a norm\nfor children of a given physical age. (for example, five-year-old on average get\nten items correct), therefore, a child with a mental age of five should score 10,\nwhich would mean that he or she was functioning pretty much as others of that\nage. The child’s mental age was then compared to his physical age.\nB\nA large disparity in the wrong direction (e.g., a child of nine with a mental age\nof four) might suggest inability rather than laziness and mean he or she was\nearmarked for special schooling, Binet, however, denied that the test was\nmeasuring intelligence, its purpose was simply diagnostic, for selection only.\nThis message was however lost and caused many problems and\nmisunderstanding later.\nC\nAlthough Binet’s test was popular, it was a bit inconvenient to deal with a\nvariety of physical and mental ages. So in 1912, Wilhelm Stern suggested\nsimplifying this by reducing the two to a single number, he divided the mental\n\nage by the physical age and multiplied the result by 100. An average child,\nirrespective of age, would score 100. A number much lower than 100 would\nsuggest the need for help, and one much higher would suggest a child well\nahead of his peer.\nD\nThis measurement is what is now termed the IQ (for intelligence quotient) score\nand it has evolved to be used to show how a person, adult or child, performed\nin relation to others. (the term IQ was coined by Lewis M. Terman, professor of\npsychology and education of Stanford University, in 1916. He had constructed\nan enormously influential revision of Binet’s test, called the Stanford-Binet test,\nversions of which are still given extensively.)\nE\nThe field studying intelligence and developing tests eventually coalesced into a\nsub-field of psychology called psychometrics (psycho for ‘mind’ and metrics for\n‘measurements’). The practical side of psychometrics (the development and\nuse of tests) became widespread quite early, by 1917, when Einstein published\nhis grand theory of relativity, mass-scale testing was already in use. Germany’s\nunrestricted submarine warfare (which led to the sinking of the Lusitania in\n1915) provoked the United States to finally enter the First World War in the\nsame year. The military had to build up an army very quickly; it had two million\ninductees to sort out. Who would become officers and who enlisted men?\nPsychometricians developed two intelligence tests that help sort all these\npeople out, at least to some extent, this was the first major use of testing to\ndecide who lived and who died, as officers were a lot safer on the battlefield,\nthe tests themselves were given under horrendously bad conditions, and the\nexaminers seemed to lack commonsense, a lot of recruits simply had no idea\nwhat to do and in several sessions most inductees scored zero! The examiners\nalso came up with the quite astounding conclusion from the testing that the\naverage American adult’s intelligence was equal to that of a thirteen-year-old!\nF\nIntelligence testing enforced political and social prejudice, their results were\nused to argue that Jews ought to be kept out of the united states because they\nwere so intelligently inferior that they would pollute the racial mix, and blacks\nought not to be allowed to breed at all. And so abuse and test bias\ncontroversies continued to plaque psychometrics.\nG\nMeasurement is fundamental to science and technology, science often\n\nadvances in leaps and bounds when measurement devices improve,\npsychometrics has long tried to develop ways to gauge psychological qualities\nsuch as intelligence and more specific abilities, anxiety, extroversion,\nemotional stability, compatibility, with a marriage partner, and so on. Their\nscores are often given enormous weight, a single IQ measurement can take on\na life of its own if teachers and parents see it as definitive, it became a major\nissue in the 70s, when court cases were launched to stop anyone from making\nimportant decisions based on IQ test scores, the main criticism was and still is\nthat current tests don’t really measure intelligence, whether intelligence can\nbe measured at all is still controversial, some say it cannot others say that IQ\ntests are psychology’s greatest accomplishments.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Intelligence and Giftedness"
+          },
           {
             "label": "A",
-            "content": "In 1904 the French minister of education, facing limited resources for"
+            "text": "In 1904 the French minister of education, facing limited resources for\nschooling, sought a way to separate the unable from the merely lazy. Alfred\nBinet got the job of devising selection principles and his brilliant solution put a\nstamp on the study of intelligence and was the forerunner of intelligence tests\nstill used today, he developed a thirty-problem test in 1905, which tapped\nseveral abilities related to intellect, such as judgment and reasoning, the test\ndetermined a given child's mental age'. The test previously established a norm\nfor children of a given physical age. (for example, five-year-old on average get\nten items correct), therefore, a child with a mental age of five should score 10,\nwhich would mean that he or she was functioning pretty much as others of that\nage. The child's mental age was then compared to his physical age."
           },
           {
             "label": "B",
-            "content": "A large disparity in the wrong direction (e.g., a child of nine with a mental age"
+            "text": "A large disparity in the wrong direction (e.g., a child of nine with a mental age\nof four) might suggest inability rather than laziness and mean he or she was\nearmarked for special schooling, Binet, however, denied that the test was\nmeasuring intelligence, its purpose was simply diagnostic, for selection only.\nThis message was however lost and caused many problems and\nmisunderstanding later."
           },
           {
             "label": "C",
-            "content": "Although Binet’s test was popular, it was a bit inconvenient to deal with a"
+            "text": "Although Binet's test was popular, it was a bit inconvenient to deal with a\nvariety of physical and mental ages. So in 1912, Wilhelm Stern suggested\nsimplifying this by reducing the two to a single number, he divided the mental"
+          },
+          {
+            "label": null,
+            "text": "age by the physical age and multiplied the result by 100. An average child,\nirrespective of age, would score 100. A number much lower than 100 would\nsuggest the need for help, and one much higher would suggest a child well\nahead of his peer."
           },
           {
             "label": "D",
-            "content": "This measurement is what is now termed the IQ (for intelligence quotient) score"
+            "text": "This measurement is what is now termed the IQ (for intelligence quotient) score\nand it has evolved to be used to show how a person, adult or child, performed\nin relation to others. (the term IQ was coined by Lewis M. Terman, professor of\npsychology and education of Stanford University, in 1916. He had constructed\nan enormously influential revision of Binet's test, called the Stanford-Binet test,\nversions of which are still given extensively.)"
           },
           {
             "label": "E",
-            "content": "The field studying intelligence and developing tests eventually coalesced into a"
+            "text": "The field studying intelligence and developing tests eventually coalesced into a\nsub-field of psychology called psychometrics (psycho for 'mind' and metrics for\n'measurements'). The practical side of psychometrics (the development and\nuse of tests) became widespread quite early, by 1917, when Einstein published\nhis grand theory of relativity, mass-scale testing was already in use. Germany's\nunrestricted submarine warfare (which led to the sinking of the Lusitania in\n1915) provoked the United States to finally enter the First World War in the\nsame year. The military had to build up an army very quickly; it had two million\ninductees to sort out. Who would become officers and who enlisted men?\nPsychometricians developed two intelligence tests that help sort all these\npeople out, at least to some extent, this was the first major use of testing to\ndecide who lived and who died, as officers were a lot safer on the battlefield,\nthe tests themselves were given under horrendously bad conditions, and the\nexaminers seemed to lack commonsense, a lot of recruits simply had no idea\nwhat to do and in several sessions most inductees scored zero! The examiners\nalso came up with the quite astounding conclusion from the testing that the\naverage American adult's intelligence was equal to that of a thirteen-year-old!"
           },
           {
             "label": "F",
-            "content": "Intelligence testing enforced political and social prejudice, their results were"
+            "text": "Intelligence testing enforced political and social prejudice, their results were\nused to argue that Jews ought to be kept out of the united states because they\nwere so intelligently inferior that they would pollute the racial mix, and blacks\nought not to be allowed to breed at all. And so abuse and test bias\ncontroversies continued to plaque psychometrics."
           },
           {
             "label": "G",
-            "content": "Measurement is fundamental to science and technology, science often"
+            "text": "Measurement is fundamental to science and technology, science often"
+          },
+          {
+            "label": null,
+            "text": "advances in leaps and bounds when measurement devices improve,\npsychometrics has long tried to develop ways to gauge psychological qualities\nsuch as intelligence and more specific abilities, anxiety, extroversion,\nemotional stability, compatibility, with a marriage partner, and so on. Their\nscores are often given enormous weight, a single IQ measurement can take on\na life of its own if teachers and parents see it as definitive, it became a major\nissue in the 70s, when court cases were launched to stop anyone from making\nimportant decisions based on IQ test scores, the main criticism was and still is\nthat current tests don't really measure intelligence, whether intelligence can\nbe measured at all is still controversial, some say it cannot others say that IQ\ntests are psychology's greatest accomplishments."
           }
-        ]
+        ],
+        "text": "Intelligence and Giftedness\n\nIn 1904 the French minister of education, facing limited resources for\nschooling, sought a way to separate the unable from the merely lazy. Alfred\nBinet got the job of devising selection principles and his brilliant solution put a\nstamp on the study of intelligence and was the forerunner of intelligence tests\nstill used today, he developed a thirty-problem test in 1905, which tapped\nseveral abilities related to intellect, such as judgment and reasoning, the test\ndetermined a given child's mental age'. The test previously established a norm\nfor children of a given physical age. (for example, five-year-old on average get\nten items correct), therefore, a child with a mental age of five should score 10,\nwhich would mean that he or she was functioning pretty much as others of that\nage. The child's mental age was then compared to his physical age.\n\nA large disparity in the wrong direction (e.g., a child of nine with a mental age\nof four) might suggest inability rather than laziness and mean he or she was\nearmarked for special schooling, Binet, however, denied that the test was\nmeasuring intelligence, its purpose was simply diagnostic, for selection only.\nThis message was however lost and caused many problems and\nmisunderstanding later.\n\nAlthough Binet's test was popular, it was a bit inconvenient to deal with a\nvariety of physical and mental ages. So in 1912, Wilhelm Stern suggested\nsimplifying this by reducing the two to a single number, he divided the mental\n\nage by the physical age and multiplied the result by 100. An average child,\nirrespective of age, would score 100. A number much lower than 100 would\nsuggest the need for help, and one much higher would suggest a child well\nahead of his peer.\n\nThis measurement is what is now termed the IQ (for intelligence quotient) score\nand it has evolved to be used to show how a person, adult or child, performed\nin relation to others. (the term IQ was coined by Lewis M. Terman, professor of\npsychology and education of Stanford University, in 1916. He had constructed\nan enormously influential revision of Binet's test, called the Stanford-Binet test,\nversions of which are still given extensively.)\n\nThe field studying intelligence and developing tests eventually coalesced into a\nsub-field of psychology called psychometrics (psycho for 'mind' and metrics for\n'measurements'). The practical side of psychometrics (the development and\nuse of tests) became widespread quite early, by 1917, when Einstein published\nhis grand theory of relativity, mass-scale testing was already in use. Germany's\nunrestricted submarine warfare (which led to the sinking of the Lusitania in\n1915) provoked the United States to finally enter the First World War in the\nsame year. The military had to build up an army very quickly; it had two million\ninductees to sort out. Who would become officers and who enlisted men?\nPsychometricians developed two intelligence tests that help sort all these\npeople out, at least to some extent, this was the first major use of testing to\ndecide who lived and who died, as officers were a lot safer on the battlefield,\nthe tests themselves were given under horrendously bad conditions, and the\nexaminers seemed to lack commonsense, a lot of recruits simply had no idea\nwhat to do and in several sessions most inductees scored zero! The examiners\nalso came up with the quite astounding conclusion from the testing that the\naverage American adult's intelligence was equal to that of a thirteen-year-old!\n\nIntelligence testing enforced political and social prejudice, their results were\nused to argue that Jews ought to be kept out of the united states because they\nwere so intelligently inferior that they would pollute the racial mix, and blacks\nought not to be allowed to breed at all. And so abuse and test bias\ncontroversies continued to plaque psychometrics.\n\nMeasurement is fundamental to science and technology, science often\n\nadvances in leaps and bounds when measurement devices improve,\npsychometrics has long tried to develop ways to gauge psychological qualities\nsuch as intelligence and more specific abilities, anxiety, extroversion,\nemotional stability, compatibility, with a marriage partner, and so on. Their\nscores are often given enormous weight, a single IQ measurement can take on\na life of its own if teachers and parents see it as definitive, it became a major\nissue in the 70s, when court cases were launched to stop anyone from making\nimportant decisions based on IQ test scores, the main criticism was and still is\nthat current tests don't really measure intelligence, whether intelligence can\nbe measured at all is still controversial, some say it cannot others say that IQ\ntests are psychology's greatest accomplishments.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The Reading Passage has seven paragraphs A-G Which paragraph contains the following information? Write the correct letter A-G, in boxes 1-4 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "A find those who do not perform satisfied B choose the best one C measure the intelligence D establish the standard of intelligence A math B age C reading skill D gender A Officers B Normal Soldiers C Examiners D Submarine drivers. A Give credit to the contribution of Binet in the IQ test B prove someone's theory is feasible. C discuss the validity and limitation of the test D outline the history of the test",
+          "body": null,
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "find those who do not perform satisfied",
+              "choose the best one",
+              "measure the intelligence",
+              "establish the standard of intelligence"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 9-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "IQ is just one single factor of human characteristics.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Discussion of the methodology behind Professor Stern's",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Inadequacy of IQ test from Binet.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "The definition of IQ was created by a professor.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "Professor Binet devises the test to ........................",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
         {
           "number": 6,
           "type": "matching-features",
-          "prompt": "The test is designed according to_______ A",
-          "instruction": "Which paragraph contains the following information? Write the correct letter A-G, in boxes 1-4 on your answer sheet. 1 IQ is just one single factor of human characteristics. 2 Discussion of the methodology behind Professor Stern’s test. 3 Inadequacy of IQ test from Binet. 4 The definition of IQ was created by a professor. 5 Professor Binet devises the test to …………………… A",
-          "answer": "B"
+          "groupId": "p1g2",
+          "prompt": "The test is designed according to_______",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "US Army used Intelligence tests to select______",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "matching-features",
+          "groupId": "p1g2",
+          "prompt": "the purpose of the text is to______",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Part the intension in designing the test by professor",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Age as a factor is completely overlooked in the\nsimplified tests by Wilhelm Stern",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "Einstein was a counter-example of IQ test conclusion.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "IQ test may probably lead to racial discrimination as a\nnegative effect.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "true-false-not-given",
+          "groupId": "p1g3",
+          "prompt": "The author regards measuring intelligent test as a\ngoal hardly meaningful.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     },
     {
-      "partNumber": 1,
-      "title": "Questions 9-13",
-      "questionRange": [
-        9,
-        13
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 9-13\nC\n \nD\n \n7\nUS Army used Intelligence tests to select______\nA\n \nB\n \nC\n \nD\n \n8\nthe purpose of the text is to______\nA\n \nB\n \nC\n \nD\n \nreading skill\ngender\nOfficers\nNormal Soldiers\nExaminers\nSubmarine drivers.\nGive credit to the contribution of Binet in the IQ test\nprove someone’s theory is feasible.\ndiscuss the validity and limitation of the test\noutline the history of the test\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 9-13 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n9\n Part the intension in designing the test by professor\nBinet has been misunderstood.\n10\n Age as a factor is completely overlooked in the\nsimplified tests by Wilhelm Stern\n11\n Einstein was a counter-example of IQ test conclusion.\n12\n IQ test may probably lead to racial discrimination as a\nnegative effect.\n\n13\n The author regards measuring intelligent test as a\ngoal hardly meaningful.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          },
-          {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
       "partNumber": 2,
-      "title": "Museum Blockbuster",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26 , which are based on\nReading Passage 2 below.\nMuseum Blockbuster\nA\nSince the 1980s, the term “blockbuster” has become the fashionable word for\nthe special spectacular museum, art gallery or science centre exhibitions.\nThese exhibitions have the ability to attract large crowds and often large\ncorporate sponsors. Here is one of some existing definitions of a blockbuster:\nPut by Elsen (1984), a blockbuster is a “… large scale loan exhibition that\npeople who normally don’t go to museums will stand in line for hours to see …”\nJames Rosenfield, writing in Direct Marketing in 1993, has described a\nsuccessful blockbuster exhibition as a “… triumph of both curatorial and\nmarketing skills …” My own definition for a blockbuster is “a popular, high\nprofile exhibition on display for a limited period, that attracts the general\npublic, who are prepared to both stand in line and pay a fee in order to partake\nin the exhibition.” What both Elsen and Rosenfield omit in their descriptions of\na blockbuster, is that people are prepared to pay a fee to see a blockbuster\nand that the term blockbuster can just as easily apply to a movie or a museum\nexhibition.\nB\nMerely naming an exhibition or movie a blockbuster, however, does not make it\na blockbuster. The term can only apply when the item in question has had an\noverwhelmingly successful response from the public. However, in literature\nfrom both the UK and USA the other words that also start to appear in\ndescriptions of a blockbuster are “less scholarly”, “non-elitist” and “popularist”.\nDetractors argue that blockbusters are designed to appeal to the lowest\ncommon denominator, while others extol the virtues of encouraging scholars to\n\ncooperate on projects and to provide exhibitions that cater for a broad\nselection of the community rather than an elite sector.\nC\nMaintaining and increasing visitor levels is paramount in the new museology.\nThis requires continued product development. Not only the creation or hiring of\nblockbuster exhibitions but regular exhibition changes and innovations. In\naddition, the visiting public has become customers rather than visitors, and the\nskills that are valued in museums, science centres and galleries to keep the\nnew customers coming through the door have changed. High on the list of\nrequirements are commercial, business, marketing and entrepreneurial skills.\nCurators are now administrators. Being a director of an art gallery no longer\nrequires an Arts Degree. As succinctly summarised in the Economist in 1994\n“business nous and public relation skills” were essential requirements for a\ndirector, and the ability to compete with other museums to stage travelling\nexhibitions which draw huge crowds.\nD\nThe new museology has resulted in the convergence of museums, the heritage\nindustry, and tourism, profit-making and pleasure-giving. This has given rise to\nmuch debate about the appropriateness of adopting the activities of institutions\nso that they more closely reflect the priorities of the market place and whether\nit is appropriate to see museums primarily as tourist attractions. At many\ninstitutions, you can now hold office functions in the display areas, or have\ndinner with the dinosaurs. Whatever commentators may think, managers of\nmuseums, art galleries and science centres worldwide are looking for artful\nways to blend culture and commerce, and blockbuster exhibitions are at the\ntop of the list. But while blockbusters are all part of the new museology, there\nis proof that you don’t need a museum, science centre or art gallery to benefit\nfrom the drawing power of a blockbuster or to stage a blockbuster.\nE\nBut do blockbusters held in public institutions really create a surplus to fund\nother activities? If the bottom line is profit, then according to the accounting\nrecords of many major museums and galleries, blockbusters do make money.\nFor some museums overseas, it may be the money that they need to update\nparts of their collections or to repair buildings that are in need of attention. For\nothers in Australia, it may be the opportunity to illustrate that they are\nattempting to pay their way, by recovering part of their operating costs or\nfunding other operating activities with off-budget revenue. This makes the\neconomic rationalists cheerful. However, not all exhibitions that are hailed to\n\nbe blockbusters will be blockbusters, and some will not make money. It is also\nunlikely that the accounting systems of most institutions will recognise the real\ncost of either creating or hiring a blockbuster.\nF\nBlockbusters require large capital expenditure, and draw on resources across\nall branches of an organisation; however, the costs don’t end there. There is a\nHuman Resource Management cost in addition to a measurable ‘real’ dollar\ncost. Receiving a touring exhibition involves large expenditure as well, and\ndraws resources from across functional management structures in project\nmanagement style. everyone from a general labourer to a building servicing\nunit, the front of the house, technical, promotion, education and administration\nstaff, are required to perform additional tasks. Furthermore, as an increasing\nnumber of institutions in Australia try their hand at increasing visitor numbers,\nmemberships (and therefore revenue), by staging blockbuster exhibitions, it\nmay be less likely that blockbusters will continue to provide a surplus to\nsubsidise other activities due to the competitive nature of the market. There\nare only so many consumer dollars to go around, and visitors will need to\nchoose between blockbuster products.\nG\nUnfortunately, when the bottom-line is the most important objective to the\nmounting of blockbuster exhibitions, this same objective can be hard to\nmaintain. Creating, mounting or hiring blockbusters is exhausting for staff, with\nthe real costs throughout an institution difficult to calculate. Although the direct\naims may be financial, creating or hiring a blockbuster has many positive spin-\noffs; by raising their profile through a popular blockbuster exhibition, a\nmuseum will be seen in a more favorable light at budget time. Blockbusters\nmean crowds, and crowds are good for the local economy, providing increased\nemployment for shops, hotels, restaurants, the transport industry and retailers.\nBlockbusters expose staff to the vagaries and pressures of the market place\nand may lead to creative excellence. Either the success or failure of a\nblockbuster may highlight the need for managers and policymakers to rethink\ntheir strategies. However, the new museology and the apparent trend towards\nblockbusters make it likely that museums, art galleries and particularly science\ncentres will be seen as part of the entertainment and tourism industry, rather\nthan as cultural icons deserving of government and philanthropic support.\nH\nPerhaps the best pathway to take is one that balances both blockbusters and\n\nregular exhibitions. However, this easy middle ground may only work if you\nhave enough space, and have alternate sources of funding to continue to\nsupport the regular less exciting fare. Perhaps the advice should be to make\nsure that your regular activities and exhibitions are more enticing, and find out\nwhat your local community wants from you. The question (trend) now at most\nmuseums and science centres, is “What blockbusters can we tour to overseas\nvenues and will it be cost-effective?”",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Museum Blockbuster"
+          },
           {
             "label": "A",
-            "content": "Since the 1980s, the term “blockbuster” has become the fashionable word for"
+            "text": "Since the 1980s, the term \"blockbuster\" has become the fashionable word for\nthe special spectacular museum, art gallery or science centre exhibitions.\nThese exhibitions have the ability to attract large crowds and often large\ncorporate sponsors. Here is one of some existing definitions of a blockbuster:\nPut by Elsen (1984), a blockbuster is a \"... large scale loan exhibition that\npeople who normally don't go to museums will stand in line for hours to see ...\"\nJames Rosenfield, writing in Direct Marketing in 1993, has described a\nsuccessful blockbuster exhibition as a \"... triumph of both curatorial and\nmarketing skills ...\" My own definition for a blockbuster is \"a popular, high\nprofile exhibition on display for a limited period, that attracts the general\npublic, who are prepared to both stand in line and pay a fee in order to partake\nin the exhibition.\" What both Elsen and Rosenfield omit in their descriptions of\na blockbuster, is that people are prepared to pay a fee to see a blockbuster\nand that the term blockbuster can just as easily apply to a movie or a museum\nexhibition."
           },
           {
             "label": "B",
-            "content": "Merely naming an exhibition or movie a blockbuster, however, does not make it"
+            "text": "Merely naming an exhibition or movie a blockbuster, however, does not make it\na blockbuster. The term can only apply when the item in question has had an\noverwhelmingly successful response from the public. However, in literature\nfrom both the UK and USA the other words that also start to appear in\ndescriptions of a blockbuster are \"less scholarly\", \"non-elitist\" and \"popularist\".\nDetractors argue that blockbusters are designed to appeal to the lowest\ncommon denominator, while others extol the virtues of encouraging scholars to"
+          },
+          {
+            "label": null,
+            "text": "cooperate on projects and to provide exhibitions that cater for a broad\nselection of the community rather than an elite sector."
           },
           {
             "label": "C",
-            "content": "Maintaining and increasing visitor levels is paramount in the new museology."
+            "text": "Maintaining and increasing visitor levels is paramount in the new museology.\nThis requires continued product development. Not only the creation or hiring of\nblockbuster exhibitions but regular exhibition changes and innovations. In\naddition, the visiting public has become customers rather than visitors, and the\nskills that are valued in museums, science centres and galleries to keep the\nnew customers coming through the door have changed. High on the list of\nrequirements are commercial, business, marketing and entrepreneurial skills.\nCurators are now administrators. Being a director of an art gallery no longer\nrequires an Arts Degree. As succinctly summarised in the Economist in 1994\n\"business nous and public relation skills\" were essential requirements for a\ndirector, and the ability to compete with other museums to stage travelling\nexhibitions which draw huge crowds."
           },
           {
             "label": "D",
-            "content": "The new museology has resulted in the convergence of museums, the heritage"
+            "text": "The new museology has resulted in the convergence of museums, the heritage\nindustry, and tourism, profit-making and pleasure-giving. This has given rise to\nmuch debate about the appropriateness of adopting the activities of institutions\nso that they more closely reflect the priorities of the market place and whether\nit is appropriate to see museums primarily as tourist attractions. At many\ninstitutions, you can now hold office functions in the display areas, or have\ndinner with the dinosaurs. Whatever commentators may think, managers of\nmuseums, art galleries and science centres worldwide are looking for artful\nways to blend culture and commerce, and blockbuster exhibitions are at the\ntop of the list. But while blockbusters are all part of the new museology, there\nis proof that you don't need a museum, science centre or art gallery to benefit\nfrom the drawing power of a blockbuster or to stage a blockbuster."
           },
           {
             "label": "E",
-            "content": "But do blockbusters held in public institutions really create a surplus to fund"
+            "text": "But do blockbusters held in public institutions really create a surplus to fund\nother activities? If the bottom line is profit, then according to the accounting\nrecords of many major museums and galleries, blockbusters do make money.\nFor some museums overseas, it may be the money that they need to update\nparts of their collections or to repair buildings that are in need of attention. For\nothers in Australia, it may be the opportunity to illustrate that they are\nattempting to pay their way, by recovering part of their operating costs or\nfunding other operating activities with off-budget revenue. This makes the\neconomic rationalists cheerful. However, not all exhibitions that are hailed to"
+          },
+          {
+            "label": null,
+            "text": "be blockbusters will be blockbusters, and some will not make money. It is also\nunlikely that the accounting systems of most institutions will recognise the real\ncost of either creating or hiring a blockbuster."
           },
           {
             "label": "F",
-            "content": "Blockbusters require large capital expenditure, and draw on resources across"
+            "text": "Blockbusters require large capital expenditure, and draw on resources across\nall branches of an organisation; however, the costs don't end there. There is a\nHuman Resource Management cost in addition to a measurable 'real' dollar\ncost. Receiving a touring exhibition involves large expenditure as well, and\ndraws resources from across functional management structures in project\nmanagement style. everyone from a general labourer to a building servicing\nunit, the front of the house, technical, promotion, education and administration\nstaff, are required to perform additional tasks. Furthermore, as an increasing\nnumber of institutions in Australia try their hand at increasing visitor numbers,\nmemberships (and therefore revenue), by staging blockbuster exhibitions, it\nmay be less likely that blockbusters will continue to provide a surplus to\nsubsidise other activities due to the competitive nature of the market. There\nare only so many consumer dollars to go around, and visitors will need to\nchoose between blockbuster products."
           },
           {
             "label": "G",
-            "content": "Unfortunately, when the bottom-line is the most important objective to the"
+            "text": "Unfortunately, when the bottom-line is the most important objective to the\nmounting of blockbuster exhibitions, this same objective can be hard to\nmaintain. Creating, mounting or hiring blockbusters is exhausting for staff, with\nthe real costs throughout an institution difficult to calculate. Although the direct\naims may be financial, creating or hiring a blockbuster has many positive spin-\noffs; by raising their profile through a popular blockbuster exhibition, a\nmuseum will be seen in a more favorable light at budget time. Blockbusters\nmean crowds, and crowds are good for the local economy, providing increased\nemployment for shops, hotels, restaurants, the transport industry and retailers.\nBlockbusters expose staff to the vagaries and pressures of the market place\nand may lead to creative excellence. Either the success or failure of a\nblockbuster may highlight the need for managers and policymakers to rethink\ntheir strategies. However, the new museology and the apparent trend towards\nblockbusters make it likely that museums, art galleries and particularly science\ncentres will be seen as part of the entertainment and tourism industry, rather\nthan as cultural icons deserving of government and philanthropic support."
+          },
+          {
+            "label": "H",
+            "text": "Perhaps the best pathway to take is one that balances both blockbusters and"
+          },
+          {
+            "label": null,
+            "text": "regular exhibitions. However, this easy middle ground may only work if you\nhave enough space, and have alternate sources of funding to continue to\nsupport the regular less exciting fare. Perhaps the advice should be to make\nsure that your regular activities and exhibitions are more enticing, and find out\nwhat your local community wants from you. The question (trend) now at most\nmuseums and science centres, is \"What blockbusters can we tour to overseas\nvenues and will it be cost-effective?\""
           }
-        ]
+        ],
+        "text": "Museum Blockbuster\n\nSince the 1980s, the term \"blockbuster\" has become the fashionable word for\nthe special spectacular museum, art gallery or science centre exhibitions.\nThese exhibitions have the ability to attract large crowds and often large\ncorporate sponsors. Here is one of some existing definitions of a blockbuster:\nPut by Elsen (1984), a blockbuster is a \"... large scale loan exhibition that\npeople who normally don't go to museums will stand in line for hours to see ...\"\nJames Rosenfield, writing in Direct Marketing in 1993, has described a\nsuccessful blockbuster exhibition as a \"... triumph of both curatorial and\nmarketing skills ...\" My own definition for a blockbuster is \"a popular, high\nprofile exhibition on display for a limited period, that attracts the general\npublic, who are prepared to both stand in line and pay a fee in order to partake\nin the exhibition.\" What both Elsen and Rosenfield omit in their descriptions of\na blockbuster, is that people are prepared to pay a fee to see a blockbuster\nand that the term blockbuster can just as easily apply to a movie or a museum\nexhibition.\n\nMerely naming an exhibition or movie a blockbuster, however, does not make it\na blockbuster. The term can only apply when the item in question has had an\noverwhelmingly successful response from the public. However, in literature\nfrom both the UK and USA the other words that also start to appear in\ndescriptions of a blockbuster are \"less scholarly\", \"non-elitist\" and \"popularist\".\nDetractors argue that blockbusters are designed to appeal to the lowest\ncommon denominator, while others extol the virtues of encouraging scholars to\n\ncooperate on projects and to provide exhibitions that cater for a broad\nselection of the community rather than an elite sector.\n\nMaintaining and increasing visitor levels is paramount in the new museology.\nThis requires continued product development. Not only the creation or hiring of\nblockbuster exhibitions but regular exhibition changes and innovations. In\naddition, the visiting public has become customers rather than visitors, and the\nskills that are valued in museums, science centres and galleries to keep the\nnew customers coming through the door have changed. High on the list of\nrequirements are commercial, business, marketing and entrepreneurial skills.\nCurators are now administrators. Being a director of an art gallery no longer\nrequires an Arts Degree. As succinctly summarised in the Economist in 1994\n\"business nous and public relation skills\" were essential requirements for a\ndirector, and the ability to compete with other museums to stage travelling\nexhibitions which draw huge crowds.\n\nThe new museology has resulted in the convergence of museums, the heritage\nindustry, and tourism, profit-making and pleasure-giving. This has given rise to\nmuch debate about the appropriateness of adopting the activities of institutions\nso that they more closely reflect the priorities of the market place and whether\nit is appropriate to see museums primarily as tourist attractions. At many\ninstitutions, you can now hold office functions in the display areas, or have\ndinner with the dinosaurs. Whatever commentators may think, managers of\nmuseums, art galleries and science centres worldwide are looking for artful\nways to blend culture and commerce, and blockbuster exhibitions are at the\ntop of the list. But while blockbusters are all part of the new museology, there\nis proof that you don't need a museum, science centre or art gallery to benefit\nfrom the drawing power of a blockbuster or to stage a blockbuster.\n\nBut do blockbusters held in public institutions really create a surplus to fund\nother activities? If the bottom line is profit, then according to the accounting\nrecords of many major museums and galleries, blockbusters do make money.\nFor some museums overseas, it may be the money that they need to update\nparts of their collections or to repair buildings that are in need of attention. For\nothers in Australia, it may be the opportunity to illustrate that they are\nattempting to pay their way, by recovering part of their operating costs or\nfunding other operating activities with off-budget revenue. This makes the\neconomic rationalists cheerful. However, not all exhibitions that are hailed to\n\nbe blockbusters will be blockbusters, and some will not make money. It is also\nunlikely that the accounting systems of most institutions will recognise the real\ncost of either creating or hiring a blockbuster.\n\nBlockbusters require large capital expenditure, and draw on resources across\nall branches of an organisation; however, the costs don't end there. There is a\nHuman Resource Management cost in addition to a measurable 'real' dollar\ncost. Receiving a touring exhibition involves large expenditure as well, and\ndraws resources from across functional management structures in project\nmanagement style. everyone from a general labourer to a building servicing\nunit, the front of the house, technical, promotion, education and administration\nstaff, are required to perform additional tasks. Furthermore, as an increasing\nnumber of institutions in Australia try their hand at increasing visitor numbers,\nmemberships (and therefore revenue), by staging blockbuster exhibitions, it\nmay be less likely that blockbusters will continue to provide a surplus to\nsubsidise other activities due to the competitive nature of the market. There\nare only so many consumer dollars to go around, and visitors will need to\nchoose between blockbuster products.\n\nUnfortunately, when the bottom-line is the most important objective to the\nmounting of blockbuster exhibitions, this same objective can be hard to\nmaintain. Creating, mounting or hiring blockbusters is exhausting for staff, with\nthe real costs throughout an institution difficult to calculate. Although the direct\naims may be financial, creating or hiring a blockbuster has many positive spin-\noffs; by raising their profile through a popular blockbuster exhibition, a\nmuseum will be seen in a more favorable light at budget time. Blockbusters\nmean crowds, and crowds are good for the local economy, providing increased\nemployment for shops, hotels, restaurants, the transport industry and retailers.\nBlockbusters expose staff to the vagaries and pressures of the market place\nand may lead to creative excellence. Either the success or failure of a\nblockbuster may highlight the need for managers and policymakers to rethink\ntheir strategies. However, the new museology and the apparent trend towards\nblockbusters make it likely that museums, art galleries and particularly science\ncentres will be seen as part of the entertainment and tourism industry, rather\nthan as cultural icons deserving of government and philanthropic support.\n\nPerhaps the best pathway to take is one that balances both blockbusters and\n\nregular exhibitions. However, this easy middle ground may only work if you\nhave enough space, and have alternate sources of funding to continue to\nsupport the regular less exciting fare. Perhaps the advice should be to make\nsure that your regular activities and exhibitions are more enticing, and find out\nwhat your local community wants from you. The question (trend) now at most\nmuseums and science centres, is \"What blockbusters can we tour to overseas\nvenues and will it be cost-effective?\"",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The Reading Passage has seven paragraphs A-H Which paragraphs contains the following information? Write the correct letter A-H, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN THREE WORDS from the Reading Passage for each answer. Write your answers in boxes 18-21 on your answer sheet.",
+          "body": "Instead of being visitors, people turned out to be [[18]] , who require the creation or hiring of blockbuster exhibitions as well as regular exhibition changes and innovations. Business nous and [[19]] simply summarized in a magazine are not only important factors for directors but also an ability to attract a crowd of audiences. [[20]] has contributed to the linking of museums, the heritage industry, tourism, profit-making and pleasure-giving. There occurs some controversy over whether it is proper to consider museums mainly as [[21]]",
+          "range": [
+            18,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters A-E. Write your answer in boxes 22-23 on your answer sheet. The list below gives some advantages of a blockbuster. Which TWO advantages are mentioned by the writer of the text?",
+          "body": null,
+          "range": [
+            22,
+            23
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "To offer sufficient money to repair architectures.",
+              "To maintain and increase visitor levels.",
+              "Presenting the mixture in the culture and commerce of art",
+              "Being beneficial for the development of local business.",
+              "Being beneficial for the directors."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "sentence-completion",
+          "instruction": "Choose THREE letters A-F. Write your answer in boxes 24-26 on your answer sheet. The list below gives some disadvantages of a blockbuster. Which THREE disadvantages are mentioned by the writer of the text?",
+          "body": null,
+          "range": [
+            24,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "A reason for changing the exhibition programs.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "The time people have to wait in a queue in order to\nenjoy exhibitions.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "Terms people used when referring to the blockbuster",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "There was some controversy over confining target\ngroups of a blockbuster.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "customers",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "public relation skills",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "museology",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "tourist attractions",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "A,D",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B,C,E",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "Beyond the blue line",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40 , which are based on\nReading Passage 3 below.\nBeyond the blue line\nA\nMuch of the thrill of venturing to the far side of the world rests on the romance\nof difference. So one feels a certain sympathy for Captain James Cook on the\nday in 1778 that he “discovered” Hawaii. Then on his third expedition to the\nPacific, the British navigator had explored scores of islands across the breadth\nof the sea, from lush New Zealand to the lonely wastes of Easter Island. This\nlatest voyage had taken him thousands of miles north from the Society Islands\nto an archipelago so remote that even the old Polynesians back on Tahiti knew\nnothing about it. Imagine Cook’s surprise, then, when the natives of Hawaii\ncame paddling out in their canoes and greeted him in a familiar tongue, one he\nhad heard on virtually every mote of inhabited land he had visited. Marveling\nat the ubiquity of this Pacific language and culture, he later wondered in his\njournal: “How shall we account for this Nation spreading itself so far over this\nvast ocean?”\nB\nThat question, and others that flow from it has tantalized inquiring minds for\ncenturies: Who were these amazing seafarers? Where did they come from,\nstarting more than 3,000 years ago? And how could a Neolithic people with\nsimple canoes and no navigation gear manage to find, let alone colonize,\nhundreds of far-flung island specks scattered across an ocean that spans\nnearly a third of the globe? Answers have been slow in coming. But now a\nstartling archaeological find on the island of Éfaté, in the Pacific nation of\nVanuatu, has revealed an ancient seafaring people, the distant ancestors of\ntoday’s Polynesians, taking their first steps into the unknown. The discoveries\n\nthere have also opened a window into the shadowy world of those early\nvoyagers.\nC\n“What we have is a first- or second-generation site containing the graves of\nsome of the Pacific’s first explorers,” says Spriggs, professor of archaeology at\nthe Australian National University and co-leader of an international team\nexcavating the site. It came to light only by luck. A backhoe operator, digging\nup topsoil on the grounds of a derelict coconut plantation, scraped open a\ngrave – the first of dozens in a burial ground some 3,000 years old. It is the\noldest cemetery ever found in the Pacific islands, and it harbors the bones of\nan ancient people archaeologists call the Lapita, a label that derives from a\nbeach in New Caledonia where a landmark cache of their pottery was found in\nthe 1950s.\nD\nThey were daring blue-water adventurers who roved the sea not just as\nexplorers but also as pioneers, bringing along everything they would need to\nbuild new lives – their families and livestock, taro seedlings and stone tools.\nWithin the span of a few centuries, the Lapita stretched the boundaries of their\nworld from the jungle-clad volcanoes of Papua New Guinea to the loneliest\ncoral outliers of Tonga, at least 2,000 miles eastward in the Pacific. Along the\nway they explored millions of square miles of an unknown sea, discovering and\ncolonizing scores of tropical islands never before seen by human eyes:\nVanuatu, New Caledonia, Fiji, Samoa.\nIt was their descendants, centuries later, who became the great Polynesian\nnavigators we all tend to think of: the Tahitians and Hawaiians, the New\nZealand Maori, and the curious people who erected those statues on Easter\nIsland. But it was the Lapita who laid the foundation – who bequeathed to the\nisland the language, customs, and cultures that their more famous\ndescendants carried around the Pacific.\nE\nWhile the Lapita left a glorious legacy, they also left precious few clues about\nthemselves. A particularly intriguing clue comes from chemical tests on the\nteeth of several skeletons. Then as now, the food and water you consume as a\nchild deposits oxygen, carbon, strontium, and other elements in your still-\nforming adult teeth. The isotope signatures of these elements vary subtly from\nplace to place, so that if you grow up in, say, Buffalo, New York, then spend\nyour adult life in California, tests on the isotopes in your teeth will always\n\nreveal your eastern roots.\nIsotope analysis indicates that several of the Lapita buried on Éfaté didn’t\nspend their childhoods here but came from somewhere else. And while\nisotopes can’t pinpoint their precise island of origin, this much is clear: At some\npoint in their lives, these people left the villages of their birth and made a\nvoyage by seagoing canoe, never to return. DNA teased from these ancient\nbones may also help answer one of the most puzzling questions in Pacific\nanthropology: Did all Pacific islanders spring from one source or many? Was\nthere only one outward migration from a single point in Asia, or several from\ndifferent points? “This represents the best opportunity we’ve had yet,” says\nSpriggs, “to find out who the Lapita actually were, where they came from, and\nwho their closest descendants are today.”\nF\nThere is one stubborn question for which archaeology has yet to provide any\nanswers: How did the Lapita accomplish the ancient equivalent of a moon\nlanding, many times over? No one has found one of their canoes or any rigging,\nwhich could reveal how the canoes were sailed. Nor do the oral histories and\ntraditions of later Polynesians offer any insights.\n“All we can say for certain is that the Lapita had canoes that were capable of\nocean voyages, and they had the ability to sail them,” says Geoff Irwin, a\nprofessor of archaeology at the University of Auckland and an avid yachtsman.\nThose sailing skills, he says, were developed and passed down over thousands\nof years by earlier mariners who worked their way through the archipelagoes of\nthe western Pacific making short crossings to islands within sight of each other.\nThe real adventure didn’t begin, however, until their Lapita descendants\nneared the end of the Solomons chain, for this was the edge of the world. The\nnearest landfall, the Santa Cruz Islands, is almost 230 miles away, and for at\nleast 150 of those miles, the Lapita sailors would have been out of sight of land,\nwith empty horizons on every side.\nG\nThe Lapita’s thrust into the Pacific was eastward, against the prevailing trade\nwinds, Irwin notes. Those nagging headwinds, he argues, may have been the\nkey to their success. “They could sail out for days into the unknown and\nreconnoiter, secure in the knowledge that if they didn’t find anything, they\ncould turn about and catch a swift ride home on the trade winds. It’s what\nmade the whole thing work.” Once out there, skilled seafarers would detect\nabundant leads to follow to land: seabirds and turtles, coconuts and twigs\ncarried out to sea by the tides and the afternoon pileup of clouds on the horizon\n\nthat often betokens an island in the distance.\nAll this presupposes one essential detail, says Atholl Anderson, professor of\nprehistory at the Australian National University and, like Irwin, a keen\nyachtsman: that the Lapita had mastered the advanced art of tacking into the\nwind. “And there’s no proof that they could do any such thing,” Anderson says.\n“There has been this assumption that they must have done so, and people\nhave built canoes to re-create those early voyages based on that assumption.\nBut nobody has any idea what their canoes looked like or how they were\nrigged.”\nH\nHowever they did it, the Lapita spread themselves a third of the way across the\nPacific, then called it quits for reasons known only to them. Ahead lay the vast\nemptiness of the central Pacific, and perhaps they were too thinly stretched to\nventure farther. They probably never numbered more than a few thousand in\ntotal, and in their rapid migration eastward they encountered hundreds of\nislands – more than 300 in Fiji alone. Supplied with such an embarrassment of\nriches, they could settle down and enjoy what for a time was Earth’s last Edens.\nI\nRather than give all the credit to human skill and daring, Anderson invokes the\nwinds of change. El Niño, the same climate disruption that affects the Pacific\ntoday, may have helped scatter the first settlers to the ends of the ocean,\nAnderson suggests. Climate data obtained from slow-growing corals around the\nPacific and from lake-bed sediments in the Andes of South America point to a\nseries of unusually frequent El Niño around the time of the Lapita expansion,\nand again between 1,600 and 1,200 years ago, when the second wave of\npioneer navigators made their voyages farther east, to the remotest corners of\nthe Pacific. By reversing the regular east-to-west flow of the trade winds for\nweeks at a time, these “super El Niño” might have sped the Pacific’s ancient\nmariners on long, unplanned voyages could have been key to launching\nPolynesians across the wide expanse of open water between Tonga, where the\nLapita stopped, and the distant archipelagoes of eastern Polynesia. “Once they\ncrossed that gap, they could island-hop throughout the region, and from the\nMarquesas, it’s mostly downwind to Hawaii,” Anderson says. It took another\n400 years for mariners to reach Easter Island, which lies in the opposite\ndirection – normally upwind. “Once again this was during a period of frequent\nEl Niño activity.”",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Beyond the blue line"
+          },
           {
             "label": "A",
-            "content": "Much of the thrill of venturing to the far side of the world rests on the romance"
+            "text": "Much of the thrill of venturing to the far side of the world rests on the romance\nof difference. So one feels a certain sympathy for Captain James Cook on the\nday in 1778 that he \"discovered\" Hawaii. Then on his third expedition to the\nPacific, the British navigator had explored scores of islands across the breadth\nof the sea, from lush New Zealand to the lonely wastes of Easter Island. This\nlatest voyage had taken him thousands of miles north from the Society Islands\nto an archipelago so remote that even the old Polynesians back on Tahiti knew\nnothing about it. Imagine Cook's surprise, then, when the natives of Hawaii\ncame paddling out in their canoes and greeted him in a familiar tongue, one he\nhad heard on virtually every mote of inhabited land he had visited. Marveling\nat the ubiquity of this Pacific language and culture, he later wondered in his\njournal: \"How shall we account for this Nation spreading itself so far over this\nvast ocean?\""
           },
           {
             "label": "B",
-            "content": "That question, and others that flow from it has tantalized inquiring minds for"
+            "text": "That question, and others that flow from it has tantalized inquiring minds for\ncenturies: Who were these amazing seafarers? Where did they come from,\nstarting more than 3,000 years ago? And how could a Neolithic people with\nsimple canoes and no navigation gear manage to find, let alone colonize,\nhundreds of far-flung island specks scattered across an ocean that spans\nnearly a third of the globe? Answers have been slow in coming. But now a\nstartling archaeological find on the island of Éfaté, in the Pacific nation of\nVanuatu, has revealed an ancient seafaring people, the distant ancestors of\ntoday's Polynesians, taking their first steps into the unknown. The discoveries"
+          },
+          {
+            "label": null,
+            "text": "there have also opened a window into the shadowy world of those early\nvoyagers."
           },
           {
             "label": "C",
-            "content": "“What we have is a first- or second-generation site containing the graves of"
+            "text": "\"What we have is a first- or second-generation site containing the graves of\nsome of the Pacific's first explorers,\" says Spriggs, professor of archaeology at\nthe Australian National University and co-leader of an international team\nexcavating the site. It came to light only by luck. A backhoe operator, digging\nup topsoil on the grounds of a derelict coconut plantation, scraped open a\ngrave - the first of dozens in a burial ground some 3,000 years old. It is the\noldest cemetery ever found in the Pacific islands, and it harbors the bones of\nan ancient people archaeologists call the Lapita, a label that derives from a\nbeach in New Caledonia where a landmark cache of their pottery was found in\nthe 1950s."
           },
           {
             "label": "D",
-            "content": "They were daring blue-water adventurers who roved the sea not just as"
+            "text": "They were daring blue-water adventurers who roved the sea not just as\nexplorers but also as pioneers, bringing along everything they would need to\nbuild new lives - their families and livestock, taro seedlings and stone tools.\nWithin the span of a few centuries, the Lapita stretched the boundaries of their\nworld from the jungle-clad volcanoes of Papua New Guinea to the loneliest\ncoral outliers of Tonga, at least 2,000 miles eastward in the Pacific. Along the\nway they explored millions of square miles of an unknown sea, discovering and\ncolonizing scores of tropical islands never before seen by human eyes:\nVanuatu, New Caledonia, Fiji, Samoa."
+          },
+          {
+            "label": null,
+            "text": "It was their descendants, centuries later, who became the great Polynesian\nnavigators we all tend to think of: the Tahitians and Hawaiians, the New\nZealand Maori, and the curious people who erected those statues on Easter\nIsland. But it was the Lapita who laid the foundation - who bequeathed to the\nisland the language, customs, and cultures that their more famous\ndescendants carried around the Pacific."
           },
           {
             "label": "E",
-            "content": "While the Lapita left a glorious legacy, they also left precious few clues about"
+            "text": "While the Lapita left a glorious legacy, they also left precious few clues about\nthemselves. A particularly intriguing clue comes from chemical tests on the\nteeth of several skeletons. Then as now, the food and water you consume as a\nchild deposits oxygen, carbon, strontium, and other elements in your still-\nforming adult teeth. The isotope signatures of these elements vary subtly from\nplace to place, so that if you grow up in, say, Buffalo, New York, then spend\nyour adult life in California, tests on the isotopes in your teeth will always"
+          },
+          {
+            "label": null,
+            "text": "reveal your eastern roots."
+          },
+          {
+            "label": null,
+            "text": "Isotope analysis indicates that several of the Lapita buried on Éfaté didn't\nspend their childhoods here but came from somewhere else. And while\nisotopes can't pinpoint their precise island of origin, this much is clear: At some\npoint in their lives, these people left the villages of their birth and made a\nvoyage by seagoing canoe, never to return. DNA teased from these ancient\nbones may also help answer one of the most puzzling questions in Pacific\nanthropology: Did all Pacific islanders spring from one source or many? Was\nthere only one outward migration from a single point in Asia, or several from\ndifferent points? \"This represents the best opportunity we've had yet,\" says\nSpriggs, \"to find out who the Lapita actually were, where they came from, and\nwho their closest descendants are today.\""
           },
           {
             "label": "F",
-            "content": "There is one stubborn question for which archaeology has yet to provide any"
+            "text": "There is one stubborn question for which archaeology has yet to provide any\nanswers: How did the Lapita accomplish the ancient equivalent of a moon\nlanding, many times over? No one has found one of their canoes or any rigging,\nwhich could reveal how the canoes were sailed. Nor do the oral histories and\ntraditions of later Polynesians offer any insights."
+          },
+          {
+            "label": null,
+            "text": "\"All we can say for certain is that the Lapita had canoes that were capable of\nocean voyages, and they had the ability to sail them,\" says Geoff Irwin, a\nprofessor of archaeology at the University of Auckland and an avid yachtsman.\nThose sailing skills, he says, were developed and passed down over thousands\nof years by earlier mariners who worked their way through the archipelagoes of\nthe western Pacific making short crossings to islands within sight of each other.\nThe real adventure didn't begin, however, until their Lapita descendants\nneared the end of the Solomons chain, for this was the edge of the world. The\nnearest landfall, the Santa Cruz Islands, is almost 230 miles away, and for at\nleast 150 of those miles, the Lapita sailors would have been out of sight of land,\nwith empty horizons on every side."
           },
           {
             "label": "G",
-            "content": "The Lapita’s thrust into the Pacific was eastward, against the prevailing trade"
+            "text": "The Lapita's thrust into the Pacific was eastward, against the prevailing trade\nwinds, Irwin notes. Those nagging headwinds, he argues, may have been the\nkey to their success. \"They could sail out for days into the unknown and\nreconnoiter, secure in the knowledge that if they didn't find anything, they\ncould turn about and catch a swift ride home on the trade winds. It's what\nmade the whole thing work.\" Once out there, skilled seafarers would detect\nabundant leads to follow to land: seabirds and turtles, coconuts and twigs\ncarried out to sea by the tides and the afternoon pileup of clouds on the horizon"
+          },
+          {
+            "label": null,
+            "text": "that often betokens an island in the distance."
+          },
+          {
+            "label": null,
+            "text": "All this presupposes one essential detail, says Atholl Anderson, professor of\nprehistory at the Australian National University and, like Irwin, a keen\nyachtsman: that the Lapita had mastered the advanced art of tacking into the\nwind. \"And there's no proof that they could do any such thing,\" Anderson says.\n\"There has been this assumption that they must have done so, and people\nhave built canoes to re-create those early voyages based on that assumption.\nBut nobody has any idea what their canoes looked like or how they were\nrigged.\""
+          },
+          {
+            "label": "H",
+            "text": "However they did it, the Lapita spread themselves a third of the way across the\nPacific, then called it quits for reasons known only to them. Ahead lay the vast\nemptiness of the central Pacific, and perhaps they were too thinly stretched to\nventure farther. They probably never numbered more than a few thousand in\ntotal, and in their rapid migration eastward they encountered hundreds of\nislands - more than 300 in Fiji alone. Supplied with such an embarrassment of\nriches, they could settle down and enjoy what for a time was Earth's last Edens."
+          },
+          {
+            "label": "I",
+            "text": "Rather than give all the credit to human skill and daring, Anderson invokes the\nwinds of change. El Niño, the same climate disruption that affects the Pacific\ntoday, may have helped scatter the first settlers to the ends of the ocean,\nAnderson suggests. Climate data obtained from slow-growing corals around the\nPacific and from lake-bed sediments in the Andes of South America point to a\nseries of unusually frequent El Niño around the time of the Lapita expansion,\nand again between 1,600 and 1,200 years ago, when the second wave of\npioneer navigators made their voyages farther east, to the remotest corners of\nthe Pacific. By reversing the regular east-to-west flow of the trade winds for\nweeks at a time, these \"super El Niño\" might have sped the Pacific's ancient\nmariners on long, unplanned voyages could have been key to launching\nPolynesians across the wide expanse of open water between Tonga, where the\nLapita stopped, and the distant archipelagoes of eastern Polynesia. \"Once they\ncrossed that gap, they could island-hop throughout the region, and from the\nMarquesas, it's mostly downwind to Hawaii,\" Anderson says. It took another\n400 years for mariners to reach Easter Island, which lies in the opposite\ndirection - normally upwind. \"Once again this was during a period of frequent\nEl Niño activity.\""
           }
-        ]
+        ],
+        "text": "Beyond the blue line\n\nMuch of the thrill of venturing to the far side of the world rests on the romance\nof difference. So one feels a certain sympathy for Captain James Cook on the\nday in 1778 that he \"discovered\" Hawaii. Then on his third expedition to the\nPacific, the British navigator had explored scores of islands across the breadth\nof the sea, from lush New Zealand to the lonely wastes of Easter Island. This\nlatest voyage had taken him thousands of miles north from the Society Islands\nto an archipelago so remote that even the old Polynesians back on Tahiti knew\nnothing about it. Imagine Cook's surprise, then, when the natives of Hawaii\ncame paddling out in their canoes and greeted him in a familiar tongue, one he\nhad heard on virtually every mote of inhabited land he had visited. Marveling\nat the ubiquity of this Pacific language and culture, he later wondered in his\njournal: \"How shall we account for this Nation spreading itself so far over this\nvast ocean?\"\n\nThat question, and others that flow from it has tantalized inquiring minds for\ncenturies: Who were these amazing seafarers? Where did they come from,\nstarting more than 3,000 years ago? And how could a Neolithic people with\nsimple canoes and no navigation gear manage to find, let alone colonize,\nhundreds of far-flung island specks scattered across an ocean that spans\nnearly a third of the globe? Answers have been slow in coming. But now a\nstartling archaeological find on the island of Éfaté, in the Pacific nation of\nVanuatu, has revealed an ancient seafaring people, the distant ancestors of\ntoday's Polynesians, taking their first steps into the unknown. The discoveries\n\nthere have also opened a window into the shadowy world of those early\nvoyagers.\n\n\"What we have is a first- or second-generation site containing the graves of\nsome of the Pacific's first explorers,\" says Spriggs, professor of archaeology at\nthe Australian National University and co-leader of an international team\nexcavating the site. It came to light only by luck. A backhoe operator, digging\nup topsoil on the grounds of a derelict coconut plantation, scraped open a\ngrave - the first of dozens in a burial ground some 3,000 years old. It is the\noldest cemetery ever found in the Pacific islands, and it harbors the bones of\nan ancient people archaeologists call the Lapita, a label that derives from a\nbeach in New Caledonia where a landmark cache of their pottery was found in\nthe 1950s.\n\nThey were daring blue-water adventurers who roved the sea not just as\nexplorers but also as pioneers, bringing along everything they would need to\nbuild new lives - their families and livestock, taro seedlings and stone tools.\nWithin the span of a few centuries, the Lapita stretched the boundaries of their\nworld from the jungle-clad volcanoes of Papua New Guinea to the loneliest\ncoral outliers of Tonga, at least 2,000 miles eastward in the Pacific. Along the\nway they explored millions of square miles of an unknown sea, discovering and\ncolonizing scores of tropical islands never before seen by human eyes:\nVanuatu, New Caledonia, Fiji, Samoa.\n\nIt was their descendants, centuries later, who became the great Polynesian\nnavigators we all tend to think of: the Tahitians and Hawaiians, the New\nZealand Maori, and the curious people who erected those statues on Easter\nIsland. But it was the Lapita who laid the foundation - who bequeathed to the\nisland the language, customs, and cultures that their more famous\ndescendants carried around the Pacific.\n\nWhile the Lapita left a glorious legacy, they also left precious few clues about\nthemselves. A particularly intriguing clue comes from chemical tests on the\nteeth of several skeletons. Then as now, the food and water you consume as a\nchild deposits oxygen, carbon, strontium, and other elements in your still-\nforming adult teeth. The isotope signatures of these elements vary subtly from\nplace to place, so that if you grow up in, say, Buffalo, New York, then spend\nyour adult life in California, tests on the isotopes in your teeth will always\n\nreveal your eastern roots.\n\nIsotope analysis indicates that several of the Lapita buried on Éfaté didn't\nspend their childhoods here but came from somewhere else. And while\nisotopes can't pinpoint their precise island of origin, this much is clear: At some\npoint in their lives, these people left the villages of their birth and made a\nvoyage by seagoing canoe, never to return. DNA teased from these ancient\nbones may also help answer one of the most puzzling questions in Pacific\nanthropology: Did all Pacific islanders spring from one source or many? Was\nthere only one outward migration from a single point in Asia, or several from\ndifferent points? \"This represents the best opportunity we've had yet,\" says\nSpriggs, \"to find out who the Lapita actually were, where they came from, and\nwho their closest descendants are today.\"\n\nThere is one stubborn question for which archaeology has yet to provide any\nanswers: How did the Lapita accomplish the ancient equivalent of a moon\nlanding, many times over? No one has found one of their canoes or any rigging,\nwhich could reveal how the canoes were sailed. Nor do the oral histories and\ntraditions of later Polynesians offer any insights.\n\n\"All we can say for certain is that the Lapita had canoes that were capable of\nocean voyages, and they had the ability to sail them,\" says Geoff Irwin, a\nprofessor of archaeology at the University of Auckland and an avid yachtsman.\nThose sailing skills, he says, were developed and passed down over thousands\nof years by earlier mariners who worked their way through the archipelagoes of\nthe western Pacific making short crossings to islands within sight of each other.\nThe real adventure didn't begin, however, until their Lapita descendants\nneared the end of the Solomons chain, for this was the edge of the world. The\nnearest landfall, the Santa Cruz Islands, is almost 230 miles away, and for at\nleast 150 of those miles, the Lapita sailors would have been out of sight of land,\nwith empty horizons on every side.\n\nThe Lapita's thrust into the Pacific was eastward, against the prevailing trade\nwinds, Irwin notes. Those nagging headwinds, he argues, may have been the\nkey to their success. \"They could sail out for days into the unknown and\nreconnoiter, secure in the knowledge that if they didn't find anything, they\ncould turn about and catch a swift ride home on the trade winds. It's what\nmade the whole thing work.\" Once out there, skilled seafarers would detect\nabundant leads to follow to land: seabirds and turtles, coconuts and twigs\ncarried out to sea by the tides and the afternoon pileup of clouds on the horizon\n\nthat often betokens an island in the distance.\n\nAll this presupposes one essential detail, says Atholl Anderson, professor of\nprehistory at the Australian National University and, like Irwin, a keen\nyachtsman: that the Lapita had mastered the advanced art of tacking into the\nwind. \"And there's no proof that they could do any such thing,\" Anderson says.\n\"There has been this assumption that they must have done so, and people\nhave built canoes to re-create those early voyages based on that assumption.\nBut nobody has any idea what their canoes looked like or how they were\nrigged.\"\n\nHowever they did it, the Lapita spread themselves a third of the way across the\nPacific, then called it quits for reasons known only to them. Ahead lay the vast\nemptiness of the central Pacific, and perhaps they were too thinly stretched to\nventure farther. They probably never numbered more than a few thousand in\ntotal, and in their rapid migration eastward they encountered hundreds of\nislands - more than 300 in Fiji alone. Supplied with such an embarrassment of\nriches, they could settle down and enjoy what for a time was Earth's last Edens.\n\nRather than give all the credit to human skill and daring, Anderson invokes the\nwinds of change. El Niño, the same climate disruption that affects the Pacific\ntoday, may have helped scatter the first settlers to the ends of the ocean,\nAnderson suggests. Climate data obtained from slow-growing corals around the\nPacific and from lake-bed sediments in the Andes of South America point to a\nseries of unusually frequent El Niño around the time of the Lapita expansion,\nand again between 1,600 and 1,200 years ago, when the second wave of\npioneer navigators made their voyages farther east, to the remotest corners of\nthe Pacific. By reversing the regular east-to-west flow of the trade winds for\nweeks at a time, these \"super El Niño\" might have sped the Pacific's ancient\nmariners on long, unplanned voyages could have been key to launching\nPolynesians across the wide expanse of open water between Tonga, where the\nLapita stopped, and the distant archipelagoes of eastern Polynesia. \"Once they\ncrossed that gap, they could island-hop throughout the region, and from the\nMarquesas, it's mostly downwind to Hawaii,\" Anderson says. It took another\n400 years for mariners to reach Easter Island, which lies in the opposite\ndirection - normally upwind. \"Once again this was during a period of frequent\nEl Niño activity.\"",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook's expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on 'fat' began to provide valuable",
+          "body": "information about the [[27]] . On the excavating site, a [[28]] . Containing [[29]] of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people ' Lapita and their [[30]] . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no [[31]] of it.",
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet.",
+          "body": null,
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": ". Containing 29\n of Lapita was uncovered.\nLater on, various researches and tests have been done to study the",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "L",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
         {
           "number": 32,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "The chemical tests indicate that",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
+            "A",
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "the elements in one's teeth varied from childhood to adulthood.",
+            "the elements in one's teeth varied from childhood to adulthood.",
+            "the isotope signatures of the elements remain the same in different places.",
+            "the result of the study is not fascinating.",
+            "these chemicals can't conceal one's origin."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 33,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "The isotope analysis from the Lapita",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "exactly locates their birth island.",
+            "reveals that the Lapita found the new place via straits.",
+            "helps researchers to find out answers about the islanders.",
+            "leaves more new questions for anthropologists to answer."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 34,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "According to paragraph F, the offspring of Lapita",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet.",
-          "answer": "A",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "were capable of voyages to land that is not accessible to view.",
+            "were able to have the farthest voyage of 230 miles.",
+            "worked their way through the archipelagoes of the western Pacific.",
+            "fully explored the horizons."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 35,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "Once out exploring the sea, the sailors",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "always found the trade winds unsuitable for sailing.",
+            "could return home with various clues.",
+            "sometimes would overshoot their home port and sail off into eternity.",
+            "would sail in one direction."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "The Lapita could canoe in the prevailing wind.",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet. helps researchers to find out answers about the islanders. leaves more new questions for anthropologists to answer. were capable of voyages to land that is not accessible to view. were able to have the farthest voyage of 230 miles. worked their way through the archipelagoes of the western Pacific. fully explored the horizons. always found the trade winds unsuitable for sailing. could return home with various clues. sometimes would overshoot their home port and sail off into eternity. would sail in one direction. Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
-          "prompt": "It was difficult for the sailors to find ways back, once they were out.",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet. helps researchers to find out answers about the islanders. leaves more new questions for anthropologists to answer. were capable of voyages to land that is not accessible to view. were able to have the farthest voyage of 230 miles. worked their way through the archipelagoes of the western Pacific. fully explored the horizons. always found the trade winds unsuitable for sailing. could return home with various clues. sometimes would overshoot their home port and sail off into eternity. would sail in one direction. Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "It was difficult for the sailors to find ways back, once\nthey were out.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "The reason why the Lapita stopped canoeing farther is still unknown.",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet. helps researchers to find out answers about the islanders. leaves more new questions for anthropologists to answer. were capable of voyages to land that is not accessible to view. were able to have the farthest voyage of 230 miles. worked their way through the archipelagoes of the western Pacific. fully explored the horizons. always found the trade winds unsuitable for sailing. could return home with various clues. sometimes would overshoot their home port and sail off into eternity. would sail in one direction. Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The reason why the Lapita stopped canoeing farther is\nstill unknown.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "The majority of the Lapita dwelled on Fiji.",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet. helps researchers to find out answers about the islanders. leaves more new questions for anthropologists to answer. were capable of voyages to land that is not accessible to view. were able to have the farthest voyage of 230 miles. worked their way through the archipelagoes of the western Pacific. fully explored the horizons. always found the trade winds unsuitable for sailing. could return home with various clues. sometimes would overshoot their home port and sail off into eternity. would sail in one direction. Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
-          "prompt": "The navigators could take advantage of El Nino during their forth voyages",
-          "instruction": "Complete the summary with the list of words A-L below Write the correct letter A-L in boxes 27-31 on your answer sheet. A bones B co-leader C descendents D international team E inquiring minds F proof G ancestors H early seafarers I pottery J assumption K horizons L grave The question, arisen from Captain Cook’s expedition to Hawaii, and others derived from it, has fascinated researchers for a long time. However, a surprising archaeological find on Éfaté began to provide valuable information about the 27 . On the excavating site, a 28 . Containing 29 of Lapita was uncovered. Later on, various researches and tests have been done to study the ancient people – Lapita and their 30 . How could they manage to spread themselves so far over the vast ocean? All that is certain is that they were good at canoeing. And perhaps they could take well advantage of the trade wind. But there is no 31 of it. Choose the correct letter, A, B, C or D. Write your answers in boxes 32-35 on your answer sheet. helps researchers to find out answers about the islanders. leaves more new questions for anthropologists to answer. were capable of voyages to land that is not accessible to view. were able to have the farthest voyage of 230 miles. worked their way through the archipelagoes of the western Pacific. fully explored the horizons. always found the trade winds unsuitable for sailing. could return home with various clues. sometimes would overshoot their home port and sail off into eternity. would sail in one direction. Do the following statements agree with the information given in Reading Passage? In boxes 36-40 on your answer sheet, write",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g3",
+          "prompt": "The navigators could take advantage of El Nino during\ntheir forth voyages",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         }
       ]
     }
@@ -321,8 +1193,9 @@
     "19": "public relation skills",
     "20": "museology",
     "21": "tourist attractions",
+    "22": "A,D",
     "23": "A,D",
-    "26": "B,C,E",
+    "24": "B,C,E",
     "27": "H",
     "28": "L",
     "29": "A",
@@ -336,6 +1209,8 @@
     "37": "FALSE",
     "38": "TRUE",
     "39": "FALSE",
-    "40": "NOT GIVEN"
+    "40": "NOT GIVEN",
+    "25": "B,C,E",
+    "26": "B,C,E"
   }
 }

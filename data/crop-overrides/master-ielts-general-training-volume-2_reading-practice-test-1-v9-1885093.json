@@ -1,0 +1,11 @@
+{
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer.",
+    "body": "Fact and Description table. Fact '[[28]]': Description 'The person who predicts the growth of Mandarin'. Fact '[[29]]': Description 'The name of the journal mentioned in the article'. Fact '[[30]]': Description 'The number of people worldwide speaking a little English'. Fact '[[31]]': Description 'The name of China's language teaching schools'. Fact '[[32]]': Description 'How often Nick Harrison studies Mandarin'."
+  },
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Mixed single and multi-letter answers (2 'A, E', 4 'A, E'); multi-letter answers cannot map to single inputs."
+  }
+}

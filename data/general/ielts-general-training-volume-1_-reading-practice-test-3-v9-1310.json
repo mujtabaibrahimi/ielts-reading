@@ -1,327 +1,1246 @@
 {
   "id": "ielts-general-training-volume-1_-reading-practice-test-3-v9-1310",
   "type": "general",
-  "source": "ielts-general-training-volume-1 -reading-practice-test-3-v9-1310",
+  "title": "IELTS General Training Volume 1 - Reading Test 3",
+  "collection": "IELTS General Training Volume 1",
+  "testNumber": 3,
+  "year": 0,
+  "month": 0,
+  "volume": 1,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-1_-reading-practice-test-3-v9-1310.pdf",
-  "total_questions": 12,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "AUSTON HEALTH CENTRE PATIENT",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14, which are based on\nReading Passage 1 below.\nAUSTON HEALTH CENTRE PATIENT\nINFORMATION LEAFLET\n\nA Appointments\nPlease telephone 826969 (8.30am - 5.00pm: Mon - Fri). We suggest that you try to see\nthe same doctor whenever possible because it is helpful for both you and your doctor to\nknow each other well. We try hard to keep our appointments running to time, and ask\nyou to be punctual to help us achieve this; if you cannot keep an appointment, please\nphone in and let us know as soon as possible so that it can be used for someone else.\nPlease try to avoid evening appointments if possible. Each appointment is for one person\nonly. Please ask for a longer appointment if you need more time.\nB Weekends and Nights\nPlease telephone 823307 and a recorded message will give you the number of the\ndoctor from the Centre on duty. Please remember this is in addition to our normal\nworking day. Urgent calls only please. A Saturday morning emergency surgery is\navailable between 9.30am and 10.00am. Please telephone for home visits before\n10.00am at weekends.\nC Centre Nurses\nLiz Stuart, Martina Scott and Helen Stranger are available daily by appointment to help\nyou with dressings, ear syringing, children's immunisations, removal of stitches and\nblood tests. They will also advise on foreign travel, and can administer various injections\nand blood pressure checks. For any over 75s unable to attend the clinic, Helen Stranger\nwill make a home visit. AII three Centre Nurses are available during normal working\nhours to carry out health checks on patients who have been on doctors' lists for 3 years.\nD New Patients\nWithin 3 months of registering with the Centre, new patients on regular medication are\ninvited to attend a health check with their doctor. Other patients can arrange to be seen\nby one of the Centre Nurses.\nE Services Not Covered\nSome services are not covered by the Centre e.g. private certificates, insurance, driving\nand sports medicals, passport signatures, school medicals and prescriptions for foreign\ntravel. There are recommended fees for these set by the National Medical Association.\nPlease ask at reception.\nF Receptionists\nOur receptionists provide your primary point of contact-they are all very experienced\nand have a lot of basic information at their fingertips. They will be able to answer many\nof your initial queries and also act as a link with the rest of the team. They may request\nbrief details of your symptoms or illness - this enables the doctors to assess the degree\nof urgency.\nG Change of Address\nPlease remember to let us know if you decide to relocate. It is also useful for us to have\na record of your telephone number.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "BENTLEY HOSPITAL CATERING SERVICE",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Appointments"
+            "label": null,
+            "text": "AUSTON HEALTH CENTRE PATIENT\nINFORMATION LEAFLET"
           },
           {
-            "label": "B",
-            "content": "Weekends and Nights"
+            "label": null,
+            "text": "A Appointments\nPlease telephone 826969 (8.30am - 5.00pm: Mon - Fri). We suggest that you try to see\nthe same doctor whenever possible because it is helpful for both you and your doctor to\nknow each other well. We try hard to keep our appointments running to time, and ask\nyou to be punctual to help us achieve this; if you cannot keep an appointment, please\nphone in and let us know as soon as possible so that it can be used for someone else.\nPlease try to avoid evening appointments if possible. Each appointment is for one person\nonly. Please ask for a longer appointment if you need more time."
           },
           {
-            "label": "C",
-            "content": "Centre Nurses"
+            "label": null,
+            "text": "B Weekends and Nights\nPlease telephone 823307 and a recorded message will give you the number of the\ndoctor from the Centre on duty. Please remember this is in addition to our normal\nworking day. Urgent calls only please. A Saturday morning emergency surgery is\navailable between 9.30am and 10.00am. Please telephone for home visits before\n10.00am at weekends."
           },
           {
-            "label": "D",
-            "content": "New Patients"
+            "label": null,
+            "text": "C Centre Nurses\nLiz Stuart, Martina Scott and Helen Stranger are available daily by appointment to help\nyou with dressings, ear syringing, children's immunisations, removal of stitches and\nblood tests. They will also advise on foreign travel, and can administer various injections\nand blood pressure checks. For any over 75s unable to attend the clinic, Helen Stranger\nwill make a home visit. AII three Centre Nurses are available during normal working\nhours to carry out health checks on patients who have been on doctors' lists for 3 years."
           },
           {
-            "label": "E",
-            "content": "Services Not Covered"
+            "label": null,
+            "text": "D New Patients\nWithin 3 months of registering with the Centre, new patients on regular medication are\ninvited to attend a health check with their doctor. Other patients can arrange to be seen\nby one of the Centre Nurses."
           },
           {
-            "label": "F",
-            "content": "Receptionists"
+            "label": null,
+            "text": "E Services Not Covered\nSome services are not covered by the Centre e.g. private certificates, insurance, driving\nand sports medicals, passport signatures, school medicals and prescriptions for foreign\ntravel. There are recommended fees for these set by the National Medical Association.\nPlease ask at reception."
           },
           {
-            "label": "G",
-            "content": "Change of Address"
+            "label": null,
+            "text": "F Receptionists\nOur receptionists provide your primary point of contact-they are all very experienced\nand have a lot of basic information at their fingertips. They will be able to answer many\nof your initial queries and also act as a link with the rest of the team. They may request\nbrief details of your symptoms or illness - this enables the doctors to assess the degree\nof urgency."
+          },
+          {
+            "label": null,
+            "text": "G Change of Address\nPlease remember to let us know if you decide to relocate. It is also useful for us to have\na record of your telephone number."
+          },
+          {
+            "label": null,
+            "text": "TO ALL PERMANENT AND TEMPORARY MEMBERS OF STAFF"
+          },
+          {
+            "label": null,
+            "text": "IMPORTANT INFORMATION"
+          },
+          {
+            "label": null,
+            "text": "Meal Breaks\n(minimum company guidelines)"
+          },
+          {
+            "label": null,
+            "text": "HOURS WORKED\nBREAK TO BE TAKEN"
+          },
+          {
+            "label": null,
+            "text": "0-4 hrs\n4-6 hrs\n6-8 hrs\n8-12 hrs\n12-24 hrs"
+          },
+          {
+            "label": null,
+            "text": "nil\n15 mins\n30 mins\n60 mins (taken as 2 x 30 mins)\n75 mins (taken as 2 x 30 mins + 1 x 15 mins)"
+          },
+          {
+            "label": null,
+            "text": "Your section staffing board will show the times when these breaks are to be taken."
+          },
+          {
+            "label": null,
+            "text": "Please note\nIt is your responsibility to check that the total break time shown on the staffing sheets\naccurately reflects the breaks that you take. Any discrepancies should be raised with\nyour Staff Co-ordinator immediately."
+          },
+          {
+            "label": null,
+            "text": "SPECIAL REQUIREMENTS - FOOD HANDLERS\nFood handlers are those concerned with preparing and serving unwrapped food.\nFood handlers should report any instance of sickness, diarrhoea and/or stomach upset\nexperienced either while at work or during a holiday to a member of the Personnel\nManagement team. Any infections of ear, nose, throat, mouth, chest or skin should also\nbe reported to a member of the Personnel Management team.\nFood handlers need to have an annual dental examination by the company dentist.\nAlternatively, a current certificate of dental fitness may be produced from their own\ndentist. This applies to all permanent staff who handle food."
           }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "BENTLEY HOSPITAL CATERING SERVICE",
-      "questionRange": [
-        1,
-        4
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "BENTLEY HOSPITAL CATERING SERVICE\nTO ALL PERMANENT AND TEMPORARY MEMBERS OF STAFF\nIMPORTANT INFORMATION\nMeal Breaks\n(minimum company guidelines)\nHOURS WORKED\nBREAK TO BE TAKEN\n0-4 hrs\n4-6 hrs\n6-8 hrs\n8-12 hrs\n12-24 hrs\nnil\n15 mins\n30 mins\n60 mins (taken as 2 x 30 mins)\n75 mins (taken as 2 x 30 mins + 1 x 15 mins)\nYour section staffing board will show the times when these breaks are to be taken.\nPlease note\nIt is your responsibility to check that the total break time shown on the staffing sheets\naccurately reflects the breaks that you take. Any discrepancies should be raised with\nyour Staff Co-ordinator immediately.\nSPECIAL REQUIREMENTS - FOOD HANDLERS\nFood handlers are those concerned with preparing and serving unwrapped food.\nFood handlers should report any instance of sickness, diarrhoea and/or stomach upset\nexperienced either while at work or during a holiday to a member of the Personnel\nManagement team. Any infections of ear, nose, throat, mouth, chest or skin should also\nbe reported to a member of the Personnel Management team.\nFood handlers need to have an annual dental examination by the company dentist.\nAlternatively, a current certificate of dental fitness may be produced from their own\ndentist. This applies to all permanent staff who handle food.\nQuestions 1-4\nReading Passage 1 has seven sections, A-G.\nWhich paragraph contains the following information?\nWrite the correct letter A-G in boxes 1-4 on your answer sheet.\n1\n what to do if you need help outside normal working\nhours\n2\n who to speak to first for general information",
-        "tables": [],
+        ],
+        "text": "AUSTON HEALTH CENTRE PATIENT\nINFORMATION LEAFLET\n\nA Appointments\nPlease telephone 826969 (8.30am - 5.00pm: Mon - Fri). We suggest that you try to see\nthe same doctor whenever possible because it is helpful for both you and your doctor to\nknow each other well. We try hard to keep our appointments running to time, and ask\nyou to be punctual to help us achieve this; if you cannot keep an appointment, please\nphone in and let us know as soon as possible so that it can be used for someone else.\nPlease try to avoid evening appointments if possible. Each appointment is for one person\nonly. Please ask for a longer appointment if you need more time.\n\nB Weekends and Nights\nPlease telephone 823307 and a recorded message will give you the number of the\ndoctor from the Centre on duty. Please remember this is in addition to our normal\nworking day. Urgent calls only please. A Saturday morning emergency surgery is\navailable between 9.30am and 10.00am. Please telephone for home visits before\n10.00am at weekends.\n\nC Centre Nurses\nLiz Stuart, Martina Scott and Helen Stranger are available daily by appointment to help\nyou with dressings, ear syringing, children's immunisations, removal of stitches and\nblood tests. They will also advise on foreign travel, and can administer various injections\nand blood pressure checks. For any over 75s unable to attend the clinic, Helen Stranger\nwill make a home visit. AII three Centre Nurses are available during normal working\nhours to carry out health checks on patients who have been on doctors' lists for 3 years.\n\nD New Patients\nWithin 3 months of registering with the Centre, new patients on regular medication are\ninvited to attend a health check with their doctor. Other patients can arrange to be seen\nby one of the Centre Nurses.\n\nE Services Not Covered\nSome services are not covered by the Centre e.g. private certificates, insurance, driving\nand sports medicals, passport signatures, school medicals and prescriptions for foreign\ntravel. There are recommended fees for these set by the National Medical Association.\nPlease ask at reception.\n\nF Receptionists\nOur receptionists provide your primary point of contact-they are all very experienced\nand have a lot of basic information at their fingertips. They will be able to answer many\nof your initial queries and also act as a link with the rest of the team. They may request\nbrief details of your symptoms or illness - this enables the doctors to assess the degree\nof urgency.\n\nG Change of Address\nPlease remember to let us know if you decide to relocate. It is also useful for us to have\na record of your telephone number.\n\nTO ALL PERMANENT AND TEMPORARY MEMBERS OF STAFF\n\nIMPORTANT INFORMATION\n\nMeal Breaks\n(minimum company guidelines)\n\nHOURS WORKED\nBREAK TO BE TAKEN\n\n0-4 hrs\n4-6 hrs\n6-8 hrs\n8-12 hrs\n12-24 hrs\n\nnil\n15 mins\n30 mins\n60 mins (taken as 2 x 30 mins)\n75 mins (taken as 2 x 30 mins + 1 x 15 mins)\n\nYour section staffing board will show the times when these breaks are to be taken.\n\nPlease note\nIt is your responsibility to check that the total break time shown on the staffing sheets\naccurately reflects the breaks that you take. Any discrepancies should be raised with\nyour Staff Co-ordinator immediately.\n\nSPECIAL REQUIREMENTS - FOOD HANDLERS\nFood handlers are those concerned with preparing and serving unwrapped food.\nFood handlers should report any instance of sickness, diarrhoea and/or stomach upset\nexperienced either while at work or during a holiday to a member of the Personnel\nManagement team. Any infections of ear, nose, throat, mouth, chest or skin should also\nbe reported to a member of the Personnel Management team.\nFood handlers need to have an annual dental examination by the company dentist.\nAlternatively, a current certificate of dental fitness may be produced from their own\ndentist. This applies to all permanent staff who handle food.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Questions 5-9",
-      "questionRange": [
-        5,
-        9
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 1 has seven sections, A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 1-4 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 5-9 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            5,
+            9
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "matching-features",
+          "instruction": "Complete each sentence with the correct ending, A-J, below. Write the correct letter, A-J, in boxes 10-14 on your answer sheet.",
+          "body": null,
+          "range": [
+            10,
+            14
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "E",
+              "F",
+              "G",
+              "I",
+              "J"
+            ],
+            "labels": [
+              "talk to a staff co-ordinator.",
+              "have two thirty-minute breaks.",
+              "not take any breaks for meals.",
+              "get a single one-hour break.",
+              "look at the section staffing board.",
+              "lose pay for their break times.",
+              "have an annual dental examination.",
+              "consult their doctor."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Questions 5-9\nQuestions 10-14\n3\n what happens when you register with the Centre\n4\n what to do if you need to cancel a doctor's appointment\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 5-9 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n5\n You must always see the same doctor if you visit the\nCentre.\n6\n If you want a repeat prescription you must make an\nappointment. \n7\n Helen Stranger is the Head Nurse.\n8\n It is possible that receptionists will ask you to explain\nyour problem. \n9\n You should give the Health Centre your new contact\ndetails if you move house.\nComplete each sentence with the correct ending, A-J, below.\nWrite the correct letter, A-J, in boxes 10-14 on your answer sheet.\n10\n Temporary employees only working 3 hours should\n11\n Employees who work 11 hours should\n12\n To find out when to have their breaks, employees should\n13\n Employees working with food must\n14\n Food handlers who have been ill should\n\nA\ntalk to a staff co-ordinator.\nB\nhave two thirty-minute breaks.\nC\nnot take any breaks for meals.\nD\npay for any meals they have.\nE\nget a single one-hour break.\nF\nlook at the section staffing board.\nG\nlose pay for their break times.\nH\ntell a member of the Personnel Management team.\nI\nhave an annual dental examination.\nJ\nconsult their doctor.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "talk to a staff co-ordinator."
-          },
-          {
-            "label": "B",
-            "content": "have two thirty-minute breaks."
-          },
-          {
-            "label": "C",
-            "content": "not take any breaks for meals."
-          },
-          {
-            "label": "D",
-            "content": "pay for any meals they have."
-          },
-          {
-            "label": "E",
-            "content": "get a single one-hour break."
-          },
-          {
-            "label": "F",
-            "content": "look at the section staffing board."
-          },
-          {
-            "label": "G",
-            "content": "lose pay for their break times."
-          }
-        ]
-      },
-      "questions": []
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "what to do if you need help outside normal working",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "who to speak to first for general information",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "what happens when you register with the Centre",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "what to do if you need to cancel a doctor's appointment",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "You must always see the same doctor if you visit the",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "If you want a repeat prescription you must make an",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Helen Stranger is the Head Nurse.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "It is possible that receptionists will ask you to explain",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "You should give the Health Centre your new contact",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Temporary employees only working 3 hours should",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Employees who work 11 hours should",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "To find out when to have their breaks, employees should",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Employees working with food must",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g3",
+          "prompt": "Food handlers who have been ill should",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "E",
+            "F",
+            "G",
+            "I",
+            "J"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "Bramley College International Scholarships",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-27, which are based on\nReading Passage 2 below.\nBramley College International Scholarships\nThere are seven types of scholarship offered by Bramley College to enrolled\ninternational students to assist with the costs of their courses. With the exception of\napplications for scholarship category E, all newly-enrolled international students are\nautomatically considered for these scholarships. The scholarship is awarded in the\nstudent's first year as a credit to second semester course fees. In all subsequent years,\nthe scholarship is awarded as a credit to first semester course fees. The scholarships are\nawarded once per year unless otherwise stated.\nThe scholarship categories are:\n\nA\nOne scholarship of A$2000 for the most outstanding students entering the\nFoundation Studies Program from each of the following countries: Singapore,\nMalaysia and Thailand. An additional six scholarships are available for students\nfrom other countries. These scholarships are offered on two dates, to students in\nthe March and June intakes of the program. Scholarships are awarded on the basis\nof first semester results.\nB\nThree scholarships providing 25% of course fees for the duration of the course to\nthe three most outstanding State Certificate of Education (SCE) students entering\na Diploma or Certificate program. Scholarships are awarded on the basis of the\nprevious year's SCE results.\nC\nSeventeen scholarships providing 25% of course fees for the duration of the course\nto outstanding Diploma or Certificate students entering each Bramley College\nSchool: three each in the Schools of Business and Engineering; two in the School of\nApplied Science; two in the School of Environmental Design and Construction; two\nin the School of Art and Design; two in the School of Social Sciences and\nCommunications; one in the School of Biomedical and Health Science; one in the\nSchool of Education and one in the School of Nursing. Scholarships are awarded on\nthe basis of first semester results.\nD One scholarship of A$4000 per annum for the duration of the course to the most\noutstanding student entering the Diploma in Communication. Scholarships are\nawarded on the basis of first semester results.\nE\nNine scholarships of A$3000 per annum for the duration of the course to the most\noutstanding students commencing any Advanced Certificate course. Scholarships\nare awarded on the basis of Basic Certificate results (not SCE results). Note that\napplicants need to apply for this scholarship on the Bramley College International\nScholarship Application Form.\nF\nOne full-fee scholarship to the most outstanding student commencing a Diploma in\nArt and Design (Photography) course. This scholarship is offered every second\nyear, and is awarded on the basis of results obtained in the Certificate in Design\ncourse.\nG Four half-fee scholarships to outstanding students of Bramley College's Singapore\ncampus for the final year of the two-year Certificate in Business Studies to be\ncompleted in Melbourne, Australia. Scholarships are awarded on the basis of first\nyear results.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "One scholarship of A$2000 for the most outstanding students entering the"
+            "label": null,
+            "text": "Bramley College International Scholarships"
           },
           {
-            "label": "B",
-            "content": "Three scholarships providing 25% of course fees for the duration of the course to"
+            "label": null,
+            "text": "There are seven types of scholarship offered by Bramley College to enrolled\ninternational students to assist with the costs of their courses. With the exception of\napplications for scholarship category E, all newly-enrolled international students are\nautomatically considered for these scholarships. The scholarship is awarded in the\nstudent's first year as a credit to second semester course fees. In all subsequent years,\nthe scholarship is awarded as a credit to first semester course fees. The scholarships are\nawarded once per year unless otherwise stated."
           },
           {
-            "label": "C",
-            "content": "Seventeen scholarships providing 25% of course fees for the duration of the course"
+            "label": null,
+            "text": "The scholarship categories are:"
           },
           {
-            "label": "D",
-            "content": "One scholarship of A$4000 per annum for the duration of the course to the most"
+            "label": null,
+            "text": "A\nOne scholarship of A$2000 for the most outstanding students entering the\nFoundation Studies Program from each of the following countries: Singapore,\nMalaysia and Thailand. An additional six scholarships are available for students\nfrom other countries. These scholarships are offered on two dates, to students in\nthe March and June intakes of the program. Scholarships are awarded on the basis\nof first semester results."
           },
           {
-            "label": "E",
-            "content": "Nine scholarships of A$3000 per annum for the duration of the course to the most"
+            "label": null,
+            "text": "B\nThree scholarships providing 25% of course fees for the duration of the course to\nthe three most outstanding State Certificate of Education (SCE) students entering\na Diploma or Certificate program. Scholarships are awarded on the basis of the\nprevious year's SCE results."
           },
           {
-            "label": "F",
-            "content": "One full-fee scholarship to the most outstanding student commencing a Diploma in"
+            "label": null,
+            "text": "C\nSeventeen scholarships providing 25% of course fees for the duration of the course\nto outstanding Diploma or Certificate students entering each Bramley College\nSchool: three each in the Schools of Business and Engineering; two in the School of\nApplied Science; two in the School of Environmental Design and Construction; two\nin the School of Art and Design; two in the School of Social Sciences and\nCommunications; one in the School of Biomedical and Health Science; one in the\nSchool of Education and one in the School of Nursing. Scholarships are awarded on\nthe basis of first semester results."
           },
           {
-            "label": "G",
-            "content": "Four half-fee scholarships to outstanding students of Bramley College's Singapore"
+            "label": null,
+            "text": "D One scholarship of A$4000 per annum for the duration of the course to the most"
+          },
+          {
+            "label": null,
+            "text": "outstanding student entering the Diploma in Communication. Scholarships are\nawarded on the basis of first semester results."
+          },
+          {
+            "label": null,
+            "text": "E\nNine scholarships of A$3000 per annum for the duration of the course to the most\noutstanding students commencing any Advanced Certificate course. Scholarships\nare awarded on the basis of Basic Certificate results (not SCE results). Note that\napplicants need to apply for this scholarship on the Bramley College International\nScholarship Application Form."
+          },
+          {
+            "label": null,
+            "text": "F\nOne full-fee scholarship to the most outstanding student commencing a Diploma in\nArt and Design (Photography) course. This scholarship is offered every second\nyear, and is awarded on the basis of results obtained in the Certificate in Design\ncourse."
+          },
+          {
+            "label": null,
+            "text": "G Four half-fee scholarships to outstanding students of Bramley College's Singapore"
+          },
+          {
+            "label": null,
+            "text": "campus for the final year of the two-year Certificate in Business Studies to be\ncompleted in Melbourne, Australia. Scholarships are awarded on the basis of first\nyear results."
           }
-        ]
+        ],
+        "text": "Bramley College International Scholarships\n\nThere are seven types of scholarship offered by Bramley College to enrolled\ninternational students to assist with the costs of their courses. With the exception of\napplications for scholarship category E, all newly-enrolled international students are\nautomatically considered for these scholarships. The scholarship is awarded in the\nstudent's first year as a credit to second semester course fees. In all subsequent years,\nthe scholarship is awarded as a credit to first semester course fees. The scholarships are\nawarded once per year unless otherwise stated.\n\nThe scholarship categories are:\n\nA\nOne scholarship of A$2000 for the most outstanding students entering the\nFoundation Studies Program from each of the following countries: Singapore,\nMalaysia and Thailand. An additional six scholarships are available for students\nfrom other countries. These scholarships are offered on two dates, to students in\nthe March and June intakes of the program. Scholarships are awarded on the basis\nof first semester results.\n\nB\nThree scholarships providing 25% of course fees for the duration of the course to\nthe three most outstanding State Certificate of Education (SCE) students entering\na Diploma or Certificate program. Scholarships are awarded on the basis of the\nprevious year's SCE results.\n\nC\nSeventeen scholarships providing 25% of course fees for the duration of the course\nto outstanding Diploma or Certificate students entering each Bramley College\nSchool: three each in the Schools of Business and Engineering; two in the School of\nApplied Science; two in the School of Environmental Design and Construction; two\nin the School of Art and Design; two in the School of Social Sciences and\nCommunications; one in the School of Biomedical and Health Science; one in the\nSchool of Education and one in the School of Nursing. Scholarships are awarded on\nthe basis of first semester results.\n\nD One scholarship of A$4000 per annum for the duration of the course to the most\n\noutstanding student entering the Diploma in Communication. Scholarships are\nawarded on the basis of first semester results.\n\nE\nNine scholarships of A$3000 per annum for the duration of the course to the most\noutstanding students commencing any Advanced Certificate course. Scholarships\nare awarded on the basis of Basic Certificate results (not SCE results). Note that\napplicants need to apply for this scholarship on the Bramley College International\nScholarship Application Form.\n\nF\nOne full-fee scholarship to the most outstanding student commencing a Diploma in\nArt and Design (Photography) course. This scholarship is offered every second\nyear, and is awarded on the basis of results obtained in the Certificate in Design\ncourse.\n\nG Four half-fee scholarships to outstanding students of Bramley College's Singapore\n\ncampus for the final year of the two-year Certificate in Business Studies to be\ncompleted in Melbourne, Australia. Scholarships are awarded on the basis of first\nyear results.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "Using the Internet and CD-ROM databases in the Library",
-      "questionRange": [
-        15,
-        21
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in boxes 22-27 on your answer sheet.",
+          "body": null,
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "matching-paragraph-information",
+          "instruction": "Reading Passage 1 has six sections, A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 15-21 on your answer sheet. NB You may use any letter more than once",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "Using the Internet and CD-ROM databases in the Library\nBramley College now has full electronic information resources in the College Library to\nhelp you in your studies. On CD-ROM in the library we have about fifty databases,\nincluding many statistical sources. Want to know the average rainfall in Tokyo or the\nbiggest export earner of Vanuatu? It's easy to find out. Whether you are in the School of\nBusiness or the School of Art & Design, it's all here for you.\nYou can conduct your own CD-ROM search for no charge, and you can print out your\nresults on the library printers using your library photocopying card. Alternatively, you\ncan download your results to disk, again for no charge, but bring your own formatted\nfloppy disk or CD-ROM. If you are not sure how to conduct a search for yourself, library\nstaff can do it for you, but we charge $20 for this service, no matter how long or how\nshort a time it takes.\nAll library workstations have broadband access to the Internet, so you can find the web-\nbased information you need quickly and easily If you are unfamiliar with using the\nInternet, help is available in several ways. You can start with the online tutorial Netstart;\njust click on the Netstart Icon on the Main Menu. The tutorial will take you through the\nbasic steps to using the Internet, at any time convenient to you. If you prefer, ask one of\nthe librarians for internet advice (best at quiet times between 9.00am and 11.30am\nweekdays) or attend one of the introductory group sessions that are held in the first two\nweeks of each term. Sign your name on the list on the Library Bulletin Board to\nguarantee a place, as they are very popular.\nA word of warning: demand for access to library workstations is very high, so you are\nstrongly advised to book a workstation, and we have to limit your use to a maximum of\none hour at any one time. Make your booking (for which you will receive a receipt) at\nthe information Desk or at the enquiry desks in the Media Services Area (Level 1). Also,\nuse of the computers is limited to Bramley students only, so you may be asked to\nproduce your Student Identification Card to make a booking, or while using the\nworkstations.\nQuestions 15-21\nReading Passage 1 has six sections, A-G.\nWhich paragraph contains the following information?\nWrite the correct letter A-G in boxes 15-21 on your answer sheet.\nNB You may use any letter more than once\n15\n It is awarded on results obtained in the SCE exam.\n16\n It is only available to students from the College's\noverseas branch.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "A",
-            "content": "word of warning: demand for access to library workstations is very high, so you are"
-          }
-        ]
-      },
       "questions": [
         {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "It is awarded on results obtained in the SCE exam.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "It is only available to students from the College's\noverseas branch.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
           "number": 17,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
           "prompt": "It is not offered every year.",
           "instruction": "",
-          "answer": "F"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 18,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
           "prompt": "Students need to apply for it.",
           "instruction": "",
-          "answer": "E"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         },
         {
           "number": 19,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
           "prompt": "It is offered twice each year.",
           "instruction": "",
-          "answer": "A"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 20,
-          "type": "matching-features",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
           "prompt": "It pays 100% of the student's tuition fees.",
           "instruction": "",
-          "answer": "F"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
         },
         {
           "number": 21,
-          "type": "matching-features",
-          "prompt": "It provides 50% of one year's fees. Choose the correct letter A, B, C or D. Write the correct letter in boxes 22-27 on your answer sheet.",
+          "type": "matching-paragraph-information",
+          "groupId": "p2g2",
+          "prompt": "It provides 50% of one year's fees.",
           "instruction": "",
-          "answer": "G"
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "To use the library printers, students must have.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "a floppy disk",
+            "correct change in coins",
+            "a photocopying card",
+            "their own paper"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "To copy search results to a floppy disk, students pay.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "$20",
+            "no fee",
+            "a fee based on actual costs",
+            "a fee dependent on the time taken"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "If library staff' search for information on CD-ROM, students pay.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "$20",
+            "no fee",
+            "a fee based on actual costs",
+            "a fee dependent on the time taken"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "Students can learn to use the Internet.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "at all times",
+            "in the first two weeks of term only",
+            "Monday to Friday only",
+            "between 9.00am and 11.30am only"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "To ensure efficient access to the library workstations, students should.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "queue to use a workstation in the Media Services Area",
+            "reserve a time to use a workstation",
+            "work in groups on one workstation",
+            "conduct as many searches as possible at one time"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "multiple-choice",
+          "groupId": "p2g3",
+          "prompt": "At any one time, students may use a library workstation for.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "half an hour",
+            "one hour",
+            "two hours",
+            "an unlimited time READING PASSAGE 3 You should spend about 20 minutes on Questions 28-40, which are based on Reading Passage 3 below. THE WATER CRISIS Greater efficiency in water use is needed to meet the growing demands of a changing world A Per capita water usage has been on an upward trend for many years. As countries industrialise and their citizens become more prosperous, their individual water usage increases rapidly. Annual per capita water withdrawals in the USA, for example, are about 1,700 cubic metres, four times the level in China and fifty times the level in Ethiopia. In the 21st century, the world's limited supply of renewable fresh water is having to meet demands of both larger total population and increased per capita consumption. The only practicable ways to resolve this problem in the longer term are economic pricing in conjunction with conservation measures. B Agriculture consumes about 70% of the world's fresh water, so improvements in irrigation can make the greatest impact. At present, average efficiency in the use of irrigated water in agriculture may be as low as 50%. Simple changes could improve the rate substantially, though it is unrealistic to expect very high levels of water-use efficiency in many developing countries, faced as they are with a chronic lack of capital and a largely untrained rural workforce. After agriculture, industry is the second biggest user of water and, in terms of value added per litre used, is sixty times more productive than agriculture. However, some industrial processes use vast amounts of water. For example, production of 1 kg of aluminium might require 1,500 litres of water. Paper production too is often very water-intensive. Though new processes have greatly reduced consumption, there is still plenty of room for big savings in industrial uses of water. C In rich countries, water consumption has gradually been slowed down by price increases and the use of modern technology and recycling. In the USA, industrial production has risen fourfold since 1950, while water consumption has fallen by more than a third. Japan and Germany have similarly improved their use of water in manufacturing processes. Japanese industry, for example, now recycles more than 75% of process water. However, industrial water consumption is continuing to increase sharply in developing countries. With domestic and agricultural demands also increasing, the capacity of water supply systems is under growing strain. D Many experts believe that the best way to counter this trend is to impose water charges based on the real cost of supplies. This would provide a powerful incentive for consumers to introduce water-saving processes and recycling. Few governments charge realistic prices for water, especially to farmers. Even in rich California, farmers get water for less than a tenth of the cost of supply. In many developing countries there is virtually no charge for irrigation water, while energy prices are heavily subsidised too (which means that farmers can afford to run water pumps day and night). Water, which was once regarded as a free gift from heaven, is becoming a commodity which must be bought and sold on the open market just like oil. In the oil industry, the price increases which hit the market in the 1970s, coupled with concerns that supplies were running low, led to new energy conservation measures all over the world. It was realised that investing in new sources was a far more costly option than improving efficiency of use. A similar emphasis on conservation will be the best and cheapest option for bridging the gap between water supply and demand. E One way to cut back on water consumption is simply to prevent leaks. It is estimated that in some of the biggest cities of the Third World, more than half of the water entering the system is lost through leaks in pipes, dripping taps and broken installations. Even in the UK, losses were estimated at 25% in the early 1990s because of the failure to maintain the antiquated water supply infrastructure. In addition, huge quantities of water are consumed because used water from sewage pipes, storm drains and factories is merely flushed away and discharged into rivers or the sea. The modern approach, however, is to see used water as a resource which can be put to good use - either in irrigation or, after careful treatment, as recycled domestic water. Israel, for instance, has spent heavily on used water treatment. Soon, treated, recycled water will account for most farm irrigation there. There are other examples in cities such as St Petersburg, Florida, where all municipal water is recycled back into domestic systems. F Another way of conserving water resources involves better management of the environment generally. Interference with the ecosystem can have a severe effect on both local rainfall patterns and water run-off. Forest clearings associated with India's Kabini dam project reduced local rainfall by 25%, a phenomenon observed in various other parts of the world where large-scale deforestation has taken place. Grass and other vegetation acts as a sponge which absorbs rainfall both in the plants and in the ground. Removal of the vegetation means that rainfall runs off the top of the land, accelerating erosion instead of being gradually fed into the soil to renew ground water. G Global warming is bound to affect rainfall patterns, though there is considerable disagreement about its precise effects. But it is likely that, as sea levels rise, countries in low-lying coastal areas will be hit by seawater penetration of ground water. Other countries will experience changes in rainfall which could have a major impact on agricultural yield - either for better or for worse. In broad terms, it is thought that rainfall zones will shift northwards, adding to the water deficit in Africa, the Middle East and the Mediterranean - a grim prospect indeed."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "THE WATER CRISIS",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40, which are based on\nReading Passage 3 below.\nTHE WATER CRISIS\nGreater efficiency in water use is needed to meet the growing demands of a\nchanging world\nA\nPer capita water usage has been on an upward trend for many years. As\ncountries industrialise and their citizens become more prosperous, their\nindividual water usage increases rapidly. Annual per capita water withdrawals\nin the USA, for example, are about 1,700 cubic metres, four times the level in\nChina and fifty times the level in Ethiopia. In the 21st century, the world's\nlimited supply of renewable fresh water is having to meet demands of both\nlarger total population and increased per capita consumption. The only\npracticable ways to resolve this problem in the longer term are economic\npricing in conjunction with conservation measures.\nB\nAgriculture consumes about 70% of the world's fresh water, so improvements\nin irrigation can make the greatest impact. At present, average efficiency in\nthe use of irrigated water in agriculture may be as low as 50%. Simple changes\ncould improve the rate substantially, though it is unrealistic to expect very high\nlevels of water-use efficiency in many developing countries, faced as they are\nwith a chronic lack of capital and a largely untrained rural workforce. After\nagriculture, industry is the second biggest user of water and, in terms of value\n\nadded per litre used, is sixty times more productive than agriculture. However,\nsome industrial processes use vast amounts of water. For example, production\nof 1 kg of aluminium might require 1,500 litres of water. Paper production too\nis often very water-intensive. Though new processes have greatly reduced\nconsumption, there is still plenty of room for big savings in industrial uses of\nwater.\nC\nIn rich countries, water consumption has gradually been slowed down by price\nincreases and the use of modern technology and recycling. In the USA,\nindustrial production has risen fourfold since 1950, while water consumption\nhas fallen by more than a third. Japan and Germany have similarly improved\ntheir use of water in manufacturing processes. Japanese industry, for example,\nnow recycles more than 75% of process water. However, industrial water\nconsumption is continuing to increase sharply in developing countries. With\ndomestic and agricultural demands also increasing, the capacity of water\nsupply systems is under growing strain.\nD\nMany experts believe that the best way to counter this trend is to impose water\ncharges based on the real cost of supplies. This would provide a powerful\nincentive for consumers to introduce water-saving processes and recycling.\nFew governments charge realistic prices for water, especially to farmers. Even\nin rich California, farmers get water for less than a tenth of the cost of supply.\nIn many developing countries there is virtually no charge for irrigation water,\nwhile energy prices are heavily subsidised too (which means that farmers can\nafford to run water pumps day and night). Water, which was once regarded as\na free gift from heaven, is becoming a commodity which must be bought and\nsold on the open market just like oil. In the oil industry, the price increases\nwhich hit the market in the 1970s, coupled with concerns that supplies were\nrunning low, led to new energy conservation measures all over the world. It\nwas realised that investing in new sources was a far more costly option than\nimproving efficiency of use. A similar emphasis on conservation will be the best\nand cheapest option for bridging the gap between water supply and demand.\nE\nOne way to cut back on water consumption is simply to prevent leaks. It is\nestimated that in some of the biggest cities of the Third World, more than half\nof the water entering the system is lost through leaks in pipes, dripping taps\nand broken installations. Even in the UK, losses were estimated at 25% in the\nearly 1990s because of the failure to maintain the antiquated water supply\ninfrastructure. In addition, huge quantities of water are consumed because",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "THE WATER CRISIS",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Per capita water usage has been on an upward trend for many years. As"
+            "label": null,
+            "text": "Greater efficiency in water use is needed to meet the growing demands of a\nchanging world"
           },
           {
-            "label": "B",
-            "content": "Agriculture consumes about 70% of the world's fresh water, so improvements"
+            "label": null,
+            "text": "A\nPer capita water usage has been on an upward trend for many years. As\ncountries industrialise and their citizens become more prosperous, their\nindividual water usage increases rapidly. Annual per capita water withdrawals\nin the USA, for example, are about 1,700 cubic metres, four times the level in\nChina and fifty times the level in Ethiopia. In the 21st century, the world's\nlimited supply of renewable fresh water is having to meet demands of both\nlarger total population and increased per capita consumption. The only\npracticable ways to resolve this problem in the longer term are economic\npricing in conjunction with conservation measures."
           },
           {
-            "label": "C",
-            "content": "In rich countries, water consumption has gradually been slowed down by price"
+            "label": null,
+            "text": "B\nAgriculture consumes about 70% of the world's fresh water, so improvements\nin irrigation can make the greatest impact. At present, average efficiency in\nthe use of irrigated water in agriculture may be as low as 50%. Simple changes\ncould improve the rate substantially, though it is unrealistic to expect very high\nlevels of water-use efficiency in many developing countries, faced as they are\nwith a chronic lack of capital and a largely untrained rural workforce. After\nagriculture, industry is the second biggest user of water and, in terms of value"
           },
           {
-            "label": "D",
-            "content": "Many experts believe that the best way to counter this trend is to impose water"
+            "label": null,
+            "text": "added per litre used, is sixty times more productive than agriculture. However,\nsome industrial processes use vast amounts of water. For example, production\nof 1 kg of aluminium might require 1,500 litres of water. Paper production too\nis often very water-intensive. Though new processes have greatly reduced\nconsumption, there is still plenty of room for big savings in industrial uses of\nwater."
           },
           {
-            "label": "E",
-            "content": "One way to cut back on water consumption is simply to prevent leaks. It is"
+            "label": null,
+            "text": "C\nIn rich countries, water consumption has gradually been slowed down by price\nincreases and the use of modern technology and recycling. In the USA,\nindustrial production has risen fourfold since 1950, while water consumption\nhas fallen by more than a third. Japan and Germany have similarly improved\ntheir use of water in manufacturing processes. Japanese industry, for example,\nnow recycles more than 75% of process water. However, industrial water\nconsumption is continuing to increase sharply in developing countries. With\ndomestic and agricultural demands also increasing, the capacity of water\nsupply systems is under growing strain."
+          },
+          {
+            "label": null,
+            "text": "D\nMany experts believe that the best way to counter this trend is to impose water\ncharges based on the real cost of supplies. This would provide a powerful\nincentive for consumers to introduce water-saving processes and recycling.\nFew governments charge realistic prices for water, especially to farmers. Even\nin rich California, farmers get water for less than a tenth of the cost of supply.\nIn many developing countries there is virtually no charge for irrigation water,\nwhile energy prices are heavily subsidised too (which means that farmers can\nafford to run water pumps day and night). Water, which was once regarded as\na free gift from heaven, is becoming a commodity which must be bought and\nsold on the open market just like oil. In the oil industry, the price increases\nwhich hit the market in the 1970s, coupled with concerns that supplies were\nrunning low, led to new energy conservation measures all over the world. It\nwas realised that investing in new sources was a far more costly option than\nimproving efficiency of use. A similar emphasis on conservation will be the best\nand cheapest option for bridging the gap between water supply and demand."
+          },
+          {
+            "label": null,
+            "text": "E\nOne way to cut back on water consumption is simply to prevent leaks. It is\nestimated that in some of the biggest cities of the Third World, more than half\nof the water entering the system is lost through leaks in pipes, dripping taps\nand broken installations. Even in the UK, losses were estimated at 25% in the\nearly 1990s because of the failure to maintain the antiquated water supply\ninfrastructure. In addition, huge quantities of water are consumed because"
+          },
+          {
+            "label": null,
+            "text": "used water from sewage pipes, storm drains and factories is merely flushed\naway and discharged into rivers or the sea. The modern approach, however, is\nto see used water as a resource which can be put to good use - either in\nirrigation or, after careful treatment, as recycled domestic water. Israel, for\ninstance, has spent heavily on used water treatment. Soon, treated, recycled\nwater will account for most farm irrigation there. There are other examples in\ncities such as St Petersburg, Florida, where all municipal water is recycled back\ninto domestic systems."
+          },
+          {
+            "label": null,
+            "text": "F\nAnother way of conserving water resources involves better management of the\nenvironment generally. Interference with the ecosystem can have a severe\neffect on both local rainfall patterns and water run-off. Forest clearings\nassociated with India's Kabini dam project reduced local rainfall by 25%, a\nphenomenon observed in various other parts of the world where large-scale\ndeforestation has taken place. Grass and other vegetation acts as a sponge\nwhich absorbs rainfall both in the plants and in the ground. Removal of the\nvegetation means that rainfall runs off the top of the land, accelerating erosion\ninstead of being gradually fed into the soil to renew ground water."
+          },
+          {
+            "label": null,
+            "text": "G\nGlobal warming is bound to affect rainfall patterns, though there is\nconsiderable disagreement about its precise effects. But it is likely that, as sea\nlevels rise, countries in low-lying coastal areas will be hit by seawater\npenetration of ground water. Other countries will experience changes in rainfall\nwhich could have a major impact on agricultural yield - either for better or for\nworse. In broad terms, it is thought that rainfall zones will shift northwards,\nadding to the water deficit in Africa, the Middle East and the Mediterranean - a\ngrim prospect indeed."
           }
-        ]
+        ],
+        "text": "Greater efficiency in water use is needed to meet the growing demands of a\nchanging world\n\nA\nPer capita water usage has been on an upward trend for many years. As\ncountries industrialise and their citizens become more prosperous, their\nindividual water usage increases rapidly. Annual per capita water withdrawals\nin the USA, for example, are about 1,700 cubic metres, four times the level in\nChina and fifty times the level in Ethiopia. In the 21st century, the world's\nlimited supply of renewable fresh water is having to meet demands of both\nlarger total population and increased per capita consumption. The only\npracticable ways to resolve this problem in the longer term are economic\npricing in conjunction with conservation measures.\n\nB\nAgriculture consumes about 70% of the world's fresh water, so improvements\nin irrigation can make the greatest impact. At present, average efficiency in\nthe use of irrigated water in agriculture may be as low as 50%. Simple changes\ncould improve the rate substantially, though it is unrealistic to expect very high\nlevels of water-use efficiency in many developing countries, faced as they are\nwith a chronic lack of capital and a largely untrained rural workforce. After\nagriculture, industry is the second biggest user of water and, in terms of value\n\nadded per litre used, is sixty times more productive than agriculture. However,\nsome industrial processes use vast amounts of water. For example, production\nof 1 kg of aluminium might require 1,500 litres of water. Paper production too\nis often very water-intensive. Though new processes have greatly reduced\nconsumption, there is still plenty of room for big savings in industrial uses of\nwater.\n\nC\nIn rich countries, water consumption has gradually been slowed down by price\nincreases and the use of modern technology and recycling. In the USA,\nindustrial production has risen fourfold since 1950, while water consumption\nhas fallen by more than a third. Japan and Germany have similarly improved\ntheir use of water in manufacturing processes. Japanese industry, for example,\nnow recycles more than 75% of process water. However, industrial water\nconsumption is continuing to increase sharply in developing countries. With\ndomestic and agricultural demands also increasing, the capacity of water\nsupply systems is under growing strain.\n\nD\nMany experts believe that the best way to counter this trend is to impose water\ncharges based on the real cost of supplies. This would provide a powerful\nincentive for consumers to introduce water-saving processes and recycling.\nFew governments charge realistic prices for water, especially to farmers. Even\nin rich California, farmers get water for less than a tenth of the cost of supply.\nIn many developing countries there is virtually no charge for irrigation water,\nwhile energy prices are heavily subsidised too (which means that farmers can\nafford to run water pumps day and night). Water, which was once regarded as\na free gift from heaven, is becoming a commodity which must be bought and\nsold on the open market just like oil. In the oil industry, the price increases\nwhich hit the market in the 1970s, coupled with concerns that supplies were\nrunning low, led to new energy conservation measures all over the world. It\nwas realised that investing in new sources was a far more costly option than\nimproving efficiency of use. A similar emphasis on conservation will be the best\nand cheapest option for bridging the gap between water supply and demand.\n\nE\nOne way to cut back on water consumption is simply to prevent leaks. It is\nestimated that in some of the biggest cities of the Third World, more than half\nof the water entering the system is lost through leaks in pipes, dripping taps\nand broken installations. Even in the UK, losses were estimated at 25% in the\nearly 1990s because of the failure to maintain the antiquated water supply\ninfrastructure. In addition, huge quantities of water are consumed because\n\nused water from sewage pipes, storm drains and factories is merely flushed\naway and discharged into rivers or the sea. The modern approach, however, is\nto see used water as a resource which can be put to good use - either in\nirrigation or, after careful treatment, as recycled domestic water. Israel, for\ninstance, has spent heavily on used water treatment. Soon, treated, recycled\nwater will account for most farm irrigation there. There are other examples in\ncities such as St Petersburg, Florida, where all municipal water is recycled back\ninto domestic systems.\n\nF\nAnother way of conserving water resources involves better management of the\nenvironment generally. Interference with the ecosystem can have a severe\neffect on both local rainfall patterns and water run-off. Forest clearings\nassociated with India's Kabini dam project reduced local rainfall by 25%, a\nphenomenon observed in various other parts of the world where large-scale\ndeforestation has taken place. Grass and other vegetation acts as a sponge\nwhich absorbs rainfall both in the plants and in the ground. Removal of the\nvegetation means that rainfall runs off the top of the land, accelerating erosion\ninstead of being gradually fed into the soil to renew ground water.\n\nG\nGlobal warming is bound to affect rainfall patterns, though there is\nconsiderable disagreement about its precise effects. But it is likely that, as sea\nlevels rise, countries in low-lying coastal areas will be hit by seawater\npenetration of ground water. Other countries will experience changes in rainfall\nwhich could have a major impact on agricultural yield - either for better or for\nworse. In broad terms, it is thought that rainfall zones will shift northwards,\nadding to the water deficit in Africa, the Middle East and the Mediterranean - a\ngrim prospect indeed.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
-    },
-    {
-      "partNumber": 3,
-      "title": "used water from sewage pipes, storm drains and factories is merely flushed",
-      "questionRange": [
-        28,
-        34
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 3 has seven paragraphs, A-G.",
+          "body": null,
+          "range": [
+            28,
+            34
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x"
+            ],
+            "labels": [
+              "American water withdrawal",
+              "Economic pricing",
+              "What the future holds",
+              "Successful measures taken by some",
+              "The role of research",
+              "The thirsty sectors",
+              "Ways of reducing waste",
+              "Interdependence of natural resources",
+              "The demands of development"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 35-40 on your answer sheet. Individual water usage is rising dramatically as people living in",
+          "body": "industrialised countries become increasingly [[35]] . As well as increased consumption per capita, the growing demand for fresh water is due to a bigger global [[36]] than in the past. The only way to control this increase in demand is to charge high prices for water while also promoting conservation measures. Improvements in irrigation systems and industrial processes could dramatically increase the efficiency of water use. There are examples of industries in some rich countries that have reduced their consumption rates through price increases, the application of [[37]] and recycling. But in agricultural and domestic sectors, the price of water is still subsidised so it is not regarded as a commodity that people need to pay a realistic price for. Other ways of protecting supplies are to reduce water loss resulting from [[38]] in the supply systems and to find ways of utilising used water. Longer term measures, such as improved environmental [[39]] would protect the ecosystem and ensure the replenishment of ground water for future generations. Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the [[40]] already suffered by many countries today.",
+          "range": [
+            35,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
       ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "used water from sewage pipes, storm drains and factories is merely flushed\naway and discharged into rivers or the sea. The modern approach, however, is\nto see used water as a resource which can be put to good use - either in\nirrigation or, after careful treatment, as recycled domestic water. Israel, for\ninstance, has spent heavily on used water treatment. Soon, treated, recycled\nwater will account for most farm irrigation there. There are other examples in\ncities such as St Petersburg, Florida, where all municipal water is recycled back\ninto domestic systems.\nF\nAnother way of conserving water resources involves better management of the\nenvironment generally. Interference with the ecosystem can have a severe\neffect on both local rainfall patterns and water run-off. Forest clearings\nassociated with India's Kabini dam project reduced local rainfall by 25%, a\nphenomenon observed in various other parts of the world where large-scale\ndeforestation has taken place. Grass and other vegetation acts as a sponge\nwhich absorbs rainfall both in the plants and in the ground. Removal of the\nvegetation means that rainfall runs off the top of the land, accelerating erosion\ninstead of being gradually fed into the soil to renew ground water.\nG\nGlobal warming is bound to affect rainfall patterns, though there is\nconsiderable disagreement about its precise effects. But it is likely that, as sea\nlevels rise, countries in low-lying coastal areas will be hit by seawater\npenetration of ground water. Other countries will experience changes in rainfall\nwhich could have a major impact on agricultural yield - either for better or for\nworse. In broad terms, it is thought that rainfall zones will shift northwards,\nadding to the water deficit in Africa, the Middle East and the Mediterranean - a\ngrim prospect indeed.\nQuestions 28-34\nReading Passage 3 has seven paragraphs, A-G.\nChoose the correct heading for each paragraphs from the list of headings\nbelow..\nWrite the correct number i-x, in boxes 28-34 on your answer sheet.",
-        "tables": [],
-        "images": [],
-        "sections": [
-          {
-            "label": "F",
-            "content": "Another way of conserving water resources involves better management of the"
-          },
-          {
-            "label": "G",
-            "content": "Global warming is bound to affect rainfall patterns, though there is"
-          }
-        ]
-      },
       "questions": [
         {
           "number": 28,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph A",
           "instruction": "",
-          "answer": "ix"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ix",
+          "trap": null
         },
         {
           "number": 29,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph B",
           "instruction": "",
-          "answer": "vi"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 30,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph C",
           "instruction": "",
-          "answer": "iv"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
         },
         {
           "number": 31,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph D",
           "instruction": "",
-          "answer": "ii"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 32,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph E",
           "instruction": "",
-          "answer": "vii"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
         },
         {
           "number": 33,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph F",
           "instruction": "",
-          "answer": "viii"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 34,
           "type": "heading-matching",
-          "prompt": "Paragraph G Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 35-40 on your answer sheet.",
+          "groupId": "p3g1",
+          "prompt": "Paragraph G",
           "instruction": "",
-          "answer": "iii"
+          "options": [
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "prosperous",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "population",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "modern technology/ technology",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "leaks",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "management",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "water run-off/deficit",
+          "trap": null
         }
       ]
     }
@@ -363,7 +1282,7 @@
     "34": "iii",
     "35": "prosperous",
     "36": "population",
-    "37": "modern technology/",
+    "37": "modern technology/ technology",
     "38": "leaks",
     "39": "management",
     "40": "water run-off/deficit"

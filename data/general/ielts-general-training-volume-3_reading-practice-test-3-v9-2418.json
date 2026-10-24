@@ -1,277 +1,1050 @@
 {
   "id": "ielts-general-training-volume-3_reading-practice-test-3-v9-2418",
   "type": "general",
-  "source": "ielts-general-training-volume-3 reading-practice-test-3-v9-2418",
+  "title": "IELTS General Training Volume 3 - Reading Test 3",
+  "collection": "IELTS General Training Volume 3",
+  "testNumber": 3,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-3_reading-practice-test-3-v9-2418.pdf",
-  "total_questions": 21,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         15
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1",
-        "tables": [
+        "heading": "WHY MAGAZINE",
+        "paragraphs": [
           {
-            "page": 2,
-            "rows": [
-              [
-                "Reading Passage 1\nRead the passage below and answer questions 1-15 that follow.\nWHY MAGAZINE\nQuestions 1-4\nWHY MAGAZINE\nCOVER STORY 5\nMike Mikeson: a new smash-hit movie,\nbut plans for a dramatic career change\nREGULAR FEATURES\nFilm Review 30\nFrom the Editor\nCrossword 31\nIn this issue we publish some of the many\nletters we received on the new Sports Letters to the Editor 32\nStadium, our cover story last month. Your\nWhat’s on Round Town 33\nreactions were certainly mixed! Read our\nexclusive interview with film-star Mike Art, Music, Theatre\nMikeson and his plans to start a fast-food\nchain. But there’s so much more… enough\nto keep you going for the rest of the\nmonth.\nUntil next time, The Editor",
-                null
-              ],
-              [
-                "WHY MAGAZINE",
-                null
-              ],
-              [
-                "From the Editor\nIn this issue we publish some of the many\nletters we received on the new Sports\nStadium, our cover story last month. Your\nreactions were certainly mixed! Read our\nexclusive interview with film-star Mike\nMikeson and his plans to start a fast-food\nchain. But there’s so much more… enough\nto keep you going for the rest of the\nmonth.\nUntil next time, The Editor",
-                "COVER STORY 5"
-              ],
-              [
-                null,
-                "Mike Mikeson: a new smash-hit movie,\nbut plans for a dramatic career change"
-              ],
-              [
-                null,
-                "REGULAR FEATURES\nFilm Review 30\nCrossword 31\nLetters to the Editor 32\nWhat’s on Round Town 33\nArt, Music, Theatre"
-              ]
-            ],
-            "header": [
-              "Reading Passage 1\nRead the passage below and answer questions 1-15 that follow.\nWHY MAGAZINE\nQuestions 1-4\nWHY MAGAZINE\nCOVER STORY 5\nMike Mikeson: a new smash-hit movie,\nbut plans for a dramatic career change\nREGULAR FEATURES\nFilm Review 30\nFrom the Editor\nCrossword 31\nIn this issue we publish some of the many\nletters we received on the new Sports Letters to the Editor 32\nStadium, our cover story last month. Your\nWhat’s on Round Town 33\nreactions were certainly mixed! Read our\nexclusive interview with film-star Mike Art, Music, Theatre\nMikeson and his plans to start a fast-food\nchain. But there’s so much more… enough\nto keep you going for the rest of the\nmonth.\nUntil next time, The Editor",
-              null
-            ]
+            "label": null,
+            "text": "Read the passage below and answer questions 1-15 that follow."
           }
         ],
+        "text": "Read the passage below and answer questions 1-15 that follow.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "fill-in-blank",
+          "instruction": "WHY MAGAZINE COVER STORY 5 Mike Mikeson: a new smash-hit movie, but plans for a dramatic career change From the Editor REGULAR FEATURES Film Review 30 In this issue we publish some of the many Crossword 31 letters we received on the new Sports Letters to the Editor 32 Stadium, our cover story last month. Your What's on Round Town 33 reactions were certainly mixed! Read our Art, Music, Theatre exclusive interview with film-star Mike Mikeson and his plans to start a fast-food chain. But there's so much more... enough to keep you going for the rest of the month. Until next time, The Editor",
+          "body": null,
+          "range": [
+            4,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "matching-features",
+          "instruction": "Read the advertisements for musical events on the previous page. Answer the questions below by writing the appropriate letter or letters A- E in boxes 5-10 on your answer sheet. Your answer may require more than one letter. Example At which concert will a television character appear? Answer B",
+          "body": null,
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Sydney Youth Orchestra",
+              "Let's Sing Together",
+              "One Romantic Evening",
+              "Rock n' Roll",
+              "Flamenco!"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "matching-features",
+          "instruction": "The passage \"First Aid for Snake Bites\" explains what to do in the event of a snake bite. Read the additional instructions below and choose the section A-D to which each instruction belongs. Write the appropriate letter in boxes 11-",
+          "body": null,
+          "range": [
+            11,
+            15
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A"
+            ],
+            "labels": [
+              "Prevention"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "fill-in-blank",
+          "instruction": "On the following page is a Contents page from a magazine. Answer questions 1-3 by writing the appropriate page number (numbers) where the information appears in the magazine, in boxes 1-3 on pour answer sheet. What page would you turn to for advice about money?",
+          "body": "[[1]] On what TWO pages can you read about art? [[2]] On what page is the new sports stadium discussed? [[3]] Question 4 Answer Question 4 by writing NO MORE THAN THREE WORDS in box 4 on your answer sheet. How often does this magazine appear? 4",
+          "range": [
+            1,
+            3
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "18",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "33, 28",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "32",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "fill-in-blank",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "monthly/every month/each month",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "At which concert will young performers play?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "Which concert will be held outdoors?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "Which concerts will happen more than once in Sunday?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "Which concert will feature only one performer?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "Which concert is NOT being held at night?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "matching-features",
+          "groupId": "p1g5",
+          "prompt": "At which concert can the audience choose what will be performed?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "matching-features",
+          "groupId": "p1g6",
+          "prompt": "help the casualty to sit or lie down",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
         {
           "number": 12,
           "type": "matching-features",
-          "prompt": "Getaway Holidays",
-          "instruction": "Read the passage below and answer questions 1-15 that follow. WHY MAGAZINE Questions 1-4 WHY MAGAZINE From the Editor In this issue we publish some of the many letters we received on the new Sports Stadium, our cover story last month. Your reactions were certainly mixed! Read our exclusive interview with film-star Mike Mikeson and his plans to start a fast-food chain. But there’s so much more… enough to keep you going for the rest of the month. Until next time, The Editor COVER STORY 5 Mike Mikeson: a new smash-hit movie, but plans for a dramatic career change REGULAR FEATURES Film Review 30 Crossword   31 Letters to the Editor   32 What’s on Round  Town 33 Art, Music, Theatre",
-          "answer": "A"
+          "groupId": "p1g6",
+          "prompt": "wear stout shoes, walk-socks and jeans (or similar clothing) in areas where snakes could be present",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "matching-features",
+          "groupId": "p1g6",
+          "prompt": "pain or tightness in the chest or abdomen",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "matching-features",
+          "groupId": "p1g6",
+          "prompt": "do not try to catch the snake",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 15,
-          "type": "sentence-completion",
-          "prompt": "on pour answer sheet.",
-          "instruction": "Read the passage below and answer questions 1-15 that follow. WHY MAGAZINE Questions 1-4 WHY MAGAZINE From the Editor In this issue we publish some of the many letters we received on the new Sports Stadium, our cover story last month. Your reactions were certainly mixed! Read our exclusive interview with film-star Mike Mikeson and his plans to start a fast-food chain. But there’s so much more… enough to keep you going for the rest of the month. Until next time, The Editor COVER STORY 5 Mike Mikeson: a new smash-hit movie, but plans for a dramatic career change REGULAR FEATURES Film Review 30 Crossword   31 Letters to the Editor   32 What’s on Round  Town 33 Art, Music, Theatre Read the advertisements for musical concerts below and answer the questions that follow. write it down at the ticket counter when you come in. Date: Sat. 18th January, 8.00 pm. $10 and $5 E.        Flamenco! World-famous classical guitarist Rodrigo Paras will play a selection of traditional Spanish Flamenco pieces. Date: Sun. 19th and 26th January, 7.30 pm. $20 and $12 Questions 11-15 Read the information below on treatment for snake bite, then answer Questions 11-15. FIRST AID FOR SNAKE BITES Answer questions 1-3 by writing the appropriate page number (numbers) where the information appears in the magazine, in boxes 1-3 on pour answer sheet. What page would you turn to for advice about money? 1 On what TWO pages can you read about art? 2 On what page is the new sports stadium discussed? 3 Answer Question 4 by writing NO MORE THAN THREE WORDS in box 4 on your answer sheet. How often does this magazine appear? 4 Read the advertisements for musical events on the previous page. Answer the questions below by writing the appropriate letter or letters A- E in boxes 5-10 on your answer sheet. Your answer may require more than one letter. Example          At which concert will a television character appear? Answer            B 5 At which concert will young performers play? 6 Which concert will be held outdoors? 7 Which concerts will happen more than once in Sunday? 8 Which concert will feature only one performer? 9 Which concert is NOT being held at night? 10 At which concert can the audience choose what will be performed? Read the additional instructions below and choose the section A-D to which each instruction belongs. Write the appropriate letter in boxes 11-",
-          "answer": "B"
+          "type": "matching-features",
+          "groupId": "p1g6",
+          "prompt": "swelling of the bitten area",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         16,
         25
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer questions 16-25 that follow."
+          },
+          {
+            "label": null,
+            "text": "STUDENT ACCOMMODATION AT NORTHSIDE\nUNIVERSITY"
+          },
+          {
+            "label": null,
+            "text": "Situated about 20km from the city centre, Northside University is not easy\nto get to by public transport. However, students have several different\nalternatives for accommodation on or near the University campus."
+          },
+          {
+            "label": null,
+            "text": "Firstly, the University has several residential colleges; Burnside College,\nBoronia College and Helen Turner College. Each of these colleges provides a\nsingle fully furnished room with shared bathroom facilities, and meals. Burnside\nCollege is the most expensive, with 1996 fees ranging from $154 - $165 per\nweek. However, each student room is equipped with a private telephone and\nvoice-mailing facilities, and within the next few months college students will\nhave access to E-MAIL, On-Line library, INTERNET and AARNET via a network\nwith the University. Boronia College has similar room facilities but does not\noffer the same computer access. It also offers only 17 meals per week,\ncompared to Burnside's 21. Fees vary from $147 - $157 per week. Helen\nTurner College is a college exclusively for women, with similar fees to Boronia\nCollege. To attend classes, students have a short walk from the residential\nColleges to the main University campus."
+          },
+          {
+            "label": null,
+            "text": "The University also provides 23 self-contained furnished townhouses. These\ntownhouses have either 3, 4 or 6 bedrooms each and student residents are\nexpected to be studying full-time. Rents in 1996 ranged from $54 per week for\na room in a six bedroom flat to $68.50 per week for a room in a three-bedroom\nhouse. Students wanting to live in university housing should apply to the\nuniversity housing officer in August of the previous year, as it is in high\ndemand. Smoking is banned in University housing."
+          },
+          {
+            "label": null,
+            "text": "Off campus, there are many flats, townhouses and houses for rent in the local\narea. These can be found by looking in the local newspaper under"
+          },
+          {
+            "label": null,
+            "text": "ACCOMMODATION, or by checking notices pinned up on the boards around the\nuniversity. There are always students advertising for housemates and you can\neven add a notice of your own to the board. However, even sharing\naccommodation with others can be expensive; tenants are usually required to\npay a rental bond, rent in advance, and telephone/electricity/gas bills in\naddition to food bills. Be sure that you know what you will be required to pay\nbefore you enter into any written agreement."
+          }
+        ],
+        "text": "Read the passage below and answer questions 16-25 that follow.\n\nSTUDENT ACCOMMODATION AT NORTHSIDE\nUNIVERSITY\n\nSituated about 20km from the city centre, Northside University is not easy\nto get to by public transport. However, students have several different\nalternatives for accommodation on or near the University campus.\n\nFirstly, the University has several residential colleges; Burnside College,\nBoronia College and Helen Turner College. Each of these colleges provides a\nsingle fully furnished room with shared bathroom facilities, and meals. Burnside\nCollege is the most expensive, with 1996 fees ranging from $154 - $165 per\nweek. However, each student room is equipped with a private telephone and\nvoice-mailing facilities, and within the next few months college students will\nhave access to E-MAIL, On-Line library, INTERNET and AARNET via a network\nwith the University. Boronia College has similar room facilities but does not\noffer the same computer access. It also offers only 17 meals per week,\ncompared to Burnside's 21. Fees vary from $147 - $157 per week. Helen\nTurner College is a college exclusively for women, with similar fees to Boronia\nCollege. To attend classes, students have a short walk from the residential\nColleges to the main University campus.\n\nThe University also provides 23 self-contained furnished townhouses. These\ntownhouses have either 3, 4 or 6 bedrooms each and student residents are\nexpected to be studying full-time. Rents in 1996 ranged from $54 per week for\na room in a six bedroom flat to $68.50 per week for a room in a three-bedroom\nhouse. Students wanting to live in university housing should apply to the\nuniversity housing officer in August of the previous year, as it is in high\ndemand. Smoking is banned in University housing.\n\nOff campus, there are many flats, townhouses and houses for rent in the local\narea. These can be found by looking in the local newspaper under\n\nACCOMMODATION, or by checking notices pinned up on the boards around the\nuniversity. There are always students advertising for housemates and you can\neven add a notice of your own to the board. However, even sharing\naccommodation with others can be expensive; tenants are usually required to\npay a rental bond, rent in advance, and telephone/electricity/gas bills in\naddition to food bills. Be sure that you know what you will be required to pay\nbefore you enter into any written agreement.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letter A-C and write it in boxes 16-19 on your answer sheet.",
+          "body": null,
+          "range": [
+            16,
+            19
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences with information from the passage. Write your answers in boxes 20-25 on your answer sheet. A student living in a 3-bedroom University townhouse would pay",
+          "body": "[[20]] per week for a room; in comparison, the cheapest accommodation available at Burnside College is [[21]] per week. The fee charged at Burnside College includes [[22]] meals per week, but at Boronia College only [[23]] meals per week are included in the fee. Helen Turner College has a similar fee structure to [[24]] College, but only [[25]] may live there.",
+          "range": [
+            20,
+            25
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A"
+            ],
+            "labels": [
+              "student living in a 3-bedroom University townhouse would pay"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 16,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "The University Residential Colleges provide",
-          "instruction": "Read the passage below and answer questions 16-25 that follow. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is not easy to get to by public transport. However, students have several different alternatives for accommodation on or near the University campus. Firstly, the University has several residential colleges; Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with 1996 fees ranging from $154 – $165 per week. However, each student room is equipped with a private telephone and voice-mailing facilities, and within the next few months college students will have access to E-MAIL, On-Line library, INTERNET and AARNET via a network with the University. Boronia College has similar room facilities but does not offer the same computer access. It also offers only 17 meals per week, compared to Burnside’s 21. Fees vary from $147 – $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential Colleges to the main University campus. The University also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Rents in 1996 ranged from $54 per week for a room in a six bedroom flat to $68.50 per week for a room in a three-bedroom house. Students wanting to live in university housing should apply to the university housing officer in August of the previous year, as it is in high demand. Smoking is banned in University housing. Off campus, there are many flats, townhouses and houses for rent in the local area. These can be found by looking in the local newspaper under Choose the appropriate letter A-C and write it in boxes 16-19 on your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "a place to live and regular classes",
+            "regular classes only",
+            "a place to live only."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 17,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "Smoking is",
-          "instruction": "Read the passage below and answer questions 16-25 that follow. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is not easy to get to by public transport. However, students have several different alternatives for accommodation on or near the University campus. Firstly, the University has several residential colleges; Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with 1996 fees ranging from $154 – $165 per week. However, each student room is equipped with a private telephone and voice-mailing facilities, and within the next few months college students will have access to E-MAIL, On-Line library, INTERNET and AARNET via a network with the University. Boronia College has similar room facilities but does not offer the same computer access. It also offers only 17 meals per week, compared to Burnside’s 21. Fees vary from $147 – $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential Colleges to the main University campus. The University also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Rents in 1996 ranged from $54 per week for a room in a six bedroom flat to $68.50 per week for a room in a three-bedroom house. Students wanting to live in university housing should apply to the university housing officer in August of the previous year, as it is in high demand. Smoking is banned in University housing. Off campus, there are many flats, townhouses and houses for rent in the local area. These can be found by looking in the local newspaper under Choose the appropriate letter A-C and write it in boxes 16-19 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "allowed in University housing",
+            "not allowed in University housing",
+            "allowed only in certain areas in University housing."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 18,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "University townhouses are available for",
-          "instruction": "Read the passage below and answer questions 16-25 that follow. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is not easy to get to by public transport. However, students have several different alternatives for accommodation on or near the University campus. Firstly, the University has several residential colleges; Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with 1996 fees ranging from $154 – $165 per week. However, each student room is equipped with a private telephone and voice-mailing facilities, and within the next few months college students will have access to E-MAIL, On-Line library, INTERNET and AARNET via a network with the University. Boronia College has similar room facilities but does not offer the same computer access. It also offers only 17 meals per week, compared to Burnside’s 21. Fees vary from $147 – $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential Colleges to the main University campus. The University also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Rents in 1996 ranged from $54 per week for a room in a six bedroom flat to $68.50 per week for a room in a three-bedroom house. Students wanting to live in university housing should apply to the university housing officer in August of the previous year, as it is in high demand. Smoking is banned in University housing. Off campus, there are many flats, townhouses and houses for rent in the local area. These can be found by looking in the local newspaper under Choose the appropriate letter A-C and write it in boxes 16-19 on your answer sheet.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "full-time students only",
+            "part-time students only",
+            "all students"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 19,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p2g1",
           "prompt": "Accommodation in the area surrounding the university is",
-          "instruction": "Read the passage below and answer questions 16-25 that follow. STUDENT ACCOMMODATION AT NORTHSIDE UNIVERSITY Situated about 20km from the city centre, Northside University is not easy to get to by public transport. However, students have several different alternatives for accommodation on or near the University campus. Firstly, the University has several residential colleges; Burnside College, Boronia College and Helen Turner College. Each of these colleges provides a single fully furnished room with shared bathroom facilities, and meals. Burnside College is the most expensive, with 1996 fees ranging from $154 – $165 per week. However, each student room is equipped with a private telephone and voice-mailing facilities, and within the next few months college students will have access to E-MAIL, On-Line library, INTERNET and AARNET via a network with the University. Boronia College has similar room facilities but does not offer the same computer access. It also offers only 17 meals per week, compared to Burnside’s 21. Fees vary from $147 – $157 per week. Helen Turner College is a college exclusively for women, with similar fees to Boronia College. To attend classes, students have a short walk from the residential Colleges to the main University campus. The University also provides 23 self-contained furnished townhouses. These townhouses have either 3, 4 or 6 bedrooms each and student residents are expected to be studying full-time. Rents in 1996 ranged from $54 per week for a room in a six bedroom flat to $68.50 per week for a room in a three-bedroom house. Students wanting to live in university housing should apply to the university housing officer in August of the previous year, as it is in high demand. Smoking is banned in University housing. Off campus, there are many flats, townhouses and houses for rent in the local area. These can be found by looking in the local newspaper under Choose the appropriate letter A-C and write it in boxes 16-19 on your answer sheet.",
-          "answer": "B"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "scarce",
+            "plentiful",
+            "scarce and expensive."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "per week for a room; in comparison, the cheapest",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "$68.50",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "$154",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "21",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "17",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "Boronia",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "women",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         26,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the passage below and answer questions 26 - 40 that follow."
+          },
+          {
+            "label": null,
+            "text": "Kormilda College"
+          },
+          {
+            "label": "SECTION A",
+            "text": "Kormilda College is a unique school situated near Darwin in Australia's\nNorthern Territory. For 20 years, to 1989, Kormilda College operated as a\ngovernment-run, live-in school for high school Aboriginal students. In 1989 it\nwas bought from the Government by two Christian church groups and since\nthen it has expanded enormously, to include a day school as well as boarders\n(residential students) in Years 8-12. Although 320 pupils of the College's total\nnumber are Aboriginal students, drawn mainly from isolated communities\nacross the Northern Territory, Kormilda also has a waiting list of non -\nAboriginal students. With a current enrolment of 600, student numbers are\nexpected to grow to 860 by 1999."
+          },
+          {
+            "label": "SECTION B",
+            "text": "Central to the mission of the school is the encouragement of individual\nexcellence, which has resulted in programs designed especially for the student\npopulation. Specialist support programs allow' traditional Aboriginal students,\nwho are often second language users, to understand and succeed in the\nmainstream curriculum. A Gifted and Talented Program, including a special\nAboriginal and Torres Strait Islander Tertiary Aspirations program, has been\nintroduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12,\nstudents may choose to follow the standard Northern Territory Courses, or"
+          },
+          {
+            "label": null,
+            "text": "those of the International Baccalaureate (I.B.)."
+          },
+          {
+            "label": "SECTION C",
+            "text": "To provide appropriate pastoral care, as well as a suitable academic structure,\nthree distinct sub-schools have been established."
+          },
+          {
+            "label": null,
+            "text": "Pre-Secondary: For Aboriginal and Torres Strait Islander students in Years 8-10\nwho are of secondary school age but have difficulties reading and writing.\nSupported Secondary: For Aboriginal and Torres Strait Islander students who\nare of secondary school age and operating at secondary school year levels 8-12\nwho need specific second language literacy and numeracy support.\nSecondary: For multi-cultural Years 8-12 students.\nStudents remain in their sub-schools for classes in the main subject areas of\nEnglish, Maths, Social Education and Science. This arrangement takes into\naccount both diverse levels of literacy and the styles of learning and cultural\nunderstandings appropriate to traditional Aboriginal second-language users. In\nelective subjects chosen by the students - which include Indonesian, Music,\nArt, Drama, Science for Life, Commerce, Geography, Modem History,\nWoodwork, Metal Work, Economics and Legal Studies - students mix on the\nbasis of subject interest."
+          },
+          {
+            "label": "SECTION D",
+            "text": "To aid the development of the Aboriginal Education program, a specialist\ncurriculum Support Unit has been set up. One of its functions is to re-package\nschool courses so that they can be taught in ways that suit the students."
+          },
+          {
+            "label": null,
+            "text": "The education program offered to Aboriginal students uses an approach which\nbegins with the students' own experiences and gradually builds bi-cultural\nunderstanding. In one course, \"Introducing Western European Culture Through\nTraditional Story-Telling\", students are helped to build a common base for\napproaching the English literature curriculum. Drawing on the oral culture of\ntraditional Aboriginal communities, they are introduced to traditional stories of\nother cultures, both oral and written. In a foundational Year 10 course, \"Theory\nof Learning\", concepts from Aboriginal culture are placed side by side with\nEuropean concepts so that students can use their own knowledge base to help\nbridge the cultural divide."
+          },
+          {
+            "label": null,
+            "text": "Another project of the Support Unit has been the publication of several books,\nthe most popular, Korniihla Capers. The idea for Kormilda Capers came about\nwhen it became obvious that there was a lack of engaging material for the\nschool's teenage readers. One of the stories in the book, \"The Bulman Mob hits\nthe Big Smoke\", recounts the adventures of Kormilda pupils on their first visit"
+          },
+          {
+            "label": null,
+            "text": "to Sydney, Canberra and the snow country. Focussing on experiences which\nhave directly affected the lives of students at the College, and on ideas and\nissues which are of immediate interest to Aboriginal students, Kormilda Capers\nhas earned enthusiastic support within and outside the school."
+          }
+        ],
+        "text": "Read the passage below and answer questions 26 - 40 that follow.\n\nKormilda College\n\nKormilda College is a unique school situated near Darwin in Australia's\nNorthern Territory. For 20 years, to 1989, Kormilda College operated as a\ngovernment-run, live-in school for high school Aboriginal students. In 1989 it\nwas bought from the Government by two Christian church groups and since\nthen it has expanded enormously, to include a day school as well as boarders\n(residential students) in Years 8-12. Although 320 pupils of the College's total\nnumber are Aboriginal students, drawn mainly from isolated communities\nacross the Northern Territory, Kormilda also has a waiting list of non -\nAboriginal students. With a current enrolment of 600, student numbers are\nexpected to grow to 860 by 1999.\n\nCentral to the mission of the school is the encouragement of individual\nexcellence, which has resulted in programs designed especially for the student\npopulation. Specialist support programs allow' traditional Aboriginal students,\nwho are often second language users, to understand and succeed in the\nmainstream curriculum. A Gifted and Talented Program, including a special\nAboriginal and Torres Strait Islander Tertiary Aspirations program, has been\nintroduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12,\nstudents may choose to follow the standard Northern Territory Courses, or\n\nthose of the International Baccalaureate (I.B.).\n\nTo provide appropriate pastoral care, as well as a suitable academic structure,\nthree distinct sub-schools have been established.\n\nPre-Secondary: For Aboriginal and Torres Strait Islander students in Years 8-10\nwho are of secondary school age but have difficulties reading and writing.\nSupported Secondary: For Aboriginal and Torres Strait Islander students who\nare of secondary school age and operating at secondary school year levels 8-12\nwho need specific second language literacy and numeracy support.\nSecondary: For multi-cultural Years 8-12 students.\nStudents remain in their sub-schools for classes in the main subject areas of\nEnglish, Maths, Social Education and Science. This arrangement takes into\naccount both diverse levels of literacy and the styles of learning and cultural\nunderstandings appropriate to traditional Aboriginal second-language users. In\nelective subjects chosen by the students - which include Indonesian, Music,\nArt, Drama, Science for Life, Commerce, Geography, Modem History,\nWoodwork, Metal Work, Economics and Legal Studies - students mix on the\nbasis of subject interest.\n\nTo aid the development of the Aboriginal Education program, a specialist\ncurriculum Support Unit has been set up. One of its functions is to re-package\nschool courses so that they can be taught in ways that suit the students.\n\nThe education program offered to Aboriginal students uses an approach which\nbegins with the students' own experiences and gradually builds bi-cultural\nunderstanding. In one course, \"Introducing Western European Culture Through\nTraditional Story-Telling\", students are helped to build a common base for\napproaching the English literature curriculum. Drawing on the oral culture of\ntraditional Aboriginal communities, they are introduced to traditional stories of\nother cultures, both oral and written. In a foundational Year 10 course, \"Theory\nof Learning\", concepts from Aboriginal culture are placed side by side with\nEuropean concepts so that students can use their own knowledge base to help\nbridge the cultural divide.\n\nAnother project of the Support Unit has been the publication of several books,\nthe most popular, Korniihla Capers. The idea for Kormilda Capers came about\nwhen it became obvious that there was a lack of engaging material for the\nschool's teenage readers. One of the stories in the book, \"The Bulman Mob hits\nthe Big Smoke\", recounts the adventures of Kormilda pupils on their first visit\n\nto Sydney, Canberra and the snow country. Focussing on experiences which\nhave directly affected the lives of students at the College, and on ideas and\nissues which are of immediate interest to Aboriginal students, Kormilda Capers\nhas earned enthusiastic support within and outside the school.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet.",
+          "body": "Kormilda College had been run by the government until [[26]] 30 years after its establishment, Kormilda College is hoped to welcomed [[27]] students. Question 28 Write the appropriate letter A-D in box 28 on your answer sheet. 28 From the list below, choose the best heading for Section B of the",
+          "range": [
+            26,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            26,
+            27
+          ]
+        },
+        {
+          "id": "p3g4",
+          "type": "multiple-choice",
+          "instruction": "Write the appropriate letter, A-D, in box 28 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            28
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "diagram-label",
+          "instruction": "The following diagram shows how Kormilda College is organised. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
+          "body": null,
+          "range": [
+            29,
+            33
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/ielts-general-training-volume-3_reading-practice-test-3-v9-2418/p3g2-1.png",
+              "w": 982,
+              "h": 238
+            },
+            {
+              "src": "assets/crops/ielts-general-training-volume-3_reading-practice-test-3-v9-2418/p3g2-2.png",
+              "w": 982,
+              "h": 290
+            }
+          ],
+          "questionNumbers": [
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "true-false-not-given",
+          "instruction": "Read the passage about Kormilda College and look at the statements below. In boxes 34 ' 40 on pour answer sheet write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            34,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 30,
-          "type": "fill-in-blank",
-          "prompt": "years after its establishment, Kormilda College is hoped to welcomed",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26",
-          "answer": "supported secondary"
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "1989",
+          "trap": null
         },
         {
           "number": 27,
-          "type": "fill-in-blank",
-          "prompt": "students. Write the appropriate letter A-D in box 28 on your answer sheet.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26",
-          "answer": ""
+          "type": "sentence-completion",
+          "groupId": "p3g1",
+          "prompt": "students.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "860",
+          "trap": null
         },
         {
           "number": 28,
-          "type": "matching-features",
-          "prompt": "From the list below, choose the best heading for Section B of the",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet.",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p3g4",
+          "prompt": "From the list below, choose the best heading for Section B of the reading passage.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Specialist teaching and teachers at Kormilda College",
+            "Special Programmes at Kormilda College for Aboriginal students",
+            "The new look Kormilda College",
+            "Programmes at Kormilda College to promote individual excellence"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 29,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
-          "answer": "pre-secondary"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "pre-secondary",
+          "trap": null
         },
         {
           "number": 30,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
-          "answer": "supported secondary"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "supported secondary",
+          "trap": null
         },
         {
           "number": 31,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
-          "answer": "secondary"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "secondary",
+          "trap": null
         },
         {
           "number": 32,
           "type": "diagram-label",
+          "groupId": "p3g2",
           "prompt": "",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
-          "answer": "English"
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "English",
+          "trap": null
         },
         {
           "number": 33,
           "type": "diagram-label",
-          "prompt": "Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE if the statement agrees with the information",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet.",
-          "answer": "science"
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "science",
+          "trap": null
         },
         {
           "number": 34,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "Kormilda College educates both Aboriginal and non-",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
-          "prompt": "Some students travel from Arnhem Land to attend Kormilda College.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g3",
+          "prompt": "Some students travel from Arnhem Land to attend\nKormilda College.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "Students must study both the International Baccalaureate and Northern Territory courses.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g3",
+          "prompt": "Students must study both the International\nBaccalaureate and Northern Territory courses.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
+          "groupId": "p3g3",
           "prompt": "The Pre-Secondary School attracts the best teachers.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
-          "prompt": "The specialist curriculum Support Unit adapts school courses so the students can approach them more easily.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The specialist curriculum Support Unit adapts school\ncourses so the students can approach them more easily.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "There are no oral traditional stories in Western communities.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g3",
+          "prompt": "There are no oral traditional stories in Western\ncommunities.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
-          "prompt": "The school helps the students make connections between Aboriginal and non-Aboriginal cultures.",
-          "instruction": "Read the passage below and answer questions 26 – 40 that follow. Kormilda College Section A Kormilda College is a unique school situated near Darwin in Australia’s Northern Territory. For 20 years, to 1989, Kormilda College operated as a government-run, live-in school for high school Aboriginal students. In 1989 it was bought from the Government by two Christian church groups and since then it has expanded enormously, to include a day school as well as boarders (residential students) in Years 8-12. Although 320 pupils of the College’s total number are Aboriginal students, drawn mainly from isolated communities across the Northern Territory, Kormilda also has a waiting list of non – Aboriginal students. With a current enrolment of 600, student numbers are expected to grow to 860 by 1999. Section B Central to the mission of the school is the encouragement of individual excellence, which has resulted in programs designed especially for the student population. Specialist support programs allow’ traditional Aboriginal students, who are often second language users, to understand and succeed in the mainstream curriculum. A Gifted and Talented Program, including a special Aboriginal and Torres Strait Islander Tertiary Aspirations program, has been introduced, as has an Adaptive Education Unit. Moreover, in Years 11 and 12, students may choose to follow the standard Northern Territory Courses, or Complete the following sentences with a NUMBER OR DATE from the passage. Write your answers in boxes 26-27 on your answer sheet. Kormilda College had been run by the government until 26 Write the appropriate letter A-D in box 28 on your answer sheet. Complete the diagram using information from the text. Use NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 29-33 on your answer sheet. Read the passage about Kormilda College and look at the statements below. In boxes 34 – 40 on pour answer sheet write: TRUE",
-          "answer": "TRUE",
+          "groupId": "p3g3",
+          "prompt": "The school helps the students make connections\nbetween Aboriginal and non-Aboriginal cultures.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     }
   ],
   "answers": {
-    "2": "33, 28 ( must have both",
-    "4": "monthly/every month/each",
+    "1": "18",
+    "2": "33, 28",
+    "3": "32",
+    "4": "monthly/every month/each month",
     "5": "A",
     "6": "C",
     "7": "E",
@@ -289,8 +1062,12 @@
     "19": "B",
     "20": "$68.50",
     "21": "$154",
+    "22": "21",
+    "23": "17",
     "24": "Boronia",
     "25": "women",
+    "26": "1989",
+    "27": "860",
     "28": "D",
     "29": "pre-secondary",
     "30": "supported secondary",

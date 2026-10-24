@@ -1,256 +1,1180 @@
 {
   "id": "ielts-general-training-volume-6_reading-practice-test-1-v9-105497",
   "type": "general",
-  "source": "ielts-general-training-volume-6 reading-practice-test-1-v9-105497",
+  "title": "IELTS General Training Volume 6 - Reading Test 1",
+  "collection": "IELTS General Training Volume 6",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 6,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-6_reading-practice-test-1-v9-105497.pdf",
-  "total_questions": 15,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 1",
-        "tables": [
+        "heading": "",
+        "paragraphs": [
           {
-            "page": 4,
-            "rows": [
-              [
-                "",
-                "to Friday and any time at weekend or bank holidays (when open). Q14 At\nother times there is no reduction for holders of concessionary bus passes.\nQuestions 1-6\nThe text has eight sections, A-H.\nWhich sections contain the following information?\nWrite the correct letter, A-H, in boxes 1-6 on your answer sheet.\n1 learning what all the different sections of a plant do\n2 seeing art showing plants from a different part of the\nworld\n3 the possibility of having your work exhibited\n4 learning about why human beings need plants\n5 something that happens daily at the same times\n6 learning about the relationship between various\ncreatures, insects and plants\nQuestions 7-14\nDo the following statements agree with the information given in the tex\nabove?\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN If there is no information on this\n7 This was one of the first UK cities to introduce a Park\nand Ride scheme.\n8 The amount of congestion in the city centre has fallen.\n9 There is a special section of the car park for heavy\ngoods vehicles.\n10\nBus drivers do not give change so you must have the\ncorrect money for a ticket.\n11\nTicket prices vary depending on the time of day.",
-                "Q14",
-                "At"
-              ],
-              [
-                "",
-                "other times there is no reduction for holders of concessionary bus passes.",
-                null,
-                null
-              ],
-              [
-                "",
-                null,
-                null,
-                null
-              ]
-            ],
-            "header": [
-              "",
-              "to Friday and any time at weekend or bank holidays (when open). Q14 At\nother times there is no reduction for holders of concessionary bus passes.\nQuestions 1-6\nThe text has eight sections, A-H.\nWhich sections contain the following information?\nWrite the correct letter, A-H, in boxes 1-6 on your answer sheet.\n1 learning what all the different sections of a plant do\n2 seeing art showing plants from a different part of the\nworld\n3 the possibility of having your work exhibited\n4 learning about why human beings need plants\n5 something that happens daily at the same times\n6 learning about the relationship between various\ncreatures, insects and plants\nQuestions 7-14\nDo the following statements agree with the information given in the tex\nabove?\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN If there is no information on this\n7 This was one of the first UK cities to introduce a Park\nand Ride scheme.\n8 The amount of congestion in the city centre has fallen.\n9 There is a special section of the car park for heavy\ngoods vehicles.\n10\nBus drivers do not give change so you must have the\ncorrect money for a ticket.\n11\nTicket prices vary depending on the time of day.",
-              "Q14",
-              "At"
-            ]
+            "label": null,
+            "text": "Read the text below and answer Questions 1-14."
+          },
+          {
+            "label": null,
+            "text": "Summer activities at London's Kew\nGardens"
+          },
+          {
+            "label": null,
+            "text": "A   Climb up to the walkway among the trees, 18 metres above the ground, for\na spectacular experience. Feel as tall as the trees and enjoy a bird's-eye view\nover the gardens."
+          },
+          {
+            "label": null,
+            "text": "B   The Nash Conservatory displays stunning images from leading\nwildlife photographer Heather Angel. Each photograph explores the wealth of\nbiodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees."
+          },
+          {
+            "label": null,
+            "text": "C   A world of pollination comes to life in the Princess of Wales Conservatory.\nFind yourself in a tropical environment whilst walking through clouds of\ncolourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face\nwith gigantic sculptures of insects, birds and bats, which will help tell the\nfascinating stories of how they interact with plants."
+          },
+          {
+            "label": null,
+            "text": "D   \nAn extraordinary sound installation created by Chris Watson. On the\nhour throughout the day, the Palm House is ﬁlled with the sound of the dawn\nand dusk choruses of birds that live in the Central and South American\nrainforests."
+          },
+          {
+            "label": null,
+            "text": "E   Come and see the fantastic outdoor exhibition of garden, wildlife and\nbotanical photography. Walk amongst enlarged photographs and admire the\nwonderful garden photos - all taken by children aged 16 and under from all\nround the country. If you are in this age category and fancy yourself as a"
+          },
+          {
+            "label": null,
+            "text": "photographer, then you can enter for the next show!"
+          },
+          {
+            "label": null,
+            "text": "F    Young explorers can discover the new children's outdoor play area, shaped\nlike a plant, in Kew's magical Conservation Area. As you journey through this\ninteractive landscape, discover the functions of every part of a plant. Tunnel\nthrough giant roots, get lost among the leaves and hide amongst the large\nfungi, whilst solving puzzles along the way!"
+          },
+          {
+            "label": null,
+            "text": "G    What is biodiversity all about? Did you know that every breath we take and\nevery move we make depends on plants? Take a guided tour to discover what\nbiodiversity means and why it matters so much."
+          },
+          {
+            "label": null,
+            "text": "H     Visit our exciting and colourful exhibition of South American botanical\npaintings, which brings the continent's exotic and lush plants to life in works\nfrom two hundred years ago and from this century."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 7-14."
+          },
+          {
+            "label": null,
+            "text": "City Park and Ride"
+          },
+          {
+            "label": null,
+            "text": "We have six purpose-built Park and Ride sites serving the city, more than\nalmost anywhere else in the UK. Established for over 40 years, they provide\naround 5,000 parking spaces for cars. The sites are located on the main routes\ninto the city centre. More than 3,000,000 passengers a year take a bus from a\nPark and Ride site into the city, reducing congestion and helping to improve the\nair quality in the city centre."
+          },
+          {
+            "label": null,
+            "text": "Parking at the sites is available only for those travelling from the site on a Park\nand Ride or other scheduled bus service, and is free. No overnight parking is\npermitted. Heavy goods vehicles are not permitted at the Park and Ride site at\nany time."
+          },
+          {
+            "label": null,
+            "text": "It's simple to use. Just park your car and buy your bus ticket from the bus\ndriver, with the correct money if possible. An individual adult daily return\npurchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after\n12:30 hrs it costs £2.10."
+          },
+          {
+            "label": null,
+            "text": "Up to four children under 16 travel free with an adult or concessionary pass\nholder. The return fare for unaccompanied children under 16 is £1.10."
+          },
+          {
+            "label": null,
+            "text": "Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter\nin the allocated space, and buy your ticket from the site oﬃce. You may be\nasked to provide evidence that you have travelled to the Park and Ride site by\ncycle, motorcycle or scooter."
+          },
+          {
+            "label": null,
+            "text": "Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday"
+          },
+          {
+            "label": null,
+            "text": "to Friday and any time at weekend or bank holidays (when open). Q14  At\nother times there is no reduction for holders of concessionary bus passes."
           }
         ],
+        "text": "Read the text below and answer Questions 1-14.\n\nSummer activities at London's Kew\nGardens\n\nA   Climb up to the walkway among the trees, 18 metres above the ground, for\na spectacular experience. Feel as tall as the trees and enjoy a bird's-eye view\nover the gardens.\n\nB   The Nash Conservatory displays stunning images from leading\nwildlife photographer Heather Angel. Each photograph explores the wealth of\nbiodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees.\n\nC   A world of pollination comes to life in the Princess of Wales Conservatory.\nFind yourself in a tropical environment whilst walking through clouds of\ncolourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face\nwith gigantic sculptures of insects, birds and bats, which will help tell the\nfascinating stories of how they interact with plants.\n\nD   \nAn extraordinary sound installation created by Chris Watson. On the\nhour throughout the day, the Palm House is ﬁlled with the sound of the dawn\nand dusk choruses of birds that live in the Central and South American\nrainforests.\n\nE   Come and see the fantastic outdoor exhibition of garden, wildlife and\nbotanical photography. Walk amongst enlarged photographs and admire the\nwonderful garden photos - all taken by children aged 16 and under from all\nround the country. If you are in this age category and fancy yourself as a\n\nphotographer, then you can enter for the next show!\n\nF    Young explorers can discover the new children's outdoor play area, shaped\nlike a plant, in Kew's magical Conservation Area. As you journey through this\ninteractive landscape, discover the functions of every part of a plant. Tunnel\nthrough giant roots, get lost among the leaves and hide amongst the large\nfungi, whilst solving puzzles along the way!\n\nG    What is biodiversity all about? Did you know that every breath we take and\nevery move we make depends on plants? Take a guided tour to discover what\nbiodiversity means and why it matters so much.\n\nH     Visit our exciting and colourful exhibition of South American botanical\npaintings, which brings the continent's exotic and lush plants to life in works\nfrom two hundred years ago and from this century.\n\nRead the text below and answer Questions 7-14.\n\nCity Park and Ride\n\nWe have six purpose-built Park and Ride sites serving the city, more than\nalmost anywhere else in the UK. Established for over 40 years, they provide\naround 5,000 parking spaces for cars. The sites are located on the main routes\ninto the city centre. More than 3,000,000 passengers a year take a bus from a\nPark and Ride site into the city, reducing congestion and helping to improve the\nair quality in the city centre.\n\nParking at the sites is available only for those travelling from the site on a Park\nand Ride or other scheduled bus service, and is free. No overnight parking is\npermitted. Heavy goods vehicles are not permitted at the Park and Ride site at\nany time.\n\nIt's simple to use. Just park your car and buy your bus ticket from the bus\ndriver, with the correct money if possible. An individual adult daily return\npurchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after\n12:30 hrs it costs £2.10.\n\nUp to four children under 16 travel free with an adult or concessionary pass\nholder. The return fare for unaccompanied children under 16 is £1.10.\n\nCycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter\nin the allocated space, and buy your ticket from the site oﬃce. You may be\nasked to provide evidence that you have travelled to the Park and Ride site by\ncycle, motorcycle or scooter.\n\nReturn tickets for concessionary bus pass holders cost £1 after 09:30 Monday\n\nto Friday and any time at weekend or bank holidays (when open). Q14  At\nother times there is no reduction for holders of concessionary bus passes.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The text has eight sections, A-H. Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the tex above? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            7,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "learning what all the different sections of a plant do",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "seeing art showing plants from a different part of the",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "the possibility of having your work exhibited",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "learning about why human beings need plants",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "something that happens daily at the same times",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "learning about the relationship between various",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
         {
           "number": 7,
           "type": "true-false-not-given",
-          "prompt": "This was one of the first UK cities to introduce a Park and Ride scheme.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "This was one of the first UK cities to introduce a Park",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 8,
           "type": "true-false-not-given",
+          "groupId": "p1g2",
           "prompt": "The amount of congestion in the city centre has fallen.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 9,
           "type": "true-false-not-given",
-          "prompt": "There is a special section of the car park for heavy goods vehicles.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "There is a special section of the car park for heavy",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "Bus drivers do not give change so you must have the correct money for a ticket.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "Bus drivers do not give change so you must have the\ncorrect money for a ticket.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
+          "groupId": "p1g2",
           "prompt": "Ticket prices vary depending on the time of day.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
-          "prompt": "Children under 16 travelling alone are allowed free travel.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "Children under 16 travelling alone are allowed free\ntravel.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "The space for cycles, motorcycles and scooters is close to the site office.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "The space for cycles, motorcycles and scooters is\nclose to the site office.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 14,
           "type": "true-false-not-given",
-          "prompt": "People with concessionary bus passes must pay the full fare to travel at certain times.",
-          "instruction": "Read the text below and answer Questions 1-14. Summer activities at London’s Kew Gardens A   Climb up to the walkway among the trees, 18 metres above the ground, for a spectacular experience. Feel as tall as the trees and enjoy a bird’s-eye view over the gardens. B   The Nash Conservatory displays stunning images from leading wildlife photographer Heather Angel. Each photograph explores the wealth of biodiversity at Kew Gardens, from foxes to birds, tiny insects to towering trees. C   A world of pollination comes to life in the Princess of Wales Conservatory. Find yourself in a tropical environment whilst walking through clouds of colourful butterﬂies as they ﬂy around the Conservatory! Come face-to-face with gigantic sculptures of insects, birds and bats, which will help tell the fascinating stories of how they interact with plants. D An extraordinary sound installation created by Chris Watson. On the hour throughout the day, the Palm House is ﬁlled with the sound of the dawn and dusk choruses of birds that live in the Central and South American rainforests. E   Come and see the fantastic outdoor exhibition of garden, wildlife and botanical photography. Walk amongst enlarged photographs and admire the wonderful garden photos – all taken by children aged 16 and under from all round the country. If you are in this age category and fancy yourself as a Read the text below and answer Questions 7-14. City Park and Ride We have six purpose-built Park and Ride sites serving the city, more than almost anywhere else in the UK. Established for over 40 years, they provide around 5,000 parking spaces for cars. The sites are located on the main routes into the city centre. More than 3,000,000 passengers a year take a bus from a Park and Ride site into the city, reducing congestion and helping to improve the air quality in the city centre. Parking at the sites is available only for those travelling from the site on a Park and Ride or other scheduled bus service, and is free. No overnight parking is permitted. Heavy goods vehicles are not permitted at the Park and Ride site at any time. It’s simple to use. Just park your car and buy your bus ticket from the bus driver, with the correct money if possible. An individual adult daily return purchased prior to 12:30 hrs for use chat day costs £2.40. If purchased after 12:30 hrs it costs £2.10. Up to four children under 16 travel free with an adult or concessionary pass holder. The return fare for unaccompanied children under 16 is £1.10. Cycle and Ride for just £1.10 a day. Just park your cycle, motorcycle or scooter in the allocated space, and buy your ticket from the site oﬃce. You may be asked to provide evidence that you have travelled to the Park and Ride site by cycle, motorcycle or scooter. Return tickets for concessionary bus pass holders cost £1 after 09:30 Monday Which sections contain the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. 1 learning what all the different sections of a plant do 2 seeing art showing plants from a different part of the world 3 the possibility of having your work exhibited 4 learning about why human beings need plants 5 something that happens daily at the same times 6 learning about the relationship between various creatures, insects and plants Do the following statements agree with the information given in the tex above? TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "People with concessionary bus passes must pay the\nfull fare to travel at certain times.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        20
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 2",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 15-20."
+          },
+          {
+            "label": null,
+            "text": "HOW TO ORGANISE A SUCCESSFUL\nBUSINESS CONFERENCE"
+          },
+          {
+            "label": null,
+            "text": "To start with"
+          },
+          {
+            "label": null,
+            "text": "Advance planning is the key to a hassle-free conference. The key players of a\nsuccessful conference are the delegates, so identify the audience and then\ntailor the programme you are planning to their particular needs."
+          },
+          {
+            "label": null,
+            "text": "Where and when"
+          },
+          {
+            "label": null,
+            "text": "The date and venue should then be chosen. These are often interdependent,\nand when choosing the date take into account the timing of similar regular\nevents which may clash. Also consider holiday periods which may mean that\npeople are away and so will not be able to attend."
+          },
+          {
+            "label": null,
+            "text": "When choosing a venue, check how easy it is to reach by train and plane etc.\nand the availability of parking for those driving. Visit the venue personally:\nconsider the size of the main lecture hall and whether it is big enough for the\nanticipated number of delegates, then look into the potential of having\nbreakout areas for separating into a number of groups for discussions. Then\ncheck whether there is a suitable lounge area for the teaIcoffee breaks and an\nexhibition space for display stands if required."
+          },
+          {
+            "label": null,
+            "text": "Who"
+          },
+          {
+            "label": null,
+            "text": "The next stage is to choose the speakers and invite them, making sure you"
+          },
+          {
+            "label": null,
+            "text": "give them ample notice so they are more likely to be available. Ask only those\npeople that you know speak well. Do not try and speak yourself in addition to\norganising the conference, as this will be too demanding."
+          },
+          {
+            "label": null,
+            "text": "Contacting people"
+          },
+          {
+            "label": null,
+            "text": "Let people know the date and venue by an early mailshot. This allows them, if\nthey are interested, to put the date into their diaries. At the same time, contact\nall the speakers again, confirming their particular topic, the audio-visual aids\nwhich will be available and finding out their accommodation requirements. Ask\nthem to provide a written summary of their presentation for distribution to\ndelegates at the conference."
+          },
+          {
+            "label": null,
+            "text": "Final arrangements"
+          },
+          {
+            "label": null,
+            "text": "Approximately 4-5 weeks before the conference, confirm the provisional\nnumbers with the venue. Contact them again about two weeks prior to the\nconference to confirm final numbers, decide on menus and finalise the\narrangements."
+          },
+          {
+            "label": null,
+            "text": "Prepare delegate packs to include a name badge, delegate list and programme.\nThe venue should provide pads of paper and pens. Then prepare\nquestionnaires for all delegates to complete at the end of the conference. Their\nresponses will enable you to gauge the success of the conference and start\nplanning the next one!"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 21-27."
+          },
+          {
+            "label": null,
+            "text": "How to deal with the annual performance appraisal"
+          },
+          {
+            "label": null,
+            "text": "The annual performance appraisal can help improve your productivity and\nprovide a foundation for your work priorities. It is, however, critical to have the\nright attitude and approach.\nKnowing what areas your superiors see as your weaknesses is the most direct\nway of increasing the likelihood of being considered for promotion, if that is\nwhat you are looking for."
+          },
+          {
+            "label": null,
+            "text": "Preparation"
+          },
+          {
+            "label": null,
+            "text": "Send your boss a summary of your achievements. Reminding your boss of\nactivities, special assignments you did, and projects you were in charge of\nhelps him or her create a more accurate performance appraisal. Consider\nkeeping notes of these on a regular basis to make it easier to provide the data\nwhen required."
+          },
+          {
+            "label": null,
+            "text": "Create a list of questions you would like to discuss during your appraisal. This\none-on-one time with your boss is an excellent opportunity to ask him or her\nabout your role in the company, request any additional responsibilities you\nwould like and clarify your priorities. But it is best to focus your attention\naround personal and professional improvements, rather than financial\nconsiderations, such as an increase in salary."
+          },
+          {
+            "label": null,
+            "text": "During the appraisal"
+          },
+          {
+            "label": null,
+            "text": "Present a positive attitude as soon as you enter the appraisal room. This\napproach may lead to a more constructive discussion of review items. Avoid\ntaking any negative assessments that are offered as a personal attack, but\nrather try to take them on board calmly, because if you put the failings right\nyou will improve your performance. A realistic assessment of your strengths\nand weaknesses can be one of the most beneficial ways of helping you\nadvance in the company."
+          },
+          {
+            "label": null,
+            "text": "After the appraisal"
+          },
+          {
+            "label": null,
+            "text": "Create a list of personal goals based on your performance appraisal. Make the\nitems detailed and measurable if possible. Send this list to your boss so he or\nshe knows you took the appraisal seriously. Use this list to help achieve higher\nscores on your next performance appraisal.\nSix months after the appraisal, ask for a mid-term review with your boss to\ndiscuss your progress. This session should be more relaxed and informal than\nthe official review. Ask for more feedback to help you improve. Checking in\nwith your boss helps him or her remember your dedication as far as your job is\nconcerned, and may help remove any criticisms before they become a review\npoint on your next formal appraisal."
+          }
+        ],
+        "text": "Read the text below and answer Questions 15-20.\n\nHOW TO ORGANISE A SUCCESSFUL\nBUSINESS CONFERENCE\n\nTo start with\n\nAdvance planning is the key to a hassle-free conference. The key players of a\nsuccessful conference are the delegates, so identify the audience and then\ntailor the programme you are planning to their particular needs.\n\nWhere and when\n\nThe date and venue should then be chosen. These are often interdependent,\nand when choosing the date take into account the timing of similar regular\nevents which may clash. Also consider holiday periods which may mean that\npeople are away and so will not be able to attend.\n\nWhen choosing a venue, check how easy it is to reach by train and plane etc.\nand the availability of parking for those driving. Visit the venue personally:\nconsider the size of the main lecture hall and whether it is big enough for the\nanticipated number of delegates, then look into the potential of having\nbreakout areas for separating into a number of groups for discussions. Then\ncheck whether there is a suitable lounge area for the teaIcoffee breaks and an\nexhibition space for display stands if required.\n\nWho\n\nThe next stage is to choose the speakers and invite them, making sure you\n\ngive them ample notice so they are more likely to be available. Ask only those\npeople that you know speak well. Do not try and speak yourself in addition to\norganising the conference, as this will be too demanding.\n\nContacting people\n\nLet people know the date and venue by an early mailshot. This allows them, if\nthey are interested, to put the date into their diaries. At the same time, contact\nall the speakers again, confirming their particular topic, the audio-visual aids\nwhich will be available and finding out their accommodation requirements. Ask\nthem to provide a written summary of their presentation for distribution to\ndelegates at the conference.\n\nFinal arrangements\n\nApproximately 4-5 weeks before the conference, confirm the provisional\nnumbers with the venue. Contact them again about two weeks prior to the\nconference to confirm final numbers, decide on menus and finalise the\narrangements.\n\nPrepare delegate packs to include a name badge, delegate list and programme.\nThe venue should provide pads of paper and pens. Then prepare\nquestionnaires for all delegates to complete at the end of the conference. Their\nresponses will enable you to gauge the success of the conference and start\nplanning the next one!\n\nRead the text below and answer Questions 21-27.\n\nHow to deal with the annual performance appraisal\n\nThe annual performance appraisal can help improve your productivity and\nprovide a foundation for your work priorities. It is, however, critical to have the\nright attitude and approach.\nKnowing what areas your superiors see as your weaknesses is the most direct\nway of increasing the likelihood of being considered for promotion, if that is\nwhat you are looking for.\n\nPreparation\n\nSend your boss a summary of your achievements. Reminding your boss of\nactivities, special assignments you did, and projects you were in charge of\nhelps him or her create a more accurate performance appraisal. Consider\nkeeping notes of these on a regular basis to make it easier to provide the data\nwhen required.\n\nCreate a list of questions you would like to discuss during your appraisal. This\none-on-one time with your boss is an excellent opportunity to ask him or her\nabout your role in the company, request any additional responsibilities you\nwould like and clarify your priorities. But it is best to focus your attention\naround personal and professional improvements, rather than financial\nconsiderations, such as an increase in salary.\n\nDuring the appraisal\n\nPresent a positive attitude as soon as you enter the appraisal room. This\napproach may lead to a more constructive discussion of review items. Avoid\ntaking any negative assessments that are offered as a personal attack, but\nrather try to take them on board calmly, because if you put the failings right\nyou will improve your performance. A realistic assessment of your strengths\nand weaknesses can be one of the most beneficial ways of helping you\nadvance in the company.\n\nAfter the appraisal\n\nCreate a list of personal goals based on your performance appraisal. Make the\nitems detailed and measurable if possible. Send this list to your boss so he or\nshe knows you took the appraisal seriously. Use this list to help achieve higher\nscores on your next performance appraisal.\nSix months after the appraisal, ask for a mid-term review with your boss to\ndiscuss your progress. This session should be more relaxed and informal than\nthe official review. Ask for more feedback to help you improve. Checking in\nwith your boss helps him or her remember your dedication as far as your job is\nconcerned, and may help remove any criticisms before they become a review\npoint on your next formal appraisal.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 15-20 on your answer sheet. ORGANISING A BUSINESS CONFERENCE First steps: decide who the conference is for ensure the programme fulfils delegates' requirements Venue and timing:",
+          "body": "try to avoid scheduling the conference during [[15]] times or when other annual conferences occur spaces for smaller meetings check accessibility by different modes of transport choose a place with a large hall and also [[16]] Speakers: choose appropriate speakers as possible give the speakers as much [[17]] Communication: send out a mailshot to potential delegates confirm individual details with speakers, check if they will need accommodation and request a [[18]] of their presentation Final tasks: give the venue precise numbers of attendees make sure each person attending receives information about the conference and a [[19]] for identification use [[20]] to get opinions on the conference",
+          "range": [
+            15,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the text for each answer. Write your answers in boxes 21-27 on your answer sheet. By learning at an appraisal what areas of work need improving, staff can improve",
+          "body": "their chances of getting [[21]] It is important to think of some [[22]] that can be used during the appraisal. The appraisal can be a good time to ask the boss for extra [[23]] React [[24]] to any criticism. It is helpful to identify a number of individual [[25]] arising from the appraisal comments. Staff can request a meeting haif-way through the year to look at the [[26]] which has been achieved. If staff act on any appraisal comments, they will demonstrate their [[27]] to their work.",
+          "range": [
+            21,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 15,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "holiday",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "breakout",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "notice",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "summary",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "badge",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "questionnaires",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "promotion",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "questions",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "responsibilities",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "calmly",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "goals",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "progress",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "dedication",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "Reading Passage 3",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28-40"
+          },
+          {
+            "label": null,
+            "text": "Efforts to save a special bird - the spoon-\nbilled sandpiper"
+          },
+          {
+            "label": null,
+            "text": "Last year an international team of ornithologists devised a bold plan to rescue\none of the world's rarest birds. Gerrit Vyn reports"
+          },
+          {
+            "label": null,
+            "text": "A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory\nbirds of the sandpiper family that breed across the Arctic. But it is the only one\nto have developed a ﬂattened bill that ﬂares out into a 'spoon' at the end, and\nthat makes it special. If it becomes extinct, thousands of years of evolution will\ncome to an end, which would be a real tragedy.\nThe bird's Russian name, kulik-lopaten, means 'shovel beak', which is an apt\ndescription of a remarkable structure. The bill is 19 mm long and 10 mm wide\nnear the tip and the edges are lined with sharp serrations, called papillae.\nTheories have varied as to how the bill functions; one suggestion is that the\nsandpiper sweeps it through the water in a similar fashion to its larger\nnamesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper,\nsays the comparison is misleading."
+          },
+          {
+            "label": null,
+            "text": "B Until a few years ago, the spoon-billed sandpiper had never been fully\ndocumented, which added to its fascination. But an air of mystery is not helpful\nif you're a Critically Endangered species. So the organisation 'Birds Russia'\ndecided to produce a photographic and audio record of this imperilled bird with\nthe help of experts round the world. In May of last year, I joined the\ninternational expedition to one of the species' last breeding strongholds in"
+          },
+          {
+            "label": null,
+            "text": "North-East Russia. The primary aim of the two-and-a-half month expedition,\nhowever, was to collect eggs from wild sandpipers; those eggs would then be\nhatched in captivity nearby. Later, the chicks would be ﬂown to the Wildfowl\nand Wetlands Trust (WWT) headquarters at Slimbridge in the UK, in order to\nestablish a small, self-sustaining population there. These birds would provide a\n'safety net', an insurance policy against the wild birds dying out."
+          },
+          {
+            "label": null,
+            "text": "C You might wonder why birds like the spoon-billed sandpiper travel such great\ndistances, about 8,000 km in total, from their wintering grounds on the tropical\ncoasts of Bangladesh, Burma and Vietnam in South-East Asia to breed on the\nlow land, commonly called tundra, in North-East Russia, but from the birds'\npoint of view it is worth it. Though they often arrive to ﬁnd hostile, wintry\nweather while they are ﬁnding their mates and making their nests, there are\nrelatively few predators there, and the abundance of insects that emerge\nduring the brief but intense Arctic summer creates ideal conditions for raising\ntheir chicks."
+          },
+          {
+            "label": null,
+            "text": "D Two main factors are responsible for the sandpiper's recent rapid decline:\nthe ongoing destruction of stopover habitat on its migration route and hunting\non its wintering grounds. The development of new industrial cities is destroying\nformer tidal areas, where sandpipers and other migratory birds used to rest\nand refuel. Subsistence hunting is certainly a hazard in some Asian countries,\nwhere hunters trap birds for food. Conservationists are targeting this problem\nwith small-scale interventions. For example, hunters from 40 villages have\nbeen given alternative sources of income, such as cool boxes in which they can\ntake fish to sell at markets, in return for a halt to the bird-netting."
+          },
+          {
+            "label": null,
+            "text": "E Once the expedition team had reached its destination, it was seven days\nbefore we spotted the ﬁrst sandpiper. In the following days, more began to\narrive and the males' song was heard, advertising their patches of territory to\npotential mates.\nAs the sandpipers paired up, the song gave way to the quiet of egg-laying and\nincubation. In total nine nests were found. The ﬁrst one was lost to a predator,\nalong with the female attending it. This was a stark reminder of the\nvulnerability of a tiny population to natural events, such as storms or predation."
+          },
+          {
+            "label": null,
+            "text": "The team then selected donor nests and transferred the eggs to specially\nprepared incubators. They collected 20 eggs in all, taking entire clutches each\ntime - it was early in the breeding season, so the females were likely to lay\nreplacements. Then 50 days after our arrival, the moment arrived: I witnessed\nmy ﬁrst wild spoon-billed sandpipers hatch. I had been lying inside a wind-\nbattered hide for 36 hours when ! saw the ﬁrst tiny chicks emerge from the"
+          },
+          {
+            "label": null,
+            "text": "eggs. Having hidden a microphone near the nest, I could also just hear their\nﬁrst calls. Later, I watched them stumbling through the 15 cm-high jungle of\ngrasses on comically oversized legs and feet. But my joy was tempered by\nconcern. Diﬃculties on their migration route and in their wintering areas meant\nthat other tiny creatures like these faced immense dangers."
+          },
+          {
+            "label": null,
+            "text": "F The complex rescue plan does give some grounds for hope. Young chicks\nwere ﬂown to WWT Slimbridge last year and again this summer. A high-tech\nbiosecure unit has been built for them there, it is divided in two, with the older\nbirds in one section and this year's chicks in the other. To minimise the risk of\ninfections, staﬀ change into full-body overalls and rubber shoes and wash their\nhands before entering. Hygiene is crucial: even a single strand of human hair\ncould harm the chicks by becoming twisted round their legs or bills. The rescue\nplan's ﬁnal stage, once the captive ﬂock has built up suﬃciently, will be to ﬂy\neggs back to Russia, to release the chicks there. It's a gamble, but when the\nsurvival of a species this special is at stake, you have to try."
+          }
+        ],
+        "text": "Read the text below and answer Questions 28-40\n\nEfforts to save a special bird - the spoon-\nbilled sandpiper\n\nLast year an international team of ornithologists devised a bold plan to rescue\none of the world's rarest birds. Gerrit Vyn reports\n\nA At ﬁrst glance the spoon-billed sandpiper resembles other small migratory\nbirds of the sandpiper family that breed across the Arctic. But it is the only one\nto have developed a ﬂattened bill that ﬂares out into a 'spoon' at the end, and\nthat makes it special. If it becomes extinct, thousands of years of evolution will\ncome to an end, which would be a real tragedy.\nThe bird's Russian name, kulik-lopaten, means 'shovel beak', which is an apt\ndescription of a remarkable structure. The bill is 19 mm long and 10 mm wide\nnear the tip and the edges are lined with sharp serrations, called papillae.\nTheories have varied as to how the bill functions; one suggestion is that the\nsandpiper sweeps it through the water in a similar fashion to its larger\nnamesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper,\nsays the comparison is misleading.\n\nB Until a few years ago, the spoon-billed sandpiper had never been fully\ndocumented, which added to its fascination. But an air of mystery is not helpful\nif you're a Critically Endangered species. So the organisation 'Birds Russia'\ndecided to produce a photographic and audio record of this imperilled bird with\nthe help of experts round the world. In May of last year, I joined the\ninternational expedition to one of the species' last breeding strongholds in\n\nNorth-East Russia. The primary aim of the two-and-a-half month expedition,\nhowever, was to collect eggs from wild sandpipers; those eggs would then be\nhatched in captivity nearby. Later, the chicks would be ﬂown to the Wildfowl\nand Wetlands Trust (WWT) headquarters at Slimbridge in the UK, in order to\nestablish a small, self-sustaining population there. These birds would provide a\n'safety net', an insurance policy against the wild birds dying out.\n\nC You might wonder why birds like the spoon-billed sandpiper travel such great\ndistances, about 8,000 km in total, from their wintering grounds on the tropical\ncoasts of Bangladesh, Burma and Vietnam in South-East Asia to breed on the\nlow land, commonly called tundra, in North-East Russia, but from the birds'\npoint of view it is worth it. Though they often arrive to ﬁnd hostile, wintry\nweather while they are ﬁnding their mates and making their nests, there are\nrelatively few predators there, and the abundance of insects that emerge\nduring the brief but intense Arctic summer creates ideal conditions for raising\ntheir chicks.\n\nD Two main factors are responsible for the sandpiper's recent rapid decline:\nthe ongoing destruction of stopover habitat on its migration route and hunting\non its wintering grounds. The development of new industrial cities is destroying\nformer tidal areas, where sandpipers and other migratory birds used to rest\nand refuel. Subsistence hunting is certainly a hazard in some Asian countries,\nwhere hunters trap birds for food. Conservationists are targeting this problem\nwith small-scale interventions. For example, hunters from 40 villages have\nbeen given alternative sources of income, such as cool boxes in which they can\ntake fish to sell at markets, in return for a halt to the bird-netting.\n\nE Once the expedition team had reached its destination, it was seven days\nbefore we spotted the ﬁrst sandpiper. In the following days, more began to\narrive and the males' song was heard, advertising their patches of territory to\npotential mates.\nAs the sandpipers paired up, the song gave way to the quiet of egg-laying and\nincubation. In total nine nests were found. The ﬁrst one was lost to a predator,\nalong with the female attending it. This was a stark reminder of the\nvulnerability of a tiny population to natural events, such as storms or predation.\n\nThe team then selected donor nests and transferred the eggs to specially\nprepared incubators. They collected 20 eggs in all, taking entire clutches each\ntime - it was early in the breeding season, so the females were likely to lay\nreplacements. Then 50 days after our arrival, the moment arrived: I witnessed\nmy ﬁrst wild spoon-billed sandpipers hatch. I had been lying inside a wind-\nbattered hide for 36 hours when ! saw the ﬁrst tiny chicks emerge from the\n\neggs. Having hidden a microphone near the nest, I could also just hear their\nﬁrst calls. Later, I watched them stumbling through the 15 cm-high jungle of\ngrasses on comically oversized legs and feet. But my joy was tempered by\nconcern. Diﬃculties on their migration route and in their wintering areas meant\nthat other tiny creatures like these faced immense dangers.\n\nF The complex rescue plan does give some grounds for hope. Young chicks\nwere ﬂown to WWT Slimbridge last year and again this summer. A high-tech\nbiosecure unit has been built for them there, it is divided in two, with the older\nbirds in one section and this year's chicks in the other. To minimise the risk of\ninfections, staﬀ change into full-body overalls and rubber shoes and wash their\nhands before entering. Hygiene is crucial: even a single strand of human hair\ncould harm the chicks by becoming twisted round their legs or bills. The rescue\nplan's ﬁnal stage, once the captive ﬂock has built up suﬃciently, will be to ﬂy\neggs back to Russia, to release the chicks there. It's a gamble, but when the\nsurvival of a species this special is at stake, you have to try.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "The text below has six sections, A-F.",
+          "body": null,
+          "range": [
+            28,
+            33
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii"
+            ],
+            "labels": [
+              "Gaining public recognition",
+              "Reasons for continuing to make the long journey",
+              "A disappointment followed by desirable outcomes",
+              "The main stages of the plan",
+              "A growth in the number of natural predators",
+              "increasing threats",
+              "A very unusual feature of these birds",
+              "Cautious optimism"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34--37 on your answer sheet.",
+          "body": null,
+          "range": [
+            34,
+            37
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below. Choose ONE WORD ONLY from the text for each answer. The life cycle of the spoon-billed sandpiper In early spring, spoon-billed sandpipers return to their breeding grounds in Russia",
+          "body": "in the area known as [[38]] Although the weather there is often very harsh to begin with, there are obvious advantages to the sandpipers. There is above ail a plentiful supply of [[39]] , and this makes it possible for the sandpiper chicks to develop well. The lack of [[40]] is another definite advantage. As a result, a good proportion of the chicks grow up to face the long flight to the South-East Asian coasts.",
+          "range": [
+            38,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Section A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Section B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Section C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
         {
           "number": 31,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section D",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C",
-          "answer": "vi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 32,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Section E",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C",
-          "answer": "iii"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
         },
         {
           "number": 33,
           "type": "heading-matching",
-          "prompt": "Section F Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34—37 on your answer sheet.",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C",
-          "answer": "viii"
+          "groupId": "p3g1",
+          "prompt": "Section F",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
         },
         {
           "number": 34,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "What was the main purpose of the international expedition?",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34—37 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "to add sandpiper eggs to an international frozen egg bank",
+            "to maintain a small group of sandpipers for future generations",
+            "to make an audiovisual record of the Russian sandpiper colony",
+            "to protect a colony of wild sandpipers through a breeding season"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 35,
           "type": "multiple-choice",
+          "groupId": "p3g2",
           "prompt": "What do we learn about the drop in the sandpiper population?",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34—37 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "The birds are increasingly being hunted on their way north to Russia.",
+            "Scientists are managing to reduce deaths from netting considerably.",
+            "Efforts are being made to protect some of their coastal habitat sites.",
+            "Economic growth is one of the underlying causes of the decline."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 36,
           "type": "multiple-choice",
-          "prompt": "Which feeling did the writer express when the sandpiper chicks",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34—37 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p3g2",
+          "prompt": "Which feeling did the writer express when the sandpiper chicks hatched?",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "relief that his long wait was over",
+            "surprise at the sound of their song",
+            "worry about birds of the same species",
+            "amazement that they could walk so soon"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 37,
           "type": "multiple-choice",
-          "prompt": "The writer describes the sandpipers’ unit at WWT Slimbridge to",
-          "instruction": "Read the text below and answer Questions 28-40 Efforts to save a special bird — the spoon- billed sandpiper Last year an international team of ornithologists devised a bold plan to rescue one of the world’s rarest birds. Gerrit Vyn reports A At ﬁrst glance the spoon-billed sandpiper resembles other small migratory birds of the sandpiper family that breed across the Arctic. But it is the only one to have developed a ﬂattened bill that ﬂares out into a ‘spoon’ at the end, and that makes it special. If it becomes extinct, thousands of years of evolution will come to an end, which would be a real tragedy. The bird’s Russian name, kulik-lopaten, means ‘shovel beak’, which is an apt description of a remarkable structure. The bill is 19 mm long and 10 mm wide near the tip and the edges are lined with sharp serrations, called papillae. Theories have varied as to how the bill functions; one suggestion is that the sandpiper sweeps it through the water in a similar fashion to its larger namesake, the spoonbill. But Nigel Clark, a leading authority on the sandpiper, says the comparison is misleading. B Until a few years ago, the spoon-billed sandpiper had never been fully documented, which added to its fascination. But an air of mystery is not helpful if you’re a Critically Endangered species. So the organisation ‘Birds Russia’ decided to produce a photographic and audio record of this imperilled bird with the help of experts round the world. In May of last year, I joined the international expedition to one of the species’ last breeding strongholds in The text below has six sections, A-F. Choose the correct heading for each section from the list of headings below. Write the correct number, i-viii, in boxes 28-33 on your answer sheet. List of Headings i Gaining public recognition ii Reasons for continuing to make the long journey iii A disappointment followed by desirable outcomes iv The main stages of the plan v A growth in the number of natural predators vi increasing threats vii A very unusual feature of these birds viii Cautious optimism 28 Section A 29 Section B 30 Section C Choose the correct letter, A, B, C or D. Write the correct letter in boxes 34—37 on your answer sheet.",
-          "answer": "A",
+          "groupId": "p3g2",
+          "prompt": "The writer describes the sandpipers' unit at WWT Slimbridge to emphasise",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "how much care is being devoted to their welfare.",
+            "how much money is being spent on the project.",
+            "his surprise at how fragile the young birds are.",
+            "his confidence in the technology available."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "tundra",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "insects",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "predators",
+          "trap": null
         }
       ]
     }

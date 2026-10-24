@@ -1,0 +1,13 @@
+{
+  "p1g3": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        10
+      ],
+      "type": "sentence-completion"
+    },
+    "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN THREE WORDS from the Reading Passage for each answer. Write your answers in boxes 10-13 on your answer sheet.",
+    "body": "In the experiments conducted by UCL, participants were asked to look at a picture with a scent of a flower, then in the next stage, everyone would have to [[10]] for a connection. A method called [[11]] suggested that specific area of brain named [[12]] were quite active. Then in an another parallelled experiment about Chinese elders, storytellers could recall detailed anecdotes when smelling a bowl of [[13]] or incense around."
+  }
+}

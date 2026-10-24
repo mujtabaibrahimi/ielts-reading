@@ -1,0 +1,30 @@
+{
+  "p1g3": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        13
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Write the appropriate letter, A-D.",
+    "questions": {
+      "13": {
+        "prompt": "The main purpose of Frogwatch is ...",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "for people to collect and deliver dead or dying frogs to scientists.",
+          "for people to observe and collect information about frog populations for scientists.",
+          "for people to allow scientists onto their private land to look at frog habitats.",
+          "for people to set up ponds in their gardens as habitat for frogs."
+        ]
+      }
+    }
+  }
+}

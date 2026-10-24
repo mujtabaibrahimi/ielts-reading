@@ -1,428 +1,1310 @@
 {
   "id": "master-ielts-general-training-volume-3_reading-practice-test-2-v9-1961143",
   "type": "general",
-  "source": "master-ielts-general-training-volume-3 reading-practice-test-2-v9-1961143",
+  "title": "Master IELTS General Training Volume 3 - Reading Test 2",
+  "collection": "Master IELTS General Training Volume 3",
+  "testNumber": 2,
+  "year": 0,
+  "month": 0,
+  "volume": 3,
+  "source": "ieltsonlinetests.com",
   "filename": "master-ielts-general-training-volume-3_reading-practice-test-2-v9-1961143.pdf",
-  "total_questions": 20,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "TOTAL FIRE BANS",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        4
+        14
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nTOTAL FIRE BANS",
-        "tables": [
+        "heading": "TOTAL FIRE BANS",
+        "paragraphs": [
           {
-            "page": 4,
-            "rows": [
-              [
-                "Origins",
-                "Bowel, intestine of humans and animals [especially chickens). raw foods,\nuntreated water"
-              ],
-              [
-                "Onset",
-                "12-48 hours"
-              ],
-              [
-                "Symptoms",
-                "Nausea, vomiting, stomach cramps, diarrhoea, fever and headache for 3-21\ndays"
-              ],
-              [
-                "ii. Staphylococcus aureus (Toxin)",
-                null
-              ],
-              [
-                "Origins",
-                "Skin, nose, saliva, bowel of humans"
-              ],
-              [
-                "Onset",
-                "1-8 hours"
-              ],
-              [
-                "Symptoms",
-                "Diarrhoea, stomach cramps, nausea and vomiting. Last for about 24 hours"
-              ],
-              [
-                "iii. Clostridium perfringens",
-                null
-              ],
-              [
-                "Origins",
-                "Soil, bowel, intestine of humans and animals"
-              ],
-              [
-                "Onset",
-                "8-12 hours"
-              ],
-              [
-                "Symptoms",
-                "Stomach pains, diarrhoea and sometimes nausea and vomiting. Lasts for\nabout 24 hours"
-              ],
-              [
-                "iv. Vibrio parahaemolyticus",
-                null
-              ],
-              [
-                "Origins",
-                "Drinking water, shellfish and fish"
-              ],
-              [
-                "Onset",
-                "12-24 hours"
-              ],
-              [
-                "Symptoms",
-                "Diarrhoea, stomach cramps, sometimes nausea and vomiting. May last for\nseveral days"
-              ],
-              [
-                "v. Listeria monocytogenes",
-                null
-              ],
-              [
-                "Origins",
-                "Soil, bowel, intestine of humans and animals, raw vegetables, processed\nfoods"
-              ],
-              [
-                "Onset",
-                "2 days to 3 months"
-              ],
-              [
-                "Symptoms",
-                "Flu-like symptoms: fever, headaches and pains. May cause miscarriage and\nstillbirth, meningitis and septicaemia"
-              ],
-              [
-                "vi. Campylobacter",
-                null
-              ],
-              [
-                "Origins",
-                "Raw poultry, raw meats, untreated water, unpasteurised milk; puppies,\nkittens, wild animals and birds"
-              ],
-              [
-                "Onset",
-                "2-5 days"
-              ],
-              [
-                "Symptoms",
-                "Diarrhoea, abdominal pain, vomiting, fever and nausea. Last for 2-5 days"
-              ]
-            ],
-            "header": [
-              "Origins",
-              "Bowel, intestine of humans and animals [especially chickens). raw foods,\nuntreated water"
-            ]
+            "label": null,
+            "text": "Read the notice on total fire bans, and answer questions 1-4."
+          },
+          {
+            "label": null,
+            "text": "TEXT 1"
+          },
+          {
+            "label": null,
+            "text": "Total Fire Bans affect everyone. Whether you live in the city, the suburbs or in the\ncountry, you need to know when one is declared and what this means you can't do."
+          },
+          {
+            "label": null,
+            "text": "WHAT IS A TOTAL FIRE BAN?"
+          },
+          {
+            "label": null,
+            "text": "A Total Fire Ban prohibits:"
+          },
+          {
+            "label": null,
+            "text": "- the lighting of any fires in the open air"
+          },
+          {
+            "label": null,
+            "text": "- any other activities in the open air that may start a fire."
+          },
+          {
+            "label": null,
+            "text": "Undercover areas such as patios, pergolas and huts that are open or partially open to\nthe weather are deemed to be in the open air."
+          },
+          {
+            "label": null,
+            "text": "WHEN WILL A TOTAL FIRE BAN BE DECLARED?"
+          },
+          {
+            "label": null,
+            "text": "The decision to put a ban in place is based on weather forecast and local conditions. A\nTotal Fire Ban will be declared on days when fires are most likely to threaten lives and\nproperty."
+          },
+          {
+            "label": null,
+            "text": "HOW WILL I KNOW WHEN A TOTAL FIRE BAN HAS BEEN DECLARED?"
+          },
+          {
+            "label": null,
+            "text": "When a ban has been declared it will be:"
+          },
+          {
+            "label": null,
+            "text": "- on the DFES website www.dfes.wa.gov.au"
+          },
+          {
+            "label": null,
+            "text": "- on the Total Fire Ban information line 1800 709 355"
+          },
+          {
+            "label": null,
+            "text": "- broadcast on ABC local radio and other media outlets"
+          },
+          {
+            "label": null,
+            "text": "- published to subscribers through the DFES website's automated RSS feeds"
+          },
+          {
+            "label": null,
+            "text": "- published on DFES's Twitter account"
+          },
+          {
+            "label": null,
+            "text": "- displayed on local government roadside Fire Danger Rating signs."
+          },
+          {
+            "label": null,
+            "text": "HOW LONG IS A TOTAL FIRE BAN IN PLACE FOR?"
+          },
+          {
+            "label": null,
+            "text": "The ban will generally be in place from 12.01am to 11.59pm on the day declared;\nhowever, if weather conditions change significantly, times may vary."
+          },
+          {
+            "label": null,
+            "text": "WHAT ARE THE PENALTIES FOR IGNORING A TOTAL FIRE BAN?"
+          },
+          {
+            "label": null,
+            "text": "You could be fined up to $25 000 and/or jailed for 12 months for ignoring the ban."
+          },
+          {
+            "label": null,
+            "text": "Source: Department of Fire and Emergency Services, WA"
           }
         ],
+        "text": "Read the notice on total fire bans, and answer questions 1-4.\n\nTEXT 1\n\nTotal Fire Bans affect everyone. Whether you live in the city, the suburbs or in the\ncountry, you need to know when one is declared and what this means you can't do.\n\nWHAT IS A TOTAL FIRE BAN?\n\nA Total Fire Ban prohibits:\n\n- the lighting of any fires in the open air\n\n- any other activities in the open air that may start a fire.\n\nUndercover areas such as patios, pergolas and huts that are open or partially open to\nthe weather are deemed to be in the open air.\n\nWHEN WILL A TOTAL FIRE BAN BE DECLARED?\n\nThe decision to put a ban in place is based on weather forecast and local conditions. A\nTotal Fire Ban will be declared on days when fires are most likely to threaten lives and\nproperty.\n\nHOW WILL I KNOW WHEN A TOTAL FIRE BAN HAS BEEN DECLARED?\n\nWhen a ban has been declared it will be:\n\n- on the DFES website www.dfes.wa.gov.au\n\n- on the Total Fire Ban information line 1800 709 355\n\n- broadcast on ABC local radio and other media outlets\n\n- published to subscribers through the DFES website's automated RSS feeds\n\n- published on DFES's Twitter account\n\n- displayed on local government roadside Fire Danger Rating signs.\n\nHOW LONG IS A TOTAL FIRE BAN IN PLACE FOR?\n\nThe ban will generally be in place from 12.01am to 11.59pm on the day declared;\nhowever, if weather conditions change significantly, times may vary.\n\nWHAT ARE THE PENALTIES FOR IGNORING A TOTAL FIRE BAN?\n\nYou could be fined up to $25 000 and/or jailed for 12 months for ignoring the ban.\n\nSource: Department of Fire and Emergency Services, WA",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": [
+      "questionGroups": [
         {
-          "number": 2,
+          "id": "p1g1",
+          "type": "multiple-choice",
+          "instruction": "Read the information on food poisoning in the table and answer questions 5-10. Look at the information on food poisoning and match the statements with the appropriate type of poisoning. Choose the correct number i-vi and write your answer in boxes 5-10 on your answer sheet.",
+          "body": null,
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": null,
+          "images": [
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-3_reading-practice-test-2-v9-1961143/p1g1-1.png",
+              "w": 982,
+              "h": 186
+            },
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-3_reading-practice-test-2-v9-1961143/p1g1-2.png",
+              "w": 982,
+              "h": 1302
+            },
+            {
+              "src": "assets/crops/master-ielts-general-training-volume-3_reading-practice-test-2-v9-1961143/p1g1-3.png",
+              "w": 982,
+              "h": 782
+            }
+          ],
+          "questionNumbers": []
+        },
+        {
+          "id": "p1g2",
           "type": "true-false-not-given",
-          "prompt": "days to 3 months",
-          "instruction": "Read the notice on total fire bans, and answer questions 1-4. TEXT 1",
-          "answer": "FALSE",
-          "options": [
-            "TRUE",
-            "FALSE",
-            "NOT GIVEN"
+          "instruction": "Do the following statements agree with the information given in the text? In boxes 1-4 on your answer sheet, write:",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
           ]
         },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Read the information on food poisoning in the table and answer questions 5-10. Match the statements with the appropriate type of poisoning. Choose the correct number, i-vi, and write your answer in boxes 5-10 on your answer sheet.",
+          "body": null,
+          "range": [
+            5,
+            10
+          ],
+          "optionBank": {
+            "title": "Types of food poisoning",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi"
+            ],
+            "labels": [
+              "Salmonella",
+              "Staphylococcus aureus (Toxin)",
+              "Clostridium perfringens",
+              "Vibrio parahaemolyticus",
+              "Listeria monocytogenes",
+              "Campylobacter"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "p1g4",
+          "type": "fill-in-blank",
+          "instruction": "Choose NO MORE THAN THREE WORDS from the text for your answer.",
+          "body": "Just under a quarter of waste plastic comes from [[11]] Just over two-thirds of recovered PET was made into [[12]] Plastic bottles are more energy efficient because they are [[13]] Plastic that is thrown away has been found on [[14]] where no people Live.",
+          "range": [
+            11,
+            14
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "questions": [
         {
           "number": 1,
           "type": "true-false-not-given",
-          "prompt": "You can go to prison for a year if you light a fire outside.",
-          "instruction": "Read the notice on total fire bans, and answer questions 1-4. TEXT 1 Read the information sheet 'The facts about plastic', and answer questions 11-14. THE FACTS ABOUT PLASTIC PLASTIC BOTTLES • It takes less energy to manufacture and transport a plastic sauce bottle than a glass sauce bottle, as plastics are lightweight. • It takes 125 recycled plastic milk bottles to manufacture one 140-litre wheelie-bin from recycled plastic. • Over 24 000 tonnes of PET was recovered in Australia last year-that's over 5 7 5 million PET soft drink bottles! Around 18 000 tonnes of these were recycled in Australia- mainly into new soft drink bottles. • It takes 33 000 plastic soft drink bottles to make one tonne of plastic. SAVE OUR OCEANS • There are about 46 000 pieces of plastic floating in each square mile of our oceans. Discarded plastic has even been found on uninhabited South Pacific islands! • It is estimated that plastic kills up to 1 million sea birds, 100 000 sea mammals and countless fish each year, with many getting entangled in plastic six-pack rings, plastic strapping and nylon ropes. • The disposal of plastics into the ocean is prohibited under the international Convention for the Prevention of Pollution from Ships (MARPOL). ​ Questions 1-4 Do the following statements agree with the information given in the text? In boxes 1-4 on your answer sheet, write:",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "You can go to prison for a year if you light a fire",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 2,
           "type": "true-false-not-given",
+          "groupId": "p1g2",
           "prompt": "Fire bans last for two days.",
-          "instruction": "Read the notice on total fire bans, and answer questions 1-4. TEXT 1 Read the information sheet 'The facts about plastic', and answer questions 11-14. THE FACTS ABOUT PLASTIC PLASTIC BOTTLES • It takes less energy to manufacture and transport a plastic sauce bottle than a glass sauce bottle, as plastics are lightweight. • It takes 125 recycled plastic milk bottles to manufacture one 140-litre wheelie-bin from recycled plastic. • Over 24 000 tonnes of PET was recovered in Australia last year-that's over 5 7 5 million PET soft drink bottles! Around 18 000 tonnes of these were recycled in Australia- mainly into new soft drink bottles. • It takes 33 000 plastic soft drink bottles to make one tonne of plastic. SAVE OUR OCEANS • There are about 46 000 pieces of plastic floating in each square mile of our oceans. Discarded plastic has even been found on uninhabited South Pacific islands! • It is estimated that plastic kills up to 1 million sea birds, 100 000 sea mammals and countless fish each year, with many getting entangled in plastic six-pack rings, plastic strapping and nylon ropes. • The disposal of plastics into the ocean is prohibited under the international Convention for the Prevention of Pollution from Ships (MARPOL). ​ Questions 1-4 Do the following statements agree with the information given in the text? In boxes 1-4 on your answer sheet, write:",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 3,
           "type": "true-false-not-given",
-          "prompt": "You can contact your local radio station for more information.",
-          "instruction": "Read the notice on total fire bans, and answer questions 1-4. TEXT 1 Read the information sheet 'The facts about plastic', and answer questions 11-14. THE FACTS ABOUT PLASTIC PLASTIC BOTTLES • It takes less energy to manufacture and transport a plastic sauce bottle than a glass sauce bottle, as plastics are lightweight. • It takes 125 recycled plastic milk bottles to manufacture one 140-litre wheelie-bin from recycled plastic. • Over 24 000 tonnes of PET was recovered in Australia last year-that's over 5 7 5 million PET soft drink bottles! Around 18 000 tonnes of these were recycled in Australia- mainly into new soft drink bottles. • It takes 33 000 plastic soft drink bottles to make one tonne of plastic. SAVE OUR OCEANS • There are about 46 000 pieces of plastic floating in each square mile of our oceans. Discarded plastic has even been found on uninhabited South Pacific islands! • It is estimated that plastic kills up to 1 million sea birds, 100 000 sea mammals and countless fish each year, with many getting entangled in plastic six-pack rings, plastic strapping and nylon ropes. • The disposal of plastics into the ocean is prohibited under the international Convention for the Prevention of Pollution from Ships (MARPOL). ​ Questions 1-4 Do the following statements agree with the information given in the text? In boxes 1-4 on your answer sheet, write:",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "You can contact your local radio station for more",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 4,
           "type": "true-false-not-given",
-          "prompt": "You can use your pizza oven if it is under your patio. Read the information on food poisoning in the table and answer questions 5-10. Look at the information on food poisoning and match the statements with",
-          "instruction": "Read the notice on total fire bans, and answer questions 1-4. TEXT 1 Read the information sheet 'The facts about plastic', and answer questions 11-14. THE FACTS ABOUT PLASTIC PLASTIC BOTTLES • It takes less energy to manufacture and transport a plastic sauce bottle than a glass sauce bottle, as plastics are lightweight. • It takes 125 recycled plastic milk bottles to manufacture one 140-litre wheelie-bin from recycled plastic. • Over 24 000 tonnes of PET was recovered in Australia last year-that's over 5 7 5 million PET soft drink bottles! Around 18 000 tonnes of these were recycled in Australia- mainly into new soft drink bottles. • It takes 33 000 plastic soft drink bottles to make one tonne of plastic. SAVE OUR OCEANS • There are about 46 000 pieces of plastic floating in each square mile of our oceans. Discarded plastic has even been found on uninhabited South Pacific islands! • It is estimated that plastic kills up to 1 million sea birds, 100 000 sea mammals and countless fish each year, with many getting entangled in plastic six-pack rings, plastic strapping and nylon ropes. • The disposal of plastics into the ocean is prohibited under the international Convention for the Prevention of Pollution from Ships (MARPOL). ​ Questions 1-4 Do the following statements agree with the information given in the text? In boxes 1-4 on your answer sheet, write:",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "You can use your pizza oven if it is under your patio.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "Found in seafood.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "Dangerous for pregnant women.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "You can be sick for up to three weeks.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "You can catch this from some common household pets.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "Not usually found in animals.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "You can pick this disease up from the garden and it starts within a few hours.",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iii",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "milk bottles",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "new/soft drink bottles",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "lightweight",
+          "trap": null
+        },
+        {
+          "number": 14,
+          "type": "fill-in-blank",
+          "groupId": "p1g4",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "South Pacific islands",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "ADVICE TO HELP YOU PREVENT",
+      "title": "Reading Passage 2",
       "questionRange": [
         15,
-        21
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nADVICE TO HELP YOU PREVENT\nPLAGIARISM IN YOUR WORK",
-        "tables": [
+        "heading": "TEXT 1",
+        "paragraphs": [
           {
-            "page": 10,
-            "rows": [
-              [
-                "",
-                ""
-              ],
-              [
-                "The Acton Community Health Centre seeks to assist the local community and\nbusinesses with their health-care needs. The centre offers high standards of care in\ngeneral practice as well as specialists in travel medicine and occupational health. This\nexpertise offers solutions for local communities, local businesses and employers,\nmedical specialists and insurers.\nSERVICES AVAILABLE\n• preventative services such as immunisations, well woman examinations and physicals\n• blood tests\n• treatment of chronic medical conditions such as diabetes, asthma, hypertension and\nheart disease\n• pregnancy testing and antenatal care\n• specialised medicals: diving, commercial drivers, aviation and insurance medicals.\nOFFICE HOURS, APPOINTMENTS AND PHYSICIAN REFERRALS\nNew patients may schedule an appointment by calling (317) 555-2611, extension 3310.\nOffice hours are 8:30 am to 5:00 pm, Monday to Friday, although some doctors may see\npatients as early as 7:30 am. Established patients should contact their doctor's\nsecretary for a convenient appointment time or to obtain test results.\nAFTER-HOURS CARE\nPatients needing urgent medical attention when the centre is closed may contact their\nphysician by calling the main clinic telephone number: (317) 555-2611. The clinic's\nanswering service will then contact the physician on call. While it is not usual for\ndoctors to make home visits, in an emergency, such a visit is possible.\nPREVENTIVE MEDICINE\nActon Health Centre has a strong commitment to preventive medicine. The College of\nGeneral Practitioners recommends checkups according to the following schedule:\nFrequency* Who**\nSmoking discussion Annual Smokers\nPhysical activity advice Annual All\nCardio-vascular risk check 2 yearly > 45 years\nBlood pressure check Annual > 18 years\nCholesterol check 2 yearly > 45 years\nDiabetes check Annual > 40 years\nKidney disease check 5 yearly > 50 years\n*Minimum frequency; more often for some at-risk groups",
-                ""
-              ]
-            ],
-            "header": [
-              "",
-              ""
-            ]
+            "label": null,
+            "text": "ADVICE TO HELP YOU PREVENT\nPLAGIARISM IN YOUR WORK"
           },
           {
-            "page": 10,
-            "rows": [
-              [
-                "",
-                "Frequency*",
-                "Who**"
-              ],
-              [
-                "Smoking discussion",
-                "Annual",
-                "Smokers"
-              ],
-              [
-                "Physical activity advice",
-                "Annual",
-                "All"
-              ],
-              [
-                "Cardio-vascular risk check",
-                "2 yearly",
-                "> 45 years"
-              ],
-              [
-                "Blood pressure check",
-                "Annual",
-                "> 18 years"
-              ],
-              [
-                "Cholesterol check",
-                "2 yearly",
-                "> 45 years"
-              ],
-              [
-                "Diabetes check",
-                "Annual",
-                "> 40 years"
-              ],
-              [
-                "Kidney disease check",
-                "5 yearly",
-                "> 50 years"
-              ]
-            ],
-            "header": [
-              "",
-              "Frequency*",
-              "Who**"
-            ]
+            "label": null,
+            "text": "Read the text below and answer questions 15-21."
+          },
+          {
+            "label": null,
+            "text": "A\nYou must clearly indicate which part of your work is drawn from somewhere else.\nParaphrasing is when you use what someone else has said or written, but you write it in\nyour own words. If you paraphrase you must include an in-text citation so that readers\ncan locate the source."
+          },
+          {
+            "label": null,
+            "text": "B\nCarefully selected quotations add to the points you are making, but they don't, in\nthemselves, add to the quality of your work. Put another way, if you submitted an essay\nmade up entirely of quotations from other sources you would probably gain a low or\nzero mark. It is fine to quote other people occasionally, and it is expected that you do-\nbut make sure you provide your own contribution or viewpoint. It is your work that\nearns you marks."
+          },
+          {
+            "label": null,
+            "text": "Direct quotes . . . should always be put inside quotation marks. Longer quotes can be\nindented so they stand apart from the main body of the text. Each quote must be\nfollowed by an in-text citation."
+          },
+          {
+            "label": "C",
+            "text": "Creation is when you produce something new. If you edit an existing item it would still\nneed to be referenced."
+          },
+          {
+            "label": "D",
+            "text": "Make sure you understand what type of referencing protocol you are required to follow\nfor your unit."
+          },
+          {
+            "label": null,
+            "text": "- For text-based assessments you will usually need to include in-text citations and a\nreference list that gives the full details of the source material."
+          },
+          {
+            "label": null,
+            "text": "- For visual-based artefacts or portfolios you will usually need to include a reference list\nthat gives the full details of the sources that you referred to when creating your work,\nanything that you have used and modified must be listed."
+          },
+          {
+            "label": "E",
+            "text": "Always keep your work and the original reference together. Losing the original source of\nthe information is poor academic practice, and it means you might end up submitting\nwork without a reference, or you might end up submitting it with the wrong reference.\nYou could, at any time, be required to produce the original source for comparison."
+          },
+          {
+            "label": "F",
+            "text": "This is very important. If you copy and paste from a source and fail to reference it\nproperly, then you have plagiarised. It doesn't matter whether you did this intentionally\nor not. Depending on the circumstances of the case, plagiarism may be treated as\nacademic misconduct where serious penalties can apply."
+          },
+          {
+            "label": "G",
+            "text": "Often students are encouraged to work together, to cooperate by sharing ideas and\nunderstandings. However, individual assessments (where your name is the only name\non the cover sheet) are meant to be\nyour own work."
+          },
+          {
+            "label": null,
+            "text": "Copying from someone else's work is plagiarism, and serious penalties can apply."
+          },
+          {
+            "label": null,
+            "text": "Do not allow anyone else to submit your work as their own: this is collusion, which is\nconsidered academic\nmisconduct."
+          },
+          {
+            "label": null,
+            "text": "Source: Extracted from checklist contained in Academic"
+          },
+          {
+            "label": null,
+            "text": "Integrity at Curtin: Student Guidelines for Avoiding"
+          },
+          {
+            "label": null,
+            "text": "Plagiarism (2013), a booklet published by Curtin\nUniversity of Technology, Perth, Western Australia,\nhttp://academicintegrity.curtin.edu.au/ global/ studentbook.cfm'"
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer questions 22-27."
+          },
+          {
+            "label": null,
+            "text": "TEXT 2"
+          },
+          {
+            "label": null,
+            "text": "ACTON COMMUNITY HEALTH CENTRE"
+          },
+          {
+            "label": null,
+            "text": "The Acton Community Health Centre seeks to assist the local community and\nbusinesses with their health-care needs. The centre offers high standards of care in\ngeneral practice as well as specialists in travel medicine and occupational health. This\nexpertise offers solutions for local communities, local businesses and employers,\nmedical specialists and insurers."
+          },
+          {
+            "label": null,
+            "text": "SERVICES AVAILABLE"
+          },
+          {
+            "label": null,
+            "text": "- preventative services such as immunisations, well woman examinations and physicals"
+          },
+          {
+            "label": null,
+            "text": "- blood tests"
+          },
+          {
+            "label": null,
+            "text": "- treatment of chronic medical conditions such as diabetes, asthma, hypertension and\nheart disease"
+          },
+          {
+            "label": null,
+            "text": "- pregnancy testing and antenatal care"
+          },
+          {
+            "label": null,
+            "text": "- specialised medicals: diving, commercial drivers, aviation and insurance medicals."
+          },
+          {
+            "label": null,
+            "text": "OFFICE HOURS, APPOINTMENTS AND PHYSICIAN REFERRALS"
+          },
+          {
+            "label": null,
+            "text": "New patients may schedule an appointment by calling (317) 555-2611, extension 3310.\nOffice hours are 8:30 am to 5:00 pm, Monday to Friday, although some doctors may see\npatients as early as 7:30 am. Established patients should contact their doctor's\nsecretary for a convenient appointment time or to obtain test results."
+          },
+          {
+            "label": null,
+            "text": "AFTER-HOURS CARE"
+          },
+          {
+            "label": null,
+            "text": "Patients needing urgent medical attention when the centre is closed may contact their\nphysician by calling the main clinic telephone number: (317) 555-2611. The clinic's\nanswering service will then contact the physician on call. While it is not usual for\ndoctors to make home visits, in an emergency, such a visit is possible."
+          },
+          {
+            "label": null,
+            "text": "PREVENTIVE MEDICINE"
+          },
+          {
+            "label": null,
+            "text": "Acton Health Centre has a strong commitment to preventive medicine. The College of\nGeneral Practitioners recommends checkups according to the following schedule:"
+          },
+          {
+            "label": null,
+            "text": "Frequency*\nWho**"
+          },
+          {
+            "label": null,
+            "text": "Smoking discussion\nAnnual\nSmokers"
+          },
+          {
+            "label": null,
+            "text": "Physical activity advice\nAnnual\nAll"
+          },
+          {
+            "label": null,
+            "text": "Cardio-vascular risk check\n2 yearly\n> 45 years"
+          },
+          {
+            "label": null,
+            "text": "Blood pressure check\nAnnual\n> 18 years"
+          },
+          {
+            "label": null,
+            "text": "Cholesterol check\n2 yearly\n> 45 years"
+          },
+          {
+            "label": null,
+            "text": "Diabetes check\nAnnual\n> 40 years"
+          },
+          {
+            "label": null,
+            "text": "Kidney disease check\n5 yearly\n> 50 years"
+          },
+          {
+            "label": null,
+            "text": "*Minimum frequency; more often for some at-risk groups"
+          },
+          {
+            "label": null,
+            "text": "**For general population; earlier checks necessary for some at-risk groups"
+          },
+          {
+            "label": null,
+            "text": "All consultations at Acton Community Health Centre are completely confidential. We\nnever disclose anything discussed at a consultation to anyone without your permission."
+          },
+          {
+            "label": null,
+            "text": "SCUBA DIVING MEDICALS"
+          },
+          {
+            "label": null,
+            "text": "Because the underwater environment places unique physiological stresses on the body,\nbefore doing a diving course you will need a valid SCUBA Diving Medical Certificate.\nActon Community Health Centre has been performing diving medicals for over 40 years,\ncarrying out a large number each week. For the medical, the doctor will review your\nmedical history, and perform a lung function tests, audiometry (hearing test), a urine\ntest, a physical exam and, in some cases, an ECG (heart tracing)."
           }
         ],
+        "text": "ADVICE TO HELP YOU PREVENT\nPLAGIARISM IN YOUR WORK\n\nRead the text below and answer questions 15-21.\n\nA\nYou must clearly indicate which part of your work is drawn from somewhere else.\nParaphrasing is when you use what someone else has said or written, but you write it in\nyour own words. If you paraphrase you must include an in-text citation so that readers\ncan locate the source.\n\nB\nCarefully selected quotations add to the points you are making, but they don't, in\nthemselves, add to the quality of your work. Put another way, if you submitted an essay\nmade up entirely of quotations from other sources you would probably gain a low or\nzero mark. It is fine to quote other people occasionally, and it is expected that you do-\nbut make sure you provide your own contribution or viewpoint. It is your work that\nearns you marks.\n\nDirect quotes . . . should always be put inside quotation marks. Longer quotes can be\nindented so they stand apart from the main body of the text. Each quote must be\nfollowed by an in-text citation.\n\nCreation is when you produce something new. If you edit an existing item it would still\nneed to be referenced.\n\nMake sure you understand what type of referencing protocol you are required to follow\nfor your unit.\n\n- For text-based assessments you will usually need to include in-text citations and a\nreference list that gives the full details of the source material.\n\n- For visual-based artefacts or portfolios you will usually need to include a reference list\nthat gives the full details of the sources that you referred to when creating your work,\nanything that you have used and modified must be listed.\n\nAlways keep your work and the original reference together. Losing the original source of\nthe information is poor academic practice, and it means you might end up submitting\nwork without a reference, or you might end up submitting it with the wrong reference.\nYou could, at any time, be required to produce the original source for comparison.\n\nThis is very important. If you copy and paste from a source and fail to reference it\nproperly, then you have plagiarised. It doesn't matter whether you did this intentionally\nor not. Depending on the circumstances of the case, plagiarism may be treated as\nacademic misconduct where serious penalties can apply.\n\nOften students are encouraged to work together, to cooperate by sharing ideas and\nunderstandings. However, individual assessments (where your name is the only name\non the cover sheet) are meant to be\nyour own work.\n\nCopying from someone else's work is plagiarism, and serious penalties can apply.\n\nDo not allow anyone else to submit your work as their own: this is collusion, which is\nconsidered academic\nmisconduct.\n\nSource: Extracted from checklist contained in Academic\n\nIntegrity at Curtin: Student Guidelines for Avoiding\n\nPlagiarism (2013), a booklet published by Curtin\nUniversity of Technology, Perth, Western Australia,\nhttp://academicintegrity.curtin.edu.au/ global/ studentbook.cfm'\n\nRead the text below and answer questions 22-27.\n\nTEXT 2\n\nACTON COMMUNITY HEALTH CENTRE\n\nThe Acton Community Health Centre seeks to assist the local community and\nbusinesses with their health-care needs. The centre offers high standards of care in\ngeneral practice as well as specialists in travel medicine and occupational health. This\nexpertise offers solutions for local communities, local businesses and employers,\nmedical specialists and insurers.\n\nSERVICES AVAILABLE\n\n- preventative services such as immunisations, well woman examinations and physicals\n\n- blood tests\n\n- treatment of chronic medical conditions such as diabetes, asthma, hypertension and\nheart disease\n\n- pregnancy testing and antenatal care\n\n- specialised medicals: diving, commercial drivers, aviation and insurance medicals.\n\nOFFICE HOURS, APPOINTMENTS AND PHYSICIAN REFERRALS\n\nNew patients may schedule an appointment by calling (317) 555-2611, extension 3310.\nOffice hours are 8:30 am to 5:00 pm, Monday to Friday, although some doctors may see\npatients as early as 7:30 am. Established patients should contact their doctor's\nsecretary for a convenient appointment time or to obtain test results.\n\nAFTER-HOURS CARE\n\nPatients needing urgent medical attention when the centre is closed may contact their\nphysician by calling the main clinic telephone number: (317) 555-2611. The clinic's\nanswering service will then contact the physician on call. While it is not usual for\ndoctors to make home visits, in an emergency, such a visit is possible.\n\nPREVENTIVE MEDICINE\n\nActon Health Centre has a strong commitment to preventive medicine. The College of\nGeneral Practitioners recommends checkups according to the following schedule:\n\nFrequency*\nWho**\n\nSmoking discussion\nAnnual\nSmokers\n\nPhysical activity advice\nAnnual\nAll\n\nCardio-vascular risk check\n2 yearly\n> 45 years\n\nBlood pressure check\nAnnual\n> 18 years\n\nCholesterol check\n2 yearly\n> 45 years\n\nDiabetes check\nAnnual\n> 40 years\n\nKidney disease check\n5 yearly\n> 50 years\n\n*Minimum frequency; more often for some at-risk groups\n\n**For general population; earlier checks necessary for some at-risk groups\n\nAll consultations at Acton Community Health Centre are completely confidential. We\nnever disclose anything discussed at a consultation to anyone without your permission.\n\nSCUBA DIVING MEDICALS\n\nBecause the underwater environment places unique physiological stresses on the body,\nbefore doing a diving course you will need a valid SCUBA Diving Medical Certificate.\nActon Community Health Centre has been performing diving medicals for over 40 years,\ncarrying out a large number each week. For the medical, the doctor will review your\nmedical history, and perform a lung function tests, audiometry (hearing test), a urine\ntest, a physical exam and, in some cases, an ECG (heart tracing).",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "heading-matching",
+          "instruction": "The text has seven sections: A-G. Choose the correct heading for each",
+          "body": null,
+          "range": [
+            15,
+            21
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "v"
+            ],
+            "labels": [
+              "Everything must be referenced, unless you made it yourself.",
+              "Express others' work your own way and acknowledge that it is not yours.",
+              "Don't say another student's work is yours."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 22-27 on your answer sheet.",
+          "body": "The main focus of the health centre is to ensure simple [[22]] for patients. Patients may be able to see some doctors before [[23]] In an emergency, you should call the [[24]] telephone number. If you are over 45 years of age, you should have a heart check-up and a [[25]] every two years. Patients must give [[26]] for their medical history to be disclosed to a third party. You will need a valid certificate before you undertake a [[27]]",
+          "range": [
+            22,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 15,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "iv",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "heading-matching",
+          "groupId": "p2g1",
+          "prompt": "Section E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
         {
           "number": 20,
           "type": "heading-matching",
+          "groupId": "p2g1",
           "prompt": "Section F",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 A You must clearly indicate which part of your work is drawn from somewhere else. Paraphrasing is when you use what someone else has said or written, but you write it in your own words. If you paraphrase you must include an in-text citation so that readers can locate the source. B Carefully selected quotations add to the points you are making, but they don't, in themselves, add to the quality of your work. Put another way, if you submitted an essay made up entirely of quotations from other sources you would probably gain a low or zero mark. It is fine to quote other people occasionally, and it is expected that you do- but make sure you provide your own contribution or viewpoint. It is your work that earns you marks. Direct quotes . . . should always be put inside quotation marks. Longer quotes can be indented so they stand apart from the main body of the text. Each quote must be followed by an in-text citation. C Creation is when you produce something new. If you edit an existing item it would still need to be referenced. Read the text below and answer questions 22-27. TEXT 2 ACTON COMMUNITY HEALTH CENTRE answering service will then contact the physician on call. While it is not usual for doctors to make home visits, in an emergency, such a visit is possible. PREVENTIVE MEDICINE Acton Health Centre has a strong commitment to preventive medicine. The College of General Practitioners recommends checkups according to the following schedule: Frequency* Who** Smoking discussion Annual Smokers Physical activity advice Annual All Cardio-vascular risk check All consultations at Acton Community Health Centre are completely confidential. We never disclose anything discussed at a consultation to anyone without your permission. SCUBA DIVING MEDICALS Because the underwater environment places unique physiological stresses on the body, before doing a diving course you will need a valid SCUBA Diving Medical Certificate. Acton Community Health Centre has been performing diving medicals for over 40 years, carrying out a large number each week. For the medical, the doctor will review your medical history, and perform a lung function tests, audiometry (hearing test), a urine test, a physical exam and, in some cases, an ECG (heart tracing). Questions 15-21 The text has seven sections: A-G. Choose the correct heading for each section from the list of headings below. Write the correct number i-ix in boxes 15-21 on your answer sheet. List of headings i Everything must be referenced, unless you made it yourself. ii Express others· work your own way and acknowledge that it is not yours. iii It is a bad habit to forget your sources. iv To get better marks, use your own work as much as possible. v Don't say another student's work is yours. vi You can copy work as long as you reference it. vii Note all sources used and reference them in the body of the text also. viii Know where your material comes from and keep the information handy. ix Copying and pasting is plagiarism. 15 Section A 16 Section B 17 Section C 18 Section D 19 Section E",
-          "answer": "vi"
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
         },
         {
           "number": 21,
           "type": "heading-matching",
-          "prompt": "Section G Complete the sentences below. Choose NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 22-27 on your answer sheet.",
-          "instruction": "Read the text below and answer questions 15-21. TEXT 1 A You must clearly indicate which part of your work is drawn from somewhere else. Paraphrasing is when you use what someone else has said or written, but you write it in your own words. If you paraphrase you must include an in-text citation so that readers can locate the source. B Carefully selected quotations add to the points you are making, but they don't, in themselves, add to the quality of your work. Put another way, if you submitted an essay made up entirely of quotations from other sources you would probably gain a low or zero mark. It is fine to quote other people occasionally, and it is expected that you do- but make sure you provide your own contribution or viewpoint. It is your work that earns you marks. Direct quotes . . . should always be put inside quotation marks. Longer quotes can be indented so they stand apart from the main body of the text. Each quote must be followed by an in-text citation. C Creation is when you produce something new. If you edit an existing item it would still need to be referenced. Read the text below and answer questions 22-27. TEXT 2 ACTON COMMUNITY HEALTH CENTRE answering service will then contact the physician on call. While it is not usual for doctors to make home visits, in an emergency, such a visit is possible. PREVENTIVE MEDICINE Acton Health Centre has a strong commitment to preventive medicine. The College of General Practitioners recommends checkups according to the following schedule: Frequency* Who** Smoking discussion Annual Smokers Physical activity advice Annual All Cardio-vascular risk check All consultations at Acton Community Health Centre are completely confidential. We never disclose anything discussed at a consultation to anyone without your permission. SCUBA DIVING MEDICALS Because the underwater environment places unique physiological stresses on the body, before doing a diving course you will need a valid SCUBA Diving Medical Certificate. Acton Community Health Centre has been performing diving medicals for over 40 years, carrying out a large number each week. For the medical, the doctor will review your medical history, and perform a lung function tests, audiometry (hearing test), a urine test, a physical exam and, in some cases, an ECG (heart tracing). Questions 15-21 The text has seven sections: A-G. Choose the correct heading for each section from the list of headings below. Write the correct number i-ix in boxes 15-21 on your answer sheet. List of headings i Everything must be referenced, unless you made it yourself. ii Express others· work your own way and acknowledge that it is not yours. iii It is a bad habit to forget your sources. iv To get better marks, use your own work as much as possible. v Don't say another student's work is yours. vi You can copy work as long as you reference it. vii Note all sources used and reference them in the body of the text also. viii Know where your material comes from and keep the information handy. ix Copying and pasting is plagiarism. 15 Section A 16 Section B 17 Section C 18 Section D 19 Section E",
-          "answer": "v"
+          "groupId": "p2g1",
+          "prompt": "Section G",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "v"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "healthcare",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "8:30 am",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "main clinic",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "every two years.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "cholesterol check",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "permission",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "diving course",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3",
-        "tables": [],
+        "heading": "TROLLEY PSYCHOLOGY",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the following extract and answer questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "Have you ever noticed that when you walk into a shop, you tend to look over or\nveer to the right? Consumer psychologists say this is a classic biological trait,\nlinked to most people's preference for using their right hand. While it's\nsomething we tend to do in shops as well as places such as museums and art\ngalleries, supermarkets really capitalise on this. It's to the right where you'll\nsee temporary displays of products designed to grab your attention and entice\nyou to make a snap purchase. This can be anything from fresh flowers and\nchocolates to umbrellas if it's been raining."
+          },
+          {
+            "label": null,
+            "text": "Consumer psychologist and Senior Lecturer at Deakin University Dr Paul\nHarrison says the location of a store's entry point has a significant effect on\nhow people shop, and even how much they spend. 'Right-hand side entries\nfavour anti-clockwise movement through the shop, while left-hand side entries\nfavour clockwise patterns. Research in the US has shown that shoppers who\ntravel in an anti-clockwise direction will spend, on average, two dollars more\nper trip than clockwise shoppers.'"
+          },
+          {
+            "label": null,
+            "text": "Contrary to popular belief, once we're in the store most of us don't weave up\nand down the aisles in an orderly way. Research conducted on shopper\nmovement patterns in-store · suggests people travel to some aisles only, and\nrarely in a systematic up-and-down pattern. Even longer, planned shopping\ntrips follow this pattern."
+          },
+          {
+            "label": null,
+            "text": "The most common path to travel in-store is around the outside perimeter,\ndipping in and out of the aisles as needed. As a result, the ends of each aisle\nare the most profitable part of the store. Product manufacturers pay big dollars\nto place their products there to grab shoppers' attention, and it's usually\nfamiliar brands that provide the greatest profit margin."
+          },
+          {
+            "label": null,
+            "text": "Many supermarkets micro-manage the various fresh food sections of the shop.\nInstead of approaching the shop as a single entity, they separate areas into\nparticular zones and have developed different marketing plans for each of\nthese areas. These anchor departments usually include fresh fruit and\nvegetables, meat, dairy, and the bakery-and all are designed to give shoppers\na sense of individual difference. Research indicates consumers will spend more\ntime in the supermarket because of these different zones."
+          },
+          {
+            "label": null,
+            "text": "Ever walked into a big supermarket just to buy some bread and milk and found\nyourself leaving with a basket of additional items? A classic retailing trick is to\nlocate the milk and bread at the very back of the store ( often at either end) to\nencourage short-term shoppers to walk right through the shop and be tempted\nby the other, more expensive products along the way."
+          },
+          {
+            "label": null,
+            "text": "According to Harrison, no matter what we might like to think, it's human nature\nto be attracted to a bargain. 'Although we think we know we're being\nmanipulated, we tend to fall for it anyway.' Even the word 'special' plays on our\nsubconscious. 'Just the word sets off a psychological process in your mind\nwhere if something is labelled \"special\" we think it must be good. It also feeds\ninto a theory known as the scarcity effect. This is where we think that if it's on\nspecial, then it must only be available at this shop or for a short time, and we\nafford it more value than the products around it.'"
+          },
+          {
+            "label": null,
+            "text": "Confusion and emotional involvement will have an effect on how long a person\nspends in front of a particular area in the supermarket. You might, for example,\nfind consumers spending a long time in front of the coffee selection area.\nSimilarly, baby food and pet food purchases take longer because of emotional\ninvolvement."
+          },
+          {
+            "label": null,
+            "text": "Soups and dressings often involve long buy times because of the sometimes-\nconfusing variety of options on offer. As a result, long buy-time products are\nplaced where shoppers will not feel hurried, crowded or that they're getting in\nthe way of other customers while they work out what they're going to buy.\nThese product areas will often be clearly marked out in a separate area."
+          },
+          {
+            "label": null,
+            "text": "Take a list. People who shop with a list tend to spend less."
+          },
+          {
+            "label": null,
+            "text": "Shop alone. People who shop as a couple tend to put more in their trolley, as"
+          },
+          {
+            "label": null,
+            "text": "each person will have their own ideas about what's important and should be\npurchased."
+          },
+          {
+            "label": null,
+            "text": "Avoid big supermarkets. Don't shop at a big supermarket if you just want to\ndrop in and pick up a few things-you're much better off in a small store. It\ntakes more effort to get in and out of a big supermarket, and as a result you\nmay feel the need to stock up once you're in there."
+          },
+          {
+            "label": null,
+            "text": "Eat before you shop. Don't shop when you're hungry-it's a sure-fire way to end\nup with a trolley full of unnecessary purchases."
+          },
+          {
+            "label": null,
+            "text": "Source: adapted from Choice.com.au"
+          }
+        ],
+        "text": "Read the following extract and answer questions 28-40.\n\nHave you ever noticed that when you walk into a shop, you tend to look over or\nveer to the right? Consumer psychologists say this is a classic biological trait,\nlinked to most people's preference for using their right hand. While it's\nsomething we tend to do in shops as well as places such as museums and art\ngalleries, supermarkets really capitalise on this. It's to the right where you'll\nsee temporary displays of products designed to grab your attention and entice\nyou to make a snap purchase. This can be anything from fresh flowers and\nchocolates to umbrellas if it's been raining.\n\nConsumer psychologist and Senior Lecturer at Deakin University Dr Paul\nHarrison says the location of a store's entry point has a significant effect on\nhow people shop, and even how much they spend. 'Right-hand side entries\nfavour anti-clockwise movement through the shop, while left-hand side entries\nfavour clockwise patterns. Research in the US has shown that shoppers who\ntravel in an anti-clockwise direction will spend, on average, two dollars more\nper trip than clockwise shoppers.'\n\nContrary to popular belief, once we're in the store most of us don't weave up\nand down the aisles in an orderly way. Research conducted on shopper\nmovement patterns in-store · suggests people travel to some aisles only, and\nrarely in a systematic up-and-down pattern. Even longer, planned shopping\ntrips follow this pattern.\n\nThe most common path to travel in-store is around the outside perimeter,\ndipping in and out of the aisles as needed. As a result, the ends of each aisle\nare the most profitable part of the store. Product manufacturers pay big dollars\nto place their products there to grab shoppers' attention, and it's usually\nfamiliar brands that provide the greatest profit margin.\n\nMany supermarkets micro-manage the various fresh food sections of the shop.\nInstead of approaching the shop as a single entity, they separate areas into\nparticular zones and have developed different marketing plans for each of\nthese areas. These anchor departments usually include fresh fruit and\nvegetables, meat, dairy, and the bakery-and all are designed to give shoppers\na sense of individual difference. Research indicates consumers will spend more\ntime in the supermarket because of these different zones.\n\nEver walked into a big supermarket just to buy some bread and milk and found\nyourself leaving with a basket of additional items? A classic retailing trick is to\nlocate the milk and bread at the very back of the store ( often at either end) to\nencourage short-term shoppers to walk right through the shop and be tempted\nby the other, more expensive products along the way.\n\nAccording to Harrison, no matter what we might like to think, it's human nature\nto be attracted to a bargain. 'Although we think we know we're being\nmanipulated, we tend to fall for it anyway.' Even the word 'special' plays on our\nsubconscious. 'Just the word sets off a psychological process in your mind\nwhere if something is labelled \"special\" we think it must be good. It also feeds\ninto a theory known as the scarcity effect. This is where we think that if it's on\nspecial, then it must only be available at this shop or for a short time, and we\nafford it more value than the products around it.'\n\nConfusion and emotional involvement will have an effect on how long a person\nspends in front of a particular area in the supermarket. You might, for example,\nfind consumers spending a long time in front of the coffee selection area.\nSimilarly, baby food and pet food purchases take longer because of emotional\ninvolvement.\n\nSoups and dressings often involve long buy times because of the sometimes-\nconfusing variety of options on offer. As a result, long buy-time products are\nplaced where shoppers will not feel hurried, crowded or that they're getting in\nthe way of other customers while they work out what they're going to buy.\nThese product areas will often be clearly marked out in a separate area.\n\nTake a list. People who shop with a list tend to spend less.\n\nShop alone. People who shop as a couple tend to put more in their trolley, as\n\neach person will have their own ideas about what's important and should be\npurchased.\n\nAvoid big supermarkets. Don't shop at a big supermarket if you just want to\ndrop in and pick up a few things-you're much better off in a small store. It\ntakes more effort to get in and out of a big supermarket, and as a result you\nmay feel the need to stock up once you're in there.\n\nEat before you shop. Don't shop when you're hungry-it's a sure-fire way to end\nup with a trolley full of unnecessary purchases.\n\nSource: adapted from Choice.com.au",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            33
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            34,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 28,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Shoppers generally move:",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "anti-clockwise around a shop",
+            "clockwise around a shop",
+            "around the edge and go down the aisles when they want something",
+            "up one aisle and down the next."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 29,
-          "type": "matching-features",
-          "prompt": "Why are essential, everyday items generally found at the back of the",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "B"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "Why are essential, everyday items generally found at the back of the shop?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "It's easier for the staff to restock.",
+            "It tempts you to buy more as you walk through the shop.",
+            "Walking through is good exercise for the customer.",
+            "It's cooler at the back and better for fresh food."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 30,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Why are there different fresh food sections in a supermarket?",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "A"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "to make you feel you are visiting more than one shop",
+            "to make you think the staff are experts in these sections",
+            "to provide extra customer service",
+            "to create a stronger aroma."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         },
         {
           "number": 31,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "The word 'special' in a supermarket specifically refers to:",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "D"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "an item you believe must be worthwhile buying",
+            "items you think you cannot buy anywhere else",
+            "items you think might be available for only a short time",
+            "all of the above."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 32,
-          "type": "matching-features",
-          "prompt": "What makes us spend a long time in certain sections of a",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "D"
+          "type": "multiple-choice",
+          "groupId": "p3g1",
+          "prompt": "What makes us spend a long time in certain sections of a supermarket?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "price and freshness",
+            "price and quality",
+            "brand and who we are buying for",
+            "too much choice and who we are buying for."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 33,
-          "type": "matching-features",
+          "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "Which of the following will make you spend more?",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet.",
-          "answer": "C"
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "taking a shopping list",
+            "shopping alone",
+            "shopping in a big store",
+            "having a meal before you go to the supermarket."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 34,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "People spend millions of dollars in supermarkets.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 35,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "People tend to spend more than they intended in",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 36,
           "type": "true-false-not-given",
-          "prompt": "Bread and milk are usually more expensive than other items in the store.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "FALSE",
+          "groupId": "p3g2",
+          "prompt": "Bread and milk are usually more expensive than other\nitems in the store.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 37,
           "type": "true-false-not-given",
-          "prompt": "You will usually save money by going on one big shopping trip, less frequently.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "You will usually save money by going on one big\nshopping trip, less frequently.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 38,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "Bread and milk are usually found together.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 39,
           "type": "true-false-not-given",
-          "prompt": "Left-handed people tend to walk over to the left in a shop.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p3g2",
+          "prompt": "Left-handed people tend to walk over to the left in a\nshop.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 40,
           "type": "true-false-not-given",
+          "groupId": "p3g2",
           "prompt": "Most shoppers can't resist a bargain.",
-          "instruction": "Read the following extract and answer questions 28-40. TROLLEY PSYCHOLOGY Have you ever noticed that when you walk into a shop, you tend to look over or veer to the right? Consumer psychologists say this is a classic biological trait, linked to most people's preference for using their right hand. While it's something we tend to do in shops as well as places such as museums and art galleries, supermarkets really capitalise on this. It's to the right where you'll see temporary displays of products designed to grab your attention and entice you to make a snap purchase. This can be anything from fresh flowers and chocolates to umbrellas if it's been raining. Consumer psychologist and Senior Lecturer at Deakin University Dr Paul Harrison says the location of a store's entry point has a significant effect on how people shop, and even how much they spend. 'Right-hand side entries favour anti-clockwise movement through the shop, while left-hand side entries favour clockwise patterns. Research in the US has shown that shoppers who travel in an anti-clockwise direction will spend, on average, two dollars more per trip than clockwise shoppers.' Contrary to popular belief, once we're in the store most of us don't weave up and down the aisles in an orderly way. Research conducted on shopper movement patterns in-store · suggests people travel to some aisles only, and rarely in a systematic up-and-down pattern. Even longer, planned shopping trips follow this pattern. Choose the appropriate letters A-D and write them in boxes 28-33 in your answer sheet. Do the following statements agree with the information given in the text? In boxes 34-40 on your answer sheet, write: TRUE",
-          "answer": "TRUE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         }
       ]
     }

@@ -1,87 +1,892 @@
 {
   "id": "ielts-mock-test-2023-october_reading-practice-test-2-v9-18836439",
   "type": "academic",
-  "source": "ielts-mock-test-2023-october reading-practice-test-2-v9-18836439",
+  "title": "IELTS Academic 2023 October - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 2,
+  "year": 2023,
+  "month": 10,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-october_reading-practice-test-2-v9-18836439.pdf",
-  "total_questions": 0,
+  "totalQuestions": 40,
+  "answeredCount": 27,
+  "status": "partial",
+  "durationSeconds": 3600,
   "parts": [
     {
+      "partNumber": 1,
+      "title": "Reading Passage 1",
+      "questionRange": [
+        1,
+        13
+      ],
+      "timeSuggestion": 20,
+      "passage": {
+        "heading": "",
+        "paragraphs": [],
+        "text": "",
+        "images": [],
+        "tables": []
+      },
+      "questionGroups": [],
+      "questions": [
+        {
+          "number": 1,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "fill-in-blank",
+          "groupId": null,
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "",
+          "trap": null
+        }
+      ]
+    },
+    {
       "partNumber": 2,
-      "title": "Natural pesticide in India",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on\nReading Passage 2 below.\nNatural pesticide in India\nA\nA dramatic story about cotton farmers in India shows how destructive\npesticides can be for people and the environment; and why today’s agriculture\nis so dependent on pesticides. This story also shows that it’s possible to stop\nusing chemical pesticides without losing a crop to ravaging insects, and it\nexplains how to do it.\nB\nThe story began about 30 years ago, a handful of families migrated from the\nGuntur district of Andhra Pradesh, southeast India, into Punukula, a community\nof around 900 people farming plots of between two and 10 acres. The outsiders\nfrom Guntur brought cotton-culture with them. Cotton wooed farmers by\npromising to bring in more hard cash than the mixed crops they were already\ngrowing to eat and sell: millet, sorghum, groundnuts, pigeon peas, mung\nbeans, chili and rice. But raising cotton meant using pesticides and fertilizers –\nuntil then a mystery to the mostly illiterate farmers of the community. When\ncotton production started spreading through Andhra Pradesh state. The high\nvalue of cotton made it an exceptionally attractive crop, but growing cotton\nrequired chemical fertilizers and pesticides. As most of the farmers were poor,\nilliterate, and without previous experience using agricultural chemicals, they\nwere forced to rely on local, small-scale agricultural dealers for advice. The\ndealers sold them seeds, fertilizers, and pesticides on credit and also\nguaranteed the purchase of their crop. The dealers themselves had little\ntechnical knowledge about pesticides. They merely passed on promotional\n\ninformation from multinational chemical companies that supplied their\nproducts.\nC\nAt first, cotton yields were high, and expenses for pesticides were low because\ncotton pests had not yet moved in. The farmers had never earned so much! But\nwithin a few years, cotton pests like bollworms and aphids plagued the fields,\nand the farmers saw how rapid insect evolution can be. Repeated spraying\nkilled off the weaker pests, but left the ones most resistant to pesticides to\nmultiply. As pesticide resistance mounted, the farmers had to apply more and\nmore of the pesticides to get the same results. At the same time, the pesticides\nkilled off birds, wasps, beetles, spiders, and other predators that had once\nprovided natural control of pest insects. Without these predators, the pests\ncould destroy the entire crop if pesticides were not used. Eventually, farmers\nwere mixing sometimes having to spray their cotton as frequently as two times\na week. They were really hooked!\nD\nThe villagers were hesitant, but one of Punukula’s village elders decided to risk\ntrying the natural methods instead of pesticides. His son had collapsed with\nacute pesticide poisoning and survived but the hospital bill was staggering.\nSECURE’s staff coached this villager on how to protect his cotton crop by using\na toolkit of natural methods chat India’s Center for Sustainable Agriculture put\ntogether in collaboration with scientists at Andhra Pradesh’s state university.\nThey called the toolkit “Non-Pesticide Management” – or “NPM.”\nE\nThe most important resource in the NPM toolkit was the neem tree (Azadirachta\nindica) which is common throughout much of India. Neem tree is a broad-\nleaved evergreen tree related to mahogany. It protects itself against insects by\nproducing a multitude of natural pesticides that work in a variety of ways: with\nan arsenal of chemical defenses that repel egg-laying, interfere with insect\ngrowth, and most important, disrupt the ability of crop-eating insects to sense\ntheir food.\nF\nIn fact, neem has been used traditionally in India to protect stored grains from\ninsects and to produce soaps, skin lotions, and other health products. To\nprotect crops from insects, neem seeds are simply ground into a powder that is\nsoaked overnight in water. The solution is then sprayed onto the crop. Another\npreparation, neem cake, can be mixed into the soil to kill pests and diseases in",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Natural pesticide in India"
+          },
           {
             "label": "A",
-            "content": "A dramatic story about cotton farmers in India shows how destructive"
+            "text": "A dramatic story about cotton farmers in India shows how destructive\npesticides can be for people and the environment; and why today's agriculture\nis so dependent on pesticides. This story also shows that it's possible to stop\nusing chemical pesticides without losing a crop to ravaging insects, and it\nexplains how to do it."
           },
           {
             "label": "B",
-            "content": "The story began about 30 years ago, a handful of families migrated from the"
+            "text": "The story began about 30 years ago, a handful of families migrated from the\nGuntur district of Andhra Pradesh, southeast India, into Punukula, a community\nof around 900 people farming plots of between two and 10 acres. The outsiders\nfrom Guntur brought cotton-culture with them. Cotton wooed farmers by\npromising to bring in more hard cash than the mixed crops they were already\ngrowing to eat and sell: millet, sorghum, groundnuts, pigeon peas, mung\nbeans, chili and rice. But raising cotton meant using pesticides and fertilizers -\nuntil then a mystery to the mostly illiterate farmers of the community. When\ncotton production started spreading through Andhra Pradesh state. The high\nvalue of cotton made it an exceptionally attractive crop, but growing cotton\nrequired chemical fertilizers and pesticides. As most of the farmers were poor,\nilliterate, and without previous experience using agricultural chemicals, they\nwere forced to rely on local, small-scale agricultural dealers for advice. The\ndealers sold them seeds, fertilizers, and pesticides on credit and also\nguaranteed the purchase of their crop. The dealers themselves had little\ntechnical knowledge about pesticides. They merely passed on promotional"
+          },
+          {
+            "label": null,
+            "text": "information from multinational chemical companies that supplied their\nproducts."
           },
           {
             "label": "C",
-            "content": "At first, cotton yields were high, and expenses for pesticides were low because"
+            "text": "At first, cotton yields were high, and expenses for pesticides were low because\ncotton pests had not yet moved in. The farmers had never earned so much! But\nwithin a few years, cotton pests like bollworms and aphids plagued the fields,\nand the farmers saw how rapid insect evolution can be. Repeated spraying\nkilled off the weaker pests, but left the ones most resistant to pesticides to\nmultiply. As pesticide resistance mounted, the farmers had to apply more and\nmore of the pesticides to get the same results. At the same time, the pesticides\nkilled off birds, wasps, beetles, spiders, and other predators that had once\nprovided natural control of pest insects. Without these predators, the pests\ncould destroy the entire crop if pesticides were not used. Eventually, farmers\nwere mixing sometimes having to spray their cotton as frequently as two times\na week. They were really hooked!"
           },
           {
             "label": "D",
-            "content": "The villagers were hesitant, but one of Punukula’s village elders decided to risk"
+            "text": "The villagers were hesitant, but one of Punukula's village elders decided to risk\ntrying the natural methods instead of pesticides. His son had collapsed with\nacute pesticide poisoning and survived but the hospital bill was staggering.\nSECURE's staff coached this villager on how to protect his cotton crop by using\na toolkit of natural methods chat India's Center for Sustainable Agriculture put\ntogether in collaboration with scientists at Andhra Pradesh's state university.\nThey called the toolkit \"Non-Pesticide Management\" - or \"NPM.\""
           },
           {
             "label": "E",
-            "content": "The most important resource in the NPM toolkit was the neem tree (Azadirachta"
+            "text": "The most important resource in the NPM toolkit was the neem tree (Azadirachta\nindica) which is common throughout much of India. Neem tree is a broad-\nleaved evergreen tree related to mahogany. It protects itself against insects by\nproducing a multitude of natural pesticides that work in a variety of ways: with\nan arsenal of chemical defenses that repel egg-laying, interfere with insect\ngrowth, and most important, disrupt the ability of crop-eating insects to sense\ntheir food."
           },
           {
             "label": "F",
-            "content": "In fact, neem has been used traditionally in India to protect stored grains from"
-          }
-        ]
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "the soil, and it doubles as an organic fertilizer high in nitrogen. Neem trees",
-      "questionRange": [
-        14,
-        17
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "the soil, and it doubles as an organic fertilizer high in nitrogen. Neem trees\ngrow locally, so the only “cost” is the labor to prepare neem for application to\nfields.\nG\nThe first farmer’s trial with NPM was a complete success! His harvest was as\ngood as the harvests of farmers that were using pesticides, and he earned\nmuch more because he did not spend a single rupee on pesticides. Inspired by\nthis success, 20 farmers tried NPM the next year. SECURE posted two well-\ntrained staff in Punukula to teach and help everyone in the village, and the\nvillage women put pressure on their husbands to stop using toxic chemicals.\nFamilies that were no longer exposing themselves to pesticides began to feel\nmuch better, and the rapid improvement in income, health, and general\nwellbeing quickly sold everyone on the value of NPM. By 2000, all the farmers\nin Punukula were using NPM, not only for cotton but for their other crops as\nwell.\nH\nThe suicide epidemic came to an end. And with the cash, health, and energy\nthat returned when they stopped poisoning themselves with pesticides, the\nvillagers were inspired to start more community and business projects. The\nwomen of Punukula created a new source of income by collecting, grinding,\nand selling neem seeds for NPM in other villages. The villagers rescued their\nindentured children and gave them special six-month “catch-up,” courses to\nreturn to school.\nI\nFighting against pesticides, and winning, increased village solidarity, self-\nconfidence, and optimism about the future. When dealers tried to punish NPM\nusers by paying less for NPM cotton, the farmers united to form a marketing\ncooperative that found fairer prices elsewhere. The leadership and\ncollaboration skills that the citizens of Punukula developed in the NPM struggle\nhave helped them to take on other challenges, like water purification, building\na cotton gin to add value to the cotton before they sell it, and convincing the\nstate government to support NPM over the objection of multi-national pesticide\ncorporations.\nQuestions 14-17\nDo the following statements agree with the information given in Reading\nPassage 1?\n\nQuestions 18-24\nQuestions 25-26\nIn boxes 14-15 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n14\n Cotton in Andhra Pradesh state could really bring\nmore income to the local farmers than traditional farming.\n15\n The majority of farmers had used agricultural\npesticides before 30 years ago.\n16\n The yield of cotton is relatively lower than that of\nother agricultural crops.\n17\n The farmers didn’t realize the spread of the pests was\nso fast.\nComplete the summary below\nChoose NO MORE THAN TWO WORDS from the passage for each\nanswer\nWrite your answers in boxes 18-24 on your answer sheet.\nThe Making of pesticide protecting crops against insects\nThe broad-leaved neem tree was chosen. It is a fast-growing and \n18\n tree and produces an amount of 19\n for itself that can\nbe effective like insects repellent. Firstly, neem seeds need to be crushed\ninto 20\n form, which is left behind 21\n in water. Then we\nneed to spray the solution onto the crop. A special 22\n is used\nwhen mixing with soil in order to eliminate bugs and bacteria, and its\neffect 23\n when it adds the level of 24\n 1 in this organic\nfertilizer meanwhile.\nAnswer the questions below\n\nChoose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the\npassage for each answer.\nWrite your answers in boxes 25-26 on your answer sheet.\nIn which year did all the farmers use NPM for their crops in Punukala?\n25\nWhat gave the women of Punukula a business opportunity to NPMs?\n26",
-        "tables": [],
-        "images": [],
-        "sections": [
+            "text": "In fact, neem has been used traditionally in India to protect stored grains from\ninsects and to produce soaps, skin lotions, and other health products. To\nprotect crops from insects, neem seeds are simply ground into a powder that is\nsoaked overnight in water. The solution is then sprayed onto the crop. Another\npreparation, neem cake, can be mixed into the soil to kill pests and diseases in"
+          },
+          {
+            "label": null,
+            "text": "the soil, and it doubles as an organic fertilizer high in nitrogen. Neem trees\ngrow locally, so the only \"cost\" is the labor to prepare neem for application to\nfields."
+          },
           {
             "label": "G",
-            "content": "The first farmer’s trial with NPM was a complete success! His harvest was as"
+            "text": "The first farmer's trial with NPM was a complete success! His harvest was as\ngood as the harvests of farmers that were using pesticides, and he earned\nmuch more because he did not spend a single rupee on pesticides. Inspired by\nthis success, 20 farmers tried NPM the next year. SECURE posted two well-\ntrained staff in Punukula to teach and help everyone in the village, and the\nvillage women put pressure on their husbands to stop using toxic chemicals.\nFamilies that were no longer exposing themselves to pesticides began to feel\nmuch better, and the rapid improvement in income, health, and general\nwellbeing quickly sold everyone on the value of NPM. By 2000, all the farmers\nin Punukula were using NPM, not only for cotton but for their other crops as\nwell."
+          },
+          {
+            "label": "H",
+            "text": "The suicide epidemic came to an end. And with the cash, health, and energy\nthat returned when they stopped poisoning themselves with pesticides, the\nvillagers were inspired to start more community and business projects. The\nwomen of Punukula created a new source of income by collecting, grinding,\nand selling neem seeds for NPM in other villages. The villagers rescued their\nindentured children and gave them special six-month \"catch-up,\" courses to\nreturn to school."
+          },
+          {
+            "label": "I",
+            "text": "Fighting against pesticides, and winning, increased village solidarity, self-\nconfidence, and optimism about the future. When dealers tried to punish NPM\nusers by paying less for NPM cotton, the farmers united to form a marketing\ncooperative that found fairer prices elsewhere. The leadership and\ncollaboration skills that the citizens of Punukula developed in the NPM struggle\nhave helped them to take on other challenges, like water purification, building\na cotton gin to add value to the cotton before they sell it, and convincing the\nstate government to support NPM over the objection of multi-national pesticide\ncorporations."
           }
-        ]
+        ],
+        "text": "Natural pesticide in India\n\nA dramatic story about cotton farmers in India shows how destructive\npesticides can be for people and the environment; and why today's agriculture\nis so dependent on pesticides. This story also shows that it's possible to stop\nusing chemical pesticides without losing a crop to ravaging insects, and it\nexplains how to do it.\n\nThe story began about 30 years ago, a handful of families migrated from the\nGuntur district of Andhra Pradesh, southeast India, into Punukula, a community\nof around 900 people farming plots of between two and 10 acres. The outsiders\nfrom Guntur brought cotton-culture with them. Cotton wooed farmers by\npromising to bring in more hard cash than the mixed crops they were already\ngrowing to eat and sell: millet, sorghum, groundnuts, pigeon peas, mung\nbeans, chili and rice. But raising cotton meant using pesticides and fertilizers -\nuntil then a mystery to the mostly illiterate farmers of the community. When\ncotton production started spreading through Andhra Pradesh state. The high\nvalue of cotton made it an exceptionally attractive crop, but growing cotton\nrequired chemical fertilizers and pesticides. As most of the farmers were poor,\nilliterate, and without previous experience using agricultural chemicals, they\nwere forced to rely on local, small-scale agricultural dealers for advice. The\ndealers sold them seeds, fertilizers, and pesticides on credit and also\nguaranteed the purchase of their crop. The dealers themselves had little\ntechnical knowledge about pesticides. They merely passed on promotional\n\ninformation from multinational chemical companies that supplied their\nproducts.\n\nAt first, cotton yields were high, and expenses for pesticides were low because\ncotton pests had not yet moved in. The farmers had never earned so much! But\nwithin a few years, cotton pests like bollworms and aphids plagued the fields,\nand the farmers saw how rapid insect evolution can be. Repeated spraying\nkilled off the weaker pests, but left the ones most resistant to pesticides to\nmultiply. As pesticide resistance mounted, the farmers had to apply more and\nmore of the pesticides to get the same results. At the same time, the pesticides\nkilled off birds, wasps, beetles, spiders, and other predators that had once\nprovided natural control of pest insects. Without these predators, the pests\ncould destroy the entire crop if pesticides were not used. Eventually, farmers\nwere mixing sometimes having to spray their cotton as frequently as two times\na week. They were really hooked!\n\nThe villagers were hesitant, but one of Punukula's village elders decided to risk\ntrying the natural methods instead of pesticides. His son had collapsed with\nacute pesticide poisoning and survived but the hospital bill was staggering.\nSECURE's staff coached this villager on how to protect his cotton crop by using\na toolkit of natural methods chat India's Center for Sustainable Agriculture put\ntogether in collaboration with scientists at Andhra Pradesh's state university.\nThey called the toolkit \"Non-Pesticide Management\" - or \"NPM.\"\n\nThe most important resource in the NPM toolkit was the neem tree (Azadirachta\nindica) which is common throughout much of India. Neem tree is a broad-\nleaved evergreen tree related to mahogany. It protects itself against insects by\nproducing a multitude of natural pesticides that work in a variety of ways: with\nan arsenal of chemical defenses that repel egg-laying, interfere with insect\ngrowth, and most important, disrupt the ability of crop-eating insects to sense\ntheir food.\n\nIn fact, neem has been used traditionally in India to protect stored grains from\ninsects and to produce soaps, skin lotions, and other health products. To\nprotect crops from insects, neem seeds are simply ground into a powder that is\nsoaked overnight in water. The solution is then sprayed onto the crop. Another\npreparation, neem cake, can be mixed into the soil to kill pests and diseases in\n\nthe soil, and it doubles as an organic fertilizer high in nitrogen. Neem trees\ngrow locally, so the only \"cost\" is the labor to prepare neem for application to\nfields.\n\nThe first farmer's trial with NPM was a complete success! His harvest was as\ngood as the harvests of farmers that were using pesticides, and he earned\nmuch more because he did not spend a single rupee on pesticides. Inspired by\nthis success, 20 farmers tried NPM the next year. SECURE posted two well-\ntrained staff in Punukula to teach and help everyone in the village, and the\nvillage women put pressure on their husbands to stop using toxic chemicals.\nFamilies that were no longer exposing themselves to pesticides began to feel\nmuch better, and the rapid improvement in income, health, and general\nwellbeing quickly sold everyone on the value of NPM. By 2000, all the farmers\nin Punukula were using NPM, not only for cotton but for their other crops as\nwell.\n\nThe suicide epidemic came to an end. And with the cash, health, and energy\nthat returned when they stopped poisoning themselves with pesticides, the\nvillagers were inspired to start more community and business projects. The\nwomen of Punukula created a new source of income by collecting, grinding,\nand selling neem seeds for NPM in other villages. The villagers rescued their\nindentured children and gave them special six-month \"catch-up,\" courses to\nreturn to school.\n\nFighting against pesticides, and winning, increased village solidarity, self-\nconfidence, and optimism about the future. When dealers tried to punish NPM\nusers by paying less for NPM cotton, the farmers united to form a marketing\ncooperative that found fairer prices elsewhere. The leadership and\ncollaboration skills that the citizens of Punukula developed in the NPM struggle\nhave helped them to take on other challenges, like water purification, building\na cotton gin to add value to the cotton before they sell it, and convincing the\nstate government to support NPM over the objection of multi-national pesticide\ncorporations.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "fill-in-blank",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 14-15 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": "[[14]] Cotton in Andhra Pradesh state could really bring more income to the local farmers than traditional farming. [[15]] The majority of farmers had used agricultural pesticides before 30 years ago. [[16]] The yield of cotton is relatively lower than that of other agricultural crops. [[17]] The farmers didn't realize the spread of the pests was so fast.",
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below Choose NO MORE THAN TWO WORDS from the passage for each answer Write your answers in boxes 18-24 on your answer sheet. The Making of pesticide protecting crops against insects The broad-leaved neem tree was chosen. It is a fast-growing and",
+          "body": "[[18]] tree and produces an amount of [[19]] for itself that can be effective like insects repellent. Firstly, neem seeds need to be crushed into [[20]] form, which is left behind [[21]] in water. Then we need to spray the solution onto the crop. A special [[22]] is used when mixing with soil in order to eliminate bugs and bacteria, and its effect [[23]] when it adds the level of [[24]] 1 in this organic fertilizer meanwhile.",
+          "range": [
+            18,
+            24
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "fill-in-blank",
+          "instruction": "Answer the questions below Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 25-26 on your answer sheet. In which year did all the farmers use NPM for their crops in Punukala?",
+          "body": "[[25]] What gave the women of Punukula a business opportunity to NPMs? [[26]]",
+          "range": [
+            25,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            25,
+            26
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "Cotton in Andhra Pradesh state could really bring\nmore income to the local farmers than traditional farming.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "The majority of farmers had used agricultural\npesticides before 30 years ago.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "The yield of cotton is relatively lower than that of\nother agricultural crops.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "fill-in-blank",
+          "groupId": "p2g1",
+          "prompt": "The farmers didn't realize the spread of the pests was\nso fast.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "tree and produces an amount of 19\n for itself that can\nbe effective like insects repellent. Firstly, neem seeds need to be crushed",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "evergreen",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "natural pesticides",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "powder",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "overnight",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "neem cake",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "doubles",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "nitrogen",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "fill-in-blank",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "In 2000",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "fill-in-blank",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Neem seeds",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Sunset for the Oil Business"
+          },
+          {
+            "label": null,
+            "text": "The world is about to run out of oil. Or perhaps not. It depends whom you\nbelieve..."
+          },
+          {
+            "label": "A",
+            "text": "Members of the Department Analysis Centre (ODAC) recently met in London\nand presented technical data that support their grim forecast that the world is\nperilously close to running out of oil. Leading lights of this moment, including\nthe geologists Colin Campbell, rejected rival views presented by American\ngeological survey and the international energy agency that contradicted their\nfindings. Dr Campbell even decried the amazing display of ignorance, denial\nand obfuscation by government, industry and academics on this topic."
+          },
+          {
+            "label": "B",
+            "text": "So is the oil really running out? The answer is easy: Yes. Nobody seriously\ndisputes the notion that oil is, for all practical purposes, a non-renewable\nresource that will run out someday, be that years or decades away. The harder\nquestion is determining when precisely oil will begin to get scarce. And\nanswering that question involves scaling Hubbert's peak."
+          },
+          {
+            "label": "C",
+            "text": "M. King Hubbert, a Shell geologist of legendary status among depletion\nexperts, forecast in 1956 that oil production in the United States would peak in\nthe early 1970s and then slowly decline, in something resembling a bell-\nshaped curve. At the time, his forecast was controversial, and many rubbished\nit. After 1970, however, empirical evidence proved him correct: oil production"
+          },
+          {
+            "label": null,
+            "text": "in America did indeed peak and has been in decline ever since."
+          },
+          {
+            "label": "D",
+            "text": "Dr Hubbert's analysis drew on the observation that oil production in a new area\ntypically rises quickly at first, as the easiest and cheapest reserves are tapped.\nOver time, reservoirs age and go into decline, and so lifting oil becomes more\nexpensive. Oil from that area then becomes less competitive in relation to\nother fuels, or to oil from other areas. As a result, production slows down and\nusually tapers off and declines. That, he argued, made for a bell-shaped curve."
+          },
+          {
+            "label": "E",
+            "text": "His successful prediction has emboldened a new generation of geologists to\napply his methodology on a global scale. Chief among them are the experts at\nODAC, who worry that the global peak in production will come in the next\ndecade. Dr Campbell used to argue that the peak should have come already;\nhe now thinks it is just around the corner. A heavyweight has now joined this\ngloomy chorus. Kenneth Deffeyes of Princeton University argues in a lively new\nbook (\"The View from Hubbert's Peak\") that global oil production could peak as\nsoon as 2004."
+          },
+          {
+            "label": "F",
+            "text": "That sharply contradicts mainstream thinking. America's Geological Survey\nprepared an exhaustive study of oil depletion last year (in part to rebut Dr\nCampbell's arguments) that put the peak of production some decades off. The\nIEA has just weighed in with its new \"World Energy Outlook\", which foresees\nenough oil to comfortably meet the demand to 2020 from remaining reserves.\nRené Dahan, one of ExxonMobil's top managers, goes further: with an\nassurance characteristic of the world's largest energy company, he insists that\nthe world will be awash in oil for another 70 years."
+          },
+          {
+            "label": "G",
+            "text": "Who is right? In making sense of these wildly opposing views, it is useful to\nlook back at the pitiful history of oil forecasting. Doomsters have been\npredicting dry wells since the 1970s, but so far the oil is still gushing. Nearly all\nthe predictions for 2000 made after the 1970s oil shocks were far too\npessimistic. America's Department of Energy thought that oil would reach $150\na barrel (at 2000 prices); even Exxon predicted a price of $100."
+          },
+          {
+            "label": "H",
+            "text": "Michael Lynch of DRI-WEFA, an economic consultancy, is one of the few oil\nforecasters who has got things generally right. In a new paper, Dr Lynch"
+          },
+          {
+            "label": null,
+            "text": "analyses those historical forecasts. He finds evidence of both bias and\nrecurring errors, which suggests that methodological mistakes (rather than just\npoor data) were the problem. In particular, he faults forecasters who used\nHubbert-style analysis for relying on fixed estimates of how much \"ultimately\nrecoverable\" oil there really is below ground, in the industry's jargon: that\nfigure, he insists, is actually a dynamic one, as improvements in infrastructure,\nknowledge and technology raise the amount of oil which is recoverable."
+          },
+          {
+            "label": "I",
+            "text": "That points to what will probably determine whether the pessimists or the\noptimists are right: technological innovation. The first camp tends to be\ndismissive of claims of forthcoming technological revolutions in such areas as\ndeep-water drilling and enhanced recovery. Dr Deffeyes captures this end-of-\ntechnology mindset well. He argues that because the industry has already\nspent billions on technology development, it makes it difficult to ask today for\nnew technology, as most of the wheels have already been invented."
+          },
+          {
+            "label": "J",
+            "text": "Yet techno-optimists argue that the technological revolution in oil has only just\nbegun. Average recovery rates (how much of the known oil in a reservoir can\nactually be brought to the surface) are still only around 30-35%. Industry\noptimists believe that new techniques on the drawing board today could lift\nthat figure to 50-60% within a decade."
+          },
+          {
+            "label": "K",
+            "text": "Given the industry's astonishing track record of innovation, it may be foolish to\nbet against it. That is the result of adversity: the nationalisations of the 1970s\nforced Big Oil to develop reserves in expensive, inaccessible places such as the\nNorth Sea and Alaska, undermining Dr Hubbert's assumption that cheap\nreserves are developed first. The resulting upstream investments have driven\ndown the cost of finding and developing wells over the last two decades from\nover $20 a barrel to around $6 a barrel. The cost of producing oil has fallen by\nhalf, to under $4 a barrel."
+          },
+          {
+            "label": "L",
+            "text": "Such miracles will not come cheap, however, since much of the world's oil is\nnow produced in ageing fields that are rapidly declining. The IEA concludes\nthat global oil production need not peak in the next two decades if the\nnecessary investments are made. So how much is necessary? If oil companies\nare to replace the output lost at those ageing fields and meet the world's ever-\nrising demand for oil, the agency reckons they must invest $1 trillion in non-"
+          },
+          {
+            "label": null,
+            "text": "OPEC countries over the next decade alone. That's quite a figure."
+          }
+        ],
+        "text": "Sunset for the Oil Business\n\nThe world is about to run out of oil. Or perhaps not. It depends whom you\nbelieve...\n\nMembers of the Department Analysis Centre (ODAC) recently met in London\nand presented technical data that support their grim forecast that the world is\nperilously close to running out of oil. Leading lights of this moment, including\nthe geologists Colin Campbell, rejected rival views presented by American\ngeological survey and the international energy agency that contradicted their\nfindings. Dr Campbell even decried the amazing display of ignorance, denial\nand obfuscation by government, industry and academics on this topic.\n\nSo is the oil really running out? The answer is easy: Yes. Nobody seriously\ndisputes the notion that oil is, for all practical purposes, a non-renewable\nresource that will run out someday, be that years or decades away. The harder\nquestion is determining when precisely oil will begin to get scarce. And\nanswering that question involves scaling Hubbert's peak.\n\nM. King Hubbert, a Shell geologist of legendary status among depletion\nexperts, forecast in 1956 that oil production in the United States would peak in\nthe early 1970s and then slowly decline, in something resembling a bell-\nshaped curve. At the time, his forecast was controversial, and many rubbished\nit. After 1970, however, empirical evidence proved him correct: oil production\n\nin America did indeed peak and has been in decline ever since.\n\nDr Hubbert's analysis drew on the observation that oil production in a new area\ntypically rises quickly at first, as the easiest and cheapest reserves are tapped.\nOver time, reservoirs age and go into decline, and so lifting oil becomes more\nexpensive. Oil from that area then becomes less competitive in relation to\nother fuels, or to oil from other areas. As a result, production slows down and\nusually tapers off and declines. That, he argued, made for a bell-shaped curve.\n\nHis successful prediction has emboldened a new generation of geologists to\napply his methodology on a global scale. Chief among them are the experts at\nODAC, who worry that the global peak in production will come in the next\ndecade. Dr Campbell used to argue that the peak should have come already;\nhe now thinks it is just around the corner. A heavyweight has now joined this\ngloomy chorus. Kenneth Deffeyes of Princeton University argues in a lively new\nbook (\"The View from Hubbert's Peak\") that global oil production could peak as\nsoon as 2004.\n\nThat sharply contradicts mainstream thinking. America's Geological Survey\nprepared an exhaustive study of oil depletion last year (in part to rebut Dr\nCampbell's arguments) that put the peak of production some decades off. The\nIEA has just weighed in with its new \"World Energy Outlook\", which foresees\nenough oil to comfortably meet the demand to 2020 from remaining reserves.\nRené Dahan, one of ExxonMobil's top managers, goes further: with an\nassurance characteristic of the world's largest energy company, he insists that\nthe world will be awash in oil for another 70 years.\n\nWho is right? In making sense of these wildly opposing views, it is useful to\nlook back at the pitiful history of oil forecasting. Doomsters have been\npredicting dry wells since the 1970s, but so far the oil is still gushing. Nearly all\nthe predictions for 2000 made after the 1970s oil shocks were far too\npessimistic. America's Department of Energy thought that oil would reach $150\na barrel (at 2000 prices); even Exxon predicted a price of $100.\n\nMichael Lynch of DRI-WEFA, an economic consultancy, is one of the few oil\nforecasters who has got things generally right. In a new paper, Dr Lynch\n\nanalyses those historical forecasts. He finds evidence of both bias and\nrecurring errors, which suggests that methodological mistakes (rather than just\npoor data) were the problem. In particular, he faults forecasters who used\nHubbert-style analysis for relying on fixed estimates of how much \"ultimately\nrecoverable\" oil there really is below ground, in the industry's jargon: that\nfigure, he insists, is actually a dynamic one, as improvements in infrastructure,\nknowledge and technology raise the amount of oil which is recoverable.\n\nThat points to what will probably determine whether the pessimists or the\noptimists are right: technological innovation. The first camp tends to be\ndismissive of claims of forthcoming technological revolutions in such areas as\ndeep-water drilling and enhanced recovery. Dr Deffeyes captures this end-of-\ntechnology mindset well. He argues that because the industry has already\nspent billions on technology development, it makes it difficult to ask today for\nnew technology, as most of the wheels have already been invented.\n\nYet techno-optimists argue that the technological revolution in oil has only just\nbegun. Average recovery rates (how much of the known oil in a reservoir can\nactually be brought to the surface) are still only around 30-35%. Industry\noptimists believe that new techniques on the drawing board today could lift\nthat figure to 50-60% within a decade.\n\nGiven the industry's astonishing track record of innovation, it may be foolish to\nbet against it. That is the result of adversity: the nationalisations of the 1970s\nforced Big Oil to develop reserves in expensive, inaccessible places such as the\nNorth Sea and Alaska, undermining Dr Hubbert's assumption that cheap\nreserves are developed first. The resulting upstream investments have driven\ndown the cost of finding and developing wells over the last two decades from\nover $20 a barrel to around $6 a barrel. The cost of producing oil has fallen by\nhalf, to under $4 a barrel.\n\nSuch miracles will not come cheap, however, since much of the world's oil is\nnow produced in ageing fields that are rapidly declining. The IEA concludes\nthat global oil production need not peak in the next two decades if the\nnecessary investments are made. So how much is necessary? If oil companies\nare to replace the output lost at those ageing fields and meet the world's ever-\nrising demand for oil, the agency reckons they must invest $1 trillion in non-\n\nOPEC countries over the next decade alone. That's quite a figure.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage ? In boxes 27-31 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the notes below Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet.",
+          "body": "Many people believed Hubbert's theory was [[32]] when it was originally presented. (1) When an oilfield is [[33]] , it is easy to... (2) The recovery of the oil gets more [[34]] as the reservoir gets older (3) The oilfield can't be as [[35]] as other areas.",
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "matching-features",
+          "instruction": "Look at the following statements (questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E in boxes 36-40 on your answer sheet. NB You may use any letter more than once .",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "Colin Campell",
+              "M. King Hubbert",
+              "Kenneth Deffeyes",
+              "Rene Dahan",
+              "Michael Lynch"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Hubbert has a high-profile reputation amongst ODAC\nmembers.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 28,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Oil is likely to last longer than some other energy\nsources.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "The majority of geologists believe that oil with start to\nrun out sometime this decade.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "Over 50 percent of the oil we know about is currently\nbeing recovered.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "yes-no-not-given",
+          "groupId": "p3g1",
+          "prompt": "History has shown that some of Hubbert's principles\nwere mistaken.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "controversial",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "tapped",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "expensive",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "competitive",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "has found fault in the geological research procedure",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "has provided the longest-range forecast regarding oil\nsupply",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "has convinced others that oil production will follow a\nparticular model",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "has accused fellow scientists of refusing to see the truth",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "matching-features",
+          "groupId": "p3g3",
+          "prompt": "has expressed doubt over whether improved methods of\nextracting oil are possible.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {

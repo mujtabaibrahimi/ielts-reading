@@ -1,0 +1,58 @@
+{
+  "p1g5": {
+    "newGroup": {
+      "part": 1,
+      "questionNumbers": [
+        1
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct answer, A-D.",
+    "questions": {
+      "1": {
+        "prompt": "According to the passage, which of the following statements is supported by recent research?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Napping is an indicator of laziness.",
+          "Two thirds of Americans sleep too much.",
+          "Napping in the workplace is a current trend.",
+          "Short naps at work increase productivity."
+        ]
+      }
+    }
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct answer, A-D.",
+    "questions": {
+      "40": {
+        "prompt": "The main purpose of this article is ...",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "to criticise government policy on hemp.",
+          "to show the economic benefits of hemp.",
+          "to compare hemp and marijuana.",
+          "to promote research into new uses of hemp."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "p1g3": {
+    "instruction": "Label the diagram below. Write NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 10-13.",
+    "questions": {
+      "10": {
+        "prompt": "Prison Plan (semi-autonomous cell buildings): ______ for recreational activities (the open squares between the buildings)"
+      },
+      "11": {
+        "prompt": "Cell Design, Main Cell: Raised ______"
+      },
+      "12": {
+        "prompt": "Cell Design, Buddy Cell: Built in ______ unit"
+      },
+      "13": {
+        "prompt": "Cell Design: label 13 (arrow to the dividing wall between the Buddy Cell and the Main Cell)"
+      }
+    }
+  },
+  "_answers": {
+    "24": "A,C,F",
+    "25": "A,C,F",
+    "26": "A,C,F"
+  }
+}

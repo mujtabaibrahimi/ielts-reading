@@ -1,0 +1,30 @@
+{
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "What is the main argument of Reading Passage 3?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "There are differences as well as similarities between past and present societies.",
+          "More should be done to preserve the physical remains of earlier civilisations.",
+          "Some historical accounts of great civilisations are inaccurate.",
+          "Modern societies are dependent on each other for their continuing survival."
+        ]
+      }
+    }
+  }
+}

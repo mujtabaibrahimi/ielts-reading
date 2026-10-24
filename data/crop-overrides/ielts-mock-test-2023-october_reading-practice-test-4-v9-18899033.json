@@ -1,0 +1,78 @@
+{
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 31-33 are present); cannot transcribe without inventing."
+  },
+  "_orphans": {
+    "17": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "18": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "19": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "20": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "21": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "22": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "23": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "24": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "25": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "26": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer.",
+    "27": "The source's Part 2 has only Questions 15-16 and its answer key jumps from 16 to 28; Q17-27 are converter padding with no wording or answer."
+  },
+  "p2g1": {
+    "clearImages": true,
+    "type": "multiple-choice-multi",
+    "instruction": "Choose TWO appropriate letters and fill in boxes 1-2. What are the features and advantages of Bureaucratic Management?",
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "There are equal opportunities coming from little hierarchy of authority among companies",
+        "employees' promotion can be much fairer which is based on job duties not on characters",
+        "employees enjoy a greater freedom of duties than their strict right",
+        "selection and Promotion is based on mastery of new technology",
+        "these employees can dedicate themselves to the public for stability of a long term job"
+      ]
+    },
+    "questions": {
+      "15": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "maxSelect": 2
+      },
+      "16": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "maxSelect": 2
+      }
+    },
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        15,
+        16
+      ],
+      "type": "multiple-choice-multi"
+    }
+  },
+  "_answers": {
+    "38": "D",
+    "39": "B,D",
+    "40": "B,D"
+  }
+}

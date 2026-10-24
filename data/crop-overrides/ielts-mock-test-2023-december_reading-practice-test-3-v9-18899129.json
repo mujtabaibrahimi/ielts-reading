@@ -1,0 +1,113 @@
+{
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D, and write it on your answer sheet.",
+    "_note": "Answer key for Q40 is empty in the source; question shown but cannot be marked.",
+    "questions": {
+      "40": {
+        "prompt": "The writer of Reading Passage concludes that natural flavors ______.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "are the major cause of dietary health problems",
+          "are unhealthy, but not as had as sugar, fat, and sodium.",
+          "have health benefits that other ingredients tend to cancel out.",
+          "help make unhealthy foods taste better."
+        ]
+      }
+    }
+  },
+  "p2g2": {
+    "clearImages": true,
+    "type": "matching-features",
+    "instruction": "Complete each sentence with the correct ending, A-H, below. Write the correct letter, A-H, in boxes 20-23 on your answer sheet.",
+    "optionBank": {
+      "title": "Endings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": [
+        "loans or training for producers and employees.",
+        "although they may not be obliged to do so in their own country",
+        "for the various social benefits fair trade brings.",
+        "to pay more for what they see as ethical products.",
+        "has influenced non-fair-trade producers.",
+        "because these are United Nations obligations.",
+        "too much corruption.",
+        "have been adopted by non-fair-trade producers."
+      ]
+    },
+    "questions": {
+      "20": {
+        "prompt": "Consumers of fair-trade products are happy",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "21": {
+        "prompt": "The fair-trade system may include",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "22": {
+        "prompt": "Some fair-trade practices",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "23": {
+        "prompt": "Fair-trade producers must adopt international employment standards",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "type": "matching-paragraph-information",
+    "instruction": "Which accommodation would you choose for each of the requirements below? Choose the correct letter, A-E, from the list.",
+    "optionBank": {
+      "title": "Accommodation",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "You want accommodation close to the ferry boat terminal",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "2": {
+        "prompt": "You are looking for the least expensive place to stay",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "3": {
+        "prompt": "You have heard that the best spots are on the south coast",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "4": {
+        "prompt": "You want to be sure to have a good view from your room",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "5": {
+        "prompt": "You like the idea of a big breakfast",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  },
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Look at the travel insurance notice. Choose the most suitable heading for each of the Frequently Asked Questions (Parts B-F) from the list (i-x) below.",
+    "optionBank": {
+      "title": "List of Questions",
+      "options": [
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "ix",
+        "x"
+      ],
+      "labels": [
+        "Do i have to reveal my medical history?",
+        "Does the plan cover lost luggage?",
+        "If i want to stay longer can i extend my policy?",
+        "Can i travel anywhere in the world?",
+        "what is not covered?",
+        "what if I have an emergency or claim?",
+        "How much will it cost?",
+        "Why do i need travel insurance",
+        "Can i buy insurance after i have begun my travels?",
+        "In what situations am i covered when travelling?"
+      ]
+    },
+    "questions": {
+      "6": {
+        "prompt": "Part B",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "7": {
+        "prompt": "Part C",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "8": {
+        "prompt": "Part D",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "9": {
+        "prompt": "Part E",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      },
+      "10": {
+        "prompt": "Part F",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix",
+          "x"
+        ]
+      }
+    }
+  },
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "The passage 'Fear No More' has 5 paragraphs (A-E). Choose the most suitable headings for paragraphs B to E from the list (i-ix) below.",
+    "optionBank": {
+      "title": "List of Headings",
+      "options": [
+        "i",
+        "ii",
+        "iii",
+        "iv",
+        "v",
+        "vi",
+        "vii",
+        "viii",
+        "ix"
+      ],
+      "labels": [
+        "do not panic",
+        "if you get lost",
+        "do not be trapped",
+        "I won't be able to swim",
+        "if I get the bends",
+        "I won't be able to see",
+        "don't get eaten",
+        "if you run out of air",
+        "Diving statistics"
+      ]
+    },
+    "questions": {
+      "20": {
+        "prompt": "Paragraph B",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "21": {
+        "prompt": "Paragraph C",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "22": {
+        "prompt": "Paragraph D",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      },
+      "23": {
+        "prompt": "Paragraph E",
+        "options": [
+          "i",
+          "ii",
+          "iii",
+          "iv",
+          "v",
+          "vi",
+          "vii",
+          "viii",
+          "ix"
+        ]
+      }
+    }
+  },
+  "p3g4": {
+    "clearImages": true,
+    "type": "multiple-choice-multi",
+    "instruction": "Which of the following does the Slow Food Movement NOT promote? The first one has been done for you. Indicate the letters of the remaining TWO.",
+    "optionBank": {
+      "title": "Options",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": [
+        "old-fashioned cooking methods",
+        "genetically modified foods",
+        "endangered species of edible plants",
+        "junk food culture",
+        "the enjoyment of good food and drink",
+        "high yield industrial fanning",
+        "rare local domestic animals",
+        "organic methods of production"
+      ]
+    },
+    "questions": {
+      "32": {
+        "prompt": "",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "maxSelect": 2
+      }
+    },
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        32
+      ],
+      "type": "multiple-choice-multi"
+    }
+  }
+}

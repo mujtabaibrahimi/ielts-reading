@@ -1,0 +1,30 @@
+{
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "This article is mainly aimed at helping:",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Children",
+          "Children and their parents",
+          "Only parents",
+          "Teachers at schools"
+        ]
+      }
+    }
+  }
+}

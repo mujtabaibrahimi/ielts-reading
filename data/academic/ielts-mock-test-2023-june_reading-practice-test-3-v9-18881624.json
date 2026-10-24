@@ -1,239 +1,1177 @@
 {
   "id": "ielts-mock-test-2023-june_reading-practice-test-3-v9-18881624",
   "type": "academic",
-  "source": "ielts-mock-test-2023-june reading-practice-test-3-v9-18881624",
+  "title": "IELTS Academic 2023 June - Reading Test 3",
+  "collection": "IELTS Academic Mock Tests 2023",
+  "testNumber": 3,
+  "year": 2023,
+  "month": 6,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2023-june_reading-practice-test-3-v9-18881624.pdf",
-  "total_questions": 10,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\non Reading Passage 1 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "The next generation of experiments, already in progress, includes",
-      "questionRange": [
-        1,
-        4
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "The next generation of experiments, already in progress, includes\nsophisticated schemes that target the expression of scent genes specifically to\nflowers or other organs – such as special glands that can store antimicrobial or\nherbivore-repellent compounds.\nQuestions 1-4\nQuestions 5-8\nQuestions 9-13\nThe Reading Passage has seven paragraphs A-G.\nWhich paragraph contains the following information?\nWrite the correct letter A-G, in boxes 1-4 on your answer sheet.\n1\n Substance released to help plants themselves.\n2\n Scent helps plant’s pollination.\n3\n Practice on genetic experiment of fragrance.\n4\n Plant’s scent attracts herbivore’s enemy for protection.\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 5-8 on your answer sheet, write\nTRUE\nif the statement agrees with the information\nFALSE\nif the statement contradicts the information\nNOT GIVEN\nIf there is no information on this\n5\n We have few evidence to support the idea that scent\nattracts pollinators.\n6\n Heliothis virescens won’t eat those tobacco leaves on\nwhich they laid eggs.\n7\n Certain ants are attracted by volatiles to guard plants\nin rainforest.\n8\n Pollination only affects fruit trees’ production rather\nthan other crop trees.\n\nChoose the correct letter, A, B, C or D.\nWrite your answers in boxes 9-13 on your answer sheet.\n9\nHow do wasps protect plants when they are attracted by scents\naccording to the passage?\nA\n \nB\n \nC\n \nD\n \n10 What reason caused a number of honeybees decline in the United\nStates.\nA\n \nB\n \nC\n \nD\n \n11 Which of the following drawbacks about artificial fragrance is NOT\nmentioned in the passage?\nA\n \nB\n \nC\n \nD\n \n12 The number of $30 billion quoted in the passage is to illustrate the\nfact that:\nA\n \nB\n \nC\n \nD\n \nplants induce wasps to prey herbivore.\nwasps lay eggs into caterpillars.\nwasps laid eggs on plants to expel herbivore.\noffending caterpillars and wasp eggs coexist well.\npollination process\nspread illness\ncrop trees are poisonous\ngrower’s overlook\nit’s very expensive\nit can’t tell correct information to pollinators.\nit needs massive manual labour\nit poisons local environment\nfavorable perfumes are made from ornamental flowers.\ntraditional floriculture industry needs reform.\ngenetic operation on scent can make a vast profit.\nScent plays a significant role in Ornamental industry.\n\n13 What is weakness of genetic experiments on fragrance?\nA\n \nB\n \nC\n \nD\n \nLinalool level is too low to be smelt by nose\nno progress made in linalool emission.\nexperiment on tobacco has a better result\ntransgenic plants produce intense scent",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "Plant Scents"
           },
           {
             "label": "A",
-            "content": "B"
+            "text": "Everyone is familiar with scented flowers, and many people have heard that\nfloral odors help the plant attract pollinators. This common notion is mostly\ncorrect, but it is surprising how little scientific proof of it exists. Of course, not\nall flowers are pollinated by biological agents - for example, many grasses are\nwind-pollinated - but the flowers of the grasses may still emit volatiles. In fact,\nplants emit organic molecules all the time, although they may not be obvious\nto the human nose. As for flower scents that we can detect with our noses,\nbouquets that attract moths and butterflies generally smell \"sweet,\" and those\nthat attract certain flies seem \"rotten\" to us."
+          },
+          {
+            "label": "B",
+            "text": "The release of volatiles from vegetative parts of the plant is familiar, although\nuntil recently the physiological functions of these chemicals were less clear and\nhad received much less attention from scientists. When the trunk of a pine tree\nis injured - for example, when a beetle tries to burrow into it - it exudes a very\nsmelly resin. This resin consists mostly of terpenes - hydrocarbons with a\nbackbone of 10, 15 or 20 carbons that may also contain atoms of oxygen. The\nheavier C20 terpenes, called diterpenes, are glue-like and can cover and\nimmobilize insects as they plug the hole. This defense mechanism is as ancient\nas it is effective: Many samples of fossilized resin, or amber, contain the\nremains of insects trapped inside. Many other plants emit volatiles when"
+          },
+          {
+            "label": null,
+            "text": "injured, and in some cases the emitted signal helps defend the plant. For\nexample, (Z)-3-hexenyl acetate, which is known as a \"green leaf volatile\"\nbecause it is emitted by many plants upon injury, deters females of the moth\nHeliothis virescens from laying eggs on injured tobacco plants. Interestingly,\nthe profile of emitted tobacco volatiles is different at night than during the day,\nand it is the nocturnal blend, rich in several (Z)-3-hexen-1-olesters, that is most\neffective in repelling the night-active H. virescens moths."
           },
           {
             "label": "C",
-            "content": "D"
+            "text": "Herbivore induced volatiles often serve as indirect defenses. These bulwarks\nexist in a variety of plant species, including corn, beans, and the model plant\nspecies Arabidopsis thaliana. Plants not only emit volatiles acutely, at the site\nwhere caterpillars, mites, aphids or similar insects are eating them but also\ngenerally from non-damaged parts of the plant. These signals attract a variety\nof predatory insects that prey on the plant-eaters. For example, some parasitic\nwasps can detect the volatile signature of a damaged plant and will lay their\neggs inside the offending caterpillar; eventually, the wasp eggs hatch, and the\nemerging larvae feed on the caterpillar from the inside hatch, and the\nemerging larvae feed on the caterpillar from the inside out. The growth of\ninfected caterpillars is retarded considerably, to the benefit of the plant.\nSimilarly, volatiles released by plants in response to herbivore egg laying can\nattract parasites of the eggs, thereby preventing them from hatching and\navoiding the onslaught of hungry herbivores that would have emerged. Plant\nvolatiles can also be used as a kind of currency in some very indirect defensive\nschemes. In the rainforest understory tree Leonardoxa Africana, ants of the\nspecies Petalomyrmex phylax patrol young leaves and attack any herbivorous\ninsects that they encounter. The young leaves emit high levels of the volatile\ncompound methyl salicylate, a compound that the ants use either as a\npheromone or as an antiseptic in their nests. It appears that methyl salicylate\nis both an attractant and a reward offered by the tree to get the ants to\nperform this valuable deterrent role."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": "D",
+            "text": "Floral scent has a strong impact on the economic success of many agricultural\ncrops that rely on insect pollinators, including fruit trees such as the bee-\npollinated cherry, apple, apricot and peach, as well as vegetables and tropical\nplants such as papaya. Pollination not only affects crop yield, but also the\nquality and efficiency of crop production. Many crops require most, if not all,\novules to be fertilized for optimum fruit size and shape. A decrease in fragrance\nemission reduces the ability of flowers to attract pollinators and results in\nconsiderable losses for growers, particularly for introduced species that had a"
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": null,
+            "text": "specialized pollinator in their place of origin. This problem has been\nexacerbated by recent disease epidemics that have killed many honeybees,\nthe major insect pollinators in the United States."
           },
           {
-            "label": "A",
-            "content": "B"
+            "label": "E",
+            "text": "One means by which plant breeders circumvent the pollination problem is by\nbreeding self-compatible, or apomictic, varieties that do not require\nfertilization. Although this solution is adequate, its drawbacks include near\ngenetic uniformity and consequent susceptibility to pathogens. Some growers\nhave attempted to enhance honeybee foraging by spraying scent compounds\non orchard trees, but this approach was costly, had to be repeated, had\npotentially toxic effects on the soil or local biota, and, in the end, proved to be\ninefficient. The poor effectiveness of this strategy probably reflects inherent\nlimitations of the artificial, topically applied compounds, which clearly fail to\nconvey the appropriate message to the bees. For example, general spraying of\nthe volatile mixture cannot tell the insects where exactly the blossoms are.\nClearly, a more refined strategy is needed. The ability to enhance existing\nfloral scent, which could all be accomplished by genetic engineering, would\nallow us to manipulate the types of insect pollinators and the frequency of their\nvisits. Moreover, the metabolic engineering of fragrance could increase crop\nprotection against pathogens and pests."
           },
           {
-            "label": "C",
-            "content": "D"
+            "label": "F",
+            "text": "Genetic manipulation of the scent will also benefit the floriculture industry.\nOrnamentals, including cut flowers, foliage and potted plants, play an\nimportant aesthetic role in human life. Unfortunately, traditional breeding has\noften produced cultivars with improved vase life, shipping characteristics, color\nand shape while sacrificing desirable perfumes. The loss of scent among\nornamentals, which have a worldwide value of more than $30 billion, makes\nthem important targets for the genetic manipulation of flower fragrance. Some\nwork has already begun in this area, as several groups have created petunia\nand carnation plants that express the linalool synthase gene from C. Breweri.\nThese experiments are still preliminary: For technical reasons, the gene was\nexpressed everywhere in the plant, and although the transgenic plants did\ncreate small amounts of linalool, the level was below the threshold of detection\nfor the human nose. Similar experiments in tobacco used genes for other\nmonoterpene synthases, such as the one that produces limonene, but gave\nsimilar results."
           },
           {
-            "label": "A",
-            "content": "B"
-          },
-          {
-            "label": "C",
-            "content": "D"
+            "label": "G",
+            "text": "The next generation of experiments, already in progress, includes\nsophisticated schemes that target the expression of scent genes specifically to\nflowers or other organs - such as special glands that can store antimicrobial or\nherbivore-repellent compounds."
           }
-        ]
+        ],
+        "text": "Plant Scents\n\nEveryone is familiar with scented flowers, and many people have heard that\nfloral odors help the plant attract pollinators. This common notion is mostly\ncorrect, but it is surprising how little scientific proof of it exists. Of course, not\nall flowers are pollinated by biological agents - for example, many grasses are\nwind-pollinated - but the flowers of the grasses may still emit volatiles. In fact,\nplants emit organic molecules all the time, although they may not be obvious\nto the human nose. As for flower scents that we can detect with our noses,\nbouquets that attract moths and butterflies generally smell \"sweet,\" and those\nthat attract certain flies seem \"rotten\" to us.\n\nThe release of volatiles from vegetative parts of the plant is familiar, although\nuntil recently the physiological functions of these chemicals were less clear and\nhad received much less attention from scientists. When the trunk of a pine tree\nis injured - for example, when a beetle tries to burrow into it - it exudes a very\nsmelly resin. This resin consists mostly of terpenes - hydrocarbons with a\nbackbone of 10, 15 or 20 carbons that may also contain atoms of oxygen. The\nheavier C20 terpenes, called diterpenes, are glue-like and can cover and\nimmobilize insects as they plug the hole. This defense mechanism is as ancient\nas it is effective: Many samples of fossilized resin, or amber, contain the\nremains of insects trapped inside. Many other plants emit volatiles when\n\ninjured, and in some cases the emitted signal helps defend the plant. For\nexample, (Z)-3-hexenyl acetate, which is known as a \"green leaf volatile\"\nbecause it is emitted by many plants upon injury, deters females of the moth\nHeliothis virescens from laying eggs on injured tobacco plants. Interestingly,\nthe profile of emitted tobacco volatiles is different at night than during the day,\nand it is the nocturnal blend, rich in several (Z)-3-hexen-1-olesters, that is most\neffective in repelling the night-active H. virescens moths.\n\nHerbivore induced volatiles often serve as indirect defenses. These bulwarks\nexist in a variety of plant species, including corn, beans, and the model plant\nspecies Arabidopsis thaliana. Plants not only emit volatiles acutely, at the site\nwhere caterpillars, mites, aphids or similar insects are eating them but also\ngenerally from non-damaged parts of the plant. These signals attract a variety\nof predatory insects that prey on the plant-eaters. For example, some parasitic\nwasps can detect the volatile signature of a damaged plant and will lay their\neggs inside the offending caterpillar; eventually, the wasp eggs hatch, and the\nemerging larvae feed on the caterpillar from the inside hatch, and the\nemerging larvae feed on the caterpillar from the inside out. The growth of\ninfected caterpillars is retarded considerably, to the benefit of the plant.\nSimilarly, volatiles released by plants in response to herbivore egg laying can\nattract parasites of the eggs, thereby preventing them from hatching and\navoiding the onslaught of hungry herbivores that would have emerged. Plant\nvolatiles can also be used as a kind of currency in some very indirect defensive\nschemes. In the rainforest understory tree Leonardoxa Africana, ants of the\nspecies Petalomyrmex phylax patrol young leaves and attack any herbivorous\ninsects that they encounter. The young leaves emit high levels of the volatile\ncompound methyl salicylate, a compound that the ants use either as a\npheromone or as an antiseptic in their nests. It appears that methyl salicylate\nis both an attractant and a reward offered by the tree to get the ants to\nperform this valuable deterrent role.\n\nFloral scent has a strong impact on the economic success of many agricultural\ncrops that rely on insect pollinators, including fruit trees such as the bee-\npollinated cherry, apple, apricot and peach, as well as vegetables and tropical\nplants such as papaya. Pollination not only affects crop yield, but also the\nquality and efficiency of crop production. Many crops require most, if not all,\novules to be fertilized for optimum fruit size and shape. A decrease in fragrance\nemission reduces the ability of flowers to attract pollinators and results in\nconsiderable losses for growers, particularly for introduced species that had a\n\nspecialized pollinator in their place of origin. This problem has been\nexacerbated by recent disease epidemics that have killed many honeybees,\nthe major insect pollinators in the United States.\n\nOne means by which plant breeders circumvent the pollination problem is by\nbreeding self-compatible, or apomictic, varieties that do not require\nfertilization. Although this solution is adequate, its drawbacks include near\ngenetic uniformity and consequent susceptibility to pathogens. Some growers\nhave attempted to enhance honeybee foraging by spraying scent compounds\non orchard trees, but this approach was costly, had to be repeated, had\npotentially toxic effects on the soil or local biota, and, in the end, proved to be\ninefficient. The poor effectiveness of this strategy probably reflects inherent\nlimitations of the artificial, topically applied compounds, which clearly fail to\nconvey the appropriate message to the bees. For example, general spraying of\nthe volatile mixture cannot tell the insects where exactly the blossoms are.\nClearly, a more refined strategy is needed. The ability to enhance existing\nfloral scent, which could all be accomplished by genetic engineering, would\nallow us to manipulate the types of insect pollinators and the frequency of their\nvisits. Moreover, the metabolic engineering of fragrance could increase crop\nprotection against pathogens and pests.\n\nGenetic manipulation of the scent will also benefit the floriculture industry.\nOrnamentals, including cut flowers, foliage and potted plants, play an\nimportant aesthetic role in human life. Unfortunately, traditional breeding has\noften produced cultivars with improved vase life, shipping characteristics, color\nand shape while sacrificing desirable perfumes. The loss of scent among\nornamentals, which have a worldwide value of more than $30 billion, makes\nthem important targets for the genetic manipulation of flower fragrance. Some\nwork has already begun in this area, as several groups have created petunia\nand carnation plants that express the linalool synthase gene from C. Breweri.\nThese experiments are still preliminary: For technical reasons, the gene was\nexpressed everywhere in the plant, and although the transgenic plants did\ncreate small amounts of linalool, the level was below the threshold of detection\nfor the human nose. Similar experiments in tobacco used genes for other\nmonoterpene synthases, such as the one that produces limonene, but gave\nsimilar results.\n\nThe next generation of experiments, already in progress, includes\nsophisticated schemes that target the expression of scent genes specifically to\nflowers or other organs - such as special glands that can store antimicrobial or\nherbivore-repellent compounds.",
+        "images": [],
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The Reading Passage has seven paragraphs A-G. Which paragraph contains the following information? Write the correct letter A-G, in boxes 1-4 on your answer sheet.",
+          "body": null,
+          "range": [
+            1,
+            4
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 5-8 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            5,
+            8
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "p1g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet. A plants induce wasps to prey herbivore. B wasps lay eggs into caterpillars. C wasps laid eggs on plants to expel herbivore. D offending caterpillars and wasp eggs coexist well. States. A pollination process B spread illness C crop trees are poisonous D grower's overlook mentioned in the passage? A it's very expensive B it can't tell correct information to pollinators. C it needs massive manual labour D it poisons local environment fact that: A favorable perfumes are made from ornamental flowers. B traditional floriculture industry needs reform. C genetic operation on scent can make a vast profit. D Scent plays a significant role in Ornamental industry. A Linalool level is too low to be smelt by nose B no progress made in linalool emission. C experiment on tobacco has a better result D transgenic plants produce intense scent",
+          "body": null,
+          "range": [
+            9,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Substance released to help plants themselves.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Scent helps plant's pollination.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Practice on genetic experiment of fragrance.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "matching-paragraph-information",
+          "groupId": "p1g1",
+          "prompt": "Plant's scent attracts herbivore's enemy for protection.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "We have few evidence to support the idea that scent",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Heliothis virescens won't eat those tobacco leaves on",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 7,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Certain ants are attracted by volatiles to guard plants",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "true-false-not-given",
+          "groupId": "p1g2",
+          "prompt": "Pollination only affects fruit trees' production rather",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "How do wasps protect plants when they are attracted by scents according to the passage?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "plants induce wasps to prey herbivore.",
+            "wasps lay eggs into caterpillars.",
+            "wasps laid eggs on plants to expel herbivore.",
+            "offending caterpillars and wasp eggs coexist well."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "What reason caused a number of honeybees decline in the United States.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "pollination process",
+            "spread illness",
+            "crop trees are poisonous",
+            "grower's overlook"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "Which of the following drawbacks about artificial fragrance is NOT mentioned in the passage?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "it's very expensive",
+            "it can't tell correct information to pollinators.",
+            "it needs massive manual labour",
+            "it poisons local environment"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "The number of $30 billion quoted in the passage is to illustrate the fact that:",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "favorable perfumes are made from ornamental flowers.",
+            "traditional floriculture industry needs reform.",
+            "genetic operation on scent can make a vast profit.",
+            "Scent plays a significant role in Ornamental industry."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice",
+          "groupId": "p1g3",
+          "prompt": "What is weakness of genetic experiments on fragrance?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "Linalool level is too low to be smelt by nose",
+            "no progress made in linalool emission.",
+            "experiment on tobacco has a better result",
+            "transgenic plants produce intense scent READING PASSAGE 2 You should spend about 20 minutes on Questions 14 ' 26, which are based on Reading Passage 2 below. We have Star performers! A The difference between companies is people. With capital and technology in plentiful supply, the critical resource for companies in the knowledge era will be human talent. Companies full of achievers will, by definition, outperform organisations of plodders. Ergo, compete ferociously for the best people. Poach and pamper stars; ruthlessly weed out second-raters. This, in essence, has been the recruitment strategy of the ambitious company of the past decade. The `talent mindset' was given definitive form in two reports by the consultancy McKinsey famously entitled The War for Talent. Although the intensity of the warfare subsequently subsided along with the air in the internet bubble, it has been warming up again as the economy tightens: labour shortages, for example, are the reason the government has laid out the welcome mat for immigrants from the new Europe. B Yet while the diagnosis ' people are important ' is evident to the point of platitude, the apparently logical prescription ' hire the best ' like so much in management is not only not obvious: it is in fact profoundly wrong. The first suspicions dawned with the crash to earth of the dotcom meteors, which showed that dumb is dumb whatever the IQ of those who perpetrate it. The point was illuminated in brilliant relief by Enron, whose leaders, as a New Yorker article called `The Talent Myth' entertainingly related, were so convinced of their own cleverness that they never twigged that collective intelligence is not the sum of a lot of individual intelligence. In fact, in a profound sense, the two are opposites. Enron believed in stars, noted author Malcolm Gladwell, because they didn't believe in systems. But companies don't just create: `they execute and compete and coordinate the efforts of many people, and the organisations that are most successful at that task are the ones where the system is the star'. The truth is that you can't win the talent wars by hiring stars ' only lose it. New light on why this should be so is thrown by an analysis of star behaviour in this months' Harvard Business Review. In a study of the careers of 1,000 star-stock analysts in the 1990s, the researchers found that when a company recruited a star performer, three things happened. C First, stardom doesn't easily transfer from one organisation to another. In many cases, performance dropped sharply when high performers switched employers and in some instances never recovered. More of success than commonly supposed is due to the working environment ' systems, processes, leadership, accumulated embedded learning that are absent in and can't be transported to the new firm. Moreover, precisely because of their past stellar performance, stars were unwilling to learn new tricks and antagonised those (on whom they now unwittingly depended) who could teach them. So they moved, upping their salary as they did ' 36 per cent moved on within three years, fast even for Wall Street. Second, group performance suffered as a result of tensions and resentment by rivals within the team. One respondent likened hiring a star to an organ transplant. The new organ can damage others by hogging the blood supply, other organs can start aching or threaten to stop working or the body can reject the transplants altogether, he said. `You should think about it very carefully before you do a transplant to a healthy body.' Third, investors punished the offender by selling its stock. This is ironic since the motive for importing stars was often a suffering share price in the first place. Shareholders evidently believe that the company is overpaying, the hiree is cashing in on a glorious past rather than preparing for a glowing present, and a spending spree is in the offing. D The result of mass star hirings as well as individual ones seems to confirm such doubts. Look at County NatWest and Barclays de Zoete Wedd, both of which hired teams of stars with loud fanfare to do great things in investment banking in the 1990s. Both failed dismally. Everyone accepts the cliche that people make the organisation ' but much more does the organisation make the people. When researchers studied the performance of fund managers in the 1990s, they discovered that just 30 per cent of the variation in fund performance was due to the individual, compared to 70 per cent to the company-specific setting. E That will be no surprise to those familiar with systems thinking. W Edwards Deming used to say that there was no point in beating up on people when 90 per cent of performance variation was down to the system within which they worked. Consistent improvement, he said, is a matter not of raising the level of individual intelligence, but of the learning of the organisation as a whole. The star system is glamorous ' for the few. But it rarely benefits the company that thinks it is working it. And the knock-on consequences indirectly affect everyone else too. As one internet response to Gladwell's New Yorker article put it: after Enron, `the rest of corporate America is stuck with overpaid, arrogant, underachieving, and relatively useless talent.' F Football is another illustration of the star vs systems strategic choice. As with investment banks and stockbrokers, it seems obvious that success should ultimately be down to money. Great players are scarce and expensive. So the club that can afford more of them than anyone else will win. But the performance of Arsenal and Manchester United on one hand and Chelsea and Real Madrid on the other proves that it's not as easy as that. While Chelsea and Real have the funds to be compulsive star collectors ' as with Juan Sebastian Veron ' they are less successful than Arsenal and United which, like Liverpool before them, have put much more emphasis on developing a setting within which stars-in-the-making can flourish. Significantly, Thierry Henry, Patrick Veira and Robert Pires are much bigger stars than when Arsenal bought them, their value (in all senses) enhanced by the Arsenal system. At Chelsea, by contrast, the only context is the stars themselves ' managers with different outlooks come and go every couple of seasons. There is no settled system for the stars to blend into. The Chelsea context has not only not added value, but it has also subtracted it. The side is less than the sum of its exorbitantly expensive parts. Even Real Madrid's galacticos, the most extravagantly gifted on the planet, are being outperformed by less talented but better-integrated Spanish sides. In football, too, stars are trumped by systems. G So if not by hiring stars, how do you compete in the war for talent? You grow your own. This worked for investment analysts, where some companies were not only better at creating stars but also at retaining them. Because they had a much more sophisticated view of the interdependent relationship between star and system, they kept them longer without resorting to the exorbitant salaries that were so destructive to rivals."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
         26
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\non Reading Passage 2 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "We have Star performers!"
+          },
+          {
+            "label": "A",
+            "text": "The difference between companies is people. With capital and technology in\nplentiful supply, the critical resource for companies in the knowledge era will\nbe human talent. Companies full of achievers will, by definition, outperform\norganisations of plodders. Ergo, compete ferociously for the best people. Poach\nand pamper stars; ruthlessly weed out second-raters. This, in essence, has\nbeen the recruitment strategy of the ambitious company of the past decade.\nThe 'talent mindset' was given definitive form in two reports by the\nconsultancy McKinsey famously entitled The War for Talent. Although the\nintensity of the warfare subsequently subsided along with the air in the internet\nbubble, it has been warming up again as the economy tightens: labour\nshortages, for example, are the reason the government has laid out the\nwelcome mat for immigrants from the new Europe."
+          },
+          {
+            "label": "B",
+            "text": "Yet while the diagnosis - people are important - is evident to the point of\nplatitude, the apparently logical prescription - hire the best - like so much in\nmanagement is not only not obvious: it is in fact profoundly wrong. The first\nsuspicions dawned with the crash to earth of the dotcom meteors, which\nshowed that dumb is dumb whatever the IQ of those who perpetrate it. The\npoint was illuminated in brilliant relief by Enron, whose leaders, as a New\nYorker article called 'The Talent Myth' entertainingly related, were so\nconvinced of their own cleverness that they never twigged that collective\nintelligence is not the sum of a lot of individual intelligence. In fact, in a\nprofound sense, the two are opposites. Enron believed in stars, noted author"
+          },
+          {
+            "label": null,
+            "text": "Malcolm Gladwell, because they didn't believe in systems. But companies don't\njust create: 'they execute and compete and coordinate the efforts of many\npeople, and the organisations that are most successful at that task are the\nones where the system is the star'. The truth is that you can't win the talent\nwars by hiring stars - only lose it. New light on why this should be so is thrown\nby an analysis of star behaviour in this months' Harvard Business Review. In a\nstudy of the careers of 1,000 star-stock analysts in the 1990s, the researchers\nfound that when a company recruited a star performer, three things happened."
+          },
+          {
+            "label": "C",
+            "text": "First, stardom doesn't easily transfer from one organisation to another. In\nmany cases, performance dropped sharply when high performers switched\nemployers and in some instances never recovered. More of success than\ncommonly supposed is due to the working environment - systems, processes,\nleadership, accumulated embedded learning that are absent in and can't be\ntransported to the new firm. Moreover, precisely because of their past stellar\nperformance, stars were unwilling to learn new tricks and antagonised those\n(on whom they now unwittingly depended) who could teach them. So they\nmoved, upping their salary as they did - 36 per cent moved on within three\nyears, fast even for Wall Street. Second, group performance suffered as a\nresult of tensions and resentment by rivals within the team. One respondent\nlikened hiring a star to an organ transplant. The new organ can damage others\nby hogging the blood supply, other organs can start aching or threaten to stop\nworking or the body can reject the transplants altogether, he said. 'You should\nthink about it very carefully before you do a transplant to a healthy body.'\nThird, investors punished the offender by selling its stock. This is ironic since\nthe motive for importing stars was often a suffering share price in the first\nplace. Shareholders evidently believe that the company is overpaying, the\nhiree is cashing in on a glorious past rather than preparing for a glowing\npresent, and a spending spree is in the offing."
+          },
+          {
+            "label": "D",
+            "text": "The result of mass star hirings as well as individual ones seems to confirm such\ndoubts. Look at County NatWest and Barclays de Zoete Wedd, both of which\nhired teams of stars with loud fanfare to do great things in investment banking\nin the 1990s. Both failed dismally. Everyone accepts the cliche that people\nmake the organisation - but much more does the organisation make the\npeople. When researchers studied the performance of fund managers in the\n1990s, they discovered that just 30 per cent of the variation in fund\nperformance was due to the individual, compared to 70 per cent to the"
+          },
+          {
+            "label": null,
+            "text": "company-specific setting."
+          },
+          {
+            "label": "E",
+            "text": "That will be no surprise to those familiar with systems thinking. W Edwards\nDeming used to say that there was no point in beating up on people when 90\nper cent of performance variation was down to the system within which they\nworked. Consistent improvement, he said, is a matter not of raising the level of\nindividual intelligence, but of the learning of the organisation as a whole. The\nstar system is glamorous - for the few. But it rarely benefits the company that\nthinks it is working it. And the knock-on consequences indirectly affect\neveryone else too. As one internet response to Gladwell's New Yorker article\nput it: after Enron, 'the rest of corporate America is stuck with overpaid,\narrogant, underachieving, and relatively useless talent.'"
+          },
+          {
+            "label": "F",
+            "text": "Football is another illustration of the star vs systems strategic choice. As with\ninvestment banks and stockbrokers, it seems obvious that success should\nultimately be down to money. Great players are scarce and expensive. So the\nclub that can afford more of them than anyone else will win. But the\nperformance of Arsenal and Manchester United on one hand and Chelsea and\nReal Madrid on the other proves that it's not as easy as that. While Chelsea\nand Real have the funds to be compulsive star collectors - as with Juan\nSebastian Veron - they are less successful than Arsenal and United which, like\nLiverpool before them, have put much more emphasis on developing a setting\nwithin which stars-in-the-making can flourish. Significantly, Thierry Henry,\nPatrick Veira and Robert Pires are much bigger stars than when Arsenal bought\nthem, their value (in all senses) enhanced by the Arsenal system. At Chelsea,\nby contrast, the only context is the stars themselves - managers with different\noutlooks come and go every couple of seasons. There is no settled system for\nthe stars to blend into. The Chelsea context has not only not added value, but\nit has also subtracted it. The side is less than the sum of its exorbitantly\nexpensive parts. Even Real Madrid's galacticos, the most extravagantly gifted\non the planet, are being outperformed by less talented but better-integrated\nSpanish sides. In football, too, stars are trumped by systems."
+          },
+          {
+            "label": "G",
+            "text": "So if not by hiring stars, how do you compete in the war for talent? You grow\nyour own. This worked for investment analysts, where some companies were\nnot only better at creating stars but also at retaining them. Because they had a\nmuch more sophisticated view of the interdependent relationship between star\nand system, they kept them longer without resorting to the exorbitant salaries"
+          },
+          {
+            "label": null,
+            "text": "that were so destructive to rivals."
+          }
+        ],
+        "text": "We have Star performers!\n\nThe difference between companies is people. With capital and technology in\nplentiful supply, the critical resource for companies in the knowledge era will\nbe human talent. Companies full of achievers will, by definition, outperform\norganisations of plodders. Ergo, compete ferociously for the best people. Poach\nand pamper stars; ruthlessly weed out second-raters. This, in essence, has\nbeen the recruitment strategy of the ambitious company of the past decade.\nThe 'talent mindset' was given definitive form in two reports by the\nconsultancy McKinsey famously entitled The War for Talent. Although the\nintensity of the warfare subsequently subsided along with the air in the internet\nbubble, it has been warming up again as the economy tightens: labour\nshortages, for example, are the reason the government has laid out the\nwelcome mat for immigrants from the new Europe.\n\nYet while the diagnosis - people are important - is evident to the point of\nplatitude, the apparently logical prescription - hire the best - like so much in\nmanagement is not only not obvious: it is in fact profoundly wrong. The first\nsuspicions dawned with the crash to earth of the dotcom meteors, which\nshowed that dumb is dumb whatever the IQ of those who perpetrate it. The\npoint was illuminated in brilliant relief by Enron, whose leaders, as a New\nYorker article called 'The Talent Myth' entertainingly related, were so\nconvinced of their own cleverness that they never twigged that collective\nintelligence is not the sum of a lot of individual intelligence. In fact, in a\nprofound sense, the two are opposites. Enron believed in stars, noted author\n\nMalcolm Gladwell, because they didn't believe in systems. But companies don't\njust create: 'they execute and compete and coordinate the efforts of many\npeople, and the organisations that are most successful at that task are the\nones where the system is the star'. The truth is that you can't win the talent\nwars by hiring stars - only lose it. New light on why this should be so is thrown\nby an analysis of star behaviour in this months' Harvard Business Review. In a\nstudy of the careers of 1,000 star-stock analysts in the 1990s, the researchers\nfound that when a company recruited a star performer, three things happened.\n\nFirst, stardom doesn't easily transfer from one organisation to another. In\nmany cases, performance dropped sharply when high performers switched\nemployers and in some instances never recovered. More of success than\ncommonly supposed is due to the working environment - systems, processes,\nleadership, accumulated embedded learning that are absent in and can't be\ntransported to the new firm. Moreover, precisely because of their past stellar\nperformance, stars were unwilling to learn new tricks and antagonised those\n(on whom they now unwittingly depended) who could teach them. So they\nmoved, upping their salary as they did - 36 per cent moved on within three\nyears, fast even for Wall Street. Second, group performance suffered as a\nresult of tensions and resentment by rivals within the team. One respondent\nlikened hiring a star to an organ transplant. The new organ can damage others\nby hogging the blood supply, other organs can start aching or threaten to stop\nworking or the body can reject the transplants altogether, he said. 'You should\nthink about it very carefully before you do a transplant to a healthy body.'\nThird, investors punished the offender by selling its stock. This is ironic since\nthe motive for importing stars was often a suffering share price in the first\nplace. Shareholders evidently believe that the company is overpaying, the\nhiree is cashing in on a glorious past rather than preparing for a glowing\npresent, and a spending spree is in the offing.\n\nThe result of mass star hirings as well as individual ones seems to confirm such\ndoubts. Look at County NatWest and Barclays de Zoete Wedd, both of which\nhired teams of stars with loud fanfare to do great things in investment banking\nin the 1990s. Both failed dismally. Everyone accepts the cliche that people\nmake the organisation - but much more does the organisation make the\npeople. When researchers studied the performance of fund managers in the\n1990s, they discovered that just 30 per cent of the variation in fund\nperformance was due to the individual, compared to 70 per cent to the\n\ncompany-specific setting.\n\nThat will be no surprise to those familiar with systems thinking. W Edwards\nDeming used to say that there was no point in beating up on people when 90\nper cent of performance variation was down to the system within which they\nworked. Consistent improvement, he said, is a matter not of raising the level of\nindividual intelligence, but of the learning of the organisation as a whole. The\nstar system is glamorous - for the few. But it rarely benefits the company that\nthinks it is working it. And the knock-on consequences indirectly affect\neveryone else too. As one internet response to Gladwell's New Yorker article\nput it: after Enron, 'the rest of corporate America is stuck with overpaid,\narrogant, underachieving, and relatively useless talent.'\n\nFootball is another illustration of the star vs systems strategic choice. As with\ninvestment banks and stockbrokers, it seems obvious that success should\nultimately be down to money. Great players are scarce and expensive. So the\nclub that can afford more of them than anyone else will win. But the\nperformance of Arsenal and Manchester United on one hand and Chelsea and\nReal Madrid on the other proves that it's not as easy as that. While Chelsea\nand Real have the funds to be compulsive star collectors - as with Juan\nSebastian Veron - they are less successful than Arsenal and United which, like\nLiverpool before them, have put much more emphasis on developing a setting\nwithin which stars-in-the-making can flourish. Significantly, Thierry Henry,\nPatrick Veira and Robert Pires are much bigger stars than when Arsenal bought\nthem, their value (in all senses) enhanced by the Arsenal system. At Chelsea,\nby contrast, the only context is the stars themselves - managers with different\noutlooks come and go every couple of seasons. There is no settled system for\nthe stars to blend into. The Chelsea context has not only not added value, but\nit has also subtracted it. The side is less than the sum of its exorbitantly\nexpensive parts. Even Real Madrid's galacticos, the most extravagantly gifted\non the planet, are being outperformed by less talented but better-integrated\nSpanish sides. In football, too, stars are trumped by systems.\n\nSo if not by hiring stars, how do you compete in the war for talent? You grow\nyour own. This worked for investment analysts, where some companies were\nnot only better at creating stars but also at retaining them. Because they had a\nmuch more sophisticated view of the interdependent relationship between star\nand system, they kept them longer without resorting to the exorbitant salaries\n\nthat were so destructive to rivals.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The Reading Passage has seven paragraphs A-G Which paragraph contains the following information? Write the correct letter A-G, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+          "body": null,
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 18-21 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            18,
+            21
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "sentence-completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN TWO WORDS from the Reading Passage for each answer. Write your answers in boxes 22-26 on your answer sheet.",
+          "body": "An investigation carried out on 1000 [[22]] . Participants of a survey by Harvard Business Review found a company hire a [[23]] has negative effects. For instance, they behave considerably worse in a new team than in the [[24]] that they used to be. They move faster than wall street and increase their [[25]] . Secondly, they faced rejections or refuse from those [[26]] within the team. Lastly, the one who made mistakes had been punished by selling his/her stock share.",
+          "range": [
+            22,
+            26
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
       "questions": [
         {
-          "number": 21,
+          "number": 14,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "One example from non-commerce/business settings that\nbetter system win bigger stars",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "One failed company that believes stars rather than the\nsystem",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "One suggestion that the author made to acquire\nemployees than to win the competition nowadays",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g1",
+          "prompt": "One metaphor to human medical anatomy that\nillustrates the problems of hiring stars.",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 18,
           "type": "yes-no-not-given",
-          "prompt": "Football clubs that focus making stars in the setting are better than simply collecting stars Complete the following summary of the paragraphs of Reading Passage Using NO MORE THAN TWO WORDS from the Reading Passage for each",
-          "instruction": "doubts. Look at County NatWest and Barclays de Zoete Wedd, both of which hired teams of stars with loud fanfare to do great things in investment banking in the 1990s. Both failed dismally. Everyone accepts the cliche that people make the organisation – but much more does the organisation make the people. When researchers studied the performance of fund managers in the 1990s, they discovered that just 30 per cent of the variation in fund performance was due to the individual, compared to 70 per cent to the Which paragraph contains the following information? Write the correct letter A-G, in boxes 14-17 on your answer sheet. NB You may use any letter more than once. 14 One example from non-commerce/business settings that better system win bigger stars 15 One failed company that believes stars rather than the system 16 One suggestion that the author made to acquire employees than to win the competition nowadays 17 One metaphor to human medical anatomy that illustrates the problems of hiring stars. Do the following statements agree with the information given in Reading Passage? In boxes 18-21 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 18 McKinsey who wrote The War for Talent had not expected the huge influence made by this book. 19 Economic condition becomes one of the factors which decide whether or not a country would prefer to hire foreign employees. 20 The collapse of Enron is caused totally by an unfortunate incident instead of company’s management mistake.",
-          "answer": "YES",
+          "groupId": "p2g2",
+          "prompt": "McKinsey who wrote The War for Talent had not\nexpected the huge influence made by this book.",
+          "instruction": "",
           "options": [
             "YES",
             "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Economic condition becomes one of the factors which\ndecide whether or not a country would prefer to hire foreign employees.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "The collapse of Enron is caused totally by an\nunfortunate incident instead of company's management mistake.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "yes-no-not-given",
+          "groupId": "p2g2",
+          "prompt": "Football clubs that focus making stars in the setting\nare better than simply collecting stars",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(star-stock) analysts",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "star performer",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "working environment",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "salary",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "sentence-completion",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "rivals",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         27,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
+        "heading": "",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Compliance Or Noncompliance For Children"
+          },
+          {
+            "label": "A",
+            "text": "Many Scientists believe that socialization takes a long process, while\ncompliance is the outset of it. Accordingly, compliance for the education of\nchildren is the priority. Motivationally distinct forms of child compliance,\nmutually positive affect, and maternal control, observed in 3 control contexts\nin 103 dyads of mothers and their 26-41-month-old children, were examined as\ncorrelates of internalization, assessed using observations of children while\nalone with prohibited temptations and maternal ratings. One form of\ncompliance (committed compliance), when the child appeared committed\nwholeheartedly to the maternal agenda and eager to endorse and accept it,\nwas emphasized. Mother-child mutually positive affect was both a predictor\nand a concomitant of committed compliance. Children who shared positive\neffect with their mothers showed a high level of committed compliance and\nwere also more internalized. Differences and similarities between children's\ncompliance with requests and prohibitions (\"Do\" vs. \"Don't\" demand contexts)\nwere also explored. Maternal \"Dos\" appeared more challenging to toddlers\nthan the \"Don'ts.\" Some individual coherence of behavior was also found\nacross both demand contexts. The implication of committed compliance for\nemerging internalized regulators of conduct is discussed."
+          },
+          {
+            "label": "B",
+            "text": "A number of parents were not easy to be aware of the compliance, some even\noverlooked their children's noncompliance. Despite good education, these\nchildren did not follow the words from their parents on several occasion,\nespecially boys in certain ages. Fortunately, this rate was acceptable, some"
+          },
+          {
+            "label": null,
+            "text": "parents could be patient with the noncompliance. Someone held that\nnoncompliance is probably not a wrong thing. In order to determine the effects\nof different parental disciplinary techniques on young children's compliance\nand noncompliance, mothers were trained to observe emotional incidents\ninvolving their own toddler-aged children. Reports of disciplinary encounters\nwere analyzed in terms of the types of discipline used (reasoning, verbal\nprohibition, physical coercion, love withdrawal, and combinations thereof) and\nchildren's responses to that discipline (compliance/ noncompliance and\navoidance). The relation between compliance/ noncompliance and type of\nmisdeed (harm to persons, harm to property, and lapses of self-control) was\nalso analyzed. Results indicated that love withdrawal combined with other\ntechniques was most effective in securing children's compliance and that its\neffectiveness was not a function of the type of technique with which it was\ncombined. Avoidant responses and affective reunification with the parent were\nmore likely to follow love withdrawal than any other technique. Physical\ncoercion was somewhat less effective than love withdrawal, while reasoning\nand verbal prohibition were not at all effective except when both were\ncombined with physical coercion."
+          },
+          {
+            "label": "C",
+            "text": "\"Noncompliant Children sometimes prefer to say to directly as they were\nyounger, they are easy to deal with the relationship with contemporaries.\nWhen they are growing up. During the period that children are getting elder,\nwho may learn to use more advanced approaches for their noncompliance.\nThey are more skillful to negotiate or give reasons for refusal rather than\nshow their opposite idea to parents directly.\" Said Henry Porter, a scholar\nworking in Psychology Institute of UK. He indicated that noncompliance means\ngrowth in some way, may have benefit for children. Many Experts held\ndifferent viewpoints in recent years, they tried drilling compliance into\nchildren. His collaborator Wallace Friesen believed that Organizing a child's\ndaily activities so that they occur in the same order each day as much as\npossible. This first strategy for defiant children is ultimately the most\nimportant. Developing a routine helps a child to know what to expect and\nincreases the chances that he or she will comply with things such as chores,\nhomework, and hygiene requests. When undesirable activities occur in the\nsame order at optimal times during the day, they become habits that are not\nquestioned but done without thought."
+          },
+          {
+            "label": null,
+            "text": "Chances are that you have developed some type of routine for yourself in\nterms of showering, cleaning your house, or doing other types of work. You\nhave an idea in your mind when you will do these things on a regular basis and"
+          },
+          {
+            "label": null,
+            "text": "this helps you to know what to expect. In fact, you have probably already been\nusing most of these compliance strategies for yourself without realizing it. For\nchildren, without setting these expectations on a daily basis by making them\npart of a regular routine, they can become very upset. Just like adults,\nchildren think about what they plan to do that day and expect to be able to do\nwhat they want. So, when you come along and ask them to do something they\nweren't already planning to do that day, this can result in automatic refusals\nand other undesirable defiant behaviors. However, by using this compliance\nstrategy with defiant children, these activities are done almost every day in the\nsame general order and the child expects to already do them."
+          },
+          {
+            "label": "D",
+            "text": "Doctor Steven Walson addressed that organizing fun activities to occur after\nfrequently refused activities. This strategy also works as a positive reinforcer\nwhen the child complies with your requests. By arranging your day so that\nthings often refused to occur right before highly preferred activities, you are\nable to eliminate defiant behavior and motivate your child's behavior of doing\nthe undesirable activity. This is not to be presented in a way that the\npreferred activity is only allowed if a defiant child does the non-preferred\nactivity. However, you can word your request in a way so that your child\nassumes that you have to do the non-preferred activity before moving on to\nthe next preferred activity. For example, you do not want to say something\nsuch as, \"If you clean your room we can play a game.\" Instead of the word your\nrequest like this, \"As soon as you are done cleaning your room we will be able\nto play that really fun game you wanted to play.\""
+          },
+          {
+            "label": "E",
+            "text": "Psychologist Paul Edith insisted praise is the best way to make children comply\nwith. This is probably a common term you are used to hearing by now. If you\npraise your child's behavior, he or she will be more likely to do that behavior.\nSo, it is essential to use praise when working with defiant children. It also\nprovides your child with positive attention. However, it is important to know\nhow to praise children in a way that encourages future automatic\nreinforcement for your child when doing a similar behavior."
+          }
+        ],
+        "text": "Compliance Or Noncompliance For Children\n\nMany Scientists believe that socialization takes a long process, while\ncompliance is the outset of it. Accordingly, compliance for the education of\nchildren is the priority. Motivationally distinct forms of child compliance,\nmutually positive affect, and maternal control, observed in 3 control contexts\nin 103 dyads of mothers and their 26-41-month-old children, were examined as\ncorrelates of internalization, assessed using observations of children while\nalone with prohibited temptations and maternal ratings. One form of\ncompliance (committed compliance), when the child appeared committed\nwholeheartedly to the maternal agenda and eager to endorse and accept it,\nwas emphasized. Mother-child mutually positive affect was both a predictor\nand a concomitant of committed compliance. Children who shared positive\neffect with their mothers showed a high level of committed compliance and\nwere also more internalized. Differences and similarities between children's\ncompliance with requests and prohibitions (\"Do\" vs. \"Don't\" demand contexts)\nwere also explored. Maternal \"Dos\" appeared more challenging to toddlers\nthan the \"Don'ts.\" Some individual coherence of behavior was also found\nacross both demand contexts. The implication of committed compliance for\nemerging internalized regulators of conduct is discussed.\n\nA number of parents were not easy to be aware of the compliance, some even\noverlooked their children's noncompliance. Despite good education, these\nchildren did not follow the words from their parents on several occasion,\nespecially boys in certain ages. Fortunately, this rate was acceptable, some\n\nparents could be patient with the noncompliance. Someone held that\nnoncompliance is probably not a wrong thing. In order to determine the effects\nof different parental disciplinary techniques on young children's compliance\nand noncompliance, mothers were trained to observe emotional incidents\ninvolving their own toddler-aged children. Reports of disciplinary encounters\nwere analyzed in terms of the types of discipline used (reasoning, verbal\nprohibition, physical coercion, love withdrawal, and combinations thereof) and\nchildren's responses to that discipline (compliance/ noncompliance and\navoidance). The relation between compliance/ noncompliance and type of\nmisdeed (harm to persons, harm to property, and lapses of self-control) was\nalso analyzed. Results indicated that love withdrawal combined with other\ntechniques was most effective in securing children's compliance and that its\neffectiveness was not a function of the type of technique with which it was\ncombined. Avoidant responses and affective reunification with the parent were\nmore likely to follow love withdrawal than any other technique. Physical\ncoercion was somewhat less effective than love withdrawal, while reasoning\nand verbal prohibition were not at all effective except when both were\ncombined with physical coercion.\n\n\"Noncompliant Children sometimes prefer to say to directly as they were\nyounger, they are easy to deal with the relationship with contemporaries.\nWhen they are growing up. During the period that children are getting elder,\nwho may learn to use more advanced approaches for their noncompliance.\nThey are more skillful to negotiate or give reasons for refusal rather than\nshow their opposite idea to parents directly.\" Said Henry Porter, a scholar\nworking in Psychology Institute of UK. He indicated that noncompliance means\ngrowth in some way, may have benefit for children. Many Experts held\ndifferent viewpoints in recent years, they tried drilling compliance into\nchildren. His collaborator Wallace Friesen believed that Organizing a child's\ndaily activities so that they occur in the same order each day as much as\npossible. This first strategy for defiant children is ultimately the most\nimportant. Developing a routine helps a child to know what to expect and\nincreases the chances that he or she will comply with things such as chores,\nhomework, and hygiene requests. When undesirable activities occur in the\nsame order at optimal times during the day, they become habits that are not\nquestioned but done without thought.\n\nChances are that you have developed some type of routine for yourself in\nterms of showering, cleaning your house, or doing other types of work. You\nhave an idea in your mind when you will do these things on a regular basis and\n\nthis helps you to know what to expect. In fact, you have probably already been\nusing most of these compliance strategies for yourself without realizing it. For\nchildren, without setting these expectations on a daily basis by making them\npart of a regular routine, they can become very upset. Just like adults,\nchildren think about what they plan to do that day and expect to be able to do\nwhat they want. So, when you come along and ask them to do something they\nweren't already planning to do that day, this can result in automatic refusals\nand other undesirable defiant behaviors. However, by using this compliance\nstrategy with defiant children, these activities are done almost every day in the\nsame general order and the child expects to already do them.\n\nDoctor Steven Walson addressed that organizing fun activities to occur after\nfrequently refused activities. This strategy also works as a positive reinforcer\nwhen the child complies with your requests. By arranging your day so that\nthings often refused to occur right before highly preferred activities, you are\nable to eliminate defiant behavior and motivate your child's behavior of doing\nthe undesirable activity. This is not to be presented in a way that the\npreferred activity is only allowed if a defiant child does the non-preferred\nactivity. However, you can word your request in a way so that your child\nassumes that you have to do the non-preferred activity before moving on to\nthe next preferred activity. For example, you do not want to say something\nsuch as, \"If you clean your room we can play a game.\" Instead of the word your\nrequest like this, \"As soon as you are done cleaning your room we will be able\nto play that really fun game you wanted to play.\"\n\nPsychologist Paul Edith insisted praise is the best way to make children comply\nwith. This is probably a common term you are used to hearing by now. If you\npraise your child's behavior, he or she will be more likely to do that behavior.\nSo, it is essential to use praise when working with defiant children. It also\nprovides your child with positive attention. However, it is important to know\nhow to praise children in a way that encourages future automatic\nreinforcement for your child when doing a similar behavior.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
+          "body": null,
+          "range": [
+            27,
+            31
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "matching-features",
+          "instruction": "Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-35 on your answer sheet.",
+          "body": null,
+          "range": [
+            32,
+            35
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G"
+            ],
+            "labels": [
+              "children of all ages will indirectly show noncompliance",
+              "elder children tend to negotiate rather than show noncompliance",
+              "converse behavior means noncompliance",
+              "organizing fun activities to occur after frequently refused activities",
+              "organizing child's daily activities in the same order as much as possible.",
+              "use praise in order to make children compliant",
+              "take the children to school at an early age"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "body": null,
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 27,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "The children, especially boys received good education may",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
-          "answer": "D",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "always comply with their parents' words",
+            "be good at math",
+            "have a high score at school",
+            "disobey their parents' order sometimes"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
         },
         {
           "number": 28,
           "type": "multiple-choice",
-          "prompt": "Face to their children’s compliance and noncompliance, parents",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p3g1",
+          "prompt": "Face to their children's compliance and noncompliance, parents",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "must be aware of the compliance",
+            "ask for help from their teachers",
+            "some of them may ignore their noncompliance",
+            "pretend not to see"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 29,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "According to Henry Porter, noncompliance for children",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
-          "answer": "B",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "are entirely harmful",
+            "may have positive effects",
+            "needs medicine assistance",
+            "should be treated by an expert doctor"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
         },
         {
           "number": 30,
           "type": "multiple-choice",
+          "groupId": "p3g1",
           "prompt": "When children are growing up, they",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
-          "answer": "C",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "always try to directly say no",
+            "are more skillful to negotiate",
+            "learn to cheat instead of noncompliance",
+            "tend to keep silent"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
         },
         {
           "number": 31,
           "type": "multiple-choice",
-          "prompt": "Which is the possible reaction the passage mentioned for elder",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
-          "answer": "C",
+          "groupId": "p3g1",
+          "prompt": "Which is the possible reaction the passage mentioned for elder children and younger ones if they don't want to comply with the order",
+          "instruction": "",
           "options": [
             "A",
             "B",
             "C",
             "D"
-          ]
+          ],
+          "optionLabels": [
+            "elder children prefer to refuse directly",
+            "elder ones refuse to answer",
+            "younger children may reject directly",
+            "younger ones may save any words"
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Henry Porter",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Wallace Friesen",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Steven Walson",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-features",
+          "groupId": "p3g2",
+          "prompt": "Paul Edith",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g3",
+          "prompt": "Socialization takes a long process, while compliance is\nthe beginning of it.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 37,
           "type": "yes-no-not-given",
-          "prompt": "Many parents were difficult to be aware of compliance or noncompliance.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet. elder ones refuse to answer younger children may reject directly Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-35 on your answer sheet. 32 Henry Porter 33 Wallace Friesen 34 Steven Walson 35 Paul Edith List of statements A children of all ages will indirectly show noncompliance B elder children tend to negotiate rather than show noncompliance C converse behavior means noncompliance D organizing fun activities to occur after frequently refused activities E organizing child’s daily activities in the same order as much as possible. F use praise in order to make children compliant G take the children to school at an early age Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 36 Socialization takes a long process, while compliance is the beginning of it.",
-          "answer": "YES",
+          "groupId": "p3g3",
+          "prompt": "Many parents were difficult to be aware of compliance\nor noncompliance.",
+          "instruction": "",
           "options": [
             "YES",
             "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
         },
         {
           "number": 38,
           "type": "yes-no-not-given",
-          "prompt": "Noncompliant Children are simple to deal with the relationship with the people at the same age when they are growing up.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet. elder ones refuse to answer younger children may reject directly Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-35 on your answer sheet. 32 Henry Porter 33 Wallace Friesen 34 Steven Walson 35 Paul Edith List of statements A children of all ages will indirectly show noncompliance B elder children tend to negotiate rather than show noncompliance C converse behavior means noncompliance D organizing fun activities to occur after frequently refused activities E organizing child’s daily activities in the same order as much as possible. F use praise in order to make children compliant G take the children to school at an early age Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 36 Socialization takes a long process, while compliance is the beginning of it.",
-          "answer": "YES",
+          "groupId": "p3g3",
+          "prompt": "Noncompliant Children are simple to deal with the\nrelationship with the people at the same age when they are growing up.",
+          "instruction": "",
           "options": [
             "YES",
             "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
         },
         {
           "number": 39,
           "type": "yes-no-not-given",
+          "groupId": "p3g3",
           "prompt": "Experts never tried drilling compliance into children.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet. elder ones refuse to answer younger children may reject directly Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-35 on your answer sheet. 32 Henry Porter 33 Wallace Friesen 34 Steven Walson 35 Paul Edith List of statements A children of all ages will indirectly show noncompliance B elder children tend to negotiate rather than show noncompliance C converse behavior means noncompliance D organizing fun activities to occur after frequently refused activities E organizing child’s daily activities in the same order as much as possible. F use praise in order to make children compliant G take the children to school at an early age Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 36 Socialization takes a long process, while compliance is the beginning of it.",
-          "answer": "NO",
+          "instruction": "",
           "options": [
             "YES",
             "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
         },
         {
           "number": 40,
           "type": "yes-no-not-given",
-          "prompt": "Psychologist Paul Edith negated the importance that knowing how to praise children in an encouraging way.",
-          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet. elder ones refuse to answer younger children may reject directly Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-35 on your answer sheet. 32 Henry Porter 33 Wallace Friesen 34 Steven Walson 35 Paul Edith List of statements A children of all ages will indirectly show noncompliance B elder children tend to negotiate rather than show noncompliance C converse behavior means noncompliance D organizing fun activities to occur after frequently refused activities E organizing child’s daily activities in the same order as much as possible. F use praise in order to make children compliant G take the children to school at an early age Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this 36 Socialization takes a long process, while compliance is the beginning of it.",
-          "answer": "NO",
+          "groupId": "p3g3",
+          "prompt": "Psychologist Paul Edith negated the importance that\nknowing how to praise children in an encouraging way.",
+          "instruction": "",
           "options": [
             "YES",
             "NO",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
         }
       ]
     }

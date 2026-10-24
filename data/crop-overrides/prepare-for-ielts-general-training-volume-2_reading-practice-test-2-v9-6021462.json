@@ -1,0 +1,15 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Look at the five advertisements, A-E, referring to winter events in London. Which advertisement mentions the following? Write the correct letter, A-E. You may use any letter more than once.",
+    "optionBank": {"title": "Advertisements", "options": ["A", "B", "C", "D", "E"], "labels": []},
+    "questions": {
+      "9": {"prompt": "additional costs", "options": ["A", "B", "C", "D", "E"]},
+      "10": {"prompt": "fluctuation in public attendance", "options": ["A", "B", "C", "D", "E"]},
+      "11": {"prompt": "a possible source of regret", "options": ["A", "B", "C", "D", "E"]},
+      "12": {"prompt": "seasonal food on offer", "options": ["A", "B", "C", "D", "E"]},
+      "13": {"prompt": "a change in career", "options": ["A", "B", "C", "D", "E"]},
+      "14": {"prompt": "seasonally induced mood changes", "options": ["A", "B", "C", "D", "E"]}
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "body": "Classification, Associated Fact and Related Example table. Classification colour: Associated Fact is 'Red wines use [[5]] in fermentation', Related Example is [[6]]. Classification grape species: Associated Fact is 'can be [[7]] or blended', Related Example is Cote Rotie wines. Classification location: Associated Fact is 'Drinkers of wine [[8]] this', Related Example is Barossa Valley. Classification [[9]]: Associated Fact is 'can allow [[10]] to remain', Related Example is dessert wine."
+  },
+  "p3g2": {
+    "clearImages": true,
+    "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+    "body": "Problems involved in travelling to Mars, and the Associated Fact. Problem 'inadequate rocketry': Scientists would need [[31]]. Problem 'infrequent [[32]]': once every 15 years. Problem 'effect of space on [[33]]': Bones [[34]]. Problem 'disease': Lack of gravity facilitates [[35]]."
+  },
+  "p2g2": {
+    "_keepImage": true,
+    "_reason": "Flow chart content is missing from the source crop (only the instruction and blank answer lines 18-23 are present); cannot transcribe without inventing."
+  },
+  "_answers": {
+    "38": "micro-meteoroids/micro meteoroids/micrometeoroids"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "p1g2": {
+    "clearImages": true,
+    "instruction": "There are 6 office messages A-F on the next page. Answer Questions 1-3 by writing the appropriate letter A-F.",
+    "optionBank": {
+      "title": "Office Messages",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "Which message changes the time or place of a meeting?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "2": {
+        "prompt": "Which message is probably personal?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "3": {
+        "prompt": "Which message is from a company which is trying to sell something?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      }
+    }
+  },
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Using the information in the Daily Work Record form and the instructions, answer the questions below by writing the letter of the appropriate section, A to O.",
+    "optionBank": {
+      "title": "Form Sections",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "4": {
+        "prompt": "Which section has the address of the company to which Amanda has been sent?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      "5": {
+        "prompt": "Which daily time record shows the longest working day?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      "6": {
+        "prompt": "Which daily time record shows the longest break?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      },
+      "7": {
+        "prompt": "In which section did Amanda indicate whether the job is still going on?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L",
+          "M",
+          "N",
+          "O"
+        ]
+      }
+    }
+  },
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "The reading passage has 9 paragraphs marked A to I. Match each of the topics ii to ix below with one of the paragraphs A-I. Example: Topic i (how new employees are used in a company) = C.",
+    "optionBank": {
+      "title": "Paragraphs",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "28": {
+        "prompt": "Topic ii: women and Japanese companies",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "29": {
+        "prompt": "Topic iii: why men sometimes resign from Japanese companies",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "30": {
+        "prompt": "Topic iv: permanency in employment in Japan",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "31": {
+        "prompt": "Topic v: recruiting season: who, when and where",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "32": {
+        "prompt": "Topic vi: the social aspect of work",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "33": {
+        "prompt": "Topic vii: the salary structure",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "34": {
+        "prompt": "Topic viii: the recruitment strategy of foreign firms",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      },
+      "35": {
+        "prompt": "Topic ix: Japanese people after retirement",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I"
+        ]
+      }
+    }
+  },
+  "p1g1": {
+    "_keepImage": true,
+    "_reason": "Crop is reading material (the introduction to the Daily Work Record form), not question text. Structural: this group lists 4-13, duplicating Q4-12 already rendered by p1g3/p1g4; Q13 has no prompt.",
+    "questionNumbers": [
+      13
+    ]
+  },
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the following flow-charts of actions and their consequences by choosing the appropriate consequence from the list in the box, and writing its letter, A-E, in boxes 21-27 on your answer sheet.",
+    "optionBank": {
+      "title": "Consequences",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": [
+        "terminated from the program",
+        "may lose student status with US Immigration and Naturalization Service",
+        "receives advice and counselling",
+        "may be put on academic probation",
+        "will not be certified"
+      ]
+    },
+    "questions": {
+      "21": {
+        "prompt": "Action: 'Student frequently fails to complete homework', first consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "22": {
+        "prompt": "Action: 'Student frequently fails to complete homework', second consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "23": {
+        "prompt": "Action: 'Student does not respond to letter announcing academic probation', first consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "24": {
+        "prompt": "Action: 'Student does not respond to letter announcing academic probation', second consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "25": {
+        "prompt": "Action: 'Student is absent for 30 hours', consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "26": {
+        "prompt": "Action: 'Student is absent for 50 hours', first consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "27": {
+        "prompt": "Action: 'Student is absent for 50 hours', second consequence",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    }
+  }
+}

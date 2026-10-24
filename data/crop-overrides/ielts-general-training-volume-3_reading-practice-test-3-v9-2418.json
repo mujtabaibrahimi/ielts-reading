@@ -1,0 +1,197 @@
+{
+  "p1g5": {
+    "clearImages": true,
+    "instruction": "Read the advertisements for musical events on the previous page. Answer the questions below by writing the appropriate letter A-E. Example: At which concert will a television character appear? Answer: B.",
+    "optionBank": {
+      "title": "Concerts",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "5": {
+        "prompt": "At which concert will young performers play?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "6": {
+        "prompt": "Which concert will be held outdoors?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "7": {
+        "prompt": "Which concerts will happen more than once in Sunday?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "8": {
+        "prompt": "Which concert will feature only one performer?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "9": {
+        "prompt": "Which concert is NOT being held at night?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "10": {
+        "prompt": "At which concert can the audience choose what will be performed?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      }
+    },
+    "drop": true,
+    "ifNumbers": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "p1g6": {
+    "clearImages": true,
+    "instruction": "The passage 'First Aid for Snake Bites' explains what to do in the event of a snake bite. Read the additional instructions below and choose the section A-D to which each instruction belongs. Example: never use a tight bandage, Answer: D.",
+    "optionBank": {
+      "title": "Sections",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "11": {
+        "prompt": "help the casualty to sit or lie down",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "12": {
+        "prompt": "wear stout shoes, walk-socks and jeans (or similar clothing) in areas where snakes could be present",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "13": {
+        "prompt": "pain or tightness in the chest or abdomen",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "14": {
+        "prompt": "do not try to catch the snake",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      "15": {
+        "prompt": "swelling of the bitten area",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "drop": true,
+    "ifNumbers": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ]
+  },
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Kormilda College diagram is missing from the source crop (only the instruction and blank answer lines 29-33 are present); cannot transcribe without inventing."
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        28
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Write the appropriate letter, A-D, in box 28 on your answer sheet.",
+    "questions": {
+      "28": {
+        "prompt": "From the list below, choose the best heading for Section B of the reading passage.",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "Specialist teaching and teachers at Kormilda College",
+          "Special Programmes at Kormilda College for Aboriginal students",
+          "The new look Kormilda College",
+          "Programmes at Kormilda College to promote individual excellence"
+        ]
+      }
+    }
+  },
+  "p1g1": {
+    "questionNumbers": [
+      4
+    ]
+  },
+  "_answers": {
+    "2": "33, 28"
+  }
+}

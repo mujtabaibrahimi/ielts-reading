@@ -1,249 +1,1121 @@
 {
   "id": "ielts-mock-test-2022-march_reading-practice-test-2-v9-18821465",
   "type": "academic",
-  "source": "ielts-mock-test-2022-march reading-practice-test-2-v9-18821465",
+  "title": "IELTS Academic 2022 March - Reading Test 2",
+  "collection": "IELTS Academic Mock Tests 2022",
+  "testNumber": 2,
+  "year": 2022,
+  "month": 3,
+  "volume": 0,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-mock-test-2022-march_reading-practice-test-2-v9-18821465.pdf",
-  "total_questions": 13,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "MOUNT EVEREST AND HILLARY",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
         12
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1- 12, which are based on\nReading Passage 1 below.\nMOUNT EVEREST AND HILLARY\nMount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348\nmetres tall, the highest mountain on earth above sea level. Formed about 60\nmillion years ago and lying between Tibet and Nepal, Mount Everest appeals to\nclimbers of every level, from novice to experienced climber. Each mountaineer\npays a considerable amount of money to an experienced guide to help them\nachieve a successful climb. Everest was given its oﬃcial English name in 1865\nby the Royal Geographic Society upon recommendation of Andrew Waugh, the\nBritish Surveyor General of India at the time.\nWhen Everest was oﬃcially announced as the world’s highest mountain in\n1852, it won interest from people all over the world, and the idea of climbing all\n(lie way to the summit was viewed as the ultimate feat. Nobody was able to\nclimb Everest until 1920 when Tibet ﬁrst opened its borders to outsiders, and\nbetween 1920 and 1952, seven major expeditions failed to reach the tip of\nMount Everest, In fact, the mountain has a history of adversity and failure. With\nadvances in climbing equipment in the last ten years or so, and more\nexperienced guides, the fatality rates have dropped from 37% in 1990 to 4% in\n2004. Nonetheless, the deadliest year in Mount Everest’s history was 1996,\nwhen 19 people died near the summit.\nIn 1924, Mount Everest claimed the lives of its ﬁrst two climbers. George\nMallory and Andrew Irvine were two British climbers, attempting to reach the\nsummit. The men were last seen heading for the top of the mountain until\nclouds surrounded Everest and they disappeared. Mallory’s body was not seen\nagain until 75 years on, in May of 1999, and Irvine’s body is yet to be found.\nThere is still no evidence as to whether these two men made it to the top or\nnot, although disputes rages on, Those that believe the pair were the ﬁrst; to\n\nclimb Everest point to two speciﬁc points, ﬁrstly, Mallory’s daughter has always\nsaid that Mallory carried a photograph of his wife on his person with the\nintention of leaving it on the summit when he reached it. This photo was not\nfound on the body when it was discovered. Secondly, Mallory’s snow’ goggles\nwere in his pocket when the body was found, indicating that he died at night.\nThis implies that he and Irvine had made a push for the summit and were\ndescending very late in the day. Given their known departure time and\nmovements, had they not made the summit, it is unlikely that they would have\nstill been out by nightfall.\nThe ﬁrst time the actual peak of this monstrous mountain was reached was in\n1953, in a combined eﬀort by Sir Edmund Hillary and Tenzing Norgay. On the\n29th of May that year, the duo conquered this epic mountain, standing at the\nhighest point in the world for a brief 15 minutes. After a brief but fruitless\nsearch for evidence of the 1924 Mallory expedition, they buried a cross and\nsome candy in the snow, taking a few photographs of the historic event. As\nNorgay had never operated a camera, there are no photographs of Hillary on\ntop of the mountain, just shots of Norgay, and some additional photos looking\ndown the mountain, ensuring evidence of their conquest and that the ascent\nwas not faked.\nWhen the news reached London on June 2nd, Sir Edmund Hillary was knighted\nin the Order of the British Empire and Norgay (a subject of the King of Nepal)\nwas granted the George Medai by the UK, Sir Hillary turned to Antarctic\nexploration and led the New Zealand section of the Trans-Antarctic expedition\nfrom 1955 to 1958. In 1958, he took part in a mechanised expedition to the\nSouth Pole. Hillary continued to organise further mountain- climbing\nexpeditions but, as the years passed, he became more and more concerned\nwith the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to\naid in the development of the society, building clinics, hospitals and schools.\nAfter conquering Everest, Sir Edmund Hillary devoted most of his life to helping\nthe Sherpa people of Nepal through the Himalayan Trust.\nIn January 2007, Sir Edmund Hillary went to Antarctica to commemorate the\n50th anniversary of the founding of Scott Base. He ﬂew to the station on 18\nJanuary 2007 with a delegation including the Prime Minister. On the 22nd of\nApril 2007, while on a trip to Kathmandu, he was reported to have suﬀered a\nfall. There was no comment on the nature of his illness and lie did not\nimmediately seek treatment. He was hospitalized after returning to New\nZealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of\nJanuary the 11th 2008. Hillary’s life was marked by wonderful achievements,\nhis giving nature, grand discovery, and excitement. But he was a humble man\nwho did not admit to being the ﬁrst man to reach the summit of Everest until\n\nlong after 1386, well after the death of his climbing companion Tenzing\nNorgay.\nThe latest record for climbing Mount Everest was set on the 30th of May in\n2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the ﬁrst\ncouple to get married on top of Mount Everest.",
-        "tables": [],
+        "heading": "MOUNT EVEREST AND HILLARY",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Mount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348\nmetres tall, the highest mountain on earth above sea level. Formed about 60\nmillion years ago and lying between Tibet and Nepal, Mount Everest appeals to\nclimbers of every level, from novice to experienced climber. Each mountaineer\npays a considerable amount of money to an experienced guide to help them\nachieve a successful climb. Everest was given its oﬃcial English name in 1865\nby the Royal Geographic Society upon recommendation of Andrew Waugh, the\nBritish Surveyor General of India at the time.\nWhen Everest was oﬃcially announced as the world's highest mountain in\n1852, it won interest from people all over the world, and the idea of climbing all\n(lie way to the summit was viewed as the ultimate feat. Nobody was able to\nclimb Everest until 1920 when Tibet ﬁrst opened its borders to outsiders, and\nbetween 1920 and 1952, seven major expeditions failed to reach the tip of\nMount Everest, In fact, the mountain has a history of adversity and failure. With\nadvances in climbing equipment in the last ten years or so, and more\nexperienced guides, the fatality rates have dropped from 37% in 1990 to 4% in\n2004. Nonetheless, the deadliest year in Mount Everest's history was 1996,\nwhen 19 people died near the summit.\nIn 1924, Mount Everest claimed the lives of its ﬁrst two climbers. George\nMallory and Andrew Irvine were two British climbers, attempting to reach the\nsummit. The men were last seen heading for the top of the mountain until\nclouds surrounded Everest and they disappeared. Mallory's body was not seen\nagain until 75 years on, in May of 1999, and Irvine's body is yet to be found.\nThere is still no evidence as to whether these two men made it to the top or\nnot, although disputes rages on, Those that believe the pair were the ﬁrst; to"
+          },
+          {
+            "label": null,
+            "text": "climb Everest point to two speciﬁc points, ﬁrstly, Mallory's daughter has always\nsaid that Mallory carried a photograph of his wife on his person with the\nintention of leaving it on the summit when he reached it. This photo was not\nfound on the body when it was discovered. Secondly, Mallory's snow' goggles\nwere in his pocket when the body was found, indicating that he died at night.\nThis implies that he and Irvine had made a push for the summit and were\ndescending very late in the day. Given their known departure time and\nmovements, had they not made the summit, it is unlikely that they would have\nstill been out by nightfall.\nThe ﬁrst time the actual peak of this monstrous mountain was reached was in\n1953, in a combined eﬀort by Sir Edmund Hillary and Tenzing Norgay. On the\n29th of May that year, the duo conquered this epic mountain, standing at the\nhighest point in the world for a brief 15 minutes. After a brief but fruitless\nsearch for evidence of the 1924 Mallory expedition, they buried a cross and\nsome candy in the snow, taking a few photographs of the historic event. As\nNorgay had never operated a camera, there are no photographs of Hillary on\ntop of the mountain, just shots of Norgay, and some additional photos looking\ndown the mountain, ensuring evidence of their conquest and that the ascent\nwas not faked.\nWhen the news reached London on June 2nd, Sir Edmund Hillary was knighted\nin the Order of the British Empire and Norgay (a subject of the King of Nepal)\nwas granted the George Medai by the UK, Sir Hillary turned to Antarctic\nexploration and led the New Zealand section of the Trans-Antarctic expedition\nfrom 1955 to 1958. In 1958, he took part in a mechanised expedition to the\nSouth Pole. Hillary continued to organise further mountain- climbing\nexpeditions but, as the years passed, he became more and more concerned\nwith the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to\naid in the development of the society, building clinics, hospitals and schools.\nAfter conquering Everest, Sir Edmund Hillary devoted most of his life to helping\nthe Sherpa people of Nepal through the Himalayan Trust.\nIn January 2007, Sir Edmund Hillary went to Antarctica to commemorate the\n50th anniversary of the founding of Scott Base. He ﬂew to the station on 18\nJanuary 2007 with a delegation including the Prime Minister. On the 22nd of\nApril 2007, while on a trip to Kathmandu, he was reported to have suﬀered a\nfall. There was no comment on the nature of his illness and lie did not\nimmediately seek treatment. He was hospitalized after returning to New\nZealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of\nJanuary the 11th 2008. Hillary's life was marked by wonderful achievements,\nhis giving nature, grand discovery, and excitement. But he was a humble man\nwho did not admit to being the ﬁrst man to reach the summit of Everest until"
+          },
+          {
+            "label": null,
+            "text": "long after 1386, well after the death of his climbing companion Tenzing\nNorgay.\nThe latest record for climbing Mount Everest was set on the 30th of May in\n2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the ﬁrst\ncouple to get married on top of Mount Everest."
+          }
+        ],
+        "text": "Mount Everest, also known as Sagarmartha (Goddess of the Sky), is 8,348\nmetres tall, the highest mountain on earth above sea level. Formed about 60\nmillion years ago and lying between Tibet and Nepal, Mount Everest appeals to\nclimbers of every level, from novice to experienced climber. Each mountaineer\npays a considerable amount of money to an experienced guide to help them\nachieve a successful climb. Everest was given its oﬃcial English name in 1865\nby the Royal Geographic Society upon recommendation of Andrew Waugh, the\nBritish Surveyor General of India at the time.\nWhen Everest was oﬃcially announced as the world's highest mountain in\n1852, it won interest from people all over the world, and the idea of climbing all\n(lie way to the summit was viewed as the ultimate feat. Nobody was able to\nclimb Everest until 1920 when Tibet ﬁrst opened its borders to outsiders, and\nbetween 1920 and 1952, seven major expeditions failed to reach the tip of\nMount Everest, In fact, the mountain has a history of adversity and failure. With\nadvances in climbing equipment in the last ten years or so, and more\nexperienced guides, the fatality rates have dropped from 37% in 1990 to 4% in\n2004. Nonetheless, the deadliest year in Mount Everest's history was 1996,\nwhen 19 people died near the summit.\nIn 1924, Mount Everest claimed the lives of its ﬁrst two climbers. George\nMallory and Andrew Irvine were two British climbers, attempting to reach the\nsummit. The men were last seen heading for the top of the mountain until\nclouds surrounded Everest and they disappeared. Mallory's body was not seen\nagain until 75 years on, in May of 1999, and Irvine's body is yet to be found.\nThere is still no evidence as to whether these two men made it to the top or\nnot, although disputes rages on, Those that believe the pair were the ﬁrst; to\n\nclimb Everest point to two speciﬁc points, ﬁrstly, Mallory's daughter has always\nsaid that Mallory carried a photograph of his wife on his person with the\nintention of leaving it on the summit when he reached it. This photo was not\nfound on the body when it was discovered. Secondly, Mallory's snow' goggles\nwere in his pocket when the body was found, indicating that he died at night.\nThis implies that he and Irvine had made a push for the summit and were\ndescending very late in the day. Given their known departure time and\nmovements, had they not made the summit, it is unlikely that they would have\nstill been out by nightfall.\nThe ﬁrst time the actual peak of this monstrous mountain was reached was in\n1953, in a combined eﬀort by Sir Edmund Hillary and Tenzing Norgay. On the\n29th of May that year, the duo conquered this epic mountain, standing at the\nhighest point in the world for a brief 15 minutes. After a brief but fruitless\nsearch for evidence of the 1924 Mallory expedition, they buried a cross and\nsome candy in the snow, taking a few photographs of the historic event. As\nNorgay had never operated a camera, there are no photographs of Hillary on\ntop of the mountain, just shots of Norgay, and some additional photos looking\ndown the mountain, ensuring evidence of their conquest and that the ascent\nwas not faked.\nWhen the news reached London on June 2nd, Sir Edmund Hillary was knighted\nin the Order of the British Empire and Norgay (a subject of the King of Nepal)\nwas granted the George Medai by the UK, Sir Hillary turned to Antarctic\nexploration and led the New Zealand section of the Trans-Antarctic expedition\nfrom 1955 to 1958. In 1958, he took part in a mechanised expedition to the\nSouth Pole. Hillary continued to organise further mountain- climbing\nexpeditions but, as the years passed, he became more and more concerned\nwith the welfare of the Nepalese people. In the 1960s, he returned to Nepal, to\naid in the development of the society, building clinics, hospitals and schools.\nAfter conquering Everest, Sir Edmund Hillary devoted most of his life to helping\nthe Sherpa people of Nepal through the Himalayan Trust.\nIn January 2007, Sir Edmund Hillary went to Antarctica to commemorate the\n50th anniversary of the founding of Scott Base. He ﬂew to the station on 18\nJanuary 2007 with a delegation including the Prime Minister. On the 22nd of\nApril 2007, while on a trip to Kathmandu, he was reported to have suﬀered a\nfall. There was no comment on the nature of his illness and lie did not\nimmediately seek treatment. He was hospitalized after returning to New\nZealand. Sadly, Sir Edmund Hillary died of a heart attack on the morning of\nJanuary the 11th 2008. Hillary's life was marked by wonderful achievements,\nhis giving nature, grand discovery, and excitement. But he was a humble man\nwho did not admit to being the ﬁrst man to reach the summit of Everest until\n\nlong after 1386, well after the death of his climbing companion Tenzing\nNorgay.\nThe latest record for climbing Mount Everest was set on the 30th of May in\n2005 by Nepalese Mona Mulepati and PemDorje Sherpa, who were the ﬁrst\ncouple to get married on top of Mount Everest.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1-6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain?",
+          "body": "[[1]] Which country prevented explorers climbing Everest until 1920? [[2]] What has not yet been recovered? [[3]] What was not found on Mallory's body that indicates he may have reached the summit? [[4]] Who was photographed at the top of the mountain? [[5]] What was the name of Hillary's charitable organisation? [[6]]",
+          "range": [
+            1,
+            6
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            7,
+            12
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 1,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Andrew Waugh",
+          "trap": null
+        },
+        {
+          "number": 2,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Tibet",
+          "trap": null
+        },
+        {
+          "number": 3,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Irvine's body",
+          "trap": null
+        },
+        {
+          "number": 4,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "A photograph",
+          "trap": null
+        },
+        {
+          "number": 5,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Tenzing Norgay",
+          "trap": null
+        },
+        {
+          "number": 6,
+          "type": "sentence-completion",
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(the) Himalayan Trust",
+          "trap": null
+        },
         {
           "number": 7,
           "type": "true-false-not-given",
-          "prompt": "Mortality rates on Everest have consistently declined since 1990.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "Mortality rates on Everest have consistently declined",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 8,
           "type": "true-false-not-given",
+          "groupId": "p1g2",
           "prompt": "Hillary found evidence of the Mallory expedition.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 9,
           "type": "true-false-not-given",
-          "prompt": "Photographs were taken from the summit as proof of the Hillary/ Norgay climb.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "Photographs were taken from the summit as proof of",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 10,
           "type": "true-false-not-given",
-          "prompt": "Both Hillary and Norgay received recognition of their achievement from Britain.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "TRUE",
+          "groupId": "p1g2",
+          "prompt": "Both Hillary and Norgay received recognition of their\nachievement from Britain.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 11,
           "type": "true-false-not-given",
-          "prompt": "Hillary was the first person to reach the South Pole by mechanised transport.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p1g2",
+          "prompt": "Hillary was the first person to reach the South Pole by\nmechanised transport.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 12,
           "type": "true-false-not-given",
-          "prompt": "Hillary’s death was attributed to an accident that occurred in Kathmandu.",
-          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 1 – 6 on your answer sheet. Who suggested that the name Everest be used to refer to the mountain? 1 Which country prevented explorers climbing Everest until 1920? 2 What has not yet been recovered? 3 What was not found on Mallory’s body that indicates he may have reached the summit? 4 Who was photographed at the top of the mountain? 5 What was the name of Hillary’s charitable organisation? 6 Do the following statements agree with the information given in the reading passage? In boxes 7- 12 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "groupId": "p1g2",
+          "prompt": "Hillary's death was attributed to an accident that\noccurred in Kathmandu.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "SLEEP",
+      "title": "Reading Passage 2",
       "questionRange": [
         13,
         27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 13-27, which are based on\nReading Passage 2 below\nSLEEP\nA. Like many things about your body, scientists and medical professionals still\nhave a lot to learn about the process of sleep. One earlier misconception that\nhas now been revised is that the body completely slows down during sleep; it\nis now dear that the body’s major organs and regulatory systems continue to\nwork actively – the lungs, heart and stomach for example. Another important\npart of the body also operates at night – the glands and lymph nodes, which\nstrengthen the immune system. This is commonly why the body’s natural\nimmunity is weakened with insufficient sleep.\nB. In some cases, certain systems actually become more active while we sleep.\nHormones required for muscle development and growth, for instance, as well\nas the growth of new nerve cells. In the brain, activity of the pathways needed\nfor learning and memory is increased.\nC. Another common myth about sleep is that the body requires less sleep the\nolder we get. Whilst It is true that babies need 16 hours compared to 9 hours\nand 8 hours respectively for teenagers and adults, this does not mean that\nolder people need less sleep. However, what is true if that for a number of\ndifferent factors, they often get less sleep or find their sleep less refreshing.\nThis is because as people age, they spend less time in the deep, restful stages\nof sleep and are more easily awakened. Older people are also more likely to\nhave medical conditions that affect their sleep, such as insomnia, sleep apnoea\nand heart problems.\nD. Getting a good sleep is not just a matter of your head hitting the pillow at\nnight and waking up in the morning. Your sleep goes in cycles throughout the\nnight, moving back and forth between deep restorative sleep and more alert\n\nstages with dreaming. As the night progresses, you spend more time in a\nlighter dream sleep.\nE. Sleep patterns can be broken down into two separate and distinct stages –\nREM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream.\nYou usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes\nto over an hour, during which time your body’s activities increase. Breathing\nbecomes fast, shallow and uneven, with an increase in brain activity, heartbeat\nand blood pressure. Although your major muscles generally don’t move, fingers\nand toes may twitch and body temperature changes and you may sweat or\nshiver.\nF. Research has concluded that this sleep is most important for your brain. It is\nwhen it is most active, processing emotions and memories and relieving stress.\nThe areas used for learning and developing more skills are activated. In fact,\nthe brain waves measured during REM sleep are similar to those measured\nwhen awake.\nG. NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep\nconsists of four stages of deeper and deeper sleep. As you move through the\nstages, you become more relaxed, less aware of what is happening around you\nand more difficult to wake. Your body’s activity will also decrease as you move\nthrough the NREM stages, acting in the opposite manner to REM sleep. Stage 1\nof NREM sleep is when you are falling to sleep. This period generally lasts\nbetween 5 and 10 minutes, during which time you can be woken easily. During\nstage 2, you are in a light sleep- the in-between stage before your fall into a\ndeep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the\nway for stage 4, in which you are difficult to awake and unaware of anything\naround you. This is when sleep walking and talking can occur. This is the most\nimportant stage for your body. Your brain has slowed right down and is\nrecovering. Blood flow is redirected from your brain to your large muscles\nallowing them to mend any damage from your day at work. People woken\nquickly from stage 4 sleep often feel a sense of disorientation, which is why it\nis helpful to use an alarm clock with an ascending ring.\nH. About an hour and a half into your sleep cycle you will go from deep Stage 4\nsleep back into light Stage 2 sleep, then into REM sleep, before the cycle\nbegins again. About 75% of your sleep is NREM sleep. If you sleep for eight\nhours, about six of them will be NREM sleep. As the night progresses, you\nspend more time in dream sleep and lighter sleep.\nI. When you constantly get less sleep (even 1 hour less) than you need each\nnight, it is called sleep debt. You may pay for it in daytime drowsiness, trouble\n\nconcentrating, moodiness, lower productivity and increased risk of falls and\naccidents. Although a daytime nap cannot replace a good night’s sleep, it can\nhelp make up for some of the harm done as a result of sleep debt. But avoid\ntaking a nap after 3 pm as late naps may stop you getting to sleep at night.\nAnd avoid napping for longer than 30 minutes as longer naps will make it\nharder to wake up and get back into the swing of things.",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "SLEEP",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "Like many things about your body, scientists and medical professionals still"
+            "label": null,
+            "text": "A. Like many things about your body, scientists and medical professionals still\nhave a lot to learn about the process of sleep. One earlier misconception that\nhas now been revised is that the body completely slows down during sleep; it\nis now dear that the body's major organs and regulatory systems continue to\nwork actively - the lungs, heart and stomach for example. Another important\npart of the body also operates at night - the glands and lymph nodes, which\nstrengthen the immune system. This is commonly why the body's natural\nimmunity is weakened with insufficient sleep."
           },
           {
-            "label": "B",
-            "content": "In some cases, certain systems actually become more active while we sleep."
+            "label": null,
+            "text": "B. In some cases, certain systems actually become more active while we sleep.\nHormones required for muscle development and growth, for instance, as well\nas the growth of new nerve cells. In the brain, activity of the pathways needed\nfor learning and memory is increased."
           },
           {
-            "label": "C",
-            "content": "Another common myth about sleep is that the body requires less sleep the"
+            "label": null,
+            "text": "C. Another common myth about sleep is that the body requires less sleep the\nolder we get. Whilst It is true that babies need 16 hours compared to 9 hours\nand 8 hours respectively for teenagers and adults, this does not mean that\nolder people need less sleep. However, what is true if that for a number of\ndifferent factors, they often get less sleep or find their sleep less refreshing.\nThis is because as people age, they spend less time in the deep, restful stages\nof sleep and are more easily awakened. Older people are also more likely to\nhave medical conditions that affect their sleep, such as insomnia, sleep apnoea\nand heart problems."
           },
           {
-            "label": "D",
-            "content": "Getting a good sleep is not just a matter of your head hitting the pillow at"
+            "label": null,
+            "text": "D. Getting a good sleep is not just a matter of your head hitting the pillow at\nnight and waking up in the morning. Your sleep goes in cycles throughout the\nnight, moving back and forth between deep restorative sleep and more alert"
           },
           {
-            "label": "E",
-            "content": "Sleep patterns can be broken down into two separate and distinct stages –"
+            "label": null,
+            "text": "stages with dreaming. As the night progresses, you spend more time in a\nlighter dream sleep."
           },
           {
-            "label": "F",
-            "content": "Research has concluded that this sleep is most important for your brain. It is"
+            "label": null,
+            "text": "E. Sleep patterns can be broken down into two separate and distinct stages -\nREM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream.\nYou usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes\nto over an hour, during which time your body's activities increase. Breathing\nbecomes fast, shallow and uneven, with an increase in brain activity, heartbeat\nand blood pressure. Although your major muscles generally don't move, fingers\nand toes may twitch and body temperature changes and you may sweat or\nshiver."
           },
           {
-            "label": "G",
-            "content": "NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep"
+            "label": null,
+            "text": "F. Research has concluded that this sleep is most important for your brain. It is\nwhen it is most active, processing emotions and memories and relieving stress.\nThe areas used for learning and developing more skills are activated. In fact,\nthe brain waves measured during REM sleep are similar to those measured\nwhen awake."
+          },
+          {
+            "label": null,
+            "text": "G. NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep\nconsists of four stages of deeper and deeper sleep. As you move through the\nstages, you become more relaxed, less aware of what is happening around you\nand more difficult to wake. Your body's activity will also decrease as you move\nthrough the NREM stages, acting in the opposite manner to REM sleep. Stage 1\nof NREM sleep is when you are falling to sleep. This period generally lasts\nbetween 5 and 10 minutes, during which time you can be woken easily. During\nstage 2, you are in a light sleep- the in-between stage before your fall into a\ndeep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the\nway for stage 4, in which you are difficult to awake and unaware of anything\naround you. This is when sleep walking and talking can occur. This is the most\nimportant stage for your body. Your brain has slowed right down and is\nrecovering. Blood flow is redirected from your brain to your large muscles\nallowing them to mend any damage from your day at work. People woken\nquickly from stage 4 sleep often feel a sense of disorientation, which is why it\nis helpful to use an alarm clock with an ascending ring."
+          },
+          {
+            "label": null,
+            "text": "H. About an hour and a half into your sleep cycle you will go from deep Stage 4\nsleep back into light Stage 2 sleep, then into REM sleep, before the cycle\nbegins again. About 75% of your sleep is NREM sleep. If you sleep for eight\nhours, about six of them will be NREM sleep. As the night progresses, you\nspend more time in dream sleep and lighter sleep."
+          },
+          {
+            "label": null,
+            "text": "I. When you constantly get less sleep (even 1 hour less) than you need each\nnight, it is called sleep debt. You may pay for it in daytime drowsiness, trouble"
+          },
+          {
+            "label": null,
+            "text": "concentrating, moodiness, lower productivity and increased risk of falls and\naccidents. Although a daytime nap cannot replace a good night's sleep, it can\nhelp make up for some of the harm done as a result of sleep debt. But avoid\ntaking a nap after 3 pm as late naps may stop you getting to sleep at night.\nAnd avoid napping for longer than 30 minutes as longer naps will make it\nharder to wake up and get back into the swing of things."
           }
-        ]
+        ],
+        "text": "A. Like many things about your body, scientists and medical professionals still\nhave a lot to learn about the process of sleep. One earlier misconception that\nhas now been revised is that the body completely slows down during sleep; it\nis now dear that the body's major organs and regulatory systems continue to\nwork actively - the lungs, heart and stomach for example. Another important\npart of the body also operates at night - the glands and lymph nodes, which\nstrengthen the immune system. This is commonly why the body's natural\nimmunity is weakened with insufficient sleep.\n\nB. In some cases, certain systems actually become more active while we sleep.\nHormones required for muscle development and growth, for instance, as well\nas the growth of new nerve cells. In the brain, activity of the pathways needed\nfor learning and memory is increased.\n\nC. Another common myth about sleep is that the body requires less sleep the\nolder we get. Whilst It is true that babies need 16 hours compared to 9 hours\nand 8 hours respectively for teenagers and adults, this does not mean that\nolder people need less sleep. However, what is true if that for a number of\ndifferent factors, they often get less sleep or find their sleep less refreshing.\nThis is because as people age, they spend less time in the deep, restful stages\nof sleep and are more easily awakened. Older people are also more likely to\nhave medical conditions that affect their sleep, such as insomnia, sleep apnoea\nand heart problems.\n\nD. Getting a good sleep is not just a matter of your head hitting the pillow at\nnight and waking up in the morning. Your sleep goes in cycles throughout the\nnight, moving back and forth between deep restorative sleep and more alert\n\nstages with dreaming. As the night progresses, you spend more time in a\nlighter dream sleep.\n\nE. Sleep patterns can be broken down into two separate and distinct stages -\nREM and NREM sleep, REM (Rapid Eye Movement) sleep is when you dream.\nYou usually have 3 to 5 periods of REM sleep each night, lasting from 5 minutes\nto over an hour, during which time your body's activities increase. Breathing\nbecomes fast, shallow and uneven, with an increase in brain activity, heartbeat\nand blood pressure. Although your major muscles generally don't move, fingers\nand toes may twitch and body temperature changes and you may sweat or\nshiver.\n\nF. Research has concluded that this sleep is most important for your brain. It is\nwhen it is most active, processing emotions and memories and relieving stress.\nThe areas used for learning and developing more skills are activated. In fact,\nthe brain waves measured during REM sleep are similar to those measured\nwhen awake.\n\nG. NREM (Noil-Rapid Eye Movement) sleep is dreamless sleep. NREM sleep\nconsists of four stages of deeper and deeper sleep. As you move through the\nstages, you become more relaxed, less aware of what is happening around you\nand more difficult to wake. Your body's activity will also decrease as you move\nthrough the NREM stages, acting in the opposite manner to REM sleep. Stage 1\nof NREM sleep is when you are falling to sleep. This period generally lasts\nbetween 5 and 10 minutes, during which time you can be woken easily. During\nstage 2, you are in a light sleep- the in-between stage before your fall into a\ndeep sleep. It lasts about 20 minutes. In stage 3, deep sleep begins, paving the\nway for stage 4, in which you are difficult to awake and unaware of anything\naround you. This is when sleep walking and talking can occur. This is the most\nimportant stage for your body. Your brain has slowed right down and is\nrecovering. Blood flow is redirected from your brain to your large muscles\nallowing them to mend any damage from your day at work. People woken\nquickly from stage 4 sleep often feel a sense of disorientation, which is why it\nis helpful to use an alarm clock with an ascending ring.\n\nH. About an hour and a half into your sleep cycle you will go from deep Stage 4\nsleep back into light Stage 2 sleep, then into REM sleep, before the cycle\nbegins again. About 75% of your sleep is NREM sleep. If you sleep for eight\nhours, about six of them will be NREM sleep. As the night progresses, you\nspend more time in dream sleep and lighter sleep.\n\nI. When you constantly get less sleep (even 1 hour less) than you need each\nnight, it is called sleep debt. You may pay for it in daytime drowsiness, trouble\n\nconcentrating, moodiness, lower productivity and increased risk of falls and\naccidents. Although a daytime nap cannot replace a good night's sleep, it can\nhelp make up for some of the harm done as a result of sleep debt. But avoid\ntaking a nap after 3 pm as late naps may stop you getting to sleep at night.\nAnd avoid napping for longer than 30 minutes as longer naps will make it\nharder to wake up and get back into the swing of things.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information, given in the reading passage? In boxes 13-16 on your answer sheet write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            13,
+            16
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the sentences below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer,",
+          "body": "Write your answers in boxes [[17]]'[[20]] on your answer sheet. REM sleep can help reduce 17 During REM sleep, [[18]] are similar to those recorded whilst awake. During Stage 1 NREM sleep, you can be [[19]] with little effort. Suddenly being woken from deep sleep can cause 20",
+          "range": [
+            17,
+            20
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "multiple-choice-multi",
+          "instruction": "Choose TWO letters, A-E. Write your answers in boxes 21-22. NB Your answers may be given in either order. REM sleep",
+          "body": null,
+          "range": [
+            21,
+            22
+          ],
+          "optionBank": {
+            "title": "Options",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            "labels": [
+              "is more common for younger people.",
+              "is when we dream.",
+              "may cause your extremities to move of their own accord.",
+              "lasts about an hour a night.",
+              "is when the brain is most relaxed."
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g4",
+          "type": "matching-paragraph-information",
+          "instruction": "The reading passage has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter A-I in boxes 23-27.",
+          "body": null,
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 13,
           "type": "true-false-not-given",
-          "prompt": "It was previously believed that biological processes slowed during sleep.",
-          "instruction": "Do the following statements agree with the information, given in the reading passage? In boxes 13-16 on your answer sheet write TRUE",
-          "answer": "TRUE",
+          "groupId": "p2g1",
+          "prompt": "It was previously believed that biological processes\nslowed during sleep.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
         },
         {
           "number": 14,
           "type": "true-false-not-given",
-          "prompt": "Teenagers lose less sleep than adults when they have a medical condition.",
-          "instruction": "Do the following statements agree with the information, given in the reading passage? In boxes 13-16 on your answer sheet write TRUE",
-          "answer": "NOT GIVEN",
+          "groupId": "p2g1",
+          "prompt": "Teenagers lose less sleep than adults when they have\na medical condition.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
         },
         {
           "number": 15,
           "type": "true-false-not-given",
-          "prompt": "During the night, our sleep becomes increasingly deep.",
-          "instruction": "Do the following statements agree with the information, given in the reading passage? In boxes 13-16 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "During the night, our sleep becomes increasingly\ndeep.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
         },
         {
           "number": 16,
           "type": "true-false-not-given",
-          "prompt": "Lack of sleep can cause heart problems and other medical conditions. Complete the sentences below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer,",
-          "instruction": "Do the following statements agree with the information, given in the reading passage? In boxes 13-16 on your answer sheet write TRUE",
-          "answer": "FALSE",
+          "groupId": "p2g1",
+          "prompt": "Lack of sleep can cause heart problems and other\nmedical conditions.",
+          "instruction": "",
           "options": [
             "TRUE",
             "FALSE",
             "NOT GIVEN"
-          ]
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Stress",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(the) brain waves",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "(easily) woken",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "sentence-completion",
+          "groupId": "p2g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 3,
+          "maxSelect": null,
+          "answer": "Disorientation",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,C",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "multiple-choice-multi",
+          "groupId": "p2g3",
+          "prompt": "",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": 2,
+          "answer": "B,C",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g4",
+          "prompt": "Differences in sleep patterns between generations",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g4",
+          "prompt": "Brain activity is limited as resources are diverted",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g4",
+          "prompt": "Repetition of the cycle",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g4",
+          "prompt": "Dangers of accumulated lack of sleep",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "I",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "matching-paragraph-information",
+          "groupId": "p2g4",
+          "prompt": "Increased activity during sleep",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 3\non Reading Passage 3 below.",
-        "tables": [],
-        "images": [],
-        "sections": []
-      },
-      "questions": []
-    },
-    {
-      "partNumber": 1,
-      "title": "that of visible light.",
-      "questionRange": [
-        28,
-        35
-      ],
-      "timeSuggestion": 20,
-      "passage": {
-        "text": "that of visible light.\nH. Despite early setbacks – one of the reflective mirrors had to be replaced\nafter finding that it had been ground incorrectly and did not produce the\nimages expected – the telescope has reignited interest in space amongst the\ngeneral public – a requirement, given that taxpayer funding paid for the\nresearch, deployment and maintenance of the telescope.\nQuestions 28-35\nReading Passage 1 has eight paragraphs A-H.\nChoose the correct heading for paragraphs A-H from the list of headings\nbelow.\nWrite the correct number i-xii in boxes 28-35.\nList of Headings\ni\nDifferent methods of locating and identifying\nii\nA better view of the constellations\niii\nTechnological advances in research and development\niv\nAtmospheric weaknesses of telescopes in orbit\nv\nDifferent interpretations of star groupings\nvi\nCommon misconceptions\nvii\nBypassing terrestrial limitations\nviii\nRenewed interest in the stars\nix\nEthnic differences in celestial mapping\nx\nFormal marking of constellations\nxi\nUniversal myths of constellations\nxii\nHistorical and modern reference\n28\n Paragraph A\n29\n Paragraph B\n30\n Paragraph C\n31\n Paragraph D\n32\n Paragraph E",
-        "tables": [],
-        "images": [],
-        "sections": [
+        "heading": "",
+        "paragraphs": [
           {
-            "label": "A",
-            "content": "better view of the constellations"
+            "label": null,
+            "text": "You should spend shout 20 minutes on Questions 28 - 40, which are based\non Reading Passage 3 below."
+          },
+          {
+            "label": null,
+            "text": "Constellation"
+          },
+          {
+            "label": null,
+            "text": "A. A constellation is a group of stars which when viewed collectively appear to\nhave a physical proximity' in the sky. Constellation boundaries and definitions\nas used today in Western culture, and as defined by the International\nAstronomical Union (IAU), were formalised in 1930 by Eugene Delporte. There\nare 88 official constellations as recognised by the IAU, those visible in the\nnorthern hemisphere being based upon those established by the ancient\nGreeks, The constellations of the southern hemisphere - since invisible to the\nGreeks due to geographical location - were not defined until later in the early\nmodem era."
+          },
+          {
+            "label": null,
+            "text": "B. Arguably, the twelve constellations through which the sun passes - as used\nto represent the signs of the zodiac to define birth characteristics - are the\nmost culturally significant and well known of those established by the ancient\nGreeks. Cultural differences in Interpretation and definition of star\nconstellations mainly relate to these zodiac interpretations, Chinese\nconstellations, for example, which are different to those defined in the western\nworld due to the independent development of ancient Chinese astronomy,\nincludes 28 'Xiu' or 'mansions' instead of the 12 western zodiac counterparts.\nIn Hindu/Vedic astronomy, in which constellations are known as 'rashis', 12\nrashi corresponding directly to the twelve western star signs are\nacknowledged; these are however, divided again into 27 'Nakshatras' or 'lunar\nhouses'. Many cultures have an intricate mythology behind the stars and their\nconstellations. In Greek mythology, for example Pegasus, the winged horse, is\nsaid to have sprung from the decapitated head of Medusa, and later was used\nby the God King Zeus to carry thunder and lightning to Earth, before being put"
+          },
+          {
+            "label": null,
+            "text": "into a constellation."
+          },
+          {
+            "label": null,
+            "text": "C. In Western astronomy, all modern constellation names derive from Latin,\nsome stars within the constellations are named using the genitive form of the\nLatin word by using the usual rules of Latin grammar. For example the zodiac\nsign for the Fish constellation Pisces relates to Piscium. In addition, all\nconstellation names have a standard three-letter abbreviation as assigned by\nthe IAU, under which, for example, Pisces becomes PSC."
+          },
+          {
+            "label": null,
+            "text": "D. Some star patterns often wrongly considered constellations by laymen are\nactually 'asterisms' - a group of stars that appear to form patterns in the sky -\nand are not in fact one of the 88 officially divided areas truly defined as a\nconstellation. A famous example of an asterism oft mistaken for a constellation\nis the Big Dipper' (as it is termed in North America) or the 'Plough' as it is\nknown in the UK. In astronomical terms, this famous star formation is in fact\nconsidered only part of the larger constellation known as Ursa Major."
+          },
+          {
+            "label": null,
+            "text": "E. In order to identify the position of stars relative to the Earth, there are a\nnumber of different celestial coordinate systems that cart provide a detailed\nreference point in space. There are many different systems, all of which are\nlargely similar with the exception of a difference in the position of the\nfundamental plane - the division between northern and southern hemispheres.\nThe five most common celestial systems are the Horizontal system, the\nEquatorial system, the Ecliptical system, the Galactic system and the\nSupergalactic system."
+          },
+          {
+            "label": null,
+            "text": "F. The launch of the Hubble space telescope in April 1990 changed the way\nthat astronomers saw the universe, providing detailed digital images of\nconstellations, planets and gas- clouds that had never been seen before.\nCompared to ground-based telescopes, Hubble is not particularly large. With a\nprimary mirror diameter of 2.4 meters (94.5 inches). Hubble would be\nconsidered a medium-size telescope on the ground. However, the combination\nof its precision optics, state-of-the-art instrumentation, and unprecedented\npointing stability and control, allows Hubble to more than make up for its lack\nof size, giving it a range of well over 12 billion light years."
+          },
+          {
+            "label": null,
+            "text": "G. The telescope's location above the Earth's atmosphere also has a number of\nsignificant advantages over land based telescopes. The atmosphere bends\nlight due to a phenomenon known as diffraction (this is what causes starlight to\nappear to twinkle and leads to the often blurred images seen through ground-\nbased telescopes). The Hubble Space Telescope can also observe infrared light\nthat would otherwise be blocked by the atmosphere as the wavelength\n(distance between successive wave crests) of ultraviolet light is shorter than"
+          },
+          {
+            "label": null,
+            "text": "that of visible light."
+          },
+          {
+            "label": null,
+            "text": "H. Despite early setbacks - one of the reflective mirrors had to be replaced\nafter finding that it had been ground incorrectly and did not produce the\nimages expected - the telescope has reignited interest in space amongst the\ngeneral public - a requirement, given that taxpayer funding paid for the\nresearch, deployment and maintenance of the telescope."
           }
-        ]
+        ],
+        "text": "You should spend shout 20 minutes on Questions 28 - 40, which are based\non Reading Passage 3 below.\n\nConstellation\n\nA. A constellation is a group of stars which when viewed collectively appear to\nhave a physical proximity' in the sky. Constellation boundaries and definitions\nas used today in Western culture, and as defined by the International\nAstronomical Union (IAU), were formalised in 1930 by Eugene Delporte. There\nare 88 official constellations as recognised by the IAU, those visible in the\nnorthern hemisphere being based upon those established by the ancient\nGreeks, The constellations of the southern hemisphere - since invisible to the\nGreeks due to geographical location - were not defined until later in the early\nmodem era.\n\nB. Arguably, the twelve constellations through which the sun passes - as used\nto represent the signs of the zodiac to define birth characteristics - are the\nmost culturally significant and well known of those established by the ancient\nGreeks. Cultural differences in Interpretation and definition of star\nconstellations mainly relate to these zodiac interpretations, Chinese\nconstellations, for example, which are different to those defined in the western\nworld due to the independent development of ancient Chinese astronomy,\nincludes 28 'Xiu' or 'mansions' instead of the 12 western zodiac counterparts.\nIn Hindu/Vedic astronomy, in which constellations are known as 'rashis', 12\nrashi corresponding directly to the twelve western star signs are\nacknowledged; these are however, divided again into 27 'Nakshatras' or 'lunar\nhouses'. Many cultures have an intricate mythology behind the stars and their\nconstellations. In Greek mythology, for example Pegasus, the winged horse, is\nsaid to have sprung from the decapitated head of Medusa, and later was used\nby the God King Zeus to carry thunder and lightning to Earth, before being put\n\ninto a constellation.\n\nC. In Western astronomy, all modern constellation names derive from Latin,\nsome stars within the constellations are named using the genitive form of the\nLatin word by using the usual rules of Latin grammar. For example the zodiac\nsign for the Fish constellation Pisces relates to Piscium. In addition, all\nconstellation names have a standard three-letter abbreviation as assigned by\nthe IAU, under which, for example, Pisces becomes PSC.\n\nD. Some star patterns often wrongly considered constellations by laymen are\nactually 'asterisms' - a group of stars that appear to form patterns in the sky -\nand are not in fact one of the 88 officially divided areas truly defined as a\nconstellation. A famous example of an asterism oft mistaken for a constellation\nis the Big Dipper' (as it is termed in North America) or the 'Plough' as it is\nknown in the UK. In astronomical terms, this famous star formation is in fact\nconsidered only part of the larger constellation known as Ursa Major.\n\nE. In order to identify the position of stars relative to the Earth, there are a\nnumber of different celestial coordinate systems that cart provide a detailed\nreference point in space. There are many different systems, all of which are\nlargely similar with the exception of a difference in the position of the\nfundamental plane - the division between northern and southern hemispheres.\nThe five most common celestial systems are the Horizontal system, the\nEquatorial system, the Ecliptical system, the Galactic system and the\nSupergalactic system.\n\nF. The launch of the Hubble space telescope in April 1990 changed the way\nthat astronomers saw the universe, providing detailed digital images of\nconstellations, planets and gas- clouds that had never been seen before.\nCompared to ground-based telescopes, Hubble is not particularly large. With a\nprimary mirror diameter of 2.4 meters (94.5 inches). Hubble would be\nconsidered a medium-size telescope on the ground. However, the combination\nof its precision optics, state-of-the-art instrumentation, and unprecedented\npointing stability and control, allows Hubble to more than make up for its lack\nof size, giving it a range of well over 12 billion light years.\n\nG. The telescope's location above the Earth's atmosphere also has a number of\nsignificant advantages over land based telescopes. The atmosphere bends\nlight due to a phenomenon known as diffraction (this is what causes starlight to\nappear to twinkle and leads to the often blurred images seen through ground-\nbased telescopes). The Hubble Space Telescope can also observe infrared light\nthat would otherwise be blocked by the atmosphere as the wavelength\n(distance between successive wave crests) of ultraviolet light is shorter than\n\nthat of visible light.\n\nH. Despite early setbacks - one of the reflective mirrors had to be replaced\nafter finding that it had been ground incorrectly and did not produce the\nimages expected - the telescope has reignited interest in space amongst the\ngeneral public - a requirement, given that taxpayer funding paid for the\nresearch, deployment and maintenance of the telescope.",
+        "images": [],
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "heading-matching",
+          "instruction": "Reading Passage 1 has eight paragraphs A-H.",
+          "body": null,
+          "range": [
+            28,
+            35
+          ],
+          "optionBank": {
+            "title": "List of Headings",
+            "options": [
+              "i",
+              "ii",
+              "iii",
+              "iv",
+              "v",
+              "vi",
+              "vii",
+              "viii",
+              "ix",
+              "x",
+              "xi",
+              "xii"
+            ],
+            "labels": [
+              "Different methods of locating and identifying",
+              "A better view of the constellations",
+              "Technological advances in research and development",
+              "Atmospheric weaknesses of telescopes in orbit",
+              "Different interpretations of star groupings",
+              "Common misconceptions",
+              "Bypassing terrestrial limitations",
+              "Renewed interest in the stars",
+              "Ethnic differences in celestial mapping",
+              "Formal marking of constellations",
+              "Universal myths of constellations",
+              "Historical and modern reference"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "sentence-completion",
+          "instruction": "Complete the summary below using NO MORE THAN TWO WORDS. Write the correct answers in boxes 36-40.",
+          "body": "Despite an initial flaw in a [[36]] , the Hubble space telescope is superior to telescopes on land as it can identify [[37]] which would not normally reach the Earth's surface. This is all the more impressive given that Hubble is only classified as a [[38]] telescope. Being above the atmosphere, it also has the advantages of not being affected by [[39]] , which would otherwise lead to [[40]] images.",
+          "range": [
+            36,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        }
+      ],
       "questions": [
+        {
+          "number": 28,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph A",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "x",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph B",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "v",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph C",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "xii",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph D",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vi",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "heading-matching",
+          "groupId": "p3g1",
+          "prompt": "Paragraph E",
+          "instruction": "",
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "i",
+          "trap": null
+        },
         {
           "number": 33,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph F",
           "instruction": "",
-          "answer": "ii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "ii",
+          "trap": null
         },
         {
           "number": 34,
           "type": "heading-matching",
+          "groupId": "p3g1",
           "prompt": "Paragraph G",
           "instruction": "",
-          "answer": "vii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "vii",
+          "trap": null
         },
         {
           "number": 35,
           "type": "heading-matching",
-          "prompt": "Paragraph H Complete the summary below using NO MORE THAN TWO WORDS. Write the correct answers in boxes 36-40. Despite an initial flaw in a 36",
+          "groupId": "p3g1",
+          "prompt": "Paragraph H",
           "instruction": "",
-          "answer": "viii"
+          "options": [
+            "i",
+            "ii",
+            "iii",
+            "iv",
+            "v",
+            "vi",
+            "vii",
+            "viii",
+            "ix",
+            "x",
+            "xi",
+            "xii"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "viii",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "(reflective) mirror",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Infrared light",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "telescope.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Medium sized",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": ", which would otherwise lead to 40\n images.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Diffraction",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "sentence-completion",
+          "groupId": "p3g2",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Blurred",
+          "trap": null
         }
       ]
     }
@@ -251,7 +1123,7 @@
   "answers": {
     "1": "Andrew Waugh",
     "2": "Tibet",
-    "3": "Irvine’s body",
+    "3": "Irvine's body",
     "4": "A photograph",
     "5": "Tenzing Norgay",
     "6": "(the) Himalayan Trust",
@@ -269,6 +1141,7 @@
     "18": "(the) brain waves",
     "19": "(easily) woken",
     "20": "Disorientation",
+    "21": "B,C",
     "22": "B,C",
     "23": "C",
     "24": "G",

@@ -1,0 +1,147 @@
+{
+  "p1g3": {
+    "clearImages": true,
+    "instruction": "Complete each of the following statements with the correct ending from the list, A-H. Write the correct letter, A-H.",
+    "optionBank": {
+      "title": "Endings",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "10": {
+        "prompt": "Heinz Rolleke said the Grimm's tales are 'German' because the tales",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "11": {
+        "prompt": "Heinz Rolleke said the abandoned children in tales",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "12": {
+        "prompt": "Bernhard Lauer said the writing style of the Grimm brothers is universal because they",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "13": {
+        "prompt": "Jack Zipes said the pursuit of happiness in the tales means they",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "14": {
+        "prompt": "Bruno Bettelheim said the therapeutic value of the tales means that the fairy tales",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    }
+  },
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Locations",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "36": {
+        "prompt": "It has seen the return of native tree species.",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "37": {
+        "prompt": "It supports only one species of native monkey.",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "38": {
+        "prompt": "Its monkey population helps the agriculture of the area.",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "39": {
+        "prompt": "It is home to populations of all three local monkey species.",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      "40": {
+        "prompt": "Its landscape was altered by the construction of a transport link.",
+        "options": [
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    }
+  },
+  "_answers": {
+    "25": "suffering",
+    "26": "C,E",
+    "27": "C,E"
+  }
+}

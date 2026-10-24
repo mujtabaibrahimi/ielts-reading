@@ -1,0 +1,15 @@
+{
+  "p2g1": {
+    "_keepImage": true,
+    "_reason": "Timeline diagram is missing from the source crop (only the instruction and blank answer lines 14-24 are present); cannot transcribe without inventing."
+  },
+  "p3g1": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 27-32 are present); cannot transcribe without inventing."
+  },
+  "_answers": {
+    "24": "first inhabitants",
+    "25": "A,C",
+    "26": "A,C"
+  }
+}

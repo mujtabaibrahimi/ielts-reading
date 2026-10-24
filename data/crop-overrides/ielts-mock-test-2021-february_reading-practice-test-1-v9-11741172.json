@@ -1,0 +1,16 @@
+{
+  "p2g2": {
+    "clearImages": true,
+    "instruction": "Complete the table. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+    "body": "Protocol and Detail table. Rule 1st - Protocol: have sufficient training and experience. Detail: Progression not permitted unless there is [[17]]. Rule 2nd - Protocol: [[18]] must be followed. Detail: must have sufficient [[19]]. Rule 3rd - Protocol: must use a [[20]]. Detail: must keep [[21]]. Rule 4th - Protocol: must have at least three independent lights. Detail: Dives do not go ahead if [[22]]. Rule 5th - Protocol: must obey rule of thirds. Detail: each system usually kept separate, sometimes breathed [[23]]."
+  },
+  "p3g2": {
+    "_keepImage": true,
+    "_reason": "Flow chart content is missing from the source crop (only the instruction and blank answer lines 32-35 are present); cannot transcribe without inventing."
+  },
+  "_answers": {
+    "9": "A,C,D",
+    "10": "A,C,D",
+    "11": "A,C,D"
+  }
+}

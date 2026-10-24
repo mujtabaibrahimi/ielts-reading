@@ -1,0 +1,16 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Look at the six visitor attractions in southern England, A-F, in the text above. For which visitor attraction are the following statements true? Write the correct letter A-F. NB You may use any letter more than once.",
+    "optionBank": {"title": "Visitor Attractions", "options": ["A", "B", "C", "D", "E", "F"], "labels": []},
+    "questions": {
+      "1": {"prompt": "Visitors can look at animals from another part of the world.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "2": {"prompt": "People can hold a business conference in this place.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "3": {"prompt": "Visitors can find out what toys were used in the last century.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "4": {"prompt": "Activities are available all year round here.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "5": {"prompt": "You can buy light meals here.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "6": {"prompt": "Visitors can see how food was prepared in the past.", "options": ["A", "B", "C", "D", "E", "F"]},
+      "7": {"prompt": "You can visit modern imitations of old buildings here.", "options": ["A", "B", "C", "D", "E", "F"]}
+    }
+  }
+}

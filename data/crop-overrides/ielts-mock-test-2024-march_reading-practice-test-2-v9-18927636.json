@@ -1,0 +1,138 @@
+{
+  "p1g1": {
+    "clearImages": true,
+    "instruction": "Reading Passage has eight paragraphs A-H. Which paragraph contains the following information? Write the correct letter, A-H. NB You may use any letter more than once.",
+    "optionBank": {
+      "title": "Paragraphs",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "labels": []
+    },
+    "questions": {
+      "1": {
+        "prompt": "the methods some companies use to try to keep their most creative employees",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "2": {
+        "prompt": "a new way of getting help with your personal difficulties",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "3": {
+        "prompt": "how much investment goes into safeguarding the ideas of individuals",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "4": {
+        "prompt": "two examples of companies which have succeeded through being innovative",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "5": {
+        "prompt": "how some innovators manage to avoid spending large sums of money on testing out their ideas",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "6": {
+        "prompt": "a commonly held opinion about product designers that needs to be proved wrong",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "7": {
+        "prompt": "the target of one large company that has changed its business focus",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      }
+    }
+  },
+  "p3g1": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the Reading Passage for each answer. Write your answers in boxes 28-33 on your answer sheet.",
+    "body": "Guide to Making Water Filters. Step one: combination of [[28]] and organic material, with sufficient [[29]] to create a thick mixture sun dried. Step two: pack [[30]] around the cylinders place them in [[31]] which is as burning fuel for firing (maximum temperature: [[32]]) filter being baked in under [[33]] minutes.",
+    "questions": {
+      "28": {
+        "options": null
+      },
+      "29": {
+        "options": null
+      },
+      "30": {
+        "options": null
+      },
+      "31": {
+        "options": null
+      },
+      "32": {
+        "options": null
+      },
+      "33": {
+        "options": null
+      }
+    }
+  }
+}

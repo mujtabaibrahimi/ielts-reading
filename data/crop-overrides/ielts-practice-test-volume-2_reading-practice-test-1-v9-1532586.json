@@ -1,0 +1,35 @@
+{
+  "p3g3": {
+    "clearImages": true,
+    "instruction": "Complete the flow chart below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-39.",
+    "body": "The Evolution of language (earlier in time on the left, later in time on the right). Stage 1: [[36]]. Stage 2: [[37]]. Stage 2 branches into three: (a) [[38]], which leads to Mongolian, Japanese and others; (b) Proto-Indo-European, which leads to Latin, Sanskrit, English, Russian and others; (c) Dravidian, which leads to [[39]] languages."
+  },
+  "p3g4": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D.",
+    "questions": {
+      "40": {
+        "prompt": "The author thinks the subject is",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "complicated.",
+          "controversial.",
+          "interesting.",
+          "fascinating."
+        ]
+      }
+    }
+  }
+}

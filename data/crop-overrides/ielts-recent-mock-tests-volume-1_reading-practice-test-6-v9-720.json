@@ -1,0 +1,62 @@
+{
+  "p2g2": {
+    "_keepImage": true,
+    "_reason": "Diagram is missing from the source crop (only the instruction and blank answer lines 18-21 are present); cannot transcribe without inventing."
+  },
+  "p2g4": {
+    "newGroup": {
+      "part": 2,
+      "questionNumbers": [
+        26
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 26 on your answer sheet.",
+    "questions": {
+      "26": {
+        "prompt": "Why is Mrs. Carlill's case often cited in present-day court trials?",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "It proved the untrustworthiness of advertisements.",
+          "It established the validity of one-sided contract.",
+          "It explained the nature of contract.",
+          "It defended the rights of consumers."
+        ]
+      }
+    }
+  },
+  "p3g3": {
+    "newGroup": {
+      "part": 3,
+      "questionNumbers": [
+        40
+      ],
+      "type": "multiple-choice"
+    },
+    "type": "multiple-choice",
+    "instruction": "Choose the correct letter, A, B, C or D. Write your answer in box 40 on your answer sheet.",
+    "questions": {
+      "40": {
+        "prompt": "The writer believes using self-assessment tools can",
+        "options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "optionLabels": [
+          "help to develop one's personality.",
+          "help to understand colleagues' behaviour.",
+          "improve one's relationship with the employer.",
+          "directly resolve conflicts."
+        ]
+      }
+    }
+  }
+}

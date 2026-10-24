@@ -1,222 +1,1361 @@
 {
   "id": "ielts-general-training-volume-8_reading-practice-test-1-v9-407932",
   "type": "general",
-  "source": "ielts-general-training-volume-8 reading-practice-test-1-v9-407932",
+  "title": "IELTS General Training Volume 8 - Reading Test 1",
+  "collection": "IELTS General Training Volume 8",
+  "testNumber": 1,
+  "year": 0,
+  "month": 0,
+  "volume": 8,
+  "source": "ieltsonlinetests.com",
   "filename": "ielts-general-training-volume-8_reading-practice-test-1-v9-407932.pdf",
-  "total_questions": 7,
+  "totalQuestions": 40,
+  "answeredCount": 40,
+  "status": "complete",
+  "durationSeconds": 3600,
   "parts": [
     {
       "partNumber": 1,
-      "title": "",
+      "title": "Reading Passage 1",
       "questionRange": [
         1,
-        7
+        13
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 1",
-        "tables": [
+        "heading": "DAILY WORK RECORD",
+        "paragraphs": [
           {
-            "page": 2,
-            "rows": [
-              [
-                "DAY",
-                "DATE",
-                "START",
-                "FINISH",
-                "(LESS)BREAK",
-                "TOTAL"
-              ],
-              [
-                "MONDAY",
-                "8/1/2011",
-                "9:00",
-                "17:15",
-                ":45",
-                "7:30"
-              ],
-              [
-                "TUESDAY",
-                "9/1/2011",
-                "8:30",
-                "17:00",
-                ":30",
-                "8:00"
-              ],
-              [
-                "WEDNESDAY",
-                "10/1/2011",
-                "8:45",
-                "17:30",
-                ":15",
-                "8:30"
-              ],
-              [
-                "THURSDAY",
-                "11/1/2011",
-                "9:15",
-                "17:45",
-                "1:00",
-                "7:30"
-              ],
-              [
-                "FRIDAY",
-                "12/1/2011",
-                "9:00",
-                "17:00",
-                ":30",
-                "7:30"
-              ]
-            ],
-            "header": [
-              "DAY",
-              "DATE",
-              "START",
-              "FINISH",
-              "(LESS)BREAK",
-              "TOTAL"
-            ]
+            "label": null,
+            "text": "Read the text below and answer Questions 1-7."
           },
           {
-            "page": 3,
-            "rows": [
-              [
-                "SATURDAY",
-                "13/1/2011",
-                ":",
-                ":",
-                ":",
-                ":"
-              ],
-              [
-                "SUNDAY",
-                "14/1/2011",
-                ":",
-                ":",
-                ":",
-                ":"
-              ],
-              [
-                "",
-                "",
-                "",
-                "",
-                "TOTAL",
-                "39:00"
-              ]
-            ],
-            "header": [
-              "SATURDAY",
-              "13/1/2011",
-              ":",
-              ":",
-              ":",
-              ":"
-            ]
+            "label": null,
+            "text": "A1 Office Temps Pty Ltd"
+          },
+          {
+            "label": null,
+            "text": "Temporary Office Staff-no job too small"
+          },
+          {
+            "label": null,
+            "text": "Level 4 356 Elizabeth Elswick"
+          },
+          {
+            "label": null,
+            "text": "Telephone 9390 5647 Facsimile 9390 7733"
+          },
+          {
+            "label": null,
+            "text": "DAILY WORK RECORD"
+          },
+          {
+            "label": null,
+            "text": "Company details"
+          },
+          {
+            "label": null,
+            "text": "Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill"
+          },
+          {
+            "label": null,
+            "text": "Employee details"
+          },
+          {
+            "label": null,
+            "text": "Name (BLOCK CAPITALS PLEASE): AMANDA LEE"
+          },
+          {
+            "label": null,
+            "text": "Week Ending: Sunday 14/1/2011"
+          },
+          {
+            "label": null,
+            "text": "DAY\nDATE\nSTART\nFINISH\n(LESS)BREAK\nTOTAL"
+          },
+          {
+            "label": null,
+            "text": "MONDAY\n8/1/2011\n9:00\n17:15\n:45\n7:30"
+          },
+          {
+            "label": null,
+            "text": "TUESDAY\n9/1/2011\n8:30\n17:00\n:30\n8:00"
+          },
+          {
+            "label": null,
+            "text": "WEDNESDAY\n10/1/2011\n8:45\n17:30\n:15\n8:30"
+          },
+          {
+            "label": null,
+            "text": "THURSDAY\n11/1/2011\n9:15\n17:45\n1:00\n7:30"
+          },
+          {
+            "label": null,
+            "text": "FRIDAY\n12/1/2011\n9:00\n17:00\n:30\n7:30"
+          },
+          {
+            "label": null,
+            "text": "SATURDAY\n13/1/2011\n:\n:\n:\n:"
+          },
+          {
+            "label": null,
+            "text": "SUNDAY\n14/1/2011\n:\n:\n:\n:"
+          },
+          {
+            "label": null,
+            "text": "TOTAL\n39:00"
+          },
+          {
+            "label": null,
+            "text": "Client Signature:"
+          },
+          {
+            "label": null,
+            "text": "Please sign and also print name (BLOCK CAPITALS PLEASE)"
+          },
+          {
+            "label": null,
+            "text": "I certify that the above hours, including any overtime, are a true and correct\nrecord of hours worked."
+          },
+          {
+            "label": null,
+            "text": "Assignment details:"
+          },
+          {
+            "label": null,
+            "text": "Continuing"
+          },
+          {
+            "label": null,
+            "text": "A1 teamp signature"
+          },
+          {
+            "label": null,
+            "text": "I certify that the above hours, including any overtime, are a true and correct\nrecord of hours worked."
+          },
+          {
+            "label": null,
+            "text": "INSTRUCTIONS"
+          },
+          {
+            "label": null,
+            "text": "Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the\nmorning = 9:15 am). If you do not use this format your hours may not be\nentered properly and your pay may be delayed. Work to the nearest 15\nminutes.\nSign the completed Daily Work Record as a correct record of your hours\nworked.\nWhen you have completed the Work Record, ask your supervisor to check and\nsign. Your pay will not be processed until this ss done.\nMake a copy of the Dally Work Record for your own records.\nFax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday.\nTO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on\nthe enclosed Banking Form"
+          },
+          {
+            "label": null,
+            "text": "DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name.\nA completed Employment Declaration Form including your Tax Number, to\nensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the\nfinancial year to your home address."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 8-13"
+          },
+          {
+            "label": null,
+            "text": "GENERAL INFORMATION FOR STUDENTS"
+          },
+          {
+            "label": null,
+            "text": "STAMPS: These are sold at the Union Newsagency at both Broadway (Level\n3A) and Markets (A Block) Campuses."
+          },
+          {
+            "label": null,
+            "text": "STREET DIRECTORY: A copy can be found at the Students' Association Oﬃce,\nLevel 3A, Broadway."
+          },
+          {
+            "label": null,
+            "text": "LECTURE TIMETABLES: Lecture timetables can be obtained online, but if you\nhave any timetable clashes, go to the Student Centre in your discipline or email\nthe area Academic Advisor."
+          },
+          {
+            "label": null,
+            "text": "STUDENT ID CARDS: This card allows you to borrow library books and table\ntennis equipment, get discounts at local stores, borrow sports equipment, and\nget cinema concessions at the smaller movie houses. It also acts as proof of\nidentity where required. You will be given a card when you enrol. A lost card\ncan be replaced by the Student Information Office, Level 4, Broadway."
+          },
+          {
+            "label": null,
+            "text": "TRAVEL CONCESSION CARDS:  These get you half price on public transport\nand they are issued upon enrolment. If you lose it or you need a replacement,\nthen contact Student Information on Level 4-\nMOVIE CONCESSION PASS: To get a discount on movie tickets at major cinemas\nyou need a special card, available from the Union Office at Broadway."
+          },
+          {
+            "label": null,
+            "text": "LIBRARY BOOK RETURN: In front of the Security Oﬃce at the Broadway\nCampus there is a library book return box. Overdue books, however, cannot be\nleft there and must be returned directly to the library."
+          },
+          {
+            "label": null,
+            "text": "TRAVEL: The International Student Identity Card gets you discounts at\nmuseums, theatres, cinemas and retail outlets all over the world. It costs $8\n(plus you need a passport-sized colour photograph of yourself) and is only\navailable to full-time students. It is available at the Students' Association Office,\nLevel 3A, Broadway."
           }
         ],
+        "text": "Read the text below and answer Questions 1-7.\n\nA1 Office Temps Pty Ltd\n\nTemporary Office Staff-no job too small\n\nLevel 4 356 Elizabeth Elswick\n\nTelephone 9390 5647 Facsimile 9390 7733\n\nDAILY WORK RECORD\n\nCompany details\n\nReporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill\n\nEmployee details\n\nName (BLOCK CAPITALS PLEASE): AMANDA LEE\n\nWeek Ending: Sunday 14/1/2011\n\nDAY\nDATE\nSTART\nFINISH\n(LESS)BREAK\nTOTAL\n\nMONDAY\n8/1/2011\n9:00\n17:15\n:45\n7:30\n\nTUESDAY\n9/1/2011\n8:30\n17:00\n:30\n8:00\n\nWEDNESDAY\n10/1/2011\n8:45\n17:30\n:15\n8:30\n\nTHURSDAY\n11/1/2011\n9:15\n17:45\n1:00\n7:30\n\nFRIDAY\n12/1/2011\n9:00\n17:00\n:30\n7:30\n\nSATURDAY\n13/1/2011\n:\n:\n:\n:\n\nSUNDAY\n14/1/2011\n:\n:\n:\n:\n\nTOTAL\n39:00\n\nClient Signature:\n\nPlease sign and also print name (BLOCK CAPITALS PLEASE)\n\nI certify that the above hours, including any overtime, are a true and correct\nrecord of hours worked.\n\nAssignment details:\n\nContinuing\n\nA1 teamp signature\n\nI certify that the above hours, including any overtime, are a true and correct\nrecord of hours worked.\n\nINSTRUCTIONS\n\nComplete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the\nmorning = 9:15 am). If you do not use this format your hours may not be\nentered properly and your pay may be delayed. Work to the nearest 15\nminutes.\nSign the completed Daily Work Record as a correct record of your hours\nworked.\nWhen you have completed the Work Record, ask your supervisor to check and\nsign. Your pay will not be processed until this ss done.\nMake a copy of the Dally Work Record for your own records.\nFax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday.\nTO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on\nthe enclosed Banking Form\n\nDETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name.\nA completed Employment Declaration Form including your Tax Number, to\nensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the\nfinancial year to your home address.\n\nRead the text below and answer Questions 8-13\n\nGENERAL INFORMATION FOR STUDENTS\n\nSTAMPS: These are sold at the Union Newsagency at both Broadway (Level\n3A) and Markets (A Block) Campuses.\n\nSTREET DIRECTORY: A copy can be found at the Students' Association Oﬃce,\nLevel 3A, Broadway.\n\nLECTURE TIMETABLES: Lecture timetables can be obtained online, but if you\nhave any timetable clashes, go to the Student Centre in your discipline or email\nthe area Academic Advisor.\n\nSTUDENT ID CARDS: This card allows you to borrow library books and table\ntennis equipment, get discounts at local stores, borrow sports equipment, and\nget cinema concessions at the smaller movie houses. It also acts as proof of\nidentity where required. You will be given a card when you enrol. A lost card\ncan be replaced by the Student Information Office, Level 4, Broadway.\n\nTRAVEL CONCESSION CARDS:  These get you half price on public transport\nand they are issued upon enrolment. If you lose it or you need a replacement,\nthen contact Student Information on Level 4-\nMOVIE CONCESSION PASS: To get a discount on movie tickets at major cinemas\nyou need a special card, available from the Union Office at Broadway.\n\nLIBRARY BOOK RETURN: In front of the Security Oﬃce at the Broadway\nCampus there is a library book return box. Overdue books, however, cannot be\nleft there and must be returned directly to the library.\n\nTRAVEL: The International Student Identity Card gets you discounts at\nmuseums, theatres, cinemas and retail outlets all over the world. It costs $8\n(plus you need a passport-sized colour photograph of yourself) and is only\navailable to full-time students. It is available at the Students' Association Office,\nLevel 3A, Broadway.",
         "images": [],
-        "sections": []
+        "tables": []
       },
+      "questionGroups": [
+        {
+          "id": "p1g1",
+          "type": "sentence-completion",
+          "instruction": "Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
+          "body": "[[1]] Which day is the longest working day? [[2]] At what stage is the assignment? [[3]] What format must be used to record the hours worked? [[4]] Who must verify and sign the work record before payment is processed? [[5]] On which number must the work record be sent? [[6]] What must be written on the Employment Declaration form? [[7]]",
+          "range": [
+            1,
+            7
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "p1g2",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A, B or C. Write the correct letter in boxes 8-13 on your answer sheet.",
+          "body": null,
+          "range": [
+            8,
+            13
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
       "questions": [
         {
           "number": 1,
           "type": "sentence-completion",
-          "prompt": "Which day is the longest working day?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "employee"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "employee",
+          "trap": null
         },
         {
           "number": 2,
           "type": "sentence-completion",
-          "prompt": "At what stage is the assignment?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "Wednesday"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Wednesday",
+          "trap": null
         },
         {
           "number": 3,
           "type": "sentence-completion",
-          "prompt": "What format must be used to record the hours worked?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "continuing"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "continuing",
+          "trap": null
         },
         {
           "number": 4,
           "type": "sentence-completion",
-          "prompt": "Who must verify and sign the work record before payment is processed?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "hh:mm"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "hh:mm",
+          "trap": null
         },
         {
           "number": 5,
           "type": "sentence-completion",
-          "prompt": "On which number must the work record be sent?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "supervisor"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "supervisor",
+          "trap": null
         },
         {
           "number": 6,
           "type": "sentence-completion",
-          "prompt": "What must be written on the Employment Declaration form?",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": ""
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "93907733",
+          "trap": null
         },
         {
           "number": 7,
           "type": "sentence-completion",
-          "prompt": "Choose the correct letter, A, B or C. Write the correct letter in boxes 8-13 on your answer sheet.",
-          "instruction": "Read the text below and answer Questions 1-7. DAILY WORK RECORD A1 Office Temps Pty Ltd Temporary Office Staff—no job too small Level 4 356 Elizabeth Elswick Telephone 9390 5647 Facsimile 9390 7733 DAILY WORK RECORD Company details Reporting to: Kate Shea. Office Removalist Pty Ltd, 21 West street, Box Hill Employee details Name (BLOCK CAPITALS PLEASE): AMANDA LEE Week Ending: Sunday 14/1/2011 DAY DATE START FINISH (LESS)BREAK TOTAL MONDAY 8/1/2011 9:00 17:15 :45 7:30 TUESDAY 9/1/2011 8:30 17:00 :30 8:00 WEDNESDAY 10/1/2011 8:45 17:30 :15 8:30 THURSDAY 11/1/2011 9:15 17:45 1:00 7:30 FRIDAY 12/1/2011 9:00 17:00 :30 7:30 Complete this Dally Work Record using the format hh:mm (nine-ﬁfteen in the morning = 9:15 am). If you do not use this format your hours may not be entered properly and your pay may be delayed. Work to the nearest 15 minutes. Sign the completed Daily Work Record as a correct record of your hours worked. When you have completed the Work Record, ask your supervisor to check and sign. Your pay will not be processed until this ss done. Make a copy of the Dally Work Record for your own records. Fax the Work Record back to A1 Pty Ltd., on 9390 7733, by 10:00 am Monday. TO PROCESS YOUR PAY WE REQUIRE : Your bank details to be completed on the enclosed Banking Form DETAILS REQUIRED ARE: Bank Code (BSB), Account Number, Account Name. A completed Employment Declaration Form including your Tax Number, to ensure you are taxed correctly. Tax Certiﬁcates are sent out at the end of the financial year to your home address. Read the text below and answer Questions 8-13 Answer the following questions. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER  from the text for each answer. Write your answers in boxes 1-7 on your answer sheet. Who is Amanda Lee?",
-          "answer": "Tax number"
+          "groupId": "p1g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 2,
+          "maxSelect": null,
+          "answer": "Tax number",
+          "trap": null
+        },
+        {
+          "number": 8,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Students who are having problems with their timetable",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "should first talk to their lecturer at the Student Centre",
+            "can send an email to the Academic Advisor",
+            "should email a Student Advisor."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 9,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Lost student identification cards are reissued",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "on proof of identity.",
+            "at the Students' Association Office.",
+            "at the Office on Level 4, Broadway."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 10,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The concession card allows students",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "to get discounted bus tickets.",
+            "to travel half price when using public transit.",
+            "to get half price cinema tickets."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 11,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Students can see a movie at a discounted rate",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "at the bigger cinemas on a concession pass",
+            "using a special card from the University",
+            "if there are any available at the Union Office."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 12,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "Overdue library books must be returned",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "at the Security Office",
+            "in the library return box",
+            "only to the library."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 13,
+          "type": "multiple-choice",
+          "groupId": "p1g2",
+          "prompt": "The International Student ID card",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C"
+          ],
+          "optionLabels": [
+            "gives students discount prices at shops",
+            "is available to part-time students for an $8 fee",
+            "can be used for discounted international travel. READING PASSAGE 2 Read the following passage and answer Questions 14-22. UNIVERSITY of HOUSTON INFORMATION FOR STUDENTS AT THE LANGUAGE AND CULTURE CENTRE STUDENT INFORMATION Campus Activities Language and Culture Centre (LCC) students can enjoy many sports at the university. There are tennis and handball courts, gymnasiums, and indoor and outdoor swimming pools. At the University Centre (UC), you can play pool or table tennis. LCC student teams compete in university intramural sports. The LCC has one of the best soccer teams on campus! Please sign up and play. You can also see films and plays, attend lectures, and go to concerts on campus. There are many international clubs where you can meet other students from your home country. Emergencies Weather Emergency If the University of Houston closes because of bad weather conditions, the LCC will also close. In the event of an emergency, all LCC students are advised to listen to major radio or television stations for announcements regarding cancellation of classes or the closing of the campus. Withdrawing from the LCC You may withdraw from the LCC if you have a medical emergency, a family emergency, or if you wish to return to your home country. If you withdraw for one of these reasons, you may receive a partial refund of your tuition. The LCC cannot refund your application fee, contract fee, insurance fee, or late registration fee. A tuition refund must be approved by the director and will be given according to the following schedule: Time of Withdrawal Registration week First week of classes Second week of classes Third week and after Amount of Refund 90% 75% 50% No refund Health Care If you are ill, you can see a doctor at the University Health Centre (UHC). Medicines are available through the pharmacy. You may use the Health Centre as often as you need to. The UHC is located behind the Student Service Centre. For some health problems, you may need to see an outside doctor. The UHC can help you find one. There are many clinics in Houston for minor emergencies. Some of them are open 24 hours a day. For major emergencies there are good hospitals in Houston. All LCC students must have health insurance. You must buy health insurance through the LCC unless you have proof of another health insurance plan or financial responsibility for at least $50,000. LCC POLICIES Attendance and Academic Progress The best way to learn English is to come to class regularly and to do your homework. If you miss several days of classes, for any reason, you cannot keep up with the other students. The Language and Culture Centre is a serious academic program in intensive English and wants all of its students to succeed. Therefore, students are expected to attend all classes regularly, do all classroom assignments, meet all class requirements, and make academic progress. Students who do not meet these standards may be placed on academic probation. Students placed on academic probation will meet with their teacher(s) and with either or both the Associate Director and International Student Advisor. Students will be informed in writing of the terms and length of their probation. Students who have 30 hours of absences are in danger of being placed on academic probation. Students failing to meet the terms of their probation will be terminated from the LCC for the remainder of the semester. This will also likely result in loss of student status with the US Immigration and Naturalisation Service. Students who have 50 hours of absences will not receive a Certificate of Successful Completion and will be terminated from the program. If a student is absent for 10 consecutive days with no explanation, the student will be terminated automatically from the program. Read the text below and answer Questions 23-27 SJH MAINTENANCE POLICY The purpose of this policy is to outline the duties and responsibilities of janitorial staff in the maintenance of workplace amenities, facilities and grounds in order to meet the health, safety, welfare and hygiene needs of staff and students at and visitors to SJH Secondary School. General Cleanliness Classrooms are to be kept clean and tidy at all times. On each school day after school hours, floors are swept and mopped, or vacuumed if carpeted. In the event of any spills, floor surfaces are never left wet to prevent injuries due to slipping. Furniture is dusted and polished, but equipment, such as computer screens and overhead projectors, is wiped with appropriate agents to prevent damage. Keyboards, telephones and desk tops are wiped down with special solutions to keep these surface areas sanitised. Bathrooms are serviced and cleaned mid-morning, mid-day and early afternoon, and supplies restocked as necessary. Disinfectants are used on floors and toilets as well as wastebaskets. Dispensers are refilled with toilet paper, liquid soap and paper towels. General repairs Janitors take care of minor repairs in the school. These include fixing school and office furniture, repairing clogged drains and toilets, replacing tight bulbs and tubes; and troubleshooting. It is the responsibility of the caretaker to ensure classroom equipment, such as ceiling mounted projectors, is in good working order. Managers are to be notified in a timely manner of any major repairs that need to be undertaken. School Grounds Caretakers are responsible for the upkeep of the school grounds. This includes cutting the grass, trimming the shrubs and looking after the garden beds as welt as removing snow from the walkways and parking areas in winter. Gutters and drains are cleaned of debris regularly. Tree branches that obstruct or create hazardous situations take priority. Playground equipment is checked on a regular basis to make sure it is safe to use. Waste Materials Appropriately identified waste containers need to be available at locations where particular waste is generated. Two paper recycling bins and a secure waste bin service the high traffic area in the photocopying room. Removal of the former waste is carried out as necessary. Confidential waste Is collected by Poison Security on notification, usually weekly. Four bins are also strategically placed on school grounds - two for general waste and the other two for recyclable materials, namely cans and bottles, and paper. These are checked on a daily basis and emptied accordingly."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
         }
       ]
     },
     {
       "partNumber": 2,
-      "title": "",
+      "title": "Reading Passage 2",
       "questionRange": [
         14,
-        22
+        27
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "READING PASSAGE 2",
-        "tables": [],
+        "heading": "AT THE LANGUAGE AND CULTURE CENTRE",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the following passage and answer Questions 14-22."
+          },
+          {
+            "label": null,
+            "text": "UNIVERSITY of HOUSTON INFORMATION\nFOR STUDENTS"
+          },
+          {
+            "label": null,
+            "text": "STUDENT INFORMATION Campus Activities"
+          },
+          {
+            "label": null,
+            "text": "Language and Culture Centre (LCC) students can enjoy many sports at the\nuniversity. There are tennis and handball courts, gymnasiums, and indoor and\noutdoor swimming pools. At the University Centre (UC), you can play pool or\ntable tennis. LCC student teams compete in university intramural sports. The\nLCC has one of the best soccer teams on campus! Please sign up and play."
+          },
+          {
+            "label": null,
+            "text": "You can also see films and plays, attend lectures, and go to concerts on\ncampus. There are many international clubs where you can meet other\nstudents from your home country."
+          },
+          {
+            "label": null,
+            "text": "Emergencies"
+          },
+          {
+            "label": null,
+            "text": "Weather Emergency"
+          },
+          {
+            "label": null,
+            "text": "If the University of Houston closes because of bad weather conditions, the LCC\nwill also close. In the event of an emergency, all LCC students are advised to\nlisten to major radio or television stations for announcements regarding\ncancellation of classes or the closing of the campus."
+          },
+          {
+            "label": null,
+            "text": "Withdrawing from the LCC"
+          },
+          {
+            "label": null,
+            "text": "You may withdraw from the LCC if you have a medical emergency, a family\nemergency, or if you wish to return to your home country. If you withdraw for\none of these reasons, you may receive a partial refund of your tuition. The LCC\ncannot refund your application fee, contract fee, insurance fee, or late\nregistration fee. A tuition refund must be approved by the director and will be\ngiven according to the following schedule:"
+          },
+          {
+            "label": null,
+            "text": "Time of Withdrawal\nRegistration week"
+          },
+          {
+            "label": null,
+            "text": "First week of classes"
+          },
+          {
+            "label": null,
+            "text": "Second week of classes"
+          },
+          {
+            "label": null,
+            "text": "Third week and after"
+          },
+          {
+            "label": null,
+            "text": "Amount of Refund\n90%"
+          },
+          {
+            "label": null,
+            "text": "75%"
+          },
+          {
+            "label": null,
+            "text": "50%"
+          },
+          {
+            "label": null,
+            "text": "No refund"
+          },
+          {
+            "label": null,
+            "text": "Health Care"
+          },
+          {
+            "label": null,
+            "text": "If you are ill, you can see a doctor at the University Health Centre (UHC).\nMedicines are available through the pharmacy. You may use the Health Centre\nas often as you need to. The UHC is located behind the Student Service Centre."
+          },
+          {
+            "label": null,
+            "text": "For some health problems, you may need to see an outside doctor. The UHC\ncan help you find one. There are many clinics in Houston for minor\nemergencies. Some of them are open 24 hours a day."
+          },
+          {
+            "label": null,
+            "text": "For major emergencies there are good hospitals in Houston."
+          },
+          {
+            "label": null,
+            "text": "All LCC students must have health insurance. You must buy health insurance\nthrough the LCC unless you have proof of another health insurance plan or\nfinancial responsibility for at least $50,000."
+          },
+          {
+            "label": null,
+            "text": "LCC POLICIES"
+          },
+          {
+            "label": null,
+            "text": "Attendance and Academic Progress"
+          },
+          {
+            "label": null,
+            "text": "The best way to learn English is to come to class regularly and to do your\nhomework. If you miss several days of classes, for any reason, you cannot keep\nup with the other students. The Language and Culture Centre is a serious\nacademic program in intensive English and wants all of its students to succeed.\nTherefore, students are expected to attend all classes regularly, do all\nclassroom assignments, meet all class requirements, and make academic\nprogress. Students who do not meet these standards may be placed on\nacademic probation. Students placed on academic probation will meet with\ntheir teacher(s) and with either or both the Associate Director and International\nStudent Advisor. Students will be informed in writing of the terms and length of\ntheir probation."
+          },
+          {
+            "label": null,
+            "text": "Students who have 30 hours of absences are in danger of being placed on\nacademic probation. Students failing to meet the terms of their probation will\nbe terminated from the LCC for the remainder of the semester. This will also\nlikely result in loss of student status with the US Immigration and Naturalisation\nService."
+          },
+          {
+            "label": null,
+            "text": "Students who have 50 hours of absences will not receive a Certificate of\nSuccessful Completion and will be terminated from the program."
+          },
+          {
+            "label": null,
+            "text": "If a student is absent for 10 consecutive days with no explanation, the student\nwill be terminated automatically from the program."
+          },
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 23-27"
+          },
+          {
+            "label": null,
+            "text": "SJH MAINTENANCE POLICY"
+          },
+          {
+            "label": null,
+            "text": "The purpose of this policy is to outline the duties and responsibilities of\njanitorial staff in the maintenance of workplace amenities, facilities and\ngrounds in order to meet the health, safety, welfare and hygiene needs of staff\nand students at and visitors to SJH Secondary School."
+          },
+          {
+            "label": null,
+            "text": "General Cleanliness"
+          },
+          {
+            "label": null,
+            "text": "Classrooms are to be kept clean and tidy at all times. On each school day after\nschool hours, floors are swept and mopped, or vacuumed if carpeted. In the\nevent of any spills, floor surfaces are never left wet to prevent injuries due to\nslipping. Furniture is dusted and polished, but equipment, such as computer\nscreens and overhead projectors, is wiped with appropriate agents to prevent\ndamage. Keyboards, telephones and desk tops are wiped down with special\nsolutions to keep these surface areas sanitised."
+          },
+          {
+            "label": null,
+            "text": "Bathrooms are serviced and cleaned mid-morning, mid-day and early"
+          },
+          {
+            "label": null,
+            "text": "afternoon, and supplies restocked as necessary. Disinfectants are used on\nfloors and toilets as well as wastebaskets. Dispensers are refilled with toilet\npaper, liquid soap and paper towels."
+          },
+          {
+            "label": null,
+            "text": "General repairs"
+          },
+          {
+            "label": null,
+            "text": "Janitors take care of minor repairs in the school. These include fixing school and\noffice furniture, repairing clogged drains and toilets, replacing tight bulbs and\ntubes; and troubleshooting. It is the responsibility of the caretaker to ensure\nclassroom equipment, such as ceiling mounted projectors, is in good working\norder. Managers are to be notified in a timely manner of any major repairs that\nneed to be undertaken."
+          },
+          {
+            "label": null,
+            "text": "School Grounds"
+          },
+          {
+            "label": null,
+            "text": "Caretakers are responsible for the upkeep of the school grounds."
+          },
+          {
+            "label": null,
+            "text": "This includes cutting the grass, trimming the shrubs and looking after the\ngarden beds as welt as removing snow from the walkways and parking areas in\nwinter. Gutters and drains are cleaned of debris regularly. Tree branches that\nobstruct or create hazardous situations take priority. Playground equipment is\nchecked on a regular basis to make sure it is safe to use."
+          },
+          {
+            "label": null,
+            "text": "Waste Materials"
+          },
+          {
+            "label": null,
+            "text": "Appropriately identified waste containers need to be available at locations\nwhere particular waste is generated. Two paper recycling bins and a secure\nwaste bin service the high traffic area in the photocopying room. Removal of\nthe former waste is carried out as necessary. Confidential waste Is collected by\nPoison Security on notification, usually weekly. Four bins are also strategically\nplaced on school grounds - two for general waste and the other two for\nrecyclable materials, namely cans and bottles, and paper. These are checked\non a daily basis and emptied accordingly."
+          }
+        ],
+        "text": "Read the following passage and answer Questions 14-22.\n\nUNIVERSITY of HOUSTON INFORMATION\nFOR STUDENTS\n\nSTUDENT INFORMATION Campus Activities\n\nLanguage and Culture Centre (LCC) students can enjoy many sports at the\nuniversity. There are tennis and handball courts, gymnasiums, and indoor and\noutdoor swimming pools. At the University Centre (UC), you can play pool or\ntable tennis. LCC student teams compete in university intramural sports. The\nLCC has one of the best soccer teams on campus! Please sign up and play.\n\nYou can also see films and plays, attend lectures, and go to concerts on\ncampus. There are many international clubs where you can meet other\nstudents from your home country.\n\nEmergencies\n\nWeather Emergency\n\nIf the University of Houston closes because of bad weather conditions, the LCC\nwill also close. In the event of an emergency, all LCC students are advised to\nlisten to major radio or television stations for announcements regarding\ncancellation of classes or the closing of the campus.\n\nWithdrawing from the LCC\n\nYou may withdraw from the LCC if you have a medical emergency, a family\nemergency, or if you wish to return to your home country. If you withdraw for\none of these reasons, you may receive a partial refund of your tuition. The LCC\ncannot refund your application fee, contract fee, insurance fee, or late\nregistration fee. A tuition refund must be approved by the director and will be\ngiven according to the following schedule:\n\nTime of Withdrawal\nRegistration week\n\nFirst week of classes\n\nSecond week of classes\n\nThird week and after\n\nAmount of Refund\n90%\n\n75%\n\n50%\n\nNo refund\n\nHealth Care\n\nIf you are ill, you can see a doctor at the University Health Centre (UHC).\nMedicines are available through the pharmacy. You may use the Health Centre\nas often as you need to. The UHC is located behind the Student Service Centre.\n\nFor some health problems, you may need to see an outside doctor. The UHC\ncan help you find one. There are many clinics in Houston for minor\nemergencies. Some of them are open 24 hours a day.\n\nFor major emergencies there are good hospitals in Houston.\n\nAll LCC students must have health insurance. You must buy health insurance\nthrough the LCC unless you have proof of another health insurance plan or\nfinancial responsibility for at least $50,000.\n\nLCC POLICIES\n\nAttendance and Academic Progress\n\nThe best way to learn English is to come to class regularly and to do your\nhomework. If you miss several days of classes, for any reason, you cannot keep\nup with the other students. The Language and Culture Centre is a serious\nacademic program in intensive English and wants all of its students to succeed.\nTherefore, students are expected to attend all classes regularly, do all\nclassroom assignments, meet all class requirements, and make academic\nprogress. Students who do not meet these standards may be placed on\nacademic probation. Students placed on academic probation will meet with\ntheir teacher(s) and with either or both the Associate Director and International\nStudent Advisor. Students will be informed in writing of the terms and length of\ntheir probation.\n\nStudents who have 30 hours of absences are in danger of being placed on\nacademic probation. Students failing to meet the terms of their probation will\nbe terminated from the LCC for the remainder of the semester. This will also\nlikely result in loss of student status with the US Immigration and Naturalisation\nService.\n\nStudents who have 50 hours of absences will not receive a Certificate of\nSuccessful Completion and will be terminated from the program.\n\nIf a student is absent for 10 consecutive days with no explanation, the student\nwill be terminated automatically from the program.\n\nRead the text below and answer Questions 23-27\n\nSJH MAINTENANCE POLICY\n\nThe purpose of this policy is to outline the duties and responsibilities of\njanitorial staff in the maintenance of workplace amenities, facilities and\ngrounds in order to meet the health, safety, welfare and hygiene needs of staff\nand students at and visitors to SJH Secondary School.\n\nGeneral Cleanliness\n\nClassrooms are to be kept clean and tidy at all times. On each school day after\nschool hours, floors are swept and mopped, or vacuumed if carpeted. In the\nevent of any spills, floor surfaces are never left wet to prevent injuries due to\nslipping. Furniture is dusted and polished, but equipment, such as computer\nscreens and overhead projectors, is wiped with appropriate agents to prevent\ndamage. Keyboards, telephones and desk tops are wiped down with special\nsolutions to keep these surface areas sanitised.\n\nBathrooms are serviced and cleaned mid-morning, mid-day and early\n\nafternoon, and supplies restocked as necessary. Disinfectants are used on\nfloors and toilets as well as wastebaskets. Dispensers are refilled with toilet\npaper, liquid soap and paper towels.\n\nGeneral repairs\n\nJanitors take care of minor repairs in the school. These include fixing school and\noffice furniture, repairing clogged drains and toilets, replacing tight bulbs and\ntubes; and troubleshooting. It is the responsibility of the caretaker to ensure\nclassroom equipment, such as ceiling mounted projectors, is in good working\norder. Managers are to be notified in a timely manner of any major repairs that\nneed to be undertaken.\n\nSchool Grounds\n\nCaretakers are responsible for the upkeep of the school grounds.\n\nThis includes cutting the grass, trimming the shrubs and looking after the\ngarden beds as welt as removing snow from the walkways and parking areas in\nwinter. Gutters and drains are cleaned of debris regularly. Tree branches that\nobstruct or create hazardous situations take priority. Playground equipment is\nchecked on a regular basis to make sure it is safe to use.\n\nWaste Materials\n\nAppropriately identified waste containers need to be available at locations\nwhere particular waste is generated. Two paper recycling bins and a secure\nwaste bin service the high traffic area in the photocopying room. Removal of\nthe former waste is carried out as necessary. Confidential waste Is collected by\nPoison Security on notification, usually weekly. Four bins are also strategically\nplaced on school grounds - two for general waste and the other two for\nrecyclable materials, namely cans and bottles, and paper. These are checked\non a daily basis and emptied accordingly.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p2g1",
+          "type": "sentence-completion",
+          "instruction": "Complete the following sentences. Choose NO MORE THAN ONE WORDS from the text for each answer. Write your answers in boxes 14-17 on your answer sheet. LCC's in-house sporting teams are competitive but none excel like the",
+          "body": "[[14]] team. Three-quarters of a student's tuition fee can be refunded on compassionate grounds in the [[15]] teaching week. Health emergencies of a [[16]] nature are referred to a clinic. All students are responsible for their own [[17]] for the duration of their studies at LCC.",
+          "range": [
+            14,
+            17
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "p2g2",
+          "type": "diagram-label",
+          "instruction": "Complete the following flow charts. Choose the appropriate consequence from the list in the box for each action. Write the appropriate letter, A, B, C or D, in boxes 18-22 on your answer sheet. You may use any consequence more than once.",
+          "body": null,
+          "range": [
+            18,
+            22
+          ],
+          "optionBank": {
+            "title": "Consequences",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ],
+            "labels": [
+              "expelled from the program",
+              "may lose student status with US Immigration and Naturalisation Service",
+              "receives advice and counselling",
+              "may be put on academic probation"
+            ]
+          },
+          "images": [],
+          "questionNumbers": [
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "p2g3",
+          "type": "true-false-not-given",
+          "instruction": "Do the following statements agree with the information in the text? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN If there is no information on this",
+          "body": null,
+          "range": [
+            23,
+            27
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "team.",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "soccer",
+          "trap": null
+        },
+        {
+          "number": 15,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "first",
+          "trap": null
+        },
+        {
+          "number": 16,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "minor",
+          "trap": null
+        },
+        {
+          "number": 17,
+          "type": "sentence-completion",
+          "groupId": "p2g1",
+          "prompt": "",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": 1,
+          "maxSelect": null,
+          "answer": "attendance",
+          "trap": null
+        },
+        {
+          "number": 18,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Action: 'Student frequently fails to complete homework', first consequence",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 19,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Action: 'Student frequently fails to complete homework', second consequence",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 20,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Action: 'Student does not respond to written notification of probation', first consequence",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 21,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Action: 'Student does not respond to written notification of probation', second consequence",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 22,
+          "type": "diagram-label",
+          "groupId": "p2g2",
+          "prompt": "Action: 'Student is absent for 50 hours', consequence",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 23,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": "Care must be taken in terms of the type of cleaning\nproduct used on classroom equipment.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 24,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": "Dispensing receptacles in washrooms are topped up\nas necessary.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 25,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": "Janitorial staff are required to diagnose and fix minor\nproblems.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "TRUE",
+          "trap": null
+        },
+        {
+          "number": 26,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": "Outdoor play areas are not used in winter.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 27,
+          "type": "true-false-not-given",
+          "groupId": "p2g3",
+          "prompt": "Recycling bins are emptied on a weekly basis.",
+          "instruction": "",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "FALSE",
+          "trap": null
+        }
+      ]
     },
     {
       "partNumber": 3,
-      "title": "",
+      "title": "Reading Passage 3",
       "questionRange": [
         28,
         40
       ],
       "timeSuggestion": 20,
       "passage": {
-        "text": "",
-        "tables": [],
+        "heading": "EMPLOYMENT IN JAPAN",
+        "paragraphs": [
+          {
+            "label": null,
+            "text": "Read the text below and answer Questions 28-40."
+          },
+          {
+            "label": null,
+            "text": "A Every autumn, when recruitment of new graduates and school leavers\nbegins, major cities in Japan are flooded with students hunting for a job.\nWearing suits for the first time, they run from one interview to another. The\nseason is crucial for many students, as their whole life course can be\ndetermined during this period."
+          },
+          {
+            "label": null,
+            "text": "B In Japan, lifetime employment is commonly practised by large companies.\nWhile people working in small companies and those working for sub-\ncontractors do not in general enjoy the advantages conferred by the large\ncompanies, there is a general expectation that employees will in fact remain\nmore or less permanently in the same job."
+          },
+          {
+            "label": null,
+            "text": "C Unlike in many Western countries where companies employ people whose\nskills can be effective immediately, Japanese companies select applicants with\npotential who can be trained to become suitable employees. For this reason,\nrecruiting employees is an important exercise for companies, as they invest a\nlot of time and money in training new staff. This is basically true both for\nfactory workers and for professionals. Professionals who have studied subjects\nwhich are of immediate use in the workplace, such as industrial engineers, are\nvery often placed in factories and transferred from one section to another. By\ngaining experience in several different areas and by working in close contact\nwith workers, the engineers are believed, in the long run, to become more\neffective members of the company. Workers too feel more involved by working"
+          },
+          {
+            "label": null,
+            "text": "with professionals and by being allowed to voice their opinions. Loyalty is\nbelieved to be cultivated in this type of egalitarian working environment."
+          },
+          {
+            "label": null,
+            "text": "D Because of this system of training employees to be all-rounders, mobility\nbetween companies is low. Wages are set according to educational background\nor initial field of employment, with ordinary graduates being employed in\nadministration, engineers in engineering and design departments and so on.\nBoth promotions and wage increases tend to be tied to seniority, though some\ndifferences may arise later on as a result of ability and business performance.\nWages are paid monthly, and the net sum, after the deduction of tax, is usually\npaid directly into a bank account. As well as salary, a bonus is usually paid\ntwice a year. This is a custom that dates back to the time when employers\ngave special allowances so that employees could properly celebrate bon, a\nBuddhist festival held in mid-July in Tokyo, but on other dates in other regions.\nThe festival is held to appease the souls of ancestors. The second bonus is\ndistributed at New Year. Recently, bonuses have also been offered as a way of\nallowing workers a share in the profits that their hard work has gained."
+          },
+          {
+            "label": null,
+            "text": "E Many female graduates complain that they are not given equal training and\nequal opportunity in comparison to male graduates. Japanese companies\ngenerally believe that female employees will eventually leave to get married\nand have children. Many women themselves still believe that nothing should\nstand in the way of child-rearing. It is also true that the extended hours of work\noften do not allow women to continue their careers after marriage."
+          },
+          {
+            "label": null,
+            "text": "F Disappointed career-minded female graduates often opt to work for\ninternational companies. Since most male graduates prefer to join Japanese\nfirms with their guaranteed security, inlernalional firms are often keen to\nemploy female graduates as their potential tends to be greater than that of\nmale applicants."
+          },
+          {
+            "label": null,
+            "text": "G Some men, however, do leave their companies in spite of future prospects,\none reason being to take over the family business. The eldest sons in families\nthat own family companies or businesses such as stores, are normally expected\nto take over the business when their parents retire. It is therefore quite\ncommon to see a businessman, on succeeding to his parents' business,\ncompletely change his professional direction by becoming, for example, a\nshopkeeper."
+          },
+          {
+            "label": null,
+            "text": "H On the job, working relationships tend to be very close because of the long\nhours of work and years of service in common. Social life in fact is frequently\nbased on the workplace. Restaurants and nomi-ya, 'pubs', are always crowded\nat night with people enjoying an evening out with their colleagues. Many"
+          },
+          {
+            "label": null,
+            "text": "companies organise trips and sports days for their employees. Senior staff\noften play the role of mentor. This may mean becoming involved in the lives of\njunior staff in such areas as marriage and the children's education."
+          },
+          {
+            "label": null,
+            "text": "I The average age. of. retirement is between 55 and 60. For most Westerners,\nretirement may be an eagerly awaited time to undertake such things as travel\nand hobbies. Many Japanese, however, simply cannot get used to the freedom\nof retirement and they look for ways of constructively using their time. Many\nlook for new jobs, feeling that if they do not work they will be abandoned by\nsociety. This has recently led to the development in some municipalities of\nmunicipal job centres which advertise casual work such as cleaning and lawn\nmowing. Given that Japan is facing the problem of an increasingly ageing\nsociety, such activities may be vital in the future."
+          }
+        ],
+        "text": "Read the text below and answer Questions 28-40.\n\nA Every autumn, when recruitment of new graduates and school leavers\nbegins, major cities in Japan are flooded with students hunting for a job.\nWearing suits for the first time, they run from one interview to another. The\nseason is crucial for many students, as their whole life course can be\ndetermined during this period.\n\nB In Japan, lifetime employment is commonly practised by large companies.\nWhile people working in small companies and those working for sub-\ncontractors do not in general enjoy the advantages conferred by the large\ncompanies, there is a general expectation that employees will in fact remain\nmore or less permanently in the same job.\n\nC Unlike in many Western countries where companies employ people whose\nskills can be effective immediately, Japanese companies select applicants with\npotential who can be trained to become suitable employees. For this reason,\nrecruiting employees is an important exercise for companies, as they invest a\nlot of time and money in training new staff. This is basically true both for\nfactory workers and for professionals. Professionals who have studied subjects\nwhich are of immediate use in the workplace, such as industrial engineers, are\nvery often placed in factories and transferred from one section to another. By\ngaining experience in several different areas and by working in close contact\nwith workers, the engineers are believed, in the long run, to become more\neffective members of the company. Workers too feel more involved by working\n\nwith professionals and by being allowed to voice their opinions. Loyalty is\nbelieved to be cultivated in this type of egalitarian working environment.\n\nD Because of this system of training employees to be all-rounders, mobility\nbetween companies is low. Wages are set according to educational background\nor initial field of employment, with ordinary graduates being employed in\nadministration, engineers in engineering and design departments and so on.\nBoth promotions and wage increases tend to be tied to seniority, though some\ndifferences may arise later on as a result of ability and business performance.\nWages are paid monthly, and the net sum, after the deduction of tax, is usually\npaid directly into a bank account. As well as salary, a bonus is usually paid\ntwice a year. This is a custom that dates back to the time when employers\ngave special allowances so that employees could properly celebrate bon, a\nBuddhist festival held in mid-July in Tokyo, but on other dates in other regions.\nThe festival is held to appease the souls of ancestors. The second bonus is\ndistributed at New Year. Recently, bonuses have also been offered as a way of\nallowing workers a share in the profits that their hard work has gained.\n\nE Many female graduates complain that they are not given equal training and\nequal opportunity in comparison to male graduates. Japanese companies\ngenerally believe that female employees will eventually leave to get married\nand have children. Many women themselves still believe that nothing should\nstand in the way of child-rearing. It is also true that the extended hours of work\noften do not allow women to continue their careers after marriage.\n\nF Disappointed career-minded female graduates often opt to work for\ninternational companies. Since most male graduates prefer to join Japanese\nfirms with their guaranteed security, inlernalional firms are often keen to\nemploy female graduates as their potential tends to be greater than that of\nmale applicants.\n\nG Some men, however, do leave their companies in spite of future prospects,\none reason being to take over the family business. The eldest sons in families\nthat own family companies or businesses such as stores, are normally expected\nto take over the business when their parents retire. It is therefore quite\ncommon to see a businessman, on succeeding to his parents' business,\ncompletely change his professional direction by becoming, for example, a\nshopkeeper.\n\nH On the job, working relationships tend to be very close because of the long\nhours of work and years of service in common. Social life in fact is frequently\nbased on the workplace. Restaurants and nomi-ya, 'pubs', are always crowded\nat night with people enjoying an evening out with their colleagues. Many\n\ncompanies organise trips and sports days for their employees. Senior staff\noften play the role of mentor. This may mean becoming involved in the lives of\njunior staff in such areas as marriage and the children's education.\n\nI The average age. of. retirement is between 55 and 60. For most Westerners,\nretirement may be an eagerly awaited time to undertake such things as travel\nand hobbies. Many Japanese, however, simply cannot get used to the freedom\nof retirement and they look for ways of constructively using their time. Many\nlook for new jobs, feeling that if they do not work they will be abandoned by\nsociety. This has recently led to the development in some municipalities of\nmunicipal job centres which advertise casual work such as cleaning and lawn\nmowing. Given that Japan is facing the problem of an increasingly ageing\nsociety, such activities may be vital in the future.",
         "images": [],
-        "sections": []
+        "tables": []
       },
-      "questions": []
+      "questionGroups": [
+        {
+          "id": "p3g1",
+          "type": "matching-paragraph-information",
+          "instruction": "The reading passage has nine paragraphs, A-I. Which paragraph contains the following information? Write the appropriate letter, A-I, in boxes 28-35 on your answer sheet.",
+          "body": null,
+          "range": [
+            28,
+            35
+          ],
+          "optionBank": {
+            "title": "Paragraphs",
+            "options": [
+              "A",
+              "B",
+              "C",
+              "D",
+              "E",
+              "F",
+              "G",
+              "H",
+              "I"
+            ],
+            "labels": []
+          },
+          "images": [],
+          "questionNumbers": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "p3g2",
+          "type": "yes-no-not-given",
+          "instruction": "Do the following statements agree with the information in the reading passage?",
+          "body": null,
+          "range": [
+            36,
+            38
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "p3g3",
+          "type": "multiple-choice",
+          "instruction": "Choose the correct letter, A B, C, D Write the correct letter in boxes 39-40 on your answer sheet.",
+          "body": null,
+          "range": [
+            39,
+            40
+          ],
+          "optionBank": null,
+          "images": [],
+          "questionNumbers": [
+            39,
+            40
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "number": 28,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Women and Japanese companies",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "E",
+          "trap": null
+        },
+        {
+          "number": 29,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Why men sometimes resign from Japanese companies",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "G",
+          "trap": null
+        },
+        {
+          "number": 30,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Permanency in employment in Japan",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 31,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "Recruiting season: who, when and where?",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "A",
+          "trap": null
+        },
+        {
+          "number": 32,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The social aspect of work",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "H",
+          "trap": null
+        },
+        {
+          "number": 33,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The salary structure",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "D",
+          "trap": null
+        },
+        {
+          "number": 34,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "The recruitment strategy of foreign firms",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "F",
+          "trap": null
+        },
+        {
+          "number": 35,
+          "type": "matching-paragraph-information",
+          "groupId": "p3g1",
+          "prompt": "How new employees are used in a company",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "C",
+          "trap": null
+        },
+        {
+          "number": 36,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "Japanese companies nurture their workers in return\nfor loyalty.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "YES",
+          "trap": null
+        },
+        {
+          "number": 37,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "It is not common for Japanese businessmen to change\ntheir profession in their working life.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NO",
+          "trap": null
+        },
+        {
+          "number": 38,
+          "type": "yes-no-not-given",
+          "groupId": "p3g2",
+          "prompt": "The mentoring programs set up in Japanese\ncompanies are very successful.",
+          "instruction": "",
+          "options": [
+            "YES",
+            "NO",
+            "NOT GIVEN"
+          ],
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "NOT GIVEN",
+          "trap": null
+        },
+        {
+          "number": 39,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "Foreign companies are enthusiastic about employing Japanese women because they",
+          "instruction": "",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "optionLabels": [
+            "want to pursue a career.",
+            "show more potential than their male counterparts.",
+            "will only be short-term employees.",
+            "are not looking for security."
+          ],
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        },
+        {
+          "number": 40,
+          "type": "multiple-choice",
+          "groupId": "p3g3",
+          "prompt": "Japanese people continue to work after retirement because they",
+          "instruction": "",
+          "options": null,
+          "optionLabels": null,
+          "maxWords": null,
+          "maxSelect": null,
+          "answer": "B",
+          "trap": null
+        }
+      ]
     }
   ],
   "answers": {
-    "14": "soccer",
-    "19": "C",
-    "21": "B",
-    "28": "E",
-    "32": "H",
-    "33": "D",
-    "39": "B",
-    "40": "B",
     "1": "employee",
     "2": "Wednesday",
     "3": "continuing",
     "4": "hh:mm",
     "5": "supervisor",
+    "6": "93907733",
     "7": "Tax number",
     "8": "B",
     "9": "C",
@@ -224,24 +1363,32 @@
     "11": "A",
     "12": "C",
     "13": "A",
+    "14": "soccer",
     "15": "first",
     "16": "minor",
     "17": "attendance",
     "18": "D",
+    "19": "C",
     "20": "A",
+    "21": "B",
     "22": "A",
     "23": "TRUE",
     "24": "TRUE",
     "25": "TRUE",
     "26": "NOT GIVEN",
     "27": "FALSE",
+    "28": "E",
     "29": "G",
     "30": "B",
     "31": "A",
+    "32": "H",
+    "33": "D",
     "34": "F",
     "35": "C",
     "36": "YES",
     "37": "NO",
-    "38": "NOT GIVEN"
+    "38": "NOT GIVEN",
+    "39": "B",
+    "40": "B"
   }
 }
